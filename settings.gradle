@@ -1,0 +1,6 @@
+rootProject.name = 'World Laws'
+include 'Proxy'
+include 'USA'
+include 'Utilities'
+include 'Canada'
+
