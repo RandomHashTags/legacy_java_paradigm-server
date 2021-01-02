@@ -1,0 +1,395 @@
+<!doctype html>
+<html dir="ltr" lang="en-US"> 
+ <head> 
+  <meta charset="utf-8"> <!-- v19044 --> 
+  <title>TIDAL - Where We're Available – TIDAL</title> 
+  <meta name="csrf-param" content="authenticity_token"> 
+  <meta name="csrf-token" content="hc:meta:server:GL2ZGxzeBBJ9kfvfs9qtCo5wklEEzWjiNUylt8wavaKJyfRYmEiAoBbvOaen4nQYOQ68hG9yBE0t+ddeSb+jQA=="> 
+  <meta name="description" content="TIDAL is currently available in 56 countries with plans for further international expansion soon! As we continue to grow, we'll be able...">
+  <meta property="og:image" content="https://theme.zdassets.com/theme_assets/572742/a594394aa29e6a915d599a19568ae6bffc29b0e2.png"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:site_name" content="TIDAL"> 
+  <meta property="og:title" content="TIDAL - Where We're Available"> 
+  <meta property="og:description" content="TIDAL is currently available in 56 countries with plans for further international expansion soon! As we continue to grow, we'll be able to deliver more great content and TIDAL X events for our memb..."> 
+  <meta property="og:url" content="https://support.tidal.com/hc/en-us/articles/202453191-TIDAL-Where-We-re-Available"> 
+  <link rel="canonical" href="https://support.tidal.com/hc/en-us/articles/202453191-TIDAL-Where-We-re-Available"> 
+  <link rel="alternate" hreflang="bg" href="https://support.tidal.com/hc/bg/articles/202453191-TIDAL-%D0%9A%D1%8A%D0%B4%D0%B5-%D1%81%D0%BC%D0%B5-%D0%BD%D0%B0-%D1%80%D0%B0%D0%B7%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5"> 
+  <link rel="alternate" hreflang="de" href="https://support.tidal.com/hc/de/articles/202453191-Wo-ist-TIDAL-verf%C3%BCgbar-"> 
+  <link rel="alternate" hreflang="en" href="https://support.tidal.com/hc/en-us/articles/202453191-TIDAL-Where-We-re-Available"> 
+  <link rel="alternate" hreflang="es" href="https://support.tidal.com/hc/es/articles/202453191--D%C3%B3nde-est%C3%A1-disponible-TIDAL-"> 
+  <link rel="alternate" hreflang="fr" href="https://support.tidal.com/hc/fr/articles/202453191-O%C3%B9-TIDAL-est-il-disponible-"> 
+  <link rel="alternate" hreflang="it" href="https://support.tidal.com/hc/it/articles/202453191-Dove-%C3%A8-disponibile-TIDAL-"> 
+  <link rel="alternate" hreflang="no" href="https://support.tidal.com/hc/no/articles/202453191-TIDAL-Hvor-vi-er-tilgjengelige"> 
+  <link rel="alternate" hreflang="pl" href="https://support.tidal.com/hc/pl/articles/202453191-Gdzie-TIDAL-jest-dost%C4%99pny-"> 
+  <link rel="alternate" hreflang="pt" href="https://support.tidal.com/hc/pt/articles/202453191-TIDAL-Onde-Estamos-"> 
+  <link rel="alternate" hreflang="pt-br" href="https://support.tidal.com/hc/pt-br/articles/202453191-Onde-o-TIDAL-est%C3%A1-dispon%C3%ADvel-"> 
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-984e040f123d15b1ac594511a0ba52c6.css" id="stylesheet"> <!-- Entypo pictograms by Daniel Bruce — www.entypo.com --> 
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-7eacdab8920220a42cfc91404f4ed182.css"> 
+  <link rel="stylesheet" type="text/css" href="//p17.zdassets.com/hc/theming_assets/572742/104972/style.css?digest=360128424197"> 
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/572742/dbbbbf6e27be99924005219878c15fd6a54b1e23.ico"> 
+  <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script> 
+  <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-56069-52', 'auto');
+ga('send', 'pageview');
+
+</script> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no"> 
+  <meta name="theme-color" content="#000"> 
+  <link rel="preload" href="//theme.zdassets.com/theme_assets/572742/e1a138fc08014d09e534afe90512d245d5641f0c.woff2" as="font" crossorigin="" nopush=""> 
+  <link rel="preload" href="//theme.zdassets.com/theme_assets/572742/6980bfa82920b53def853fdde9a74b1f43f4b640.woff2" as="font" crossorigin="" nopush=""> 
+  <link rel="preload" href="//theme.zdassets.com/theme_assets/572742/356cd3ec4d082a1d1570f8103d4323fe8667929c.woff2" as="font" crossorigin="" nopush=""> <!-- Start of tidalsupport Zendesk Widget script --> 
+  <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=f8f4229a-4ba8-4ddf-a07a-6f3cbe788c84"> </script> <!-- End of tidalsupport Zendesk Widget script --> 
+  <script type="text/javascript">
+  zE(function() {
+    // zE.hide();
+  });
+</script> 
+  <script type="text/javascript" src="//p17.zdassets.com/hc/theming_assets/572742/104972/script.js?digest=360128424197"></script> 
+  <script async src="/cdn-cgi/bm/cv/669835187/api.js"></script>
+ </head> 
+ <body class=""> 
+  <header class="header"> 
+   <div class="header-wrapper"> <a title="Home" href="/hc/en-us"> <img src="data:image/png;base64,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" alt="TIDAL Help Center home page" class="logo"> </a> 
+    <div class="nav-wrapper links"> 
+     <nav class="nav-header"> <a href="https://tidal.com/featured">Featured</a> <a href="https://tidal.com/about">About</a> 
+     </nav> 
+    </div> 
+    <div id="openNav" class="nav-wrapper buttons"> 
+     <svg viewbox="0 0 48 48" role="button" class="mobile-icon-menu"> <line x1="6" y1="38" x2="42" y2="38" stroke-miterlimit="10" stroke-width="3"></line> <line x1="6" y1="10" x2="42" y2="10" stroke-miterlimit="10" stroke-width="3"></line> <line x1="6" y1="24" x2="42" y2="24" stroke-miterlimit="10" stroke-width="3"></line> 
+     </svg> 
+     <nav class="nav-header"> <a href="https://tidal.com/try-now" role="button" class="btn-free-trial">Start Free Trial</a> 
+     </nav> 
+    </div> 
+   </div> 
+  </header> 
+  <section class="section hero"> 
+   <div class="hero-inner"> 
+    <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/en-us/search" accept-charset="UTF-8" method="get">
+     <input name="utf8" type="hidden" value="✓">
+     <input type="search" name="query" id="query" placeholder="Search" autocomplete="off" aria-label="Search">
+    </form> 
+   </div> 
+  </section> 
+  <div id="nav" class="overlay"> 
+   <div class="overlay-content"></div> 
+  </div> 
+  <script>
+var translatedSearch = "What do you need help with?";
+$('#query').attr('placeholder', translatedSearch);
+</script> 
+  <main role="main"> 
+   <div id="article-page" style="display: none"></div> 
+   <div class="container main-container"> 
+    <section class="categories-wrapper"> 
+     <div class="breadcrumbs-wrapper"> 
+      <ol class="breadcrumbs"> 
+       <li title="TIDAL"> <a href="/hc/en-us">TIDAL</a> </li> 
+       <li title="What is TIDAL?"> <a href="/hc/en-us/categories/200493591-What-is-TIDAL-">What is TIDAL?</a> </li> 
+       <li title="About TIDAL"> <a href="/hc/en-us/sections/201053161-About-TIDAL">About TIDAL</a> </li> 
+      </ol> 
+     </div> 
+     <div> 
+      <ul> 
+       <li class="txt-article">TIDAL - Where We're Available</li> 
+       <li class="txt-content"> <p><span style="font-weight: 400;">TIDAL is currently available in 56 countries with plans for further international expansion soon! As we continue to grow, we'll be able to deliver more great content and <a href="https://support.tidal.com/hc/en-us/articles/115003671429-TIDAL-X" target="_self">TIDAL X</a> events for our members, as well as continue to contribute to the health of the music industry by growing the number of royalties we pay to music creators.&nbsp;</span></p> <p><span style="font-weight: 400;">TIDAL is currently available in these countries:</span></p> <p><span style="font-weight: 400;">Albania</span></p> <p><span style="font-weight: 400;">Andorra</span></p> <p><span style="font-weight: 400;">Argentina</span></p> <p><span style="font-weight: 400;">Australia</span></p> <p><span style="font-weight: 400;">Austria</span></p> <p><span style="font-weight: 400;">Belgium</span></p> <p><span style="font-weight: 400;">Brazil</span></p> <p><span style="font-weight: 400;">Bulgaria</span></p> <p><span style="font-weight: 400;">Canada</span></p> <p><span style="font-weight: 400;">Chile</span></p> <p><span style="font-weight: 400;">Colombia</span></p> <p><span style="font-weight: 400;">Cyprus</span></p> <p><span style="font-weight: 400;">Czech Republic</span></p> <p><span style="font-weight: 400;">Denmark</span></p> <p><span style="font-weight: 400;">Dominican Republic</span></p> <p><span style="font-weight: 400;">Estonia</span></p> <p><span style="font-weight: 400;">Finland</span></p> <p><span style="font-weight: 400;">France</span></p> <p><span style="font-weight: 400;">Germany</span></p> <p><span style="font-weight: 400;">Greece</span></p> <p><span style="font-weight: 400;">Hong Kong</span></p> <p><span style="font-weight: 400;">Hungary</span></p> <p><span style="font-weight: 400;">Iceland</span></p> <p><span style="font-weight: 400;">Ireland</span></p> <p><span style="font-weight: 400;">Israel</span></p> <p><span style="font-weight: 400;">Italy</span></p> <p><span style="font-weight: 400;">Jamaica</span></p> <p><span style="font-weight: 400;">Latvia</span></p> <p><span style="font-weight: 400;">Liechtenstein</span></p> <p><span style="font-weight: 400;">Lithuania</span></p> <p><span style="font-weight: 400;">Luxembourg</span></p> <p><span style="font-weight: 400;">Malaysia</span></p> <p><span style="font-weight: 400;">Malta</span></p> <p><span style="font-weight: 400;">Mexico</span></p> <p><span style="font-weight: 400;">Monaco</span></p> <p><span style="font-weight: 400;">Netherlands</span></p> <p><span style="font-weight: 400;">New Zealand</span></p> <p><span style="font-weight: 400;">Nigeria</span></p> <p><span style="font-weight: 400;">Norway</span></p> <p><span style="font-weight: 400;">Peru</span></p> <p><span style="font-weight: 400;">Poland</span></p> <p><span style="font-weight: 400;">Portugal</span></p> <p><span style="font-weight: 400;">Puerto Rico</span></p> <p><span style="font-weight: 400;">Romania</span></p> <p><span style="font-weight: 400;">Singapore</span></p> <p><span style="font-weight: 400;">Slovakia</span></p> <p><span style="font-weight: 400;">Slovenia</span></p> <p><span style="font-weight: 400;">South Africa</span></p> <p><span style="font-weight: 400;">Spain</span></p> <p><span style="font-weight: 400;">Sweden</span></p> <p><span style="font-weight: 400;">Switzerland</span></p> <p><span style="font-weight: 400;">Thailand</span></p> <p><span style="font-weight: 400;">Turkey</span></p> <p><span style="font-weight: 400;">Uganda</span></p> <p><span style="font-weight: 400;">United Kingdom</span></p> <p><span style="font-weight: 400;">United States of America</span></p> <p><span style="font-weight: 400;">If your country is on the list, you may proceed to&nbsp;<a href="https://tidal.com/" target="_self">TIDAL.com</a> to signup.</span></p> <p><span style="font-weight: 400;">We are continuously working on making TIDAL available in more countries. </span><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TIDAL is currently available in 52 countries with plans for further international expansion soon! As we continue to grow, we'll be able to deliver more great content and TIDAL X events for our members, as well as continue to contribute to the health of the music industry by growing the amount of royalties we pay to music creators. http://tidal.com/soc/#whereistidalavailable\n \nTIDAL is currently available in these countries:\nAndorra\nArgentina\nAustralia\nAustria\nBelgium\nBrazil\nCanada\nChile\nColombia\nCyprus\nCzech Republic\nDenmark\nDominican Republic\nEstonia\nFinland\nFrance\nGermany\nGreece\nHong Kong\nHungary\nIreland\nIsrael\nIceland\nItaly\nJamaica\nLichtenstein\nLatvia\nLithuania\nLuxembourg\nMalaysia\nMalta\nMexico\nMonaco\nNetherlands\nNew Zealand\nNorway\nPeru\nPoland\nPortugal\nPuerto Rico\nRomania\nSingapore\nSlovakia\nSlovenia\nThailand\nSouth Africa\nSpain\nSweden\nSwitzerland\nTurkey\nUganda\nUnited Kingdom\nUnited States of America\n \nIf your country is on the list, proceed to TIDAL.com to signup.\n \nWe are continuously working to get TIDAL out to more countries. If your location is not listed above, you can sign up to our mailing list at getlossless.com to be notified once it becomes available\n \n&quot;}" data-sheets-userformat="{&quot;2&quot;:769,&quot;3&quot;:[null,0],&quot;11&quot;:4,&quot;12&quot;:0}"></span></p> </li> 
+      </ul> 
+     </div> 
+    </section> 
+    <section class="categories-wrapper"> 
+     <div class="article-votes"> 
+      <div class="div-inline"> 
+       <div> 
+        <div class="article-votes-controls" role="radiogroup"> <span class="article-votes-question">Was this article helpful?</span> <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="202453191" data-upvote-count="743" data-vote-count="1162" data-vote-sum="324" data-vote-url="/hc/en-us/articles/202453191/vote" data-value="null" data-label="743 out of 1162 found this helpful" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="Yes" href="#"></a> <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="202453191" data-upvote-count="743" data-vote-count="1162" data-vote-sum="324" data-vote-url="/hc/en-us/articles/202453191/vote" data-value="null" data-label="743 out of 1162 found this helpful" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="No" href="#"></a> 
+        </div> 
+       </div> 
+       <div> 
+       </div> 
+      </div> <small class="article-votes-count"> <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="202453191" data-upvote-count="743" data-vote-count="1162" data-vote-sum="324" data-vote-url="/hc/en-us/articles/202453191/vote" data-value="null" data-label="743 out of 1162 found this helpful">743 out of 1162 found this helpful</span> </small> 
+     </div> 
+    </section> 
+    <section class="related-articles-wrapper"> 
+     <div> 
+      <section class="related-articles"> 
+       <h3 class="related-articles-title">Related articles</h3> 
+       <ul> 
+        <li> <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCOmhwMYaADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkExzARDDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI3L2hjL2VuLXVzL2FydGljbGVzLzExNTAwMzY2MjgyNS1TdWJzY3JpcHRpb24tVHlwZXMGOwhUOglyYW5raQY%3D--6f08fac5a6f77d2dfb241d4a1faa183444711e07" rel="nofollow">Subscription Types</a> </li> 
+        <li> <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEJ2MaDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkExzARDDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI6L2hjL2VuLXVzL2FydGljbGVzLzIwMzA1NTkxMS1IaWdoLUZpZGVsaXR5LUhpRmktU291bmQGOwhUOglyYW5raQc%3D--bb12e20b93bc2817e523fa1cc018ae50ff9f99c0" rel="nofollow">High Fidelity (HiFi) Sound</a> </li> 
+        <li> <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCA3NjsYaADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkExzARDDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSIyL2hjL2VuLXVzL2FydGljbGVzLzExNTAwMDM5NzA2OS1USURBTC1NQVNURVJTBjsIVDoJcmFua2kI--c160adafe3c5304117792032bf8690a46f7364aa" rel="nofollow">TIDAL MASTERS</a> </li> 
+        <li> <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEuGoZDDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkExzARDDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSIvL2hjL2VuLXVzL2FydGljbGVzLzIwMjk5MjMxMi1XaGF0LWlzLVRJREFMBjsIVDoJcmFua2kJ--ed6949361c933d3425b4456989aea7a38804b3a1" rel="nofollow">What is TIDAL</a> </li> 
+        <li> <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCHGhwMYaADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkExzARDDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSIzL2hjL2VuLXVzL2FydGljbGVzLzExNTAwMzY2MjcwNS1QYXNzd29yZC1SZXNldAY7CFQ6CXJhbmtpCg%3D%3D--4bdc2f63addb47c0be7e26df1cd6776f2c558087" rel="nofollow">Password Reset</a> </li> 
+       </ul> 
+      </section> 
+     </div> 
+    </section> 
+    <section class="related-articles-wrapper"> 
+     <div> 
+      <div data-recent-articles></div> 
+     </div> 
+    </section> 
+    <script type="text/javascript">
+var urlArr = [
+    'en-us/articles/115003662825',
+    'en-us/articles/201314601',
+    'en-us/articles/203134791',
+    'en-us/articles/115003671729',
+    'en-us/articles/360000250985',
+    'en-us/articles/360002243918',
+    'en-us/articles/360002621797',
+    'en-us/articles/360002669818',
+    'en-us/articles/360002657817',
+    'en-us/articles/115003672049',
+    'en-us/articles/360002605338',
+    'en-us/articles/360002243358',
+    'en-us/articles/115003662705',
+    'en-us/articles/115003662545',
+    'en-us/articles/201699652',
+    'en-us/articles/115003672049',
+    'en-us/articles/202654122',
+    'en-us/articles/115003662905',
+    'en-us/articles/115003672089',
+    'en-us/articles/115003672069',
+    'en-us/articles/201874952',
+    'en-us/articles/201782911',
+    'en-us/articles/202052531',
+    'en-us/articles/201166332',
+    'en-us/articles/201166292',
+    'en-us/articles/115005871525',
+    'en-us/articles/360000141489',
+    'en-us/articles/115005863189',
+    'en-us/articles/360000251305',
+    'en-us/articles/360000702697',
+    'en-us/articles/115000397069',
+    'en-us/articles/202992312',
+    'en-us/articles/360002767377',
+    'en-us/articles/360002599997',
+    'en-us/articles/203055911',
+    'en-us/articles/115003671329',
+];
+  urlArr.forEach(function(element) {
+      if (window.location.href.includes(element)) {
+          zE(function() {
+              // zE.show();
+                  console.log("Chat widget is launched");
+          });
+      }
+  });
+</script>  
+    <section class="categories blocks submit-request-container"> 
+     <div class="blocks-wrapper blocks-footer"> 
+      <h1 class="tcenter txt-cant-find">Can't find what you are looking for?</h1> <a href="/hc/requests/new"> <button class="btn-submit-request">Submit a Request</button> </a> 
+     </div> 
+    </section> 
+    <footer class="footer"> 
+     <div class="footer-inner desktop"> 
+      <div class="section"> 
+       <h4>Get Started</h4> 
+       <ul> 
+        <li><a href="https://tidal.com/download" title="Download">Download TIDAL</a></li> 
+        <li><a href="https://tidal.com/import-playlist" title="Playlist Import">Playlist Import</a></li> 
+        <li><a href="https://tidal.com/supported-devices" title="Lossless Explained">Supported Devices</a></li> 
+        <li><a href="https://tidal.com/help" title="Supported Devices">Get Support</a></li> 
+       </ul> 
+      </div> 
+      <div class="section"> 
+       <h4>Discover TIDAL</h4> 
+       <ul> 
+        <li><a href="https://tidal.com/about" title="About">About</a></li> 
+        <li><a href="http://read.tidal.com/" title="Magazine">Magazine</a></li> 
+       </ul> 
+      </div> 
+      <div class="section"> 
+       <h4>Account</h4> 
+       <ul> 
+        <li><a href="https://tidal.com/try-now" title="Sign Up">Sign Up</a></li> 
+        <li><a href="https://tidal.com/voucher" title="Redeem Voucher">Redeem Voucher</a></li> 
+        <li><a href="https://tidal.com/giftcard" title="Redeem Voucher">Redeem Giftcard</a></li> 
+        <li><a href="https://my.tidal.com/account" title="Manage Account">Manage Account</a></li> 
+        <li><a href="https://store.tidal.com/" title="Get Support">Store</a></li> 
+       </ul> 
+      </div> 
+      <div class="section"> 
+       <h4>Company</h4> 
+       <ul> 
+        <li><a href="https://tidal.com/whatistidal" title="What is TIDAL?">What is TIDAL?</a></li> 
+        <li><a href="https://tidal.com/partners" title="Partners">Partners</a></li> 
+        <li><a href="https://career.tidal.com/" title="Career">Careers</a></li> 
+        <li><a href="mailto:press@tidal.com" title="Press">Press</a></li> 
+       </ul> 
+      </div> 
+      <div class="section trial"> 
+       <ul> 
+        <li> <img src="//theme.zdassets.com/theme_assets/572742/553ba9fadc96e713fd5ee0ce55eaaeafb5b66047.png" class="img-footer"> </li> 
+        <li class="blocks-item blocks-download-tidal"> <a href="https://tidal.com/try-now" class="blocks-item-link blocks-download-tidal-link"> Start Free Trial </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="container desktop"> 
+      <div class="footer-inner footer-bottom"> 
+       <div class="div-inline"> 
+        <p>TIDAL is the first global music streaming service with high fidelity sound, hi-def video quality, along with expertly curated playlists and original content — making it a trusted source for music and culture.</p> 
+        <div class="social-wrapper"> <a class="img-social-wrapper" href="https://www.instagram.com/tidal"><img src="//theme.zdassets.com/theme_assets/572742/b635f6ad0971e9f2196925a3592c3fbb33e57ec9.png" class="img-social"></a> <a class="img-social-wrapper" href="https://facebook.com/TIDAL"><img src="//theme.zdassets.com/theme_assets/572742/56f5a448d4d2ee99eb57f735a428bc9f177fdd72.png" class="img-social"></a> <a href="https://twitter.com/TIDAL"><img src="//theme.zdassets.com/theme_assets/572742/da577b4c5d49a6349c6d5e913f8c489ff34741c6.png" class="img-social"></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="container desktop"> 
+      <hr> 
+     </div> 
+     <div class="container mobile footer-external-links"> 
+      <div class="logo-copyright"> 
+       <img src="//theme.zdassets.com/theme_assets/572742/8be8384f99c9407478d6fabf4ef303802c6ade89.png"> 
+       <p>© 2019 Aspiro AB</p> 
+      </div> 
+      <ul> 
+       <li><a href="https://tidal.com/privacy">Privacy Policy</a></li> 
+       <li><a href="https://tidal.com/terms">Terms and Conditions</a></li> 
+       <li><a href="https://tidal.com/contact">Contact</a></li> 
+      </ul> 
+     </div> <!-- TODO: Fix loading zendesk chat window instead of content search. The commented line with  --> 
+     <script>
+      function formatChat(messages) {
+        /** Prepare Kindly chat log for Zendesk Chat */
+        const firstMessage = messages[0];
+        const lastMessage = messages.slice(-1)[0];
+        const header = 'Bot chat history [id: ' + firstMessage.chat_id + ']:\n' +
+          'First message: ' + firstMessage.created.slice(0, -8).replace('T', ' ') + '\n' +
+          'Last message: ' + lastMessage.created.slice(0, -8).replace('T', ' ')  + '\n' +
+          'Users language: ' + firstMessage.chat_language_code + '\n';
+        const formattedMessages = messages
+          .map(function (msg) {
+            const buttons = (msg.buttons || []).map(function(btn) {
+              const uri = btn.button_type === 'link' ? btn.value : '#' + btn.value;
+              return btn.label + '[' + uri + ']';
+            });
+						const formattedButtons = buttons.length ? 'Buttons: ' + buttons.join(' ') + '\n' : '';
+            const hourAndMinute = msg.created.slice(11, -8).replace('T', ' ');
+            const from = msg.from_bot ? 'Bot' : 'You';
+            return hourAndMinute + ' ' + from + ': ' + msg.message + '\n' + formattedButtons;
+          })
+          .join('\n');
+        return header + '\n' + formattedMessages;
+      }
+      // Zendesk Chat Widget settings
+      // Here we suppress help center, talk and answer bot when kindly chat loaded.
+      // FIXME: Ask donald: should the contact form pop up in case there are no online agents?
+      window.zESettings = {
+        webWidget: {
+          chat: {
+            suppress: false,
+            hideWhenOffline: false
+          },
+          contactForm: {
+            suppress: false
+          },
+          helpCenter: {
+            suppress: true
+          },
+          talk: {
+            suppress: true
+          },
+          answerBot: {
+            suppress: true
+          }
+  			}
+      };
+      // Check if manual chat has been started and set state
+      const STARTED_MANUAL_CHAT_AT_KEY = 'startedManualChatAt';
+      const TIMEOUT_HOURS = 1;  // Timeout after 1 hour
+      const startedManualChatAt = localStorage.getItem(STARTED_MANUAL_CHAT_AT_KEY);
+      window.startedManualChat = startedManualChatAt && (new Date() - new Date(startedManualChatAt)) / (1000 * 60 * 60) <= TIMEOUT_HOURS;
+      // Kindly Chat settings
+      window.kindlyOptions = {
+        chatbubble: { autopopup: !window.startedManualChat },
+        onLoad: function() {
+          if(!window.startedManualChat) {
+            window.kindlyChat.showBubble();
+          }
+        },
+        onMessage: function (newMessage, chatLog) {
+          const isTakeoverMessageInsideBusinessHours = (
+            newMessage.sender === 'SYSTEM'
+            && newMessage.system_dialogue_category === 'takeover'
+            && newMessage.system_dialogue_message_type === 'request'
+          );
+          const displayState = zE('webWidget:get', 'display');
+          if(!isTakeoverMessageInsideBusinessHours || displayState == 'chat') {
+            // Dont open zendesk chat if either
+            // A: outside business hours
+            // B: Zendesk chat is already open
+            return;
+          }
+          // Close Kindly Chat, open Zendesk Chat
+          window.kindlyChat.closeChat();
+          window.kindlyChat.hideBubble();
+          localStorage.setItem(STARTED_MANUAL_CHAT_AT_KEY, new Date().toISOString());
+          window.startedManualChat = true;
+          zE('webWidget', 'show');
+          zE('webWidget', 'open');
+          // Send chatlog to zendesk chat
+          if (window.startedManualChat) {
+            zE('webWidget', 'chat:send', formatChat(chatLog));
+          }
+        }
+      }
+  </script> 
+     <script id="kindly-chat" src="https://chat.kindlycdn.com/kindly-chat.js" data-bot-key="16ea2200-f89e-463d-8a97-496efd23a4f8" data-bubble-hidden async></script> 
+     <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=f8f4229a-4ba8-4ddf-a07a-6f3cbe788c84"> </script> 
+     <script>
+      // Initiate Zendesk Chat
+      // References:
+      // - https://developer.zendesk.com/embeddables/docs/widget/core
+      // - https://developer.zendesk.com/embeddables/docs/widget/chat
+      // - https://develop.zendesk.com/hc/en-us/articles/360025618474-Quickstart-Web-Widget-JavaScript-APIs
+      // Hide Zendesk Chat widget by default, show if manual chat already started
+      if(!window.startedManualChat) {
+        zE('webWidget', 'hide');
+      }
+      zE('webWidget:on', 'chat:connected', function() {
+        const displayState = zE('webWidget:get', 'display');
+        // If the agent ends the chat, make sure the bubble is visible
+        if(displayState === 'hidden') {
+          window.kindlyChat.showBubble();
+        }
+        // Hide Zendesk Chat widget and shows bot again
+        // attach handler after Zendesk Chat widget has connected
+        zE('webWidget:on', 'chat:end', function () {
+          // delete manual chat start timestamp
+          localStorage.removeItem(STARTED_MANUAL_CHAT_AT_KEY);
+          // if agent or user ends chat, imediately show the bot again
+          window.startedManualChat = false;
+          zE('webWidget', 'hide');
+          window.kindlyChat.showBubble();
+        });
+      });
+  </script> 
+    </footer> <!-- / --> 
+    <script src="//static.zdassets.com/hc/assets/en-us.32d3fbfa1027c24e46e6.js"></script> 
+    <script src="https://tidalsupport.zendesk.com/auth/v2/host.js" data-brand-id="104972" data-return-to="https://support.tidal.com/hc/en-us/articles/202453191-Which-countries-is-TIDAL-available-" data-theme="hc" data-locale="en-us" data-auth-origin="104972,true,true"></script> 
+    <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"tidalsupport","environment":"production","name":"TIDAL"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"hc:hcobject:server:RB+YEwI7OshK/UVTMNMOlSuZ0Ka+9eBcn0X/uTeevxLVa/VQhq2+eiGDhysk69eHnOf+c9VKjPOH8I1Qsjuh8A==","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGkExzARDDoKX21ldGF7CzoPYWNjb3VudF9pZGkDRr0IOhNoZWxwX2NlbnRlcl9pZGkEvarsCzoNYnJhbmRfaWRpAwyaAToMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKZW4tdXMGOwZU--881a3d42832693880057333562d18fe04df41c09","url":"https://support.tidal.com/hc/tracking/events?locale=en-us"},"current_record_id":"202453191","current_record_url":"/hc/en-us/articles/202453191-TIDAL-Where-We-re-Available","current_record_title":"TIDAL - Where We're Available","search_results_count":null,"current_text_direction":"ltr","current_brand":{"account_id":572742,"brand_id":104972,"brand_url":"https://support.tidal.com","url":"https://tidalsupport.zendesk.com/api/v2/brands/104972.json","name":"TIDAL","logo":"","subdomain":"tidalsupport","host_mapping":"support.tidal.com","help_center_state":"enabled","ticket_form_ids":null,"active":true,"default":true,"has_help_center":true,"created_at":"2014-08-26T10:23:49Z","updated_at":"2019-09-09T19:37:36Z","id":104972,"route_id":467379},"current_brand_url":"https://tidalsupport.zendesk.com","current_host_mapping":"support.tidal.com","current_path":"/hc/en-us/articles/202453191-TIDAL-Where-We-re-Available","authentication_domain":"https://tidalsupport.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-eu.zendesk.com/api/1/item/","accessToken":"f575c68c45fc4d5e9025994620c5c3dc","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"fdcf0d0c9f175c8e14714a92ed3f5f84e19d16f6","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":true,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://support.tidal.com/hc/en-us","arrange_content_url":"https://support.tidal.com/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://support.tidal.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://tidalsupport.zendesk.com/knowledge/user_segments?brand_id=104972","has_gather":true,"has_community_enabled":false,"has_community_badges":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":true,"has_answer_bot_web_form_modal_v2":false,"billing_url":"/access/return_to?return_to=https://tidalsupport.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://tidalsupport.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"arrange_articles_url":"https://tidalsupport.zendesk.com/knowledge/arrange?brand_id=104972","article_verification_url":"https://tidalsupport.zendesk.com/knowledge/verification?brand_id=104972","has_article_verification":false,"guide_language_settings_url":"https://support.tidal.com/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://tidalsupport.zendesk.com/knowledge/import_articles?brand_id=104972","community_badges_url":"https://tidalsupport.zendesk.com/knowledge/community_badges?brand_id=104972","community_settings_url":"https://tidalsupport.zendesk.com/knowledge/community_settings?brand_id=104972","gather_plan_state":"subscribed","search_settings_url":"https://tidalsupport.zendesk.com/knowledge/search_settings?brand_id=104972","has_multibrand_search_in_plan":false,"theming_api_version":1,"has_pci_credit_card_custom_field":false,"current_brand_id":104972,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[]};
+</script> 
+    <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script> 
+    <script src="//static.zdassets.com/hc/assets/hc_enduser-b13c2932f10d69bae5b69408f2b7f1a7.js"></script> 
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'608eb5dc59e226a7',m:'ee3c84bb90fa46c764d61ea7017edeaf26a41bb1-1609194465-1800-Aak8EegVOiSpw4gW49cqCXe5yptPeMJnosF7CBj7l3vU697PDp2VHO8DgRzj9xOr/qL410m78rZ3ovdK0sPIbPYRNOBhTuyvATqGSgw/VHrJ+EACRdf9WRzmr6z/p1OUZC+18BqHdBjHIb8gxSKLgfYAtNUI4cJY7TC1y7D3ysvcWMNocQ4sFC6KVlgRW4Bym8pZw0o31Fz+Hks8KU5SE0M=',s:[0x01e808d907,0x10a67a9d84],}})();</script> 
+   </div>
+  </main>
+ </body>
+</html>

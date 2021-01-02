@@ -1,0 +1,834 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Kosovo - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAEJsAANOo@fsAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kosovo","wgTitle":"Kosovo","wgCurRevisionId":7172264,"wgRevisionId":7172264,"wgArticleId":40777,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","CS1 maint: ref=harv","Pages needing to be simplified from January 2012","All pages that need simplifying","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers",
+"Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Kosovo","Autonomous areas","Europe"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Kosovo","wgRelevantArticleId":40777,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1246"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Kosovo"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Kosovo&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Kosovo&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Kosovo"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Kosovo rootpage-Kosovo skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Kosovo</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-Complex plainlinks metadata ambox ambox-content" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           The <a href="/wiki/English_language" title="English language">English</a> used in this article or section <b>may not be easy for everybody to understand</b>.<span class="hide-when-compact"> You can help Wikipedia by reading <a href="/wiki/Wikipedia:How_to_write_Simple_English_pages" title="Wikipedia:How to write Simple English pages">Wikipedia:How to write Simple English pages</a>, then simplifying the article.</span> <small class="date-container"><i>(<span class="date">January 2012</span>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>{{Infobox country | conventional_long_name = Kosova | common_name = Kosova | image_flag = Flag of Serbia.svg | image_coat = Coat of arms of Serbia.svg | official_languages = <a href="/wiki/Albanian_language" title="Albanian language">Albanian</a>, <a href="/wiki/Serbian_language" title="Serbian language">Serbian</a> | demonym = <a href="/w/index.php?title=Demographics_of_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Demographics of Kosovo (not yet started)">Kosovans</a> | image_map2 = Kosovo in its region.svg | map_caption2 = Location of Kosovo within southeastern Europe | image_map = Kosovo map-en.svg | map_caption = Kosovo <a href="/wiki/Physical_geography" title="Physical geography">physical map</a> | ethnic_groups = 92% <a href="/wiki/Albanians" class="mw-redirect" title="Albanians">Albanians</a><br><span class="nowrap">&nbsp;&nbsp;</span><sup>a</sup> <a href="/wiki/Bosniaks" title="Bosniaks">Bosniaks</a>, <a href="/w/index.php?title=Gorani_people&amp;action=edit&amp;redlink=1" class="new" title="Gorani people (not yet started)">Gorani</a>, <a href="/wiki/Romani_people" title="Romani people">Roma</a>, <a href="/wiki/Turkish_people" class="mw-redirect" title="Turkish people">Turks</a>, <a href="/w/index.php?title=Ashkali_and_Balkan_Egyptians&amp;action=edit&amp;redlink=1" class="new" title="Ashkali and Balkan Egyptians (not yet started)">Ashkali and Balkan Egyptians</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> | ethnic_groups_year = 2008 | capital = <span class="nowrap"><a href="/wiki/Belgrade" title="Belgrade">Belgrade</a> </span> <b>Kosova</b> is part of Serbia , located in south of Serbia. </p>
+      <p>Kosovo was part of the <a href="/w/index.php?title=Dardani&amp;action=edit&amp;redlink=1" class="new" title="Dardani (not yet started)">Dardani</a> lands in <a href="/wiki/Ancient_history" title="Ancient history">ancient times</a>. The Dardani were <a href="/wiki/Invasion" title="Invasion">conquered</a> by the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a>. After the <a href="/wiki/Failure" title="Failure">fall</a> of Rome, it became part of the <a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine Empire</a>. It was taken over by them and the <a href="/w/index.php?title=Bulgarian_Empire&amp;action=edit&amp;redlink=1" class="new" title="Bulgarian Empire (not yet started)">Bulgarian Empire</a>. The <a href="/w/index.php?title=Servian_Empire&amp;action=edit&amp;redlink=1" class="new" title="Servian Empire (not yet started)">Servian Empire</a> also defeated then. Soon after the Servian defeat in the <a href="/wiki/Battle_of_Kosovo" title="Battle of Kosovo">Battle of Kosovo</a>, it became part of the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a>. </p>
+      <p>When the <a href="/wiki/Turkic_peoples" title="Turkic peoples">Turks</a> left the <a href="/wiki/Balkans" title="Balkans">Balkans</a>, it became part of the <a href="/w/index.php?title=Kingdom_of_Serbia&amp;action=edit&amp;redlink=1" class="new" title="Kingdom of Serbia (not yet started)">Kingdom of Serbia</a>. In <a href="/wiki/World_War_I" title="World War I">World War I</a>, it briefly became a part of the <a href="/wiki/Austro-Hungarian_Empire" class="mw-redirect" title="Austro-Hungarian Empire">Austro-Hungarian Empire</a>. Then in <a href="/wiki/World_War_II" title="World War II">World War II</a>, after <a href="/wiki/Nazi_Germany" title="Nazi Germany">Germany</a>, <a href="/wiki/Italy" title="Italy">Italy</a>, and <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> <a href="/wiki/Invasion" title="Invasion">invaded</a>, it was taken by the <a href="/w/index.php?title=Italian_Empire&amp;action=edit&amp;redlink=1" class="new" title="Italian Empire (not yet started)">Italian Empire</a><a href="/wiki/Albania" title="Albania">Kingdom of Albania</a>. After the war, it became part of <a href="/wiki/Yugoslavia" title="Yugoslavia">Yugoslavia</a> in the <a href="/wiki/20th_century" title="20th century">20th century</a>. After <a href="/wiki/NATO" title="NATO">NATO</a> bombed <a href="/wiki/Yugoslavia" title="Yugoslavia">Yugoslavia</a> in 1999, it was under the administration of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> (<a href="/w/index.php?title=UNMIK&amp;action=edit&amp;redlink=1" class="new" title="UNMIK (not yet started)">UNMIK</a>). </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Demographics"><span class="tocnumber">2</span> <span class="toctext">Demographics</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Divisions"><span class="tocnumber">3</span> <span class="toctext">Divisions</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Related_pages"><span class="tocnumber">4</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Other_websites"><span class="tocnumber">7</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kosovo&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kosovo&amp;action=edit&amp;section=1" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>To the north and east of Kosovo is the <a href="/wiki/Serbia" title="Serbia">Republic of Serbia</a>. To the south of Kosovo is <a href="/wiki/North_Macedonia" title="North Macedonia">North Macedonia</a>. To the northwest is <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> and to the southwest is <a href="/wiki/Albania" title="Albania">Albania</a>. The <a href="/wiki/Capital_city" title="Capital city">capital</a> is <a href="/wiki/Pristina" title="Pristina">Pristina</a>. Prishtina is also Kosovo's largest city. About 1.8 million people live in Kosovo. </p> 
+      <h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kosovo&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Demographics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kosovo&amp;action=edit&amp;section=2" title="Change section: Demographics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The official results of the <a href="/wiki/Census-designated_place" title="Census-designated place">censuses</a> in Kosovo about <a href="/wiki/Ethnic_group" title="Ethnic group">ethnic groups</a> and nationality from after <a href="/wiki/World_War_II" title="World War II">World War II</a> to 1991 are below. The numbers of Albanians in the 1991 census were only guesses based on censuses in the past. Most Albanians did not do the 1991 census. Today, Kosovo is mainly Albanian. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr style="background:#e0e0e0;"> 
+         <th rowspan="2">Ethnic<br>group </th> 
+         <th colspan="2">1948 census </th> 
+         <th colspan="2">1953 census </th> 
+         <th colspan="2">1961 census </th> 
+         <th colspan="2">1971 census </th> 
+         <th colspan="2">1981 census </th> 
+         <th colspan="2">1991 census </th>
+        </tr> 
+        <tr style="background:#e0e0e0;"> 
+         <th>Number </th> 
+         <th>% </th> 
+         <th>Number </th> 
+         <th>% </th> 
+         <th>Number </th> 
+         <th>% </th> 
+         <th>Number </th> 
+         <th>% </th> 
+         <th>Number </th> 
+         <th>% </th> 
+         <th>Number </th> 
+         <th>% </th>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Kosovo_Albanians&amp;action=edit&amp;redlink=1" class="new" title="Kosovo Albanians (not yet started)">Albanians</a> </td> 
+         <td style="text-align:right;">498,244 </td> 
+         <td style="text-align:right;">68.5 </td> 
+         <td style="text-align:right;">524,559 </td> 
+         <td style="text-align:right;">64.9 </td> 
+         <td style="text-align:right;">646,605 </td> 
+         <td style="text-align:right;">67.1 </td> 
+         <td style="text-align:right;">916,168 </td> 
+         <td style="text-align:right;">73.7 </td> 
+         <td style="text-align:right;">1,226,736 </td> 
+         <td style="text-align:right;">77.4 </td> 
+         <td style="text-align:right;">1,596,072 </td> 
+         <td style="text-align:right;">81.6 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Kosovo_Serbs&amp;action=edit&amp;redlink=1" class="new" title="Kosovo Serbs (not yet started)">Serbs</a> </td> 
+         <td style="text-align:right;">171,911 </td> 
+         <td style="text-align:right;">23.6 </td> 
+         <td style="text-align:right;">189,869 </td> 
+         <td style="text-align:right;">23.5 </td> 
+         <td style="text-align:right;">227,016 </td> 
+         <td style="text-align:right;">23.5 </td> 
+         <td style="text-align:right;">228,264 </td> 
+         <td style="text-align:right;">18.4 </td> 
+         <td style="text-align:right;">209,498 </td> 
+         <td style="text-align:right;">13.2 </td> 
+         <td style="text-align:right;">194,190 </td> 
+         <td style="text-align:right;">9.9 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Muslims_by_nationality&amp;action=edit&amp;redlink=1" class="new" title="Muslims by nationality (not yet started)">Muslims</a> </td> 
+         <td style="text-align:right;">9,679 </td> 
+         <td style="text-align:right;">1.3 </td> 
+         <td style="text-align:right;">6,241 </td> 
+         <td style="text-align:right;">0.8 </td> 
+         <td style="text-align:right;">8,026 </td> 
+         <td style="text-align:right;">0.8 </td> 
+         <td style="text-align:right;">26,357 </td> 
+         <td style="text-align:right;">2.1 </td> 
+         <td style="text-align:right;">58,562 </td> 
+         <td style="text-align:right;">3.7 </td> 
+         <td style="text-align:right;">66,189 </td> 
+         <td style="text-align:right;">3.4 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Montenegrins_of_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Montenegrins of Kosovo (not yet started)">Montenegrins</a> </td> 
+         <td style="text-align:right;">28,050 </td> 
+         <td style="text-align:right;">3.9 </td> 
+         <td style="text-align:right;">31,343 </td> 
+         <td style="text-align:right;">3.9 </td> 
+         <td style="text-align:right;">37,588 </td> 
+         <td style="text-align:right;">3.9 </td> 
+         <td style="text-align:right;">31,555 </td> 
+         <td style="text-align:right;">2.5 </td> 
+         <td style="text-align:right;">27,028 </td> 
+         <td style="text-align:right;">1.7 </td> 
+         <td style="text-align:right;">20,365 </td> 
+         <td style="text-align:right;">1.1 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Janjevci&amp;action=edit&amp;redlink=1" class="new" title="Janjevci (not yet started)">Croats</a> </td> 
+         <td style="text-align:right;">5,290 </td> 
+         <td style="text-align:right;">0.7 </td> 
+         <td style="text-align:right;">6,201 </td> 
+         <td style="text-align:right;">0.8 </td> 
+         <td style="text-align:right;">7,251 </td> 
+         <td style="text-align:right;">0.8 </td> 
+         <td style="text-align:right;">8,264 </td> 
+         <td style="text-align:right;">0.7 </td> 
+         <td style="text-align:right;">8,718 </td> 
+         <td style="text-align:right;">0.6 </td> 
+         <td style="text-align:right;">8,062 </td> 
+         <td style="text-align:right;">0.4 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Yugoslavs" title="Yugoslavs">Yugoslavs</a> </td> 
+         <td style="text-align:right;"> </td> 
+         <td style="text-align:right;"> </td> 
+         <td style="text-align:right;"> </td> 
+         <td style="text-align:right;"> </td> 
+         <td style="text-align:right;">5,206 </td> 
+         <td style="text-align:right;">0.5 </td> 
+         <td style="text-align:right;">920 </td> 
+         <td style="text-align:right;">0.1 </td> 
+         <td style="text-align:right;">2,676 </td> 
+         <td style="text-align:right;">0.2 </td> 
+         <td style="text-align:right;">3,457 </td> 
+         <td style="text-align:right;">0.2 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Romani_people_in_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Romani people in Kosovo (not yet started)">Romani</a> </td> 
+         <td style="text-align:right;">11,230 </td> 
+         <td style="text-align:right;">1.5 </td> 
+         <td style="text-align:right;">11,904 </td> 
+         <td style="text-align:right;">1.5 </td> 
+         <td style="text-align:right;">3,202 </td> 
+         <td style="text-align:right;">0.3 </td> 
+         <td style="text-align:right;">14.593 </td> 
+         <td style="text-align:right;">1.2 </td> 
+         <td style="text-align:right;">34,126 </td> 
+         <td style="text-align:right;">2.2 </td> 
+         <td style="text-align:right;">45,760 </td> 
+         <td style="text-align:right;">2.3 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Turks_in_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Turks in Kosovo (not yet started)">Turks</a> </td> 
+         <td style="text-align:right;">1,315 </td> 
+         <td style="text-align:right;">0.2 </td> 
+         <td style="text-align:right;">34,583 </td> 
+         <td style="text-align:right;">4.3 </td> 
+         <td style="text-align:right;">25,764 </td> 
+         <td style="text-align:right;">2.7 </td> 
+         <td style="text-align:right;">12,244 </td> 
+         <td style="text-align:right;">1.0 </td> 
+         <td style="text-align:right;">12,513 </td> 
+         <td style="text-align:right;">0.8 </td> 
+         <td style="text-align:right;">10,445 </td> 
+         <td style="text-align:right;">0.5 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Macedonians_(ethnic_group)&amp;action=edit&amp;redlink=1" class="new" title="Macedonians (ethnic group) (not yet started)">Macedonians</a> </td> 
+         <td style="text-align:right;">526 </td> 
+         <td style="text-align:right;">0.1 </td> 
+         <td style="text-align:right;">972 </td> 
+         <td style="text-align:right;">0.1 </td> 
+         <td style="text-align:right;">1,142 </td> 
+         <td style="text-align:right;">0.1 </td> 
+         <td style="text-align:right;">1,048 </td> 
+         <td style="text-align:right;">0.1 </td> 
+         <td style="text-align:right;">1,056 </td> 
+         <td style="text-align:right;">0.1 </td> 
+         <td style="text-align:right;"> </td> 
+         <td style="text-align:right;"> </td>
+        </tr> 
+        <tr> 
+         <td>Others or not said </td> 
+         <td style="text-align:right;">1,577 </td> 
+         <td style="text-align:right;">0.2 </td> 
+         <td style="text-align:right;">2,469 </td> 
+         <td style="text-align:right;">0.3 </td> 
+         <td style="text-align:right;">2,188 </td> 
+         <td style="text-align:right;">0.2 </td> 
+         <td style="text-align:right;">4,280 </td> 
+         <td style="text-align:right;">0.3 </td> 
+         <td style="text-align:right;">3,454 </td> 
+         <td style="text-align:right;">0.2 </td> 
+         <td style="text-align:right;">11,656 </td> 
+         <td style="text-align:right;">0.6 </td>
+        </tr> 
+        <tr style="background:#e0e0e0;"> 
+         <th style="text-align:left;">Total </th> 
+         <th colspan="2">727,820 </th> 
+         <th colspan="2">808,141 </th> 
+         <th colspan="2">963,988 </th> 
+         <th colspan="2">1,243,693 </th> 
+         <th colspan="2">1,584,441 </th> 
+         <th colspan="2">1,956,196 </th>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kosovo&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Divisions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kosovo&amp;action=edit&amp;section=3" title="Change section: Divisions">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Kosovo is divided into 7 districts. These districts include 38 municipalities: </p> 
+      <table class="wikitable sortable" style="text-align:left;"> 
+       <tbody>
+        <tr style="font-size:90%; text-align:center;"> 
+         <th>No.</th> 
+         <th><a href="/w/index.php?title=Administrative_divisions_of_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Kosovo (not yet started)">District</a></th> 
+         <th>Capital</th> 
+         <th>Area (km²)</th> 
+         <th>Population</th> 
+         <th>Municipalities </th>
+        </tr> 
+        <tr> 
+         <td style="text-align:center;">1</td> 
+         <td><a href="/w/index.php?title=District_of_Peja&amp;action=edit&amp;redlink=1" class="new" title="District of Peja (not yet started)">District of Peja</a></td> 
+         <td><a href="/w/index.php?title=Peja&amp;action=edit&amp;redlink=1" class="new" title="Peja (not yet started)">Peja</a></td> 
+         <td style="text-align:right">1,365</td> 
+         <td style="text-align:right">174,235</td> 
+         <td style="text-align:left"><a href="/w/index.php?title=Peja&amp;action=edit&amp;redlink=1" class="new" title="Peja (not yet started)">Peja</a>, <a href="/w/index.php?title=Burim&amp;action=edit&amp;redlink=1" class="new" title="Burim (not yet started)">Burim</a>, <a href="/w/index.php?title=Klina&amp;action=edit&amp;redlink=1" class="new" title="Klina (not yet started)">Klina</a> </td>
+        </tr> 
+        <tr> 
+         <td style="text-align:center;">2</td> 
+         <td><a href="/w/index.php?title=District_of_Mitrovica&amp;action=edit&amp;redlink=1" class="new" title="District of Mitrovica (not yet started)">District of Mitrovica</a></td> 
+         <td><a href="/w/index.php?title=Mitrovica,_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Mitrovica, Kosovo (not yet started)">Mitrovica</a></td> 
+         <td style="text-align:right">2,077</td> 
+         <td style="text-align:right">272,247</td> 
+         <td style="text-align:left"><a href="/w/index.php?title=Leposaviq&amp;action=edit&amp;redlink=1" class="new" title="Leposaviq (not yet started)">Leposaviq</a>, <a href="/w/index.php?title=Mitrovica,_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Mitrovica, Kosovo (not yet started)">Mitrovica</a>, <a href="/w/index.php?title=North_Mitrovica&amp;action=edit&amp;redlink=1" class="new" title="North Mitrovica (not yet started)">North Mitrovica</a>, <a href="/w/index.php?title=Skenderaj&amp;action=edit&amp;redlink=1" class="new" title="Skenderaj (not yet started)">Skenderaj</a>, <a href="/w/index.php?title=Vushtrri&amp;action=edit&amp;redlink=1" class="new" title="Vushtrri (not yet started)">Vushtrri</a>, <a href="/w/index.php?title=Zubin_Potok&amp;action=edit&amp;redlink=1" class="new" title="Zubin Potok (not yet started)">Zubin Potok</a>, <a href="/w/index.php?title=Zve%C3%A7an&amp;action=edit&amp;redlink=1" class="new" title="Zveçan (not yet started)">Zveçan</a> </td>
+        </tr> 
+        <tr> 
+         <td style="text-align:center;">3</td> 
+         <td><a href="/w/index.php?title=District_of_Prishtina&amp;action=edit&amp;redlink=1" class="new" title="District of Prishtina (not yet started)">District of Prishtina</a></td> 
+         <td><b><a href="/wiki/Prishtina" class="mw-redirect" title="Prishtina">Prishtina</a></b></td> 
+         <td style="text-align:right">2,470</td> 
+         <td style="text-align:right">477,312</td> 
+         <td style="text-align:left"><a href="/w/index.php?title=Drenas&amp;action=edit&amp;redlink=1" class="new" title="Drenas (not yet started)">Drenas</a>, <a href="/w/index.php?title=Gra%C3%A7anica,_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Graçanica, Kosovo (not yet started)">Graçanica</a>, <a href="/w/index.php?title=Fush%C3%AB_Kosov%C3%AB&amp;action=edit&amp;redlink=1" class="new" title="Fushë Kosovë (not yet started)">Fushë Kosovë</a>, <a href="/w/index.php?title=Lipjan&amp;action=edit&amp;redlink=1" class="new" title="Lipjan (not yet started)">Lipjan</a>, <a href="/w/index.php?title=Artana&amp;action=edit&amp;redlink=1" class="new" title="Artana (not yet started)">Artana</a>, <a href="/w/index.php?title=Kastriot&amp;action=edit&amp;redlink=1" class="new" title="Kastriot (not yet started)">Kastriot</a>, <a href="/w/index.php?title=Podujevo&amp;action=edit&amp;redlink=1" class="new" title="Podujevo (not yet started)">Podujevo</a>, <a href="/wiki/Prishtina" class="mw-redirect" title="Prishtina">Prishtina</a> </td>
+        </tr> 
+        <tr> 
+         <td style="text-align:center;">4</td> 
+         <td><a href="/w/index.php?title=District_of_Gjilan&amp;action=edit&amp;redlink=1" class="new" title="District of Gjilan (not yet started)">District of Gjilan</a></td> 
+         <td><a href="/w/index.php?title=Gjilan&amp;action=edit&amp;redlink=1" class="new" title="Gjilan (not yet started)">Gjilan</a></td> 
+         <td style="text-align:right">1,206</td> 
+         <td style="text-align:right">180,783</td> 
+         <td style="text-align:left"><a href="/w/index.php?title=Gjilan&amp;action=edit&amp;redlink=1" class="new" title="Gjilan (not yet started)">Gjilan</a>, <a href="/w/index.php?title=Kamenica,_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Kamenica, Kosovo (not yet started)">Kamenica</a>, <a href="/w/index.php?title=Kllokot&amp;action=edit&amp;redlink=1" class="new" title="Kllokot (not yet started)">Kllokot</a>, <a href="/w/index.php?title=Partesh&amp;action=edit&amp;redlink=1" class="new" title="Partesh (not yet started)">Partesh</a>, <a href="/w/index.php?title=Ranillug&amp;action=edit&amp;redlink=1" class="new" title="Ranillug (not yet started)">Ranillug</a>, <a href="/w/index.php?title=Vitia&amp;action=edit&amp;redlink=1" class="new" title="Vitia (not yet started)">Vitia</a> </td>
+        </tr> 
+        <tr> 
+         <td style="text-align:center;">5</td> 
+         <td><a href="/w/index.php?title=District_of_Gjakova&amp;action=edit&amp;redlink=1" class="new" title="District of Gjakova (not yet started)">District of Gjakova</a></td> 
+         <td><a href="/wiki/Gjakova" title="Gjakova">Gjakova</a></td> 
+         <td style="text-align:right">1,129</td> 
+         <td style="text-align:right">194,672</td> 
+         <td style="text-align:left"><a href="/w/index.php?title=De%C3%A7an&amp;action=edit&amp;redlink=1" class="new" title="Deçan (not yet started)">Deçan</a>, <a href="/wiki/Gjakova" title="Gjakova">Gjakova</a>, <a href="/w/index.php?title=Junik&amp;action=edit&amp;redlink=1" class="new" title="Junik (not yet started)">Junik</a>, <a href="/w/index.php?title=Rahovec&amp;action=edit&amp;redlink=1" class="new" title="Rahovec (not yet started)">Rahovec</a> </td>
+        </tr> 
+        <tr> 
+         <td style="text-align:center;">6</td> 
+         <td><a href="/w/index.php?title=District_of_Prizren&amp;action=edit&amp;redlink=1" class="new" title="District of Prizren (not yet started)">District of Prizren</a></td> 
+         <td><a href="/w/index.php?title=Prizren&amp;action=edit&amp;redlink=1" class="new" title="Prizren (not yet started)">Prizren</a></td> 
+         <td style="text-align:right">1,397</td> 
+         <td style="text-align:right">331,670</td> 
+         <td style="text-align:left"><a href="/w/index.php?title=Dragash&amp;action=edit&amp;redlink=1" class="new" title="Dragash (not yet started)">Dragash</a>, <a href="/w/index.php?title=Malisheva&amp;action=edit&amp;redlink=1" class="new" title="Malisheva (not yet started)">Malisheva</a>, <a href="/w/index.php?title=Mamusha&amp;action=edit&amp;redlink=1" class="new" title="Mamusha (not yet started)">Mamusha</a>, <a href="/w/index.php?title=Prizren&amp;action=edit&amp;redlink=1" class="new" title="Prizren (not yet started)">Prizren</a>, <a href="/w/index.php?title=Suhareka&amp;action=edit&amp;redlink=1" class="new" title="Suhareka (not yet started)">Suhareka</a> </td>
+        </tr> 
+        <tr> 
+         <td style="text-align:center;">7</td> 
+         <td><a href="/w/index.php?title=District_of_Ferizaj&amp;action=edit&amp;redlink=1" class="new" title="District of Ferizaj (not yet started)">District of Ferizaj</a></td> 
+         <td><a href="/w/index.php?title=Ferizaj&amp;action=edit&amp;redlink=1" class="new" title="Ferizaj (not yet started)">Ferizaj</a></td> 
+         <td style="text-align:right">1,030</td> 
+         <td style="text-align:right">185,806</td> 
+         <td style="text-align:left"><a href="/w/index.php?title=Ferizaj&amp;action=edit&amp;redlink=1" class="new" title="Ferizaj (not yet started)">Ferizaj</a>, <a href="/w/index.php?title=Elez_Han&amp;action=edit&amp;redlink=1" class="new" title="Elez Han (not yet started)">Hani i Elezit</a>, <a href="/w/index.php?title=Ka%C3%A7anik&amp;action=edit&amp;redlink=1" class="new" title="Kaçanik (not yet started)">Kaçanik</a>, <a href="/w/index.php?title=Shtime&amp;action=edit&amp;redlink=1" class="new" title="Shtime (not yet started)">Shtime</a>, <a href="/w/index.php?title=Sht%C3%ABrpc%C3%AB&amp;action=edit&amp;redlink=1" class="new" title="Shtërpcë (not yet started)">Shtërpcë</a> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kosovo&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kosovo&amp;action=edit&amp;section=4" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Prishtina" class="mw-redirect" title="Prishtina">Prishtina</a></li> 
+       <li><a href="/wiki/European_Union_Rule_of_Law_Mission_in_Kosovo" title="European Union Rule of Law Mission in Kosovo">European Union Rule of Law Mission in Kosovo</a></li> 
+       <li><a href="/wiki/2008_Kosovo_declaration_of_independence" title="2008 Kosovo declaration of independence">2008 Kosovo declaration of independence</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kosovo&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kosovo&amp;action=edit&amp;section=5" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation journal cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html">"CIA World Factbook"</a>. CIA.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=CIA+World+Factbook&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fkv.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKosovo" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><span class="cs1-maint citation-comment">CS1 maint: ref=harv (<a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">link</a>)</span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.kosovo.net/default3.html">History of Kosovo and Metohija</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.rastko.org.yu/kosovo/index.html">The Rastko Project</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.kc.gov.yu/">Coordination Center of SCG and the Republic of Serbia for Kosovo</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.tserkovnost.org/srbija/">Eastern Orthodox Resource Centre</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.kosovo.net/sk/history/kosovo_origins/default.htm">Hugo Roth, <i>Kosovo Origins</i></a>: an historian's comprehensive overview</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kosovo&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Bibliography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kosovo&amp;action=edit&amp;section=6" title="Change section: Bibliography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>Dušan T. Bataković, <i>The Kosovo Chronicles</i>, Plato Books, Belgrade 1992.</li> 
+       <li>R. Petrović, M. Blagojević, <i>The Migration of the Serbs and Montenegrins from Kosovo and Metohija</i>, SASA, Belgrade 1992,</li> 
+       <li>Dušan T. Bataković, <i>Kosovo. La spirale de la haine</i>, L'Age d'Homme, Lausanne 1998.</li> 
+       <li><i>Kosovo-Kosova. Confrontation or Coexistence</i>, Nijmegen: University of Nijmegen &amp; Political Cultural Centre 042 1996.</li> 
+       <li><i>Kosovo. Avoiding Another Balkan War</i>,<a href="/w/index.php?title=Thanos_Veremis&amp;action=edit&amp;redlink=1" class="new" title="Thanos Veremis (not yet started)">Thanos Veremis</a> &amp; Evangelos Kofos, (eds.), Athens:Eliamep &amp; University of Athens, 1998.</li> 
+       <li><i>Kosovo. Contending Voices on Balkan Interventions</i>, William Joseph Buckley, ed.,William B. Eerdmans, Grand Rapids, Michigan &amp; Cambridge U. K 2000</li> 
+       <li><i>Kosovo and Metohija. Living in the Enclave</i>, D. T. Bataković (ed.), Institute for Balkan Studies, Belgrade 2007, 314 p. 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-86-7179-052-9" title="Special:BookSources/978-86-7179-052-9">978-86-7179-052-9</a></li> 
+       <li>Jean-Arnault Dérens, <i>Kosovo. Année zéro</i>, préface de Marek Antoni Nowick,i Paris: Paris-Méditerranée, 2004.</li> 
+       <li>Dušan T. Bataković, <i>Kosovo. Un conflit sans fin?</i> Lausanne: L'Age d'Homme 2008. 322 p. 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-2-8251-3875-5" title="Special:BookSources/978-2-8251-3875-5">978-2-8251-3875-5</a></li> 
+       <li>Dušan T. Bataković, <i>Serbia's Kosovo Drama. A Historical Perspective</i>, Belgrade: Čigoja Štampa, 2012, 369 p. 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-86-7558-903-7" title="Special:BookSources/978-86-7558-903-7">978-86-7558-903-7</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kosovo&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kosovo&amp;action=edit&amp;section=7" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Kosovo" class="extiw" title="commons:Category:Kosovo">Kosovo</a> at Wikimedia Commons</li>
+      </ul> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1246&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1246&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1246" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" class="mw-redirect" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX4575593">XX4575593</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb10166493z">cb10166493z</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb10166493z">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4032571-4">4032571-4</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n2008012665">n2008012665</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/7b6ae6b7-6f4f-43df-aab8-0c72531ea8ae">7b6ae6b7-6f4f-43df-aab8-0c72531ea8ae</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10046499">10046499</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/001227041">001227041</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge129640&amp;CON_LNG=ENG">ge129640</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=001409329&amp;local_base=nlx10">001409329</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/132423103">132423103</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n2008012665">lccn-n2008012665</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1311
+Cached time: 20201215181340
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.364 seconds
+Real time usage: 0.471 seconds
+Preprocessor visited node count: 1343/1000000
+Post‐expand include size: 17051/2097152 bytes
+Template argument size: 2364/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9301/5000000 bytes
+Lua time usage: 0.176/10.000 seconds
+Lua memory usage: 4960454/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  388.212      1 -total
+ 31.89%  123.809      1 Template:Authority_control
+ 25.98%  100.854      1 Template:Reflist
+ 23.31%   90.500      1 Template:Cite_journal
+ 14.06%   54.578      1 Template:Commons_category-inline
+ 14.04%   54.506      1 Template:Complex
+ 13.25%   51.455      1 Template:Sister-inline
+ 11.36%   44.111      3 Template:ISBN
+  9.75%   37.856      5 Template:Main_other
+  8.56%   33.236      1 Template:Ambox
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:40777-0!canonical and timestamp 20201215181340 and revision id 7172264. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Kosovo&amp;oldid=7172264">https://simple.wikipedia.org/w/index.php?title=Kosovo&amp;oldid=7172264</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Kosovo" title="Category:Kosovo">Kosovo</a></li>
+       <li><a href="/wiki/Category:Autonomous_areas" title="Category:Autonomous areas">Autonomous areas</a></li>
+       <li><a href="/wiki/Category:Europe" title="Category:Europe">Europe</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">CS1 maint: ref=harv</a></li>
+       <li><a href="/wiki/Category:Pages_needing_to_be_simplified_from_January_2012" title="Category:Pages needing to be simplified from January 2012">Pages needing to be simplified from January 2012</a></li>
+       <li><a href="/wiki/Category:All_pages_that_need_simplifying" title="Category:All pages that need simplifying">All pages that need simplifying</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Kosovo" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kosovo" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Kosovo" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Kosovo" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Kosovo">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Kosovo&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Kosovo&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Kosovo&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kosovo" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kosovo" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Kosovo&amp;oldid=7172264" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Kosovo&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kosovo&amp;id=7172264&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1246" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kosovo">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Kosovo&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Kosovo&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Kosovo" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Kosov%C3%B4" title="Kosovô – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D1%8D_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Республикэ Косово – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Kosovo" title="Kosovo – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Kosovo" title="Kosovo – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%AE%E1%88%B6%E1%89%AE" title="ኮሶቮ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Kosovo" title="Kosovo – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Kosovo" title="Kosovo – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%88%D8%B3%D9%88%D9%81%D9%88" title="كوسوفو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Kosovo" title="Kosovo – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/Cosova" title="Cosova – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Cosovo" title="Cosovo – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Kosovu" title="Kosovu – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Kosovo" title="Kosovo – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Kusuwu" title="Kusuwu – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Kosovo" title="Kosovo – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%DA%A9%D9%88%D8%B2%D9%88%D9%88%D9%88" title="کوزووو – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Kosovo" title="Kosovo – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%B8%E0%A7%8B%E0%A6%AD%E0%A7%8B" title="কসোভো – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Kosovo" title="Kosovo – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D2%BB%D1%8B" title="Косово Республикаһы – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A0%D1%8D%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B0_%D0%9A%D0%BE%D1%81%D0%B0%D0%B2%D0%B0" title="Рэспубліка Косава – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D0%B2%D0%B0" title="Косава – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Kosobo" title="Kosobo – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Косово – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Kosovo" title="Kosovo – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%81%E0%BD%BC%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8B%E0%BD%9D%E0%BD%BC%E0%BC%8D" title="ཁོ་སོ་ཝོ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Kosovo" title="Kosovo – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Kosovo" title="Kosovo – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Kosovo" title="Kosovo – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Косово Республики – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Kosobo" title="Kosobo – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kosovo" title="Kosovo – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Kosovo" title="Kosovo – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Kosovo" title="Kosovo – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Cosofo" title="Cosofo – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kosovo" title="Kosovo – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kosovo" title="Kosovo – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Kosowo" title="Kosowo – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kosovo" title="Kosovo – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%BF%CF%83%CF%83%CF%85%CF%86%CE%BF%CF%80%CE%AD%CE%B4%CE%B9%CE%BF" title="Κοσσυφοπέδιο – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Kosovo" title="Kosovo – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Косово Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Kosovo" title="Kosovo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kosovo" title="Kosovo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Cosovu" title="Cosovu – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Kosovo" title="Kosovo – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%B2%D9%88%D9%88" title="کوزوو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Kosovo" title="Kosovo – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Kosovo" title="Kosovo – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Kosovo" title="Kosovo – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Kosovo" title="Kosovo – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Kosovo" title="Kosovo – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_Chosaiv" title="An Chosaiv – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Kosovo" title="Kosovo – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Kosova" title="Kosova – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Cosobho" title="Cosobho – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Kosovo" title="Kosovo – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E7%A7%91%E7%B4%A2%E6%B2%83" title="科索沃 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%95%E0%AB%8B%E0%AA%B8%E0%AB%8B%E0%AA%B5%E0%AB%8B" title="કોસોવો – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8C%BA%F0%90%8C%B0%F0%90%8C%BF%F0%90%8D%83%F0%90%8D%89%F0%90%8C%B1%F0%90%8D%89" title="𐌺𐌰𐌿𐍃𐍉𐌱𐍉 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Kosovo" title="Kosovo – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%B8%D0%BD_%D0%A2%D0%B0%D2%A3%D2%BB%D1%87" title="Косовин Таңһч – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%BD%94%EC%86%8C%EB%B3%B4" title="코소보 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D5%BD%D5%B8%D5%BE%D5%B8" title="Կոսովո – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8B%E0%A4%B5%E0%A5%8B_%E0%A4%97%E0%A4%A3%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF" title="कोसोवो गणराज्य – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Kosowo" title="Kosowo – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Kosovo" title="Kosovo – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Kosovo" title="Kosovo – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Kosovo" title="Kosovo – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Kosovo" title="Kosovo – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Kosovo" title="Kosovo – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Kosovo" title="Kosovo – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Косово – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/K%C3%B3sov%C3%B3" title="Kósovó – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Kosovo" title="Kosovo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%A1%D7%95%D7%91%D7%95" title="קוסובו – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Kosovo" title="Kosovo – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Kosovo" title="Kosovo – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B3%8A%E0%B2%B8%E0%B3%8A%E0%B2%B5%E0%B3%8A" title="ಕೊಸೊವೊ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%A1%E1%83%9D%E1%83%95%E1%83%9D" title="კოსოვო – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/K%C3%B2sow%C3%B2" title="Kòsowò – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Косово – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Kosova" title="Kosova – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Kosovo" title="Kosovo – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Kosovo" title="Kosovo – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Косово – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Kosovoa" title="Kosovoa – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Kosovo" title="Kosovo – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Kosova" title="Kosova – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Косово – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Kosovo" title="Kosovo – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lbe"><a href="https://lbe.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%B0" title="Косова – Lak" lang="lbe" hreflang="lbe" class="interlanguage-link-target">Лакку</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BB%82%E0%BA%84%E0%BB%82%E0%BA%8A%E0%BB%82%E0%BA%A7" title="ປະເທດໂຄໂຊໂວ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%DA%A9%D9%88%D8%B2%D9%88%DA%A4%D9%88" title="کوزوڤو – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Kosovia" title="Kosovia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Kosova" title="Kosova – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Kosovo" title="Kosovo – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Kosovas" title="Kosovas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Kosovo" title="Kosovo – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Kosovo" title="Kosovo – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Cosovo" title="Cosovo – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Kosovo" title="Kosovo – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Koszov%C3%B3" title="Koszovó – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Република Косово – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%8A%E0%B4%B8%E0%B5%8B%E0%B4%B5%E0%B5%8B" title="കൊസോവോ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Kosovo" title="Kosovo – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8B%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%8B" title="कोसोव्हो – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%A1%E1%83%9D%E1%83%95%E1%83%9D" title="კოსოვო – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%83%D9%88%D8%B3%D9%88%D9%81%D9%88" title="كوسوفو – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%DA%A9%D9%88%D8%B2%D9%88%D9%88" title="کوزوو – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kosovo" title="Kosovo – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Kosovo" title="Kosovo – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Kosobo" title="Kosobo – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Косово – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%86%E1%80%AD%E1%80%AF%E1%80%97%E1%80%AD%E1%80%AF%E1%80%92%E1%80%B1%E1%80%9E" title="ကိုဆိုဗိုဒေသ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Cosovo" title="Cosovo – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Kosovo" title="Kosovo – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Kosovo" title="Kosovo – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Kosovo" title="Kosovo – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8B%E0%A4%AD%E0%A5%8B" title="कोसोभो – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%BD%E3%83%9C" title="コソボ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Республика Косово – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Kosowo" title="Kosowo – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kosovo" title="Kosovo – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Kosovo" title="Kosovo – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Kosovo" title="Kosovo – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Kosovo" title="Kosovo – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Republica_de_Kosova" title="Republica de Kosova – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Kosoovoo" title="Kosoovoo – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Kosovo" title="Kosovo – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%8B%E0%A8%B8%E0%A9%8B%E0%A8%B5%E0%A9%8B_%E0%A8%97%E0%A8%A3%E0%A8%B0%E0%A8%BE%E0%A8%9C" title="ਕੋਸੋਵੋ ਗਣਰਾਜ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DA%A9%D9%88%D8%B3%D9%88%DA%A1%D9%88" title="کوسوڡو – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Kosovo" title="Kosovo – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Kosovo" title="Kosovo – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Kosovo" title="Kosovo – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Kosovo" title="Kosovo – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kosowo" title="Kosowo – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%9A%CF%8C%CF%83%CE%BF%CE%B2%CE%BF" title="Κόσοβο – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Kosovo" title="Kosovo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Kosovo" title="Kosovo – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Kosovo" title="Kosovo – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Kosovo" title="Kosovo – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Kosovo" title="Kosovo – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Cosovo" title="Cosovo – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Kusuwu" title="Kusuwu – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Косово – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Республика Косово – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%B0" title="Косова – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Kosovo" title="Kosovo – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Kosovo" title="Kosovo – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%A0%E1%B1%B3%E1%B1%A5%E1%B1%B3%E1%B1%B5%E1%B1%B7%E1%B1%B3" title="ᱠᱳᱥᱳᱵᱷᱳ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/K%C3%B2ssovu" title="Kòssovu – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Kosovo" title="Kosovo – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Kosovo" title="Kosovo – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-sq badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://sq.wikipedia.org/wiki/Kosova" title="Kosova – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/K%C3%B2ssuvu" title="Kòssuvu – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%9A%E0%B7%9C%E0%B7%83%E0%B7%9D%E0%B7%80%E0%B7%9C" title="කොසෝවො – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kosovo" title="Kosovo – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kosovo" title="Kosovo – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Kosowo" title="Kosowo – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Kosofo" title="Kosofo – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%A9%DB%86%D8%B3%DB%86%DA%A4%DB%86" title="کۆسۆڤۆ – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Kosovokondre" title="Kosovokondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Република Косово – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Kosovo" title="Kosovo – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Kosovo" title="Kosovo – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kosovo" title="Kosovo – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kosovo" title="Kosovo – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Kosovo" title="Kosovo – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%8A%E0%AE%9A%E0%AF%8B%E0%AE%B5%E0%AF%8B" title="கொசோவோ – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Kosovo" title="Kosovo – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE_%D2%96%D3%A9%D0%BC%D2%BB%D2%AF%D1%80%D0%B8%D1%8F%D1%82%D0%B5" title="Косово Җөмһүрияте – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%81%B5%E1%80%B0%E1%80%9D%E1%80%BA%E1%82%87%E1%80%9E%E1%80%B0%E1%80%9D%E1%80%BA%E1%82%87%E1%80%9D%E1%80%B0%E1%80%9D%E1%80%BA%E1%82%87" title="ၵူဝ်ႇသူဝ်ႇဝူဝ်ႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B1%8A%E0%B0%B8%E0%B0%BE%E0%B0%B5%E0%B1%8B" title="కొసావో – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%84%E0%B8%AD%E0%B8%8B%E0%B8%AD%E0%B8%A7%E0%B8%AD" title="ประเทศคอซอวอ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8E%AA%E1%8F%97%E1%8F%89" title="ᎪᏗᏉ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kosova" title="Kosova – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE" title="Косово – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%A9%D9%88%D8%B3%D9%88%D9%88%DB%81" title="کوسووہ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Kosovo" title="Kosovo – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Kosovo" title="Kosovo – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Kosovo" title="Kosovo – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Kosov%C3%A4n" title="Kosovän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Kosovo" title="Kosovo – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Kosovo" title="Kosovo – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E7%A7%91%E7%B4%A2%E6%B2%83" title="科索沃 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Kosovo" title="Kosovo – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Kosovo" title="Kosovo – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E7%A7%91%E7%B4%A2%E6%B2%83" title="科索沃 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Kosovo" title="Kosovo – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/K%C3%B3s%C3%B3f%C3%B2" title="Kósófò – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%A7%91%E7%B4%A2%E6%B2%83" title="科索沃 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Kosova" title="Kosova – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Kosovo" title="Kosovo – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Kuosuovs" title="Kuosuovs – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%A7%91%E7%B4%A2%E6%B2%83" title="科索沃 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1246#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 7 November 2020, at 11:54.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Kosovo&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.471","ppvisitednodes":{"value":1343,"limit":1000000},"postexpandincludesize":{"value":17051,"limit":2097152},"templateargumentsize":{"value":2364,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9301,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  388.212      1 -total"," 31.89%  123.809      1 Template:Authority_control"," 25.98%  100.854      1 Template:Reflist"," 23.31%   90.500      1 Template:Cite_journal"," 14.06%   54.578      1 Template:Commons_category-inline"," 14.04%   54.506      1 Template:Complex"," 13.25%   51.455      1 Template:Sister-inline"," 11.36%   44.111      3 Template:ISBN","  9.75%   37.856      5 Template:Main_other","  8.56%   33.236      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.176","limit":"10.000"},"limitreport-memusage":{"value":4960454,"limit":52428800}},"cachereport":{"origin":"mw1311","timestamp":"20201215181340","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kosovo","url":"https:\/\/simple.wikipedia.org\/wiki\/Kosovo","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1246","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1246","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-10-30T20:48:38Z","dateModified":"2020-11-07T11:54:49Z","headline":"country in Europe with partially recognized sovereignty"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":261,"wgHostname":"mw1397"});});</script> 
+ </body>
+</html>

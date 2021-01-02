@@ -1,0 +1,1580 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Local government in The Bahamas - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@pgzQpAEKAAAKZGIZYAAADR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Local_government_in_The_Bahamas","wgTitle":"Local government in The Bahamas","wgCurRevisionId":994338575,"wgRevisionId":994338575,"wgArticleId":673438,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: unfit url","EngvarB from December 2014","Use dmy dates from December 2014","All articles with unsourced statements","Articles with unsourced statements from December 2020","Districts of the Bahamas","Subdivisions of the Bahamas","Lists of country subdivisions",
+"Country subdivisions in North America","Bahamas-related lists"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Local_government_in_The_Bahamas","wgRelevantArticleId":673438,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q6052753"};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/1200px-Coat_of_arms_of_the_Bahamas.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Local_government_in_The_Bahamas"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Local_government_in_The_Bahamas"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Local_government_in_The_Bahamas rootpage-Local_government_in_The_Bahamas skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Local government in The Bahamas</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <table class="vertical-navbox vcard" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+       <tbody>
+        <tr>
+         <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+          <div class="adr" style="font-size:smaller">
+           <span class="fn org country-name"><a href="/wiki/The_Bahamas" title="The Bahamas">The Bahamas</a></span> 
+          </div></th>
+        </tr>
+        <tr>
+         <th><a href="/wiki/File:Coat_of_arms_of_the_Bahamas.svg" class="image"><img alt="Coat of arms of the Bahamas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/140px-Coat_of_arms_of_the_Bahamas.svg.png" decoding="async" width="140" height="171" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/210px-Coat_of_arms_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/280px-Coat_of_arms_of_the_Bahamas.svg.png 2x" data-file-width="1323" data-file-height="1620"></a></th>
+        </tr>
+        <tr>
+         <th style="border-bottom: #aaa 1px solid"><span class="nowrap" style="font-weight:normal">This article is part of a series on the</span><br><span style="font-weight:bold"><a href="/wiki/Politics_of_the_Bahamas" title="Politics of the Bahamas">politics and government of<br>the Bahamas</a></span></th>
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Executive_(government)" title="Executive (government)">Executive</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;padding-top:0;"> 
+            <ul>
+             <li><a href="/wiki/Monarchy_of_the_Bahamas" title="Monarchy of the Bahamas">Monarch</a> 
+              <dl>
+               <dd>
+                <a href="/wiki/Elizabeth_II" title="Elizabeth II">Elizabeth II</a>
+               </dd>
+              </dl></li> 
+             <li><a href="/wiki/Governor-General_of_the_Bahamas" title="Governor-General of the Bahamas">Governor-General</a> (<a href="/wiki/List_of_heads_of_state_of_the_Bahamas" title="List of heads of state of the Bahamas">list</a>) 
+              <dl>
+               <dd>
+                <a href="/wiki/Cornelius_A._Smith" title="Cornelius A. Smith">Cornelius A. Smith</a>
+               </dd>
+              </dl></li> 
+             <li><a href="/wiki/Prime_Minister_of_the_Bahamas" title="Prime Minister of the Bahamas">Prime Minister</a> 
+              <dl>
+               <dd>
+                <a href="/wiki/Hubert_Minnis" title="Hubert Minnis">Hubert Minnis</a>
+               </dd>
+              </dl></li> 
+             <li><a href="/wiki/Cabinet_of_the_Bahamas" title="Cabinet of the Bahamas">Cabinet</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Parliament_of_the_Bahamas" title="Parliament of the Bahamas">Legislature</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;padding-top:0;"> 
+            <ul>
+             <li><a href="/wiki/Parliament_of_the_Bahamas#Senate" title="Parliament of the Bahamas">Senate</a> 
+              <dl>
+               <dd>
+                <a href="/wiki/List_of_Presidents_of_the_Senate_of_the_Bahamas" class="mw-redirect" title="List of Presidents of the Senate of the Bahamas">President of the Senate</a>
+               </dd>
+              </dl></li> 
+             <li><a href="/wiki/Parliament_of_the_Bahamas#House_of_Assembly" title="Parliament of the Bahamas">House of Assembly</a> 
+              <dl>
+               <dd>
+                <a href="/wiki/List_of_Speakers_of_the_House_of_Assembly_of_the_Bahamas" title="List of Speakers of the House of Assembly of the Bahamas">Speaker</a>
+               </dd>
+              </dl></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Judiciary_of_the_Bahamas" title="Judiciary of the Bahamas">Judiciary</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;padding-top:0;"> 
+            <ul>
+             <li>
+              <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+               <a href="/wiki/Judicial_Committee_of_the_Privy_Council" title="Judicial Committee of the Privy Council">Judicial Committee of the Privy<br>Council</a>
+              </div></li> 
+             <li><a href="/wiki/Court_of_Appeal_of_the_Bahamas" class="mw-redirect" title="Court of Appeal of the Bahamas">Court of Appeal</a></li> 
+             <li><a href="/wiki/Supreme_Court_of_the_Bahamas" title="Supreme Court of the Bahamas">Supreme Court</a></li> 
+             <li><a href="/wiki/Magistrates%27_Court_of_the_Bahamas" class="mw-redirect" title="Magistrates' Court of the Bahamas">Magistrates' Court</a></li> 
+             <li><a href="/wiki/Law_of_the_Bahamas" title="Law of the Bahamas">Law of the Bahamas</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Local_government_in_the_Bahamas" class="mw-redirect" title="Local government in the Bahamas">Local government</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;padding-top:0;"> 
+            <ul>
+             <li><a href="/wiki/The_Bahamas_Local_Government_Act_1996" title="The Bahamas Local Government Act 1996">Local Government Act 1996</a></li> 
+             <li><a href="/wiki/Chief_Councillor" title="Chief Councillor">Chief Councillors</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Elections_in_the_Bahamas" title="Elections in the Bahamas">Elections</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;padding-top:0;"> 
+            <ul>
+             <li>General 
+              <dl>
+               <dd>
+                <div class="hlist hlist-separated">
+                 <ul>
+                  <li><a href="/wiki/1962_Bahamian_general_election" title="1962 Bahamian general election">1962</a></li>
+                  <li><a href="/wiki/1967_Bahamian_general_election" title="1967 Bahamian general election">1967</a></li>
+                  <li><a href="/wiki/1968_Bahamian_general_election" title="1968 Bahamian general election">1968</a></li>
+                  <li><a href="/wiki/1972_Bahamian_general_election" title="1972 Bahamian general election">1972</a></li>
+                  <li><br><a href="/wiki/1977_Bahamian_general_election" title="1977 Bahamian general election">1977</a></li>
+                  <li><a href="/wiki/1982_Bahamian_general_election" title="1982 Bahamian general election">1982</a></li>
+                  <li><a href="/wiki/1987_Bahamian_general_election" title="1987 Bahamian general election">1987</a></li>
+                  <li><a href="/wiki/1992_Bahamian_general_election" title="1992 Bahamian general election">1992</a></li>
+                  <li><br><a href="/wiki/1997_Bahamian_general_election" title="1997 Bahamian general election">1997</a></li>
+                  <li><a href="/wiki/2002_Bahamian_general_election" title="2002 Bahamian general election">2002</a></li>
+                  <li><a href="/wiki/2007_Bahamian_general_election" title="2007 Bahamian general election">2007</a></li>
+                  <li><a href="/wiki/2012_Bahamian_general_election" title="2012 Bahamian general election">2012</a></li>
+                  <li><br><a href="/wiki/2017_Bahamian_general_election" title="2017 Bahamian general election"><i>2017</i></a></li>
+                 </ul>
+                </div>
+               </dd>
+              </dl></li> 
+             <li><a href="/wiki/List_of_political_parties_in_the_Bahamas" title="List of political parties in the Bahamas">Political parties</a> 
+              <dl>
+               <dd>
+                <div class="hlist hlist-separated">
+                 <ul>
+                  <li><a href="/wiki/Free_National_Movement" title="Free National Movement">FNM</a></li>
+                  <li><a href="/wiki/Progressive_Liberal_Party" title="Progressive Liberal Party">PLP</a></li>
+                  <li><a href="/wiki/Democratic_National_Alliance_(Bahamas)" title="Democratic National Alliance (Bahamas)">DNA</a></li>
+                 </ul>
+                </div>
+               </dd>
+              </dl></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0 0.1em 0.4em"> 
+          <div class="NavFrame collapsed" style="border:none;padding:0">
+           <div class="NavHead" style="font-size:105%;background:transparent;text-align:left">
+            <a href="/wiki/Foreign_relations_of_the_Bahamas" title="Foreign relations of the Bahamas">Foreign relations</a>
+           </div>
+           <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align:left;padding-top:0;"> 
+            <ul>
+             <li><a href="/wiki/Ministry_of_Foreign_Affairs_(Bahamas)" title="Ministry of Foreign Affairs (Bahamas)">Ministry of Foreign Affairs</a> 
+              <dl>
+               <dd>
+                <a href="/wiki/Minister_of_Foreign_Affairs_(Bahamas)" title="Minister of Foreign Affairs (Bahamas)">Minister</a>: Darren Henfield
+               </dd>
+              </dl></li>
+            </ul> 
+            <hr> 
+            <ul>
+             <li><a href="/wiki/List_of_diplomatic_missions_of_the_Bahamas" title="List of diplomatic missions of the Bahamas">Diplomatic missions of</a> / <a href="/wiki/List_of_diplomatic_missions_in_the_Bahamas" class="mw-redirect" title="List of diplomatic missions in the Bahamas">in the Bahamas</a></li>
+            </ul> 
+            <hr> 
+            <ul>
+             <li><a href="/wiki/Bahamian_passport" title="Bahamian passport">Passports</a></li> 
+             <li><a href="/wiki/Visa_requirements_for_Bahamian_citizens" title="Visa requirements for Bahamian citizens">Visa requirements</a></li> 
+             <li><a href="/wiki/Visa_policy_of_Bahamas" title="Visa policy of Bahamas">Visa policy</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"> <a href="/wiki/File:Relief_Map_of_Caribbean.png" class="image"><img alt="Relief Map of Caribbean.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Relief_Map_of_Caribbean.png/32px-Relief_Map_of_Caribbean.png" decoding="async" width="32" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Relief_Map_of_Caribbean.png/48px-Relief_Map_of_Caribbean.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Relief_Map_of_Caribbean.png/64px-Relief_Map_of_Caribbean.png 2x" data-file-width="891" data-file-height="561"></a>&nbsp;<a href="/wiki/Portal:Caribbean" title="Portal:Caribbean">Caribbean portal</a> 
+          <div class="hlist" style="text-align:center;font-weight:normal;"> 
+           <ul>
+            <li><a href="/wiki/Outline_of_political_science#Politics_by_region" title="Outline of political science">Other countries</a></li>
+           </ul> 
+          </div></td>
+        </tr>
+        <tr>
+         <td style="text-align:right;font-size:115%;padding-top: 0.6em;"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+          <div class="navbar plainlinks hlist navbar-mini">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Politics_of_the_Bahamas" title="Template:Politics of the Bahamas"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Politics_of_the_Bahamas" title="Template talk:Politics of the Bahamas"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Politics_of_the_Bahamas&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><a href="/wiki/Local_government" title="Local government">Local government</a> in <a href="/wiki/The_Bahamas" title="The Bahamas">the Bahamas</a> exists in two forms, namely second-schedule and third-schedule district councils. There are a total of 32 local government districts: 13 second-schedule districts, which are further sub-divided into <a href="/wiki/Township" title="Township">town areas</a>, and 19 third-schedule districts, which are all <a href="/wiki/Unitary_authorities" class="mw-redirect" title="Unitary authorities">unitary authorities</a>. The second and third schedules together make up the first schedule.<sup id="cite_ref-A_1-0" class="reference"><a href="#cite_note-A-1">[1]</a></sup> Local government policy is formulated and administered by the Department of Lands and Local Government through the Office of the <a href="/wiki/Prime_Minister_of_the_Bahamas" title="Prime Minister of the Bahamas">Prime Minister</a>. The day-to-day policy handling of the portfolio falls to the Minister of Local Government who also is empowered to create new <a href="/wiki/Local_government_areas" class="mw-redirect" title="Local government areas">local government areas</a> from time to time based on <a href="/wiki/Demographics" class="mw-redirect" title="Demographics">demographics</a>. The administrative and financial management is overseen by the ministry’s <a href="/wiki/Permanent_secretary" title="Permanent secretary">permanent secretary</a>.<sup id="cite_ref-A1_2-0" class="reference"><a href="#cite_note-A1-2">[2]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Districts_of_The_Bahamas"><span class="tocnumber">2</span> <span class="toctext">Districts of The Bahamas</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Types_of_Councils"><span class="tocnumber">3</span> <span class="toctext">Types of Councils</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Elections"><span class="tocnumber">4</span> <span class="toctext">Elections</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Major_Islands"><span class="tocnumber">5</span> <span class="toctext">Major Islands</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Local government previously existed in the Bahamas in the form of appointed "Board of Works". Here towns and villages held their influence over these Board of Works, but almost all final decisions were made by the <a href="/wiki/Central_government" title="Central government">central government</a> through that islands' <a href="/wiki/Commissioner" title="Commissioner">Commissioner</a>. The modern system of local government that is in use today was implemented on <a href="/wiki/The_Bahamas_Local_Government_Act_1996" title="The Bahamas Local Government Act 1996">8 March 1996</a>. The <a href="/wiki/Out_Islands" title="Out Islands">Out Islands</a> of the country could now enjoy a somewhat greater degree of autonomy, but <a href="/wiki/New_Providence_Island" class="mw-redirect" title="New Providence Island">New Providence Island</a>, in which the capital city <a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a> is located, was to be directly governed by the central government. The act that implemented local government had described all districts as either being Second-Schedule or Third-Schedule districts. <sup id="cite_ref-NEW_3-0" class="reference"><a href="#cite_note-NEW-3">[3]</a></sup> </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:602px;">
+        <a href="/wiki/File:Districts_of_the_Bahamas_(Labeled).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Districts_of_the_Bahamas_%28Labeled%29.png/600px-Districts_of_the_Bahamas_%28Labeled%29.png" decoding="async" width="600" height="623" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/0/03/Districts_of_the_Bahamas_%28Labeled%29.png 1.5x" data-file-width="825" data-file-height="856"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Districts_of_the_Bahamas_(Labeled).png" class="internal" title="Enlarge"></a>
+         </div>Map of The Bahamas with the districts numbered
+        </div>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Districts_of_The_Bahamas">Districts of The Bahamas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit&amp;section=2" title="Edit section: Districts of The Bahamas">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The <b>Districts of the Bahamas</b> provide a system of <a href="/wiki/Local_Government" class="mw-redirect" title="Local Government">Local Government</a> everywhere in <a href="/wiki/The_Bahamas" title="The Bahamas">The Bahamas</a> except <a href="/wiki/New_Providence" title="New Providence">New Providence</a> (where <a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a> the capital is located, whose affairs are handled directly by the central government). The current system dates from 1996 when 23 <a href="/wiki/District" title="District">districts</a> were "created" by <a href="/wiki/The_Bahamas_Local_Government_Act_of_1996" class="mw-redirect" title="The Bahamas Local Government Act of 1996">The Bahamas Local Government Act of 1996</a>– a further 9 have been added since 1999.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p>
+      <p>Local Government in The Bahamas has seen great success since its introduction, but there has been concern over the case of New Providence and whether or not it should have local government. </p> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr> 
+         <th>District</th> 
+         <th>Island Group</th> 
+         <th>Largest Town and Cities </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Acklins" title="Acklins">Acklins</a></td> 
+         <td><a href="/wiki/Acklins_and_Crooked_Islands" title="Acklins and Crooked Islands">Acklins and Crooked Islands</a></td> 
+         <td>Spring Point, Lovely Bay </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Berry_Islands" title="Berry Islands">Berry Islands</a></td> 
+         <td><a href="/wiki/Berry_Islands" title="Berry Islands">Berry Islands</a></td> 
+         <td>Bullocks Harbour, <a href="/wiki/Chub_Cay" title="Chub Cay">Chub Cay</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Bimini" title="Bimini">Bimini</a></td> 
+         <td><a href="/wiki/Bimini_Islands" class="mw-redirect" title="Bimini Islands">Bimini</a></td> 
+         <td><a href="/wiki/Alice_Town" title="Alice Town">Alice Town</a>, Louis Town </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Black_Point,_Bahamas" title="Black Point, Bahamas">Black Point</a></td> 
+         <td><a href="/wiki/Exuma" title="Exuma">Exuma</a></td> 
+         <td><a href="/wiki/Black_Point,_Bahamas" title="Black Point, Bahamas">Black Point</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a></td> 
+         <td><a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a></td> 
+         <td>Arthur's Town, Port Howe </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Central_Abaco" title="Central Abaco">Central Abaco</a></td> 
+         <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+         <td><a href="/wiki/Marsh_Harbour" title="Marsh Harbour">Marsh Harbour</a>, <a href="/wiki/Spring_City,_Bahamas" title="Spring City, Bahamas">Spring City</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Central_Andros" title="Central Andros">Central Andros</a></td> 
+         <td><a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros</a></td> 
+         <td>Cargill Creek, Behring Point </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Central_Eleuthera" title="Central Eleuthera">Central Eleuthera</a></td> 
+         <td><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></td> 
+         <td><a href="/wiki/Governor%27s_Harbour" title="Governor's Harbour">Governor's Harbour</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Freeport,_Bahamas" title="Freeport, Bahamas">City of Freeport</a></td> 
+         <td><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a></td> 
+         <td><a href="/wiki/Freeport,_Bahamas" title="Freeport, Bahamas">Freeport Lucaya</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Crooked_Island,_Bahamas" title="Crooked Island, Bahamas">Crooked Island</a></td> 
+         <td><a href="/wiki/Acklins_and_Crooked_Islands" title="Acklins and Crooked Islands">Acklins and Crooked Islands</a></td> 
+         <td><a href="/wiki/Colonel_Hill" title="Colonel Hill">Colonel Hill</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/East_Grand_Bahama" title="East Grand Bahama">East Grand Bahama</a></td> 
+         <td><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a></td> 
+         <td>Pelican Point, Maclean's Town </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Exuma" title="Exuma">Exuma</a></td> 
+         <td><a href="/wiki/Exuma" title="Exuma">Exuma</a></td> 
+         <td><a href="/wiki/George_Town,_Bahamas" title="George Town, Bahamas">George Town</a>, Rolleville </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Grand_Cay" title="Grand Cay">Grand Cay</a></td> 
+         <td><a href="/wiki/Grand_Cay" title="Grand Cay">Grand Cay</a></td> 
+         <td><a href="/wiki/Grand_Cay" title="Grand Cay">Grand Cay City</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Green_Turtle_Cay" title="Green Turtle Cay">Green Turtle Cay</a></td> 
+         <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+         <td>New Plymouth </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Harbour_Island,_Bahamas" title="Harbour Island, Bahamas">Harbour Island</a></td> 
+         <td><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></td> 
+         <td><a href="/wiki/Dunmore_Town" title="Dunmore Town">Dunmore Town</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Hope_Town" title="Hope Town">Hope Town</a></td> 
+         <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+         <td><a href="/wiki/Hope_Town" title="Hope Town">Hope Town</a>, <a href="/wiki/Man-o-War_Cay" class="mw-redirect" title="Man-o-War Cay">Man-o-War Cay</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Inagua" title="Inagua">Inagua</a></td> 
+         <td><a href="/wiki/Inagua" title="Inagua">Inagua Islands</a></td> 
+         <td><a href="/wiki/Matthew_Town" title="Matthew Town">Matthew Town</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long Island</a></td> 
+         <td><a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long Island</a></td> 
+         <td>Deadman's Cay, Clarence Town </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Mangrove_Cay" title="Mangrove Cay">Mangrove Cay</a></td> 
+         <td><a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros</a></td> 
+         <td>Moxey Town, Lisbon Creek </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a></td> 
+         <td><a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a></td> 
+         <td>Abraham's Bay </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Moore%27s_Island" title="Moore's Island">Moore's Island</a></td> 
+         <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+         <td>Hard Bargain, The Bight </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/North_Abaco" title="North Abaco">North Abaco</a></td> 
+         <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+         <td><a href="/wiki/Coopers_Town" title="Coopers Town">Coopers Town</a>, <a href="/wiki/Crown_Haven" title="Crown Haven">Crown Haven</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/North_Andros" title="North Andros">North Andros</a></td> 
+         <td><a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros</a></td> 
+         <td><a href="/wiki/Nicholls_Town" title="Nicholls Town">Nicholl's Town</a>, Morgan's Bluff </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/North_Eleuthera" title="North Eleuthera">North Eleuthera</a></td> 
+         <td><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></td> 
+         <td>Upper Bouge, Lower Bouge, Current </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged Island</a></td> 
+         <td><a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged island Chain</a></td> 
+         <td>Duncan Town </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a></td> 
+         <td><a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a></td> 
+         <td><a href="/wiki/Rum_Cay" title="Rum Cay">Port Nelson</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a></td> 
+         <td><a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador Island</a></td> 
+         <td><a href="/wiki/Cockburn_Town,_Bahamas" title="Cockburn Town, Bahamas">Cockburn Town</a>, United Estates </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/South_Abaco" title="South Abaco">South Abaco</a></td> 
+         <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+         <td><a href="/wiki/Sandy_Point,_Bahamas" class="mw-redirect" title="Sandy Point, Bahamas">Sandy Point</a>, Crossing Rocks </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/South_Andros" title="South Andros">South Andros</a></td> 
+         <td><a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros</a></td> 
+         <td>Congo Town, Mars Bay </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/South_Eleuthera" title="South Eleuthera">South Eleuthera</a></td> 
+         <td><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></td> 
+         <td><a href="/wiki/Tarpum_Bay" title="Tarpum Bay">Tarpum Bay</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Spanish_Wells" title="Spanish Wells">Spanish Wells</a></td> 
+         <td>Russel Island</td> 
+         <td><a href="/wiki/Spanish_Wells" title="Spanish Wells">Spanish Wells</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/West_Grand_Bahama" title="West Grand Bahama">West Grand Bahama</a></td> 
+         <td><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a></td> 
+         <td><a href="/wiki/West_End_theatre" title="West End theatre">West End</a>, Eight Mile Rock </td>
+        </tr>
+       </tbody>
+      </table> 
+      <ul>
+       <li><a href="/wiki/New_Providence" title="New Providence">New Providence</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Types_of_Councils">Types of Councils</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit&amp;section=3" title="Edit section: Types of Councils">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Every district in the Bahamas has a districts council.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> A district council is a corporate body with <a href="/wiki/Perpetual_succession" title="Perpetual succession">perpetual succession</a>; capable of entering into contracts, of suing and being sued, of acquiring, holdings, leasing and disposing of property of any description, and of doing all such things and entering into such transactions that are within the scope of the <i>Local Government Act.</i><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> District Councillors are elected by the population of that district in accordance with <a href="/wiki/The_Bahamas_Local_Government_Act_1996" title="The Bahamas Local Government Act 1996">Local Government Act</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> As stated in <a href="/wiki/The_Bahamas_Local_Government_Act_1996" title="The Bahamas Local Government Act 1996">The Bahamas Local Government Act 1996</a>, Districts councillors shall within two weeks of their election, elect from among themselves a Chief Councillor.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The Chief Councillor shall be the representative of a Districts Council for all affairs. He or she is to preside over all meetings and also themselves co-ordinate these meetings.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
+      <p>All districts councils are classed as first-schedule councils. The first-schedule is further sub-divided into two types of councils: two tier second-schedule district councils that have town committees within their jurisdiction, and <a href="/wiki/Unitary_authority" title="Unitary authority">unitary</a> third-tier district councils.<sup id="cite_ref-A2_10-0" class="reference"><a href="#cite_note-A2-10">[10]</a></sup> Second-schedule districts have the following statutory boards and committees<b>:</b> </p> 
+      <ul>
+       <li>Road Traffic Licensing Authority</li> 
+       <li>Port and Harbour Authority</li> 
+       <li>Hotel Licensing Board</li> 
+       <li>Liquor and Shop Licensing</li> 
+       <li>Town Planning Committee</li>
+      </ul> 
+      <p>Town committees are sub-structures of the second-schedule district councils, but are also corporate bodies themselves. They share responsibility with second-schedule district councils for a number of the schedule local government functions. They also have statutory responsibility for local regulation and licensing within their jurisdiction.<sup id="cite_ref-A3_11-0" class="reference"><a href="#cite_note-A3-11">[11]</a></sup> Third-schedule districts councils are unique within the Bahamas because they combine the responsibilities of the second-schedule districts and of the town committees. Both second- and third-schedule district councils carry out a building control function...<sup id="cite_ref-A4_12-0" class="reference"><a href="#cite_note-A4-12">[12]</a></sup> </p> 
+      <table class="wikitable sortable" style="font-size:90%; width:650px; margin:auto;"> 
+       <caption style="text-align:center; background:#bfd7ff;">
+        <b>Distribution of councils and population (2010 Census)</b> 
+       </caption> 
+       <tbody>
+        <tr style="background:#efefef;"> 
+         <th style="text-align:center;" class="unsortable"><a href="/wiki/Islands_of_the_Bahamas" class="mw-redirect" title="Islands of the Bahamas">Island</a> </th> 
+         <th align="left">2nd tier </th> 
+         <th align="left">3rd tier </th> 
+         <th align="right">Town </th> 
+         <th align="right">Population </th>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/New_Providence" title="New Providence">New Providence</a> </td> 
+         <td>0 </td> 
+         <td>0 </td> 
+         <td> </td> 
+         <td>246,329 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Abaco,_Bahamas" class="mw-redirect" title="Abaco, Bahamas">Abaco islands</a> </td> 
+         <td>3 </td> 
+         <td>4 </td> 
+         <td> </td> 
+         <td>17,242 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Acklins" title="Acklins">Acklins</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>565 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros Island</a> </td> 
+         <td>3 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>7,490 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Berry_Islands" title="Berry Islands">Berry Islands</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>807 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Bimini" title="Bimini">Bimini</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>1,988 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a> </td> 
+         <td>1 </td> 
+         <td>0 </td> 
+         <td> </td> 
+         <td>1,522 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Crooked_Island,_Bahamas" title="Crooked Island, Bahamas">Crooked Island</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>330 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a> </td> 
+         <td>2 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>51,368 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Harbour_Island,_Bahamas" title="Harbour Island, Bahamas">Harbour Island</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>1,762 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a> </td> 
+         <td>2 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>8,202 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Exuma" title="Exuma">Exuma and Cays</a> </td> 
+         <td>1 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>6,928 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Inagua" title="Inagua">Inagua</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>913 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long Island</a> </td> 
+         <td>1 </td> 
+         <td>0 </td> 
+         <td> </td> 
+         <td>3,094 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>277 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged Island</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>72 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>99 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>930 </td>
+        </tr> 
+        <tr align="left"> 
+         <td><a href="/wiki/Spanish_Wells" title="Spanish Wells">Spanish Wells</a> </td> 
+         <td>0 </td> 
+         <td>1 </td> 
+         <td> </td> 
+         <td>1,551 </td>
+        </tr> 
+        <tr class="sortbottom" bgcolor="#BFD7FF" style="text-align:center;"> 
+         <td style="background:#bfd7ff;"><b>TOTAL</b> </td> 
+         <td style="background:#bfd7ff; text-align:left;"><b>13</b> </td> 
+         <td style="background:#bfd7ff;"><b>19</b> </td> 
+         <td style="background:#bfd7ff;"> </td> 
+         <td style="background:#bfd7ff;"><b>351,461</b> </td> 
+         <td style="background:#bfd7ff;"><b>13,940</b> </td>
+        </tr> 
+        <tr align="left"> 
+         <td>Largest Council </td> 
+         <td>31,478 </td> 
+         <td>6,014 </td> 
+         <td> </td> 
+         <td> </td>
+        </tr> 
+        <tr align="left"> 
+         <td>Smallest Council </td> 
+         <td>72 </td> 
+         <td>1,548 </td> 
+         <td> </td> 
+         <td> </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Elections">Elections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit&amp;section=4" title="Edit section: Elections">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Local government elections take place once every three years in the Bahamas with the most recent elections taking place in June 2011 in which 391 positions were contested.<sup id="cite_ref-A5_13-0" class="reference"><a href="#cite_note-A5-13">[13]</a></sup> The voting system used in local government elections is the <a href="/wiki/First-past-the-post" class="mw-redirect" title="First-past-the-post">first-past-the-post</a> system. Both councillors of third-schedule district councils and members of town committees are directly elected, while members of second-schedule councils are indirectly elected from town committees. Third schedule district councils have between five and nine members, whereas the size of councils in both second-schedule councils and town committees varies according to population size. <a href="/wiki/By_election" class="mw-redirect" title="By election">By elections</a> are held whenever the need arises. A councillor is deemed to have resigned if they are absent for three consecutive meetings.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2020)">citation needed</span></a></i>]</sup> </p>
+      <p>For both types of district councils the <a href="/wiki/Chief_Councillor" title="Chief Councillor">Chief Councillors</a> and their deputies are indirectly elected from amongst the elected officials. They serve for the lifetime of the council and the Minister of Local Government determines their <a href="/wiki/Stipend" title="Stipend">stipend</a>. Second-schedule district councils' statutory boards also elect chairpersons and their deputies from amongst their members.<sup id="cite_ref-A6_14-0" class="reference"><a href="#cite_note-A6-14">[14]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Major_Islands">Major Islands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit&amp;section=5" title="Edit section: Major Islands">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable" style="width:420px; margin:auto; font-size:90%;"> 
+       <caption style="text-align:center; background:#bfd7ff;">
+        Reference map for the Islands of the Bahamas<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> 
+       </caption> 
+       <tbody>
+        <tr> 
+         <td align="left">
+          <div role="img" class="noresize" style="width: 630px; line-height: 1; text-align: center; background-color: #ffffff; position: relative;">
+           <a href="/wiki/File:Map_of_the_Bahamas-2010.png" class="image"><img alt="." src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_the_Bahamas-2010.png/630px-Map_of_the_Bahamas-2010.png" decoding="async" width="630" height="454" srcset="//upload.wikimedia.org/wikipedia/commons/5/50/Map_of_the_Bahamas-2010.png 1.5x" data-file-width="800" data-file-height="577"></a> 
+           <div style="position:absolute; font-size:85%; left:194px; top:140px">
+            <a href="/wiki/New_Providence" title="New Providence">New<br>Providence</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:154px; top:188px">
+            <a href="/wiki/Andros_Island" class="mw-redirect" title="Andros Island">Andros</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:74px; top:132px">
+            <a href="/wiki/Bimini" title="Bimini">Bimini</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:138px; top:120px">
+            <a href="/wiki/Berry_Islands" title="Berry Islands">The Berry<br>Islands</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:426px; top:424px">
+            <a href="/wiki/Inagua" title="Inagua">Inagua</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:378px; top:312px">
+            <a href="/wiki/Crooked_Island,_Bahamas" title="Crooked Island, Bahamas">Crooked<br>Island</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:418px; top:344px">
+            <a href="/wiki/Acklins" title="Acklins">Acklins</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:474px; top:344px">
+            <a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:-0.1px; top:45.1px">
+            <a href="/wiki/Florida" title="Florida">Florida (USA)</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:230px; top:60px">
+            <a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco Islands</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:94px; top:64px">
+            <a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:530px; top:384px">
+            <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands (UK)</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:266px; top:248px">
+            <a href="/wiki/Exuma" title="Exuma">Exuma</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:350px; top:272px">
+            <a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long<br>Island</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:306px; top:332px">
+            <a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged Island</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:154px; top:388px">
+            <a href="/wiki/Cuba" title="Cuba">Cuba</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:314px; top:208px">
+            <a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:398px; top:232px">
+            <a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:376.4px; top:252px">
+            <a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a>
+           </div> 
+           <div style="position:absolute; font-size:85%; left:266px; top:144px">
+            <a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a>
+           </div> 
+          </div> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="wikitable sortable" style="font-size:90%; width:650px; margin:auto;"> 
+       <caption style="text-align:center; background:#bfd7ff;">
+        <b>Islands of the Bahamas</b><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> 
+       </caption> 
+       <tbody>
+        <tr style="background:#efefef;"> 
+         <th style="text-align:center;" class="unsortable">Crest </th> 
+         <th align="left">Island's name </th> 
+         <th align="left"><a href="/wiki/List_of_Australian_capital_cities" title="List of Australian capital cities">Capital</a> (or largest settlement) </th> 
+         <th align="right">Population </th> 
+         <th align="right">Area (km²) </th>
+        </tr> 
+        <tr align="center"> 
+         <td></td> 
+         <td align="left"><a href="/wiki/Acklins" title="Acklins">Acklins</a></td> 
+         <td align="left"><a href="/w/index.php?title=Spring_Point,_Bahamas&amp;action=edit&amp;redlink=1" class="new" title="Spring Point, Bahamas (page does not exist)">Spring Point</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></td> 
+         <td align="right">560</td> 
+         <td align="right">492 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Badge_of_Abaco.gif" class="image"><img alt="Badge of Abaco.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Badge_of_Abaco.gif/15px-Badge_of_Abaco.gif" decoding="async" width="15" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Badge_of_Abaco.gif/23px-Badge_of_Abaco.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Badge_of_Abaco.gif/30px-Badge_of_Abaco.gif 2x" data-file-width="129" data-file-height="168"></a></td> 
+         <td align="left"><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+         <td align="left"><a href="/wiki/Marsh_Harbour" title="Marsh Harbour">Marsh Harbour</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></td> 
+         <td align="right">16,692</td> 
+         <td align="right">1,681 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Badge_of_Andros.jpg" class="image"><img alt="Badge of Andros.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Badge_of_Andros.jpg/15px-Badge_of_Andros.jpg" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Badge_of_Andros.jpg/23px-Badge_of_Andros.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Badge_of_Andros.jpg/30px-Badge_of_Andros.jpg 2x" data-file-width="70" data-file-height="90"></a></td> 
+         <td align="left"><a href="/wiki/Andros_Island" class="mw-redirect" title="Andros Island">Andros</a></td> 
+         <td align="left"><a href="/wiki/Andros_Town" title="Andros Town">Andros Town</a></td> 
+         <td align="right">7,386</td> 
+         <td align="right">5,957 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Badge_of_the_Berry_Islands.jpg" class="image"><img alt="Badge of the Berry Islands.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Badge_of_the_Berry_Islands.jpg/15px-Badge_of_the_Berry_Islands.jpg" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Badge_of_the_Berry_Islands.jpg/23px-Badge_of_the_Berry_Islands.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Badge_of_the_Berry_Islands.jpg/30px-Badge_of_the_Berry_Islands.jpg 2x" data-file-width="72" data-file-height="90"></a></td> 
+         <td align="left"><a href="/wiki/Berry_Islands" title="Berry Islands">Berry Islands</a></td> 
+         <td align="left"><a href="/wiki/Nicholls_Town" title="Nicholls Town">Nicholls Town</a></td> 
+         <td align="right">798</td> 
+         <td align="right">31 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Crest_of_Bimini.png" class="image"><img alt="Crest of Bimini.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Crest_of_Bimini.png/15px-Crest_of_Bimini.png" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Crest_of_Bimini.png/23px-Crest_of_Bimini.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Crest_of_Bimini.png/30px-Crest_of_Bimini.png 2x" data-file-width="101" data-file-height="125"></a></td> 
+         <td align="left"><a href="/wiki/Bimini" title="Bimini">Bimini</a></td> 
+         <td align="left"><a href="/wiki/Alice_Town" title="Alice Town">Alice Town</a></td> 
+         <td align="right">2,008</td> 
+         <td align="right">23 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>[[]]</td> 
+         <td align="left"><a href="/wiki/Exuma_and_Cays" class="mw-redirect" title="Exuma and Cays">Exuma and Cays</a></td> 
+         <td align="left"><a href="/wiki/George_Town,_Bahamas" title="George Town, Bahamas">George Town</a></td> 
+         <td align="right">6,928</td> 
+         <td align="right">250 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Badge_of_Cat_Island.png" class="image"><img alt="Badge of Cat Island.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Badge_of_Cat_Island.png/15px-Badge_of_Cat_Island.png" decoding="async" width="15" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Badge_of_Cat_Island.png/23px-Badge_of_Cat_Island.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Badge_of_Cat_Island.png/30px-Badge_of_Cat_Island.png 2x" data-file-width="95" data-file-height="125"></a></td> 
+         <td align="left"><a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a></td> 
+         <td align="left"><a href="/wiki/Arthur%27s_Town" title="Arthur's Town">Arthur's Town</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></td> 
+         <td align="right">1,503</td> 
+         <td align="right">389 </td>
+        </tr> 
+        <tr align="center"> 
+         <td></td> 
+         <td align="left"><a href="/wiki/Crooked_Island_(Bahamas)" class="mw-redirect" title="Crooked Island (Bahamas)">Crooked Island</a></td> 
+         <td align="left"><a href="/wiki/Colonel_Hill" title="Colonel Hill">Colonel Hill</a><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></td> 
+         <td align="right">323</td> 
+         <td align="right">241 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Eleuthera_Island_Crest.jpg" class="image"><img alt="Eleuthera Island Crest.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eleuthera_Island_Crest.jpg/15px-Eleuthera_Island_Crest.jpg" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eleuthera_Island_Crest.jpg/23px-Eleuthera_Island_Crest.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eleuthera_Island_Crest.jpg/30px-Eleuthera_Island_Crest.jpg 2x" data-file-width="108" data-file-height="134"></a></td> 
+         <td align="left"><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></td> 
+         <td align="left"><a href="/wiki/Governor%27s_Harbour" title="Governor's Harbour">Governor's Harbour</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td> 
+         <td align="right">9,363</td> 
+         <td align="right">518 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Crest_of_Grand_Bahama.gif" class="image"><img alt="Crest of Grand Bahama.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Crest_of_Grand_Bahama.gif/15px-Crest_of_Grand_Bahama.gif" decoding="async" width="15" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Crest_of_Grand_Bahama.gif/23px-Crest_of_Grand_Bahama.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Crest_of_Grand_Bahama.gif/30px-Crest_of_Grand_Bahama.gif 2x" data-file-width="101" data-file-height="124"></a></td> 
+         <td align="left"><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a></td> 
+         <td align="left"><a href="/wiki/Freeport_City" class="mw-redirect" title="Freeport City">Freeport City</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></td> 
+         <td align="right">51,756</td> 
+         <td align="right">1,373 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Badge_of_Inagua.jpg" class="image"><img alt="Badge of Inagua.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Badge_of_Inagua.jpg/15px-Badge_of_Inagua.jpg" decoding="async" width="15" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Badge_of_Inagua.jpg/23px-Badge_of_Inagua.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Badge_of_Inagua.jpg/30px-Badge_of_Inagua.jpg 2x" data-file-width="66" data-file-height="90"></a></td> 
+         <td align="left"><a href="/wiki/Inagua" title="Inagua">Inagua</a></td> 
+         <td align="left"><a href="/wiki/Matthew_Town" title="Matthew Town">Matthew Town</a><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></td> 
+         <td align="right">911</td> 
+         <td align="right">1,679 </td>
+        </tr> 
+        <tr align="center"> 
+         <td></td> 
+         <td align="left"><a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long Island</a></td> 
+         <td align="left"><a href="/wiki/Clarence_Town" title="Clarence Town">Clarence Town</a><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></td> 
+         <td align="right">3,024</td> 
+         <td align="right">596 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:MayaguanaCrest.gif" class="image"><img alt="MayaguanaCrest.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MayaguanaCrest.gif/15px-MayaguanaCrest.gif" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MayaguanaCrest.gif/23px-MayaguanaCrest.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MayaguanaCrest.gif/30px-MayaguanaCrest.gif 2x" data-file-width="102" data-file-height="126"></a></td> 
+         <td align="left"><a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a></td> 
+         <td align="left"><a href="/wiki/Abraham%27s_Bay" title="Abraham's Bay">Abraham's Bay</a></td> 
+         <td align="right">271</td> 
+         <td align="right">285 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Badge_of_New_Providence.png" class="image"><img alt="Badge of New Providence.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Badge_of_New_Providence.png/15px-Badge_of_New_Providence.png" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Badge_of_New_Providence.png/23px-Badge_of_New_Providence.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Badge_of_New_Providence.png/30px-Badge_of_New_Providence.png 2x" data-file-width="97" data-file-height="125"></a></td> 
+         <td align="left"><a href="/wiki/New_Providence" title="New Providence">New Providence</a></td> 
+         <td align="left"><a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a></td> 
+         <td align="right">248,948</td> 
+         <td align="right">207 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Crest_of_Ragged_Island.png" class="image"><img alt="Crest of Ragged Island.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Crest_of_Ragged_Island.png/15px-Crest_of_Ragged_Island.png" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Crest_of_Ragged_Island.png/23px-Crest_of_Ragged_Island.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Crest_of_Ragged_Island.png/30px-Crest_of_Ragged_Island.png 2x" data-file-width="101" data-file-height="125"></a></td> 
+         <td align="left"><a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged</a></td> 
+         <td align="left"><a href="/wiki/List_of_cities_in_the_Bahamas" title="List of cities in the Bahamas">Duncan Town</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></td> 
+         <td align="right">70</td> 
+         <td align="right">36 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Crest_of_Rum_Cay.png" class="image"><img alt="Crest of Rum Cay.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crest_of_Rum_Cay.png/15px-Crest_of_Rum_Cay.png" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crest_of_Rum_Cay.png/23px-Crest_of_Rum_Cay.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crest_of_Rum_Cay.png/30px-Crest_of_Rum_Cay.png 2x" data-file-width="101" data-file-height="125"></a></td> 
+         <td align="left"><a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a></td> 
+         <td align="left"><a href="/wiki/Rum_Cay" title="Rum Cay">Port Nelson</a></td> 
+         <td align="right">99</td> 
+         <td align="right">78 </td>
+        </tr> 
+        <tr align="center"> 
+         <td><a href="/wiki/File:Crest_of_San_Salvador_Island.png" class="image"><img alt="Crest of San Salvador Island.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crest_of_San_Salvador_Island.png/15px-Crest_of_San_Salvador_Island.png" decoding="async" width="15" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crest_of_San_Salvador_Island.png/23px-Crest_of_San_Salvador_Island.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crest_of_San_Salvador_Island.png/30px-Crest_of_San_Salvador_Island.png 2x" data-file-width="103" data-file-height="125"></a></td> 
+         <td align="left"><a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a></td> 
+         <td align="left"><a href="/wiki/List_of_cities_in_the_Bahamas" title="List of cities in the Bahamas">Cockburn Town</a><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></td> 
+         <td align="right">930</td> 
+         <td align="right">163 </td>
+        </tr> 
+        <tr class="sortbottom" bgcolor="#BFD7FF" style="text-align:center;"> 
+         <td style="background:#bfd7ff;"><a href="/wiki/File:Coat_of_arms_of_the_Bahamas.svg" class="image"><img alt="Coat of arms of the Bahamas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/25px-Coat_of_arms_of_the_Bahamas.svg.png" decoding="async" width="25" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/38px-Coat_of_arms_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/50px-Coat_of_arms_of_the_Bahamas.svg.png 2x" data-file-width="1323" data-file-height="1620"></a> </td> 
+         <td style="background:#bfd7ff; text-align:left;"><a href="/wiki/File:Flag_of_the_Bahamas.svg" class="image"><img alt="Flag of the Bahamas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/30px-Flag_of_the_Bahamas.svg.png" decoding="async" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/45px-Flag_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/60px-Flag_of_the_Bahamas.svg.png 2x" data-file-width="600" data-file-height="300"></a> <b><a href="/wiki/The_Bahamas" title="The Bahamas">The Bahamas</a></b> </td> 
+         <td style="background:#bfd7ff;"><b><a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a></b> </td> 
+         <td style="background:#bfd7ff;"><b>353,658</b><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> </td> 
+         <td style="background:#bfd7ff;"><b>13,943</b> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Chief_Councillor" title="Chief Councillor">Chief Councillor</a></li> 
+       <li><a href="/wiki/Hope_Town_District_Council" title="Hope Town District Council">Hope Town District Council</a></li> 
+       <li><a href="/wiki/ISO_3166-2:BS" title="ISO 3166-2:BS">ISO 3166-2:BS</a></li> 
+       <li><a href="/wiki/List_of_Caribbean_First-level_Subdivisions_by_Total_Area" class="mw-redirect" title="List of Caribbean First-level Subdivisions by Total Area">List of Caribbean First-level Subdivisions by Total Area</a></li> 
+       <li><a href="/wiki/List_of_newspapers_in_the_Bahamas" title="List of newspapers in the Bahamas">List of newspapers in the Bahamas</a></li> 
+       <li><a href="/wiki/Commonwealth_Local_Government_Forum" title="Commonwealth Local Government Forum">Commonwealth Local Government Forum-Americas</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-A-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-A_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.clgf.org.uk/regions/clgf-americas/bahamas/">"The Local Government System in the Bahamas"</a>. <i>Commonwealth Local Government Forum</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Commonwealth+Local+Government+Forum&amp;rft.atitle=The+Local+Government+System+in+the+Bahamas&amp;rft_id=http%3A%2F%2Fwww.clgf.org.uk%2Fregions%2Fclgf-americas%2Fbahamas%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-A1-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-A1_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.clgf.org.uk/regions/clgf-americas/bahamas/">"The Local Government System in the Bahamas:Ministerial oversight:"</a>. <i>Commonwealth Local Government Forum</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Commonwealth+Local+Government+Forum&amp;rft.atitle=The+Local+Government+System+in+the+Bahamas%3AMinisterial+oversight%3A&amp;rft_id=http%3A%2F%2Fwww.clgf.org.uk%2Fregions%2Fclgf-americas%2Fbahamas%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-NEW-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-NEW_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111026165416/http://www.hopetowncouncil.com/?page_id=46">"West Indies"</a>. <i>The Hope Town District Council</i>. Archived from <a rel="nofollow" class="external text" href="http://www.hopetowncouncil.com/?page_id=46">the original</a> on 26 October 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">27 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Hope+Town+District+Council&amp;rft.atitle=West+Indies&amp;rft_id=http%3A%2F%2Fwww.hopetowncouncil.com%2F%3Fpage_id%3D46&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bahamas.gov.bs/bahamasweb2/home.nsf/vContentW/Parliamentary+Dept--Laws+and+Acts--Parliamentary+Laws+and+Acts!OpenDocument&amp;ExpandSection=3">"Laws and Acts"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Laws+and+Acts&amp;rft_id=http%3A%2F%2Fwww.bahamas.gov.bs%2Fbahamasweb2%2Fhome.nsf%2FvContentW%2FParliamentary%2BDept--Laws%2Band%2BActs--Parliamentary%2BLaws%2Band%2BActs%21OpenDocument%26ExpandSection%3D3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Bahamas Local Government Act 1996, Part IV, Section 10:1 Retrieved-November-27</span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Bahamas Local Government Act 1996, Part IV, 10:2 Retrieved-November-27</span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Bahamas Local Government Act 1996, Part IV, 10:4 Retrieved-November-27</span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Bahamas Local Government Act 1996, Part IV, 11 Retrieved-November-27</span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Bahamas Local Government Act 1996, Part IV, 11:2 Retrieved-November-27</span> </li> 
+         <li id="cite_note-A2-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-A2_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.clgf.org.uk/regions/clgf-americas/bahamas/">"The Local Government System in the Bahamas:Council Types"</a>. <i>Commonwealth Local Government Forum</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Commonwealth+Local+Government+Forum&amp;rft.atitle=The+Local+Government+System+in+the+Bahamas%3ACouncil+Types&amp;rft_id=http%3A%2F%2Fwww.clgf.org.uk%2Fregions%2Fclgf-americas%2Fbahamas%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-A3-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-A3_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.clgf.org.uk/regions/clgf-americas/bahamas">"The Local Government System in the Bahamas:Council Types:Second-schedule District Councils&amp;Town Committees"</a>. <i>Commonwealth Local Government Forum</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Commonwealth+Local+Government+Forum&amp;rft.atitle=The+Local+Government+System+in+the+Bahamas%3ACouncil+Types%3ASecond-schedule+District+Councils%26Town+Committees&amp;rft_id=http%3A%2F%2Fwww.clgf.org.uk%2Fregions%2Fclgf-americas%2Fbahamas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-A4-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-A4_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.clgf.org.uk/regions/clgf-americas/bahamas/">"The Local Government System in the Bahamas:Council Types:Third-Schedule Districts"</a>. <i>Commonwealth Local Government Forum</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Commonwealth+Local+Government+Forum&amp;rft.atitle=The+Local+Government+System+in+the+Bahamas%3ACouncil+Types%3AThird-Schedule+Districts&amp;rft_id=http%3A%2F%2Fwww.clgf.org.uk%2Fregions%2Fclgf-americas%2Fbahamas%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-A5-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-A5_13-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFGibbs2011" class="citation news cs1">Gibbs, Gena (25 June 2011). <a rel="nofollow" class="external text" href="http://www.thebahamasweekly.com/publish/bis-newsupdates/Local_Government_holds_national_elections_in_Family_Islands16610.shtml">"Local Government holds national elections in Family Islands"</a>. <i>Bahamas Information Services</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bahamas+Information+Services&amp;rft.atitle=Local+Government+holds+national+elections+in+Family+Islands&amp;rft.date=2011-06-25&amp;rft.aulast=Gibbs&amp;rft.aufirst=Gena&amp;rft_id=http%3A%2F%2Fwww.thebahamasweekly.com%2Fpublish%2Fbis-newsupdates%2FLocal_Government_holds_national_elections_in_Family_Islands16610.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-A6-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-A6_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.clgf.org.uk/regions/clgf-americas/bahamas">"The Local Government System in the Bahamas:Elections"</a>. <i>Commonwealth Local Government Forum</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Commonwealth+Local+Government+Forum&amp;rft.atitle=The+Local+Government+System+in+the+Bahamas%3AElections&amp;rft_id=http%3A%2F%2Fwww.clgf.org.uk%2Fregions%2Fclgf-americas%2Fbahamas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.lib.utexas.edu/maps/americas/bahamas.gif">"Reference map for the Islands of the Bahamas"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Reference+map+for+the+Islands+of+the+Bahamas&amp;rft_id=http%3A%2F%2Fwww.lib.utexas.edu%2Fmaps%2Famericas%2Fbahamas.gif&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bahamas.gov.bs/bahamasweb2/home.nsf/vContentW/BB6D1EC9658AE55606256ED3005CAAE7">"The Commonwealth of the Bahamas"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Commonwealth+of+the+Bahamas&amp;rft_id=http%3A%2F%2Fwww.bahamas.gov.bs%2Fbahamasweb2%2Fhome.nsf%2FvContentW%2FBB6D1EC9658AE55606256ED3005CAAE7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060324064238/http://www.bahamasb2b.com/travel/bahamas-activities.php?island=Acklins">"Acklins / Crooked Island Activities and Attractions"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.bahamasb2b.com/travel/bahamas-activities.php?island=Acklins">the original</a> on 24 March 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Acklins+%2F+Crooked+Island+Activities+and+Attractions&amp;rft_id=http%3A%2F%2Fwww.bahamasb2b.com%2Ftravel%2Fbahamas-activities.php%3Fisland%3DAcklins&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:ERfZ6jiqXl8J:www.bahamasbeachfrontvilla.com/Abaco-TreasureCay-Bahamas.html+The+Capital+of+Abaco&amp;cd=2&amp;hl=en&amp;ct=clnk">"DeBora's Dreamscape"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DeBora%27s+Dreamscape&amp;rft_id=http%3A%2F%2Fwebcache.googleusercontent.com%2Fsearch%3Fq%3Dcache%3AERfZ6jiqXl8J%3Awww.bahamasbeachfrontvilla.com%2FAbaco-TreasureCay-Bahamas.html%2BThe%2BCapital%2Bof%2BAbaco%26cd%3D2%26hl%3Den%26ct%3Dclnk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100522023646/http://www.majesticholidays.com/-dest-CATN-.htm">"Majestic Holidays"</a>. Archived from the original on 22 May 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Majestic+Holidays&amp;rft_id=http%3A%2F%2Fwww.majesticholidays.com%2F-dest-CATN-.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: unfit url (<a href="/wiki/Category:CS1_maint:_unfit_url" title="Category:CS1 maint: unfit url">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:QCCbGnHlrsQJ:www.the-bahama-islands.com/acklins.html+Capital+of+Crooked+Island&amp;cd=1&amp;hl=en&amp;ct=clnk">"Acklins Island and Crooked Island, Bahamas"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Acklins+Island+and+Crooked+Island%2C+Bahamas&amp;rft_id=http%3A%2F%2Fwebcache.googleusercontent.com%2Fsearch%3Fq%3Dcache%3AQCCbGnHlrsQJ%3Awww.the-bahama-islands.com%2Facklins.html%2BCapital%2Bof%2BCrooked%2BIsland%26cd%3D1%26hl%3Den%26ct%3Dclnk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:6yjdkUy_79YJ:www.eleuthera.com/medlocation.html+Capital+of+Eleuthera&amp;cd=3&amp;hl=en&amp;ct=clnk">"Med Point"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Med+Point&amp;rft_id=http%3A%2F%2Fwebcache.googleusercontent.com%2Fsearch%3Fq%3Dcache%3A6yjdkUy_79YJ%3Awww.eleuthera.com%2Fmedlocation.html%2BCapital%2Bof%2BEleuthera%26cd%3D3%26hl%3Den%26ct%3Dclnk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://archive.today/20121129114732/http://www.grandbahama.com/">"Grand Bahama - an impartial guide to the Island"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.grandbahama.com/">the original</a> on 29 November 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Grand+Bahama+-+an+impartial+guide+to+the+Island&amp;rft_id=http%3A%2F%2Fwww.grandbahama.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:-Cpqc0h7oOEJ:www.theinaguas.com/history.php+Capital+of+Inagua&amp;cd=3&amp;hl=en&amp;ct=clnk">"The Inaguas"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Inaguas&amp;rft_id=http%3A%2F%2Fwebcache.googleusercontent.com%2Fsearch%3Fq%3Dcache%3A-Cpqc0h7oOEJ%3Awww.theinaguas.com%2Fhistory.php%2BCapital%2Bof%2BInagua%26cd%3D3%26hl%3Den%26ct%3Dclnk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:Qy_RXhYf36QJ:www.bahamasgateway.com/hotel_yellow12.htm+Capital+of+Long+Island&amp;cd=2&amp;hl=en&amp;ct=clnk">"Bahamas Gateway Yellow Pages -- Hotels"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bahamas+Gateway+Yellow+Pages+--+Hotels&amp;rft_id=http%3A%2F%2Fwebcache.googleusercontent.com%2Fsearch%3Fq%3Dcache%3AQy_RXhYf36QJ%3Awww.bahamasgateway.com%2Fhotel_yellow12.htm%2BCapital%2Bof%2BLong%2BIsland%26cd%3D2%26hl%3Den%26ct%3Dclnk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:0KoODErpvekJ:www.bahamasbeachfrontvilla.com/RaggedIslandBahamas.htm+Capital+of+Ragged+Island&amp;cd=2&amp;hl=en&amp;ct=clnk">"DeBora's Dreamscape"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DeBora%27s+Dreamscape&amp;rft_id=http%3A%2F%2Fwebcache.googleusercontent.com%2Fsearch%3Fq%3Dcache%3A0KoODErpvekJ%3Awww.bahamasbeachfrontvilla.com%2FRaggedIslandBahamas.htm%2BCapital%2Bof%2BRagged%2BIsland%26cd%3D2%26hl%3Den%26ct%3Dclnk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://archive.today/20120912153222/http://www.thebahamasguide.com/islands/sansalvador/default.htm">"San Salvador Bahamas: Christopher Columbus First Landfall"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.thebahamasguide.com/islands/sansalvador/default.htm">the original</a> on 12 September 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=San+Salvador+Bahamas%3A+Christopher+Columbus+First+Landfall&amp;rft_id=http%3A%2F%2Fwww.thebahamasguide.com%2Fislands%2Fsansalvador%2Fdefault.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://statistics.bahamas.gov.bs/download/095485600.pdf">"Comparison between the 2000 and 2010 Population Censuses and Percentage Change"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Comparison+between+the+2000+and+2010+Population+Censuses+and+Percentage+Change&amp;rft_id=http%3A%2F%2Fstatistics.bahamas.gov.bs%2Fdownload%2F095485600.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+government+in+The+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.bahamas.gov.bs/bahamasweb2/home.nsf/vContentW/A5FB7665F3E4341306256F0000763055">Bahamas.gov.bs</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="The_Bahamas_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:The_Bahamas_topics" title="Template:The Bahamas topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:The_Bahamas_topics" title="Template talk:The Bahamas topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:The_Bahamas_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="The_Bahamas_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/The_Bahamas" title="The Bahamas">The Bahamas</a>&nbsp;<a href="/wiki/Index_of_The_Bahamas-related_articles" class="mw-redirect" title="Index of The Bahamas-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_The_Bahamas" class="mw-redirect" title="History of The Bahamas">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_governors_of_the_Bahamas" title="List of governors of the Bahamas">Colonial heads</a></li> 
+             <li><a href="/wiki/Eleutheran_Adventurers" title="Eleutheran Adventurers">Eleutheran Adventurers</a></li> 
+             <li><a href="/wiki/Raid_on_Charles_Town" title="Raid on Charles Town">Raid on Charles Town</a></li> 
+             <li><a href="/wiki/Raid_on_Nassau" title="Raid on Nassau">Raid on Nassau</a></li> 
+             <li><a href="/wiki/Raid_on_Nassau_(1720)" title="Raid on Nassau (1720)">Raid on Nassau (1720)</a></li> 
+             <li><a href="/wiki/Battle_of_Nassau" class="mw-redirect" title="Battle of Nassau">Battle of Nassau</a></li> 
+             <li><a href="/wiki/Capture_of_the_Bahamas_(1782)" title="Capture of the Bahamas (1782)">Capture of the Bahamas (1782)</a></li> 
+             <li><a href="/wiki/Capture_of_the_Bahamas_(1783)" title="Capture of the Bahamas (1783)">Capture of the Bahamas (1783)</a></li> 
+             <li><a href="/wiki/Bahamas_and_the_American_Civil_War" title="Bahamas and the American Civil War">American Civil War</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_The_Bahamas" class="mw-redirect" title="Geography of The Bahamas">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_cities_in_the_Bahamas" title="List of cities in the Bahamas">Cities</a> 
+                  <ul>
+                   <li><a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a></li> 
+                   <li><a href="/wiki/Freeport,_Bahamas" title="Freeport, Bahamas">Freeport</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/List_of_islands_of_the_Bahamas" class="mw-redirect" title="List of islands of the Bahamas">Islands</a> 
+                  <ul>
+                   <li><a href="/wiki/New_Providence" title="New Providence">New Providence</a></li> 
+                   <li><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/List_of_rivers_of_the_Bahamas" class="mw-redirect" title="List of rivers of the Bahamas">Rivers</a></li> 
+                 <li><a href="/wiki/Category:Biota_of_the_Bahamas" title="Category:Biota of the Bahamas">Wildlife</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_birds_of_the_Bahamas" title="List of birds of the Bahamas">birds</a></li> 
+                   <li><a href="/wiki/List_of_mammals_of_the_Bahamas" title="List of mammals of the Bahamas">mammals</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_The_Bahamas" class="mw-redirect" title="Politics of The Bahamas">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Royal_Bahamas_Defence_Force" title="Royal Bahamas Defence Force">Defence Force</a></li> 
+                 <li><a href="/wiki/Elections_in_the_Bahamas" title="Elections in the Bahamas">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_the_Bahamas" title="Foreign relations of the Bahamas">Foreign relations</a></li> 
+                 <li><a href="/wiki/Governor-General_of_the_Bahamas" title="Governor-General of the Bahamas">Governor-General</a></li> 
+                 <li><a href="/wiki/Judiciary_of_the_Bahamas" title="Judiciary of the Bahamas">Judiciary</a></li> 
+                 <li><a href="/wiki/Law_of_the_Bahamas" title="Law of the Bahamas">Law</a></li> 
+                 <li><a href="/wiki/Royal_Bahamas_Police_Force" title="Royal Bahamas Police Force">Law enforcement</a></li> 
+                 <li><a href="/wiki/Local_government_in_the_Bahamas" class="mw-redirect" title="Local government in the Bahamas">Local government</a></li> 
+                 <li><a href="/wiki/Monarchy_of_the_Bahamas" title="Monarchy of the Bahamas">Monarchy</a></li> 
+                 <li><a href="/wiki/Parliament_of_the_Bahamas" title="Parliament of the Bahamas">Parliament</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_the_Bahamas" title="List of political parties in the Bahamas">Political parties</a></li> 
+                 <li><a href="/wiki/Prime_Minister_of_the_Bahamas" title="Prime Minister of the Bahamas">Prime Minister</a></li> 
+                 <li><a href="/wiki/Special_Branch#Bahamas" title="Special Branch">Security and intelligence</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_The_Bahamas" class="mw-redirect" title="Economy of The Bahamas">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_the_Bahamas" class="mw-redirect" title="Agriculture in the Bahamas">Agriculture</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_the_Bahamas" title="Telecommunications in the Bahamas">Communications</a></li> 
+                 <li><a href="/wiki/Bahamian_dollar" title="Bahamian dollar">Dollar <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Bahamas_Securities_Exchange" title="Bahamas Securities Exchange">Stock exchange</a></li> 
+                 <li><a href="/wiki/Taxation_in_the_Bahamas" title="Taxation in the Bahamas">Taxation</a></li> 
+                 <li><a href="/wiki/Transport_in_the_Bahamas" title="Transport in the Bahamas">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:The_Bahamas_society" title="Category:The Bahamas society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/March_On,_Bahamaland" title="March On, Bahamaland">Anthem</a></li> 
+                 <li><a href="/wiki/Coat_of_arms_of_the_Bahamas" title="Coat of arms of the Bahamas">Coat of Arms</a></li> 
+                 <li><a href="/wiki/Bahamian_Creole" title="Bahamian Creole">Creole</a></li> 
+                 <li><a href="/wiki/Culture_of_the_Bahamas" title="Culture of the Bahamas">Culture</a></li> 
+                 <li><a href="/wiki/Demographics_of_the_Bahamas" title="Demographics of the Bahamas">Demographics</a></li> 
+                 <li><a href="/wiki/Category:Ethnic_groups_in_the_Bahamas" title="Category:Ethnic groups in the Bahamas">Ethnic groups</a></li> 
+                 <li><a href="/wiki/Education_in_the_Bahamas" title="Education in the Bahamas">Education</a></li> 
+                 <li><a href="/wiki/Flag_of_the_Bahamas" title="Flag of the Bahamas">Flag</a></li> 
+                 <li><a href="/wiki/List_of_Bahamian_films" title="List of Bahamian films">Films</a></li> 
+                 <li><a href="/wiki/Public_holidays_in_the_Bahamas" title="Public holidays in the Bahamas">Holidays</a></li> 
+                 <li><a href="/wiki/Category:Languages_of_the_Bahamas" title="Category:Languages of the Bahamas">Languages</a></li> 
+                 <li><a href="/wiki/LGBT_rights_in_the_Bahamas" title="LGBT rights in the Bahamas">LGBT rights</a></li> 
+                 <li><a href="/wiki/Music_of_the_Bahamas" title="Music of the Bahamas">Music</a></li> 
+                 <li><a href="/wiki/God_Bless_our_Sunny_Clime" class="mw-redirect" title="God Bless our Sunny Clime">National Song</a></li> 
+                 <li><a href="/wiki/Pledge_of_Allegiance_(Bahamas)" title="Pledge of Allegiance (Bahamas)">Pledge</a></li> 
+                 <li><a href="/wiki/Religion_in_the_Bahamas" class="mw-redirect" title="Religion in the Bahamas">Religion</a></li> 
+                 <li><a href="/wiki/Television_in_the_Bahamas" title="Television in the Bahamas">Television</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_The_Bahamas" class="mw-redirect" title="Outline of The Bahamas">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_The_Bahamas-related_articles" class="mw-redirect" title="Index of The Bahamas-related articles">Index</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Bibliography_of_The_Bahamas" class="mw-redirect" title="Bibliography of The Bahamas">Bibliography</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:The_Bahamas" title="Category:The Bahamas">Category</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Local_Government_in_the_Bahamas" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Local_Government_in_the_Bahamas" title="Template:Local Government in the Bahamas"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Local_Government_in_the_Bahamas" title="Template talk:Local Government in the Bahamas"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Local_Government_in_the_Bahamas&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Local_Government_in_the_Bahamas" style="font-size:114%;margin:0 4em">
+            <a class="mw-selflink selflink">Local Government in the Bahamas</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Second-Scheduled Districts</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/North_Abaco" title="North Abaco">North Abaco</a></li> 
+             <li><a href="/wiki/Central_Abaco" title="Central Abaco">Central Abaco</a></li> 
+             <li><a href="/wiki/South_Abaco" title="South Abaco">South Abaco</a></li> 
+             <li><a href="/wiki/North_Andros" title="North Andros">North Andros</a></li> 
+             <li><a href="/wiki/Central_Andros" title="Central Andros">Central Andros</a></li> 
+             <li><a href="/wiki/South_Andros" title="South Andros">South Andros</a></li> 
+             <li><a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a></li> 
+             <li><a href="/wiki/West_Grand_Bahama" title="West Grand Bahama">West Grand Bahama</a></li> 
+             <li><a href="/wiki/East_Grand_Bahama" title="East Grand Bahama">East Grand Bahama</a></li> 
+             <li><a href="/wiki/Central_Eleuthera" title="Central Eleuthera">Central Eleuthera</a></li> 
+             <li><a href="/wiki/North_Eleuthera" title="North Eleuthera">North Eleuthera</a></li> 
+             <li><a href="/wiki/Exuma" title="Exuma">Exuma and Cays</a></li> 
+             <li><a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long Island</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Third-Scheduled Districts</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Grand_Cay" title="Grand Cay">Grand Cay</a></li> 
+             <li><a href="/wiki/Green_Turtle_Cay" title="Green Turtle Cay">Green Turtle Cay</a></li> 
+             <li><a href="/wiki/Hope_Town" title="Hope Town">Hope Town</a></li> 
+             <li><a href="/wiki/Moore%27s_Island" title="Moore's Island">Moore's Island</a></li> 
+             <li><a href="/wiki/Acklins" title="Acklins">Acklins</a></li> 
+             <li><a href="/wiki/Mangrove_Cay" title="Mangrove Cay">Mangrove Cay</a></li> 
+             <li><a href="/wiki/Berry_Islands" title="Berry Islands">Berry Islands</a></li> 
+             <li><a href="/wiki/Bimini" title="Bimini">Bimini</a></li> 
+             <li><a href="/wiki/Crooked_Island,_Bahamas" title="Crooked Island, Bahamas">Crooked Island</a></li> 
+             <li><a href="/wiki/Freeport,_Bahamas" title="Freeport, Bahamas">Freeport </a></li> 
+             <li><a href="/wiki/Harbour_Island,_Bahamas" title="Harbour Island, Bahamas">Harbour Island</a></li> 
+             <li><a href="/wiki/South_Eleuthera" title="South Eleuthera">South Eleuthera</a></li> 
+             <li><a href="/wiki/Black_Point,_Bahamas" title="Black Point, Bahamas">Black Point</a></li> 
+             <li><a href="/wiki/Inagua" title="Inagua">Inagua</a></li> 
+             <li><a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a></li> 
+             <li><a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged Island</a></li> 
+             <li><a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a></li> 
+             <li><a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a></li> 
+             <li><a href="/wiki/Spanish_Wells" title="Spanish Wells">Spanish Wells</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Chief_Councillor" title="Chief Councillor">Chief Councillors</a></li> 
+             <li><a href="/wiki/Hope_Town_District_Council" title="Hope Town District Council">Hope Town District Council</a></li> 
+             <li><a href="/wiki/The_Bahamas_Local_Government_Act_1996" title="The Bahamas Local Government Act 1996">Local Government Act</a></li> 
+             <li><a href="/wiki/New_Providence" title="New Providence">New Providence</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Articles_on_first-level_administrative_divisions_of_North_American_countries" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Articles_on_first-level_administrative_divisions_of_North_American_countries" title="Template:Articles on first-level administrative divisions of North American countries"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Articles_on_first-level_administrative_divisions_of_North_American_countries" title="Template talk:Articles on first-level administrative divisions of North American countries"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Articles_on_first-level_administrative_divisions_of_North_American_countries&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Articles_on_first-level_administrative_divisions_of_North_American_countries" style="font-size:114%;margin:0 4em">
+            Articles on first-level <a href="/wiki/Administrative_division" title="Administrative division">administrative divisions</a> of <a href="/wiki/North_America" title="North America">North American</a> countries
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Parishes_and_dependencies_of_Antigua_and_Barbuda" title="Parishes and dependencies of Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Local_government_in_the_Bahamas" class="mw-redirect" title="Local government in the Bahamas">Bahamas</a></li> 
+             <li><a href="/wiki/Parishes_of_Barbados" title="Parishes of Barbados">Barbados</a></li> 
+             <li><a href="/wiki/Districts_of_Belize" title="Districts of Belize">Belize</a></li> 
+             <li><a href="/wiki/Provinces_and_territories_of_Canada" title="Provinces and territories of Canada">Canada</a></li> 
+             <li><a href="/wiki/Provinces_of_Costa_Rica" title="Provinces of Costa Rica">Costa Rica</a></li> 
+             <li><a href="/wiki/Provinces_of_Cuba" title="Provinces of Cuba">Cuba</a></li> 
+             <li><a href="/wiki/Parishes_of_Dominica" title="Parishes of Dominica">Dominica</a></li> 
+             <li><a href="/wiki/Provinces_of_the_Dominican_Republic" title="Provinces of the Dominican Republic">Dominican Republic</a></li> 
+             <li><a href="/wiki/Departments_of_El_Salvador" title="Departments of El Salvador">El Salvador</a></li> 
+             <li><a href="/wiki/Parishes_of_Grenada" title="Parishes of Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Departments_of_Guatemala" title="Departments of Guatemala">Guatemala</a></li> 
+             <li><a href="/wiki/Departments_of_Haiti" title="Departments of Haiti">Haiti</a></li> 
+             <li><a href="/wiki/Departments_of_Honduras" title="Departments of Honduras">Honduras</a></li> 
+             <li><a href="/wiki/Parishes_of_Jamaica" title="Parishes of Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Mexico" title="Administrative divisions of Mexico">Mexico</a></li> 
+             <li><a href="/wiki/Departments_of_Nicaragua" title="Departments of Nicaragua">Nicaragua</a></li> 
+             <li><a href="/wiki/Provinces_of_Panama" title="Provinces of Panama">Panama</a></li> 
+             <li><a href="/wiki/Parishes_of_Saint_Kitts_and_Nevis" class="mw-redirect" title="Parishes of Saint Kitts and Nevis">St. Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Quarters_of_Saint_Lucia" title="Quarters of Saint Lucia">St. Lucia</a></li> 
+             <li><a href="/wiki/Parishes_of_Saint_Vincent_and_the_Grenadines" title="Parishes of Saint Vincent and the Grenadines">St. Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Regional_corporations_and_municipalities_of_Trinidad_and_Tobago" class="mw-redirect" title="Regional corporations and municipalities of Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/U.S._state" title="U.S. state">United States</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            <a href="/wiki/List_of_administrative_divisions_by_country" title="List of administrative divisions by country">Table of administrative subdivisions by country</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <div role="navigation" class="navbox" aria-labelledby="Administrative_divisions_of_the_Americas" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Americas_topic" title="Template:Americas topic"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Americas_topic" title="Template talk:Americas topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Americas_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Administrative_divisions_of_the_Americas" style="font-size:114%;margin:0 4em">
+            Administrative divisions of the Americas
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div id="*_North_America_**_Caribbean_**_Central_America_**_Northern_America_*_South_America"> 
+            <ul>
+             <li><a href="/w/index.php?title=Administrative_divisions_of_North_America&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of North America (page does not exist)">North America</a> 
+              <ul>
+               <li><a href="/w/index.php?title=Administrative_divisions_of_Caribbean&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Caribbean (page does not exist)">Caribbean</a></li> 
+               <li><a href="/w/index.php?title=Administrative_divisions_of_Central_America&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Central America (page does not exist)">Central America</a></li> 
+               <li><a href="/w/index.php?title=Administrative_divisions_of_Northern_America&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Northern America (page does not exist)">Northern America</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Administrative_divisions_of_South_America" class="mw-redirect" title="Administrative divisions of South America">South America</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Administrative_divisions_of_Antigua_and_Barbuda" class="mw-redirect" title="Administrative divisions of Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Argentina" title="Administrative divisions of Argentina">Argentina</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_the_Bahamas" class="mw-redirect" title="Administrative divisions of the Bahamas">Bahamas</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Barbados" class="mw-redirect" title="Administrative divisions of Barbados">Barbados</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Belize" class="mw-redirect" title="Administrative divisions of Belize">Belize</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Bolivia" title="Administrative divisions of Bolivia">Bolivia</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Brazil" class="mw-redirect" title="Administrative divisions of Brazil">Brazil</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Canada" title="Administrative divisions of Canada">Canada</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Chile" title="Administrative divisions of Chile">Chile</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Colombia" title="Administrative divisions of Colombia">Colombia</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Costa_Rica" title="Administrative divisions of Costa Rica">Costa Rica</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Cuba" class="mw-redirect" title="Administrative divisions of Cuba">Cuba</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Dominica" class="mw-redirect" title="Administrative divisions of Dominica">Dominica</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_the_Dominican_Republic" class="mw-redirect" title="Administrative divisions of the Dominican Republic">Dominican Republic</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Ecuador" class="mw-redirect" title="Administrative divisions of Ecuador">Ecuador</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_El_Salvador" class="mw-redirect" title="Administrative divisions of El Salvador">El Salvador</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Grenada" class="mw-redirect" title="Administrative divisions of Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Guatemala" class="mw-redirect" title="Administrative divisions of Guatemala">Guatemala</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Guyana" class="mw-redirect" title="Administrative divisions of Guyana">Guyana</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Haiti" title="Administrative divisions of Haiti">Haiti</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Honduras" class="mw-redirect" title="Administrative divisions of Honduras">Honduras</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Jamaica" class="mw-redirect" title="Administrative divisions of Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Mexico" title="Administrative divisions of Mexico">Mexico</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Nicaragua" class="mw-redirect" title="Administrative divisions of Nicaragua">Nicaragua</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Panama" class="mw-redirect" title="Administrative divisions of Panama">Panama</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Paraguay" class="mw-redirect" title="Administrative divisions of Paraguay">Paraguay</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Peru" title="Administrative divisions of Peru">Peru</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Saint_Kitts_and_Nevis" class="mw-redirect" title="Administrative divisions of Saint Kitts and Nevis">Saint Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Saint_Lucia" class="mw-redirect" title="Administrative divisions of Saint Lucia">Saint Lucia</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Saint_Vincent_and_the_Grenadines" class="mw-redirect" title="Administrative divisions of Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Suriname" class="mw-redirect" title="Administrative divisions of Suriname">Suriname</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Trinidad_and_Tobago" class="mw-redirect" title="Administrative divisions of Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_the_United_States" class="mw-redirect" title="Administrative divisions of the United States">United States</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Uruguay" class="mw-redirect" title="Administrative divisions of Uruguay">Uruguay</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Venezuela" title="Administrative divisions of Venezuela">Venezuela</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Americas" title="Americas"><img alt="Americas (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/100px-Americas_%28orthographic_projection%29.svg.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/150px-Americas_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/200px-Americas_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and
+            <br>other <a href="/wiki/Territory" title="Territory">territories</a>
+           </div></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Administrative_divisions_of_Anguilla" class="mw-redirect" title="Administrative divisions of Anguilla">Anguilla</a></li> 
+             <li><a href="/w/index.php?title=Administrative_divisions_of_Aruba&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Aruba (page does not exist)">Aruba</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Bermuda" title="Administrative divisions of Bermuda">Bermuda</a></li> 
+             <li><a href="/w/index.php?title=Administrative_divisions_of_Bonaire&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Bonaire (page does not exist)">Bonaire</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_the_British_Virgin_Islands" class="mw-redirect" title="Administrative divisions of the British Virgin Islands">British Virgin Islands</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_the_Cayman_Islands" class="mw-redirect" title="Administrative divisions of the Cayman Islands">Cayman Islands</a></li> 
+             <li><a href="/w/index.php?title=Administrative_divisions_of_Cura%C3%A7ao&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Curaçao (page does not exist)">Curaçao</a></li> 
+             <li><a href="/w/index.php?title=Administrative_divisions_of_the_Falkland_Islands&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of the Falkland Islands (page does not exist)">Falkland Islands</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_French_Guiana" class="mw-redirect" title="Administrative divisions of French Guiana">French Guiana</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Greenland" title="Administrative divisions of Greenland">Greenland</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Guadeloupe" class="mw-redirect" title="Administrative divisions of Guadeloupe">Guadeloupe</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Martinique" class="mw-redirect" title="Administrative divisions of Martinique">Martinique</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Montserrat" class="mw-redirect" title="Administrative divisions of Montserrat">Montserrat</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Puerto_Rico" class="mw-redirect" title="Administrative divisions of Puerto Rico">Puerto Rico</a></li> 
+             <li><a href="/w/index.php?title=Administrative_divisions_of_Saint_Barth%C3%A9lemy&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Saint Barthélemy (page does not exist)">Saint Barthélemy</a></li> 
+             <li><a href="/w/index.php?title=Administrative_divisions_of_Saint_Martin_(France)&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Saint Martin (France) (page does not exist)">Saint Martin</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_Saint_Pierre_and_Miquelon" class="mw-redirect" title="Administrative divisions of Saint Pierre and Miquelon">Saint Pierre and Miquelon</a></li> 
+             <li><a href="/w/index.php?title=Administrative_divisions_of_Saba&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Saba (page does not exist)">Saba</a></li> 
+             <li><a href="/w/index.php?title=Administrative_divisions_of_Sint_Eustatius&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Sint Eustatius (page does not exist)">Sint Eustatius</a></li> 
+             <li><a href="/w/index.php?title=Administrative_divisions_of_Sint_Maarten&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Sint Maarten (page does not exist)">Sint Maarten</a></li> 
+             <li><a href="/w/index.php?title=Administrative_divisions_of_South_Georgia_and_the_South_Sandwich_Islands&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of South Georgia and the South Sandwich Islands (page does not exist)">South Georgia and the South Sandwich Islands</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_the_Turks_and_Caicos_Islands" class="mw-redirect" title="Administrative divisions of the Turks and Caicos Islands">Turks and Caicos Islands</a></li> 
+             <li><a href="/wiki/Administrative_divisions_of_the_United_States_Virgin_Islands" class="mw-redirect" title="Administrative divisions of the United States Virgin Islands">US Virgin Islands</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1344
+Cached time: 20201215052605
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.648 seconds
+Real time usage: 0.834 seconds
+Preprocessor visited node count: 4029/1000000
+Post‐expand include size: 143984/2097152 bytes
+Template argument size: 11548/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 25/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 75163/5000000 bytes
+Lua time usage: 0.264/10.000 seconds
+Lua memory usage: 6873477/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  618.685      1 -total
+ 38.75%  239.754      1 Template:Reflist
+ 32.93%  203.715     21 Template:Cite_web
+ 16.31%  100.914      1 Template:Politics_of_the_Bahamas
+ 15.38%   95.124      8 Template:Navbox
+ 15.32%   94.813      1 Template:Sidebar_with_collapsible_lists
+ 13.64%   84.416      1 Template:Bahamas_topics
+ 12.29%   76.027      1 Template:Country_topics
+  9.20%   56.896      1 Template:Fact
+  7.84%   48.528      1 Template:Fix
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:673438-0!canonical and timestamp 20201215052604 and revision id 994338575. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Local_government_in_The_Bahamas&amp;oldid=994338575">https://en.wikipedia.org/w/index.php?title=Local_government_in_The_Bahamas&amp;oldid=994338575</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Districts_of_the_Bahamas" title="Category:Districts of the Bahamas">Districts of the Bahamas</a></li>
+       <li><a href="/wiki/Category:Subdivisions_of_the_Bahamas" title="Category:Subdivisions of the Bahamas">Subdivisions of the Bahamas</a></li>
+       <li><a href="/wiki/Category:Lists_of_country_subdivisions" title="Category:Lists of country subdivisions">Lists of country subdivisions</a></li>
+       <li><a href="/wiki/Category:Country_subdivisions_in_North_America" title="Category:Country subdivisions in North America">Country subdivisions in North America</a></li>
+       <li><a href="/wiki/Category:Bahamas-related_lists" title="Category:Bahamas-related lists">Bahamas-related lists</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_maint:_unfit_url" title="Category:CS1 maint: unfit url">CS1 maint: unfit url</a></li>
+       <li><a href="/wiki/Category:EngvarB_from_December_2014" title="Category:EngvarB from December 2014">EngvarB from December 2014</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_December_2014" title="Category:Use dmy dates from December 2014">Use dmy dates from December 2014</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2020" title="Category:Articles with unsourced statements from December 2020">Articles with unsourced statements from December 2020</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Local+government+in+The+Bahamas" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Local+government+in+The+Bahamas" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Local_government_in_The_Bahamas" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Local_government_in_The_Bahamas" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Local_government_in_The_Bahamas">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Local_government_in_The_Bahamas" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Local_government_in_The_Bahamas" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;oldid=994338575" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Local_government_in_The_Bahamas&amp;id=994338575&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6052753" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Local_government_in_The_Bahamas&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Local_government_in_The_Bahamas&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A7%D8%AA_%D8%A8%D9%87%D8%A7%D9%85%D8%A7%D8%B3" title="مقاطعات بهاماس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Organizaci%C3%B3n_territorial_de_Bahamas" title="Organización territorial de Bahamas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D9%84%D8%AA_%D9%85%D8%AD%D9%84%DB%8C_%D8%AF%D8%B1_%D8%A8%D8%A7%D9%87%D8%A7%D9%85%D8%A7" title="دولت محلی در باهاما – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B0%94%ED%95%98%EB%A7%88%EC%9D%98_%ED%96%89%EC%A0%95_%EA%B5%AC%EC%97%AD" title="바하마의 행정 구역 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%B0%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%99%E1%83%A3%E1%83%9C%E1%83%AB%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%90%E1%83%93%E1%83%9B%E1%83%98%E1%83%9C%E1%83%98%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%90%E1%83%AA%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%A7%E1%83%9D%E1%83%A4%E1%83%90" title="ბაჰამის კუნძულების ადმინისტრაციული დაყოფა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Bahamu_administrat%C4%ABvais_iedal%C4%ABjums" title="Bahamu administratīvais iedalījums – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%8F%E3%83%9E%E3%81%AE%E8%A1%8C%E6%94%BF%E5%8C%BA%E7%94%BB" title="バハマの行政区画 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Podzia%C5%82_administracyjny_Baham%C3%B3w" title="Podział administracyjny Bahamów – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2" title="Административное деление Багамских Островов – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B0_%D0%91%D0%B0%D1%85%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D0%9E%D1%81%D1%82%D1%80%D0%B2%D0%B0" title="Административна подела Бахамских Острва – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%B4%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE%D0%B4%D1%96%D0%BB_%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%96%D0%B2" title="Адміністративний поділ Багамських Островів – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%DB%81%D8%A7%D9%85%D8%A7%D8%B3_%D9%85%DB%8C%DA%BA_%D9%85%D9%82%D8%A7%D9%85%DB%8C_%D8%AD%DA%A9%D9%88%D9%85%D8%AA" title="بہاماس میں مقامی حکومت – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%93%88%E9%A9%AC%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92" title="巴哈马行政区划 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6052753#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 15 December 2020, at 05:26<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Local_government_in_The_Bahamas&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.648","walltime":"0.834","ppvisitednodes":{"value":4029,"limit":1000000},"postexpandincludesize":{"value":143984,"limit":2097152},"templateargumentsize":{"value":11548,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":75163,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  618.685      1 -total"," 38.75%  239.754      1 Template:Reflist"," 32.93%  203.715     21 Template:Cite_web"," 16.31%  100.914      1 Template:Politics_of_the_Bahamas"," 15.38%   95.124      8 Template:Navbox"," 15.32%   94.813      1 Template:Sidebar_with_collapsible_lists"," 13.64%   84.416      1 Template:Bahamas_topics"," 12.29%   76.027      1 Template:Country_topics","  9.20%   56.896      1 Template:Fact","  7.84%   48.528      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.264","limit":"10.000"},"limitreport-memusage":{"value":6873477,"limit":52428800},"limitreport-logs":"table#1 {\n}\n"},"cachereport":{"origin":"mw1344","timestamp":"20201215052605","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Local government in The Bahamas","url":"https:\/\/en.wikipedia.org\/wiki\/Local_government_in_The_Bahamas","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6052753","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6052753","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-23T00:35:01Z","dateModified":"2020-12-15T05:26:01Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8a\/Coat_of_arms_of_the_Bahamas.svg"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":130,"wgHostname":"mw1399"});});</script> 
+ </body>
+</html>

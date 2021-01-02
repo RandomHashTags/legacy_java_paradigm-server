@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.location.Country;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -9,7 +8,7 @@ import java.util.HashMap;
 public enum TwitterTrends implements RestAPI {
     INSTANCE;
 
-    private HashMap<Country, String> countries;
+    private HashMap<String, String> countries;
 
     TwitterTrends() {
         countries = new HashMap<>();
@@ -19,7 +18,7 @@ public enum TwitterTrends implements RestAPI {
     public void getWorldwideTrendingTopics(CompletionHandler handler) {
 
     }
-    public void getTrendingTopics(Country country, CompletionHandler handler) {
+    public void getTrendingTopics(String country, CompletionHandler handler) {
         if(countries.containsKey(country)) {
             handler.handle(countries.get(country));
         } else {

@@ -1,0 +1,1030 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Papua New Guinea - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAICAAAG3mfEgAAAAA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Papua_New_Guinea","wgTitle":"Papua New Guinea","wgCurRevisionId":7164596,"wgRevisionId":7164596,"wgArticleId":26947,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox country with unknown parameters","Pages using infobox country or infobox former country with the symbol caption or type parameters","Papua New Guinea","Current monarchies","English-speaking countries","Commonwealth realms","1975 establishments","1970s establishments in Oceania"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Papua_New_Guinea","wgRelevantArticleId":26947,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q691"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":
+"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Papua_New_Guinea"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Papua_New_Guinea&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Papua_New_Guinea&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Papua_New_Guinea"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Papua_New_Guinea rootpage-Papua_New_Guinea skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Papua New Guinea</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           <span class="nowrap">Independent State of Papua New Guinea</span>
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i>Independen Stet bilong Papua Niugini</i>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Papua_New_Guinea.svg" class="image" title="Flag of Papua New Guinea"><img alt="Flag of Papua New Guinea" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/125px-Flag_of_Papua_New_Guinea.svg.png" decoding="async" width="125" height="94" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/188px-Flag_of_Papua_New_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/250px-Flag_of_Papua_New_Guinea.svg.png 2x" data-file-width="600" data-file-height="450"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Papua_New_Guinea" title="Flag of Papua New Guinea">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:National_Emblem_of_Papua_New_Guinea.svg" class="image" title="Emblem of Papua New Guinea"><img alt="Emblem of Papua New Guinea" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/National_Emblem_of_Papua_New_Guinea.svg/85px-National_Emblem_of_Papua_New_Guinea.svg.png" decoding="async" width="85" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/National_Emblem_of_Papua_New_Guinea.svg/128px-National_Emblem_of_Papua_New_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/National_Emblem_of_Papua_New_Guinea.svg/170px-National_Emblem_of_Papua_New_Guinea.svg.png 2x" data-file-width="860" data-file-height="580"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Emblem
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b>"<a href="/w/index.php?title=Unity_in_diversity&amp;action=edit&amp;redlink=1" class="new" title="Unity in diversity (not yet started)">Unity in diversity</a>"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><i><a href="/w/index.php?title=O_Arise,_All_You_Sons&amp;action=edit&amp;redlink=1" class="new" title="O Arise, All You Sons (not yet started)">O Arise, All You Sons</a></i>&nbsp;<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Papua_New_Guinea_(orthographic_projection).svg" class="image" title="Location of Papua New Guinea"><img alt="Location of Papua New Guinea" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Papua_New_Guinea_%28orthographic_projection%29.svg/250px-Papua_New_Guinea_%28orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Papua_New_Guinea_%28orthographic_projection%29.svg/375px-Papua_New_Guinea_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Papua_New_Guinea_%28orthographic_projection%29.svg/500px-Papua_New_Guinea_%28orthographic_projection%29.svg.png 2x" data-file-width="541" data-file-height="541"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Port_Moresby" title="Port Moresby">Port Moresby</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Papua_New_Guinea&amp;params=9_30_S_147_07_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">9°30′S</span> <span class="longitude">147°07′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">9.500°S 147.117°E</span><span style="display:none">﻿ / <span class="geo">-9.500; 147.117</span></span></span></a></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Official_language" title="Official language">Official languages</a><sup id="cite_ref-cia_3-0" class="reference"><a href="#cite_note-cia-3">[3]</a></sup></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><a href="/w/index.php?title=Hiri_Motu&amp;action=edit&amp;redlink=1" class="new" title="Hiri Motu (not yet started)">Hiri Motu</a></li>
+            <li><a href="/wiki/Tok_Pisin" title="Tok Pisin">Tok Pisin</a></li>
+            <li>English</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>Papua New Guinean</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Parliamentary_democracy" class="mw-redirect" title="Parliamentary democracy">parliamentary democracy</a> under <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Monarchy_of_Papua_New_Guinea&amp;action=edit&amp;redlink=1" class="new" title="Monarchy of Papua New Guinea (not yet started)">Monarch</a> 
+          </div></th>
+         <td><a href="/wiki/Elizabeth_II" title="Elizabeth II">Elizabeth II</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Governor-General_of_Papua_New_Guinea" title="Governor-General of Papua New Guinea">Governor General</a> 
+          </div></th>
+         <td><a href="/wiki/Bob_Dadae" title="Bob Dadae">Bob Dadae</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Prime_Minister_of_Papua_New_Guinea" title="Prime Minister of Papua New Guinea">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/James_Marape" title="James Marape">James Marape</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/w/index.php?title=National_Parliament_of_Papua_New_Guinea&amp;action=edit&amp;redlink=1" class="new" title="National Parliament of Papua New Guinea (not yet started)">National Parliament</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        </tr>
+        <tr class="mergedbottomrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from <a href="/wiki/Australia" title="Australia">Australia</a> 
+          </div></th>
+         <td>16 September 1975</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>462,840&nbsp;km<sup>2</sup> (178,700&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">56th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>2</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2011 Census preliminary results estimate
+          </div></th>
+         <td>7,059,653<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">102nd</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2000&nbsp;census
+          </div></th>
+         <td>5,190,783</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>15/km<sup>2</sup> (38.8/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">201st</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$16.863 billion<sup id="cite_ref-imf2_5-0" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$2,532<sup id="cite_ref-imf2_5-1" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$12.655 billion<sup id="cite_ref-imf2_5-2" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$1,900<sup id="cite_ref-imf2_5-3" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(1996)</span></th>
+         <td>50.9<br><span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2011)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.466<br><span style="white-space:nowrap;"><span style="color:red">low</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">153rd</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Papua_New_Guinean_kina&amp;action=edit&amp;redlink=1" class="new" title="Papua New Guinean kina (not yet started)">Papua New Guinean kina</a> (<a href="/wiki/ISO_4217" title="ISO 4217">PGK</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+10</span> (<a href="/wiki/Australian_Eastern_Standard_Time" class="mw-redirect" title="Australian Eastern Standard Time">AEST</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+10</span> (not observed)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row"></th>
+         <td>(as of 2005)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>left</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=%2B675&amp;action=edit&amp;redlink=1" class="new" title="+675 (not yet started)">+675</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:PG&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:PG (not yet started)">PG</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.pg" class="mw-redirect" title=".pg">.pg</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Papua New Guinea</b> is an <a href="/wiki/Island" title="Island">island</a> country located on the Pacific Ocean. It is the east half of <a href="/wiki/New_Guinea" title="New Guinea">New Guinea</a> <a href="/wiki/Island" title="Island">island</a>, plus some nearby islands. The <a href="/wiki/Capital_city" title="Capital city">capital city</a> of Papua New Guinea is <a href="/wiki/Port_Moresby" title="Port Moresby">Port Moresby</a>. The population of Papua New Guinea are mostly the <a href="/wiki/Indigenous_peoples" title="Indigenous peoples">Indigenous peoples</a> of the island. </p>
+      <p>The island is in both <a href="/wiki/Australasia" title="Australasia">Australasia</a> and <a href="/wiki/Oceania" title="Oceania">Oceania</a>, which are two different terms for the <a href="/wiki/Continent" title="Continent">continent</a> of islands in the <a href="/wiki/Pacific" class="mw-redirect" title="Pacific">Pacific</a> area. It borders <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> to the west and near <a href="/wiki/Australia" title="Australia">Australia</a> to the south. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Divisions"><span class="tocnumber">1</span> <span class="toctext">Divisions</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Administrative_divisions"><span class="tocnumber">1.1</span> <span class="toctext">Administrative divisions</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Other_websites"><span class="tocnumber">3</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Papua_New_Guinea&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: Divisions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Papua_New_Guinea&amp;action=edit&amp;section=1" title="Change section: Divisions">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Administrative_divisions">Administrative divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Papua_New_Guinea&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Administrative divisions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Papua_New_Guinea&amp;action=edit&amp;section=2" title="Change section: Administrative divisions">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Papua New Guinea is divided into four regions. These regions are important for government, commercial, sporting and other activities. </p>
+      <p>The nation has 20 <a href="/wiki/Province" title="Province">province</a>-level divisions: eighteen, the Autonomous Region of <a href="/w/index.php?title=Bougainville_Province&amp;action=edit&amp;redlink=1" class="new" title="Bougainville Province (not yet started)">Bougainville</a> and the <a href="/w/index.php?title=National_Capital_District_(Papua_New_Guinea)&amp;action=edit&amp;redlink=1" class="new" title="National Capital District (Papua New Guinea) (not yet started)">National Capital District</a>. Each province is divided into one or more districts. The districts are divided into one or more Local Level Government areas. </p>
+      <p>The province-level divisions are as follows: </p> 
+      <table> 
+       <tbody>
+        <tr> 
+         <td> 
+          <ol>
+           <li><a href="/w/index.php?title=Central_Province_(Papua_New_Guinea)&amp;action=edit&amp;redlink=1" class="new" title="Central Province (Papua New Guinea) (not yet started)">Central</a></li> 
+           <li>Chimbu (<a href="/w/index.php?title=Simbu_Province&amp;action=edit&amp;redlink=1" class="new" title="Simbu Province (not yet started)">Simbu</a>)</li> 
+           <li><a href="/w/index.php?title=Eastern_Highlands_(Papua_New_Guinea)&amp;action=edit&amp;redlink=1" class="new" title="Eastern Highlands (Papua New Guinea) (not yet started)">Eastern Highlands</a></li> 
+           <li><a href="/w/index.php?title=East_New_Britain&amp;action=edit&amp;redlink=1" class="new" title="East New Britain (not yet started)">East New Britain</a></li> 
+           <li><a href="/w/index.php?title=East_Sepik&amp;action=edit&amp;redlink=1" class="new" title="East Sepik (not yet started)">East Sepik</a></li> 
+           <li><a href="/w/index.php?title=Enga_Province&amp;action=edit&amp;redlink=1" class="new" title="Enga Province (not yet started)">Enga</a></li> 
+           <li><a href="/w/index.php?title=Gulf_Province&amp;action=edit&amp;redlink=1" class="new" title="Gulf Province (not yet started)">Gulf</a></li> 
+           <li><a href="/w/index.php?title=Madang_Province&amp;action=edit&amp;redlink=1" class="new" title="Madang Province (not yet started)">Madang</a></li> 
+           <li><a href="/w/index.php?title=Manus_Province&amp;action=edit&amp;redlink=1" class="new" title="Manus Province (not yet started)">Manus</a></li> 
+           <li><a href="/w/index.php?title=Milne_Bay_Province&amp;action=edit&amp;redlink=1" class="new" title="Milne Bay Province (not yet started)">Milne Bay</a></li>
+          </ol> </td> 
+         <td> 
+          <ol start="11"> 
+           <li><a href="/w/index.php?title=Morobe_Province&amp;action=edit&amp;redlink=1" class="new" title="Morobe Province (not yet started)">Morobe</a> </li>
+           <li><a href="/w/index.php?title=New_Ireland_Province&amp;action=edit&amp;redlink=1" class="new" title="New Ireland Province (not yet started)">New Ireland</a> </li>
+           <li>Northern (<a href="/w/index.php?title=Oro_Province&amp;action=edit&amp;redlink=1" class="new" title="Oro Province (not yet started)">Oro Province</a>) </li>
+           <li><a href="/w/index.php?title=Bougainville_Province&amp;action=edit&amp;redlink=1" class="new" title="Bougainville Province (not yet started)">Bougainville (autonomous region)</a> </li>
+           <li><a href="/w/index.php?title=Southern_Highlands_(Papua_New_Guinea)&amp;action=edit&amp;redlink=1" class="new" title="Southern Highlands (Papua New Guinea) (not yet started)">Southern Highlands</a> </li>
+           <li><a href="/w/index.php?title=Western_Province,_Papua_New_Guinea&amp;action=edit&amp;redlink=1" class="new" title="Western Province, Papua New Guinea (not yet started)">Western Province</a> (Fly) </li>
+           <li><a href="/w/index.php?title=Western_Highlands_(Papua_New_Guinea)&amp;action=edit&amp;redlink=1" class="new" title="Western Highlands (Papua New Guinea) (not yet started)">Western Highlands</a> </li>
+           <li><a href="/w/index.php?title=West_New_Britain&amp;action=edit&amp;redlink=1" class="new" title="West New Britain (not yet started)">West New Britain</a> </li>
+           <li><a href="/w/index.php?title=West_Sepik&amp;action=edit&amp;redlink=1" class="new" title="West Sepik (not yet started)">West Sepik</a> (Sandaun) </li>
+           <li><a href="/w/index.php?title=National_Capital_District_(Papua_New_Guinea)&amp;action=edit&amp;redlink=1" class="new" title="National Capital District (Papua New Guinea) (not yet started)">National Capital District</a> </li>
+          </ol> </td> 
+         <td style="width:315px; vertical-align:middle;"> 
+          <div class="floatright">
+           <a href="/wiki/File:Papua_new_guinea_provinces_(numbers).png" class="image" title="Provinces of Papua New Guinea."><img alt="Provinces of Papua New Guinea." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Papua_new_guinea_provinces_%28numbers%29.png/400px-Papua_new_guinea_provinces_%28numbers%29.png" decoding="async" width="400" height="269" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Papua_new_guinea_provinces_%28numbers%29.png/600px-Papua_new_guinea_provinces_%28numbers%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Papua_new_guinea_provinces_%28numbers%29.png/800px-Papua_new_guinea_provinces_%28numbers%29.png 2x" data-file-width="1114" data-file-height="750"></a>
+          </div> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>Parliament has approved two additional provinces by 2012: <a href="/w/index.php?title=Hela_Province&amp;action=edit&amp;redlink=1" class="new" title="Hela Province (not yet started)">Hela Province</a>, which will be part of the current <a href="/w/index.php?title=Southern_Highlands_Province&amp;action=edit&amp;redlink=1" class="new" title="Southern Highlands Province (not yet started)">Southern Highlands Province</a>, and <a href="/w/index.php?title=Jiwaka_Province&amp;action=edit&amp;redlink=1" class="new" title="Jiwaka Province (not yet started)">Jiwaka Province</a>, which will be formed by dividing <a href="/w/index.php?title=Western_Highlands_Province&amp;action=edit&amp;redlink=1" class="new" title="Western Highlands Province (not yet started)">Western Highlands Province</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Papua_New_Guinea&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Papua_New_Guinea&amp;action=edit&amp;section=3" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite id="CITEREFSomare,_Michael2004" class="citation web cs1">Somare, Michael (6 December 2004). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060628014059/http://www.pm.gov.pg/PMsOffice/PMsoffice.nsf/pages/B6475E51C894229B4A256F6900141A4B?OpenDocument">"Stable Government, Investment Initiatives, and Economic Growth"</a>. <i>Keynote address to the 8th Papua New Guinea Mining and Petroleum Conference</i><span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Keynote+address+to+the+8th+Papua+New+Guinea+Mining+and+Petroleum+Conference&amp;rft.atitle=Stable+Government%2C+Investment+Initiatives%2C+and+Economic+Growth&amp;rft.date=2004-12-06&amp;rft.au=Somare%2C+Michael&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20060628014059%2Fhttp%3A%2F%2Fwww.pm.gov.pg%2FPMsOffice%2FPMsoffice.nsf%2Fpages%2FB6475E51C894229B4A256F6900141A4B%3FOpenDocument&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3APapua+New+Guinea" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.thenational.com.pg/020606/w5.htm">"Never more to rise"</a>. <i>The National (February 6, 2006)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 January</span> 2005</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+National+%28February+6%2C+2006%29&amp;rft.atitle=Never+more+to+rise&amp;rft_id=http%3A%2F%2Fwww.thenational.com.pg%2F020606%2Fw5.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3APapua+New+Guinea" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-cia-3"><span class="mw-cite-backlink"><a href="#cite_ref-cia_3-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/pp.html">"Papua New Guinea"</a>. <i>The World Factbook</i>. Langley, Virginia: Central Intelligence Agency. 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Papua+New+Guinea&amp;rft.date=2012&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fpp.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3APapua+New+Guinea" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.postcourier.com.pg/20130625/tuhome.htm">Population a concern</a> postcourier.com.pg (25 June 2013)</span> </li> 
+         <li id="cite_note-imf2-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_5-0">5.0</a></sup> <sup><a href="#cite_ref-imf2_5-1">5.1</a></sup> <sup><a href="#cite_ref-imf2_5-2">5.2</a></sup> <sup><a href="#cite_ref-imf2_5-3">5.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=61&amp;pr.y=6&amp;sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=853&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Papua New Guinea"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Papua+New+Guinea&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D61%26pr.y%3D6%26sy%3D2009%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D853%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3APapua+New+Guinea" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.postcourier.com.pg/20090715/news05.htm">"<span class="cs1-kern-left">'</span>'Post-Courier'', "Jiwaka, Hela set to go!" July 15, 2009"</a>. Postcourier.com.pg. 2009-07-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%27%26%2339%3BPost-Courier%27%26%2339%3B%2C+%22Jiwaka%2C+Hela+set+to+go%21%22+July+15%2C+2009&amp;rft.pub=Postcourier.com.pg&amp;rft.date=2009-07-15&amp;rft_id=http%3A%2F%2Fwww.postcourier.com.pg%2F20090715%2Fnews05.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3APapua+New+Guinea" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Papua_New_Guinea&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Papua_New_Guinea&amp;action=edit&amp;section=4" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="metadata plainlinks mbox-small" style="padding:0.25em 0.5em 0.5em 0.75em;border:1px solid #aaa;background:#f9f9f9;"> 
+       <tbody>
+        <tr> 
+         <td colspan="2" style="padding-bottom:0.75em;border-bottom:1px solid #aaa;text-align:center;">
+          <div style="clear:both;">
+           Find more about
+           <br><b>Papua New Guinea</b>
+           <br>at Wikipedia's <a href="/wiki/Wikipedia:Sister_projects" title="Wikipedia:Sister projects">sister projects</a> 
+          </div> </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td style="padding-top:0.75em;"><a href="https://simple.wiktionary.org/wiki/Special:Search/Papua_New_Guinea" title="Search Wiktionary"><img alt="Search Wiktionary" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/23px-Wiktionary-logo-en.svg.png" decoding="async" width="23" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/35px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/46px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089"></a> </td> 
+         <td style="padding-top:0.75em;"><a href="https://simple.wiktionary.org/wiki/Special:Search/Papua_New_Guinea" class="extiw" title="wikt:Special:Search/Papua New Guinea">Definitions</a> from Wiktionary </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://commons.wikimedia.org/wiki/Special:Search/Papua_New_Guinea" title="Search Commons"><img alt="Search Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" decoding="async" width="18" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/37px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> </td> 
+         <td><a href="https://commons.wikimedia.org/wiki/Special:Search/Papua_New_Guinea" class="extiw" title="commons:Special:Search/Papua New Guinea">Media</a> from Commons </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikinews.org/wiki/Special:Search/Papua_New_Guinea" title="Search Wikinews"><img alt="Search Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/25px-Wikinews-logo.svg.png" decoding="async" width="25" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/38px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415"></a> </td> 
+         <td><a href="https://en.wikinews.org/wiki/Special:Search/Papua_New_Guinea" class="extiw" title="wikinews:Special:Search/Papua New Guinea">News stories</a> from Wikinews </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikiquote.org/wiki/Special:Search/Papua_New_Guinea" title="Search Wikiquote"><img alt="Search Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/21px-Wikiquote-logo.svg.png" decoding="async" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/32px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/42px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355"></a> </td> 
+         <td><a href="https://en.wikiquote.org/wiki/Special:Search/Papua_New_Guinea" class="extiw" title="wikiquote:Special:Search/Papua New Guinea">Quotations</a> from Wikiquote </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikisource.org/wiki/Special:Search/Papua_New_Guinea" title="Search Wikisource"><img alt="Search Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png" decoding="async" width="24" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/36px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/48px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> </td> 
+         <td><a href="https://en.wikisource.org/wiki/Special:Search/Papua_New_Guinea" class="extiw" title="wikisource:Special:Search/Papua New Guinea">Source texts</a> from Wikisource </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikibooks.org/wiki/Special:Search/Papua_New_Guinea" title="Search Wikibooks"><img alt="Search Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300"></a> </td> 
+         <td><a href="https://en.wikibooks.org/wiki/Special:Search/Papua_New_Guinea" class="extiw" title="wikibooks:Special:Search/Papua New Guinea">Textbooks</a> from Wikibooks </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikivoyage.org/wiki/Papua_New_Guinea" title="Search Wikivoyage"><img alt="Search Wikivoyage" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/25px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/38px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/50px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></a> </td> 
+         <td><a href="https://en.wikivoyage.org/wiki/Papua_New_Guinea" class="extiw" title="wikivoyage:Papua New Guinea">Travel guide</a> from Wikivoyage </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikiversity.org/wiki/Special:Search/Papua_New_Guinea" title="Search Wikiversity"><img alt="Search Wikiversity" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/25px-Wikiversity-logo-en.svg.png" decoding="async" width="25" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/38px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/50px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900"></a> </td> 
+         <td><a href="https://en.wikiversity.org/wiki/Special:Search/Papua_New_Guinea" class="extiw" title="wikiversity:Special:Search/Papua New Guinea">Learning resources</a> from Wikiversity </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.pngonline.gov.pg/">Government of Papua New Guinea</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.pm.gov.pg/">Prime Minister of Papua New Guinea</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://curlie.org/Regional/Oceania/Papua_New_Guinea">Papua New Guinea</a> at the <a href="/wiki/Open_Directory_Project" class="mw-redirect" title="Open Directory Project">Open Directory Project</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.wikipng.com">Papua New Guinea focused wiki</a></li> 
+       <li><a href="/wiki/Wikia" class="mw-redirect" title="Wikia">Wikia</a> has a wiki on this subject: <a href="https://community.fandom.com/wiki/w:c:world:Papua_New_Guinea:Main_Page" class="extiw" title="wikiasite:world:Papua New Guinea:Main Page">Papua New Guinea</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_Oceania" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div id="Countries_and_territories_of_Oceania" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Country" title="Country">Countries</a> and <a href="/wiki/Territory" title="Territory">territories</a> of <a href="/wiki/Oceania" title="Oceania">Oceania</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Australia" title="Australia">Australia</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Australia" title="Australia">Australia</a> · <a href="/wiki/Coral_Sea_Islands" title="Coral Sea Islands">Coral Sea Islands</a> · <a href="/wiki/Norfolk_Island" title="Norfolk Island">Norfolk Island</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Melanesia" title="Melanesia">Melanesia</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/East_Timor" title="East Timor">East Timor</a> · <a href="/wiki/Fiji" title="Fiji">Fiji</a> · <a href="/wiki/Maluku_Islands" title="Maluku Islands">Maluku Islands</a> &amp; <a href="/wiki/Western_New_Guinea" title="Western New Guinea">Western New Guinea</a> (part of <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>) · <a href="/wiki/New_Caledonia" title="New Caledonia">New Caledonia</a> · <a class="mw-selflink selflink">Papua New Guinea</a> · <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a> · <a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Micronesia" title="Micronesia">Micronesia</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Guam" title="Guam">Guam</a> · <a href="/wiki/Kiribati" title="Kiribati">Kiribati</a> · <a href="/wiki/Marshall_Islands" title="Marshall Islands">Marshall Islands</a> · <a href="/wiki/Northern_Mariana_Islands" title="Northern Mariana Islands">Northern Mariana Islands</a> · <a href="/wiki/Federated_States_of_Micronesia" title="Federated States of Micronesia">Federated States of Micronesia</a> · <a href="/wiki/Nauru" title="Nauru">Nauru</a> · <a href="/wiki/Palau" title="Palau">Palau</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Polynesia" title="Polynesia">Polynesia</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/American_Samoa" title="American Samoa">American Samoa</a> · <a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a> · <a href="/wiki/French_Polynesia" title="French Polynesia">French Polynesia</a> · <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a> · <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> · <a href="/wiki/Niue" title="Niue">Niue</a> · <a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">Pitcairn Islands</a> · <a href="/wiki/Samoa" title="Samoa">Samoa</a> · <a href="/wiki/Tokelau" title="Tokelau">Tokelau</a> · <a href="/wiki/Tonga" title="Tonga">Tonga</a> · <a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a> · <a href="/wiki/Wallis_and_Futuna" title="Wallis and Futuna">Wallis and Futuna</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Members_of_the_Commonwealth_of_Nations" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Members_of_the_Commonwealth_of_Nations" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=Member_states_of_the_Commonwealth_of_Nations&amp;action=edit&amp;redlink=1" class="new" title="Member states of the Commonwealth of Nations (not yet started)">Members of the</a> <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" class="mw-redirect" title="List of sovereign states">Sovereign states</a> <br> (Members)</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Australia" title="Australia">Australia</a></li> 
+             <li><a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a></li> 
+             <li><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Barbados" title="Barbados">Barbados</a></li> 
+             <li><a href="/wiki/Belize" title="Belize">Belize</a></li> 
+             <li><a href="/wiki/Botswana" title="Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Brunei" title="Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Canada" title="Canada">Canada</a></li> 
+             <li><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Dominica" title="Dominica">Dominica</a></li> 
+             <li><a href="/wiki/Eswatini" title="Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Fiji" title="Fiji">Fiji</a></li> 
+             <li><a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Ghana" title="Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Grenada" title="Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Guyana" title="Guyana">Guyana</a></li> 
+             <li><a href="/wiki/India" title="India">India</a></li> 
+             <li><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Kenya" title="Kenya">Kenya</a></li> 
+             <li><a href="/wiki/Kiribati" title="Kiribati">Kiribati</a></li> 
+             <li><a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Malta" title="Malta">Malta</a></li> 
+             <li><a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Nauru" title="Nauru">Nauru</a></li> 
+             <li><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></li> 
+             <li><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></li> 
+             <li><a class="mw-selflink selflink">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">St. Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Saint_Lucia" title="Saint Lucia">St. Lucia</a></li> 
+             <li><a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">St. Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Samoa" title="Samoa">Samoa</a></li> 
+             <li><a href="/wiki/Seychelles" title="Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Singapore" title="Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a></li> 
+             <li><a href="/wiki/South_Africa" title="South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Tonga" title="Tonga">Tonga</a></li> 
+             <li><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a></li> 
+             <li><a href="/wiki/Uganda" title="Uganda">Uganda</a></li> 
+             <li><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a></li> 
+             <li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a><br> of Members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Australia</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Ashmore_and_Cartier_Islands" title="Ashmore and Cartier Islands">Ashmore and Cartier Islands</a></li> 
+                 <li><a href="/wiki/Australian_Antarctic_Territory" title="Australian Antarctic Territory">Australian Antarctic Territory</a></li> 
+                 <li><a href="/wiki/Christmas_Island" title="Christmas Island">Christmas Island</a></li> 
+                 <li><a href="/wiki/Cocos_(Keeling)_Islands" title="Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+                 <li><a href="/wiki/Coral_Sea_Islands" title="Coral Sea Islands">Coral Sea Islands</a></li> 
+                 <li><a href="/wiki/Heard_Island_and_McDonald_Islands" title="Heard Island and McDonald Islands">Heard Island and McDonald Islands</a></li> 
+                 <li><a href="/wiki/Norfolk_Island" title="Norfolk Island">Norfolk Island</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">New Zealand</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a></li> 
+                 <li><a href="/wiki/Niue" title="Niue">Niue</a></li> 
+                 <li><a href="/wiki/Ross_Dependency" title="Ross Dependency">Ross Dependency</a></li> 
+                 <li><a href="/wiki/Tokelau" title="Tokelau">Tokelau</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">United Kingdom</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a></li> 
+                 <li><a href="/wiki/Anguilla" title="Anguilla">Anguilla</a></li> 
+                 <li><a href="/wiki/Bermuda" title="Bermuda">Bermuda</a></li> 
+                 <li><a href="/wiki/British_Antarctic_Territory" title="British Antarctic Territory">British Antarctic Territory</a></li> 
+                 <li><a href="/wiki/British_Indian_Ocean_Territory" title="British Indian Ocean Territory">British Indian Ocean Territory</a></li> 
+                 <li><a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a></li> 
+                 <li><a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a></li> 
+                 <li><a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a></li> 
+                 <li><a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a></li> 
+                 <li><a href="/wiki/Guernsey" title="Guernsey">Guernsey</a></li> 
+                 <li><a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a></li> 
+                 <li><a href="/wiki/Jersey" title="Jersey">Jersey</a></li> 
+                 <li><a href="/wiki/Montserrat" title="Montserrat">Montserrat</a></li> 
+                 <li><a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">Pitcairn Islands</a></li> 
+                 <li><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">St. Helena, Ascension and Tristan da Cunha</a></li> 
+                 <li><a href="/wiki/South_Georgia_and_the_South_Sandwich_Islands" title="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</a></li> 
+                 <li><a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            Source: <a rel="nofollow" class="external text" href="http://www.thecommonwealth.org/Internal/142227/members/">Commonwealth Secretariat - Member States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1301
+Cached time: 20201216001045
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.604 seconds
+Real time usage: 0.734 seconds
+Preprocessor visited node count: 3749/1000000
+Post‐expand include size: 77090/2097152 bytes
+Template argument size: 6669/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 17847/5000000 bytes
+Lua time usage: 0.338/10.000 seconds
+Lua memory usage: 6540256/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  635.122      1 -total
+ 72.30%  459.214      1 Template:Infobox_country
+ 69.76%  443.047      3 Template:Infobox
+ 26.35%  167.346      3 Template:ISO_3166_code
+ 19.46%  123.619      1 Template:Reflist
+ 17.61%  111.867      5 Template:Cite_web
+  7.35%   46.681      1 Template:Infobox_country/imagetable
+  6.13%   38.964      2 Template:Convinfobox
+  5.64%   35.835      2 Template:Convinfobox/prisec2
+  5.14%   32.652     16 Template:Both
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:26947-0!canonical and timestamp 20201216001045 and revision id 7164596. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Papua_New_Guinea&amp;oldid=7164596">https://simple.wikipedia.org/w/index.php?title=Papua_New_Guinea&amp;oldid=7164596</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Papua_New_Guinea" title="Category:Papua New Guinea">Papua New Guinea</a></li>
+       <li><a href="/wiki/Category:Current_monarchies" title="Category:Current monarchies">Current monarchies</a></li>
+       <li><a href="/wiki/Category:English-speaking_countries" title="Category:English-speaking countries">English-speaking countries</a></li>
+       <li><a href="/wiki/Category:Commonwealth_realms" title="Category:Commonwealth realms">Commonwealth realms</a></li>
+       <li><a href="/wiki/Category:1975_establishments" title="Category:1975 establishments">1975 establishments</a></li>
+       <li><a href="/wiki/Category:1970s_establishments_in_Oceania" title="Category:1970s establishments in Oceania">1970s establishments in Oceania</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Papua+New+Guinea" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Papua+New+Guinea" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Papua_New_Guinea" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Papua_New_Guinea" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Papua_New_Guinea">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Papua_New_Guinea&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Papua_New_Guinea&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Papua_New_Guinea&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Papua_New_Guinea" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Papua_New_Guinea" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Papua_New_Guinea&amp;oldid=7164596" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Papua_New_Guinea&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Papua_New_Guinea&amp;id=7164596&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q691" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Papua+New+Guinea">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Papua_New_Guinea&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Papua_New_Guinea&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Papua_New_Guinea" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Papoea-Nieu-Guinee" title="Papoea-Nieu-Guinee – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://als.wikipedia.org/wiki/Papua-Neuguinea" title="Papua-Neuguinea – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8D%93%E1%8D%91%E1%8B%8B_%E1%8A%92%E1%8B%8D_%E1%8C%8A%E1%8A%92" title="ፓፑዋ ኒው ጊኒ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Papua_U%C4%91%C4%91%C3%A2-Guinea" title="Papua Uđđâ-Guinea – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Papua_N%C4%ABw_Guinea" title="Papua Nīw Guinea – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D9%88%D8%A7_%D8%BA%D9%8A%D9%86%D9%8A%D8%A7_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9" title="بابوا غينيا الجديدة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Papua_y_Nueva_Guinea" title="Papua y Nueva Guinea – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Papoasie-Nov%C3%A8la-Guin%C3%AA" title="Papoasie-Novèla-Guinê – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Pap%C3%BAa_Nueva_Guinea" title="Papúa Nueva Guinea – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Pap%C3%BAa_Gyn%C3%A9a_Pyahu" title="Papúa Gynéa Pyahu – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Papua-Yeni_Qvineya" title="Papua-Yeni Qvineya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%BE%D8%A7%D9%BE%D9%88%D8%A7_%DB%8C%D8%A6%D9%86%DB%8C_%D9%82%DB%8C%D9%86%D9%87" title="پاپوا یئنی قینه – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Papua_Nugini" title="Papua Nugini – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%97%E0%A6%BF%E0%A6%A8%E0%A6%BF" title="পাপুয়া নিউগিনি – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%E2%80%94_%D0%AF%D2%A3%D1%8B_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F" title="Папуа — Яңы Гвинея – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%E2%80%94_%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%93%D0%B2%D1%96%D0%BD%D0%B5%D1%8F" title="Папуа — Новая Гвінея – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0-%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%93%D0%B2%D1%96%D0%BD%D1%8D%D1%8F" title="Папуа-Новая Гвінэя – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Papua_Bagong_Guineya" title="Papua Bagong Guineya – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Papua_Niugini" title="Papua Niugini – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%D0%9D%D0%BE%D0%B2%D0%B0_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F" title="Папуа Нова Гвинея – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Papua-Neuguinea" title="Papua-Neuguinea – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%94%E0%BC%8B%E0%BD%94%E0%BD%B4%E0%BC%8B%E0%BD%A0%E0%BC%8B%E0%BD%93%E0%BD%B2%E0%BD%A0%E0%BD%B4%E0%BC%8B%E0%BD%82%E0%BD%B2%E0%BC%8B%E0%BD%93%E0%BD%BA%E0%BC%8D" title="པ་པུ་འ་ནིའུ་གི་ནེ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Papua_Nova_Gvineja" title="Papua Nova Gvineja – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Papoua_Ginea-Nevez" title="Papoua Ginea-Nevez – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%D0%A8%D1%8D%D0%BD%D1%8D_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D0%B9" title="Папуа Шэнэ Гвиней – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Papua_Nova_Guinea" title="Papua Nova Guinea – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_-_%D2%AA%D3%97%D0%BD%D3%97_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F" title="Папуа - Ҫӗнӗ Гвинея – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Nugini_sa_Papua" title="Nugini sa Papua – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Papua_Nov%C3%A1_Guinea" title="Papua Nová Guinea – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Papua_Nueva_Guinea" title="Papua Nueva Guinea – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Papua_Gini_Newydd" title="Papua Gini Newydd – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Papua_Ny_Guinea" title="Papua Ny Guinea – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D9%BE%D8%A7%D9%BE%D9%88%D8%A7_%D8%BA%D9%8A%D9%86%D9%8A%D8%A7_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9" title="پاپوا غينيا الجديدة – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Papua-O%C4%91%C4%91a-Guinea" title="Papua-Ođđa-Guinea – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Papua-Neuguinea" title="Papua-Neuguinea – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%95%DE%A6%DE%95%DE%AA%DE%87%DE%A7_%DE%82%DE%A8%DE%87%DE%AA_%DE%8E%DE%A8%DE%82%DE%A9" title="ޕަޕުއާ ނިއު ގިނީ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/Chooy%C3%A9%C3%A9%C5%82_Dine%CA%BC%C3%A9_Bik%C3%A9yah" title="Chooyééł Dineʼé Bikéyah – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Papua-Neuguinea" title="Papua-Neuguinea – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%AA%E0%A4%AA%E0%A5%81%E0%A4%B5%E0%A4%BE_%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%97%E0%A4%BF%E0%A4%A8%E0%A5%80" title="पपुवा न्युगिनी – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Paapua_Uus-Guinea" title="Paapua Uus-Guinea – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%80%CE%BF%CF%8D%CE%B1_%CE%9D%CE%AD%CE%B1_%CE%93%CE%BF%CF%85%CE%B9%CE%BD%CE%AD%CE%B1" title="Παπούα Νέα Γουινέα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Pap%C3%BAa_Nueva_Guinea" title="Papúa Nueva Guinea – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Papuo-Nov-Gvineo" title="Papuo-Nov-Gvineo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Papua_Nueva_Guinea" title="Papua Nueva Guinea – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Papua_Ginea_Berria" title="Papua Ginea Berria – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%BE%D9%88%D8%A2_%DA%AF%DB%8C%D9%86%D9%87_%D9%86%D9%88" title="پاپوآ گینه نو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Papua_N%C3%BDguinea" title="Papua Nýguinea – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guin%C3%A9e" title="Papouasie-Nouvelle-Guinée – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Papoea_Nij-Guine%C3%A4" title="Papoea Nij-Guineä – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Nua-Ghuine_Phapua" title="Nua-Ghuine Phapua – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Papooey_Guinea_Noa" title="Papooey Guinea Noa – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Papua_Eni_Gvineya" title="Papua Eni Gvineya – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Gini_Nuadh_Phaputhach" title="Gini Nuadh Phaputhach – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Pap%C3%BAa_Nova_Guinea" title="Papúa Nova Guinea – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%AA%E0%A5%81%E0%A4%86_%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82_%E0%A4%97%E0%A4%BF%E0%A4%A8%E0%A5%80" title="पापुआ न्यू गिनी – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D2%BB%D0%B0%D1%81%D0%B8%D0%BD_%D0%B1%D0%BE%D0%BB%D0%BD_%D0%A8%D0%B8%D0%BD_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D0%BC%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Папуһасин болн Шин Гвинемудин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8C%8C%ED%91%B8%EC%95%84%EB%89%B4%EA%B8%B0%EB%8B%88" title="파푸아뉴기니 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Sabuwar_Gini_Papuwa" title="Sabuwar Gini Papuwa – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%BA%D5%B8%D6%82%D5%A1_%D5%86%D5%B8%D6%80_%D4%B3%D5%BE%D5%AB%D5%B6%D5%A5%D5%A1" title="Պապուա Նոր Գվինեա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%AA%E0%A5%81%E0%A4%86_%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82_%E0%A4%97%E0%A4%BF%E0%A4%A8%E0%A5%80" title="पापुआ न्यू गिनी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Papuwa-Nowa_Gineja" title="Papuwa-Nowa Gineja – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Papua_Nova_Gvineja" title="Papua Nova Gvineja – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Papua-Nova-Guinea" title="Papua-Nova-Guinea – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Papua_Baro_a_Guinea" title="Papua Baro a Guinea – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%97%E0%A6%BF%E0%A6%A8%E0%A6%BF" title="পাপুয়া নিউগিনি – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Papua_Nugini" title="Papua Nugini – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Papua_Nove_Guinea" title="Papua Nove Guinea – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Papua_Nov-Guin%C3%A9a" title="Papua Nov-Guinéa – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%C3%A6_%E2%80%94_%D0%9D%D0%BE%D0%B3_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D0%B9" title="Папуæ — Ног Гвиней – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Pap%C3%BAa_N%C3%BDja-G%C3%ADnea" title="Papúa Nýja-Gínea – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Papua_Nuova_Guinea" title="Papua Nuova Guinea – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%A4%D7%95%D7%90%D7%94_%D7%92%D7%99%D7%A0%D7%90%D7%94_%D7%94%D7%97%D7%93%D7%A9%D7%94" title="פפואה גינאה החדשה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Papua_Niu_Guin%C3%A9a" title="Papua Niu Guinéa – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Papuwazii_Kinee_K%C9%A9fal%CA%8A%CA%8A" title="Papuwazii Kinee Kɩfalʊʊ – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Papua_Ny_Guinea" title="Papua Ny Guinea – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B2%BE%E0%B2%AA%E0%B3%81%E0%B2%85_%E0%B2%A8%E0%B3%8D%E0%B2%AF%E0%B3%82_%E0%B2%97%E0%B2%BF%E0%B2%A8%E0%B2%BF" title="ಪಾಪುಅ ನ್ಯೂ ಗಿನಿ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%90%E1%83%9E%E1%83%A3%E1%83%90-%E1%83%90%E1%83%AE%E1%83%90%E1%83%9A%E1%83%98_%E1%83%92%E1%83%95%E1%83%98%E1%83%9C%E1%83%94%E1%83%90" title="პაპუა-ახალი გვინეა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%E2%80%94_%D0%96%D0%B0%D2%A3%D0%B0_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F" title="Папуа — Жаңа Гвинея – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Papoua_Gyni_Nowydh" title="Papoua Gyni Nowydh – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Papuwa_Nuveli_Gineya" title="Papuwa Nuveli Gineya – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Papua_Guinea_Mpya" title="Papua Guinea Mpya – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Papuaniuginia" title="Papuaniuginia – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Papwazi-Nouv%C3%A8l-Gine" title="Papwazi-Nouvèl-Gine – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Papouazi-Nouv%C3%A8l-Gin%C3%A9" title="Papouazi-Nouvèl-Giné – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Papua_G%C3%AEneya_N%C3%BB" title="Papua Gîneya Nû – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0-%D0%96%D0%B0%D2%A3%D1%8B_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F" title="Папуа-Жаңы Гвинея – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%E2%80%94_%D0%A3_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D0%B9" title="Папуа — У Гвиней – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Papua-Nueva-Guinea" title="Papua-Nueva-Guinea – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%9B%E0%BA%B2%E0%BA%9B%E0%BA%BB%E0%BA%A7%E0%BA%99%E0%BA%B4%E0%BA%A7%E0%BA%81%E0%BA%B4%E0%BA%99%E0%BA%B5" title="ປະເທດປາປົວນິວກິນີ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Papua_Nova_Guinea" title="Papua Nova Guinea – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Papua-Jaungvineja" title="Papua-Jaungvineja – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Papua-Neiguinea" title="Papua-Neiguinea – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Papua_Naujoji_Gvin%C4%97ja" title="Papua Naujoji Gvinėja – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Papua_Neuva_Guinea" title="Papua Neuva Guinea – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Papoea-Nui-Guinea" title="Papoea-Nui-Guinea – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Papwa-Gin%C3%A9_ya_Sika" title="Papwa-Giné ya Sika – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Papua_Gine_Nova" title="Papua Gine Nova – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Papua-Uuzi_Guinea" title="Papua-Uuzi Guinea – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Papua_N%C3%B6va_Guinea" title="Papua Növa Guinea – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/P%C3%A1pua_%C3%9Aj-Guinea" title="Pápua Új-Guinea – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%D0%9D%D0%BE%D0%B2%D0%B0_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%98%D0%B0" title="Папуа Нова Гвинеја – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Papoa_Ginea_Vao" title="Papoa Ginea Vao – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B4%BE%E0%B4%AA%E0%B5%81%E0%B4%B5_%E0%B4%A8%E0%B5%8D%E0%B4%AF%E0%B5%82_%E0%B4%97%E0%B4%BF%E0%B4%A8%E0%B4%BF%E0%B4%AF" title="പാപുവ ന്യൂ ഗിനിയ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Papwa_Gwinea_l-%C4%A0dida" title="Papwa Gwinea l-Ġdida – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/Papua_N%C5%ABkini" title="Papua Nūkini – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%AA%E0%A5%81%E0%A4%86_%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82_%E0%A4%97%E0%A4%BF%E0%A4%A8%E0%A5%80" title="पापुआ न्यू गिनी – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%9E%E1%83%90%E1%83%9E%E1%83%A3%E1%83%90-%E1%83%90%E1%83%AE%E1%83%90%E1%83%9A%E1%83%98_%E1%83%92%E1%83%95%E1%83%98%E1%83%9C%E1%83%94%E1%83%90" title="პაპუა-ახალი გვინეა – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D9%88%D8%A7_%D9%86%D9%8A%D9%88_%D8%AC%D9%8A%D9%86%D9%8A%D8%A7" title="بابوا نيو جينيا – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/Papua_Nugini" title="Papua Nugini – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Minangkabau</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Papua-Nuoba_Guin%C3%A9" title="Papua-Nuoba Guiné – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%D0%A8%D0%B8%D0%BD%D1%8D_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D0%B9" title="Папуа Шинэ Гвиней – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%95%E1%80%AB%E1%80%95%E1%80%B0%E1%80%A1%E1%80%AC%E1%80%94%E1%80%9A%E1%80%B0%E1%80%B8%E1%80%82%E1%80%AE%E1%80%94%E1%80%AE%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ပါပူအာနယူးဂီနီနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Papua_Niu_Gini" title="Papua Niu Gini – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-fj"><a href="https://fj.wikipedia.org/wiki/Papua_Niu_Kini" title="Papua Niu Kini – Fijian" lang="fj" hreflang="fj" class="interlanguage-link-target">Na Vosa Vakaviti</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Papoea-Nieuw-Guinea" title="Papoea-Nieuw-Guinea – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AA%E0%A4%AA%E0%A5%81%E0%A4%B5%E0%A4%BE_%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%97%E0%A4%BF%E0%A4%A8%E0%A5%80" title="पपुवा न्युगिनी – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%AA%E0%A4%AA%E0%A5%81%E0%A4%B5%E0%A4%BE_%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%81_%E0%A4%97%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="पपुवा न्हु गिनिया – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%97%E3%82%A2%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AE%E3%83%8B%E3%82%A2" title="パプアニューギニア – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%E2%80%94_%D0%9A%D0%B5%D1%80%D0%BB%D0%B0_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D0%B9" title="Папуа — Керла Гвиней – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Papua-Nei-Guinea" title="Papua-Nei-Guinea – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Papua_Nyuu_Gini" title="Papua Nyuu Gini – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Papua_Ny-Guinea" title="Papua Ny-Guinea – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Papua_Ny-Guinea" title="Papua Ny-Guinea – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Papoa-N%C3%B2va_Guin%C3%A8a" title="Papoa-Nòva Guinèa – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%AA%E0%AC%BE%E0%AC%AA%E0%AD%81%E0%AC%86_%E0%AC%A8%E0%AC%BF%E0%AC%89_%E0%AC%97%E0%AC%BF%E0%AC%A8%E0%AC%BF" title="ପାପୁଆ ନିଉ ଗିନି – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Papua_Yangi_Gvineya" title="Papua Yangi Gvineya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%BE%E0%A8%AA%E0%A9%82%E0%A8%86_%E0%A8%A8%E0%A8%BF%E0%A8%8A_%E0%A8%97%E0%A8%BF%E0%A8%A8%E0%A9%80" title="ਪਾਪੂਆ ਨਿਊ ਗਿਨੀ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%AA%E0%A5%81%E0%A4%B5%E0%A4%BE_%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82_%E0%A4%97%E0%A4%BF%E0%A4%A8%E0%A5%80" title="पपुवा न्यू गिनी – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%BE%D8%A7%D9%BE%D9%88%D8%A7%D9%86%DB%8C%D9%88%DA%AF%D9%86%DB%8C" title="پاپوانیوگنی – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Papua_Nueva_Quinea" title="Papua Nueva Quinea – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%86%D9%88%DB%90_%D9%BE%D8%A7%D9%BE%D9%88%D8%A7_%DA%AB%DB%8C%D9%86%D9%87" title="نوې پاپوا ګینه – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Papua_Nyuu_Gini" title="Papua Nyuu Gini – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Papua_Neuva_Guinea" title="Papua Neuva Guinea – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Papua_Niugini" title="Papua Niugini – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Papua-Niegguinea" title="Papua-Niegguinea – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Papua-Nowa_Gwinea" title="Papua-Nowa Gwinea – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Papua-Nova_Guin%C3%A9" title="Papua-Nova Guiné – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Papua_Ya%C3%B1%C4%B1_Gvineya" title="Papua Yañı Gvineya – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ty"><a href="https://ty.wikipedia.org/wiki/P%C4%81pua" title="Pāpua – Tahitian" lang="ty" hreflang="ty" class="interlanguage-link-target">Reo tahiti</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Papua_Noua_Guinee" title="Papua Noua Guinee – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Papwa_%C3%91ukini" title="Papwa Ñukini – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%E2%80%94_%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F" title="Папуа — Новая Гвинея – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%D0%A1%D0%B0%D2%A5%D0%B0_%D0%93%D1%83%D0%B8%D0%BD%D0%B5%D1%8F" title="Папуа Саҥа Гуинея – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Papua_Niu_Kini" title="Papua Niu Kini – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AA%E0%A4%AA%E0%A5%81%E0%A4%B5%E0%A4%BE_%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82_%E0%A4%97%E0%A4%BF%E0%A4%A8%E0%A5%80" title="पपुवा न्यू गिनी – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/Pap%C3%BB_Fin%C3%AE_Gin%C3%ABe" title="Papû Finî Ginëe – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%AF%E1%B1%9F%E1%B1%9E%E1%B1%A9%E1%B1%A3%E1%B1%9F_%E1%B1%B1%E1%B1%A4%E1%B1%A3_%E1%B1%9C%E1%B1%A4%E1%B1%B1%E1%B1%A4" title="ᱯᱟᱞᱩᱣᱟ ᱱᱤᱣ ᱜᱤᱱᱤ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/P%C3%A0pua_Noa_Guinea" title="Pàpua Noa Guinea – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Papua_Guinea_e_Re" title="Papua Guinea e Re – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Papua_Nova_Guinea" title="Papua Nova Guinea – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B6%B4%E0%B7%94%E0%B7%80%E0%B7%8F_%E0%B6%B1%E0%B7%80%E0%B6%9C%E0%B7%92%E0%B6%B1%E0%B7%92%E0%B6%BA" title="පපුවා නවගිනිය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%BE%D8%A7%D9%BE%D9%88%D8%A7_%D9%86%D9%8A%D9%88_%DA%AF%D9%86%D9%8A" title="پاپوا نيو گني – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Papua-Nov%C3%A1_Guinea" title="Papua-Nová Guinea – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Papuanska_Nova_Gvineja" title="Papuanska Nova Gvineja – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D0%BE%D1%83%D0%B0_%C2%B7_%D0%9D%D0%BE%D0%B2%D0%B0_%D0%93%D0%B2%D0%B8%D0%BD%D1%94%EA%99%97" title="Папоуа · Нова Гвинєꙗ – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Papua-Nowo_Gwinyjo" title="Papua-Nowo Gwinyjo – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%BE%D8%A7%D9%BE%D9%88%D8%A7_%DA%AF%DB%8C%D9%86%DB%8E%DB%8C_%D9%86%D9%88%DB%8E" title="پاپوا گینێی نوێ – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%D0%9D%D0%BE%D0%B2%D0%B0_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%98%D0%B0" title="Папуа Нова Гвинеја – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Papua_Nova_Gvineja" title="Papua Nova Gvineja – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Papua_Nugini" title="Papua Nugini – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Papua-Uusi-Guinea" title="Papua-Uusi-Guinea – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Papua_Nya_Guinea" title="Papua Nya Guinea – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%B5%E0%AE%BE_%E0%AE%A8%E0%AE%BF%E0%AE%AF%E0%AF%82_%E0%AE%95%E0%AE%BF%E0%AE%A9%E0%AE%BF" title="பப்புவா நியூ கினி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%E2%80%94_%D0%AF%D2%A3%D0%B0_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F" title="Папуа — Яңа Гвинея – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%80%95%E1%82%83%E1%80%B8%E1%80%95%E1%82%82%E1%82%83%E1%82%87%E1%81%BC%E1%80%AD%E1%80%9D%E1%80%BA%E1%80%B8%E1%81%B5%E1%80%AE%E1%80%B8%E1%81%BC%E1%80%AE%E1%80%B8" title="မိူင်းပႃးပႂႃႇၼိဝ်းၵီးၼီး – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9B%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%B5" title="ประเทศปาปัวนิวกินี – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F%D0%B8_%D0%9D%D0%B0%D0%B2" title="Папуа Гвинеяи Нав – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Papua_Yeni_Gine" title="Papua Yeni Gine – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Papua-T%C3%A4ze_Gwine%C3%BDa" title="Papua-Täze Gwineýa – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%E2%80%94_%D0%92%D1%8B%D0%BB%D1%8C_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F" title="Папуа — Выль Гвинея – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D1%83%D0%B0_%D0%9D%D0%BE%D0%B2%D0%B0_%D0%93%D0%B2%D1%96%D0%BD%D0%B5%D1%8F" title="Папуа Нова Гвінея – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%BE%D8%A7%D9%BE%D9%88%D8%A7_%D9%86%DB%8C%D9%88_%DA%AF%D9%86%DB%8C" title="پاپوا نیو گنی – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D9%BE%D8%A7%D9%BE%DB%87%D8%A6%D8%A7_%D9%8A%DB%90%DA%AD%D9%89_%DA%AF%DB%8B%D9%89%D9%86%DB%90%D9%8A%DB%95" title="پاپۇئا يېڭى گۋىنېيە – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Papua_Nova_Guinea" title="Papua Nova Guinea – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Papua_%E2%80%94_Uz%27_Gvinei" title="Papua — Uz' Gvinei – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Papua_New_Guinea" title="Papua New Guinea – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Papuve%C3%A4n_Nula-Giney%C3%A4n" title="Papuveän Nula-Gineyän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Paapua_Vahts%C3%B5n%C3%B5_Ginea" title="Paapua Vahtsõnõ Ginea – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E4%BA%9E%E6%96%B0%E5%B9%BE%E5%85%A7%E4%BA%9E" title="巴布亞新幾內亞 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Pap%C3%BAa_Nueva_Guinea" title="Papúa Nueva Guinea – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Papuwaasi-Gine-Gu-Bees" title="Papuwaasi-Gine-Gu-Bees – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E4%BA%9E%E6%96%B0%E5%B9%BE%E5%85%A7%E4%BA%9E" title="巴布亞新幾內亞 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A4%D7%90%D7%A4%D7%95%D7%90_%D7%A0%D7%99%D7%99_%D7%92%D7%99%D7%A0%D7%A2" title="פאפוא ניי גינע – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Papua_Guinea_Titun" title="Papua Guinea Titun – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E4%BA%9E%E6%96%B0%E7%95%BF%E5%85%A7%E4%BA%9E" title="巴布亞新畿內亞 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Papua_Gineya_Newiye" title="Papua Gineya Newiye – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Papoea_Nieuw-Hunea" title="Papoea Nieuw-Hunea – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Papua_Naujuoj%C4%97_Gv%C4%97niej%C4%97" title="Papua Naujuojė Gvėniejė – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E4%BA%9A%E6%96%B0%E5%87%A0%E5%86%85%E4%BA%9A" title="巴布亚新几内亚 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q691#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 30 October 2020, at 13:29.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Papua_New_Guinea&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.604","walltime":"0.734","ppvisitednodes":{"value":3749,"limit":1000000},"postexpandincludesize":{"value":77090,"limit":2097152},"templateargumentsize":{"value":6669,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17847,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  635.122      1 -total"," 72.30%  459.214      1 Template:Infobox_country"," 69.76%  443.047      3 Template:Infobox"," 26.35%  167.346      3 Template:ISO_3166_code"," 19.46%  123.619      1 Template:Reflist"," 17.61%  111.867      5 Template:Cite_web","  7.35%   46.681      1 Template:Infobox_country/imagetable","  6.13%   38.964      2 Template:Convinfobox","  5.64%   35.835      2 Template:Convinfobox/prisec2","  5.14%   32.652     16 Template:Both"]},"scribunto":{"limitreport-timeusage":{"value":"0.338","limit":"10.000"},"limitreport-memusage":{"value":6540256,"limit":52428800}},"cachereport":{"origin":"mw1301","timestamp":"20201216001045","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Papua New Guinea","url":"https:\/\/simple.wikipedia.org\/wiki\/Papua_New_Guinea","sameAs":"http:\/\/www.wikidata.org\/entity\/Q691","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q691","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-05-11T22:33:39Z","dateModified":"2020-10-30T13:29:53Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e3\/Flag_of_Papua_New_Guinea.svg","headline":"island sovereign state in Oceania"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":261,"wgHostname":"mw1330"});});</script> 
+ </body>
+</html>

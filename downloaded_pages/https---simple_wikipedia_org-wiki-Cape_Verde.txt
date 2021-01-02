@@ -1,0 +1,1260 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Cape Verde - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@jiWgpAAMEAAc712aAAAABR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cape_Verde","wgTitle":"Cape Verde","wgCurRevisionId":7210641,"wgRevisionId":7210641,"wgArticleId":19283,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Articles with Portuguese-language sources (pt)","Articles containing Portuguese-language text","Pages using infobox country or infobox former country with the symbol caption or type parameters","Archipelagos","Portuguese-speaking countries","Cape Verde",
+"1975 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Cape_Verde","wgRelevantArticleId":19283,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1011"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Cape_Verde"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Cape_Verde&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Cape_Verde&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Cape_Verde"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cape_Verde rootpage-Cape_Verde skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Cape Verde</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic of Cabo Verde
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i>República de Cabo Verde</i><span class="nowrap">&nbsp;&nbsp;</span><small><span class="languageicon">(in Portuguese)</span></small>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Cape_Verde.svg" class="image" title="Flag of Cape Verde"><img alt="Flag of Cape Verde" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/125px-Flag_of_Cape_Verde.svg.png" decoding="async" width="125" height="74" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/188px-Flag_of_Cape_Verde.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/250px-Flag_of_Cape_Verde.svg.png 2x" data-file-width="1020" data-file-height="600"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Cape_Verde" title="Flag of Cape Verde">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Cape_Verde.svg" class="image" title="National emblem of Cape Verde"><img alt="National emblem of Cape Verde" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coat_of_arms_of_Cape_Verde.svg/85px-Coat_of_arms_of_Cape_Verde.svg.png" decoding="async" width="85" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coat_of_arms_of_Cape_Verde.svg/128px-Coat_of_arms_of_Cape_Verde.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coat_of_arms_of_Cape_Verde.svg/170px-Coat_of_arms_of_Cape_Verde.svg.png 2x" data-file-width="600" data-file-height="602"></a>
+            </div> 
+            <div style="font-size:90%;">
+             National emblem
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><i lang="pt" title="Portuguese language text"><a href="/w/index.php?title=C%C3%A2ntico_da_Liberdade&amp;action=edit&amp;redlink=1" class="new" title="Cântico da Liberdade (not yet started)">Cântico da Liberdade</a></i><span class="nowrap">&nbsp;&nbsp;</span><small>(Portuguese)<br><i>Song of Freedom</i></small>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Cape_Verde_(orthographic_projection).svg" class="image" title="Location of Cape Verde on the globe"><img alt="Location of Cape Verde on the globe" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cape_Verde_%28orthographic_projection%29.svg/250px-Cape_Verde_%28orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cape_Verde_%28orthographic_projection%29.svg/375px-Cape_Verde_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cape_Verde_%28orthographic_projection%29.svg/500px-Cape_Verde_%28orthographic_projection%29.svg.png 2x" data-file-width="553" data-file-height="553"></a>
+          <div style="position:relative;top:0.3em;">
+           Location of Cape Verde on the globe
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Topographic_map_of_Cape_Verde-en.svg" class="image" title="Topographic map of Cape Verde"><img alt="Topographic map of Cape Verde" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Topographic_map_of_Cape_Verde-en.svg/250px-Topographic_map_of_Cape_Verde-en.svg.png" decoding="async" width="250" height="186" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Topographic_map_of_Cape_Verde-en.svg/375px-Topographic_map_of_Cape_Verde-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Topographic_map_of_Cape_Verde-en.svg/500px-Topographic_map_of_Cape_Verde-en.svg.png 2x" data-file-width="1464" data-file-height="1087"></a>
+          <div style="position:relative;top:0.3em;">
+           Topographic map of Cape Verde
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Praia" title="Praia">Praia</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Cape_Verde&amp;params=14_55_N_23_31_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°55′N</span> <span class="longitude">23°31′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.917°N 23.517°W</span><span style="display:none">﻿ / <span class="geo">14.917; -23.517</span></span></span></a></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Regional and <a href="/wiki/National_language" title="National language">national language</a></th>
+         <td>Cape Verdean Creole</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2013)
+          </div></th>
+         <td><span class="nowrap">71% Creole (mulatto)<br>28% African<br>1% European</span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>Cape Verdean</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Parliament" title="Parliament">Parliamentary</a> <a href="/wiki/Republic" title="Republic">republic</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President" title="President">President</a> 
+          </div></th>
+         <td><a href="/wiki/Jorge_Carlos_Fonseca" title="Jorge Carlos Fonseca">Jorge Carlos Fonseca</a><sup id="cite_ref-bbc_1-0" class="reference"><a href="#cite_note-bbc-1">[1]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Prime_Minister" class="mw-redirect" title="Prime Minister">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Ulisses_Correia_e_Silva" title="Ulisses Correia e Silva">Ulisses Correia e Silva</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/wiki/National_Assembly" title="National Assembly">National Assembly</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        </tr>
+        <tr class="mergedbottomrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from <a href="/wiki/Portugal" title="Portugal">Portugal</a> 
+          </div></th>
+         <td>July 5, 1975</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>4,033&nbsp;km<sup>2</sup> (1,557&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">181st</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>negligible</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2013 estimate
+          </div></th>
+         <td>531,046<sup id="cite_ref-cia_2-0" class="reference"><a href="#cite_note-cia-2">[2]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">172nd</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2010&nbsp;census
+          </div></th>
+         <td>491,875<sup id="cite_ref-ine_3-0" class="reference"><a href="#cite_note-ine-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>131.7/km<sup>2</sup> (341.1/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">89th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2013&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$2.305 billion<sup id="cite_ref-imf3_4-0" class="reference"><a href="#cite_note-imf3-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$4,313.478 <sup id="cite_ref-imf3_4-1" class="reference"><a href="#cite_note-imf3-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2013&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$2.109 billion<sup id="cite_ref-imf3_4-2" class="reference"><a href="#cite_note-imf3-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$3,946.171<sup id="cite_ref-imf3_4-3" class="reference"><a href="#cite_note-imf3-4">[4]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2011)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.568<sup id="cite_ref-HDI_5-0" class="reference"><a href="#cite_note-HDI-5">[5]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">133rd</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Cape_Verdean_escudo&amp;action=edit&amp;redlink=1" class="new" title="Cape Verdean escudo (not yet started)">Cape Verdean escudo</a> (<a href="/wiki/ISO_4217" title="ISO 4217">CVE</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>-1</span> (<a href="/w/index.php?title=Cape_Verde_Time&amp;action=edit&amp;redlink=1" class="new" title="Cape Verde Time (not yet started)">CVT</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>-1</span> (not observed)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=%2B238&amp;action=edit&amp;redlink=1" class="new" title="+238 (not yet started)">+238</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:CV&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:CV (not yet started)">CV</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.cv" class="mw-redirect" title=".cv">.cv</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Cape Verde</b> (<a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <i lang="pt">Cabo Verde</i>), also known as <b>Cabo Verde </b>and officially as the <i><b>República de Cabo Verde</b></i> (<i>Republic of Cape Verde/Cabo Verde</i>), is an <a href="/wiki/Borderless_country" class="mw-redirect" title="Borderless country">island country</a> in <a href="/wiki/Africa" title="Africa">Africa</a>. It is a group of <a href="/wiki/Island" title="Island">islands</a> in the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a>, 570&nbsp;km (354&nbsp;mi) off the coast of <a href="/wiki/West_Africa" title="West Africa">Western Africa</a>. The islands Cover a combined area of slightly over 4,000&nbsp;km<sup>2</sup> (1,500&nbsp;sq&nbsp;mi). The are of <a href="/wiki/Volcano" title="Volcano">volcanic</a> origin. </p>
+      <p>Cape Verde is one of <a href="/wiki/Macaronesia" title="Macaronesia">Macaronesia</a>'s group of islands. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Name"><span class="tocnumber">1</span> <span class="toctext">Name</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Geography"><span class="tocnumber">3</span> <span class="toctext">Geography</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#Extreme_points"><span class="tocnumber">3.1</span> <span class="toctext">Extreme points</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#Climate"><span class="tocnumber">3.2</span> <span class="toctext">Climate</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Wildlife"><span class="tocnumber">3.3</span> <span class="toctext">Wildlife</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Administrative_divisions"><span class="tocnumber">4</span> <span class="toctext">Administrative divisions</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Politics"><span class="tocnumber">5</span> <span class="toctext">Politics</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Economy"><span class="tocnumber">6</span> <span class="toctext">Economy</span></a></li> 
+        <li class="toclevel-1 tocsection-10"><a href="#Demographics"><span class="tocnumber">7</span> <span class="toctext">Demographics</span></a></li> 
+        <li class="toclevel-1 tocsection-11"><a href="#Culture"><span class="tocnumber">8</span> <span class="toctext">Culture</span></a></li> 
+        <li class="toclevel-1 tocsection-12"><a href="#Health"><span class="tocnumber">9</span> <span class="toctext">Health</span></a></li> 
+        <li class="toclevel-1 tocsection-13"><a href="#Education"><span class="tocnumber">10</span> <span class="toctext">Education</span></a></li> 
+        <li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-15"><a href="#Other_websites"><span class="tocnumber">12</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: Name">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=1" title="Change section: Name">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The <a href="/wiki/Portuguese_people" class="mw-redirect" title="Portuguese people">Portuguese</a> <a href="/wiki/Explorer" class="mw-redirect" title="Explorer">explorer</a> Dinis Dias (or Denis Fernadez) discovered in 1445 a <a href="/wiki/Peninsula" title="Peninsula">peninsula</a> along the coast of <a href="/wiki/Senegal" title="Senegal">Senegal</a> that he named <a href="/w/index.php?title=Cap-Vert&amp;action=edit&amp;redlink=1" class="new" title="Cap-Vert (not yet started)">Cap-Vert</a> (Dias named it <i>Cabo Verde</i>, "verde" being <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> for "green", a reference to the <a href="/wiki/Vegetation" title="Vegetation">vegetation</a> in the area). Dias did not discover the <i>Cape Verde Islands</i>, but rather the actual <a href="/wiki/Headlands_and_bays" title="Headlands and bays">cape</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
+      <p>This peninsula is the westernmost point of the <a href="/wiki/Africa" title="Africa">African</a> <a href="/wiki/Continent" title="Continent">continent</a>. </p> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=2" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Igreja_Nossa_Senhora_do_Ros%C3%A1rio.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Igreja_Nossa_Senhora_do_Ros%C3%A1rio.jpg/220px-Igreja_Nossa_Senhora_do_Ros%C3%A1rio.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Igreja_Nossa_Senhora_do_Ros%C3%A1rio.jpg/330px-Igreja_Nossa_Senhora_do_Ros%C3%A1rio.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Igreja_Nossa_Senhora_do_Ros%C3%A1rio.jpg/440px-Igreja_Nossa_Senhora_do_Ros%C3%A1rio.jpg 2x" data-file-width="2592" data-file-height="1944"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Igreja_Nossa_Senhora_do_Ros%C3%A1rio.jpg" class="internal" title="Enlarge"></a>
+         </div>Church of Nossa Senhora do Rosário, the world's oldest <a href="/wiki/Colony" title="Colony">colonial</a> <a href="/wiki/Church" class="mw-redirect mw-disambig" title="Church">church</a>, built on 1495, <a href="/w/index.php?title=Cidade_Velha&amp;action=edit&amp;redlink=1" class="new" title="Cidade Velha (not yet started)">Cidade Velha</a>, <a href="/wiki/Santiago,_Cape_Verde" title="Santiago, Cape Verde">Santiago, Cape Verde</a>.
+        </div>
+       </div>
+      </div> 
+      <p>The first <a href="/wiki/Europe" title="Europe">Europeans</a> to arrive in Cape Verde were the Portugueses Diogo Gomes and Antonio da Noli in 1460. The islands were uninhabited, and the first settlement was founded in 1462 on the island of Santiago (the main Island) which was divided into two “capitanias”, Alcatrazes and Ribeira Grande. The first one failed and the main activity in Ribeira Grande was the exploitation of cotton farms. Ribeira Grande served also as a slave trade post and as post of slave Christianization before they were sent to the New World. </p>
+      <p>The city suffered several pirate raids and for this reason in 1712, after a French attack, the authorities were forced to move the capital to Praia, where it is located until now. Cape Verde had the status of Portuguese colony until 1951 when Portugal changed its status to Overseas Province and in 1961 Portugal gave full citizenship to all Cape Verdeans. </p>
+      <p>Cape Verde has been independent of Portugal since 5th July 1975. The fight for independence was led by the African Party for the Independence of Guinea and Cape Verde (PAIGC) and headed by <a href="/w/index.php?title=Amilcar_Cabral&amp;action=edit&amp;redlink=1" class="new" title="Amilcar Cabral (not yet started)">Amilcar Cabral</a>, the national hero of both countries, Cape Verde and <a href="/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a>. </p> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=3" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:237px;">
+        <a href="/wiki/File:Calhau.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Calhau.jpg/235px-Calhau.jpg" decoding="async" width="235" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Calhau.jpg/353px-Calhau.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Calhau.jpg/470px-Calhau.jpg 2x" data-file-width="1000" data-file-height="665"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Calhau.jpg" class="internal" title="Enlarge"></a>
+         </div>The beach of Calhau, with Monte Verde in the background, on the island of <a href="/wiki/S%C3%A3o_Vicente,_Cape_Verde" title="São Vicente, Cape Verde">São Vicente</a>
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:237px;">
+        <a href="/wiki/File:Mount_fogo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mount_fogo.jpg/235px-Mount_fogo.jpg" decoding="async" width="235" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mount_fogo.jpg/353px-Mount_fogo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mount_fogo.jpg/470px-Mount_fogo.jpg 2x" data-file-width="3712" data-file-height="2348"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Mount_fogo.jpg" class="internal" title="Enlarge"></a>
+         </div>The summit of <a href="/wiki/Pico_do_Fogo" title="Pico do Fogo">Pico do Fogo</a>, the highest peak in the Cape Verde archipelago, located on the island of <a href="/wiki/Fogo,_Cape_Verde" title="Fogo, Cape Verde">Fogo</a>
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:237px;">
+        <a href="/wiki/File:Cabo_Verde_Sal_Pedra_Lume.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cabo_Verde_Sal_Pedra_Lume.jpg/235px-Cabo_Verde_Sal_Pedra_Lume.jpg" decoding="async" width="235" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cabo_Verde_Sal_Pedra_Lume.jpg/353px-Cabo_Verde_Sal_Pedra_Lume.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cabo_Verde_Sal_Pedra_Lume.jpg/470px-Cabo_Verde_Sal_Pedra_Lume.jpg 2x" data-file-width="1020" data-file-height="712"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Cabo_Verde_Sal_Pedra_Lume.jpg" class="internal" title="Enlarge"></a>
+         </div>Natural <a href="/wiki/Salt_evaporation_pond" title="Salt evaporation pond">salt evaporation ponds</a> at <a href="/w/index.php?title=Pedra_de_Lume&amp;action=edit&amp;redlink=1" class="new" title="Pedra de Lume (not yet started)">Pedra de Lume</a>, on the island of <a href="/w/index.php?title=Sal_Island&amp;action=edit&amp;redlink=1" class="new" title="Sal Island (not yet started)">Sal</a>
+        </div>
+       </div>
+      </div> 
+      <p>The Cape Verde archipelago is in the Atlantic Ocean, approximately 570&nbsp;km (350&nbsp;mi) off the coast of West Africa, near <a href="/wiki/Senegal" title="Senegal">Senegal</a>, <a href="/wiki/The_Gambia" title="The Gambia">Gambia</a> and <a href="/wiki/Mauritania" title="Mauritania">Mauritania</a>, and is a part, together with the <a href="/wiki/Azores" title="Azores">Azores</a>, <a href="/wiki/Madeira" class="mw-redirect" title="Madeira">Madeira</a>, <a href="/w/index.php?title=Savage_Islands&amp;action=edit&amp;redlink=1" class="new" title="Savage Islands (not yet started)">Savage Islands</a> and <a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a>, of the <a href="/wiki/Macaronesia" title="Macaronesia">Macaronesia</a> <a href="/wiki/Ecology" title="Ecology">ecological</a> <a href="/wiki/Region" title="Region">region</a>.<sup id="cite_ref-cvcom_7-0" class="reference"><a href="#cite_note-cvcom-7">[7]</a></sup> It lies between the <a href="/wiki/Latitude" title="Latitude">latitudes</a> 14°N and 18°N, and the <a href="/wiki/Longitude" title="Longitude">longitudes</a> 22°W and 26°W. </p>
+      <p>The country is an <a href="/wiki/Archipelago" title="Archipelago">archipelago</a> with a total area of 4,033&nbsp;km<sup>2</sup> (1,557&nbsp;sq&nbsp;mi).<sup id="cite_ref-cia_2-1" class="reference"><a href="#cite_note-cia-2">[2]</a></sup> It is formed by ten islands (nine inhabited) and several very small islands (<a href="/wiki/Islet" title="Islet">islets</a>) divided into two groups, arranged according to the prevailing wind direction: </p> 
+      <ul>
+       <li>To the north, the <i><b>Ilhas de Barlavento</b></i> (<a href="https://simple.wiktionary.org/wiki/windward" class="extiw" title="wikt:windward">Windward</a> islands), from west to east: <a href="/wiki/Santo_Ant%C3%A3o,_Cape_Verde" title="Santo Antão, Cape Verde">Santo Antão</a>, <a href="/wiki/S%C3%A3o_Vicente,_Cape_Verde" title="São Vicente, Cape Verde">São Vicente</a>, <a href="/wiki/Santa_Luzia,_Cape_Verde" title="Santa Luzia, Cape Verde">Santa Luzia</a> (without inhabitants), <a href="/wiki/S%C3%A3o_Nicolau,_Cape_Verde" title="São Nicolau, Cape Verde">São Nicolau</a>, <a href="/wiki/Sal,_Cape_Verde" title="Sal, Cape Verde">Ilha do Sal</a> and <a href="/wiki/Boa_Vista,_Cape_Verde" title="Boa Vista, Cape Verde">Boa Vista</a>; and the islets of Branco and Raso, situated between Santa Luzia and São Nicolau, the islet of Pássaros, opposite the town of Mindelo on the island of São Vicente, and the islets Rabo de Junco, on the coast of the Sal island and the islets Sal Rei and Baluarte, on the coast of the island of Boa Vista.</li> 
+       <li>To the south <i><b>Ilhas de Sotavento</b></i> (<a href="https://simple.wiktionary.org/wiki/leeward" class="extiw" title="wikt:leeward">Leeward</a> islands), from east to west: <a href="/wiki/Maio,_Cape_Verde" title="Maio, Cape Verde">Maio</a>, <a href="/wiki/Santiago,_Cape_Verde" title="Santiago, Cape Verde">Santiago</a>, <a href="/wiki/Fogo,_Cape_Verde" title="Fogo, Cape Verde">Fogo</a> and <a href="/wiki/Brava,_Cape_Verde" title="Brava, Cape Verde">Brava</a>; and the islet of Santa Maria, in front of the city of Praia, on Santiago island, the islets Grande, Rombo, Baixo, Cima, do Rei, Luís Carneiro and Sapado, situated about 8&nbsp;km from the island of Brava, and the islet Areia along the coast of the same island.</li>
+      </ul> 
+      <p>The largest islands are, to the southeast, Santiago, where lies <a href="/wiki/Praia" title="Praia">Praia</a>, the <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> and largest city of the country, and the island of Santo Antão, in the extreme northwest. Praia is also the main population centre of the archipelago, followed by Mindelo on the island of São Vicente. </p> 
+      <table class="wikitable sortable"> 
+       <caption>
+        Larger islands of Cabo Verde 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th>Name</th> 
+         <th>Population<br>(2010)<sup id="cite_ref-ine2_8-0" class="reference"><a href="#cite_note-ine2-8">[8]</a></sup></th> 
+         <th>&nbsp;&nbsp;Area&nbsp;&nbsp;<br>(km²)</th> 
+         <th>Highest point (m) </th>
+        </tr> 
+        <tr align="right"> 
+         <td align="left"><a href="/wiki/Boa_Vista,_Cape_Verde" title="Boa Vista, Cape Verde">Boa Vista</a></td> 
+         <td>9,162</td> 
+         <td>620&nbsp;&nbsp;</td> 
+         <td align="left">Monte Estância (387) </td>
+        </tr> 
+        <tr align="right"> 
+         <td align="left"><a href="/wiki/Brava,_Cape_Verde" title="Brava, Cape Verde">Brava</a></td> 
+         <td>5,995</td> 
+         <td>67&nbsp;&nbsp;</td> 
+         <td align="left">Monte Fontainhas (976)&nbsp; </td>
+        </tr> 
+        <tr align="right"> 
+         <td align="left"><a href="/wiki/Fogo,_Cape_Verde" title="Fogo, Cape Verde">Fogo</a></td> 
+         <td>37,051</td> 
+         <td>476&nbsp;&nbsp;</td> 
+         <td align="left">Pico do Fogo (2,829) </td>
+        </tr> 
+        <tr align="right"> 
+         <td align="left"><a href="/wiki/Maio,_Cape_Verde" title="Maio, Cape Verde">Maio</a></td> 
+         <td>6,952</td> 
+         <td>265&nbsp;&nbsp;</td> 
+         <td align="left">Monte Penoso (436) </td>
+        </tr> 
+        <tr align="right"> 
+         <td align="left"><a href="/wiki/Sal,_Cape_Verde" title="Sal, Cape Verde">Sal</a></td> 
+         <td>25,765</td> 
+         <td>216&nbsp;&nbsp;</td> 
+         <td align="left">Monte Vermelho (406) </td>
+        </tr> 
+        <tr align="right"> 
+         <td align="left"><a href="/wiki/Santa_Luzia,_Cape_Verde" title="Santa Luzia, Cape Verde">Santa Luzia</a></td> 
+         <td>0</td> 
+         <td>35&nbsp;&nbsp;</td> 
+         <td align="left">Monte Grande (395) </td>
+        </tr> 
+        <tr align="right"> 
+         <td align="left"><a href="/wiki/Santiago,_Cape_Verde" title="Santiago, Cape Verde">Santiago</a></td> 
+         <td>273,919</td> 
+         <td>991&nbsp;&nbsp;</td> 
+         <td align="left">Pico d'Antónia (1,394) </td>
+        </tr> 
+        <tr align="right"> 
+         <td align="left"><a href="/wiki/Santo_Ant%C3%A3o,_Cape_Verde" title="Santo Antão, Cape Verde">Santo Antão</a></td> 
+         <td>43,915</td> 
+         <td>779&nbsp;&nbsp;</td> 
+         <td align="left">Topo de Coroa (1,979) </td>
+        </tr> 
+        <tr align="right"> 
+         <td align="left"><a href="/wiki/S%C3%A3o_Nicolau,_Cape_Verde" title="São Nicolau, Cape Verde">São Nicolau</a></td> 
+         <td>12,817</td> 
+         <td>388&nbsp;&nbsp;</td> 
+         <td align="left">Monte Gordo (1,340) </td>
+        </tr> 
+        <tr align="right"> 
+         <td align="left"><a href="/wiki/S%C3%A3o_Vicente,_Cape_Verde" title="São Vicente, Cape Verde">São Vicente</a></td> 
+         <td>76,107</td> 
+         <td>227&nbsp;&nbsp;</td> 
+         <td align="left">Monte Verde (774) </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h3><span class="mw-headline" id="Extreme_points">Extreme points</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Extreme points">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=4" title="Change section: Extreme points">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><b>N</b> North: Ponta do Sol, Santo Antão island <small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Cape_Verde&amp;params=17_11_0_N_25_05_0_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">17°11′0″N</span> <span class="longitude">25°05′0″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">17.18333°N 25.08333°W</span><span style="display:none">﻿ / <span class="geo">17.18333; -25.08333</span></span></span></a></span></small></li> 
+       <li><b>S</b> South: Ponta Nhô Martinho, Brava island <small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Cape_Verde&amp;params=14_49_0_N_24_42_0_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°49′0″N</span> <span class="longitude">24°42′0″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.81667°N 24.70000°W</span><span style="display:none">﻿ / <span class="geo">14.81667; -24.70000</span></span></span></a></span></small></li> 
+       <li><b>E</b> East: Ilhéu do Roque, Boa Vista island <small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Cape_Verde&amp;params=16_05_0_N_22_40_0_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">16°05′0″N</span> <span class="longitude">22°40′0″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">16.08333°N 22.66667°W</span><span style="display:none">﻿ / <span class="geo">16.08333; -22.66667</span></span></span></a></span></small></li> 
+       <li><b>W</b> West: Ponta Chão de Morgado, Santo Antão island <small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Cape_Verde&amp;params=17_03_0_N_25_21_0_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">17°03′0″N</span> <span class="longitude">25°21′0″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">17.05000°N 25.35000°W</span><span style="display:none">﻿ / <span class="geo">17.05000; -25.35000</span></span></span></a></span></small></li> 
+       <li><b>H</b> Highest mountain: <a href="/wiki/Pico_do_Fogo" title="Pico do Fogo">Pico do Fogo</a>, Fogo island, 2,829&nbsp;m (9,281&nbsp;ft) high <small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Cape_Verde&amp;params=14_57_0_N_24_20_0_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°57′0″N</span> <span class="longitude">24°20′0″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.95000°N 24.33333°W</span><span style="display:none">﻿ / <span class="geo">14.95000; -24.33333</span></span></span></a></span></small></li>
+      </ul> 
+      <h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Climate">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=5" title="Change section: Climate">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The sun shines 350 days a year and temperatures range between 21 and 29&nbsp;°C (70 and 84&nbsp;°F). The <a href="https://simple.wiktionary.org/wiki/breeze" class="extiw" title="wikt:breeze">breeze</a> (a gentle to moderate <a href="/wiki/Wind" title="Wind">wind</a>) blows constantly from the ocean at a relatively low average <a href="/wiki/Humidity" title="Humidity">humidity</a> of 40% to 60%. </p>
+      <p>The Cape Verde Islands only have two <a href="/wiki/Season" title="Season">seasons</a>: The <i>Tempo das Brisas</i> ("Time of the winds") from October to mid-July and the <i>Tempo das chuvas</i> ("Rainy season") from August to September, when there may be heavy <a href="/wiki/Tropics" title="Tropics">tropical</a> <a href="/wiki/Rainfall" class="mw-redirect" title="Rainfall">rainfall</a>. The <a href="/wiki/Cool" class="mw-disambig" title="Cool">coolest</a> months are January and February (average temperature of 21&nbsp;°C), where temperatures can drop down to 16&nbsp;°C; the warmest is the month of September (up to 36&nbsp;°C) with an average temperature of 27&nbsp;°C. </p>
+      <p>Otherwise, the islands of Barlavento (Santo Antão, São Vicente, São Nicolao, Boa Vista, Sal, Santa Luzia, Branco and Razo) are always somewhat cooler than those of the Sotavento (Maio, Santiago, Fogo and Brava), where summers can be quite hot.<sup id="cite_ref-cvcom_7-1" class="reference"><a href="#cite_note-cvcom-7">[7]</a></sup> </p> 
+      <div style="clear:both;"></div> 
+      <div> 
+       <table class="wikitable collapsible" style="width:100%; text-align:center; line-height: 1.2em; margin:auto;"> 
+        <tbody>
+         <tr> 
+          <th colspan="14">Climate data for Cabo Verde&nbsp;: Praia </th>
+         </tr> 
+         <tr> 
+          <th scope="row">Month </th> 
+          <th scope="col">Jan </th> 
+          <th scope="col">Feb </th> 
+          <th scope="col">Mar </th> 
+          <th scope="col">Apr </th> 
+          <th scope="col">May </th> 
+          <th scope="col">Jun </th> 
+          <th scope="col">Jul </th> 
+          <th scope="col">Aug </th> 
+          <th scope="col">Sep </th> 
+          <th scope="col">Oct </th> 
+          <th scope="col">Nov </th> 
+          <th scope="col">Dec </th> 
+          <th scope="col" style="border-left-width:medium">Year </th>
+         </tr> 
+         <tr style="text-align: center;"> 
+          <th scope="row" style="height: 16px;">Average high °C (°F) </th> 
+          <td style="background: #FF7100; color:#000000;">25<br>(77) </td> 
+          <td style="background: #FF7100; color:#000000;">25<br>(77) </td> 
+          <td style="background: #FF7100; color:#000000;">25<br>(77) </td> 
+          <td style="background: #FF6A00; color:#000000;">26<br>(79) </td> 
+          <td style="background: #FF6300; color:#000000;">27<br>(81) </td> 
+          <td style="background: #FF6300; color:#000000;">27<br>(81) </td> 
+          <td style="background: #FF5D00; color:#000000;">28<br>(82) </td> 
+          <td style="background: #FF5D00; color:#000000;">28<br>(82) </td> 
+          <td style="background: #FF5D00; color:#000000;">28<br>(82) </td> 
+          <td style="background: #FF5600; color:#000000;">29<br>(84) </td> 
+          <td style="background: #FF6300; color:#000000;">27<br>(81) </td> 
+          <td style="background: #FF6A00; color:#000000;">26<br>(79) </td> 
+          <td style="background: #FF6300; color:#000000; border-left-width:medium">27<br>(81) </td>
+         </tr> 
+         <tr style="text-align: center;"> 
+          <th scope="row" style="height: 16px;">Average low °C (°F) </th> 
+          <td style="background: #FF9429; color:#000000;">20<br>(68) </td> 
+          <td style="background: #FF9B37; color:#000000;">19<br>(66) </td> 
+          <td style="background: #FF9429; color:#000000;">20<br>(68) </td> 
+          <td style="background: #000000; color:#FFFFFF;">208<br>(406) </td> 
+          <td style="background: #FF8D1B; color:#000000;">21<br>(70) </td> 
+          <td style="background: #FF8D1B; color:#000000;">21<br>(70) </td> 
+          <td style="background: #FF7F00; color:#000000;">23<br>(73) </td> 
+          <td style="background: #FF7800; color:#000000;">24<br>(75) </td> 
+          <td style="background: #FF7100; color:#000000;">25<br>(77) </td> 
+          <td style="background: #FF7800; color:#000000;">24<br>(75) </td> 
+          <td style="background: #FF7F00; color:#000000;">23<br>(73) </td> 
+          <td style="background: #FF8D1B; color:#000000;">21<br>(70) </td> 
+          <td style="background: #FF860D; color:#000000; border-left-width:medium">22<br>(72) </td>
+         </tr> 
+         <tr style="text-align: center;"> 
+          <th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches) </th> 
+          <td style="background: #FFFFFF; color:#000000;">— </td> 
+          <td style="background: #FFFFFF; color:#000000;">— </td> 
+          <td style="background: #FFFFFF; color:#000000;">— </td> 
+          <td style="background: #FFFFFF; color:#000000;">— </td> 
+          <td style="background: #FFFFFF; color:#000000;">— </td> 
+          <td style="background: #FFFFFF; color:#000000;">— </td> 
+          <td style="background: #F0F0FF; color:#000000;">10<br>(0.4) </td> 
+          <td style="background: #7878FF; color:#000000;">90<br>(3.5) </td> 
+          <td style="background: #E0E0FF; color:#000000;">20<br>(0.8) </td> 
+          <td style="background: #C3C3FF; color:#000000;">40<br>(1.6) </td> 
+          <td style="background: #FFFFFF; color:#000000;">— </td> 
+          <td style="background: #FFFFFF; color:#000000;">— </td> 
+          <td style="background: #E4E4FF; color:#000000; border-left-width:medium">210<br>(8.3) </td>
+         </tr> 
+         <tr> 
+          <td colspan="14" style="text-align:center;font-size:95%;">Source: Weatherbase.com <a rel="nofollow" class="external autonumber" href="http://www.weatherbase.com/weather/weather.php3?s=98580&amp;cityname=Praia-Praia-Cape-Verde&amp;units=metric">[1]</a> </td>
+         </tr>
+        </tbody>
+       </table> 
+      </div> 
+      <p>The <a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a> subtype for this climate of Praia (Cabo Verde) is <b>Bwh</b> (Tropical and Subtropical Desert Climate).<sup id="cite_ref-webase1_9-0" class="reference"><a href="#cite_note-webase1-9">[9]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Wildlife">Wildlife</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Wildlife">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=6" title="Change section: Wildlife">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Cape Verde's isolation has resulted in the islands having a number of <a href="/wiki/Endemism" title="Endemism">endemic</a> <a href="/wiki/Species" title="Species">species</a>, particularly <a href="/wiki/Bird" title="Bird">birds</a> and <a href="/wiki/Reptile" title="Reptile">reptiles</a>, many of which are <a href="/wiki/Endangered_species" title="Endangered species">endangered</a> by human development. Endemic birds include <a href="/w/index.php?title=Alexander%27s_Swift&amp;action=edit&amp;redlink=1" class="new" title="Alexander's Swift (not yet started)">Alexander's Swift</a> (<i>Apus alexandri</i>), <a href="/w/index.php?title=Bourne%27s_Heron&amp;action=edit&amp;redlink=1" class="new" title="Bourne's Heron (not yet started)">Bourne's Heron</a> (<i>Ardea purpurea bournei</i>), the <a href="/w/index.php?title=Raso_Lark&amp;action=edit&amp;redlink=1" class="new" title="Raso Lark (not yet started)">Raso Lark</a> (<i>Alauda razae</i>), the <a href="/w/index.php?title=Cape_Verde_Warbler&amp;action=edit&amp;redlink=1" class="new" title="Cape Verde Warbler (not yet started)">Cape Verde Warbler</a> (<i>Acrocephalus brevipennis</i>), and the <a href="/w/index.php?title=Iago_Sparrow&amp;action=edit&amp;redlink=1" class="new" title="Iago Sparrow (not yet started)">Iago Sparrow</a> (<i>Passer iagoensis</i>).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> The islands are also an important breeding area for seabirds including the <a href="/w/index.php?title=Cape_Verde_Shearwater&amp;action=edit&amp;redlink=1" class="new" title="Cape Verde Shearwater (not yet started)">Cape Verde Shearwater</a>. Reptiles include the Cape Verde Giant Gecko (<i><a href="/w/index.php?title=Tarentola&amp;action=edit&amp;redlink=1" class="new" title="Tarentola (not yet started)">Tarentola</a> gigas</i>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Administrative_divisions">Administrative divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Administrative divisions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=7" title="Change section: Administrative divisions">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Cape Verde is divided into 22 <a href="/wiki/Municipalities" class="mw-redirect" title="Municipalities">municipalities</a> (<i>concelhos</i>) and subdivided into 32 parishes (<i><a href="/w/index.php?title=Freguesia_(Portugal)&amp;action=edit&amp;redlink=1" class="new" title="Freguesia (Portugal) (not yet started)">freguesias</a></i>). </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:412px;">
+        <a href="/wiki/File:Cv_map_mun_num.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cv_map_mun_num.gif/410px-Cv_map_mun_num.gif" decoding="async" width="410" height="378" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/0/08/Cv_map_mun_num.gif 1.5x" data-file-width="542" data-file-height="500"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Cv_map_mun_num.gif" class="internal" title="Enlarge"></a>
+         </div>Municipalities of Cabo Verde.
+        </div>
+       </div>
+      </div> 
+      <ol>
+       <li>- <a href="/wiki/Tarrafal,_Cape_Verde_(municipality)" title="Tarrafal, Cape Verde (municipality)">Tarrafal</a></li> 
+       <li>- <a href="/wiki/S%C3%A3o_Miguel,_Cape_Verde" title="São Miguel, Cape Verde">São Miguel</a></li> 
+       <li>- <a href="/wiki/S%C3%A3o_Salvador_do_Mundo,_Cape_Verde" title="São Salvador do Mundo, Cape Verde">São Salvador do Mundo</a></li> 
+       <li>- <a href="/wiki/Santa_Cruz,_Cape_Verde" title="Santa Cruz, Cape Verde">Santa Cruz</a></li> 
+       <li>- <a href="/wiki/S%C3%A3o_Domingos,_Cape_Verde_(municipality)" title="São Domingos, Cape Verde (municipality)">São Domingos</a></li> 
+       <li>- <a href="/wiki/Praia,_Cape_Verde_(municipality)" class="mw-redirect" title="Praia, Cape Verde (municipality)">Praia</a></li> 
+       <li>- <a href="/wiki/Ribeira_Grande_de_Santiago,_Cape_Verde" title="Ribeira Grande de Santiago, Cape Verde">Ribeira Grande de Santiago</a></li> 
+       <li>- <a href="/wiki/S%C3%A3o_Louren%C3%A7o_dos_%C3%93rg%C3%A3os,_Cape_Verde" title="São Lourenço dos Órgãos, Cape Verde">São Lourenço dos Órgãos</a></li> 
+       <li>- <a href="/wiki/Santa_Catarina,_Cape_Verde" title="Santa Catarina, Cape Verde">Santa Catarina</a></li> 
+       <li>- <a href="/wiki/Brava,_Cape_Verde_(municipality)" class="mw-redirect" title="Brava, Cape Verde (municipality)">Brava</a></li> 
+       <li>- <a href="/wiki/S%C3%A3o_Filipe,_Cape_Verde_(municipality)" title="São Filipe, Cape Verde (municipality)">São Filipe</a></li> 
+       <li>- <a href="/wiki/Santa_Catarina_do_Fogo,_Cape_Verde" title="Santa Catarina do Fogo, Cape Verde">Santa Catarina do Fogo</a></li> 
+       <li>- <a href="/wiki/Mosteiros,_Cape_Verde_(municipality)" title="Mosteiros, Cape Verde (municipality)">Mosteiros</a></li> 
+       <li>- <a href="/wiki/Maio,_Cape_Verde_(municipality)" class="mw-redirect" title="Maio, Cape Verde (municipality)">Maio</a></li> 
+       <li>- <a href="/wiki/Boa_Vista,_Cape_Verde_(municipality)" class="mw-redirect" title="Boa Vista, Cape Verde (municipality)">Boa Vista</a></li> 
+       <li>- <a href="/wiki/Sal,_Cape_Verde_(municipality)" class="mw-redirect" title="Sal, Cape Verde (municipality)">Sal</a></li> 
+       <li>- <a href="/wiki/Ribeira_Brava,_Cape_Verde_(municipality)" title="Ribeira Brava, Cape Verde (municipality)">Ribeira Brava</a></li> 
+       <li>- <a href="/wiki/Tarrafal_de_S%C3%A3o_Nicolau,_Cape_Verde_(municipality)" title="Tarrafal de São Nicolau, Cape Verde (municipality)">Tarrafal de São Nicolau</a></li> 
+       <li>- <a href="/wiki/S%C3%A3o_Vicente,_Cape_Verde_(municipality)" class="mw-redirect" title="São Vicente, Cape Verde (municipality)">São Vicente</a></li> 
+       <li>- <a href="/wiki/Porto_Novo,_Cape_Verde_(municipality)" title="Porto Novo, Cape Verde (municipality)">Porto Novo</a></li> 
+       <li>- <a href="/wiki/Ribeira_Grande,_Cape_Verde_(municipality)" title="Ribeira Grande, Cape Verde (municipality)">Ribeira Grande</a></li> 
+       <li>- <a href="/wiki/Paul,_Cape_Verde_(municipality)" class="mw-redirect" title="Paul, Cape Verde (municipality)">Paúl</a></li>
+      </ol> 
+      <h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: Politics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=8" title="Change section: Politics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:237px;">
+        <a href="/wiki/File:Mindelo_portogrande.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mindelo_portogrande.jpg/235px-Mindelo_portogrande.jpg" decoding="async" width="235" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mindelo_portogrande.jpg/353px-Mindelo_portogrande.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/aa/Mindelo_portogrande.jpg 2x" data-file-width="400" data-file-height="262"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Mindelo_portogrande.jpg" class="internal" title="Enlarge"></a>
+         </div>The collection of sailing ships in Porto Grande, Mindelo on the island of <a href="/wiki/S%C3%A3o_Vicente,_Cape_Verde" title="São Vicente, Cape Verde">São Vicente</a>: tourism is a growing source of income on the islands
+        </div>
+       </div>
+      </div> 
+      <p>Cape Verde is a <a href="/wiki/Representative_democracy" class="mw-redirect" title="Representative democracy">representative</a> <a href="/wiki/Parliament" title="Parliament">parliamentary</a> <a href="/wiki/Republic" title="Republic">republic</a>. The <a href="/wiki/Constitution" title="Constitution">constitution</a> —adopted in 1980 and revised in 1992, 1995 and 1999— defines the basic principles of its government. The <a href="/wiki/President" title="President">president</a> is the <a href="/wiki/Head_of_state" title="Head of state">head of state</a> and is elected for a 5-year term; the <a href="/wiki/Prime_minister" title="Prime minister">Prime Minister</a> is the <a href="/wiki/Head_of_government" title="Head of government">head of government</a>. The Prime Minister is nominated by the <a href="/wiki/National_Assembly" title="National Assembly">National Assembly</a> and appointed by the President.<sup id="cite_ref-constitution_12-0" class="reference"><a href="#cite_note-constitution-12">[12]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Economy">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=9" title="Change section: Economy">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The economic resources of Cape Verde are largely dependent on agriculture and fishing. Agriculture frequently suffers the effects of droughts. The most important crops are coffee, bananas, sugar cane, tropical fruits, corn, beans, sweet potato, and cassava. The industrial sector is incipient but is based on the production of “aguardente” (spirits from sugar cane), clothing and footwear, paints and varnishes, tourism, fishing and canned fish, and salt extraction. Banana, canned fish, frozen fish, lobsters, salt, and clothes are the main exports. The national currency is the Cape Verdean escudo. Remittances from emigration are another important source of resources for the State of Cape Verde. </p> 
+      <h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: Demographics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=10" title="Change section: Demographics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a href="/wiki/File:Cape-Verde-demography.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cape-Verde-demography.png/300px-Cape-Verde-demography.png" decoding="async" width="300" height="177" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cape-Verde-demography.png/450px-Cape-Verde-demography.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cape-Verde-demography.png/600px-Cape-Verde-demography.png 2x" data-file-width="724" data-file-height="426"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Cape-Verde-demography.png" class="internal" title="Enlarge"></a>
+         </div>Demographics of Cape Verde, Data of <a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">FAO</a>, year 2005&nbsp;; Number of inhabitants in thousands.
+        </div>
+       </div>
+      </div> 
+      <p>In Cape Verde, the annual rate of population growth and mortality are low, compared to average rates of other middle-income countries. The average life expectancy is 66 years and 71 years respectively for men and women. The resident population in the country is estimated at 500,000 inhabitants. There are an estimated additional one million Cape Verdeans living abroad, mainly in the United States, Western Europe, and Africa. Cape Verde has a young population with an average age of 23 years. </p> 
+      <h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Change section: Culture">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=11" title="Change section: Culture">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Cape Verdean culture is a unique mixture of European and African elements. Corn is the staple food of Cape Verde. The national or traditional dish is <i>cachupa</i>, which is a stew of hominy (dried <a href="/wiki/Maize" title="Maize">maize</a> kernals), beans, and whatever meat or vegetables may be available. Other common foods include rice, beans, fish, potatoes and <a href="/wiki/Manioc" title="Manioc">manioc</a>. A traditional breakfast is a steamed cornbread, eaten with honey and milk or coffee. Grogue, or <a href="/wiki/Sugar_cane" class="mw-redirect" title="Sugar cane">sugar cane</a> <a href="/wiki/Alcoholic_drink" title="Alcoholic drink">liquor</a>, is manufactured on the islands and is a popular drink, particularly among the men. Cape Verdean music incorporates Portuguese, Caribbean, and African influences. Popular genres include morna, funaná, batuque, coladeira, and cola san jon. </p> 
+      <h2><span class="mw-headline" id="Health">Health</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Change section: Health">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=12" title="Change section: Health">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In Cape Verde, other than private clinics, the government guarantees a public health system which comprises several healthcare centers and three central hospitals (Hospital Agostinho Neto, in Praia, Hospital Baptista de Sousa, in São Vicente, and Hospital Regional de Santiago Norte, in Assomada). The cost of public health is supported by the government, but users must pay a fee which varies in accordance with the capacity of the user to afford it. </p> 
+      <h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Change section: Education">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=13" title="Change section: Education">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>After independence, the different governments of Cape Verde invested massively in education and illiteracy has been reduced drastically. Today almost one hundred percent of school-age children attend school. Attendance to primary schooling, which comprises 6 years, is compulsory and free of any charge. Education is guaranteed by a network of public schools that span from nursery school to university. There are also several private schools in all levels of education. </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=14" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-bbc-1"><span class="mw-cite-backlink"><a href="#cite_ref-bbc_1-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-africa-13148488">"Cape Verde profile"</a>. BBC.com. 26 February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">10 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cape+Verde+profile&amp;rft.pub=BBC.com&amp;rft.date=2014-02-26&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-africa-13148488&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-cia-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-cia_2-0">2.0</a></sup> <sup><a href="#cite_ref-cia_2-1">2.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/cv.html">"CIA World Factbook"</a>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a>. 8 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CIA+World+Factbook&amp;rft.pub=Central+Intelligence+Agency&amp;rft.date=2013-07-08&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fcv.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-ine-3"><span class="mw-cite-backlink"><a href="#cite_ref-ine_3-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ine.cv/dadostats/dados.aspx?d=1">"Estatísticas Por Tema"</a>. Instituto Nacional de Estatística&nbsp;: Cabo Verde<span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Estat%C3%ADsticas+Por+Tema&amp;rft.pub=Instituto+Nacional+de+Estat%C3%ADstica+%3A+Cabo+Verde&amp;rft_id=http%3A%2F%2Fwww.ine.cv%2Fdadostats%2Fdados.aspx%3Fd%3D1&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-imf3-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf3_4-0">4.0</a></sup> <sup><a href="#cite_ref-imf3_4-1">4.1</a></sup> <sup><a href="#cite_ref-imf3_4-2">4.2</a></sup> <sup><a href="#cite_ref-imf3_4-3">4.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?pr.x=42&amp;pr.y=15&amp;sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=624&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Cape Verde"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cape+Verde&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2013%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D42%26pr.y%3D15%26sy%3D2009%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D624%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-5"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/media/HDR_2011_EN_Summary.pdf">"Human Development Report 2011 - Summary"</a> <span class="cs1-format">(PDF)</span>. The United Nations. p.&nbsp;19<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2011+-+Summary&amp;rft.pages=19&amp;rft.pub=The+United+Nations&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fmedia%2FHDR_2011_EN_Summary.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.columbia.edu/itc/mealac/pritchett/00generallinks/kerr/vol02&nbsp;chap03.html"><i>Voyages of Discovery by the Portuguese along the Western Coast of Africa, during the life, and under the direction, of Don Henry</i></a></span> </li> 
+         <li id="cite_note-cvcom-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-cvcom_7-0">7.0</a></sup> <sup><a href="#cite_ref-cvcom_7-1">7.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.capeverde.com/geography.html">"Cape Verde: Geography"</a>. <i>CapeVerde.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CapeVerde.com&amp;rft.atitle=Cape+Verde%3A+Geography&amp;rft_id=http%3A%2F%2Fwww.capeverde.com%2Fgeography.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-ine2-8"><span class="mw-cite-backlink"><a href="#cite_ref-ine2_8-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ine.cv/actualise/dadostat/files/213b4eda-e5eb-4f23-a2af-9a3f0a413631evolu%C3%A7%C3%A3o%20do%20popula%C3%A7%C3%A3o%20residente%20urbana,%201990%20-%202010.pdf">"Distribuição da população residente por meio de residência - RGPH 2010"</a> <span class="cs1-format">(PDF)</span>. Instituto Nacional de Estatística&nbsp;: Cabo Verde<span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Distribui%C3%A7%C3%A3o+da+popula%C3%A7%C3%A3o+residente+por+meio+de+resid%C3%AAncia+-+RGPH+2010&amp;rft.pub=Instituto+Nacional+de+Estat%C3%ADstica+%3A+Cabo+Verde&amp;rft_id=http%3A%2F%2Fwww.ine.cv%2Factualise%2Fdadostat%2Ffiles%2F213b4eda-e5eb-4f23-a2af-9a3f0a413631evolu%25C3%25A7%25C3%25A3o%2520do%2520popula%25C3%25A7%25C3%25A3o%2520residente%2520urbana%2C%25201990%2520-%25202010.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-webase1-9"><span class="mw-cite-backlink"><a href="#cite_ref-webase1_9-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://koeppen-geiger.vu-wien.ac.at/">"World Map of Köppen-Geiger Climate Classification"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+Map+of+K%C3%B6ppen-Geiger+Climate+Classification&amp;rft_id=http%3A%2F%2Fkoeppen-geiger.vu-wien.ac.at%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/ebas/index.html?action=EbaHTMDetails.asp&amp;sid=79&amp;m=0">"Endemic Bird Areas: Cape Verde Islands"</a>. Birdlife.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Endemic+Bird+Areas%3A+Cape+Verde+Islands&amp;rft.pub=Birdlife.org&amp;rft_id=http%3A%2F%2Fwww.birdlife.org%2Fdatazone%2Febas%2Findex.html%3Faction%3DEbaHTMDetails.asp%26sid%3D79%26m%3D0&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite id="CITEREFArechavaleta,_M.,_Zurita,_N.,_Marrero,_M.C._&amp;_Martín,_J.L.2005" class="citation book cs1">Arechavaleta, M., Zurita, N., Marrero, M.C. &amp; Martín, J.L. (2005). <a rel="nofollow" class="external text" href="http://www.gobiernodecanarias.org/medioambiente/piac/material_publicado/cd_roms/detalle-cdr-01.html"><i>Lista preliminar de especies silvestres de Cabo Verde (hongos, plantas y animales terrestres)</i></a>. Canarias: Consejería de Medio Ambiente y Ordenación Territorial, Gobierno de Canarias.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Lista+preliminar+de+especies+silvestres+de+Cabo+Verde+%28hongos%2C+plantas+y+animales+terrestres%29&amp;rft.place=Canarias&amp;rft.pub=Consejer%C3%ADa+de+Medio+Ambiente+y+Ordenaci%C3%B3n+Territorial%2C+Gobierno+de+Canarias&amp;rft.date=2005&amp;rft.au=Arechavaleta%2C+M.%2C+Zurita%2C+N.%2C+Marrero%2C+M.C.+%26+Mart%C3%ADn%2C+J.L.&amp;rft_id=http%3A%2F%2Fwww.gobiernodecanarias.org%2Fmedioambiente%2Fpiac%2Fmaterial_publicado%2Fcd_roms%2Fdetalle-cdr-01.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-constitution-12"><span class="mw-cite-backlink"><a href="#cite_ref-constitution_12-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://confinder.richmond.edu/admin/docs/CapeVerde.pdf">"Constitution of Cape Verde"</a> <span class="cs1-format">(PDF)</span>. 1992<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Constitution+of+Cape+Verde&amp;rft.date=1992&amp;rft_id=http%3A%2F%2Fconfinder.richmond.edu%2Fadmin%2Fdocs%2FCapeVerde.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACape+Verde" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Cape_Verde&amp;action=edit&amp;section=15" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Cape_Verde" class="extiw" title="commons:Cape Verde">Cape Verde</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.presidenciarepublica.cv">Presidencia da República de Cabo Verde</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.goberno.cv">Goberno da República de Cabo Verde</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.ine.cv">Instituto Nacional de Estatísticas</a></li>
+      </ul> 
+      <table role="presentation" class="metadata mbox-small plainlinks" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></td> 
+         <td class="mbox-text plainlist">Wikivoyage has a travel guide about: <i><b><a href="https://en.wikivoyage.org/wiki/Cape_Verde" class="extiw" title="wikivoyage:Cape Verde">Cape Verde</a></b></i></td>
+        </tr> 
+       </tbody>
+      </table> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_Africa" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=List_of_sovereign_states_and_dependent_territories_in_Africa&amp;action=edit&amp;redlink=1" class="new" title="List of sovereign states and dependent territories in Africa (not yet started)">Countries and territories</a> of <a href="/wiki/Africa" title="Africa">Africa</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Entirely or mostly<br>in Africa</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Algeria" title="Algeria">Algeria</a></li> 
+                 <li><a href="/wiki/Angola" title="Angola">Angola</a></li> 
+                 <li><a href="/wiki/Benin" title="Benin">Benin</a></li> 
+                 <li><a href="/wiki/Botswana" title="Botswana">Botswana</a></li> 
+                 <li><a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a></li> 
+                 <li><a href="/wiki/Burundi" title="Burundi">Burundi</a></li> 
+                 <li><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></li> 
+                 <li><a class="mw-selflink selflink">Cape Verde</a></li> 
+                 <li><a href="/wiki/Central_African_Republic" title="Central African Republic">Central African Republic</a></li> 
+                 <li><a href="/wiki/Chad" title="Chad">Chad</a></li> 
+                 <li><a href="/wiki/Comoros" title="Comoros">Comoros</a></li> 
+                 <li><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+                 <li><a href="/wiki/Republic_of_the_Congo" title="Republic of the Congo">Republic of the Congo</a></li> 
+                 <li><a href="/wiki/Djibouti" title="Djibouti">Djibouti</a></li> 
+                 <li><a href="/wiki/Egypt" title="Egypt">Egypt</a></li> 
+                 <li><a href="/wiki/Equatorial_Guinea" title="Equatorial Guinea">Equatorial Guinea</a></li> 
+                 <li><a href="/wiki/Eritrea" title="Eritrea">Eritrea</a></li> 
+                 <li><a href="/wiki/Eswatini" title="Eswatini">Eswatini</a></li> 
+                 <li><a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a></li> 
+                 <li><a href="/wiki/Gabon" title="Gabon">Gabon</a></li> 
+                 <li><a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a></li> 
+                 <li><a href="/wiki/Ghana" title="Ghana">Ghana</a></li> 
+                 <li><a href="/wiki/Guinea" title="Guinea">Guinea</a></li> 
+                 <li><a href="/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a></li> 
+                 <li><a href="/wiki/Ivory_Coast" title="Ivory Coast">Ivory Coast</a></li> 
+                 <li><a href="/wiki/Kenya" title="Kenya">Kenya</a></li> 
+                 <li><a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></li> 
+                 <li><a href="/wiki/Liberia" title="Liberia">Liberia</a></li> 
+                 <li><a href="/wiki/Libya" title="Libya">Libya</a></li> 
+                 <li><a href="/wiki/Madagascar" title="Madagascar">Madagascar</a></li> 
+                 <li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li> 
+                 <li><a href="/wiki/Mali" title="Mali">Mali</a></li> 
+                 <li><a href="/wiki/Mauritania" title="Mauritania">Mauritania</a></li> 
+                 <li><a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></li> 
+                 <li><a href="/wiki/Morocco" title="Morocco">Morocco</a></li> 
+                 <li><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></li> 
+                 <li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li> 
+                 <li><a href="/wiki/Niger" title="Niger">Niger</a></li> 
+                 <li><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></li> 
+                 <li><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a></li> 
+                 <li><a href="/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+                 <li><a href="/wiki/Senegal" title="Senegal">Senegal</a></li> 
+                 <li><a href="/wiki/Seychelles" title="Seychelles">Seychelles</a></li> 
+                 <li><a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></li> 
+                 <li><a href="/wiki/Somalia" title="Somalia">Somalia</a></li> 
+                 <li><a href="/wiki/South_Africa" title="South Africa">South Africa</a></li> 
+                 <li><a href="/wiki/South_Sudan" title="South Sudan">South Sudan</a></li> 
+                 <li><a href="/wiki/Sudan" title="Sudan">Sudan</a></li> 
+                 <li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li> 
+                 <li><a href="/wiki/Togo" title="Togo">Togo</a></li> 
+                 <li><a href="/wiki/Tunisia" title="Tunisia">Tunisia</a></li> 
+                 <li><a href="/wiki/Uganda" title="Uganda">Uganda</a></li> 
+                 <li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li> 
+                 <li><a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Partly<br>in Africa</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/France" title="France">France</a> 
+                  <ul>
+                   <li><a href="/wiki/Mayotte" title="Mayotte">Mayotte</a></li> 
+                   <li><a href="/wiki/R%C3%A9union" title="Réunion">Réunion</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Italy" title="Italy">Italy</a> 
+                  <ul>
+                   <li><a href="/w/index.php?title=Pantelleria&amp;action=edit&amp;redlink=1" class="new" title="Pantelleria (not yet started)">Pantelleria</a></li> 
+                   <li><a href="/wiki/Pelagie_Islands" title="Pelagie Islands">Pelagie Islands</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Portugal" title="Portugal">Portugal</a> 
+                  <ul>
+                   <li><a href="/wiki/Madeira" class="mw-redirect" title="Madeira">Madeira</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Spain" title="Spain">Spain</a> 
+                  <ul>
+                   <li><a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a></li> 
+                   <li><a href="/wiki/Ceuta" title="Ceuta">Ceuta</a></li> 
+                   <li><a href="/wiki/Melilla" title="Melilla">Melilla</a></li> 
+                   <li><a href="/w/index.php?title=Plazas_de_soberan%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Plazas de soberanía (not yet started)">Plazas de soberanía</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Yemen" title="Yemen">Yemen</a> 
+                  <ul>
+                   <li><a href="/wiki/Socotra" title="Socotra">Socotra</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px;padding:0 1.0em 0 0.5em;">
+           <div>
+            <a href="/wiki/File:Africa_(orthographic_projection).svg" class="image" title="Orthographic projection of Africa"><img alt="Orthographic projection of Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/120px-Africa_%28orthographic_projection%29.svg.png" decoding="async" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/180px-Africa_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/240px-Africa_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/w/index.php?title=Territory_(subdivision)&amp;action=edit&amp;redlink=1" class="new" title="Territory (subdivision) (not yet started)">Territories</a> 
+            <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">and</span>
+            <br><a href="/wiki/Dependent_territory" title="Dependent territory">dependencies</a>
+           </div></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Scattered_Islands_in_the_Indian_Ocean" title="Scattered Islands in the Indian Ocean">Îles Éparses</a> 
+              <ul>
+               <li><span style="font-size:90%;">France</span></li>
+              </ul></li> 
+             <li><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</a> 
+              <ul>
+               <li><span style="font-size:90%;">UK</span></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with limited<br>recognition</a>
+           </div></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Sahrawi_Arab_Democratic_Republic" title="Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Somaliland" title="Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <sup><small>1</small></sup> <a href="/wiki/Territorial_dispute" class="mw-redirect" title="Territorial dispute">Unclear sovereignty</a>.
+            <br>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1318
+Cached time: 20201215232354
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.952 seconds
+Real time usage: 1.135 seconds
+Preprocessor visited node count: 4936/1000000
+Post‐expand include size: 92507/2097152 bytes
+Template argument size: 7268/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 36835/5000000 bytes
+Lua time usage: 0.576/10.000 seconds
+Lua memory usage: 15842465/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  982.986      1 -total
+ 67.26%  661.117      1 Template:Infobox_country
+ 66.88%  657.379      3 Template:Infobox
+ 20.21%  198.645      3 Template:ISO_3166_code
+ 15.64%  153.720      1 Template:In_lang
+ 15.20%  149.413      1 Template:Reflist
+ 12.38%  121.720     10 Template:Cite_web
+  7.68%   75.468      1 Template:Weather_box
+  5.56%   54.632      1 Template:Infobox_country/imagetable
+  4.94%   48.582      1 Template:Africa
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:19283-0!canonical and timestamp 20201215232354 and revision id 7210641. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Cape_Verde&amp;oldid=7210641">https://simple.wikipedia.org/w/index.php?title=Cape_Verde&amp;oldid=7210641</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Archipelagos" title="Category:Archipelagos">Archipelagos</a></li>
+       <li><a href="/wiki/Category:Portuguese-speaking_countries" title="Category:Portuguese-speaking countries">Portuguese-speaking countries</a></li>
+       <li><a href="/wiki/Category:Cape_Verde" title="Category:Cape Verde">Cape Verde</a></li>
+       <li><a href="/wiki/Category:1975_establishments_in_Africa" title="Category:1975 establishments in Africa">1975 establishments in Africa</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">CS1 maint: multiple names: authors list</a></li>
+       <li><a href="/wiki/Category:Articles_with_Portuguese-language_sources_(pt)" title="Category:Articles with Portuguese-language sources (pt)">Articles with Portuguese-language sources (pt)</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Portuguese-language_text" title="Category:Articles containing Portuguese-language text">Articles containing Portuguese-language text</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cape+Verde" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cape+Verde" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Cape_Verde" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Cape_Verde&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (not yet started) [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Cape_Verde">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Cape_Verde&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Cape_Verde&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Cape_Verde&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cape_Verde" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cape_Verde" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Cape_Verde&amp;oldid=7210641" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Cape_Verde&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cape_Verde&amp;id=7210641&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1011" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cape+Verde">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Cape_Verde&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Cape_Verde&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cape_Verde" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Kaap_Verde" title="Kaap Verde – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%AB%E1%89%A6_%E1%89%A8%E1%88%AD%E1%8B%B4" title="ካቦ ቨርዴ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Gr%C4%93nen%C3%A6s_%C4%AAega" title="Grēnenæs Īega – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D8%A3%D8%B3_%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1" title="الرأس الأخضر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Cap-V%C3%A8rd" title="Cap-Vèrd – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Cabu_Verde" title="Cabu Verde – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/K%C3%A1vo_V%C3%A9yde" title="Kávo Véyde – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Kabo-Verde" title="Kabo-Verde – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%DA%A9%D8%A6%DB%8C%D9%BE_%D9%88%D8%B1%D8%AF" title="کئیپ ورد – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Tanjung_Gadang" title="Tanjung Gadang – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Kap_Verdi" title="Kap Verdi – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A7%81_%E0%A6%AD%E0%A7%87%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A6%BF" title="কাবু ভের্দি – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Tanjung_Verde" title="Tanjung Verde – Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%B0-%D0%92%D0%B5%D1%80%D0%B4%D1%8D" title="Каба-Вердэ – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%B0-%D0%92%D1%8D%D1%80%D0%B4%D1%8D" title="Каба-Вэрдэ – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%AA_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%87" title="केप वर्डे – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Kabo_nin_Berde" title="Kabo nin Berde – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE_%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо Верде – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%81%E0%BD%BA%E0%BD%96%E0%BC%8B%E0%BD%9D%E0%BD%A2%E0%BC%8B%E0%BD%8C%E0%BD%B2%E0%BC%8D" title="ཁེབ་ཝར་ཌི། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Zelenortska_Ostrva" title="Zelenortska Ostrva – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Kab_Glas" title="Kab Glas – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Cap_Verd" title="Cap Verd – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE_%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо Верде – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kapverdy" title="Kapverdy – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Capu_Verde" title="Capu Verde – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://da.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D8%A7%D8%B3_%D9%84%D8%AE%D8%B6%D8%B1" title="الراس لخضر – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%86%DE%AD%DE%95%DE%B0_%DE%88%DE%A7%DE%91%DE%AD" title="ކޭޕް ވާޑޭ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%AA_%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%87" title="केप भर्डे – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Roheneemesaared" title="Roheneemesaared – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CF%81%CE%AC%CF%83%CE%B9%CE%BD%CE%BF_%CE%91%CE%BA%CF%81%CF%89%CF%84%CE%AE%CF%81%CE%B9%CE%BF" title="Πράσινο Ακρωτήριο – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kaboverdo" title="Kaboverdo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Cabu_Verdi" title="Cabu Verdi – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%DB%8C%D9%BE_%D9%88%D8%B1%D8%AF" title="کیپ ورد – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cap-Vert" title="Cap-Vert – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Kaapverdje" title="Kaapverdje – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Kapu_Werde" title="Kapu Werde – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Rinn_Verde" title="Rinn Verde – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Rheynn_Ghlass" title="Yn Rheynn Ghlass – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Kabo_Verde" title="Kabo Verde – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%9D%D0%BE%D2%BB%D0%B0%D0%BD%D0%BE%D0%BC%D0%B3%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Ноһаномгудин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%B3%B4%EB%B2%A0%EB%A5%B4%EB%8D%B0" title="카보베르데 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%A2%D5%B8_%D5%8E%D5%A5%D6%80%D5%A4%D5%A5" title="Կաբո Վերդե – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%AA_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%87" title="केप वर्दे – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Zelenortska_Republika" title="Zelenortska Republika – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Kabo_Verda" title="Kabo Verda – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Kabo_Berde" title="Kabo Berde – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%95%E0%A7%87%E0%A6%AA_%E0%A6%AD%E0%A7%87%E0%A6%B0%E0%A7%8D%E0%A6%A6" title="কেপ ভের্দ – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Tanjung_Verde" title="Tanjung Verde – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Capo_Verde" title="Capo Verde – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Cap_Verd" title="Cap Verd – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/IKhepi_Vedhi" title="IKhepi Vedhi – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Gr%C3%A6nh%C3%B6f%C3%B0aeyjar" title="Grænhöfðaeyjar – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Capo_Verde" title="Capo Verde – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9B%D7%A3_%D7%95%D7%A8%D7%93%D7%94" title="כף ורדה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Pongol_Verd%C3%A9" title="Pongol Verdé – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Kap%CA%8Av%C9%9B%C9%9Br%C9%A9" title="Kapʊvɛɛrɩ – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B3%87%E0%B2%AA%E0%B3%8D_%E0%B2%B5%E0%B3%86%E0%B2%B0%E0%B3%8D%E0%B2%A6%E0%B3%86" title="ಕೇಪ್ ವೆರ್ದೆ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%91%E1%83%9D-%E1%83%95%E1%83%94%E1%83%A0%E1%83%93%E1%83%94" title="კაბო-ვერდე – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Pennrynn_Gwyrdh" title="Pennrynn Gwyrdh – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Kapu_Veri" title="Kapu Veri – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Kaboverdea" title="Kaboverdea – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Kap_V%C3%A8" title="Kap Vè – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Kap-V%C3%A8r" title="Kap-Vèr – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%DA%A9%DB%8C%D9%BE_%DA%A4%D9%88%D8%B1%D8%AF" title="کیپ ڤورد – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Res_publica_Capitis_Viridis" title="Res publica Capitis Viridis – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Kaboverde" title="Kaboverde – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Cap_Vert" title="Cap Vert – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/%C5%BDaliasis_Ky%C5%A1ulys" title="Žaliasis Kyšulys – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Cavo_Verde" title="Cavo Verde – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Kaapverdi%C3%AB" title="Kaapverdië – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Cap-Vert" title="Cap-Vert – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Capo_Verde" title="Capo Verde – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Kabo_Verde" title="Kabo Verde – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lg"><a href="https://lg.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Ganda" lang="lg" hreflang="lg" class="interlanguage-link-target">Luganda</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Cap_Verd" title="Cap Verd – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Z%C3%B6ld-foki_K%C3%B6zt%C3%A1rsas%C3%A1g" title="Zöld-foki Köztársaság – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD_%E2%80%99%D0%A0%D1%82" title="Зелен ’Рт – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Kapvera" title="Kapvera – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%87%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8D_%E0%B4%B5%E0%B5%87%E0%B5%BC%E0%B4%A1%E0%B5%8D" title="കേപ്പ് വേർഡ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/K%C4%93pa_Weriti" title="Kēpa Weriti – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%AA_%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%87" title="केप व्हर्दे – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%91%E1%83%9D-%E1%83%95%E1%83%94%E1%83%A0%E1%83%93%E1%83%94" title="კაბო-ვერდე – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%83%D8%A7%D8%A8%D9%88_%D9%81%D9%8A%D8%B1%D8%AF%D8%A7" title="كابو فيردا – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%DA%A9%DB%8C%D9%BE_%D9%88%D8%B1%D8%AF" title="کیپ ورد – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Tanjung_Verde" title="Tanjung Verde – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Cabo_Berde" title="Cabo Berde – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%80%E1%80%AD%E1%80%90%E1%80%BA%E1%80%97%E1%80%AC%E1%80%92%E1%80%AE%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ကိတ်ဗာဒီနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Keip_Berde" title="Keip Berde – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Kaapverdi%C3%AB" title="Kaapverdië – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%AA_%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A1" title="केप भर्ड – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%AA_%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%87" title="केप भर्डे – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%99%E3%83%AB%E3%83%87" title="カーボベルデ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nqo"><a href="https://nqo.wikipedia.org/wiki/%DF%9C%DF%99%DF%8B%DF%9E%DF%8E%DF%B2%DF%AB_%DF%9D%DF%99%DF%8C%DF%9B%DF%8C" title="ߜߙߋߞߎ߲߫ ߝߙߌߛߌ – N’Ko" lang="nqo" hreflang="nqo" class="interlanguage-link-target">ߒߞߏ</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Kapwerden" title="Kapwerden – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://no.wikipedia.org/wiki/Kapp_Verde" title="Kapp Verde – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Kapp_Verde" title="Kapp Verde – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/V%C3%A8rt_Cap" title="Vèrt Cap – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Kabe_Verdi" title="Kabe Verdi – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Cap_Verd" title="Cap Verd – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%95%E0%AD%87%E0%AC%AA_%E0%AC%AD%E0%AC%B0%E0%AD%8D%E0%AC%A1" title="କେପ ଭର୍ଡ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Keeppi_Verdee" title="Keeppi Verdee – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Kabo-Verde" title="Kabo-Verde – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%87%E0%A8%AA_%E0%A8%B5%E0%A8%B0%E0%A8%A6%E0%A9%87" title="ਕੇਪ ਵਰਦੇ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%AA_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%80" title="केप वर्डी – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DA%A9%DB%8C%D9%BE_%D9%88%D8%B1%D8%AF%DB%8C" title="کیپ وردی – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Kabu_Verdi" title="Kabu Verdi – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%DA%A9%DB%8C%D9%BE_%D9%88%D8%B1%DA%89" title="کیپ ورډ – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Kiep_Voerdi" title="Kiep Voerdi – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Cap_Verd" title="Cap Verd – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Republika_Zielonego_Przyl%C4%85dka" title="Republika Zielonego Przylądka – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Kabo-verde" title="Kabo-verde – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Kabo_Verde" title="Kabo Verde – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Republica_Capului_Verde" title="Republica Capului Verde – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Cap_Verd" title="Cap Verd – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Q%27umir_Kawu" title="Q'umir Kawu – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE_%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо Верде – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%AA_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%80" title="केप वर्डी – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/Az%C3%BB%C3%A2_t%C3%AE_K%C3%A2po-V%C3%AAre" title="Azûâ tî Kâpo-Vêre – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Cabu_Birde" title="Cabu Birde – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Kepi_i_Gjelb%C3%ABr" title="Kepi i Gjelbër – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Capu_Virdi" title="Capu Virdi – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%9A%E0%B7%9A%E0%B6%B4%E0%B7%8A_%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%A9%E0%B7%8A" title="කේප් වර්ඩ් – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%DA%AA%D9%8A%D9%BE_%D9%88%D8%B1%DA%8A%D9%8A" title="ڪيپ ورڊي – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/Sihlenge_Lesiluhlata" title="Sihlenge Lesiluhlata – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kapverdy" title="Kapverdy – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Zelenortski_otoki" title="Zelenortski otoki – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Republika_%C5%B9el%C5%AFnygo_Przil%C5%AFndka" title="Republika Źelůnygo Przilůndka – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Kab_Ferde" title="Kab Ferde – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%A9%DB%95%DB%8C%D9%BE%DA%A4%DB%95%D8%B1%D8%AF" title="کەیپڤەرد – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D1%80%D1%82%D1%81%D0%BA%D0%B0_%D0%9E%D1%81%D1%82%D1%80%D0%B2%D0%B0" title="Зеленортска Острва – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Zelenortska_Republika" title="Zelenortska Republika – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Tanjung_Verd%C3%A9" title="Tanjung Verdé – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kap_Verde" title="Kap Verde – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%87%E0%AE%AA%E0%AF%8D_%E0%AE%B5%E0%AE%B0%E0%AF%8D%E0%AE%9F%E0%AE%BF" title="கேப் வர்டி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/I%C9%A3ef_Azegzaw" title="Iɣef Azegzaw – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%81%B6%E1%80%B5%E1%80%95%E1%80%BA%E1%82%89%E1%80%9D%E1%82%84%E1%82%87%E1%80%90%E1%80%AE%E1%82%87" title="မိူင်းၶဵပ်ႉဝႄႇတီႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B1%87%E0%B0%AA%E0%B1%8D_%E0%B0%B5%E0%B0%B0%E0%B1%8D%E0%B0%A6%E0%B1%86" title="కేప్ వర్దె – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Kabuverde" title="Kabuverde – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%81%E0%B8%B2%E0%B8%9A%E0%B8%B9%E0%B9%80%E0%B8%A7%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B5" title="ประเทศกาบูเวร์ดี – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%94%D0%B8%D0%BC%D0%BE%D2%93%D0%B0%D0%B8_%D0%A1%D0%B0%D0%B1%D0%B7" title="Димоғаи Сабз – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8E%A2%E1%8E%AC%E1%8E%BE%E1%8F%95%E1%8E%BE_%E1%8E%A2%E1%8F%A4%E1%8F%B3%E1%8F%8D%E1%8F%97" title="ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ye%C5%9Fil_Burun_Adalar%C4%B1" title="Yeşil Burun Adaları – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Kabo-Werde" title="Kabo-Werde – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%A9%DB%8C%D9%BE_%D9%88%D8%B1%DA%88%DB%8C" title="کیپ ورڈی – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D9%8A%DB%90%D8%B4%D9%89%D9%84_%D8%AA%DB%87%D9%85%D8%B4%DB%87%D9%82_%D8%A6%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%89%D8%B1%D9%89" title="يېشىل تۇمشۇق ئاراللىرى – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Cao_Verdo" title="Cao Verdo – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Kabo_Verde" title="Kabo Verde – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Kabov%C3%A4rdu%C3%A4ns" title="Kabovärduäns – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Cap-Vert" title="Cap-Vert – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%BE%B7%E8%A7%92" title="維德角 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Cabo_Verde" title="Cabo Verde – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Kap_Weert" title="Kap Weert – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E4%BD%9B%E5%BE%97%E8%A7%92" title="佛得角 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Cape_Verde" title="Cape Verde – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A7%D7%90%D7%A4%D7%95%D7%95%D7%A2%D7%A8%D7%93%D7%99%D7%A9%D7%A2_%D7%90%D7%99%D7%A0%D7%96%D7%9C%D7%A2%D7%9F" title="קאפווערדישע אינזלען – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Kepu_Ferde" title="Kepu Ferde – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%B6%AD%E5%BE%B7%E8%A7%92" title="維德角 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Kabo_Verde" title="Kabo Verde – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Kaopverdi%C3%AB" title="Kaopverdië – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/%C5%BDaliuoj%C4%97_%C4%96%C5%A1k%C4%AB%C5%A1ol%C4%97_Respobl%C4%97ka" title="Žaliuojė Ėškīšolė Respoblėka – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BD%9B%E5%BE%97%E8%A7%92" title="佛得角 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1011#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 12 December 2020, at 08:43.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Cape_Verde&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.952","walltime":"1.135","ppvisitednodes":{"value":4936,"limit":1000000},"postexpandincludesize":{"value":92507,"limit":2097152},"templateargumentsize":{"value":7268,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":36835,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  982.986      1 -total"," 67.26%  661.117      1 Template:Infobox_country"," 66.88%  657.379      3 Template:Infobox"," 20.21%  198.645      3 Template:ISO_3166_code"," 15.64%  153.720      1 Template:In_lang"," 15.20%  149.413      1 Template:Reflist"," 12.38%  121.720     10 Template:Cite_web","  7.68%   75.468      1 Template:Weather_box","  5.56%   54.632      1 Template:Infobox_country/imagetable","  4.94%   48.582      1 Template:Africa"]},"scribunto":{"limitreport-timeusage":{"value":"0.576","limit":"10.000"},"limitreport-memusage":{"value":15842465,"limit":52428800}},"cachereport":{"origin":"mw1318","timestamp":"20201215232354","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cape Verde","url":"https:\/\/simple.wikipedia.org\/wiki\/Cape_Verde","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1011","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1011","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-14T16:27:59Z","dateModified":"2020-12-12T08:43:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Flag_of_Cape_Verde.svg","headline":"sovereign state comprising ten islands off the Western coast of Africa"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":318,"wgHostname":"mw1389"});});</script> 
+ </body>
+</html>

@@ -1,0 +1,924 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Kiribati - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X9qUhApAIIQAAqJcaPkAAAAP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kiribati","wgTitle":"Kiribati","wgCurRevisionId":6961889,"wgRevisionId":6961889,"wgArticleId":11465,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers",
+"Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Kiribati","Least developed countries","1979 establishments"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Kiribati","wgRelevantArticleId":11465,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q710"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart",
+"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.21"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1200px-Flag_of_Kiribati.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Kiribati"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Kiribati&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Kiribati&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Kiribati"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Kiribati rootpage-Kiribati skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Kiribati</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic of Kiribati
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i>Ribaberiki Kiribati</i>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Kiribati.svg" class="image" title="Flag of Kiribati"><img alt="Flag of Kiribati" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/125px-Flag_of_Kiribati.svg.png" decoding="async" width="125" height="63" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/188px-Flag_of_Kiribati.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/250px-Flag_of_Kiribati.svg.png 2x" data-file-width="600" data-file-height="300"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Kiribati" title="Flag of Kiribati">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Kiribati.svg" class="image" title="Coat of arms of Kiribati"><img alt="Coat of arms of Kiribati" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Coat_of_arms_of_Kiribati.svg/85px-Coat_of_arms_of_Kiribati.svg.png" decoding="async" width="85" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Coat_of_arms_of_Kiribati.svg/128px-Coat_of_arms_of_Kiribati.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Coat_of_arms_of_Kiribati.svg/170px-Coat_of_arms_of_Kiribati.svg.png 2x" data-file-width="299" data-file-height="328"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b>"Te Mauri, Te Raoi ao Te Tabomoa"
+           <br><span style="font-size:85%;">"Health, Peace and Prosperity"</span>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><i><a href="/wiki/Teirake_Kaini_Kiribati" title="Teirake Kaini Kiribati">Teirake Kaini Kiribati</a></i>
+           <br><span style="font-size:85%;"><i>Stand up, Kiribati</i></span>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Kiribati_on_the_globe_(Polynesia_centered).svg" class="image" title="Location of Kiribati"><img alt="Location of Kiribati" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kiribati_on_the_globe_%28Polynesia_centered%29.svg/250px-Kiribati_on_the_globe_%28Polynesia_centered%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kiribati_on_the_globe_%28Polynesia_centered%29.svg/375px-Kiribati_on_the_globe_%28Polynesia_centered%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kiribati_on_the_globe_%28Polynesia_centered%29.svg/500px-Kiribati_on_the_globe_%28Polynesia_centered%29.svg.png 2x" data-file-width="861" data-file-height="861"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/South_Tarawa" title="South Tarawa">South Tarawa</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Kiribati&amp;params=1_28_N_173_2_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">1°28′N</span> <span class="longitude">173°2′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">1.467°N 173.033°E</span><span style="display:none">﻿ / <span class="geo">1.467; 173.033</span></span></span></a></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><a href="/wiki/English_language" title="English language">English</a></li>
+            <li><a href="/wiki/Gilbertese_language" title="Gilbertese language">Gilbertese</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2000)
+          </div></th>
+         <td>98.8% <a href="/wiki/Micronesia" title="Micronesia">Micronesian</a> <br>1.2% others</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>I-Kiribati</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Parliamentary_republic" title="Parliamentary republic">Parliamentary republic</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=President_of_Kiribati&amp;action=edit&amp;redlink=1" class="new" title="President of Kiribati (not yet started)">President</a> 
+          </div></th>
+         <td><a href="/wiki/Taneti_Mamau" title="Taneti Mamau">Taneti Mamau</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Vice_President_of_Kiribati&amp;action=edit&amp;redlink=1" class="new" title="Vice President of Kiribati (not yet started)">Vice-President</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Kourabi_Nenem&amp;action=edit&amp;redlink=1" class="new" title="Kourabi Nenem (not yet started)">Kourabi Nenem</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/w/index.php?title=House_of_Assembly_(Kiribati)&amp;action=edit&amp;redlink=1" class="new" title="House of Assembly (Kiribati) (not yet started)">House of Assembly</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        </tr>
+        <tr class="mergedbottomrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from the United Kingdom 
+          </div></th>
+         <td>12 July 1979</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>811&nbsp;km<sup>2</sup> (313&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">186th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2010 estimate
+          </div></th>
+         <td>103,500 (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">197th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2015&nbsp;census
+          </div></th>
+         <td>110,136</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>136/km<sup>2</sup> (352.2/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">73rd</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$599 million<sup id="cite_ref-imf2_3-0" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$5,721<sup id="cite_ref-imf2_3-1" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$167 million<sup id="cite_ref-imf2_3-2" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$1,592<sup id="cite_ref-imf2_3-3" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2013)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.629<br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">121st</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Kiribati_dollar&amp;action=edit&amp;redlink=1" class="new" title="Kiribati dollar (not yet started)">Kiribati dollar</a><br>Australian dollar (<a href="/wiki/ISO_4217" title="ISO 4217">AUD</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a><a href="/w/index.php?title=UTC%2B12:00&amp;action=edit&amp;redlink=1" class="new" title="UTC+12:00 (not yet started)">+12</a>, <a href="/w/index.php?title=UTC%2B13:00&amp;action=edit&amp;redlink=1" class="new" title="UTC+13:00 (not yet started)">+13</a>, <a href="/w/index.php?title=UTC%2B14:00&amp;action=edit&amp;redlink=1" class="new" title="UTC+14:00 (not yet started)">+14</a></span> (GMT+12 to +14)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>left</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=%2B686&amp;action=edit&amp;redlink=1" class="new" title="+686 (not yet started)">+686</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:KI&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:KI (not yet started)">KI</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.ki" class="mw-redirect" title=".ki">.ki</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Kiribati</b> (pronounced "KiriBASS") is an island <a href="/wiki/Country" title="Country">country</a> located on the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a>. It has 33 <a href="/wiki/Atoll" title="Atoll">atolls</a>, groups of tiny <a href="/wiki/Island" title="Island">islands</a>. The country is near the <a href="/wiki/Equator" title="Equator">equator</a>. Its <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> is <a href="/wiki/South_Tarawa" title="South Tarawa">South Tarawa</a>, on the <a href="/wiki/Tarawa" title="Tarawa">Tarawa</a> atoll. </p>
+      <p>Kiribati used to be called the <b>Gilbert Islands</b>. In 1892, the Gilbert Islands became a <a href="/wiki/Great_Britain" title="Great Britain">British</a> <a href="/wiki/Protectorate" title="Protectorate">protectorate</a> with the Ellice Islands (nowadays known as <a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a>), together called <a href="/wiki/Gilbert_and_Ellice_Islands" title="Gilbert and Ellice Islands">Gilbert and Ellice Islands</a>. Kiribati became an <a href="/wiki/Independence" title="Independence">independent</a> <a href="/wiki/Republic" title="Republic">republic</a> in 1979. </p>
+      <p><a href="/wiki/Tourism" title="Tourism">Tourism</a> is an important <a href="/wiki/Industry" title="Industry">industry</a>. </p>
+      <p>Kiribati signed a "Treaty of Friendship and Territorial Sovereignty" (also called the "Treaty of Tarawa") with the <a href="/wiki/United_States" title="United States">United States</a> in 1979. The USA gave up its claims to the islands of Canton, Enderbury, Hull, Birnie, Gardner, Phoenix, Sydney, McKean, Christmas, Caroline, Starbuck, Malden, Flint, and Vostok in that treaty. <a rel="nofollow" class="external autonumber" href="http://www.trussel.com/kir/treaty.htm">[1]</a> </p>
+      <p>The official <a href="/wiki/Language" title="***REMOVED***">languages</a> of Kiribati are <a href="/wiki/English_language" title="English language">English</a> and <a href="/wiki/Gilbertese_language" title="Gilbertese language">Gilbertese</a>. </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kiribati&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kiribati&amp;action=edit&amp;section=1" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.kiribatitourism.gov.ki/index.php/aboutkiribati/aboutkiribatioverview">"Kiribati government website"</a>. Government of Kiribati<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kiribati+government+website&amp;rft.pub=Government+of+Kiribati&amp;rft_id=http%3A%2F%2Fwww.kiribatitourism.gov.ki%2Findex.php%2Faboutkiribati%2Faboutkiribatioverview&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKiribati" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.pina.com.fj/?p=pacnews&amp;m=read&amp;o=6654746256e0cf2b3e0a0073361e53">"Taneti Mamau declared new Kiribati President"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Taneti+Mamau+declared+new+Kiribati+President&amp;rft_id=http%3A%2F%2Fwww.pina.com.fj%2F%3Fp%3Dpacnews%26m%3Dread%26o%3D6654746256e0cf2b3e0a0073361e53&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKiribati" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-imf2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_3-0">3.0</a></sup> <sup><a href="#cite_ref-imf2_3-1">3.1</a></sup> <sup><a href="#cite_ref-imf2_3-2">3.2</a></sup> <sup><a href="#cite_ref-imf2_3-3">3.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=76&amp;pr.y=13&amp;sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=826&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Kiribati"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">19 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kiribati&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D76%26pr.y%3D13%26sy%3D2009%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D826%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKiribati" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kiribati&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kiribati&amp;action=edit&amp;section=2" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Kiribati" class="extiw" title="commons:Category:Kiribati">Kiribati</a> at Wikimedia Commons </p> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_Oceania" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div id="Countries_and_territories_of_Oceania" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Country" title="Country">Countries</a> and <a href="/wiki/Territory" title="Territory">territories</a> of <a href="/wiki/Oceania" title="Oceania">Oceania</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Australia" title="Australia">Australia</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Australia" title="Australia">Australia</a> · <a href="/wiki/Coral_Sea_Islands" title="Coral Sea Islands">Coral Sea Islands</a> · <a href="/wiki/Norfolk_Island" title="Norfolk Island">Norfolk Island</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Melanesia" title="Melanesia">Melanesia</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/East_Timor" title="East Timor">East Timor</a> · <a href="/wiki/Fiji" title="Fiji">Fiji</a> · <a href="/wiki/Maluku_Islands" title="Maluku Islands">Maluku Islands</a> &amp; <a href="/wiki/Western_New_Guinea" title="Western New Guinea">Western New Guinea</a> (part of <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>) · <a href="/wiki/New_Caledonia" title="New Caledonia">New Caledonia</a> · <a href="/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a> · <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a> · <a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Micronesia" title="Micronesia">Micronesia</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Guam" title="Guam">Guam</a> · <a class="mw-selflink selflink">Kiribati</a> · <a href="/wiki/Marshall_Islands" title="Marshall Islands">Marshall Islands</a> · <a href="/wiki/Northern_Mariana_Islands" title="Northern Mariana Islands">Northern Mariana Islands</a> · <a href="/wiki/Federated_States_of_Micronesia" title="Federated States of Micronesia">Federated States of Micronesia</a> · <a href="/wiki/Nauru" title="Nauru">Nauru</a> · <a href="/wiki/Palau" title="Palau">Palau</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Polynesia" title="Polynesia">Polynesia</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/American_Samoa" title="American Samoa">American Samoa</a> · <a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a> · <a href="/wiki/French_Polynesia" title="French Polynesia">French Polynesia</a> · <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a> · <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> · <a href="/wiki/Niue" title="Niue">Niue</a> · <a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">Pitcairn Islands</a> · <a href="/wiki/Samoa" title="Samoa">Samoa</a> · <a href="/wiki/Tokelau" title="Tokelau">Tokelau</a> · <a href="/wiki/Tonga" title="Tonga">Tonga</a> · <a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a> · <a href="/wiki/Wallis_and_Futuna" title="Wallis and Futuna">Wallis and Futuna</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Members_of_the_Commonwealth_of_Nations" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Members_of_the_Commonwealth_of_Nations" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=Member_states_of_the_Commonwealth_of_Nations&amp;action=edit&amp;redlink=1" class="new" title="Member states of the Commonwealth of Nations (not yet started)">Members of the</a> <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" class="mw-redirect" title="List of sovereign states">Sovereign states</a> <br> (Members)</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Australia" title="Australia">Australia</a></li> 
+             <li><a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a></li> 
+             <li><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Barbados" title="Barbados">Barbados</a></li> 
+             <li><a href="/wiki/Belize" title="Belize">Belize</a></li> 
+             <li><a href="/wiki/Botswana" title="Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Brunei" title="Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Canada" title="Canada">Canada</a></li> 
+             <li><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Dominica" title="Dominica">Dominica</a></li> 
+             <li><a href="/wiki/Eswatini" title="Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Fiji" title="Fiji">Fiji</a></li> 
+             <li><a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Ghana" title="Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Grenada" title="Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Guyana" title="Guyana">Guyana</a></li> 
+             <li><a href="/wiki/India" title="India">India</a></li> 
+             <li><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Kenya" title="Kenya">Kenya</a></li> 
+             <li><a class="mw-selflink selflink">Kiribati</a></li> 
+             <li><a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Malta" title="Malta">Malta</a></li> 
+             <li><a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Nauru" title="Nauru">Nauru</a></li> 
+             <li><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></li> 
+             <li><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">St. Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Saint_Lucia" title="Saint Lucia">St. Lucia</a></li> 
+             <li><a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">St. Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Samoa" title="Samoa">Samoa</a></li> 
+             <li><a href="/wiki/Seychelles" title="Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Singapore" title="Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a></li> 
+             <li><a href="/wiki/South_Africa" title="South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Tonga" title="Tonga">Tonga</a></li> 
+             <li><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a></li> 
+             <li><a href="/wiki/Uganda" title="Uganda">Uganda</a></li> 
+             <li><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a></li> 
+             <li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a><br> of Members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Australia</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Ashmore_and_Cartier_Islands" title="Ashmore and Cartier Islands">Ashmore and Cartier Islands</a></li> 
+                 <li><a href="/wiki/Australian_Antarctic_Territory" title="Australian Antarctic Territory">Australian Antarctic Territory</a></li> 
+                 <li><a href="/wiki/Christmas_Island" title="Christmas Island">Christmas Island</a></li> 
+                 <li><a href="/wiki/Cocos_(Keeling)_Islands" title="Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+                 <li><a href="/wiki/Coral_Sea_Islands" title="Coral Sea Islands">Coral Sea Islands</a></li> 
+                 <li><a href="/wiki/Heard_Island_and_McDonald_Islands" title="Heard Island and McDonald Islands">Heard Island and McDonald Islands</a></li> 
+                 <li><a href="/wiki/Norfolk_Island" title="Norfolk Island">Norfolk Island</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">New Zealand</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a></li> 
+                 <li><a href="/wiki/Niue" title="Niue">Niue</a></li> 
+                 <li><a href="/wiki/Ross_Dependency" title="Ross Dependency">Ross Dependency</a></li> 
+                 <li><a href="/wiki/Tokelau" title="Tokelau">Tokelau</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">United Kingdom</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a></li> 
+                 <li><a href="/wiki/Anguilla" title="Anguilla">Anguilla</a></li> 
+                 <li><a href="/wiki/Bermuda" title="Bermuda">Bermuda</a></li> 
+                 <li><a href="/wiki/British_Antarctic_Territory" title="British Antarctic Territory">British Antarctic Territory</a></li> 
+                 <li><a href="/wiki/British_Indian_Ocean_Territory" title="British Indian Ocean Territory">British Indian Ocean Territory</a></li> 
+                 <li><a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a></li> 
+                 <li><a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a></li> 
+                 <li><a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a></li> 
+                 <li><a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a></li> 
+                 <li><a href="/wiki/Guernsey" title="Guernsey">Guernsey</a></li> 
+                 <li><a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a></li> 
+                 <li><a href="/wiki/Jersey" title="Jersey">Jersey</a></li> 
+                 <li><a href="/wiki/Montserrat" title="Montserrat">Montserrat</a></li> 
+                 <li><a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">Pitcairn Islands</a></li> 
+                 <li><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">St. Helena, Ascension and Tristan da Cunha</a></li> 
+                 <li><a href="/wiki/South_Georgia_and_the_South_Sandwich_Islands" title="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</a></li> 
+                 <li><a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            Source: <a rel="nofollow" class="external text" href="http://www.thecommonwealth.org/Internal/142227/members/">Commonwealth Secretariat - Member States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q710&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q710&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q710" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" class="mw-redirect" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX457054">XX457054</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11951476g">cb11951476g</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11951476g">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4073459-6">4073459-6</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000404587152">0000 0004 0458 7152</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n81035232">n81035232</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/2b425457-0a4f-3282-9d2f-0a0e0f7db2e5">2b425457-0a4f-3282-9d2f-0a0e0f7db2e5</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10035699">10035699</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00575995">00575995</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge129570&amp;CON_LNG=ENG">ge129570</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35312259">35312259</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=000984303&amp;local_base=nlx10">000984303</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/034158502">034158502</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/147680945">147680945</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n81035232">lccn-n81035232</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1299
+Cached time: 20201216000346
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.852 seconds
+Real time usage: 1.000 second
+Preprocessor visited node count: 3503/1000000
+Post‐expand include size: 71749/2097152 bytes
+Template argument size: 5651/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 20/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10841/5000000 bytes
+Lua time usage: 0.492/10.000 seconds
+Lua memory usage: 7811258/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  899.149      1 -total
+ 47.19%  424.270      1 Template:Infobox_country
+ 45.70%  410.918      3 Template:Infobox
+ 22.34%  200.873      1 Template:Authority_control
+ 14.20%  127.707      1 Template:Reflist
+ 13.37%  120.176      3 Template:ISO_3166_code
+ 12.81%  115.146      3 Template:Cite_web
+ 12.21%  109.829      1 Template:Commonscat-inline
+ 11.46%  103.062      1 Template:Sister-inline
+  5.55%   49.868      2 Template:Convinfobox
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:11465-0!canonical and timestamp 20201216000346 and revision id 6961889. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Kiribati&amp;oldid=6961889">https://simple.wikipedia.org/w/index.php?title=Kiribati&amp;oldid=6961889</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Kiribati" title="Category:Kiribati">Kiribati</a></li>
+       <li><a href="/wiki/Category:Least_developed_countries" title="Category:Least developed countries">Least developed countries</a></li>
+       <li><a href="/wiki/Category:1979_establishments" title="Category:1979 establishments">1979 establishments</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Kiribati" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kiribati" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Kiribati" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Kiribati&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (not yet started) [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Kiribati">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Kiribati&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Kiribati&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Kiribati&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kiribati" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kiribati" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Kiribati&amp;oldid=6961889" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Kiribati&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kiribati&amp;id=6961889&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q710" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kiribati">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Kiribati&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Kiribati&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Kiribati" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Kiribati" title="Kiribati – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Kiribati" title="Kiribati – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Kiribati" title="Kiribati – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%AA%E1%88%AA%E1%89%A3%E1%88%B5" title="ኪሪባስ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Kiribati" title="Kiribati – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Kiribas" title="Kiribas – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%8A%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA%D9%8A" title="كيريباتي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Kiribati" title="Kiribati – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Kiribati" title="Kiribati – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Kiribati" title="Kiribati – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Kiriv%C3%A1ti" title="Kiriváti – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Kiribati" title="Kiribati – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%DA%A9%DB%8C%D8%B1%DB%8C%D8%A8%D8%A7%D8%AA%DB%8C" title="کیریباتی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Kiribati" title="Kiribati – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B8" title="কিরিবাস – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Kiribati" title="Kiribati – Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Kiribati" title="Kiribati – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D1%96%D1%80%D1%8B%D0%B1%D0%B0%D1%86%D1%96" title="Кірыбаці – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9A%D1%96%D1%80%D1%8B%D0%B1%D0%B0%D1%86%D1%96" title="Кірыбаці – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%BF%E0%A4%AC%E0%A4%BE%E0%A4%A4%E0%A5%80" title="किरिबाती – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Kiribati" title="Kiribati – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%80%E0%BD%B2%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BC%8B%E0%BD%96%E0%BC%8B%E0%BD%8F%E0%BD%B2%E0%BC%8D" title="ཀི་རི་བ་ཏི། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Kiribati" title="Kiribati – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Kiribati" title="Kiribati – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Kiribati" title="Kiribati – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Kiribati" title="Kiribati – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kiribati" title="Kiribati – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Kiribati" title="Kiribati – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Kiribati" title="Kiribati – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Ciribati" title="Ciribati – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kiribati" title="Kiribati – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D9%83%D9%8A%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA%D9%8A" title="كيريباتي – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Kiribati" title="Kiribati – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kiribati" title="Kiribati – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%86%DE%A8%DE%83%DE%A8%DE%84%DE%A6%DE%8C%DE%A9" title="ކިރިބަތީ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Kiribati" title="Kiribati – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%9F%E0%A5%80" title="किरिवाटी – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kiribati" title="Kiribati – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%B9%CF%81%CE%B9%CE%BC%CF%80%CE%AC%CF%84%CE%B9" title="Κιριμπάτι – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Kiribati" title="Kiribati – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Kiribati" title="Kiribati – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kiribato" title="Kiribato – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Quiribati" title="Quiribati – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Kiribati" title="Kiribati – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%DB%8C%D8%B1%DB%8C%D8%A8%D8%A7%D8%AA%DB%8C" title="کیریباتی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Kiribati" title="Kiribati – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Kiribati" title="Kiribati – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Kiribati" title="Kiribati – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Kiribaty" title="Kiribaty – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Cireabait%C3%AD" title="Cireabaití – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Chiribati" title="Yn Chiribati – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Kiribati" title="Kiribati – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Kiribati" title="Kiribati – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Kiribati" title="Kiribati – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%BF%E0%A4%AC%E0%A4%BE%E0%A4%9F%E0%A5%80" title="किरिबाटी – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Kiribati" title="Kiribati – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Кирибадин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%82%A4%EB%A6%AC%EB%B0%94%EC%8B%9C" title="키리바시 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Kiribati" title="Kiribati – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%AB%D6%80%D5%AB%D5%A2%D5%A1%D5%BF%D5%AB" title="Կիրիբատի – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%BF%E0%A4%AC%E0%A4%BE%E0%A4%A4%E0%A5%80" title="किरिबाती – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Kiribati" title="Kiribati – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Kiribati" title="Kiribati – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Kiribati" title="Kiribati – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Kiribati" title="Kiribati – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF" title="কিরিবাতি – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Kiribati" title="Kiribati – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Kiribati" title="Kiribati – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Kiribati" title="Kiribati – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/K%C3%ADribat%C3%AD" title="Kíribatí – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Kiribati" title="Kiribati – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A8%D7%99%D7%91%D7%98%D7%99" title="קיריבטי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Kiribati" title="Kiribati – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B2%BF%E0%B2%B0%E0%B2%BF%E0%B2%AC%E0%B2%BE%E0%B2%9F%E0%B2%BF" title="ಕಿರಿಬಾಟಿ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Kiribati" title="Kiribati – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%98%E1%83%A0%E1%83%98%E1%83%91%E1%83%90%E1%83%A2%E1%83%98" title="კირიბატი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Kiribati" title="Kiribati – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Kiribati" title="Kiribati – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Kiribati" title="Kiribati – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Kiribatia" title="Kiribatia – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Kirib%C3%A8s" title="Kiribès – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Kiribati" title="Kiribati – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Kir%C3%AEbat%C3%AE" title="Kirîbatî – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Kiribati" title="Kiribati – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Kiribati" title="Kiribati – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Kiribati" title="Kiribati – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Kiribatis" title="Kiribatis – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Kiribati" title="Kiribati – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Kiribati" title="Kiribati – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Ciribas" title="Ciribas – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Kiribati" title="Kiribati – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Kiribati" title="Kiribati – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Kiribati" title="Kiribati – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Kiribasy" title="Kiribasy – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%BF%E0%B4%B0%E0%B5%80%E0%B4%AC%E0%B4%BE%E0%B4%B8%E0%B5%8D" title="കിരീബാസ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Kiribati" title="Kiribati – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%BF%E0%A4%AC%E0%A4%BE%E0%A4%9F%E0%A5%80" title="किरिबाटी – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%99%E1%83%98%E1%83%A0%E1%83%98%E1%83%91%E1%83%90%E1%83%A2%E1%83%98" title="კირიბატი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%83%D9%8A%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA%D9%89" title="كيريباتى – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kiribati" title="Kiribati – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Kiribati" title="Kiribati – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%80%E1%80%AE%E1%80%9B%E1%80%AE%E1%80%98%E1%80%90%E1%80%BA%E1%80%85%E1%80%BA%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ကီရီဘတ်စ်နိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Kiribat" title="Kiribat – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Kiribati" title="Kiribati – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%BF%E0%A4%AC%E0%A4%BE%E0%A4%A4%E0%A5%80" title="किरिबाती – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%90%E3%82%B9" title="キリバス – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Kiribaati" title="Kiribaati – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Kiribaati" title="Kiribaati – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kiribati" title="Kiribati – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Kiribati" title="Kiribati – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Kiribati" title="Kiribati – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Kiribati" title="Kiribati – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%95%E0%AC%BF%E0%AC%B0%E0%AC%BF%E0%AC%AC%E0%AC%BE%E0%AC%A4%E0%AC%BF" title="କିରିବାତି – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Kiribati" title="Kiribati – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A8%BF%E0%A8%B0%E0%A9%80%E0%A8%AC%E0%A8%BE%E0%A8%B8" title="ਕਿਰੀਬਾਸ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%BF%E0%A4%AC%E0%A4%BE%E0%A4%9F%E0%A5%80" title="किरिबाटी – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DA%A9%DB%8C%D8%B1%DB%8C%D8%A8%D8%A7%D8%AA%DB%8C" title="کیریباتی – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Kiribati" title="Kiribati – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Kiribati" title="Kiribati – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Kiribati" title="Kiribati – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Kiribas" title="Kiribas – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Kiribati" title="Kiribati – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kiribati" title="Kiribati – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Kiribati" title="Kiribati – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Kiribati" title="Kiribati – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Kiribati" title="Kiribati – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ty"><a href="https://ty.wikipedia.org/wiki/Tiribati" title="Tiribati – Tahitian" lang="ty" hreflang="ty" class="interlanguage-link-target">Reo tahiti</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Kiribati" title="Kiribati – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Kiribati" title="Kiribati – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Kiripati" title="Kiripati – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%BF%E0%A4%AC%E0%A4%BE%E0%A4%9F%E0%A5%80" title="किरिबाटी – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Kiribati" title="Kiribati – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Kiribati" title="Kiribati – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Kiribati" title="Kiribati – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://scn.wikipedia.org/wiki/Kiribati" title="Kiribati – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%9A%E0%B7%92%E0%B6%BB%E0%B7%92%E0%B6%B6%E0%B6%A7%E0%B7%92" title="කිරිබටි – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%DA%AA%D8%B1%D9%8A%D8%A8%D8%AA%D9%8A" title="ڪريبتي – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kiribati" title="Kiribati – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kiribati" title="Kiribati – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Kiribati" title="Kiribati – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Kiribati" title="Kiribati – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%A9%DB%8C%D8%B1%DB%8C%D8%A8%D8%A7%D8%B3" title="کیریباس – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Kiribati" title="Kiribati – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Kiribati" title="Kiribati – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Kiribati" title="Kiribati – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kiribati" title="Kiribati – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Kiribati" title="Kiribati – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF" title="கிரிபட்டி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%81%B5%E1%80%AD%E1%80%9B%E1%80%AD%E1%80%95%E1%80%90%E1%80%AE%E1%82%87" title="မိူင်းၵိရိပတီႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B0%BF%E0%B0%B0%E0%B0%BF%E0%B0%AC%E0%B0%9F%E0%B0%BF" title="కిరిబటి – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%84%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B8%B2%E0%B8%AA" title="ประเทศคิริบาส – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%BE%D1%82%D3%A3" title="Кириботӣ – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kiribati" title="Kiribati – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D0%B8" title="Кирибати – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D1%80%D0%B8%D0%B1%D0%B0%D1%82%D1%96" title="Кірибаті – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%A9%DB%8C%D8%B1%DB%8C%D8%A8%D8%A7%D8%AA%DB%8C" title="کیریباتی – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D9%83%D9%89%D8%B1%D9%89%D8%A8%D8%A7%D8%AA%D9%89" title="كىرىباتى – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Kiribati" title="Kiribati – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Kiribati" title="Kiribati – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Kiribati" title="Kiribati – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Kiribatu%C3%A4ns" title="Kiribatuäns – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Kiribati" title="Kiribati – Võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%90%89%E9%87%8C%E5%B7%B4%E6%96%AF" title="吉里巴斯 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Kiribati" title="Kiribati – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Kiribati" title="Kiribati – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%9F%BA%E9%87%8C%E5%B7%B4%E6%96%AF" title="基里巴斯 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/K%C3%ACr%C3%ACb%C3%A1t%C3%AC" title="Kìrìbátì – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%9F%BA%E9%87%8C%E5%B7%B4%E6%96%AF" title="基里巴斯 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Kiribati" title="Kiribati – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Kiribati" title="Kiribati – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/K%C4%97r%C4%97batis" title="Kėrėbatis – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9F%BA%E9%87%8C%E5%B7%B4%E6%96%AF" title="基里巴斯 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q710#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 28 May 2020, at 13:03.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Kiribati&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.852","walltime":"1.000","ppvisitednodes":{"value":3503,"limit":1000000},"postexpandincludesize":{"value":71749,"limit":2097152},"templateargumentsize":{"value":5651,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":20,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10841,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  899.149      1 -total"," 47.19%  424.270      1 Template:Infobox_country"," 45.70%  410.918      3 Template:Infobox"," 22.34%  200.873      1 Template:Authority_control"," 14.20%  127.707      1 Template:Reflist"," 13.37%  120.176      3 Template:ISO_3166_code"," 12.81%  115.146      3 Template:Cite_web"," 12.21%  109.829      1 Template:Commonscat-inline"," 11.46%  103.062      1 Template:Sister-inline","  5.55%   49.868      2 Template:Convinfobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.492","limit":"10.000"},"limitreport-memusage":{"value":7811258,"limit":52428800}},"cachereport":{"origin":"mw1299","timestamp":"20201216000346","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kiribati","url":"https:\/\/simple.wikipedia.org\/wiki\/Kiribati","sameAs":"http:\/\/www.wikidata.org\/entity\/Q710","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q710","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-26T09:34:49Z","dateModified":"2020-05-28T13:03:53Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d3\/Flag_of_Kiribati.svg","headline":"island sovereign state in the central Pacific Ocean"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":223,"wgHostname":"mw1413"});});</script> 
+ </body>
+</html>

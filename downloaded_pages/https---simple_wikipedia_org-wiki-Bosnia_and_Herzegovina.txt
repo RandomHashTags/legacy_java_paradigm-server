@@ -1,0 +1,1110 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Bosnia and Herzegovina - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAIH4AAsdwcSkAAAAE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bosnia_and_Herzegovina","wgTitle":"Bosnia and Herzegovina","wgCurRevisionId":7207830,"wgRevisionId":7207830,"wgArticleId":20289,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: markup","CS1 maint: unrecognized language","Pages using infobox country with unknown parameters","Bosnia and Herzegovina"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bosnia_and_Herzegovina","wgRelevantArticleId":20289,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q225"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready",
+"jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1200px-Flag_of_Bosnia_and_Herzegovina.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Bosnia_and_Herzegovina"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Bosnia_and_Herzegovina"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bosnia_and_Herzegovina rootpage-Bosnia_and_Herzegovina skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Bosnia and Herzegovina</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Bosnia and Herzegovina
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           Bosna i Hercegovina
+           <br>Босна и Херцеговина
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Bosnia_and_Herzegovina.svg" class="image" title="Flag of Bosnia and Herzegovina"><img alt="Flag of Bosnia and Herzegovina" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/125px-Flag_of_Bosnia_and_Herzegovina.svg.png" decoding="async" width="125" height="63" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/188px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/250px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x" data-file-width="800" data-file-height="400"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Bosnia_and_Herzegovina" title="Flag of Bosnia and Herzegovina">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Bosnia_and_Herzegovina.svg" class="image" title="Coat of arms of Bosnia and Herzegovina"><img alt="Coat of arms of Bosnia and Herzegovina" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg/85px-Coat_of_arms_of_Bosnia_and_Herzegovina.svg.png" decoding="async" width="85" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg/128px-Coat_of_arms_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg/170px-Coat_of_arms_of_Bosnia_and_Herzegovina.svg.png 2x" data-file-width="569" data-file-height="650"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><span class="nowrap"><br><i><a href="/w/index.php?title=Dr%C5%BEavna_himna_Bosne_i_Hercegovine&amp;action=edit&amp;redlink=1" class="new" title="Državna himna Bosne i Hercegovine (not yet started)">Državna himna Bosne i Hercegovine</a></i></span>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Europe-Bosnia_and_Herzegovina.svg" class="image"><img alt="Europe-Bosnia and Herzegovina.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Europe-Bosnia_and_Herzegovina.svg/250px-Europe-Bosnia_and_Herzegovina.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Europe-Bosnia_and_Herzegovina.svg/375px-Europe-Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Europe-Bosnia_and_Herzegovina.svg/500px-Europe-Bosnia_and_Herzegovina.svg.png 2x" data-file-width="2045" data-file-height="1720"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Sarajevo" title="Sarajevo">Sarajevo</a><sup id="cite_ref-Constitution_1-0" class="reference"><a href="#cite_note-Constitution-1">[1]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/Serbian_language" title="Serbian language">Serbo-Croatian</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">Official national languages</span></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><a href="/wiki/Bosnian_language" title="Bosnian language">Bosnian</a></li>
+            <li><a href="/wiki/Croatian_language" title="Croatian language">Croatian</a></li>
+            <li><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2014)
+          </div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>54% <a href="/wiki/Bosniaks" title="Bosniaks">Bosniaks</a></li>
+            <li>32.5% <a href="/w/index.php?title=Serbs_of_Bosnia_and_Herzegovina&amp;action=edit&amp;redlink=1" class="new" title="Serbs of Bosnia and Herzegovina (not yet started)">Serbs</a></li>
+            <li>11.5% <a href="/wiki/Croats_of_Bosnia_and_Herzegovina" title="Croats of Bosnia and Herzegovina">Croats</a></li>
+            <li>2% other</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><a href="/w/index.php?title=Bosnians&amp;action=edit&amp;redlink=1" class="new" title="Bosnians (not yet started)">Bosnian</a></li>
+            <li><a href="/w/index.php?title=Herzegovinians&amp;action=edit&amp;redlink=1" class="new" title="Herzegovinians (not yet started)">Herzegovinian</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><span class="nowrap"><a href="/wiki/Federal_republic" title="Federal republic">Federal</a> <a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a><br><a href="/wiki/Republic" title="Republic">republic</a></span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<span class="nowrap"><a href="/w/index.php?title=High_Representative_for_Bosnia_and_Herzegovina&amp;action=edit&amp;redlink=1" class="new" title="High Representative for Bosnia and Herzegovina (not yet started)">High Representative</a></span> 
+          </div></th>
+         <td><span class="nowrap"><a href="/w/index.php?title=Valentin_Inzko&amp;action=edit&amp;redlink=1" class="new" title="Valentin Inzko (not yet started)">Valentin Inzko</a></span><sup>a</sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Chairmen_of_the_Presidency_of_Bosnia_and_Herzegovina" class="mw-redirect" title="Chairmen of the Presidency of Bosnia and Herzegovina">Chairman of the Presidency</a> 
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Bakir_Izetbegovi%C4%87" title="Bakir Izetbegović">Bakir Izetbegović</a><sup>b</sup></span><sup>b</sup><sup id="cite_ref-Pres_3-0" class="reference"><a href="#cite_note-Pres-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Presidency_of_Bosnia_and_Herzegovina" title="Presidency of Bosnia and Herzegovina">Members of the Presidency</a> 
+          </div></th>
+         <td><span class="nowrap"><a href="/w/index.php?title=Dragan_%C4%8Covi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Dragan Čović (not yet started)">Dragan Čović</a><sup>c</sup><br><a href="/w/index.php?title=Mladen_Ivani%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Mladen Ivanić (not yet started)">Mladen Ivanić</a><sup>d</sup></span></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Chairman_of_the_Council_of_Ministers_of_Bosnia_and_Herzegovina" class="mw-redirect" title="Chairman of the Council of Ministers of Bosnia and Herzegovina">Prime Minister</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Denis_Zvizdi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Denis Zvizdić (not yet started)">Denis Zvizdić</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/w/index.php?title=Parliamentary_Assembly_of_Bosnia_and_Herzegovina&amp;action=edit&amp;redlink=1" class="new" title="Parliamentary Assembly of Bosnia and Herzegovina (not yet started)">Parliamentary Assembly</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Upper_house" title="Upper house">Upper house</a>
+          </div></th>
+         <td><a href="/w/index.php?title=House_of_Peoples_(Bosnia_and_Herzegovina)&amp;action=edit&amp;redlink=1" class="new" title="House of Peoples (Bosnia and Herzegovina) (not yet started)">House of Peoples</a></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Lower_house" title="Lower house">Lower house</a>
+          </div></th>
+         <td><a href="/w/index.php?title=House_of_Representatives_(Bosnia_and_Herzegovina)&amp;action=edit&amp;redlink=1" class="new" title="House of Representatives (Bosnia and Herzegovina) (not yet started)">House of Representatives</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;First mentioned 
+          </div></th>
+         <td>753</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Banate_of_Bosnia&amp;action=edit&amp;redlink=1" class="new" title="Banate of Bosnia (not yet started)">Banate of Bosnia</a> 
+          </div></th>
+         <td>1154</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Kingdom_of_Bosnia&amp;action=edit&amp;redlink=1" class="new" title="Kingdom of Bosnia (not yet started)">Kingdom of Bosnia</a> 
+          </div></th>
+         <td>1377</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Ottoman_conquest_of_Bosnia_and_Herzegovina&amp;action=edit&amp;redlink=1" class="new" title="Ottoman conquest of Bosnia and Herzegovina (not yet started)">Conquered by Ottoman Empire</a> 
+          </div></th>
+         <td>1463</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Bosnian_uprising&amp;action=edit&amp;redlink=1" class="new" title="Bosnian uprising (not yet started)">Bosnian uprising</a> 
+          </div></th>
+         <td>1831</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Austro-Hungarian_occupation_of_Bosnia_and_Herzegovina&amp;action=edit&amp;redlink=1" class="new" title="Austro-Hungarian occupation of Bosnia and Herzegovina (not yet started)">Jurisdiction transferred to <span class="nowrap">Austria–Hungary</span></a> 
+          </div></th>
+         <td>1878</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Annexation_of_Bosnia&amp;action=edit&amp;redlink=1" class="new" title="Annexation of Bosnia (not yet started)">Annexation of Bosnia</a> by <span class="nowrap">Austria-Hungary</span> 
+          </div></th>
+         <td>1908</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=ZAVNOBiH&amp;action=edit&amp;redlink=1" class="new" title="ZAVNOBiH (not yet started)">National Day</a> 
+          </div></th>
+         <td>25 November 1943</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Independence from <a href="/wiki/Socialist_Federal_Republic_of_Yugoslavia" title="Socialist Federal Republic of Yugoslavia">SFR Yugoslavia</a> 
+          </div></th>
+         <td>1 March 1992</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Observed 
+          </div></th>
+         <td>6 April 1992</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>51,197&nbsp;km<sup>2</sup> (19,767&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">127th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>0.8%</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2014&nbsp;census
+          </div></th>
+         <td>3,871,643<sup id="cite_ref-bhas.ba_4-0" class="reference"><a href="#cite_note-bhas.ba-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2014&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$33.251&nbsp;billion<sup id="cite_ref-imf2_5-0" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$11,749<sup id="cite_ref-imf2_5-1" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2014&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$21.122&nbsp;billion<sup id="cite_ref-imf2_5-2" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$8,809<sup id="cite_ref-imf2_5-3" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2013)</span></th>
+         <td>36.2<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2013)</span></th>
+         <td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" decoding="async" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.731<sup id="cite_ref-HDI_7-0" class="reference"><a href="#cite_note-HDI-7">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">68th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Bosnia_and_Herzegovina_convertible_mark&amp;action=edit&amp;redlink=1" class="new" title="Bosnia and Herzegovina convertible mark (not yet started)">Convertible mark</a> (<a href="/wiki/ISO_4217" title="ISO 4217">BAM</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Date format</th>
+         <td>dd.mm.yyyy (<a href="/wiki/Common_Era" title="Common Era">CE</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td>387</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:BA&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:BA (not yet started)">BA</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.ba" class="mw-redirect" title=".ba">.ba</a></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
+            <li value="1">State has no legal act regarding the official language<sup id="cite_ref-Constitution_1-1" class="reference"><a href="#cite_note-Constitution-1">[1]</a></sup><sup id="cite_ref-skupstina_8-0" class="reference"><a href="#cite_note-skupstina-8">[8]</a></sup> though some state agencies name Bosnian, Croatian and Serbian as official.<sup id="cite_ref-Statistics_9-0" class="reference"><a href="#cite_note-Statistics-9">[9]</a></sup></li>
+            <li value="2">Not a government member; the High Representative is an international civilian overseer of the <a href="/w/index.php?title=Dayton_Agreement&amp;action=edit&amp;redlink=1" class="new" title="Dayton Agreement (not yet started)">Dayton peace agreement</a> with authority to dismiss elected and non-elected officials and enact legislation.</li>
+            <li value="3"><a href="/wiki/Chairmen_of_the_Presidency_of_Bosnia_and_Herzegovina" class="mw-redirect" title="Chairmen of the Presidency of Bosnia and Herzegovina">Chair</a> of current presidency (<a href="/wiki/Serbs" title="Serbs">Serb</a>).</li>
+            <li value="4">Current presidency member (<a href="/wiki/Croats" title="Croats">Croat</a>).</li>
+            <li value="5">Current presidency member (<a href="/wiki/Bosniak" class="mw-redirect" title="Bosniak">Bosniak</a>).</li> 
+           </ol>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Bosnia~Herzegovina</b> or <b>Bosnia-Herzegovina</b> (locally: <i>Bosna i Hercegovina/Босна и Херцеговина</i>, most commonly abbreviated as <i>BiH/БиХ</i>) is a country in <a href="/wiki/Southeastern_Europe" class="mw-redirect" title="Southeastern Europe">Southeastern Europe</a>, with an area of 51,197 <a href="/wiki/Square_kilometre" title="Square kilometre">km<sup>2</sup></a> and 4,600,000 people. Countries around Bosnia and Herzegovina are <a href="/wiki/Croatia" title="Croatia">Croatia</a>, <a href="/wiki/Serbia" title="Serbia">Serbia</a> and <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>. The capital is <a href="/wiki/Sarajevo" title="Sarajevo">Sarajevo</a>, and other important cities are <a href="/wiki/Banja_Luka" title="Banja Luka">Banja Luka</a>, <a href="/wiki/Mostar" title="Mostar">Mostar</a>, Zenica and <a href="/wiki/Tuzla" title="Tuzla">Tuzla</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Divisions"><span class="tocnumber">2</span> <span class="toctext">Divisions</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#Cities"><span class="tocnumber">2.1</span> <span class="toctext">Cities</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Sports"><span class="tocnumber">3</span> <span class="toctext">Sports</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Cuisine"><span class="tocnumber">4</span> <span class="toctext">Cuisine</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Related_pages"><span class="tocnumber">5</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Other_websites"><span class="tocnumber">7</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The first state in Bosnia and Herzegovina was in the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>. During the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a>, it was a very important province in the Balkans and the capital, Sarajevo, had 100,000 people. In 1878, it became a province of <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a> when the Empire took over Bosnia and Herzegovina in 1908. In 1914 the <a href="/wiki/Archduke_Franz_Ferdinand_of_Austria" title="Archduke Franz Ferdinand of Austria">Archduke Ferdinand</a> and his wife, Sophie, were assassinated in Sarajevo, leading to <a href="/wiki/World_War_I" title="World War I">World War I</a>. From 1918 until 1992, the country was a part of the former <a href="/wiki/Yugoslavia" title="Yugoslavia">Yugoslavia</a>. After a 3-year long war, Bosnia and Herzegovina proclaimed <a href="/wiki/Independence" title="Independence">independence</a> as a country consisting mostly of Serbs, Croats and Bosnian Muslims. </p> 
+      <h2><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Divisions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit&amp;section=2" title="Change section: Divisions">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The country is divided into two entities: <a href="/wiki/Federation_of_Bosnia_and_Herzegovina" title="Federation of Bosnia and Herzegovina">Federation of Bosnia and Herzegovina</a> and <a href="/wiki/Republika_Srpska" title="Republika Srpska">Republika Srpska</a>. These are then divided into 10 cantons. </p> 
+      <h3><span class="mw-headline" id="Cities">Cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Cities">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit&amp;section=3" title="Change section: Cities">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Tuzla_View_of_Tuzla.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tuzla_View_of_Tuzla.jpg/250px-Tuzla_View_of_Tuzla.jpg" decoding="async" width="250" height="115" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tuzla_View_of_Tuzla.jpg/375px-Tuzla_View_of_Tuzla.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tuzla_View_of_Tuzla.jpg/500px-Tuzla_View_of_Tuzla.jpg 2x" data-file-width="1426" data-file-height="654"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Tuzla_View_of_Tuzla.jpg" class="internal" title="Enlarge"></a>
+         </div><a href="/wiki/Tuzla" title="Tuzla">Tuzla</a>
+        </div>
+       </div>
+      </div> 
+      <p>This is a list of the ten largest towns in Bosnia and Herzegovina. Only <a href="/wiki/Sarajevo" title="Sarajevo">Sarajevo</a> and <a href="/wiki/Banja_Luka" title="Banja Luka">Banja Luka</a> have more than 200,000 people. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr bgcolor="#CCCCCC" align="center"> 
+         <th></th> 
+         <th>Name of municipality</th> 
+         <th>Population </th>
+        </tr> 
+        <tr> 
+         <td>1. </td> 
+         <td><a href="/wiki/Sarajevo" title="Sarajevo">Sarajevo</a> </td> 
+         <td>460.000 <sup id="cite_ref-fzs.ba_10-0" class="reference"><a href="#cite_note-fzs.ba-10">[10]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>2. </td> 
+         <td><a href="/wiki/Banja_Luka" title="Banja Luka">Banja Luka</a> </td> 
+         <td>250.000 </td>
+        </tr> 
+        <tr> 
+         <td>3. </td> 
+         <td><a href="/wiki/Tuzla" title="Tuzla">Tuzla</a> </td> 
+         <td>131.640 <sup id="cite_ref-fzs.ba_10-1" class="reference"><a href="#cite_note-fzs.ba-10">[10]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>4. </td> 
+         <td><a href="/wiki/Zenica" title="Zenica">Zenica</a> </td> 
+         <td>127.105<sup id="cite_ref-fzs.ba_10-2" class="reference"><a href="#cite_note-fzs.ba-10">[10]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>5. </td> 
+         <td><a href="/wiki/Bijeljina" title="Bijeljina">Bijeljina</a> </td> 
+         <td>115,692 </td>
+        </tr> 
+        <tr> 
+         <td>6. </td> 
+         <td><a href="/wiki/Mostar" title="Mostar">Mostar</a> </td> 
+         <td>111.186<sup id="cite_ref-fzs.ba_10-3" class="reference"><a href="#cite_note-fzs.ba-10">[10]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>7. </td> 
+         <td><a href="/w/index.php?title=Prijedor&amp;action=edit&amp;redlink=1" class="new" title="Prijedor (not yet started)">Prijedor</a> </td> 
+         <td>105.000 </td>
+        </tr> 
+        <tr> 
+         <td>8. </td> 
+         <td><a href="/w/index.php?title=Br%C4%8Dko_(city)&amp;action=edit&amp;redlink=1" class="new" title="Brčko (city) (not yet started)">Brčko</a> </td> 
+         <td>82.000 </td>
+        </tr> 
+        <tr> 
+         <td>9. </td> 
+         <td><a href="/w/index.php?title=Doboj&amp;action=edit&amp;redlink=1" class="new" title="Doboj (not yet started)">Doboj</a> </td> 
+         <td>80.000 </td>
+        </tr> 
+        <tr> 
+         <td>10. </td> 
+         <td><a href="/w/index.php?title=Biha%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Bihać (not yet started)">Bihać</a> </td> 
+         <td>61.287<sup id="cite_ref-fzs.ba_10-4" class="reference"><a href="#cite_note-fzs.ba-10">[10]</a></sup> </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Sports">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit&amp;section=4" title="Change section: Sports">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Bosnia and Herzegovina has produced many athletes. Many of them were famous in the Yugoslav national teams before Bosnia and Herzegovina's independence. </p>
+      <p>The most important international <a href="/wiki/Sport" title="Sport">sporting event</a> in the history of Bosnia and Herzegovina was the hosting of the <a href="/wiki/1984_Winter_Olympics" title="1984 Winter Olympics">14th Winter Olympics</a>, held in <a href="/wiki/Sarajevo" title="Sarajevo">Sarajevo</a>. </p>
+      <p>The <a href="/w/index.php?title=RK_Borac_Banja_Luka&amp;action=edit&amp;redlink=1" class="new" title="RK Borac Banja Luka (not yet started)">Borac</a> <a href="/wiki/Team_handball" class="mw-redirect" title="Team handball">handball</a> club has won seven <a href="/w/index.php?title=Yugoslav_Handball_Championship&amp;action=edit&amp;redlink=1" class="new" title="Yugoslav Handball Championship (not yet started)">Yugoslav Handball Championships</a>, as well as the European Championship Cup in 1976 and the International Handball Federation Cup in 1991. </p>
+      <p>The <a href="/w/index.php?title=KK_Bosna&amp;action=edit&amp;redlink=1" class="new" title="KK Bosna (not yet started)">Bosna</a> basketball club from Sarajevo were European Champions in 1979. The <a href="/w/index.php?title=Yugoslavia_national_basketball_team&amp;action=edit&amp;redlink=1" class="new" title="Yugoslavia national basketball team (not yet started)">Yugoslav national basketball team</a> medaled in every world championship from 1963 through 1990. The team included Bosnian players such as <a href="/w/index.php?title=Dra%C5%BEen_Dalipagi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Dražen Dalipagić (not yet started)">Dražen Dalipagić</a> and <a href="/w/index.php?title=Mirza_Deliba%C5%A1i%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Mirza Delibašić (not yet started)">Mirza Delibašić</a>. Bosnia and Herzegovina regularly qualifies for the <a href="/w/index.php?title=EuroBasket&amp;action=edit&amp;redlink=1" class="new" title="EuroBasket (not yet started)">European Championship in Basketball</a>. <a href="/w/index.php?title=Jedinstvo_Aida&amp;action=edit&amp;redlink=1" class="new" title="Jedinstvo Aida (not yet started)">Jedinstvo Aida</a> <a href="/wiki/Women%27s_basketball" title="Women's basketball">women's basketball</a> club, based in Tuzla, has won the 1989 European Championships in Florence. </p>
+      <p>Bosnia has many world-class basketball players, notably <a href="/w/index.php?title=Mirza_Teletovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Mirza Teletović (not yet started)">Mirza Teletović</a>, the first Bosnian in the <a href="/wiki/NBA" class="mw-redirect" title="NBA">NBA</a>. Among others are, <a href="/w/index.php?title=Elmedin_Kikanovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Elmedin Kikanović (not yet started)">Elmedin Kikanović</a>, <a href="/w/index.php?title=Nihad_%C4%90edovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Nihad Đedović (not yet started)">Nihad Đedović</a>, <a href="/w/index.php?title=Ognjen_Kuzmi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Ognjen Kuzmić (not yet started)">Ognjen Kuzmić</a>, <a href="/w/index.php?title=Jusuf_Nurki%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Jusuf Nurkić (not yet started)">Jusuf Nurkić</a>, <a href="/w/index.php?title=Ned%C5%BEad_Sinanovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Nedžad Sinanović (not yet started)">Nedžad Sinanović</a>, and <a href="/w/index.php?title=Nemanja_Mitrovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Nemanja Mitrović (not yet started)">Nemanja Mitrović</a>. </p>
+      <p>The Tuzla-Sinalco <a href="/wiki/Karate" title="Karate">karate</a> club from Tuzla has won the most Yugoslav championships, as well as four European Championships and one World Championship. </p>
+      <p>The Bosnian <a href="/wiki/Chess" title="Chess">chess</a> team has been <a href="/w/index.php?title=Yugoslav_Chess_Championship&amp;action=edit&amp;redlink=1" class="new" title="Yugoslav Chess Championship (not yet started)">Champion of Yugoslavia</a> seven times. In addition the club ŠK Bosna Sarajevo won four Chess Club Cup&nbsp;: 1994 in <a href="/wiki/Lyon" title="Lyon">Lyon</a>, 1999 in <a href="/w/index.php?title=Bugojno&amp;action=edit&amp;redlink=1" class="new" title="Bugojno (not yet started)">Bugojno</a>, 2000 in <a href="/wiki/Neum" title="Neum">Neum</a>, and 2001 in Kallithea Elassonos. Chess grandmaster <a href="/w/index.php?title=Borki_Predojevi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Borki Predojević (not yet started)">Borki Predojević</a> has also won European Championships: Under-12 years <a href="/wiki/Litochoro" title="Litochoro">Litochoro</a> (Greece) in 1999, and Under-14 years <a href="/w/index.php?title=Kallithea_Elassonos&amp;action=edit&amp;redlink=1" class="new" title="Kallithea Elassonos (not yet started)">Kallithea Elassonos</a> (Greece) in 2001, and in 2003 won World Championship Under-16 years <a href="/w/index.php?title=Halkidiki&amp;action=edit&amp;redlink=1" class="new" title="Halkidiki (not yet started)">Halkidiki</a> (Greece). </p>
+      <p>Middle-weight <a href="/wiki/Boxing" title="Boxing">boxer</a> <a href="/wiki/Marijan_Bene%C5%A1" title="Marijan Beneš">Marijan Beneš</a> has won several Championships of Bosnia and Herzegovina, Yugoslav Championships and the European Championship.<sup id="cite_ref-nezavisne_11-0" class="reference"><a href="#cite_note-nezavisne-11">[11]</a></sup> In 1978 he won the World Title against <a href="/w/index.php?title=Elisha_Obed&amp;action=edit&amp;redlink=1" class="new" title="Elisha Obed (not yet started)">Elisha Obed</a> from the Bahamas. Another middle-weight boxer, <a href="/w/index.php?title=Anton_Josipovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Anton Josipović (not yet started)">Anton Josipović</a> won the Olympic Gold in Los Angeles, 1984. He also won Yugoslav Championship in 1982, the Championship of the Balkans in 1983, and the Belgrade Trophy in 1985. </p>
+      <p><a href="/wiki/Association_football" title="Association football">Association football</a> is the most popular sport in Bosnia and Herzegovina. It dates from 1903, but its popularity grew significantly after <a href="/wiki/World_War_I" title="World War I">World War I</a>. At the local level, <a href="/wiki/FK_Sarajevo" title="FK Sarajevo">FK Sarajevo</a> (1967 and 1984), <a href="/wiki/FK_%C5%BDeljezni%C4%8Dar_Sarajevo" class="mw-redirect" title="FK Željezničar Sarajevo">Željezničar</a> (1972) have both won the Yugoslav Championship. The former <a href="/wiki/Yugoslavia_national_football_team" title="Yugoslavia national football team">Yugoslav national football team</a> has included a number of Bosnian players, such as <a href="/w/index.php?title=Josip_Katalinski&amp;action=edit&amp;redlink=1" class="new" title="Josip Katalinski (not yet started)">Josip Katalinski</a>, <a href="/w/index.php?title=Bla%C5%BE_Sli%C5%A1kovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Blaž Slišković (not yet started)">Blaž Slišković</a>, <a href="/w/index.php?title=Du%C5%A1an_Bajevi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Dušan Bajević (not yet started)">Dušan Bajević</a>, <a href="/w/index.php?title=Enver_Mari%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Enver Marić (not yet started)">Enver Marić</a>, <a href="/w/index.php?title=Mehmed_Ba%C5%BEdarevi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Mehmed Baždarević (not yet started)">Mehmed Baždarević</a>, <a href="/wiki/Ivica_Osim" title="Ivica Osim">Ivica Osim</a>, <a href="/w/index.php?title=Safet_Su%C5%A1i%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Safet Sušić (not yet started)">Safet Sušić</a>, <a href="/w/index.php?title=Vahidin_Musemi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Vahidin Musemić (not yet started)">Vahidin Musemić</a> and <a href="/w/index.php?title=Mirsad_Fazlagi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Mirsad Fazlagić (not yet started)">Mirsad Fazlagić</a>. </p>
+      <p>Today, the team of Bosnia and Herzegovina has modern footballers like <a href="/wiki/Edin_D%C5%BEeko" title="Edin Džeko">Edin Džeko</a>, <a href="/w/index.php?title=Zvjezdan_Misimovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Zvjezdan Misimović (not yet started)">Zvjezdan Misimović</a>, <a href="/w/index.php?title=Vedad_Ibi%C5%A1evi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Vedad Ibišević (not yet started)">Vedad Ibišević</a>, <a href="/w/index.php?title=Emir_Spahi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Emir Spahić (not yet started)">Emir Spahić</a>, <a href="/w/index.php?title=Asmir_Begovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Asmir Begović (not yet started)">Asmir Begović</a>, <a href="/w/index.php?title=Miralem_Pjani%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Miralem Pjanić (not yet started)">Miralem Pjanić</a>, <a href="/w/index.php?title=Sejad_Salihovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Sejad Salihović (not yet started)">Sejad Salihović</a>, <a href="/w/index.php?title=Senad_Luli%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Senad Lulić (not yet started)">Senad Lulić</a> and others. The independent <a href="/wiki/Bosnia_and_Herzegovina_national_football_team" title="Bosnia and Herzegovina national football team">Bosnia and Herzegovina national football team</a> has not qualified for a European or World Championship but has played twice in the play-off stages. </p>
+      <p>Bosnian national teams have struggled to draft the best national players. Many players born in Bosnia and Herzegovina choose to play for other countries because of their <a href="/wiki/Ethnic" class="mw-redirect" title="Ethnic">ethnic</a> identification. For example, <a href="/w/index.php?title=Nikica_Jelavi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Nikica Jelavić (not yet started)">Nikica Jelavić</a> and <a href="/w/index.php?title=Vedran_%C4%86orluka&amp;action=edit&amp;redlink=1" class="new" title="Vedran Ćorluka (not yet started)">Vedran Ćorluka</a> were both born in Bosnia and Herzegovina but play for Croatia. Other internationally famous players from Bosnia and Herzegovina, who have made similar choices, are: <a href="/wiki/Dejan_Lovren" title="Dejan Lovren">Dejan Lovren</a>, <a href="/w/index.php?title=Mladen_Petri%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Mladen Petrić (not yet started)">Mladen Petrić</a>, <a href="/w/index.php?title=Mario_Stani%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Mario Stanić (not yet started)">Mario Stanić</a>, <a href="/w/index.php?title=Neven_Suboti%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Neven Subotić (not yet started)">Neven Subotić</a>, <a href="/wiki/Zlatan_Ibrahimovi%C4%87" title="Zlatan Ibrahimović">Zlatan Ibrahimović</a>, <a href="/w/index.php?title=Marko_Marin_(footballer)&amp;action=edit&amp;redlink=1" class="new" title="Marko Marin (footballer) (not yet started)">Marko Marin</a>, <a href="/w/index.php?title=Boris_%C5%BDivkovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Boris Živković (not yet started)">Boris Živković</a>, <a href="/w/index.php?title=Zlatko_Junuzovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Zlatko Junuzović (not yet started)">Zlatko Junuzović</a>, <a href="/wiki/Savo_Milo%C5%A1evi%C4%87" title="Savo Milošević">Savo Milošević</a>, and <a href="/w/index.php?title=Zdravko_Kuzmanovi%C4%87&amp;action=edit&amp;redlink=1" class="new" title="Zdravko Kuzmanović (not yet started)">Zdravko Kuzmanović</a>. </p>
+      <p>Bosnia and Herzegovina was the world champion of <a href="/wiki/Volleyball" title="Volleyball">volleyball</a> at the <a href="/wiki/2004_Summer_Paralympics" title="2004 Summer Paralympics">2004 Summer Paralympics</a> and <a href="/wiki/2012_Summer_Paralympics" title="2012 Summer Paralympics">2012 Summer Paralympics</a>. Many among those on the team lost their legs in the Bosnian War. </p> 
+      <h2><span class="mw-headline" id="Cuisine">Cuisine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Cuisine">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit&amp;section=5" title="Change section: Cuisine">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Bosnian cuisine uses many spices, in moderate quantities. Most dishes are light, as they are cooked in lots of water. The sauces are fully natural, with little more than the natural juices of the vegetables in the dish. Typical ingredients include tomatoes, potatoes, onions, <a href="/wiki/Garlic" title="Garlic">garlic</a>, <a href="/wiki/Capsicum" title="Capsicum">peppers</a>, <a href="/wiki/Cucumber" title="Cucumber">cucumbers</a>, carrots, <a href="/wiki/Cabbage" title="Cabbage">cabbage</a>, <a href="/wiki/Mushroom" title="Mushroom">mushrooms</a>, <a href="/wiki/Spinach" title="Spinach">spinach</a>, <a href="/wiki/Zucchini" title="Zucchini">zucchini</a>, <a href="/wiki/Bean" title="Bean">dried beans</a>, fresh beans, <a href="/wiki/Plum" title="Plum">plums</a>, milk, <a href="/wiki/Paprika" title="Paprika">paprika</a> and cream called <a href="/w/index.php?title=Smetana_(dairy_product)&amp;action=edit&amp;redlink=1" class="new" title="Smetana (dairy product) (not yet started)">Pavlaka</a>. Bosnian cuisine is balanced between <a href="/wiki/Western_culture" class="mw-redirect" title="Western culture">Western</a> and <a href="/wiki/Eastern_world" title="Eastern world">Eastern</a> influences. As a result of the <a href="/w/index.php?title=Turkish_cuisine&amp;action=edit&amp;redlink=1" class="new" title="Turkish cuisine (not yet started)">Ottoman</a> administration for almost 500 years, Bosnian food is closely related to <a href="/w/index.php?title=Turkish_cuisine&amp;action=edit&amp;redlink=1" class="new" title="Turkish cuisine (not yet started)">Turkish</a>, <a href="/w/index.php?title=Greek_cuisine&amp;action=edit&amp;redlink=1" class="new" title="Greek cuisine (not yet started)">Greek</a>, and other former <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> and <a href="/w/index.php?title=Mediterranean_cuisine&amp;action=edit&amp;redlink=1" class="new" title="Mediterranean cuisine (not yet started)">Mediterranean</a> cuisines. However, because of years of Austrian rule, there are many influences from Central Europe. Typical meat dishes include mostly beef and <a href="/wiki/Lamb_and_mutton" class="mw-redirect" title="Lamb and mutton">lamb</a>. Some local specialties are <a href="/wiki/%C4%86evap%C4%8Di%C4%87i" title="Ćevapčići">ćevapi</a>, <a href="/w/index.php?title=Burek&amp;action=edit&amp;redlink=1" class="new" title="Burek (not yet started)">burek</a>, <a href="/wiki/Dolma" title="Dolma">dolma</a>, <a href="/w/index.php?title=Sarma_(food)&amp;action=edit&amp;redlink=1" class="new" title="Sarma (food) (not yet started)">sarma</a>, <a href="/w/index.php?title=Pilaf&amp;action=edit&amp;redlink=1" class="new" title="Pilaf (not yet started)">pilaf</a>, <a href="/w/index.php?title=Goulash&amp;action=edit&amp;redlink=1" class="new" title="Goulash (not yet started)">goulash</a>, <a href="/w/index.php?title=Ajvar&amp;action=edit&amp;redlink=1" class="new" title="Ajvar (not yet started)">ajvar</a> and a whole range of Eastern sweets. Local wines come from <a href="/w/index.php?title=Herzegovina&amp;action=edit&amp;redlink=1" class="new" title="Herzegovina (not yet started)">Herzegovina</a> where the climate is suitable for growing grapes. Herzegovinian loza (similar to Italian <a href="/wiki/Grappa" title="Grappa">Grappa</a> but less sweet) is very popular. Plum or apple alcohol beverages are made in the north. In the south, <a href="/w/index.php?title=Distillery&amp;action=edit&amp;redlink=1" class="new" title="Distillery (not yet started)">distilleries</a> used to produce vast quantities of <a href="/wiki/Brandy" title="Brandy">brandy</a>. Brandy is the base of most <a href="/wiki/Alcoholic_beverage" class="mw-redirect" title="Alcoholic beverage">alcoholic drinks</a>. </p>
+      <p>Coffeehouses, where Bosnian coffee is served in <a href="/w/index.php?title=Cezve&amp;action=edit&amp;redlink=1" class="new" title="Cezve (not yet started)">džezva</a> with <a href="/w/index.php?title=Turkish_Delight&amp;action=edit&amp;redlink=1" class="new" title="Turkish Delight (not yet started)">rahat lokum</a> and sugar cubes, are in many places in Sarajevo and every city in the country. Coffee drinking is a favorite Bosnian pastime and part of the culture. Bosnians are believed to be some of the heaviest coffee drinkers in the world.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit&amp;section=6" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Bosnia_and_Herzegovina_at_the_Olympics" title="Bosnia and Herzegovina at the Olympics">Bosnia and Herzegovina at the Olympics</a></li> 
+       <li><a href="/wiki/Bosnia_and_Herzegovina_national_football_team" title="Bosnia and Herzegovina national football team">Bosnia and Herzegovina national football team</a></li> 
+       <li><a href="/wiki/List_of_rivers_of_Bosnia_and_Herzegovina" title="List of rivers of Bosnia and Herzegovina">List of rivers of Bosnia and Herzegovina</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit&amp;section=7" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-Constitution-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Constitution_1-0">1.0</a></sup> <sup><a href="#cite_ref-Constitution_1-1">1.1</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ccbh.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf">http://www.ccbh.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf</a> Constitution of Bosnia and Herzegovina</span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html">"Bosnia and Herzegovina"</a>. <a href="/wiki/The_World_Factbook" title="The World Factbook">The World Factbook</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bosnia+and+Herzegovina&amp;rft.pub=The+World+Factbook&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fbk.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABosnia+and+Herzegovina" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Italic or bold markup not allowed in: <code class="cs1-code">|publisher=</code> (<a href="/wiki/Help:CS1_errors#apostrophe_markup" title="Help:CS1 errors">help</a>)</span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-Pres-3"><span class="mw-cite-backlink"><a href="#cite_ref-Pres_3-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.predsjednistvobih.ba/hron/default.aspx?id=10074&amp;langTag=en-US">"Chronology of the Presidency of Bosnia and Herzegovina"</a>. Bosnia and Herzegovina<span class="reference-accessdate">. Retrieved <span class="nowrap">30 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chronology+of+the+Presidency+of+Bosnia+and+Herzegovina&amp;rft.pub=Bosnia+and+Herzegovina&amp;rft_id=http%3A%2F%2Fwww.predsjednistvobih.ba%2Fhron%2Fdefault.aspx%3Fid%3D10074%26langTag%3Den-US&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABosnia+and+Herzegovina" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-bhas.ba-4"><span class="mw-cite-backlink"><a href="#cite_ref-bhas.ba_4-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html">Bosnian Statistics Agency</a></span> </li> 
+         <li id="cite_note-imf2-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_5-0">5.0</a></sup> <sup><a href="#cite_ref-imf2_5-1">5.1</a></sup> <sup><a href="#cite_ref-imf2_5-2">5.2</a></sup> <sup><a href="#cite_ref-imf2_5-3">5.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2014/01/weodata/weorept.aspx?pr.x=64&amp;pr.y=13&amp;sy=2009&amp;ey=2014&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=963&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Bosnia and Herzegovina"</a>. International Monetary Fund.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bosnia+and+Herzegovina&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2014%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D64%26pr.y%3D13%26sy%3D2009%26ey%3D2014%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D963%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABosnia+and+Herzegovina" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">"Distribution of family income – Gini index"</a>. <i>The World Factbook</i>. CIA.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Distribution+of+family+income+%E2%80%93+Gini+index&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2172.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABosnia+and+Herzegovina" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-7"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_7-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf">"Human Development Report 2011"</a> <span class="cs1-format">(PDF)</span>. United Nations. 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2011&amp;rft.pub=United+Nations&amp;rft.date=2011&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fmedia%2FHDR_2011_EN_Table1.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABosnia+and+Herzegovina" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-skupstina-8"><span class="mw-cite-backlink"><a href="#cite_ref-skupstina_8-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.skupstinabd.ba/zakoni/Ustav/ustav-s.pdf">"УСТАВ БОСНЕ И ХЕРЦЕГОВИНЕ"</a> <span class="cs1-format">(PDF)</span> (in Serbocroatian). Skupština Brčko Distrikta BiH.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%D0%A3%D0%A1%D0%A2%D0%90%D0%92+%D0%91%D0%9E%D0%A1%D0%9D%D0%95+%D0%98+%D0%A5%D0%95%D0%A0%D0%A6%D0%95%D0%93%D0%9E%D0%92%D0%98%D0%9D%D0%95&amp;rft.pub=Skup%C5%A1tina+Br%C4%8Dko+Distrikta+BiH&amp;rft_id=http%3A%2F%2Fwww.skupstinabd.ba%2Fzakoni%2FUstav%2Fustav-s.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABosnia+and+Herzegovina" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: unrecognized language (<a href="/wiki/Category:CS1_maint:_unrecognized_language" title="Category:CS1 maint: unrecognized language">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Statistics-9"><span class="mw-cite-backlink"><a href="#cite_ref-Statistics_9-0">↑</a></span> <span class="reference-text"><cite id="CITEREFAgency_of_Statistics_of_Bosnia_and_Herzegovina" class="citation web cs1">Agency of Statistics of Bosnia and Herzegovina. <a rel="nofollow" class="external text" href="http://www.bhas.ba/index.php?option=com_content&amp;view=article&amp;id=52&amp;itemid=80&amp;lang=en&amp;Itemid=">"About BiH"</a>. Agency of Statistics of Bosnia and Herzegovina.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+BiH&amp;rft.pub=Agency+of+Statistics+of+Bosnia+and+Herzegovina&amp;rft.au=Agency+of+Statistics+of+Bosnia+and+Herzegovina&amp;rft_id=http%3A%2F%2Fwww.bhas.ba%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D52%26itemid%3D80%26lang%3Den%26Itemid%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABosnia+and+Herzegovina" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-fzs.ba-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-fzs.ba_10-0">10.0</a></sup> <sup><a href="#cite_ref-fzs.ba_10-1">10.1</a></sup> <sup><a href="#cite_ref-fzs.ba_10-2">10.2</a></sup> <sup><a href="#cite_ref-fzs.ba_10-3">10.3</a></sup> <sup><a href="#cite_ref-fzs.ba_10-4">10.4</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fzs.ba/Podaci/Federacija%20u%20brojkama%202010.pdf">http://www.fzs.ba/Podaci/Federacija%20u%20brojkama%202010.pdf</a></span> </li> 
+         <li id="cite_note-nezavisne-11"><span class="mw-cite-backlink"><a href="#cite_ref-nezavisne_11-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nezavisne.com/revija/tekst3-050612.php">"Ring zamijenio nalivperom"</a> (in Bosnian/Croatian/Serbian). Nezavisne novine. 2005-06-12.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ring+zamijenio+nalivperom&amp;rft.pub=Nezavisne+novine&amp;rft.date=2005-06-12&amp;rft_id=http%3A%2F%2Fwww.nezavisne.com%2Frevija%2Ftekst3-050612.php&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABosnia+and+Herzegovina" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: unrecognized language (<a href="/wiki/Category:CS1_maint:_unrecognized_language" title="Category:CS1 maint: unrecognized language">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://worldofsevdah.com/bosnian-traditional-coffee/">"Bosnian traditional coffee " World of Sevdah"</a>. Worldofsevdah.com. 2007-03-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bosnian+traditional+coffee+%22+World+of+Sevdah&amp;rft.pub=Worldofsevdah.com&amp;rft.date=2007-03-08&amp;rft_id=http%3A%2F%2Fworldofsevdah.com%2Fbosnian-traditional-coffee%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABosnia+and+Herzegovina" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <ul>
+       <li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html">"CIA – The World Factbook – Bosnia and Herzegovina"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CIA+%E2%80%93+The+World+Factbook+%E2%80%93+Bosnia+and+Herzegovina&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fbk.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABosnia+and+Herzegovina" class="Z3988"></span>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit&amp;section=8" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Bosnia_and_Herzegovina" class="extiw" title="commons:Category:Bosnia and Herzegovina">Bosnia and Herzegovina</a> at Wikimedia Commons</li> 
+       <li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></a> <a href="https://simple.wikivoyage.org/wiki/Bosnia_and_Herzegovina" class="extiw" title="voy:Bosnia and Herzegovina">Bosnia and Herzegovina</a> travel guide from Wikivoyage</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/46px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></span> <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/Europe" title="Europe">Europe</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Country" title="Country">Countries</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a> – <a href="/wiki/Andorra" title="Andorra">Andorra</a> – <a href="/wiki/Austria" title="Austria">Austria</a> – <a href="/wiki/Belarus" title="Belarus">Belarus</a> – <a href="/wiki/Belgium" title="Belgium">Belgium</a> – <a class="mw-selflink selflink">Bosnia and Herzegovina</a> – <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> – <a href="/wiki/Croatia" title="Croatia">Croatia</a> – <a href="/wiki/Republic_of_Cyprus" title="Republic of Cyprus">Republic of Cyprus</a><sup>1</sup> – <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a> – <a href="/wiki/Denmark" title="Denmark">Denmark</a><sup>2,4</sup> – <a href="/wiki/Estonia" title="Estonia">Estonia</a> – <a href="/wiki/Finland" title="Finland">Finland</a> – <a href="/wiki/France" title="France">France</a><sup>4</sup> – <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a><sup>1</sup> – <a href="/wiki/Germany" title="Germany">Germany</a> – <a href="/wiki/Greece" title="Greece">Greece</a> – <a href="/wiki/Hungary" title="Hungary">Hungary</a> – <a href="/wiki/Iceland" title="Iceland">Iceland</a> – <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a> – <a href="/wiki/Italy" title="Italy">Italy</a> – <a href="/wiki/Latvia" title="Latvia">Latvia</a> – <a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a> – <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> – <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a> – <a href="/wiki/Malta" title="Malta">Malta</a> – <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a> – <a href="/wiki/Moldova" title="Moldova">Moldova</a> – <a href="/wiki/Monaco" title="Monaco">Monaco</a> – <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> – <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a><sup>4</sup> – <a href="/wiki/Norway" title="Norway">Norway</a><sup>4</sup> – <a href="/wiki/Poland" title="Poland">Poland</a> – <a href="/wiki/Portugal" title="Portugal">Portugal</a><sup>4,6</sup> – <a href="/wiki/Romania" title="Romania">Romania</a> – <a href="/wiki/Russia" title="Russia">Russia</a><sup>1</sup> – <a href="/wiki/San_Marino" title="San Marino">San Marino</a> – <a href="/wiki/Serbia" title="Serbia">Serbia</a> – <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> – <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a> – <a href="/wiki/Spain" title="Spain">Spain</a><sup>4,6</sup> – <a href="/wiki/Sweden" title="Sweden">Sweden</a> – <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> – <a href="/wiki/Turkey" title="Turkey">Turkey</a><sup>1</sup> – <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> – <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><sup>4</sup> – <a href="/wiki/Vatican_City" title="Vatican City">Vatican City</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_dependent_territories" class="mw-redirect" title="List of dependent territories">Dependencies</a></b></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a><sup>1</sup> – <a href="/wiki/Azores" title="Azores">Azores</a><sup>5</sup> – <a href="/wiki/Ceuta" title="Ceuta">Ceuta</a><sup>5, 6</sup> – <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a><sup>5</sup> – <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a><sup>5</sup> – <a href="/wiki/Greenland" title="Greenland">Greenland</a><sup>5,2</sup> – <a href="/wiki/Guernsey" title="Guernsey">Guernsey</a> – <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a> – <a href="/wiki/Jersey" title="Jersey">Jersey</a> – <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a> – <a href="/wiki/Melilla" title="Melilla">Melilla</a><sup>5,6</sup> – <a href="/wiki/Svalbard" title="Svalbard">Svalbard</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_unrecognized_countries" class="mw-redirect" title="List of unrecognized countries">Other Countries</a></b></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Abkhazia" title="Abkhazia">Abkhazia</a><sup>1,3</sup> – <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a><sup>3</sup> – <a href="/wiki/South_Ossetia" title="South Ossetia">South Ossetia</a><sup>1, 3</sup> – <a href="/wiki/Transnistria" title="Transnistria">Transnistria</a> – <a href="/wiki/Turkish_Republic_of_Northern_Cyprus" class="mw-redirect" title="Turkish Republic of Northern Cyprus">Turkish Republic of Northern Cyprus</a><sup>1,3</sup>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            1. <a href="/wiki/Transcontinental_country" title="Transcontinental country">Transcontinental country</a>/territory that can be considered both Europe and Asia 2. Territory or with territory geographically part of North America 3. Partially recognized. 4. not all dependent territories are listed 5. Territory has some form of self-rule. 6. Territory or with territory geographically part of Africa
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="European_Union_member_and_candidate_countries" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div id="European_Union_member_and_candidate_countries" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/European_Union" title="European Union">European Union</a> member and candidate countries
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Current members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Austria" title="Austria">Austria</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech&nbsp;Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/Finland" title="Finland">Finland</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Malta" title="Malta">Malta</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Sweden" title="Sweden">Sweden</a>
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Flag_of_Europe.svg" class="image"><img alt="Flag of Europe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/65px-Flag_of_Europe.svg.png" decoding="async" width="65" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/98px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/130px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Candidates</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>&nbsp;<b>·</b> <a href="/wiki/Serbia" title="Serbia">Serbia</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Potential candidates</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Bosnia and Herzegovina</a>&nbsp;<b>·</b> <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Former members</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <a href="/w/index.php?title=List_of_European_Union_member_states_by_accession&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by accession (not yet started)">by accession</a>&nbsp;<b>·</b> <a href="/w/index.php?title=List_of_European_Union_member_states_by_political_system&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by political system (not yet started)">by political system</a>&nbsp;<b>·</b> <a href="/wiki/List_of_European_Union_member_states_by_population" class="mw-redirect" title="List of European Union member states by population">by population</a>&nbsp;<b>·</b> <a href="/w/index.php?title=Economy_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="Economy of the European Union (not yet started)">by GDP</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20201226132914
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.696 seconds
+Real time usage: 0.836 seconds
+Preprocessor visited node count: 4171/1000000
+Post‐expand include size: 100212/2097152 bytes
+Template argument size: 10546/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 33711/5000000 bytes
+Lua time usage: 0.298/10.000 seconds
+Lua memory usage: 6408712/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  707.790      1 -total
+ 57.48%  406.840      1 Template:Infobox_country
+ 56.01%  396.412      3 Template:Infobox
+ 21.87%  154.767      1 Template:Reflist
+ 20.06%  141.963     10 Template:Cite_web
+ 12.88%   91.187      1 Template:Commonscat-inline
+ 12.32%   87.204      2 Template:Sister-inline
+ 11.13%   78.756      3 Template:ISO_3166_code
+  8.73%   61.773      1 Template:Infobox_country/imagetable
+  6.66%   47.161     17 Template:If_empty
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:20289-0!canonical and timestamp 20201226132914 and revision id 7207830. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Bosnia_and_Herzegovina&amp;oldid=7207830">https://simple.wikipedia.org/w/index.php?title=Bosnia_and_Herzegovina&amp;oldid=7207830</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Bosnia_and_Herzegovina" title="Category:Bosnia and Herzegovina">Bosnia and Herzegovina</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_errors:_markup" title="Category:CS1 errors: markup">CS1 errors: markup</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_unrecognized_language" title="Category:CS1 maint: unrecognized language">CS1 maint: unrecognized language</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bosnia+and+Herzegovina" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bosnia+and+Herzegovina" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Bosnia_and_Herzegovina" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Bosnia_and_Herzegovina" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Bosnia_and_Herzegovina">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bosnia_and_Herzegovina" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bosnia_and_Herzegovina" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;oldid=7207830" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bosnia_and_Herzegovina&amp;id=7207830&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q225" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bosnia+and+Herzegovina">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Bosnia_and_Herzegovina&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Bosnia_and_Herzegovina&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bosnia_and_Herzegovina" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Bosnia_H%C3%A8rz%C3%A8govina" title="Bosnia Hèrzègovina – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8D%D1%80%D1%8D_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D1%8D%D1%80%D1%8D" title="Босниэрэ Герцеговинэрэ – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Bosni%C3%AB_en_Herzegowina" title="Bosnië en Herzegowina – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Bosnien_und_Herzegowina" title="Bosnien und Herzegowina – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%89%A6%E1%88%B5%E1%8A%92%E1%8B%AB%E1%8A%93_%E1%88%84%E1%88%AD%E1%8C%B8%E1%8C%8E%E1%89%AA%E1%8A%93" title="ቦስኒያና ሄርጸጎቪና – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Bosnia-Hertsegovina" title="Bosnia-Hertsegovina – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Bosnia_and_Herzegofina" title="Bosnia and Herzegofina – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D9%88%D8%B3%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D9%87%D8%B1%D8%B3%D9%83" title="البوسنة والهرسك – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Bosnia_y_Herzegovina" title="Bosnia y Herzegovina – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%92%DC%98%DC%A3%DC%A2%DC%90_%DC%98%DC%97%DC%AA%DC%AC%DC%A3%DC%93%DC%98%DC%92%DC%9D%DC%A2%DC%90" title="ܒܘܣܢܐ ܘܗܪܬܣܓܘܒܝܢܐ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D5%8A%D5%B8%D5%BD%D5%B6%D5%AB%D5%A1_%D5%A5%D6%82_%D5%80%D5%A5%D6%80%D6%81%D5%A5%D5%AF%D5%B8%D5%BE%D5%AB%D5%B6%D5%A1" title="Պոսնիա եւ Հերցեկովինա – Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Bosnia-H%C3%A8rs%C3%A8govina" title="Bosnia-Hèrsègovina – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Bosnia_y_Herzegovina" title="Bosnia y Herzegovina – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-awa"><a href="https://awa.wikipedia.org/wiki/%E0%A4%AC%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%94_%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BC%E0%A5%87%E0%A4%97%E0%A5%8B%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE" title="बॉस्निया औ हर्ज़ेगोविना – Awadhi" lang="awa" hreflang="awa" class="interlanguage-link-target">अवधी</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/V%C3%B3nia_ha_Hesegov%C3%ADna" title="Vónia ha Hesegovína – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B0%D0%B3%D1%8C%D0%B5%D1%80%D1%81%D0%B5%D0%BA" title="Боснагьерсек – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Bus%C3%B1a_Hirsikuwina" title="Busña Hirsikuwina – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Bosniya_v%C9%99_Herseqovina" title="Bosniya və Herseqovina – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D9%86%DB%8C_%D9%88_%D9%87%D8%B1%D8%B2%D9%82%D9%88%D9%88%DB%8C%D9%86" title="بوسنی و هرزقووین – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Bosnia_lan_H%C3%A9rzegovina" title="Bosnia lan Hérzegovina – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%B8%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%93_%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%97%E0%A7%8B%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A6%BE" title="বসনিয়া ও হার্জেগোভিনা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Bosnia_kap_Herzegovina" title="Bosnia kap Herzegovina – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Bosnia-Herzegovina" title="Bosnia-Herzegovina – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D2%BB%D3%99%D0%BC_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния һәм Герцеговина – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D1%96%D1%8F_%D1%96_%D0%93%D0%B5%D1%80%D1%86%D0%B0%D0%B3%D0%B0%D0%B2%D1%96%D0%BD%D0%B0" title="Боснія і Герцагавіна – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D1%8C%D0%BD%D1%96%D1%8F_%D1%96_%D0%93%D0%B5%D1%80%D1%86%D0%B0%D0%B3%D0%B0%D0%B2%D1%96%D0%BD%D0%B0" title="Босьнія і Герцагавіна – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%86_%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A5%87%E0%A4%97%E0%A5%8B%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE" title="बोस्निया आ हर्जेगोविना – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Bosnya_asin_Hersegobina" title="Bosnya asin Hersegobina – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Bosnia_mo_Herzegovina" title="Bosnia mo Herzegovina – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B0_%D0%B8_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босна и Херцеговина – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Bosnien-Herzegowina" title="Bosnien-Herzegowina – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%96%E0%BE%B7%E0%BD%BC%E0%BD%A6%E0%BD%B4%E0%BC%8B%E0%BD%93%E0%BD%B2%E0%BD%A1%E0%BC%8B%E0%BD%91%E0%BD%84%E0%BC%8B%E0%BD%A7%E0%BD%A2%E0%BC%8B%E0%BD%9B%E0%BD%BA%E0%BC%8B%E0%BD%82%E0%BE%B7%E0%BD%BC%E0%BC%8B%E0%BD%9D%E0%BD%B2%E0%BC%8B%E0%BD%93%E0%BC%8D" title="བྷོསུ་ནིཡ་དང་ཧར་ཛེ་གྷོ་ཝི་ན། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://bs.wikipedia.org/wiki/Bosna_i_Hercegovina" title="Bosna i Hercegovina – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Bosnia-ha-Herzegovina" title="Bosnia-ha-Herzegovina – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8_%D0%B1%D0%B0_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босни ба Герцеговина – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/B%C3%B2snia_i_Hercegovina" title="Bòsnia i Hercegovina – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D0%BF%D0%B5_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Боснипе Герцеговина – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Bosniya_ug_Ersogobina" title="Bosniya ug Ersogobina – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Bosna_a_Hercegovina" title="Bosna a Hercegovina – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Bosnia_y_Hercegovina" title="Bosnia y Hercegovina – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-tum"><a href="https://tum.wikipedia.org/wiki/Bosnia_na_Herzegovina" title="Bosnia na Herzegovina – Tumbuka" lang="tum" hreflang="tum" class="interlanguage-link-target">ChiTumbuka</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Bosnia_%C3%A8_Erzegovina" title="Bosnia è Erzegovina – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Bosnia_a_Hertsegofina" title="Bosnia a Hertsegofina – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bosnien-Hercegovina" title="Bosnien-Hercegovina – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%A8%D9%88%D8%B5%D9%86%D8%A7_%D8%A4%D9%84%D9%87%D8%B1%D8%B3%D9%83" title="بوصنا ؤلهرسك – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Bosnia_ja_Hercegovina" title="Bosnia ja Hercegovina – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bosnien_und_Herzegowina" title="Bosnien und Herzegowina – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%84%DE%AE%DE%90%DE%B0%DE%82%DE%A8%DE%94%DE%A7_%DE%87%DE%AC%DE%82%DE%B0%DE%91%DE%B0_%DE%80%DE%AC%DE%83%DE%B0%DE%92%DE%A8%DE%8E%DE%AE%DE%88%DE%A9%DE%82%DE%A7" title="ބޮސްނިޔާ އެންޑް ހެރްޒިގޮވީނާ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Bosniska-Hercegowinska" title="Bosniska-Hercegowinska – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%B0_%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%97%E0%A5%8B%E0%A4%AD%E0%A4%BF%E0%A4%A8%E0%A4%BE" title="बोस्निया र हर्जगोभिना – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Bosnia_ja_Hertsegoviina" title="Bosnia ja Hertsegoviina – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%BF%CF%83%CE%BD%CE%AF%CE%B1_%CE%BA%CE%B1%CE%B9_%CE%95%CF%81%CE%B6%CE%B5%CE%B3%CE%BF%CE%B2%CE%AF%CE%BD%CE%B7" title="Βοσνία και Ερζεγοβίνη – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D0%B4%D1%8B_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Босния ды Герцеговина Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bosnia_y_Herzegovina" title="Bosnia y Herzegovina – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Bosnio_kaj_Hercegovino" title="Bosnio kaj Hercegovino – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/B%C3%B3snia_Ercegovina" title="Bósnia Ercegovina – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Bosnia-Herzegovina" title="Bosnia-Herzegovina – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D9%86%DB%8C_%D9%88_%D9%87%D8%B1%D8%B2%DA%AF%D9%88%DB%8C%D9%86" title="بوسنی و هرزگوین – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Bosnia_og_Hersegovina" title="Bosnia og Hersegovina – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bosnie-Herz%C3%A9govine" title="Bosnie-Herzégovine – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Bosnje" title="Bosnje – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Bosniya_e_Herzegovina" title="Bosniya e Herzegovina – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_Bhoisnia-Heirseagaiv%C3%A9in" title="An Bhoisnia-Heirseagaivéin – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Bosnia_as_Herzegovina" title="Bosnia as Herzegovina – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Bosniya_hem_Her%C8%9Begovina" title="Bosniya hem Herțegovina – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Bosna_agus_Hearsagobhana" title="Bosna agus Hearsagobhana – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Bosnia_e_Hercegovina" title="Bosnia e Hercegovina – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Mbocinia_na_Hecengobina" title="Mbocinia na Hecengobina – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%AC%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%A8%E0%AA%BF%E0%AA%AF%E0%AA%BE_%E0%AA%85%E0%AA%A8%E0%AB%87_%E0%AA%B9%E0%AA%B0%E0%AB%8D%E0%AA%9D%E0%AB%87%E0%AA%97%E0%AB%8B%E0%AA%B5%E0%AA%BF%E0%AA%A8%E0%AA%BE" title="બોસ્નિયા અને હર્ઝેગોવિના – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8C%B1%F0%90%8C%B0%F0%90%8C%BF%F0%90%8D%83%F0%90%8C%BD%F0%90%8C%BE%F0%90%8C%B0_%26_%F0%90%8C%B7%F0%90%8C%B0%F0%90%8D%82%F0%90%8C%BE%F0%90%8C%B0%F0%90%8D%84%F0%90%8C%BF%F0%90%8C%B2%F0%90%8D%89%F0%90%8C%B1%F0%90%8C%B9%F0%90%8C%BD%F0%90%8C%B0" title="𐌱𐌰𐌿𐍃𐌽𐌾𐌰 &amp; 𐌷𐌰𐍂𐌾𐌰𐍄𐌿𐌲𐍉𐌱𐌹𐌽𐌰 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%AC%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%86%E0%A4%A3%E0%A4%BF_%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%9D%E0%A4%97%E0%A5%8B%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A4%BE" title="बॉस्निया आणि हर्झगोव्हिना – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Bosnia_l%C3%A2u_Herzegovina" title="Bosnia lâu Herzegovina – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BC%D1%83%D0%B4%D0%B8%D0%BD_%D0%B1%D0%BE%D0%BB%D0%BD_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Босмудин болн Херцегудин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%8A%A4%EB%8B%88%EC%95%84_%ED%97%A4%EB%A5%B4%EC%B2%B4%EA%B3%A0%EB%B9%84%EB%82%98" title="보스니아 헤르체고비나 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Bosnia_da_Herzegovina" title="Bosnia da Herzegovina – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Bosenia_me_Hesegowina" title="Bosenia me Hesegowina – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%B8%D5%BD%D5%B6%D5%AB%D5%A1_%D6%87_%D5%80%D5%A5%D6%80%D6%81%D5%A5%D5%A3%D5%B8%D5%BE%D5%AB%D5%B6%D5%A1" title="Բոսնիա և Հերցեգովինա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%94%E0%A4%B0_%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BC%E0%A5%87%E0%A4%97%E0%A5%8B%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE" title="बॉस्निया और हर्ज़ेगोविना – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Bosniska_a_Hercegowina" title="Bosniska a Hercegowina – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Bosna_i_Hercegovina" title="Bosna i Hercegovina – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Bosnia_e_Herzegovina" title="Bosnia e Herzegovina – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Bosnia_na_Herzegovina" title="Bosnia na Herzegovina – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Bosnia_ken_Herzegovina" title="Bosnia ken Herzegovina – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AC%E0%A6%B8%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8B_%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%97%E0%A7%8B%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A6%BE" title="বসনিয়া বারো হার্জেগোভিনা – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Bosnia_dan_Herzegovina" title="Bosnia dan Herzegovina – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Bosnia_e_Herzegovina" title="Bosnia e Herzegovina – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Bosnia_e_Herzegovina" title="Bosnia e Herzegovina – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8_%C3%A6%D0%BC%C3%A6_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%C3%A6" title="Босни æмæ Герцеговинæ – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/IBhosniya_neHerzegovina" title="IBhosniya neHerzegovina – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Bosn%C3%ADa_og_Herseg%C3%B3v%C3%ADna" title="Bosnía og Hersegóvína – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bosnia_ed_Erzegovina" title="Bosnia ed Erzegovina – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%A1%D7%A0%D7%99%D7%94_%D7%95%D7%94%D7%A8%D7%A6%D7%92%D7%95%D7%91%D7%99%D7%A0%D7%94" title="בוסניה והרצגובינה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Bosnia_lan_H%C3%A8rc%C3%A9govina" title="Bosnia lan Hèrcégovina – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Bosnia-Hercegovina" title="Bosnia-Hercegovina – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B3%8A%E0%B2%B8%E0%B3%8D%E0%B2%A8%E0%B2%BF%E0%B2%AF_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%B9%E0%B3%86%E0%B2%B0%E0%B3%8D%E0%B2%9C%E0%B3%86%E0%B2%97%E0%B3%8A%E0%B2%B5%E0%B2%BF%E0%B2%A8" title="ಬೊಸ್ನಿಯ ಮತ್ತು ಹೆರ್ಜೆಗೊವಿನ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Bosnia_at_Herzegovina" title="Bosnia at Herzegovina – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D0%B1%D0%BB%D0%B0_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния бла Герцеговина – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%9D%E1%83%A1%E1%83%9C%E1%83%98%E1%83%90_%E1%83%93%E1%83%90_%E1%83%B0%E1%83%94%E1%83%A0%E1%83%AA%E1%83%94%E1%83%92%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%90" title="ბოსნია და ჰერცეგოვინა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/B%C3%B2sni%C3%B4_i_Herceg%C3%B2wina" title="Bòsniô i Hercegòwina – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D0%B6%D3%99%D0%BD%D0%B5_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния және Герцеговина – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Bosni%E2%80%93Hercegovina" title="Bosni–Hercegovina – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Bosiniya_na_Herizegovina" title="Bosiniya na Herizegovina – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Bosnia_na_Herzegovina" title="Bosnia na Herzegovina – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D0%B4%D0%B0_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния да Герцеговина – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Bosna" title="Bosna – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Bosnaxercegovina" title="Bosnaxercegovina – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Bosni_ak_Erzegovin" title="Bosni ak Erzegovin – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Bosni-%C3%88rz%C3%A9govin" title="Bosni-Èrzégovin – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Bosniya_%C3%BB_Herzegov%C3%AEna" title="Bosniya û Herzegovîna – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D0%B6%D0%B0%D0%BD%D0%B0_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния жана Герцеговина – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Bosnia_y_Herzegovina" title="Bosnia y Herzegovina – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Bosnia_i_Hersegovina" title="Bosnia i Hersegovina – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%9A%E0%BA%BB%E0%BA%94%E0%BA%AA%E0%BA%B0%E0%BA%99%E0%BA%B5%E0%BB%81%E0%BA%AE%E0%BA%81%E0%BB%80%E0%BA%8A%E0%BB%82%E0%BA%81%E0%BA%A7%E0%BA%B5%E0%BA%99" title="ປະເທດບົດສະນີແຮກເຊໂກວີນ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D9%86%DB%8C_%DB%89_%D9%87%D8%B1%D8%B2%DA%AF%D9%88%DA%A4%DB%8C%D9%86" title="بوسنی ۉ هرزگوڤین – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Bosneja_i_Hercegovina" title="Bosneja i Hercegovina – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Bosnia_et_Herzegovina" title="Bosnia et Herzegovina – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Bosnija_un_Hercegovina" title="Bosnija un Hercegovina – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Bosnien_an_Herzegowina" title="Bosnien an Herzegowina – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F%D0%BD%D0%B8_%D0%93%D1%8C%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Боснияни Гьерцеговина – Lezghian" lang="lez" hreflang="lez" class="interlanguage-link-target">Лезги</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Bosnija_ir_Hercegovina" title="Bosnija ir Hercegovina – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/B%C3%B2snia-Er%C3%A7eg%C3%B2vina" title="Bòsnia-Erçegòvina – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Bosni%C3%AB_en_Herzegovina" title="Bosnië en Herzegovina – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Bosnia_na_Erzegovina" title="Bosnia na Erzegovina – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Bosnia_e_Hersegovina" title="Bosnia e Hersegovina – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Bosnii-Hertsegovinu" title="Bosnii-Hertsegovinu – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Bosnia_e_Erzegovina" title="Bosnia e Erzegovina – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Bosznia-Hercegovina" title="Bosznia-Hercegovina – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%86_%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%97%E0%A5%8B%E0%A4%AD%E0%A4%BF%E0%A4%A8%E0%A4%BE" title="बोस्निया आ हर्जगोभिना – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B0_%D0%B8_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босна и Херцеговина – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/B%C3%B4snia-Herzeg%C3%B4vina" title="Bôsnia-Herzegôvina – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8B%E0%B4%B8%E0%B5%8D%E0%B4%A8%E0%B4%BF%E0%B4%AF_%E0%B4%B9%E0%B5%86%E0%B5%BC%E0%B4%B8%E0%B5%86%E0%B4%97%E0%B5%8B%E0%B4%B5%E0%B4%BF%E0%B4%A8" title="ബോസ്നിയ ഹെർസെഗോവിന – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Bo%C5%BCnija_u_%C4%A6er%C5%BCegovina" title="Bożnija u Ħerżegovina – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/P%C5%8Dngia-Herek%C5%8Dmina" title="Pōngia-Herekōmina – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%86%E0%A4%A3%E0%A4%BF_%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%9D%E0%A4%97%E0%A5%8B%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A4%BE" title="बॉस्निया आणि हर्झगोव्हिना – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%91%E1%83%9D%E1%83%A1%E1%83%9C%E1%83%98%E1%83%90_%E1%83%93%E1%83%9D_%E1%83%B0%E1%83%94%E1%83%A0%E1%83%AA%E1%83%94%E1%83%92%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%90" title="ბოსნია დო ჰერცეგოვინა – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D9%88%D8%B3%D9%86%D9%87_%D9%88_%D8%A7%D9%84%D9%87%D8%B1%D8%B3%D9%83" title="البوسنه و الهرسك – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D9%86%DB%8C_%D9%88_%D9%87%D8%B1%D8%B2%DA%AF%D9%88%DB%8C%D9%86" title="بوسنی و هرزگوین – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Bosnia_dan_Herzegovina" title="Bosnia dan Herzegovina – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Bosnia_g%C3%A2e%CC%A4ng_Herzegovina" title="Bosnia gâe̤ng Herzegovina – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/B%C3%B3snia_i_Heirzegobina" title="Bósnia i Heirzegobina – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D0%B4%D0%B8_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния ди Херцеговина – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8_%D0%B1%D0%B0_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босни ба Херцеговина – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%98%E1%80%B1%E1%80%AC%E1%80%B7%E1%80%85%E1%80%94%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA_%E1%80%9F%E1%80%AC%E1%80%87%E1%80%AE%E1%80%82%E1%80%AD%E1%80%AF%E1%80%97%E1%80%AE%E1%80%B8%E1%80%94%E1%80%AC%E1%80%B8%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ဘော့စနီးယားနှင့် ဟာဇီဂိုဗီးနားနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Boteniya_me_Erdegobina" title="Boteniya me Erdegobina – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-fj"><a href="https://fj.wikipedia.org/wiki/Bosnia_kei_Herzegovina" title="Bosnia kei Herzegovina – Fijian" lang="fj" hreflang="fj" class="interlanguage-link-target">Na Vosa Vakaviti</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bosni%C3%AB_en_Herzegovina" title="Bosnië en Herzegovina – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Bosni%C3%AB-Herzegovina" title="Bosnië-Herzegovina – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%B0_%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%97%E0%A5%8B%E0%A4%AD%E0%A4%BF%E0%A4%A8%E0%A4%BE" title="बोस्निया र हर्जगोभिना – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%B5_%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%97%E0%A5%8B%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE" title="बोस्निया व हर्जगोविना – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%8B%E3%82%A2%E3%83%BB%E3%83%98%E3%83%AB%E3%83%84%E3%82%A7%E3%82%B4%E3%83%93%E3%83%8A" title="ボスニア・ヘルツェゴビナ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Bosnia-Erzegovina" title="Bosnia-Erzegovina – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8_%D0%B0,_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0_%D0%B0" title="Босни а, Герцеговина а – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Bosnien_an_Hertsegowina" title="Bosnien an Hertsegowina – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Bosnya_a%27_Hersegowina" title="Bosnya a' Hersegowina – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bosnia-Hercegovina" title="Bosnia-Hercegovina – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Bosnia-Hercegovina" title="Bosnia-Hercegovina – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Bosnia_e_Hertsegovina" title="Bosnia e Hertsegovina – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/B%C3%B2snia_e_Ercegovina" title="Bòsnia e Ercegovina – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D0%B9_%D0%B4%D0%B0_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босний да Герцеговина – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Boosniyaa_fi_Herzegoviinaa" title="Boosniyaa fi Herzegoviinaa – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Bosniya_va_Gersegovina" title="Bosniya va Gersegovina – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%8B%E0%A8%B8%E0%A8%A8%E0%A9%80%E0%A8%86_%E0%A8%85%E0%A8%A4%E0%A9%87_%E0%A8%B9%E0%A8%B0%E0%A8%9C%E0%A8%BC%E0%A9%87%E0%A8%97%E0%A9%8B%E0%A8%B5%E0%A9%80%E0%A8%A8%E0%A8%BE" title="ਬੋਸਨੀਆ ਅਤੇ ਹਰਜ਼ੇਗੋਵੀਨਾ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="बास्निया – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pag"><a href="https://pag.wikipedia.org/wiki/Bosnia_tan_Hersegobina" title="Bosnia tan Hersegobina – Pangasinan" lang="pag" hreflang="pag" class="interlanguage-link-target">Pangasinan</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D9%86%DB%8C%D8%A7_%D8%AA%DB%92_%DB%81%D8%B1%D8%B2%DB%8C%DA%AF%D9%88%D9%88%DB%8C%D9%86%D8%A7" title="بوسنیا تے ہرزیگووینا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Bosnia_Herzogovina" title="Bosnia Herzogovina – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Baznia_ah_Oerzigoviina" title="Baznia ah Oerzigoviina – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B0-%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босна-Герцеговина – Komi-Permyak" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем коми</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Bosnie-%C3%89rz%C3%A9govine" title="Bosnie-Érzégovine – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/B%C3%B2snia_e_Erzeg%C3%B2vina" title="Bòsnia e Erzegòvina – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Bosnia_na_Hesegovina" title="Bosnia na Hesegovina – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Bosnien-Herzegowina" title="Bosnien-Herzegowina – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Bo%C5%9Bnia_i_Hercegowina" title="Bośnia i Hercegowina – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%92%CE%BF%CF%83%CE%BD%CE%AF%CE%B1_%CE%BA%CE%B1%CE%B9_%CE%95%CF%81%CE%B6%CE%B5%CE%B3%CE%BF%CE%B2%CE%AF%CE%BD%CE%B7" title="Βοσνία και Ερζεγοβίνη – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/B%C3%B3snia_e_Herzegovina" title="Bósnia e Herzegovina – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Bosniya_ha%27m_Gertsegovina" title="Bosniya ha'm Gertsegovina – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Bosna_ve_Hersek" title="Bosna ve Hersek – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ty"><a href="https://ty.wikipedia.org/wiki/P%C5%8Dtinia-Heret%C5%8Dvina" title="Pōtinia-Heretōvina – Tahitian" lang="ty" hreflang="ty" class="interlanguage-link-target">Reo tahiti</a></li>
+       <li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Bosnien-Herzegovina" title="Bosnien-Herzegovina – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Bosnia_%C8%99i_Her%C8%9Begovina" title="Bosnia și Herțegovina – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Bosnia_ed_Erzegovina" title="Bosnia ed Erzegovina – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Busna-Hirsiquwina" title="Busna-Hirsiquwina – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D1%96%D1%8F_%D1%96_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D2%91%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Боснія і Герцеґовина – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния и Герцеговина – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D1%83%D0%BE%D0%BD%D0%BD%D0%B0_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния уонна Херцеговина – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Bosnia_and_herzegovina" title="Bosnia and herzegovina – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Bosnia_ma_Herzegovina" title="Bosnia ma Herzegovina – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="बास्निया – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/Bosn%C3%AFi_na_Herzegov%C3%AEnni" title="Bosnïi na Herzegovînni – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%B5%E1%B1%9A%E1%B1%A5%E1%B1%B1%E1%B1%A4%E1%B1%AD%E1%B1%9F_%E1%B1%9F%E1%B1%A8_%E1%B1%A6%E1%B1%9F%E1%B1%A8%E1%B1%A1%E1%B1%AE%E1%B1%9C%E1%B1%B3%E1%B1%B5%E1%B1%B7%E1%B1%A4%E1%B1%B1%E1%B1%9F" title="ᱵᱚᱥᱱᱤᱭᱟ ᱟᱨ ᱦᱟᱨᱡᱮᱜᱳᱵᱷᱤᱱᱟ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/B%C3%B2snia_e_Erzeg%C3%B2vina" title="Bòsnia e Erzegòvina – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Bosnie_an_Herzegovinae" title="Bosnie an Herzegovinae – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Bosnien_un_Herzegowina" title="Bosnien un Herzegowina – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Bosnja_dhe_Hercegovina" title="Bosnja dhe Hercegovina – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Bosnia-Erzegovina" title="Bosnia-Erzegovina – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B7%9C%E0%B7%83%E0%B7%8A%E0%B6%B1%E0%B7%92%E0%B6%BA%E0%B7%8F_%E0%B7%83%E0%B7%84_%E0%B7%84%E0%B6%BB%E0%B7%8A%E0%B7%83%E0%B6%9C%E0%B7%9D%E0%B7%80%E0%B7%92%E0%B6%B1%E0%B7%8F" title="බොස්නියා සහ හර්සගෝවිනා – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D9%8A%D9%86%D9%8A%D8%A7_%DB%BD_%DA%BE%D8%B1%D8%B2%DA%AF%D9%88%D9%8A%D9%86%D9%8A%DB%81" title="بوسينيا ۽ ھرزگوينيہ – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/IBhosinya_ne_Hezegovi" title="IBhosinya ne Hezegovi – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Bosna_a_Hercegovina" title="Bosna a Hercegovina – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Bosna_in_Hercegovina" title="Bosna in Hercegovina – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B0_%D0%B8_%D0%A5%D1%94%D1%80%D1%81%D1%94%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босна и Хєрсєговина – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Bo%C5%9B%C5%84a_a_Hercegowina" title="Bośńa a Hercegowina – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Bosniya" title="Bosniya – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A8%DB%86%D8%B3%D9%86%DB%8C%D8%A7_%D9%88_%DA%BE%DB%95%D8%B1%D8%B2%DB%95%DA%AF%DB%86%DA%A4%DB%8C%D9%86%D8%A7" title="بۆسنیا و ھەرزەگۆڤینا – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Bosnikondre" title="Bosnikondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B0_%D0%B8_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босна и Херцеговина – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Bosna_i_Hercegovina" title="Bosna i Hercegovina – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Bosnia_jeung_H%C3%A9rz%C3%A9govina" title="Bosnia jeung Hérzégovina – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Bosnia_ja_Hertsegovina" title="Bosnia ja Hertsegovina – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bosnien_och_Hercegovina" title="Bosnien och Hercegovina – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Bosnia_at_Herzegovina" title="Bosnia at Herzegovina – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8A%E0%AE%9A%E0%AF%81%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%BE_%E0%AE%8E%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AF%86%E0%AE%95%E0%AF%8B%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AE%BE" title="பொசுனியா எர்செகோவினா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Busnya_ed_Hirziguvina" title="Busnya ed Hirziguvina – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Bosnie-Erzegovine" title="Bosnie-Erzegovine – Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target">Tarandíne</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D2%BB%D3%99%D0%BC_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния һәм Герцеговина – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%80%95%E1%80%B1%E1%82%83%E1%80%B8%E1%80%9E%E1%81%BC%E1%80%AE%E1%80%B8%E1%80%9A%E1%82%83%E1%80%B8_%E1%80%9C%E1%82%84%E1%82%88_%E1%82%81%E1%82%83%E1%82%87%E1%81%B8%E1%80%AE%E1%82%87%E1%81%B5%E1%80%B0%E1%80%9D%E1%80%BA%E1%80%B8%E1%80%9D%E1%80%AE%E1%80%B8%E1%81%BC%E1%82%83%E1%80%B8" title="မိူင်းပေႃးသၼီးယႃး လႄႈ ႁႃႇၸီႇၵူဝ်းဝီးၼႃး – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AC%E0%B1%8B%E0%B0%B8%E0%B1%8D%E0%B0%A8%E0%B0%BF%E0%B0%AF%E0%B0%BE,_%E0%B0%B9%E0%B1%86%E0%B0%B0%E0%B1%8D%E0%B0%9C%E0%B1%86%E0%B0%97%E0%B1%8B%E0%B0%B5%E0%B0%BF%E0%B0%A8%E0%B0%BE" title="బోస్నియా, హెర్జెగోవినా – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/B%C3%B3znia_no_Erzegovina" title="Bóznia no Erzegovina – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9A%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B9%82%E0%B8%81%E0%B8%A7%E0%B8%B5%E0%B8%99%E0%B8%B2" title="ประเทศบอสเนียและเฮอร์เซโกวีนา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B0_%D2%B2%D0%B5%D1%80%D1%81%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния ва Ҳерсеговина – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8F%89%E1%8F%8F%E1%8F%82%E1%8E%A0_%E1%8E%A0%E1%8E%B4_%E1%8E%B2%E1%8F%A4%E1%8E%AA%E1%8F%AB" title="ᏉᏏᏂᎠ ᎠᎴ ᎲᏤᎪᏫ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bosna-Hersek" title="Bosna-Hersek – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Bosni%C3%BDa_we_Gersegowina" title="Bosniýa we Gersegowina – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D1%8F_%D0%BD%D0%BE_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босния но Герцеговина – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BD%D1%96%D1%8F_%D1%96_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Боснія і Герцеговина – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D9%86%DB%8C%D8%A7_%D9%88_%DB%81%D8%B1%D8%B2%DB%8C%DA%AF%D9%88%D9%88%DB%8C%D9%86%D8%A7" title="بوسنیا و ہرزیگووینا – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%A8%D9%88%D8%B3%D9%86%D9%89%D9%8A%DB%95_%DB%8B%DB%95_%DA%BE%DB%90%D8%B1%D8%B3%DB%90%DA%AF%D9%88%DB%8B%D9%89%D9%86%D8%A7" title="بوسنىيە ۋە ھېرسېگوۋىنا – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Bosnia_caeuq_Herzegovina" title="Bosnia caeuq Herzegovina – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/B%C3%B2snia_e_Erxeg%C3%B2vena" title="Bòsnia e Erxegòvena – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Bosnii_da_Gercegovin" title="Bosnii da Gercegovin – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Bosna_v%C3%A0_Hercegovina" title="Bosna và Hercegovina – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Bosn%C3%A4n_e_H%C3%A4rzegov%C3%A4n" title="Bosnän e Härzegovän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Bosnia_ja_Hertsegoviina" title="Bosnia ja Hertsegoviina – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Bosneye" title="Bosneye – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E6%B3%A2%E5%A3%AB%E5%B0%BC%E4%BA%9E%E8%B5%AB%E5%A1%9E%E5%93%A5%E7%B6%AD%E7%B4%8D" title="波士尼亞赫塞哥維納 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Bosni%C3%AB-Herzegovina" title="Bosnië-Herzegovina – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Bosnya_ngan_Hersegovina" title="Bosnya ngan Hersegovina – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Bosni" title="Bosni – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9A%E6%90%AD%E9%BB%91%E5%A1%9E%E5%93%A5%E7%BB%B4%E9%82%A3" title="波斯尼亚搭黑塞哥维那 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%91%D7%90%D7%A1%D7%A0%D7%99%D7%A2_%D7%90%D7%95%D7%9F_%D7%94%D7%A2%D7%A8%D7%A6%D7%A2%D7%92%D7%90%D7%95%D7%95%D7%99%D7%A0%D7%A2" title="באסניע און הערצעגאווינע – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/B%C3%B3sn%C3%AD%C3%A0_%C3%A0ti_H%E1%BA%B9rj%E1%BA%B9g%C3%B2f%C3%ADn%C3%A0" title="Bósníà àti Hẹrjẹgòfínà – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9E" title="波斯尼亞 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Bosna_u_Hersek" title="Bosna u Hersek – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Bosni%C3%AB-Hercegovina" title="Bosnië-Hercegovina – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Bosn%C4%97j%C4%97_%C4%97r_Hercuogov%C4%97na" title="Bosnėjė ėr Hercuogovėna – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9A%E5%92%8C%E9%BB%91%E5%A1%9E%E5%93%A5%E7%BB%B4%E9%82%A3" title="波斯尼亚和黑塞哥维那 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q225#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 10 December 2020, at 03:05.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Bosnia_and_Herzegovina&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.696","walltime":"0.836","ppvisitednodes":{"value":4171,"limit":1000000},"postexpandincludesize":{"value":100212,"limit":2097152},"templateargumentsize":{"value":10546,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33711,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  707.790      1 -total"," 57.48%  406.840      1 Template:Infobox_country"," 56.01%  396.412      3 Template:Infobox"," 21.87%  154.767      1 Template:Reflist"," 20.06%  141.963     10 Template:Cite_web"," 12.88%   91.187      1 Template:Commonscat-inline"," 12.32%   87.204      2 Template:Sister-inline"," 11.13%   78.756      3 Template:ISO_3166_code","  8.73%   61.773      1 Template:Infobox_country/imagetable","  6.66%   47.161     17 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.298","limit":"10.000"},"limitreport-memusage":{"value":6408712,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20201226132914","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bosnia and Herzegovina","url":"https:\/\/simple.wikipedia.org\/wiki\/Bosnia_and_Herzegovina","sameAs":"http:\/\/www.wikidata.org\/entity\/Q225","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q225","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-26T18:38:52Z","dateModified":"2020-12-10T03:05:52Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bf\/Flag_of_Bosnia_and_Herzegovina.svg","headline":"sovereign state in southeastern Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":253,"wgHostname":"mw1409"});});</script> 
+ </body>
+</html>

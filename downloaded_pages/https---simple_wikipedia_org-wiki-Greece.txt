@@ -1,0 +1,1134 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Greece - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAAEMAAHSKha4AAACA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Greece","wgTitle":"Greece","wgCurRevisionId":7118628,"wgRevisionId":7118628,"wgArticleId":2133,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using duplicate arguments in template calls","CS1 uses Greek-language script (el)","CS1 Greek-language sources (el)","Articles containing Greek-language text","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers",
+"Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLG identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Members of NATO","Greece","European Union member states"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Greece","wgRelevantArticleId":2133,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr",
+"pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q41"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js",
+"ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1200px-Flag_of_Greece.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Greece"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Greece&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Greece&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Greece"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Greece rootpage-Greece skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Greece</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Hellenic Republic
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <span style="font-size:85%;">Ελληνική Δημοκρατία<br><i lang="el" title="Greek language text">Ellinikí Dimokratía</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Greek_language" title="Greek language">Greek</a>)</span></span>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Greece.svg" class="image" title="Flag of Greece"><img alt="Flag of Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/125px-Flag_of_Greece.svg.png" decoding="async" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/188px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/250px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Greece" title="Flag of Greece">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Greece.svg" class="image" title="Coat of arms of Greece"><img alt="Coat of arms of Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coat_of_arms_of_Greece.svg/85px-Coat_of_arms_of_Greece.svg.png" decoding="async" width="85" height="87" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coat_of_arms_of_Greece.svg/128px-Coat_of_arms_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coat_of_arms_of_Greece.svg/170px-Coat_of_arms_of_Greece.svg.png 2x" data-file-width="281" data-file-height="286"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Coat_of_arms_of_Greece" title="Coat of arms of Greece"> Coat of arms</a>
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b>«<a href="/w/index.php?title=Eleftheria_i_thanatos&amp;action=edit&amp;redlink=1" class="new" title="Eleftheria i thanatos (not yet started)">Ελευθερία ή Θάνατος</a>»
+           <br>Elefthería í Thánatos
+           <br><span style="font-size:85%;">"Freedom or Death"</span>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b>«<a href="/wiki/Hymn_to_Liberty" title="Hymn to Liberty">Ύμνος εις την Ελευθερίαν</a>»
+           <br>Ýmnos eis tin Eleftherían
+           <br><span style="font-size:85%;">"Hymn to Liberty"</span>
+           <br>
+           <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="45.296326530612" data-startoffset="0" data-mwtitle="Hymn_to_liberty_instrumental.oga" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (139 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="139390">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/d/db/Hymn_to_liberty_instrumental.oga/Hymn_to_liberty_instrumental.oga.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="200960">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymn_to_liberty_instrumental.oga&amp;lang=el&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="el" label="Ελληνικά (el) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymn_to_liberty_instrumental.oga&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymn_to_liberty_instrumental.oga&amp;lang=es&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="es" label="español (es) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymn_to_liberty_instrumental.oga&amp;lang=fr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="fr" label="français (fr) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymn_to_liberty_instrumental.oga&amp;lang=grc&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="grc" label="Ἀρχαία ἑλληνικὴ (grc) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymn_to_liberty_instrumental.oga&amp;lang=ko&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ko" label="한국어 (ko) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymn_to_liberty_instrumental.oga&amp;lang=vi&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="vi" label="Tiếng Việt (vi) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymn_to_liberty_instrumental.oga&amp;lang=zh-hant&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="zh-Hant" label="中文（繁體）‎ (zh-hant) subtitles" data-dir="ltr">
+             </audio>
+            </div>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:EU-Greece.svg" class="image" title="Location of &nbsp;Greece&nbsp;&nbsp;(dark green) –&nbsp;on the European continent&nbsp;&nbsp;(green &amp;&nbsp;dark grey) –&nbsp;in the European Union&nbsp;&nbsp;(green)&nbsp; —&nbsp; [Legend]"><img alt="Location of &nbsp;Greece&nbsp;&nbsp;(dark green) –&nbsp;on the European continent&nbsp;&nbsp;(green &amp;&nbsp;dark grey) –&nbsp;in the European Union&nbsp;&nbsp;(green)&nbsp; —&nbsp; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Greece.svg/250px-EU-Greece.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Greece.svg/375px-EU-Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Greece.svg/500px-EU-Greece.svg.png 2x" data-file-width="2045" data-file-height="1720"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Greece</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark green</span>)</span>
+            <p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&nbsp;on the <a href="/wiki/Europe" title="Europe">European continent</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green &amp;&nbsp;dark grey</span>)<br>–&nbsp;in the <a href="/wiki/European_Union" title="European Union">European Union</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:EU-Greece.svg" title="File:EU-Greece.svg">Legend</a></span>]</p>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Athens" title="Athens">Athens</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Greece&amp;params=37_58_N_23_43_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°58′N</span> <span class="longitude">23°43′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.967°N 23.717°E</span><span style="display:none">﻿ / <span class="geo">37.967; 23.717</span></span></span></a></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/National_language" title="National language">National language</a></th>
+         <td><a href="/wiki/Greek_language" title="Greek language">Greek</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td><a href="/wiki/Eastern_Orthodoxy" class="mw-redirect" title="Eastern Orthodoxy">Eastern Orthodoxy</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td><a href="/w/index.php?title=Greek_people&amp;action=edit&amp;redlink=1" class="new" title="Greek people (not yet started)">Greek</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><span class="nowrap"><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a><br><a href="/wiki/Republic" title="Republic">republic</a></span></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_Greece" title="President of Greece">President</a> 
+          </div></th>
+         <td><a href="/wiki/Katerina_Sakellaropoulou" title="Katerina Sakellaropoulou">Katerina Sakellaropoulou</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Prime_Minister_of_Greece" title="Prime Minister of Greece">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Kyriakos_Mitsotakis" title="Kyriakos Mitsotakis">Kyriakos Mitsotakis</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Speaker_of_the_Hellenic_Parliament" title="Speaker of the Hellenic Parliament">Speaker of the Parliament</a> 
+          </div></th>
+         <td><a href="/wiki/Konstantinos_Tasoulas" title="Konstantinos Tasoulas">Konstantinos Tasoulas</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/wiki/Hellenic_Parliament" title="Hellenic Parliament">Hellenic Parliament</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=History_of_modern_Greece&amp;action=edit&amp;redlink=1" class="new" title="History of modern Greece (not yet started)">Formation of modern Greece</a></th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Greek_War_of_Independence" title="Greek War of Independence">Independence declared</a> 
+           <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">from the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a></span> 
+          </div></th>
+         <td>25 March 1821 (traditional starting date of the <a href="/wiki/Greek_War_of_Independence" title="Greek War of Independence">Greek War of Independence</a>), 15 January 1822 (official declaration in the <a href="/w/index.php?title=First_National_Assembly_at_Epidaurus&amp;action=edit&amp;redlink=1" class="new" title="First National Assembly at Epidaurus (not yet started)">First National Assembly at Epidaurus</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=London_Protocol_(1830)&amp;action=edit&amp;redlink=1" class="new" title="London Protocol (1830) (not yet started)">Recognized</a> 
+          </div></th>
+         <td>3 February 1830</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<span class="nowrap"><a href="/w/index.php?title=Constitution_of_Greece&amp;action=edit&amp;redlink=1" class="new" title="Constitution of Greece (not yet started)">Current constitution</a></span> 
+          </div></th>
+         <td>11 June 1975</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>131,957&nbsp;km<sup>2</sup> (50,949&nbsp;sq&nbsp;mi)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">95th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>0.8669</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2016 estimate
+          </div></th>
+         <td>11,183,716 <img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><sup id="cite_ref-UN_WPP_2-0" class="reference"><a href="#cite_note-UN_WPP-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2011&nbsp;census
+          </div></th>
+         <td>10,816,286<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">80th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>82<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>/km<sup>2</sup> (212.4/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">125th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2019&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$324 billion<sup id="cite_ref-IMF_GDP_5-0" class="reference"><a href="#cite_note-IMF_GDP-5">[5]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">57th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$30,252<sup id="cite_ref-IMF_GDP_5-1" class="reference"><a href="#cite_note-IMF_GDP-5">[5]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">47th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2019&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$214 billion<sup id="cite_ref-IMF_GDP_5-2" class="reference"><a href="#cite_note-IMF_GDP-5">[5]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">52nd</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$19,974<sup id="cite_ref-IMF_GDP_5-3" class="reference"><a href="#cite_note-IMF_GDP-5">[5]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">38th</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2016)</span></th>
+         <td><img alt="Negative increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/11px-Increase_Negative.svg.png" decoding="async" title="Negative increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/17px-Increase_Negative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/22px-Increase_Negative.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;34.3<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/w/index.php?title=List_of_countries_by_income_equality&amp;action=edit&amp;redlink=1" class="new" title="List of countries by income equality (not yet started)">60th</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2015)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.866<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkgreen">very high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">29th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/Euro" title="Euro">Euro</a> (<a href="/wiki/Euro_sign" title="Euro sign">€</a>) (<a href="/wiki/ISO_4217" title="ISO 4217">EUR</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Eastern_European_Time" title="Eastern European Time">Eastern European Time</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3</span> (<a href="/wiki/Eastern_European_Summer_Time" title="Eastern European Summer Time">Eastern European Summer Time</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Date format</th>
+         <td>dd/mm/yyyy&nbsp;(<a href="/wiki/Anno_Domini" title="Anno Domini">AD</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=Telephone_numbers_in_Greece&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in Greece (not yet started)">+30</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:GR&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:GR (not yet started)">GR</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.gr" class="mw-redirect" title=".gr">.gr</a><sup>a</sup><br><a href="/w/index.php?title=.%CE%B5%CE%BB&amp;action=edit&amp;redlink=1" class="new" title=".ελ (not yet started)">.ελ</a></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
+            <li value="1">The <a href="/wiki/.eu" class="mw-redirect" title=".eu">.eu</a> domain is also used, as in other <a href="/wiki/European_Union" title="European Union">European Union</a> member states.</li> 
+           </ol>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Greece</b> (<a href="/wiki/Greek_language" title="Greek language">Greek</a>: <span lang="el">Ελλάδα</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[eˈlaða]</span> or <span lang="el" title="Greek language text">Ελλάς</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[eˈlas]</span>), officially the <b>Hellenic Republic</b> (<a href="/wiki/Greek_language" title="Greek language">Greek</a>: <span lang="el">Ελληνική Δημοκρατία</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[eliniˈkʲi ðimokraˈtia]</span>),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> (historically known as <b>Hellas</b>) (Greek: Ελλάς), is a <a href="/wiki/Country" title="Country">country</a> in <a href="/wiki/Southeastern_Europe" class="mw-redirect" title="Southeastern Europe">Southeastern Europe</a>. Its <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital city</a> is <a href="/wiki/Athens" title="Athens">Athens</a>. </p>
+      <p>It borders <a href="/wiki/Albania" title="Albania">Albania</a>, <a href="/wiki/North_Macedonia" title="North Macedonia">North Macedonia</a> and <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> to the north, and <a href="/wiki/Turkey" title="Turkey">Turkey</a> to the east. The <a href="/wiki/Aegean_Sea" title="Aegean Sea">Aegean Sea</a> is to the East and South of mainland Greece, the <a href="/wiki/Ionian_Sea" title="Ionian Sea">Ionian Sea</a> is to the West. Both are part of the Eastern <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> and have many islands. 80% of the country is mountainous, with <a href="/wiki/Olympus" title="Olympus">Mount Olympus</a> being the highest peak. </p>
+      <p><a href="/wiki/Ancient_Greece" title="Ancient Greece">Ancient Greece</a> created <a href="/wiki/Democracy" title="Democracy">democracy</a>, <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, <a href="/wiki/Science" title="Science">science</a> and <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, <a href="/wiki/Drama" title="Drama">drama</a> and <a href="/wiki/Theatre" title="Theatre">theater</a> and the <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic Games</a>. </p>
+      <p>Greece is a <a href="/wiki/Parliamentary_republic" title="Parliamentary republic">parliamentary republic</a>, in which the leader of the party with more seats in the <a href="/wiki/Parliament" title="Parliament">parliament</a> is the <a href="/wiki/Prime_Minister_of_Greece" title="Prime Minister of Greece">Prime Minister</a>. The country has a President, but his powers are ceremonial. He is the <a href="/wiki/Head_of_state" title="Head of state">head of state</a>, not head of government, much like how Kings and Queens operate in <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchies</a> and is elected by <a href="/wiki/Parliament" title="Parliament">Parliament</a> and not the people. Its economy is the highest in the <a href="/wiki/Balkans" title="Balkans">Balkans</a> region, though facing financial difficulties due to a <a href="/wiki/Greek_government-debt_crisis" title="Greek government-debt crisis">Greek government-debt crisis</a>. </p>
+      <p>The <a href="/wiki/Official_language" title="Official language">official language</a> spoken in Greece is <a href="/wiki/Greek_language" title="Greek language">Greek</a>, spoken by 99% of the population and 90% of the population identifies as <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Christian Orthodox</a>. Many Greeks also understand <a href="/wiki/English_language" title="English language">English</a>, <a href="/wiki/French_language" title="French language">French</a> and <a href="/wiki/German_language" title="German language">German</a>, which are taught in schools. Greece was a founding member of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a>, joined NATO in 1952, became a member of the <a href="/wiki/European_Union" title="European Union">European Union</a> in <a href="/wiki/1981" title="1981">1981</a> and adopted the <a href="/wiki/Euro" title="Euro">Euro</a> in 2001. Due to the large tourism industry, powerful shipping sector and its geostrategic importance, it is classified as a <a href="/w/index.php?title=Middle_power&amp;action=edit&amp;redlink=1" class="new" title="Middle power (not yet started)">middle power</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Politics"><span class="tocnumber">2</span> <span class="toctext">Politics</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#Divisions"><span class="tocnumber">2.1</span> <span class="toctext">Divisions</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-5"><a href="#People"><span class="tocnumber">3.1</span> <span class="toctext">People</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Greek_flag"><span class="tocnumber">4</span> <span class="toctext">Greek flag</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Economy"><span class="tocnumber">5</span> <span class="toctext">Economy</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Tourism"><span class="tocnumber">6</span> <span class="toctext">Tourism</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Related_pages"><span class="tocnumber">7</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greece&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Greece&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Further information: <a href="/wiki/Ancient_Greece" title="Ancient Greece">Ancient Greece</a>
+      </div> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Parthenon.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Parthenon.JPG/220px-Parthenon.JPG" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Parthenon.JPG/330px-Parthenon.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Parthenon.JPG/440px-Parthenon.JPG 2x" data-file-width="3456" data-file-height="2304"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Parthenon.JPG" class="internal" title="Enlarge"></a>
+         </div>The <a href="/wiki/Parthenon" title="Parthenon">Parthenon</a> in <a href="/wiki/Athens" title="Athens">Athens</a>.
+        </div>
+       </div>
+      </div> 
+      <p><a href="/wiki/Ancient_Greece" title="Ancient Greece">Greece's history</a> is one of the richest in the world. The Greeks were one of the most advanced civilizations. Greece is famous for its many <a href="/wiki/Philosophers" class="mw-redirect" title="Philosophers">philosophers</a>, like <a href="/wiki/Plato" title="Plato">Plato</a> and <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>, and kings like <a href="/wiki/Alexander_the_Great" title="Alexander the Great">Alexander the Great</a> and <a href="/wiki/Leonidas" class="mw-redirect" title="Leonidas">Leonidas</a>. Greece is said to be the <i>birthplace of <a href="/wiki/Democracy" title="Democracy">Democracy</a></i>, because city-states like <a href="/wiki/Athens" title="Athens">Athens</a>, now the capital of Greece, were the first to elect their leaders and not have <a href="/wiki/King" title="King">kings</a>. During the years of <a href="/wiki/Alexander_the_Great" title="Alexander the Great">Alexander the Great</a>, a huge Macedonian empire was created that stretched from modern-day Greece to <a href="/wiki/Egypt" title="Egypt">Egypt</a> and <a href="/wiki/Iran" title="Iran">Iran</a>, until the borders of <a href="/wiki/India" title="India">India</a>. Because of the significant role that Greek culture played during that time, it is called the <a href="/wiki/Hellenistic_period" title="Hellenistic period">Hellenistic period</a> (or <i>Greek-dominated period</i>). During that time, the <a href="/wiki/Greek_language" title="Greek language">Greek language</a> became the '<a href="/wiki/Lingua_franca" title="Lingua franca">lingua franca</a>' of the <a href="/wiki/Middle_East" title="Middle East">Middle East</a>, which means the language that people who do not speak the same language use to communicate, like <a href="/wiki/English_language" title="English language">English</a> is used today as an international language. </p>
+      <p>Greece was then ruled by the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a>, and many argue that Rome conquered Greece with its army, but Greece conquered Rome with its culture. The Roman Empire after the conquest of Greece became a civilization known as the Greco-Roman (or Greek-Roman) civilization. When the Roman Empire collapsed, the Greeks emerged as the ruling class of the <a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine Empire</a>, and the <a href="/wiki/Greek_language" title="Greek language">Greek language</a> became the official language of the empire, which included all the territories around the eastern <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>. It was then occupied by the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a> for a period of 400 years. Some areas of Greece, like the second-largest city in the country, <a href="/wiki/Thessaloniki" title="Thessaloniki">Thessaloniki</a>, were occupied for 500 years and became part of Greece in the early 20th century. </p> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Territorial_Expansion_of_Greece_from_1832%E2%80%931947.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Territorial_Expansion_of_Greece_from_1832%E2%80%931947.gif/220px-Territorial_Expansion_of_Greece_from_1832%E2%80%931947.gif" decoding="async" width="220" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Territorial_Expansion_of_Greece_from_1832%E2%80%931947.gif/330px-Territorial_Expansion_of_Greece_from_1832%E2%80%931947.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Territorial_Expansion_of_Greece_from_1832%E2%80%931947.gif/440px-Territorial_Expansion_of_Greece_from_1832%E2%80%931947.gif 2x" data-file-width="868" data-file-height="624"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Territorial_Expansion_of_Greece_from_1832%E2%80%931947.gif" class="internal" title="Enlarge"></a>
+         </div>Greece was bigger in 1920 than it is today.
+        </div>
+       </div>
+      </div> 
+      <p>The <a href="/wiki/Greek_War_of_Independence" title="Greek War of Independence">Greek War of Independence</a> began in 1821 and Greece was an independent country (a republic) in 1828. In 1832 Greece was made a kingdom by the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> and <a href="/wiki/Russia" title="Russia">Russia</a>, under the <a href="/wiki/Germany" title="Germany">German</a> Wittelsbach dynasty. </p>
+      <p>In 1912, Greece took part in the <a href="/wiki/Balkan_Wars" title="Balkan Wars">Balkan Wars</a>, where it gained many of the territories that make up the country now, such as <a href="/wiki/Greek_Macedonia" class="mw-redirect" title="Greek Macedonia">Greek Macedonia</a> and the islands of the <a href="/wiki/Aegean_Sea" title="Aegean Sea">Aegean Sea</a>. Greece fought in both <a href="/wiki/World_War_I" title="World War I">World War I</a> and <a href="/wiki/World_War_II" title="World War II">World War II</a> in the side of allies. During <a href="/wiki/World_War_I" title="World War I">World War I</a>, Greece was divided into two countries, the <a href="/w/index.php?title=State_of_Thessaloniki&amp;action=edit&amp;redlink=1" class="new" title="State of Thessaloniki (not yet started)">State of Thessaloniki</a> in the north and the <a href="/w/index.php?title=State_of_Athens&amp;action=edit&amp;redlink=1" class="new" title="State of Athens (not yet started)">State of Athens</a> in the south. Both countries claimed to be the legitimate government of Greece, but the State of Thessaloniki received support from the Allies. The country was reunited in 1917, when the King abdicated. In 1920 Greece expanded again, and briefly reached its maximum size. The territories that the country had gained in <a href="/wiki/Turkey" title="Turkey">Turkey</a> were given back to Turkey in the 1923 <a href="/wiki/Treaty_of_Lausanne" title="Treaty of Lausanne">Treaty of Lausanne</a>, but Greece kept Western <a href="/wiki/Thrace" title="Thrace">Thrace</a>. The king returned in 1935, and Greece was under a <a href="/wiki/Fascism" title="Fascism">fascist</a> <a href="/wiki/Dictatorship" title="Dictatorship">dictatorship</a> from 1936 until 1941, friendly to the Allies, when it was invaded by <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a>. </p>
+      <p>In 1940, Greece was invaded by <a href="/wiki/Italy" title="Italy">Italy</a>, but defeated the invasion. This was the first victory of an <a href="/wiki/Allies_of_World_War_II" title="Allies of World War II">Allied country</a> against an <a href="/wiki/Axis_countries" title="Axis countries">Axis power</a>. After this, <a href="/wiki/Hitler" class="mw-redirect" title="Hitler">Hitler</a> decided to attack Greece sooner than he had planned. Germany invaded on <a href="/wiki/6_April" class="mw-redirect" title="6 April">6 April</a> <a href="/wiki/1940" title="1940">1940</a> and captured Greece's second-largest city of <a href="/wiki/Thessaloniki" title="Thessaloniki">Thessaloniki</a> on 9 April, while Athens was captured on 27 April. Most fighting ended with the <a href="/wiki/Battle_of_Crete" title="Battle of Crete">Battle of Crete</a>. Greece suffered major damages in the war. </p>
+      <p>Between 1946 and 1949, the Greeks fought a <a href="/wiki/Civil_war" title="Civil war">civil war</a>. The fighting was between the <a href="/wiki/Communists" class="mw-redirect" title="Communists">communists</a> and the people who supported the <a href="/wiki/King" title="King">king</a>, who also had support from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> and the <a href="/wiki/United_States" title="United States">United States</a>. The war left the country devastated and the people very poor. </p>
+      <p>In 1967 the military took control of the country and restricted democracy. Free elections were then held again 7 years later, and the Greeks voted to send the <a href="/wiki/King" title="King">king</a> away and declared a <a href="/wiki/Republic" title="Republic">republic</a> in 1974. Greece became a member of the <a href="/wiki/European_Union" title="European Union">European Union</a> in 1981. Greece had seen rapid growth in the 1990s, but some of the country's economic statistics were modified to appear more correct than they were, as the government had lied with the help of banks from the <a href="/wiki/United_States" title="United States">United States</a>. In 2004, Greece hosted the <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic Games</a> for a second time. Since 2009, Greece has been in an economic crisis, which is also becoming a political crisis. </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:282px;">
+        <a href="/wiki/File:Greece_topo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Greece_topo.jpg/280px-Greece_topo.jpg" decoding="async" width="280" height="239" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Greece_topo.jpg/420px-Greece_topo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Greece_topo.jpg/560px-Greece_topo.jpg 2x" data-file-width="1400" data-file-height="1193"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Greece_topo.jpg" class="internal" title="Enlarge"></a>
+         </div>The <a href="/wiki/Topography" title="Topography">topography</a> of Greece
+        </div>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greece&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Politics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Greece&amp;action=edit&amp;section=2" title="Change section: Politics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Hellenic_Parliament-MPs_swearing_in.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hellenic_Parliament-MPs_swearing_in.png/220px-Hellenic_Parliament-MPs_swearing_in.png" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hellenic_Parliament-MPs_swearing_in.png/330px-Hellenic_Parliament-MPs_swearing_in.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hellenic_Parliament-MPs_swearing_in.png/440px-Hellenic_Parliament-MPs_swearing_in.png 2x" data-file-width="640" data-file-height="427"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Hellenic_Parliament-MPs_swearing_in.png" class="internal" title="Enlarge"></a>
+         </div>The Greek <a href="/wiki/Parliament" title="Parliament">parliament</a> is in <a href="/wiki/Athens" title="Athens">Athens</a>.
+        </div>
+       </div>
+      </div> 
+      <p>Greece is not a federal state like the <a href="/wiki/United_States" title="United States">United States</a>, but a <a href="/wiki/Unitary_state" title="Unitary state">unitary state</a> like the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>. It is ruled by a <a href="/wiki/Parliament" title="Parliament">parliament</a>, called the <i>Hellenic Parliament</i> (or <i>Greek Parliament</i> in Simple English), which has 300 members. It is a <a href="/wiki/Parliamentary_republic" title="Parliamentary republic">parliamentary republic</a>, which means that, unlike in the <a href="/wiki/United_States" title="United States">United States</a>, the <a href="/wiki/President" title="President">President</a> has very few powers. The person in charge of the government of Greece is the <a href="/wiki/Prime_Minister" class="mw-redirect" title="Prime Minister">Prime Minister</a>. </p>
+      <p>Greece was a kingdom for most of its history as an independent nation. It officially became the <i>Third Hellenic Republic</i> (or <i>Third Republic of Greece</i> in Simple English) in 1975, when the monarchy was abolished by a popular vote. </p>
+      <p>Greece was under a <a href="/wiki/Military_dictatorship" class="mw-redirect" title="Military dictatorship">military dictatorship</a> between 1966 and 1975. Demonstrations by the students of the universities across Greece took place in 1973, but were suppressed by the regime, which forcibly stopped the protests. The dictatorship collapsed after the <a href="/w/index.php?title=Invasion_of_Cyprus&amp;action=edit&amp;redlink=1" class="new" title="Invasion of Cyprus (not yet started)">invasion of Cyprus</a>, and handed over power to <a href="/w/index.php?title=Constantine_Karamanlis&amp;action=edit&amp;redlink=1" class="new" title="Constantine Karamanlis (not yet started)">Constantine Karamanlis</a>. </p>
+      <p>There are many political parties in Greece, but only seven are in the Greek parliament. Until 2015, only two political parties formed governments, the PASOK party (which is <a href="/wiki/Social_democrat" class="mw-redirect" title="Social democrat">social democratic</a>) and New Democracy (ND, which is <a href="/wiki/Conservatism" title="Conservatism">conservative</a>). The government ousted in the 2015 election was led by PASOK, DIMAR AND ND. Other parties include the <a href="/wiki/Communist" class="mw-redirect" title="Communist">Communist</a> party, the left-wing <a href="/wiki/SYRIZA" title="SYRIZA">SYRIZA</a> party, the <a href="/wiki/Nationalist" class="mw-redirect" title="Nationalist">nationalist</a> party and others. <a href="/wiki/SYRIZA" title="SYRIZA">SYRIZA</a>, led by <a href="/wiki/Alexis_Tsipras" title="Alexis Tsipras">Alexis Tsipras</a>, won the <a href="/wiki/2015" title="2015">2015</a> <a href="/wiki/Parliament" title="Parliament">parliamentary</a> election held on <a href="/wiki/January_25" title="January 25">January 25</a> of that year, and entered into a coalition government with the small right-wing party <i>Greek Independents</i>. </p> 
+      <h3><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greece&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Divisions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Greece&amp;action=edit&amp;section=3" title="Change section: Divisions">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:GreeceNumberedPerepheries.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/GreeceNumberedPerepheries.png/220px-GreeceNumberedPerepheries.png" decoding="async" width="220" height="224" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/GreeceNumberedPerepheries.png/330px-GreeceNumberedPerepheries.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9d/GreeceNumberedPerepheries.png 2x" data-file-width="400" data-file-height="408"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:GreeceNumberedPerepheries.png" class="internal" title="Enlarge"></a>
+         </div>The peripheries to Greece.
+        </div>
+       </div>
+      </div> 
+      <p>The divisions of Greece are called 'Peripheries'. As of January <a href="/wiki/2011" title="2011">2011</a>, there are 13 peripheries in Greece.<sup id="cite_ref-Kallikratis_9-0" class="reference"><a href="#cite_note-Kallikratis-9">[9]</a></sup> Peripheries are subdivided into 'peripheral units', and previously they were known as 'prefecture', but prefectures were abolished in 2011.<sup id="cite_ref-Kallikratis_9-1" class="reference"><a href="#cite_note-Kallikratis-9">[9]</a></sup> The most populated peripheries in Greece are <a href="/wiki/Attica" title="Attica">Attica</a>, where the capital city of Greece, <a href="/wiki/Athens" title="Athens">Athens</a>, is, and <a href="/w/index.php?title=Central_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Central Macedonia (not yet started)">Central Macedonia</a>, where Greece's second-largest city, <a href="/wiki/Thessaloniki" title="Thessaloniki">Thessaloniki</a>, is. All the peripheries, and their capital cities, are: </p> 
+      <table> 
+       <tbody>
+        <tr valign="top"> 
+         <td> <p>1. <a href="/wiki/Attica" title="Attica">Attica</a> — <a href="/wiki/Athens" title="Athens">Athens</a><br> 2. <a href="/w/index.php?title=Central_Greece&amp;action=edit&amp;redlink=1" class="new" title="Central Greece (not yet started)">Central Greece</a> — <a href="/wiki/Lamia" title="Lamia">Lamia</a><br> 3. <a href="/w/index.php?title=Central_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Central Macedonia (not yet started)">Central Macedonia</a> — <a href="/wiki/Thessaloniki" title="Thessaloniki">Thessaloniki</a><br> 4. <a href="/wiki/Crete" title="Crete">Crete</a> — <a href="/wiki/Heraklion" class="mw-redirect" title="Heraklion">Heraklion</a><br> 5. <a href="/w/index.php?title=East_Macedonia_and_Thrace&amp;action=edit&amp;redlink=1" class="new" title="East Macedonia and Thrace (not yet started)">East Macedonia and Thrace</a> — <a href="/wiki/Komotini" title="Komotini">Komotini</a><br> 6. <a href="/w/index.php?title=Epirus&amp;action=edit&amp;redlink=1" class="new" title="Epirus (not yet started)">Epirus</a> — <a href="/wiki/Ioannina" title="Ioannina">Ioannina</a><br> 7. <a href="/w/index.php?title=Ionian_Islands&amp;action=edit&amp;redlink=1" class="new" title="Ionian Islands (not yet started)">Ionian Islands</a> — <a href="/wiki/Corfu_(city)" title="Corfu (city)">Corfu</a><br> </p> </td> 
+         <td> <p>8. <a href="/w/index.php?title=North_Aegean&amp;action=edit&amp;redlink=1" class="new" title="North Aegean (not yet started)">North Aegean</a> — <a href="/wiki/Mytilene" title="Mytilene">Mytilene</a><br> 9. <a href="/wiki/Peloponnese" title="Peloponnese">Peloponnese</a> — <a href="/w/index.php?title=Tripoli_(Greece)&amp;action=edit&amp;redlink=1" class="new" title="Tripoli (Greece) (not yet started)">Tripoli</a><br> 10. <a href="/w/index.php?title=South_Aegean&amp;action=edit&amp;redlink=1" class="new" title="South Aegean (not yet started)">South Aegean</a> — <a href="/w/index.php?title=Ermoupoli&amp;action=edit&amp;redlink=1" class="new" title="Ermoupoli (not yet started)">Ermoupoli</a><br> 11. <a href="/wiki/Thessaly" title="Thessaly">Thessaly</a> — <a href="/wiki/Larissa" title="Larissa">Larissa</a><br> 12. <a href="/w/index.php?title=West_Greece&amp;action=edit&amp;redlink=1" class="new" title="West Greece (not yet started)">West Greece</a> — <a href="/wiki/Patras" title="Patras">Patras</a><br> 13. <a href="/wiki/West_Macedonia" title="West Macedonia">West Macedonia</a> — <a href="/wiki/Kozani" title="Kozani">Kozani</a><br> </p> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greece&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Demographics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Greece&amp;action=edit&amp;section=4" title="Change section: Demographics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greece&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: People">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Greece&amp;action=edit&amp;section=5" title="Change section: People">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Greece is a small country compared to other countries such as the <a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/Spain" title="Spain">Spain</a> , <a href="/wiki/Italy" title="Italy">Italy</a>, and the United Kingdom. The population of Greece is estimated to be over 10 million. Most of the people in Greece are Greeks, and they form 94% of the population of the country.<sup id="cite_ref-ELSTAT_10-0" class="reference"><a href="#cite_note-ELSTAT-10">[10]</a></sup> There are also many <a href="/wiki/Albania" title="Albania">Albanians</a> in Greece, and they make up 4% of the population.<sup id="cite_ref-ELSTAT_10-1" class="reference"><a href="#cite_note-ELSTAT-10">[10]</a></sup> Other nationalities make up for another 2% of the country.<sup id="cite_ref-ELSTAT_10-2" class="reference"><a href="#cite_note-ELSTAT-10">[10]</a></sup> </p>
+      <p>The Greek government recognizes only one minority in the country, the <a href="/wiki/Turkey" title="Turkey">Turkish</a> one in the region of <a href="/wiki/Thrace" title="Thrace">Thrace</a>. The dispute between Greece and the <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Republic of Macedonia</a> has resulted in the refusal of Greece to acknowledge the existence of a Macedonian minority. The 2001 population <a href="/wiki/Census" title="Census">census</a> showed only 747 citizens of the <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Republic of Macedonia</a> in Greece.<sup id="cite_ref-ELSTAT_10-3" class="reference"><a href="#cite_note-ELSTAT-10">[10]</a></sup> The <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Republic of Macedonia</a> says that there are a maximum of 300,000 <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">ethnic Macedonians</a> in Greece, but Greece says that if there is a minority in the country, it would not be more than 30,000 people, in the northern part of the country, near the border with the <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Republic of Macedonia</a>. This is also supported by international organizations.<sup id="cite_ref-GHM_11-0" class="reference"><a href="#cite_note-GHM-11">[11]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Greek_flag">Greek flag</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greece&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Greek flag">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Greece&amp;action=edit&amp;section=6" title="Change section: Greek flag">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Flag_of_Greece" title="Flag of Greece">Flag of Greece</a>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Greek_flag_waving.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greek_flag_waving.png/220px-Greek_flag_waving.png" decoding="async" width="220" height="190" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greek_flag_waving.png/330px-Greek_flag_waving.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greek_flag_waving.png/440px-Greek_flag_waving.png 2x" data-file-width="546" data-file-height="471"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Greek_flag_waving.png" class="internal" title="Enlarge"></a>
+         </div>The Greek flag is blue and white.
+        </div>
+       </div>
+      </div> 
+      <p>The <a href="/wiki/Flag_of_Greece" title="Flag of Greece">Greek flag</a> was officially adopted in 1828 as a civil and state ensign (a flag for use only on boats and ships) and as a national flag when flown outside of Greece, for example on embassies. A different flag (white cross on a blue field) was used as a land flag within Greece from 1828 until 1969 and from 1975 to 1978. In 1978 the current flag became <a href="/wiki/National_flag" class="mw-redirect" title="National flag">national flag</a> and the older land flag was abolished. </p>
+      <p>There are many theories about the origin of the color of the flag. One says that the blue represents the color of the sea and the white represents the waves, and others include white for the waves and blue for the sky and white for purity and breakaway from tyranny and blue for Greece. There are nine stripes on the flag, which according to the legend represent the nine syllables in the phrase “Ελευθερία ή Θάνατος’’ which means “freedom or death.’’ The cross stands for Christianity. </p> 
+      <h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greece&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Economy">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Greece&amp;action=edit&amp;section=7" title="Change section: Economy">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Euro_banknotes.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Euro_banknotes.png/220px-Euro_banknotes.png" decoding="async" width="220" height="168" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Euro_banknotes.png/330px-Euro_banknotes.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Euro_banknotes.png/440px-Euro_banknotes.png 2x" data-file-width="479" data-file-height="366"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Euro_banknotes.png" class="internal" title="Enlarge"></a>
+         </div>The <a href="/wiki/Money" title="Money">money</a> used in Greece is called the <a href="/wiki/Euro" title="Euro">euro</a>.
+        </div>
+       </div>
+      </div> 
+      <p>Greece is a <a href="/wiki/Capitalist" class="mw-redirect" title="Capitalist">capitalist country</a>, like the <a href="/wiki/United_States" title="United States">United States</a> and <a href="/wiki/France" title="France">France</a>. Greece has the largest number of trading ships (a 'merchant navy') in the world. Tourism is also a major source of income for Greece. In the 20th century Greece had its own currency but now uses the <a href="/wiki/Euro" title="Euro">Euro</a> as most other European Community countries do. </p>
+      <p>Greece has adopted some <a href="/wiki/Welfare_state" title="Welfare state">welfare state</a> policies, such as public healthcare and free education, like many other <a href="/wiki/Europe" title="Europe">European</a> countries. Greece, however, has not collected enough taxes to pay for them. The <a href="/wiki/Pension" title="Pension">pension</a> system is especially expensive. </p>
+      <p>This is putting Greece in a very difficult situation when the country has accumulated a debt of about €350 billion, or debt by 170 per-cent of the country's total GDP.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Greece also has a trade deficit, meaning that it buys more things than it sells. The country is cutting costs and asking for loans in order to avoid bankruptcy. </p> 
+      <h2><span class="mw-headline" id="Tourism">Tourism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greece&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: Tourism">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Greece&amp;action=edit&amp;section=8" title="Change section: Tourism">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>About 30 million tourists visit Greece each year. That is more than the country’s entire population. To serve the many tourists, Greece has many international <a href="/wiki/Airport" title="Airport">airports</a>. Tourism also makes up more than 20% of the Greek GDP.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greece&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Greece&amp;action=edit&amp;section=9" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Greece_at_the_Olympics" title="Greece at the Olympics">Greece at the Olympics</a></li> 
+       <li><a href="/wiki/Greece_national_football_team" title="Greece national football team">Greece national football team</a></li> 
+       <li><a href="/wiki/List_of_Greek_islands" title="List of Greek islands">List of Greek islands</a></li> 
+       <li><a href="/wiki/List_of_rivers_of_Greece" title="List of rivers of Greece">List of rivers of Greece</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greece&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Greece&amp;action=edit&amp;section=10" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/2147rank.html?countryName=Greece&amp;countryCode=gr&amp;regionCode=eur&amp;rank=97#gr">"Country Comparison: Area"</a>. <i><a href="/wiki/The_World_Factbook" title="The World Factbook">The World Factbook</a></i>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Country+Comparison%3A+Area&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Frankorder%2F2147rank.html%3FcountryName%3DGreece%26countryCode%3Dgr%26regionCode%3Deur%26rank%3D97%23gr&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-UN_WPP-2"><span class="mw-cite-backlink"><a href="#cite_ref-UN_WPP_2-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://esa.un.org/unpd/wpp/DataQuery/">"World Population Prospects: The 2017 Revision"</a>. <i>ESA.UN.org</i> (custom data acquired via website). <a href="/w/index.php?title=United_Nations_Department_of_Economic_and_Social_Affairs&amp;action=edit&amp;redlink=1" class="new" title="United Nations Department of Economic and Social Affairs (not yet started)">United Nations Department of Economic and Social Affairs</a>, Population Division<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ESA.UN.org&amp;rft.atitle=World+Population+Prospects%3A+The+2017+Revision&amp;rft_id=https%3A%2F%2Fesa.un.org%2Funpd%2Fwpp%2FDataQuery%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.statistics.gr/documents/20181/1210503/resident_population_census2011rev.xls/956f8949-513b-45b3-8c02-74f5e8ff0230"><bdi lang="el">Απογραφή Πληθυσμού – Κατοικιών 2011. ΜΟΝΙΜΟΣ Πληθυσμός</bdi></a> [Results of Population-Housing Census 2011 concerning the permanent population of the country] <span class="cs1-format">(PDF)</span> (in Greek). 20 March 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%CE%91%CF%80%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AE+%CE%A0%CE%BB%CE%B7%CE%B8%CF%85%CF%83%CE%BC%CE%BF%CF%8D+%E2%80%93+%CE%9A%CE%B1%CF%84%CE%BF%CE%B9%CE%BA%CE%B9%CF%8E%CE%BD+2011.+%CE%9C%CE%9F%CE%9D%CE%99%CE%9C%CE%9F%CE%A3+%CE%A0%CE%BB%CE%B7%CE%B8%CF%85%CF%83%CE%BC%CF%8C%CF%82&amp;rft.date=2014-03-20&amp;rft_id=http%3A%2F%2Fwww.statistics.gr%2Fdocuments%2F20181%2F1210503%2Fresident_population_census2011rev.xls%2F956f8949-513b-45b3-8c02-74f5e8ff0230&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131113172928/http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/A1602/PressReleases/A1602_SAM01_DT_DC_00_2011_02_F_EN.pdf">"Announcement of the results of the 2011 Population Census for the Resident Population"</a> <span class="cs1-format">(PDF)</span>. Hellenic Statistical Authority. 28 December 2012. Archived from <a rel="nofollow" class="external text" href="http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/A1602/PressReleases/A1602_SAM01_DT_DC_00_2011_02_F_EN.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 13 November 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">24 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Announcement+of+the+results+of+the+2011+Population+Census+for+the+Resident+Population&amp;rft.pub=Hellenic+Statistical+Authority&amp;rft.date=2012-12-28&amp;rft_id=http%3A%2F%2Fwww.statistics.gr%2Fportal%2Fpage%2Fportal%2FESYE%2FBUCKET%2FA1602%2FPressReleases%2FA1602_SAM01_DT_DC_00_2011_02_F_EN.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-IMF_GDP-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-IMF_GDP_5-0">5.0</a></sup> <sup><a href="#cite_ref-IMF_GDP_5-1">5.1</a></sup> <sup><a href="#cite_ref-IMF_GDP_5-2">5.2</a></sup> <sup><a href="#cite_ref-IMF_GDP_5-3">5.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=79&amp;pr.y=7&amp;sy=2017&amp;ey=2017&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=174&amp;s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&amp;grp=0&amp;a=">"Report for Selected Countries and Subjects"</a>. <i><a href="/w/index.php?title=World_Economic_Outlook&amp;action=edit&amp;redlink=1" class="new" title="World Economic Outlook (not yet started)">World Economic Outlook</a> Database, April 2017</i>. Washington, D.C.: <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a>. 12 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">27 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=World+Economic+Outlook+Database%2C+April+2017&amp;rft.atitle=Report+for+Selected+Countries+and+Subjects&amp;rft.date=2017-04-12&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2017%2F02%2Fweodata%2Fweorept.aspx%3Fpr.x%3D79%26pr.y%3D7%26sy%3D2017%26ey%3D2017%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D174%26s%3DNGDPD%252CPPPGDP%252CNGDPDPC%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di12">"Gini coefficient of equivalised disposable income – EU-SILC survey"</a>. Luxembourg: Eurostat. 15 June 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gini+coefficient+of+equivalised+disposable+income+%E2%80%93+EU-SILC+survey&amp;rft.place=Luxembourg&amp;rft.pub=Eurostat&amp;rft.date=2017-06-15&amp;rft_id=http%3A%2F%2Fappsso.eurostat.ec.europa.eu%2Fnui%2Fshow.do%3Fdataset%3Dilc_di12&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/composite/HDI">"Table 1: Human Development Index and its components"</a>. <i><a href="/w/index.php?title=Human_Development_Report&amp;action=edit&amp;redlink=1" class="new" title="Human Development Report (not yet started)">Human Development Reports</a></i>. Stockholm: <a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">United Nations Development Programme</a>. 21 March 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">27 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Human+Development+Reports&amp;rft.atitle=Table+1%3A+Human+Development+Index+and+its+components&amp;rft.date=2017-03-21&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fcomposite%2FHDI&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/gr.html#Govt">"World Fatbook - Greece: Government"</a>. <i>CIA</i>. www.cia.gov. 2007-03-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CIA&amp;rft.atitle=World+Fatbook+-+Greece%3A+Government&amp;rft.date=2007-03-15&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fgr.html%23Govt&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Kallikratis-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Kallikratis_9-0">9.0</a></sup> <sup><a href="#cite_ref-Kallikratis_9-1">9.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.delino.gr/N38522010_KALLIKRATIS_FEKA87_07062010.pdf">"NOMOΣ ΥΠ'ΑΡΙΘ. 3852 Νέα Αρχιτεκτονική της Αυτοδιοίκησης και της Αποκεντρωμένης Διοίκησης − Πρόγραμμα Καλλικράτης. (Law No. 3852 New Architecture of Self Government and Decentralized Administration - Kallikratis Reform.)"</a> <span class="cs1-format">(PDF)</span>. <i>Government Gazette</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Government+Gazette&amp;rft.atitle=NOMO%CE%A3+%CE%A5%CE%A0%E2%80%99%CE%91%CE%A1%CE%99%CE%98.+3852+%CE%9D%CE%AD%CE%B1+%CE%91%CF%81%CF%87%CE%B9%CF%84%CE%B5%CE%BA%CF%84%CE%BF%CE%BD%CE%B9%CE%BA%CE%AE+%CF%84%CE%B7%CF%82+%CE%91%CF%85%CF%84%CE%BF%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7%CF%82+%CE%BA%CE%B1%CE%B9+%CF%84%CE%B7%CF%82+%CE%91%CF%80%CE%BF%CE%BA%CE%B5%CE%BD%CF%84%CF%81%CF%89%CE%BC%CE%AD%CE%BD%CE%B7%CF%82+%CE%94%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7%CF%82+%E2%88%92+%CE%A0%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1+%CE%9A%CE%B1%CE%BB%CE%BB%CE%B9%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82.+%28Law+No.+3852+New+Architecture+of+Self+Government+and+Decentralized+Administration+-+Kallikratis+Reform.%29&amp;rft_id=http%3A%2F%2Fwww.delino.gr%2FN38522010_KALLIKRATIS_FEKA87_07062010.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-ELSTAT-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ELSTAT_10-0">10.0</a></sup> <sup><a href="#cite_ref-ELSTAT_10-1">10.1</a></sup> <sup><a href="#cite_ref-ELSTAT_10-2">10.2</a></sup> <sup><a href="#cite_ref-ELSTAT_10-3">10.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.statistics.gr/portal/page/portal/ESYE/BUCKET/A1602/Other/A1602_SAM07_TB_DC_00_2001_07_F_GR.pdf">"Πίνακας 7: Αλλοδαποί κατά υπηκοότητα, φύλο και επίπεδο εκπαίδευσης - Σύνολο Ελλάδας και Νομοί"</a> <span class="cs1-format">(PDF)</span>. <i>Greek National Statistics Agency</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Greek+National+Statistics+Agency&amp;rft.atitle=%CE%A0%CE%AF%CE%BD%CE%B1%CE%BA%CE%B1%CF%82+7%3A+%CE%91%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CE%BF%CE%AF+%CE%BA%CE%B1%CF%84%CE%AC+%CF%85%CF%80%CE%B7%CE%BA%CE%BF%CF%8C%CF%84%CE%B7%CF%84%CE%B1%2C+%CF%86%CF%8D%CE%BB%CE%BF+%CE%BA%CE%B1%CE%B9+%CE%B5%CF%80%CE%AF%CF%80%CE%B5%CE%B4%CE%BF+%CE%B5%CE%BA%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CF%85%CF%83%CE%B7%CF%82+-+%CE%A3%CF%8D%CE%BD%CE%BF%CE%BB%CE%BF+%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82+%CE%BA%CE%B1%CE%B9+%CE%9D%CE%BF%CE%BC%CE%BF%CE%AF&amp;rft_id=http%3A%2F%2Fwww.statistics.gr%2Fportal%2Fpage%2Fportal%2FESYE%2FBUCKET%2FA1602%2FOther%2FA1602_SAM07_TB_DC_00_2001_07_F_GR.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-GHM-11"><span class="mw-cite-backlink"><a href="#cite_ref-GHM_11-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://dev.eurac.edu:8085/mugs2/do/blob.html?type=html&amp;serial=1044526702223">"Greece – Report about Compliance with the Principles of the Framework Convention for the Protection of National Minorities (along guidelines for state reports according to Article 25.1 of the Convention)"</a>. <i>Greek Helsinki Monitor (GHM) &amp; Minority Rights Group – Greece (MRG-G)</i>. 1999-09-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Greek+Helsinki+Monitor+%28GHM%29+%26+Minority+Rights+Group+%E2%80%93+Greece+%28MRG-G%29&amp;rft.atitle=Greece+%E2%80%93+Report+about+Compliance+with+the+Principles+of+the+Framework+Convention+for+the+Protection+of+National+Minorities+%28along+guidelines+for+state+reports+according+to+Article+25.1+of+the+Convention%29&amp;rft.date=1999-09-18&amp;rft_id=http%3A%2F%2Fdev.eurac.edu%3A8085%2Fmugs2%2Fdo%2Fblob.html%3Ftype%3Dhtml%26serial%3D1044526702223&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite id="CITEREFTT-Reuters" class="citation web cs1">TT-Reuters. <a rel="nofollow" class="external text" href="http://www.gp.se/1.866580">"Samtal om grekisk koalitionsregering"</a>. <i>gp.se</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=gp.se&amp;rft.atitle=Samtal+om+grekisk+koalitionsregering&amp;rft.au=TT-Reuters&amp;rft_id=http%3A%2F%2Fwww.gp.se%2F1.866580&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://prevarication.net/2010/05/greek-collapse-spurs-selloff-greek-retirement-age-as-early-as-50/">http://prevarication.net/2010/05/greek-collapse-spurs-selloff-greek-retirement-age-as-early-as-50/</a></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><cite id="CITEREFChloe_Wynne" class="citation web cs1">Chloe Wynne. <a rel="nofollow" class="external text" href="https://www.wttc.org/about/media-centre/press-releases/press-releases/2019/greek-tourism-sector-growing-over-three-times-faster-than-wider-economy-says-new-wttc-research/">"Greek tourism sector growing over three times faster than wider economy says new WTTC research"</a>. <i>WTTC</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=WTTC&amp;rft.atitle=Greek+tourism+sector+growing+over+three+times+faster+than+wider+economy+says+new+WTTC+research&amp;rft.au=Chloe+Wynne&amp;rft_id=https%3A%2F%2Fwww.wttc.org%2Fabout%2Fmedia-centre%2Fpress-releases%2Fpress-releases%2F2019%2Fgreek-tourism-sector-growing-over-three-times-faster-than-wider-economy-says-new-wttc-research%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGreece" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Greece" class="extiw" title="commons:Special:Search/Greece">Greece</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <div role="navigation" class="navbox" aria-labelledby="European_Union_member_and_candidate_countries" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div id="European_Union_member_and_candidate_countries" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/European_Union" title="European Union">European Union</a> member and candidate countries
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Current members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Austria" title="Austria">Austria</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech&nbsp;Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/Finland" title="Finland">Finland</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Malta" title="Malta">Malta</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Sweden" title="Sweden">Sweden</a>
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Flag_of_Europe.svg" class="image"><img alt="Flag of Europe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/65px-Flag_of_Europe.svg.png" decoding="async" width="65" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/98px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/130px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Candidates</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>&nbsp;<b>·</b> <a href="/wiki/Serbia" title="Serbia">Serbia</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Potential candidates</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a>&nbsp;<b>·</b> <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Former members</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <a href="/w/index.php?title=List_of_European_Union_member_states_by_accession&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by accession (not yet started)">by accession</a>&nbsp;<b>·</b> <a href="/w/index.php?title=List_of_European_Union_member_states_by_political_system&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by political system (not yet started)">by political system</a>&nbsp;<b>·</b> <a href="/wiki/List_of_European_Union_member_states_by_population" class="mw-redirect" title="List of European Union member states by population">by population</a>&nbsp;<b>·</b> <a href="/w/index.php?title=Economy_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="Economy of the European Union (not yet started)">by GDP</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="North_Atlantic_Treaty_Organization_(NATO)" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_Atlantic_Treaty_Organisation_(NATO)" title="Template:North Atlantic Treaty Organisation (NATO)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:North_Atlantic_Treaty_Organisation_(NATO)" title="Template talk:North Atlantic Treaty Organisation (NATO)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_Atlantic_Treaty_Organisation_(NATO)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="North_Atlantic_Treaty_Organization_(NATO)" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/North_Atlantic_Treaty_Organisation" class="mw-redirect" title="North Atlantic Treaty Organisation">North Atlantic Treaty Organization (NATO)</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Member countries</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Canada" title="Canada">Canada</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Norway" title="Norway">Norway</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>&nbsp;<b>·</b> <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&nbsp;<b>·</b> <a href="/wiki/United_States" title="United States">United States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q41&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q41&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q41" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb118727476">cb118727476</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb118727476">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4022047-3">4022047-3</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000405552357">0000 0004 0555 2357</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n80046090">n80046090</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/803db0ca-b6ed-3bbc-aeb8-f89efd0a2168">803db0ca-b6ed-3bbc-aeb8-f89efd0a2168</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10035789">10035789</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00562473">00562473</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge131737&amp;CON_LNG=ENG">ge131737</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Greece" title="National Library of Greece">NLG</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.nlg.gr/resource/authority/record4335">4335</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=000979098&amp;local_base=nlx10">000979098</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/026488523">026488523</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/131265011">131265011</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/viaf-259064522">viaf-259064522</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20201225182751
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.436 seconds
+Real time usage: 1.665 seconds
+Preprocessor visited node count: 4850/1000000
+Post‐expand include size: 121649/2097152 bytes
+Template argument size: 13655/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 18/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 46428/5000000 bytes
+Lua time usage: 0.914/10.000 seconds
+Lua memory usage: 31009196/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1478.029      1 -total
+ 62.99%  930.968      1 Template:Infobox_country
+ 62.28%  920.529      3 Template:Infobox
+ 21.88%  323.378      3 Template:ISO_3166_code
+ 16.26%  240.267      1 Template:Authority_control
+ 12.99%  192.036      1 Template:Reflist
+ 11.36%  167.849     13 Template:Cite_web
+ 10.62%  156.894      3 Template:Small
+ 10.43%  154.217      1 Template:Native_name
+  9.52%  140.668      2 Template:Lang
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:2133-0!canonical and timestamp 20201225182749 and revision id 7118628. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Greece&amp;oldid=7118628">https://simple.wikipedia.org/w/index.php?title=Greece&amp;oldid=7118628</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Members_of_NATO" title="Category:Members of NATO">Members of NATO</a></li>
+       <li><a href="/wiki/Category:Greece" title="Category:Greece">Greece</a></li>
+       <li><a href="/wiki/Category:European_Union_member_states" title="Category:European Union member states">European Union member states</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Pages_using_duplicate_arguments_in_template_calls" title="Category:Pages using duplicate arguments in template calls">Pages using duplicate arguments in template calls</a></li>
+       <li><a href="/wiki/Category:CS1_uses_Greek-language_script_(el)" title="Category:CS1 uses Greek-language script (el)">CS1 uses Greek-language script (el)</a></li>
+       <li><a href="/wiki/Category:CS1_Greek-language_sources_(el)" title="Category:CS1 Greek-language sources (el)">CS1 Greek-language sources (el)</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Greek-language_text" title="Category:Articles containing Greek-language text">Articles containing Greek-language text</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLG_identifiers" title="Category:Wikipedia articles with NLG identifiers">Wikipedia articles with NLG identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Greece" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Greece" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Greece" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Greece" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Greece">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Greece&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Greece&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Greece&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Greece" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Greece" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Greece&amp;oldid=7118628" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Greece&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Greece&amp;id=7118628&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q41" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Greece">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Greece&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Greece&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Greece" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Yunani" title="Yunani – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%90%D0%BB%D1%8B%D0%B4%D0%B6%D0%B5%D0%B9" title="Алыджей – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%A3%D1%80%D1%8B%D0%BC%D1%8B%D0%B5" title="Урымые – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Griekeland" title="Griekeland – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Griechenland" title="Griechenland – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8C%8D%E1%88%AA%E1%8A%AD_(%E1%8A%A0%E1%8C%88%E1%88%AD)" title="ግሪክ (አገር) – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Kreikka" title="Kreikka – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Grecland" title="Grecland – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%91%D1%8B%D1%80%D0%B7%D0%B5%D0%BD%D1%82%D3%99%D1%8B%D0%BB%D0%B0" title="Бырзентәыла – Abkhazian" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86" title="اليونان – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Grecia" title="Grecia – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%9D%DC%98%DC%A2" title="ܝܘܢ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D5%85%D5%B8%D6%82%D5%B6%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6" title="Յունաստան – Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/G%C3%A3rtsia" title="Gãrtsia – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Gr%C3%A8%C3%A7a" title="Grèça – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Grecia" title="Grecia – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-awa"><a href="https://awa.wikipedia.org/wiki/%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BE%E0%A4%A8" title="यूनान – Awadhi" lang="awa" hreflang="awa" class="interlanguage-link-target">अवधी</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Gyr%C3%A9sia" title="Gyrésia – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B5%D0%BA" title="Герек – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Grisya" title="Grisya – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Yunan%C4%B1stan" title="Yunanıstan – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%D8%A7%D9%86" title="یونان – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Yunani" title="Yunani – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B8" title="গ্রিস – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Hi-lia%CC%8Dp" title="Hi-lia̍p – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Yunani" title="Yunani – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F" title="Греция – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D1%80%D1%8D%D1%86%D1%8B%D1%8F" title="Грэцыя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%93%D1%80%D1%8D%D1%86%D1%8B%D1%8F" title="Грэцыя – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BE%E0%A4%A8" title="यूनान – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Gresya" title="Gresya – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Greece" title="Greece – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%93%D1%8A%D1%80%D1%86%D0%B8%D1%8F" title="Гърция – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Griachaland" title="Griachaland – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%80%E0%BD%BA%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BD%B2%E0%BC%8D" title="ཀེ་རི་སི། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Gr%C4%8Dka" title="Grčka – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Gres_(bro)" title="Gres (bro) – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8" title="Греци – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Gr%C3%A8cia" title="Grècia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8" title="Греци – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Gresya" title="Gresya – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C5%98ecko" title="Řecko – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-ch"><a href="https://ch.wikipedia.org/wiki/Grecia" title="Grecia – Chamorro" lang="ch" hreflang="ch" class="interlanguage-link-target">Chamoru</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Grecia" title="Grecia – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-ny"><a href="https://ny.wikipedia.org/wiki/Greece" title="Greece – Nyanja" lang="ny" hreflang="ny" class="interlanguage-link-target">Chi-Chewa</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Greece" title="Greece – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-tum"><a href="https://tum.wikipedia.org/wiki/Greece" title="Greece – Tumbuka" lang="tum" hreflang="tum" class="interlanguage-link-target">ChiTumbuka</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Grecia" title="Grecia – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Gwlad_Groeg" title="Gwlad Groeg – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Gr%C3%A6kenland" title="Grækenland – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86" title="ليونان – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Greika" title="Greika – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Griechenland" title="Griechenland – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%94%DE%AB%DE%82%DE%A7%DE%82%DE%B0" title="ޔޫނާން – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Grichiska" title="Grichiska – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B8" title="ग्रीस – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-dz"><a href="https://dz.wikipedia.org/wiki/%E0%BD%82%E0%BE%B2%E0%BE%80%E0%BD%A6" title="གྲྀས – Dzongkha" lang="dz" hreflang="dz" class="interlanguage-link-target">ཇོང་ཁ</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kreeka" title="Kreeka – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1" title="Ελλάδα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/Gr%C3%A9cia" title="Grécia – Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Greece" title="Greece – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Греция Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Grecia" title="Grecia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Grekio" title="Grekio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Grecia" title="Grecia – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Grezia" title="Grezia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Greece" title="Greece – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%D8%A7%D9%86" title="یونان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Greece" title="Greece – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://fo.wikipedia.org/wiki/Grikkaland" title="Grikkaland – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Gr%C3%A8ce" title="Grèce – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Grikel%C3%A2n" title="Grikelân – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Yunan" title="Yunan – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Grecie" title="Grecie – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_Ghr%C3%A9ig" title="An Ghréig – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Ghreag" title="Yn Ghreag – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Yunanistan" title="Yunanistan – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/A%27_Ghr%C3%A8ig" title="A' Ghrèig – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Grecia" title="Grecia – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-inh"><a href="https://inh.wikipedia.org/wiki/%D0%AD%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0" title="Эллада – Ingush" lang="inh" hreflang="inh" class="interlanguage-link-target">ГӀалгӀай</a></li>
+       <li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E5%B8%8C%E8%87%98" title="希臘 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Ngiriki" title="Ngiriki – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-glk"><a href="https://glk.wikipedia.org/wiki/%D9%89%DB%8A%D9%86%D8%A7%D9%86" title="ىۊنان – Gilaki" lang="glk" hreflang="glk" class="interlanguage-link-target">گیلکی</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%97%E0%AB%8D%E0%AA%B0%E0%AB%80%E0%AA%B8" title="ગ્રીસ – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8C%BA%F0%90%8D%82%F0%90%8C%B4%F0%90%8C%BA%F0%90%8C%B0%F0%90%8C%BB%F0%90%8C%B0%F0%90%8C%BD%F0%90%8C%B3" title="𐌺𐍂𐌴𐌺𐌰𐌻𐌰𐌽𐌳 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B8" title="ग्रीस – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/H%C3%AE-lia%CC%8Dp" title="Hî-lia̍p – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D1%81%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Грисин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A6%AC%EC%8A%A4" title="그리스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Girka_(%C6%99asa)" title="Girka (ƙasa) – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Helene" title="Helene – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%B8%D6%82%D5%B6%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6" title="Հունաստան – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BE%E0%A4%A8" title="यूनान – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Grjekska" title="Grjekska – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Gr%C4%8Dka" title="Grčka – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Grekia" title="Grekia – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Greece" title="Greece – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Gresia" title="Gresia – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B8" title="গ্রীস – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Yunani" title="Yunani – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Grecia" title="Grecia – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Grecia" title="Grecia – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BA%D1%8A" title="Грекъ – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/IGreki" title="IGreki – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Grikkland" title="Grikkland – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Grecia" title="Grecia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%95%D7%9F" title="יוון – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Grikenlan" title="Grikenlan – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Kr%C9%9Bs%C9%A9" title="Krɛsɩ – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Gr%C3%A6kerit_Nunaat" title="Grækerit Nunaat – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%97%E0%B3%8D%E0%B2%B0%E0%B3%80%E0%B2%B8%E0%B3%8D" title="ಗ್ರೀಸ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Gresya" title="Gresya – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F" title="Греция – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%91%E1%83%94%E1%83%A0%E1%83%AB%E1%83%9C%E1%83%94%E1%83%97%E1%83%98" title="საბერძნეთი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Greck%C3%B4" title="Greckô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BA%D0%B8%D1%8F" title="Грекия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Pow_Grek" title="Pow Grek – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Ubugereki" title="Ubugereki – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-rn"><a href="https://rn.wikipedia.org/wiki/Ubugiriki" title="Ubugiriki – Rundi" lang="rn" hreflang="rn" class="interlanguage-link-target">Kirundi</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Ugiriki" title="Ugiriki – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%AD%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0" title="Эллада – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Gelesi" title="Gelesi – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Ellasa" title="Ellasa – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Gr%C3%A8s" title="Grès – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Gr%C3%A8s" title="Grès – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Yewnanistan" title="Yewnanistan – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F" title="Греция – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Grecia" title="Grecia – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Gresia" title="Gresia – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%81%E0%BA%B0%E0%BB%81%E0%BA%A5%E0%BA%B1%E0%BA%94" title="ປະເທດກະແລັດ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%DB%8C%DB%8A%D9%86%D8%A7%D9%86" title="یۊنان – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Grekeja" title="Grekeja – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Graecia" title="Graecia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Grie%C4%B7ija" title="Grieķija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Griicheland" title="Griicheland – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F" title="Греция – Lezghian" lang="lez" hreflang="lez" class="interlanguage-link-target">Лезги</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Graikija" title="Graikija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Gre%C3%A7ia" title="Greçia – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Griekeland" title="Griekeland – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Gresi" title="Gresi – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Elas" title="Elas – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Gretsii" title="Gretsii – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/xesygu%27e" title="xesygu'e – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li>
+       <li class="interlanguage-link interwiki-lg"><a href="https://lg.wikipedia.org/wiki/Buyonaani" title="Buyonaani – Ganda" lang="lg" hreflang="lg" class="interlanguage-link-target">Luganda</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Grecia" title="Grecia – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/G%C3%B6r%C3%B6gorsz%C3%A1g" title="Görögország – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B8" title="ग्रीस – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%93%D1%80%D1%86%D0%B8%D1%98%D0%B0" title="Грција – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Grisy" title="Grisy – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B5%80%E0%B4%B8%E0%B5%8D" title="ഗ്രീസ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Gre%C4%8Bja" title="Greċja – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/Kirihi" title="Kirihi – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B8" title="ग्रीस – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%91%E1%83%94%E1%83%A0%E1%83%AB%E1%83%9C%E1%83%94%E1%83%97%E1%83%98" title="საბერძნეთი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86" title="اليونان – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%D8%A7%D9%86" title="یونان – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Yunani" title="Yunani – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/H%C4%AD-l%C3%A9-n%C3%A0%CC%A4" title="Hĭ-lé-nà̤ – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Gr%C3%A9cia" title="Grécia – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BA%D0%BC%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Грекмастор – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BA" title="Грек – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%82%E1%80%9B%E1%80%AD%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ဂရိနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://nah.wikipedia.org/wiki/Grecia" title="Grecia – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Grit" title="Grit – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Griekenland" title="Griekenland – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Griekenlaand" title="Griekenlaand – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%A8" title="युनान – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B8" title="ग्रीस – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3" title="ギリシャ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Grecia" title="Grecia – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D0%B9%D1%87%D0%BE%D1%8C" title="Желтойчоь – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Grekenlun" title="Grekenlun – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Griese" title="Griese – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Hellas" title="Hellas – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Hellas" title="Hellas – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Gr%C3%AAce" title="Grêce – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Grekia" title="Grekia – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Gr%C3%A8cia" title="Grècia – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B9" title="Греций – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Giriik" title="Giriik – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Gretsiya" title="Gretsiya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AF%E0%A9%82%E0%A8%A8%E0%A8%BE%E0%A8%A8" title="ਯੂਨਾਨ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B8_(%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BE%E0%A4%A8)" title="ग्रीस (यूनान) – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pag"><a href="https://pag.wikipedia.org/wiki/Gresia" title="Gresia – Pangasinan" lang="pag" hreflang="pag" class="interlanguage-link-target">Pangasinan</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%D8%A7%D9%86" title="یونان – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Gresia" title="Gresia – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%8A%D9%88%D9%86%D8%A7%D9%86" title="يونان – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Griis" title="Griis – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%AD%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0" title="Эллада – Komi-Permyak" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем коми</a></li>
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%80%E1%9F%92%E1%9E%9A%E1%9E%B7%E1%9E%80" title="ក្រិក – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Gr%C3%A8che" title="Grèche – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Grecia" title="Grecia – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Gris" title="Gris – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Grekenland" title="Grekenland – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Grecja" title="Grecja – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1" title="Ελλάδα – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://pt.wikipedia.org/wiki/Gr%C3%A9cia" title="Grécia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Yunanstan" title="Yunanstan – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Yunanistan" title="Yunanistan – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Jrihscheland" title="Jrihscheland – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li>
+       <li class="interlanguage-link interwiki-ro badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://ro.wikipedia.org/wiki/Grecia" title="Grecia – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Yelenistan" title="Yelenistan – Vlax Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani čhib</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Grezia" title="Grezia – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Grisya" title="Grisya – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D2%90%D1%80%D0%B5%D1%86%D1%96%D1%8F" title="Ґреція – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F" title="Греция – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F" title="Греция – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Greece" title="Greece – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Eleni" title="Eleni – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AF%E0%A4%B5%E0%A4%A8%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%83" title="यवनदेशः – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%9C%E1%B1%BD%E1%B1%A8%E1%B1%A4%E1%B1%A0" title="ᱜᱽᱨᱤᱠ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Gr%C3%A8ghia" title="Grèghia – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Greece" title="Greece – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Griechenlound" title="Griechenlound – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Greece" title="Greece – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Greqia" title="Greqia – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Grecia" title="Grecia – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%9C%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%93%E0%B7%83%E0%B7%92%E0%B6%BA" title="ග්‍රීසිය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%8A%D9%88%D9%86%D8%A7%D9%86" title="يونان – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/IGrikhi" title="IGrikhi – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Gr%C3%A9cko" title="Grécko – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Gr%C4%8Dija" title="Grčija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%93%D1%80%D1%8C%D1%86%D0%B8" title="Грьци – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Grecyjo" title="Grecyjo – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Giriiga" title="Giriiga – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DB%8C%DB%86%D9%86%D8%A7%D9%86" title="یۆنان – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Grikikondre" title="Grikikondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%93%D1%80%D1%87%D0%BA%D0%B0" title="Грчка – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Gr%C4%8Dka" title="Grčka – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Yunani" title="Yunani – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kreikka" title="Kreikka – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Grekland" title="Grekland – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Gresya" title="Gresya – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AF%87%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D_(%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%81)" title="கிரேக்கம் (நாடு) – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Legrig" title="Legrig – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Grecie" title="Grecie – Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target">Tarandíne</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F" title="Греция – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%81%B5%E1%80%9B%E1%80%AD%E1%80%90%E1%80%BA%E1%82%88" title="မိူင်းၵရိတ်ႈ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%97%E0%B1%8D%E0%B0%B0%E0%B1%80%E0%B0%B8%E0%B1%8D" title="గ్రీస్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Gr%C3%A9sia" title="Grésia – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%8B" title="ประเทศกรีซ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-ti"><a href="https://ti.wikipedia.org/wiki/%E1%8C%8D%E1%88%AA%E1%8A%AD" title="ግሪክ – Tigrinya" lang="ti" hreflang="ti" class="interlanguage-link-target">ትግርኛ</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%AE%D0%BD%D0%BE%D0%BD" title="Юнон – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8E%AA%E1%8E%A2%E1%8E%AF" title="ᎪᎢᎯ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Yunanistan" title="Yunanistan – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/%C3%9Dunanystan" title="Ýunanystan – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-tw"><a href="https://tw.wikipedia.org/wiki/Hela" title="Hela – Twi" lang="tw" hreflang="tw" class="interlanguage-link-target">Twi</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F" title="Греция – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D1%96%D1%8F" title="Греція – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DB%8C%D9%88%D9%86%D8%A7%D9%86" title="یونان – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%DA%AF%D8%B1%DB%90%D8%AA%D8%B3%D9%89%D9%8A%DB%95" title="گرېتسىيە – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Sihla" title="Sihla – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Gresa" title="Gresa – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Grekanma" title="Grekanma – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p" title="Hy Lạp – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Grik%C3%A4n" title="Grikän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Kreeka" title="Kreeka – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Grece" title="Grece – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%B8%8C%E8%87%98%E5%85%B1%E5%92%8C%E5%9C%8B" title="希臘共和國 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Grieknland" title="Grieknland – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Gresya" title="Gresya – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Girees" title="Girees – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%B8%8C%E8%85%8A" title="希腊 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Greece" title="Greece – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%92%D7%A8%D7%99%D7%9B%D7%A0%D7%9C%D7%90%D7%A0%D7%93" title="גריכנלאנד – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/G%C3%ADr%C3%AD%C3%ACs%C3%AC" title="Gíríìsì – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%B8%8C%E8%87%98" title="希臘 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Yunan%C4%B1stan" title="Yunanıstan – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Griek%27nland" title="Griek'nland – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Graik%C4%97j%C4%97" title="Graikėjė – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%85%8A" title="希腊 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q41#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 22 September 2020, at 12:04.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Greece&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.436","walltime":"1.665","ppvisitednodes":{"value":4850,"limit":1000000},"postexpandincludesize":{"value":121649,"limit":2097152},"templateargumentsize":{"value":13655,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":46428,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1478.029      1 -total"," 62.99%  930.968      1 Template:Infobox_country"," 62.28%  920.529      3 Template:Infobox"," 21.88%  323.378      3 Template:ISO_3166_code"," 16.26%  240.267      1 Template:Authority_control"," 12.99%  192.036      1 Template:Reflist"," 11.36%  167.849     13 Template:Cite_web"," 10.62%  156.894      3 Template:Small"," 10.43%  154.217      1 Template:Native_name","  9.52%  140.668      2 Template:Lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.914","limit":"10.000"},"limitreport-memusage":{"value":31009196,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20201225182751","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Greece","url":"https:\/\/simple.wikipedia.org\/wiki\/Greece","sameAs":"http:\/\/www.wikidata.org\/entity\/Q41","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q41","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-01-20T07:37:57Z","dateModified":"2020-09-22T12:04:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5c\/Flag_of_Greece.svg","headline":"sovereign state in southeastern Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":318,"wgHostname":"mw1272"});});</script> 
+ </body>
+</html>

@@ -1,0 +1,1262 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Czech Republic - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lUWApAMMUAAs5BavgAAABP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Czech_Republic","wgTitle":"Czech Republic","wgCurRevisionId":6978929,"wgRevisionId":6978929,"wgArticleId":6439,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles containing Czech-language text","Pages using collapsible list with both background and text-align in titlestyle","Pages using infobox country or infobox former country with the symbol caption or type parameters","Members of NATO","1993 establishments in Europe",
+"Czech Republic","European Union member states","Landlocked countries","States and territories established in the 1990s"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Czech_Republic","wgRelevantArticleId":6439,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q213"};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1200px-Flag_of_the_Czech_Republic.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Czech_Republic"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Czech_Republic&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Czech_Republic&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Czech_Republic"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Czech_Republic rootpage-Czech_Republic skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Czech Republic</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Czech Republic
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i lang="cs" title="Czech language text">Česká republika</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Czech_language" title="Czech language">Czech</a>)</span>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_the_Czech_Republic.svg" class="image" title="Flag of the Czech Republic"><img alt="Flag of the Czech Republic" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/125px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/188px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/250px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_the_Czech_Republic" title="Flag of the Czech Republic">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_the_Czech_Republic.svg" class="image" title="Greater coat of arms of the Czech Republic"><img alt="Greater coat of arms of the Czech Republic" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coat_of_arms_of_the_Czech_Republic.svg/85px-Coat_of_arms_of_the_Czech_Republic.svg.png" decoding="async" width="85" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coat_of_arms_of_the_Czech_Republic.svg/128px-Coat_of_arms_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coat_of_arms_of_the_Czech_Republic.svg/170px-Coat_of_arms_of_the_Czech_Republic.svg.png 2x" data-file-width="1171" data-file-height="1403"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/w/index.php?title=Coat_of_arms_of_the_Czech_Republic&amp;action=edit&amp;redlink=1" class="new" title="Coat of arms of the Czech Republic (not yet started)">Greater coat of arms</a>
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b><span lang="cs" style="font-style: normal;" title="Czech language text">"<a href="/w/index.php?title=Truth_prevails&amp;action=edit&amp;redlink=1" class="new" title="Truth prevails (not yet started)">Pravda vítězí</a>"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Czech_language" title="Czech language">Czech</a>)</span>
+           <br><span style="font-size:85%;">"Truth prevails"</span>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b>
+           <div class="plainlist">
+            <ul>
+             <li><i lang="cs" title="Czech language text"><a href="/w/index.php?title=Kde_domov_m%C5%AFj&amp;action=edit&amp;redlink=1" class="new" title="Kde domov můj (not yet started)">Kde domov můj</a></i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(Czech)</span></li>
+             <li><span style="position:relative; bottom:0.35em;"><span style="font-size:85%;"><i>Where is my home</i></span></span></li>
+             <li>
+              <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+               <div class="mediaContainer" style="width:220px">
+                <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="72.019591836735" data-startoffset="0" data-mwtitle="Czech_anthem.ogg" data-mwprovider="wikimediacommons">
+                 <source src="//upload.wikimedia.org/wikipedia/commons/6/6e/Czech_anthem.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (148 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="147584">
+                 <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/Czech_anthem.ogg/Czech_anthem.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="189384">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=cs&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="cs" label="čeština (cs) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=de&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="de" label="Deutsch (de) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=hr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="hr" label="hrvatski (hr) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=id&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="id" label="Bahasa Indonesia (id) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=pl&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="pl" label="polski (pl) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=ru&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ru" label="русский (ru) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=sah&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="sah" label="саха тыла (sah) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=sr-ec&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="sr-Cyrl" label="српски (ћирилица)‎ (sr-ec) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=sr-el&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="sr-Latn" label="srpski (latinica)‎ (sr-el) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ACzech_anthem.ogg&amp;lang=vi&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="vi" label="Tiếng Việt (vi) subtitles" data-dir="ltr">
+                </audio>
+               </div>
+              </div></li>
+            </ul>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:EU-Czech_Republic.svg" class="image" title="Location of the&nbsp;&nbsp;Czech Republic&nbsp;&nbsp;(dark green) –&nbsp;on the European continent&nbsp;&nbsp;(green &amp;&nbsp;dark grey) –&nbsp;in the European Union&nbsp;&nbsp;(green)&nbsp; —&nbsp; [Legend]"><img alt="Location of the&nbsp;&nbsp;Czech Republic&nbsp;&nbsp;(dark green) –&nbsp;on the European continent&nbsp;&nbsp;(green &amp;&nbsp;dark grey) –&nbsp;in the European Union&nbsp;&nbsp;(green)&nbsp; —&nbsp; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/EU-Czech_Republic.svg/250px-EU-Czech_Republic.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/EU-Czech_Republic.svg/375px-EU-Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/EU-Czech_Republic.svg/500px-EU-Czech_Republic.svg.png 2x" data-file-width="2045" data-file-height="1720"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of the&nbsp;<span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Czech Republic</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark green</span>)</span>
+            <p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&nbsp;on the <a href="/wiki/Europe" title="Europe">European continent</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green &amp;&nbsp;dark grey</span>)<br>–&nbsp;in the <a href="/wiki/European_Union" title="European Union">European Union</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:EU-Czechia.svg" title="File:EU-Czechia.svg">Legend</a></span>]</p>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Prague" title="Prague">Prague</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Czech_Republic&amp;params=50_05_N_14_28_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°05′N</span> <span class="longitude">14°28′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.083°N 14.467°E</span><span style="display:none">﻿ / <span class="geo">50.083; 14.467</span></span></span></a></span></td>
+        </tr>
+        <tr>
+         <th scope="row">Official language</th>
+         <td><a href="/wiki/Czech_language" title="Czech language">Czech</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><span style="position:relative; bottom:0.3em;"><style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">Officially recognised languages<sup id="cite_ref-languages_2-0" class="reference"><a href="#cite_note-languages-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></span> </span></th>
+         <td>
+          <div class="NavFrame collapsed" style="border: none; padding: 0;"> 
+           <div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:none;text-align:left;font-weight:normal;">
+            List
+           </div> 
+           <ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Slovak_language" title="Slovak language">Slovak</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/German_language" title="German language">German</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Polish_language" title="Polish language">Polish</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Belarusian_language" title="Belarusian language">Belarusian</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Bulgarian_language" title="Bulgarian language">Bulgarian</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Croatian_language" title="Croatian language">Croatian</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Greek_language" title="Greek language">Greek</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Romani_language" title="Romani language">Romani</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Russian_language" title="Russian language">Russian</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Rusyn_language" title="Rusyn language">Rusyn</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/wiki/Vietnamese_language" title="Vietnamese language">Vietnamese</a> </li>
+           </ul> 
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2011<sup id="cite_ref-Wpr_4-0" class="reference"><a href="#cite_note-Wpr-4">[4]</a></sup>)
+          </div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>64% <a href="/wiki/Czechs" title="Czechs">Czechs</a></li>
+            <li>26% undeclared</li>
+            <li>5% <a href="/w/index.php?title=Moravians&amp;action=edit&amp;redlink=1" class="new" title="Moravians (not yet started)">Moravians</a></li>
+            <li>1.4% <a href="/wiki/Slovaks" title="Slovaks">Slovaks</a></li>
+            <li>0.4% <a href="/wiki/Poles" title="Poles">Poles</a></li>
+            <li>3.2% other</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>
+             <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;line-height:1.15em">
+              86.7% non-religious or undeclared
+             </div></li>
+            <li>10.4% <a href="/wiki/Catholic_Church" title="Catholic Church">Roman Catholic</a></li>
+            <li>2.2% other Christians</li>
+            <li>0.7% other religions</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td><a href="/wiki/Czechs" title="Czechs">Czech</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><span class="nowrap"><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a><br><a href="/wiki/Constitutional_republic" title="Constitutional republic">constitutional republic</a></span></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_the_Czech_Republic" title="President of the Czech Republic">President</a> 
+          </div></th>
+         <td><a href="/wiki/Milo%C5%A1_Zeman" title="Miloš Zeman">Miloš Zeman</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Prime_Minister_of_the_Czech_Republic" title="Prime Minister of the Czech Republic">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Andrej_Babi%C5%A1" title="Andrej Babiš">Andrej Babiš</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/wiki/Parliament_of_the_Czech_Republic" title="Parliament of the Czech Republic">Parliament</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Upper_house" title="Upper house">Upper house</a>
+          </div></th>
+         <td><a href="/wiki/Senate_of_the_Czech_Republic" title="Senate of the Czech Republic">Senate</a></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Lower_house" title="Lower house">Lower house</a>
+          </div></th>
+         <td><a href="/wiki/Chamber_of_Deputies_of_the_Czech_Republic" title="Chamber of Deputies of the Czech Republic">Chamber of Deputies</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=History_of_the_Czech_Lands&amp;action=edit&amp;redlink=1" class="new" title="History of the Czech Lands (not yet started)">Formation</a></th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Duchy_of_Bohemia&amp;action=edit&amp;redlink=1" class="new" title="Duchy of Bohemia (not yet started)">Duchy of Bohemia</a> 
+          </div></th>
+         <td><a href="/wiki/Circa" title="Circa">c.</a> 870</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Kingdom_of_Bohemia&amp;action=edit&amp;redlink=1" class="new" title="Kingdom of Bohemia (not yet started)">Kingdom of Bohemia</a> 
+          </div></th>
+         <td>1198</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a>
+           <br><small>(Independence from<br><a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a>)</small> 
+          </div></th>
+         <td>28 October 1918</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Constitutional_Act_on_the_Czechoslovak_Federation&amp;action=edit&amp;redlink=1" class="new" title="Constitutional Act on the Czechoslovak Federation (not yet started)">Federalization of Czechoslovakia</a>
+           <br><small><span class="nowrap">(<a href="/w/index.php?title=Czech_Socialist_Republic&amp;action=edit&amp;redlink=1" class="new" title="Czech Socialist Republic (not yet started)">Czech Socialist Republic</a>)</span></small> 
+          </div></th>
+         <td>1 January 1969</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Czech Republic <a href="/w/index.php?title=Dissolution_of_Czechoslovakia&amp;action=edit&amp;redlink=1" class="new" title="Dissolution of Czechoslovakia (not yet started)">became independent</a> 
+          </div></th>
+         <td>1 January 1993</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<span class="nowrap"><a href="/w/index.php?title=2004_enlargement_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="2004 enlargement of the European Union (not yet started)">Joined</a> the <a href="/wiki/European_Union" title="European Union">European Union</a></span> 
+          </div></th>
+         <td>1 May 2004</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>78,866&nbsp;km<sup>2</sup> (30,450&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">115th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>2</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2016 estimate
+          </div></th>
+         <td>10,610,947 <img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><sup id="cite_ref-UN_WPP_5-0" class="reference"><a href="#cite_note-UN_WPP-5">[5]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">84th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2011&nbsp;census
+          </div></th>
+         <td>10,436,560<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>134/km<sup>2</sup> (347.1/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">87th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2017&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$368.659&nbsp;billion<sup id="cite_ref-imf2_7-0" class="reference"><a href="#cite_note-imf2-7">[7]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">50th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$35,223<sup id="cite_ref-imf2_7-1" class="reference"><a href="#cite_note-imf2-7">[7]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">39th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2017&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$196.068&nbsp;billion<sup id="cite_ref-imf2_7-2" class="reference"><a href="#cite_note-imf2-7">[7]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">49th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$19,818<sup id="cite_ref-imf2_7-3" class="reference"><a href="#cite_note-imf2-7">[7]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">41st</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2015)</span></th>
+         <td><img alt="Positive decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/11px-Decrease_Positive.svg.png" decoding="async" title="Positive decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/17px-Decrease_Positive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/22px-Decrease_Positive.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;25.0<sup id="cite_ref-eurogini_8-0" class="reference"><a href="#cite_note-eurogini-8">[8]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">low</span></span>&nbsp;·&nbsp;<a href="/w/index.php?title=List_of_countries_by_income_equality&amp;action=edit&amp;redlink=1" class="new" title="List of countries by income equality (not yet started)">5th</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2015)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.878<sup id="cite_ref-HDI_9-0" class="reference"><a href="#cite_note-HDI-9">[9]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkgreen">very high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">28th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Czech_koruna&amp;action=edit&amp;redlink=1" class="new" title="Czech koruna (not yet started)">Czech koruna</a> (<a href="/wiki/ISO_4217" title="ISO 4217">CZK</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Date format</th>
+         <td><abbr title="day">dd</abbr>/<abbr title="month">mm</abbr>/<abbr title="year">yyyy</abbr></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=Telephone_numbers_in_the_Czech_Republic&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in the Czech Republic (not yet started)">+420</a><sup>b</sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:CZ&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:CZ (not yet started)">CZ</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.cz" class="mw-redirect" title=".cz">.cz</a><sup>c</sup></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
+            <li value="1">The <a href="/wiki/Rhetorical_question" title="Rhetorical question">question is rhetorical</a>, implying "those places where my homeland lies".</li>
+            <li value="2">Code 42 was shared with <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> until 1997.</li>
+            <li value="3">Also <a href="/wiki/.eu" class="mw-redirect" title=".eu">.eu</a>, shared with other European Union member states.</li> 
+           </ol>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Karl%C5%AFv_most_Praha,_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg/250px-Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg" decoding="async" width="250" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg/375px-Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg/500px-Karl%C5%AFv_most_Praha%2C_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg 2x" data-file-width="6016" data-file-height="4016"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Karl%C5%AFv_most_Praha,_Star%C3%A9_M%C4%9Bsto_20170810_007.jpg" class="internal" title="Enlarge"></a>
+         </div>Hradčany – Prague castle
+        </div>
+       </div>
+      </div> 
+      <p>The <b>Czech Republic</b> (<a href="/wiki/Czech_language" title="Czech language">Czech</a>: <i lang="cs">Česká republika</i>, <small>pronounced&nbsp;</small><span title="Pronunciation in IPA" class="IPA"><a href="/w/index.php?title=Wikipedia:IPA_for_Czech_and_Slovak&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia:IPA for Czech and Slovak (not yet started)">[ˈtʃɛskaː ˈrɛpuˌblɪka]</a></span><small>&nbsp; <span class="nowrap">(<a href="/wiki/Media:Cs-Ceska_Republika.oga" title="Media:Cs-Ceska Republika.oga"><img alt="Speaker Icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/13px-Speaker_Icon.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/20px-Speaker_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/26px-Speaker_Icon.svg.png 2x" data-file-width="500" data-file-height="500"></a> <a href="//upload.wikimedia.org/wikipedia/commons/e/e9/Cs-Ceska_Republika.oga" class="internal" title="Cs-Ceska Republika.oga">listen</a>)</span></small>) is a <a href="/wiki/Country" title="Country">country</a> in <a href="/wiki/Central_Europe" title="Central Europe">Central Europe</a>. As of 2 May 2016 the official short name of the country is <b>Czechia</b> (<a href="/wiki/Czech_language" title="Czech language">Czech</a>: <i lang="cs">Česko</i>). The <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> and the biggest <a href="/wiki/City" title="City">city</a> is <a href="/wiki/Prague" title="Prague">Prague</a>. The <a href="/wiki/Currency" title="Currency">currency</a> is the Czech <a href="/wiki/Crown" title="Crown">Crown</a> (<i>koruna česká</i> - CZK). €1 is about 25 CZK. The <a href="/wiki/President" title="President">president</a> of Czechia is <a href="/wiki/Milo%C5%A1_Zeman" title="Miloš Zeman">Miloš Zeman</a>. Czechia's <a href="/wiki/Population" title="Population">population</a> is about 10.5 million. </p>
+      <p>The local <a href="/wiki/Language" title="***REMOVED***">language</a> is the <a href="/wiki/Czech_language" title="Czech language">Czech language</a>, a <a href="/wiki/Slavic_language" class="mw-redirect" title="Slavic language">Slavic language</a> related to languages like <a href="/wiki/Slovak_language" title="Slovak language">Slovak</a> and <a href="/wiki/Polish_language" title="Polish language">Polish</a>. </p>
+      <p>Czechia <a href="/wiki/Landlocked" class="mw-redirect" title="Landlocked">has no sea</a>; its neighbour countries are <a href="/wiki/Germany" title="Germany">Germany</a>, <a href="/wiki/Austria" title="Austria">Austria</a>, <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>, and <a href="/wiki/Poland" title="Poland">Poland</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Regions"><span class="tocnumber">3</span> <span class="toctext">Regions</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Religion"><span class="tocnumber">4</span> <span class="toctext">Religion</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Related_pages"><span class="tocnumber">6</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Other_websites"><span class="tocnumber">7</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Czech_Republic&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Czech_Republic&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Its history dates from the 9th century AD, for a long time it was one of the most powerful countries in Central Europe. Later on it was the biggest, most populated and richest country of the <a href="/wiki/First_Reich" class="mw-redirect" title="First Reich">First Reich</a>, where many Emperors started their career. Under the conditions of the Treaty of Vienna 1515 parts of Czechia, then in the Kingdoms of <a href="/wiki/Bohemia" title="Bohemia">Bohemia</a> and <a href="/wiki/Hungary" title="Hungary">Hungary</a>, came under <a href="/wiki/Habsburg_Monarchy" class="mw-redirect" title="Habsburg Monarchy">Habsburg</a> rule after the death of <a href="/w/index.php?title=Jagiellonian_dynasty&amp;action=edit&amp;redlink=1" class="new" title="Jagiellonian dynasty (not yet started)">Louis the Jagiellon</a> in 1526. They stayed a part of the Habsburg dynasty rule until 1918. </p>
+      <p>The area of the today's Czechia was a part of <a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a> (current area of Czechia and <a href="/wiki/Slovakia" title="Slovakia">Slovak republic</a>) from 1918 to 1992. Czechoslovakia became <a href="/wiki/Independence" title="Independence">independent</a> in 1918 from <a href="/wiki/Austro-Hungarian_Empire" class="mw-redirect" title="Austro-Hungarian Empire">Austro-Hungarian Empire</a>. The first Czechoslovakian president was <a href="/wiki/Tomas_Garrigue_Masaryk" class="mw-redirect" title="Tomas Garrigue Masaryk">Tomáš Garrigue Masaryk</a>. In February 1948 the <a href="/wiki/Communist" class="mw-redirect" title="Communist">Communist</a> party took over the country and for the next 41 years Czechoslovakia was a <a href="/wiki/Socialist" class="mw-redirect" title="Socialist">Socialist</a> state with a rule of one (Communist) party. In 1968 there was a reformation movement (<a href="/wiki/Prague_Spring" title="Prague Spring">Prague Spring</a>) within the Communist party, but reforms were stopped by the invasion of <a href="/wiki/Warsaw_Pact" title="Warsaw Pact">Warsaw pact</a> armies. In November 1989 Czechoslovakia returned to democracy through the peaceful "<a href="/wiki/Velvet_Revolution" title="Velvet Revolution">Velvet Revolution</a>".&nbsp; Czechoslovakia peacefully split into two countries (Czechia and Slovakia) in 1993. Czechia has been a member of the <a href="/wiki/European_Union" title="European Union">European Union</a> since May 1 2004, and a member of <a href="/wiki/NATO" title="NATO">NATO</a> since March 12, 1999. </p> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Czech_Republic&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Czech_Republic&amp;action=edit&amp;section=2" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The highest point in the country is <a href="/wiki/Sn%C4%9B%C5%BEka" title="Sněžka">Sněžka</a> at 1,602&nbsp;m (5,256&nbsp;ft). </p>
+      <p>There are four <a href="/wiki/National_park" title="National park">national parks</a> in Czechia. The oldest is <a href="/w/index.php?title=Krkono%C5%A1e_National_Park&amp;action=edit&amp;redlink=1" class="new" title="Krkonoše National Park (not yet started)">Krkonoše National Park</a>. The others are <a href="/w/index.php?title=%C5%A0umava_National_Park&amp;action=edit&amp;redlink=1" class="new" title="Šumava National Park (not yet started)">Šumava National Park</a>, <a href="/w/index.php?title=Podyj%C3%AD_National_Park&amp;action=edit&amp;redlink=1" class="new" title="Podyjí National Park (not yet started)">Podyjí National Park</a>, <a href="/w/index.php?title=Bohemian_Switzerland&amp;action=edit&amp;redlink=1" class="new" title="Bohemian Switzerland (not yet started)">Bohemian Switzerland</a>. </p> 
+      <h2><span class="mw-headline" id="Regions">Regions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Czech_Republic&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Regions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Czech_Republic&amp;action=edit&amp;section=3" title="Change section: Regions">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: <a href="/wiki/List_of_cities_in_the_Czech_Republic" title="List of cities in the Czech Republic">List of cities in the Czech Republic</a>
+      </div> 
+      <p>In 1949 the communist government created 13 centralized regions instead of historical countries. In 1960 the regions changed leaving only 8 regions. In 2000 14 regions were formed with their own regional self-government. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>English name </th> 
+         <th>Czech name </th> 
+         <th>Administrative seat </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Prague" title="Prague">Prague</a>, the Capital City </td> 
+         <td>Hlavní město Praha </td> 
+         <td><a href="/wiki/Prague" title="Prague">Prague</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Central_Bohemian_Region" title="Central Bohemian Region">Central Bohemian Region</a> </td> 
+         <td>Středočeský kraj </td> 
+         <td><a href="/wiki/Prague" title="Prague">Prague</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/South_Bohemian_Region" title="South Bohemian Region">South Bohemian Region</a> </td> 
+         <td>Jihočeský kraj </td> 
+         <td><a href="/wiki/%C4%8Cesk%C3%A9_Bud%C4%9Bjovice" title="České Budějovice">České Budějovice</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Plze%C5%88_Region" title="Plzeň Region">Plzeň Region</a> </td> 
+         <td>Plzeňský kraj </td> 
+         <td><a href="/wiki/Plze%C5%88" title="Plzeň">Plzeň</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Karlovy_Vary_Region" title="Karlovy Vary Region">Karlovy Vary Region</a> </td> 
+         <td>Karlovarský kraj </td> 
+         <td><a href="/wiki/Karlovy_Vary" title="Karlovy Vary">Karlovy Vary</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%C3%9Ast%C3%AD_nad_Labem_Region" title="Ústí nad Labem Region">Ústí nad Labem Region</a> </td> 
+         <td>Ústecký kraj </td> 
+         <td><a href="/wiki/%C3%9Ast%C3%AD_nad_Labem" title="Ústí nad Labem">Ústí nad Labem</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Liberec_Region" title="Liberec Region">Liberec Region</a> </td> 
+         <td>Liberecký kraj </td> 
+         <td><a href="/wiki/Liberec" title="Liberec">Liberec</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Hradec_Kr%C3%A1lov%C3%A9_Region" title="Hradec Králové Region">Hradec Králové Region</a> </td> 
+         <td>Královehradecký kraj </td> 
+         <td><a href="/w/index.php?title=Hradec_Kr%C3%A1lov%C3%A9&amp;action=edit&amp;redlink=1" class="new" title="Hradec Králové (not yet started)">Hradec Králové</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Pardubice_Region" title="Pardubice Region">Pardubice Region</a> </td> 
+         <td>Pardubický kraj </td> 
+         <td><a href="/wiki/Pardubice" title="Pardubice">Pardubice</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Olomouc_Region" title="Olomouc Region">Olomouc Region</a> </td> 
+         <td>Olomoucký kraj </td> 
+         <td><a href="/wiki/Olomouc" title="Olomouc">Olomouc</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Moravian-Silesian_Region" title="Moravian-Silesian Region">Moravian-Silesian Region</a> </td> 
+         <td>Moravskoslezský kraj </td> 
+         <td><a href="/wiki/Ostrava" title="Ostrava">Ostrava</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/South_Moravian_Region" title="South Moravian Region">South Moravian Region</a> </td> 
+         <td>Jihomoravský kraj </td> 
+         <td><a href="/wiki/Brno" title="Brno">Brno</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Zl%C3%ADn_Region" title="Zlín Region">Zlín Region</a> </td> 
+         <td>Zlínský kraj </td> 
+         <td><a href="/wiki/Zl%C3%ADn" title="Zlín">Zlín</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Vyso%C4%8Dina_region" title="Vysočina region">Vysočina region</a> </td> 
+         <td>Kraj Vysočina </td> 
+         <td><a href="/w/index.php?title=Jihlava&amp;action=edit&amp;redlink=1" class="new" title="Jihlava (not yet started)">Jihlava</a> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Czech_Republic&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Religion">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Czech_Republic&amp;action=edit&amp;section=4" title="Change section: Religion">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="barbox tright" style="overflow-x: auto;"> 
+       <div style="border:1px solid silver; font-size:88%; padding:0.4em; width:auto; background: white;"> 
+        <table style="text-align:left; border-collapse:collapse; width:100%;"> 
+         <tbody>
+          <tr style="background:">
+           <th style="text-align:center;" colspan="5">Religion in the Czech Republic (2011)<sup id="cite_ref-Czech_Statistical_Office_10-0" class="reference"><a href="#cite_note-Czech_Statistical_Office-10">[10]</a></sup></th>
+          </tr> 
+          <tr style="font-size:88%; height:4px;"> 
+           <td style="padding:0 4px; text-align:left;"></td> 
+           <td style="padding:0 4px; text-align:right;"></td> 
+           <td style="width:100px; text-align:left;"></td> 
+           <td style="padding:0 4px; width:1em; text-align:right;"></td> 
+           <td style="padding:0 4px; text-align:right;"></td> 
+          </tr> 
+          <tr> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Undeclared</td> 
+           <td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+            <div style="background:DarkGray; width:45.2%; overflow: hidden;">
+              
+            </div></td> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">45.2%</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Irreligion</td> 
+           <td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+            <div style="background:Gray; width:34.2%; overflow: hidden;">
+              
+            </div></td> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">34.2%</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Roman Catholicism</td> 
+           <td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+            <div style="background:MediumOrchid; width:10.3%; overflow: hidden;">
+              
+            </div></td> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">10.3%</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Other religions</td> 
+           <td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+            <div style="background:YellowGreen; width:9.4%; overflow: hidden;">
+              
+            </div></td> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">9.4%</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Protestantism</td> 
+           <td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+            <div style="background:DodgerBlue; width:0.8%; overflow: hidden;">
+              
+            </div></td> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">0.8%</td> 
+          </tr> 
+         </tbody>
+        </table> 
+       </div> 
+      </div> 
+      <p>Czechia has one of the least religious populations in the world. According to the 2011 census, 34.2% of the population stated they had no religion, 10.3% were <a href="/wiki/Roman_Catholic" class="mw-redirect" title="Roman Catholic">Roman Catholic</a>, 0.8% were <a href="/wiki/Protestantism" title="Protestantism">Protestant</a> (0.5% <a href="/w/index.php?title=Evangelical_Church_of_Czech_Brethren&amp;action=edit&amp;redlink=1" class="new" title="Evangelical Church of Czech Brethren (not yet started)">Czech Brethren</a> and 0.4% <a href="/w/index.php?title=Hussite_Church&amp;action=edit&amp;redlink=1" class="new" title="Hussite Church (not yet started)">Hussite</a>), and 9.4% followed other forms of religion both denominational or not (of which 863 people answered they are <a href="/wiki/Neopaganism" class="mw-redirect" title="Neopaganism">Pagan</a>). 45.2% of the population did not answer the question about religion. </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Czech_Republic&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Czech_Republic&amp;action=edit&amp;section=5" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.czech.cz/en/67019-czech-language">"Czech language"</a>. <i>Czech Republic – Official website</i>. <a href="/w/index.php?title=Ministry_of_Foreign_Affairs_(Czech_Republic)&amp;action=edit&amp;redlink=1" class="new" title="Ministry of Foreign Affairs (Czech Republic) (not yet started)">Ministry of Foreign Affairs of the Czech Republic</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Czech+Republic+%E2%80%93+Official+website&amp;rft.atitle=Czech+language&amp;rft_id=http%3A%2F%2Fwww.czech.cz%2Fen%2F67019-czech-language&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACzech+Republic" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-languages-2"><span class="mw-cite-backlink"><a href="#cite_ref-languages_2-0">↑</a></span> <span class="reference-text">Citizens belonging to minorities, which traditionally and on a long-term basis live within the territory of the Czech Republic, enjoy the right to use their language in communication with authorities and in courts of law (for the list of recognized minorities see <a rel="nofollow" class="external text" href="http://www.vlada.cz/en/pracovni-a-poradni-organy-vlady/rnm/historie-a-soucasnost-rady-en-16666/">National Minorities Policy of the Government of the Czech Republic</a>, Belorussian and Vietnamese since 4 July 2013, see <a rel="nofollow" class="external text" href="http://zpravy.idnes.cz/vietnamci-oficialni-narodnostni-mensinou-fiq-/domaci.aspx?c=A130703_133019_domaci_jj">Česko má nové oficiální národnostní menšiny. Vietnamce a Bělorusy</a>). Article 25 of the Czech <a href="/w/index.php?title=Charter_of_Fundamental_Rights_and_Basic_Freedoms&amp;action=edit&amp;redlink=1" class="new" title="Charter of Fundamental Rights and Basic Freedoms (not yet started)">Charter of Fundamental Rights and Basic Freedoms</a> ensures the right of the national and ethnic minorities to education and communication with the authorities in their own language. Act No. 500/2004 Coll. (<i>The Administrative Rule</i>) in its paragraph 16 (4) (<i>Procedural Language</i>) ensures that a citizen of the Czech Republic who belongs to a national or an ethnic minority, which traditionally and on a long-term basis lives within the territory of the Czech Republic, has the right to address an administrative agency and proceed before it in the language of the minority. If the administrative agency has no employee with knowledge of the language, the agency is bound to obtain a translator at the agency's own expense. According to Act No. 273/2001 (<i>Concerning the Rights of Members of Minorities</i>) paragraph 9 (<i>The right to use language of a national minority in dealing with authorities and in front of the courts of law</i>) the same also applies to members of national minorities in the courts of law.</span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">The Slovak language may be considered an official language in the Czech Republic under certain circumstances, as defined by several laws – e.g. law 500/2004, 337/1992. Source: <a rel="nofollow" class="external free" href="http://portal.gov.cz">http://portal.gov.cz</a>. Cited: "Například Správní řád (zákon č. 500/2004 Sb.) stanovuje: "V řízení se jedná a písemnosti se vyhotovují v českém jazyce. Účastníci řízení mohou jednat a písemnosti mohou být předkládány i v jazyce slovenském&nbsp;..." (§&nbsp;16, odstavec 1). Zákon o správě daní a poplatků (337/1992 Sb.) "Úřední jazyk: Před správcem daně se jedná v jazyce českém nebo slovenském. Veškerá písemná podání se předkládají v češtině nebo slovenštině&nbsp;..." (§&nbsp;3, odstavec 1). <a rel="nofollow" class="external free" href="http://portal.gov.cz">http://portal.gov.cz</a></span> </li> 
+         <li id="cite_note-Wpr-4"><span class="mw-cite-backlink"><a href="#cite_ref-Wpr_4-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://worldpopulationreview.com/countries/czech-republic-population/">"Czech Republic Population 2014"</a>. World Population Review<span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Czech+Republic+Population+2014&amp;rft.pub=World+Population+Review&amp;rft_id=http%3A%2F%2Fworldpopulationreview.com%2Fcountries%2Fczech-republic-population%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACzech+Republic" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-UN_WPP-5"><span class="mw-cite-backlink"><a href="#cite_ref-UN_WPP_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://esa.un.org/unpd/wpp/DataQuery/">"World Population Prospects: The 2017 Revision"</a>. <i>ESA.UN.org</i> (custom data acquired via website). <a href="/w/index.php?title=United_Nations_Department_of_Economic_and_Social_Affairs&amp;action=edit&amp;redlink=1" class="new" title="United Nations Department of Economic and Social Affairs (not yet started)">United Nations Department of Economic and Social Affairs</a>, Population Division<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ESA.UN.org&amp;rft.atitle=World+Population+Prospects%3A+The+2017+Revision&amp;rft_id=https%3A%2F%2Fesa.un.org%2Funpd%2Fwpp%2FDataQuery%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACzech+Republic" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.scitani.cz/sldb2011/eng/redakce.nsf/i/census_2011_basic_final_results/$File/SLDB-ZAKL-CR_en.xls">Census of Population and Housing 2011: Basic final results</a>. <a rel="nofollow" class="external text" href="http://www.czso.cz/eng/redakce.nsf/i/home">Czech Statistical Office</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110129060510/http://www.czso.cz/eng/redakce.nsf/i/home">Archived</a> 29 January 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved on 19 December 2012.</span> </li> 
+         <li id="cite_note-imf2-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_7-0">7.0</a></sup> <sup><a href="#cite_ref-imf2_7-1">7.1</a></sup> <sup><a href="#cite_ref-imf2_7-2">7.2</a></sup> <sup><a href="#cite_ref-imf2_7-3">7.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=49&amp;pr.y=15&amp;sy=2017&amp;ey=2017&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=935&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&amp;grp=0&amp;a=">"Czech Republic"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Czech+Republic&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2017%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D49%26pr.y%3D15%26sy%3D2017%26ey%3D2017%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D935%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACzech+Republic" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-eurogini-8"><span class="mw-cite-backlink"><a href="#cite_ref-eurogini_8-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100416165655/http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do">"Gini coefficient of equivalised disposable income (source: SILC)"</a>. Eurostat Data Explorer. Archived from <a rel="nofollow" class="external text" href="http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do">the original</a> on 16 April 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">22 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gini+coefficient+of+equivalised+disposable+income+%28source%3A+SILC%29&amp;rft.pub=Eurostat+Data+Explorer&amp;rft_id=http%3A%2F%2Fappsso.eurostat.ec.europa.eu%2Fnui%2FsubmitViewTableAction.do&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACzech+Republic" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-9"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_9-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf">"2016 Human Development Report"</a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">23 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2016+Human+Development+Report&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2016&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2F2016_human_development_report.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACzech+Republic" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Czech_Statistical_Office-10"><span class="mw-cite-backlink"><a href="#cite_ref-Czech_Statistical_Office_10-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.czso.cz/sldb2011/eng/redakce.nsf/i/tab_7_1_population_by_religious_belief_and_by_municipality_size_groups/$File/PVCR071_ENG.pdf">"Population by religious belief and by municipality size groups"</a> <span class="cs1-format">(PDF)</span>. Czech Statistical Office<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Population+by+religious+belief+and+by+municipality+size+groups&amp;rft.pub=Czech+Statistical+Office&amp;rft_id=http%3A%2F%2Fwww.czso.cz%2Fsldb2011%2Feng%2Fredakce.nsf%2Fi%2Ftab_7_1_population_by_religious_belief_and_by_municipality_size_groups%2F%24File%2FPVCR071_ENG.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACzech+Republic" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Czech_Republic&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Czech_Republic&amp;action=edit&amp;section=6" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Czech_Republic_at_the_Olympics" title="Czech Republic at the Olympics">Czechia at the Olympics</a></li> 
+       <li><a href="/wiki/Czech_Republic_national_football_team" title="Czech Republic national football team">Czechia's national football team</a></li> 
+       <li><a href="/wiki/List_of_rivers_of_the_Czech_Republic" title="List of rivers of the Czech Republic">List of rivers of Czechia</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Czech_Republic&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Czech_Republic&amp;action=edit&amp;section=7" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Czech_Republic" class="extiw" title="commons:Czech Republic">Czech Republic</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://czech.europe-countries.com">Czechia pictures</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.europe-atlas.com/czech-republic-map.htm">Czechia map</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://mapy.centrum.cz">Czechia map - Google Maps style</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://europencompanyformation.com/index.php/immigration-to-europe">Czechia - Immigration</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://europencompanyformation.com/index.php/business-in-czech-and-eu/starting-a-business">Czechia - Business</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.t4ten.com/places-to-visit-in-czech-republic/">Czech Republic</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/46px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></span> <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/Europe" title="Europe">Europe</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Country" title="Country">Countries</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a> – <a href="/wiki/Andorra" title="Andorra">Andorra</a> – <a href="/wiki/Austria" title="Austria">Austria</a> – <a href="/wiki/Belarus" title="Belarus">Belarus</a> – <a href="/wiki/Belgium" title="Belgium">Belgium</a> – <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a> – <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> – <a href="/wiki/Croatia" title="Croatia">Croatia</a> – <a href="/wiki/Republic_of_Cyprus" title="Republic of Cyprus">Republic of Cyprus</a><sup>1</sup> – <a class="mw-selflink selflink">Czech Republic</a> – <a href="/wiki/Denmark" title="Denmark">Denmark</a><sup>2,4</sup> – <a href="/wiki/Estonia" title="Estonia">Estonia</a> – <a href="/wiki/Finland" title="Finland">Finland</a> – <a href="/wiki/France" title="France">France</a><sup>4</sup> – <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a><sup>1</sup> – <a href="/wiki/Germany" title="Germany">Germany</a> – <a href="/wiki/Greece" title="Greece">Greece</a> – <a href="/wiki/Hungary" title="Hungary">Hungary</a> – <a href="/wiki/Iceland" title="Iceland">Iceland</a> – <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a> – <a href="/wiki/Italy" title="Italy">Italy</a> – <a href="/wiki/Latvia" title="Latvia">Latvia</a> – <a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a> – <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> – <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a> – <a href="/wiki/Malta" title="Malta">Malta</a> – <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a> – <a href="/wiki/Moldova" title="Moldova">Moldova</a> – <a href="/wiki/Monaco" title="Monaco">Monaco</a> – <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> – <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a><sup>4</sup> – <a href="/wiki/Norway" title="Norway">Norway</a><sup>4</sup> – <a href="/wiki/Poland" title="Poland">Poland</a> – <a href="/wiki/Portugal" title="Portugal">Portugal</a><sup>4,6</sup> – <a href="/wiki/Romania" title="Romania">Romania</a> – <a href="/wiki/Russia" title="Russia">Russia</a><sup>1</sup> – <a href="/wiki/San_Marino" title="San Marino">San Marino</a> – <a href="/wiki/Serbia" title="Serbia">Serbia</a> – <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> – <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a> – <a href="/wiki/Spain" title="Spain">Spain</a><sup>4,6</sup> – <a href="/wiki/Sweden" title="Sweden">Sweden</a> – <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> – <a href="/wiki/Turkey" title="Turkey">Turkey</a><sup>1</sup> – <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> – <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><sup>4</sup> – <a href="/wiki/Vatican_City" title="Vatican City">Vatican City</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_dependent_territories" class="mw-redirect" title="List of dependent territories">Dependencies</a></b></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a><sup>1</sup> – <a href="/wiki/Azores" title="Azores">Azores</a><sup>5</sup> – <a href="/wiki/Ceuta" title="Ceuta">Ceuta</a><sup>5, 6</sup> – <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a><sup>5</sup> – <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a><sup>5</sup> – <a href="/wiki/Greenland" title="Greenland">Greenland</a><sup>5,2</sup> – <a href="/wiki/Guernsey" title="Guernsey">Guernsey</a> – <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a> – <a href="/wiki/Jersey" title="Jersey">Jersey</a> – <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a> – <a href="/wiki/Melilla" title="Melilla">Melilla</a><sup>5,6</sup> – <a href="/wiki/Svalbard" title="Svalbard">Svalbard</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_unrecognized_countries" class="mw-redirect" title="List of unrecognized countries">Other Countries</a></b></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Abkhazia" title="Abkhazia">Abkhazia</a><sup>1,3</sup> – <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a><sup>3</sup> – <a href="/wiki/South_Ossetia" title="South Ossetia">South Ossetia</a><sup>1, 3</sup> – <a href="/wiki/Transnistria" title="Transnistria">Transnistria</a> – <a href="/wiki/Turkish_Republic_of_Northern_Cyprus" class="mw-redirect" title="Turkish Republic of Northern Cyprus">Turkish Republic of Northern Cyprus</a><sup>1,3</sup>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            1. <a href="/wiki/Transcontinental_country" title="Transcontinental country">Transcontinental country</a>/territory that can be considered both Europe and Asia 2. Territory or with territory geographically part of North America 3. Partially recognized. 4. not all dependent territories are listed 5. Territory has some form of self-rule. 6. Territory or with territory geographically part of Africa
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="European_Union_member_and_candidate_countries" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div id="European_Union_member_and_candidate_countries" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/European_Union" title="European Union">European Union</a> member and candidate countries
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Current members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Austria" title="Austria">Austria</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Czech&nbsp;Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/Finland" title="Finland">Finland</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Malta" title="Malta">Malta</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Sweden" title="Sweden">Sweden</a>
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Flag_of_Europe.svg" class="image"><img alt="Flag of Europe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/65px-Flag_of_Europe.svg.png" decoding="async" width="65" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/98px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/130px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Candidates</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>&nbsp;<b>·</b> <a href="/wiki/Serbia" title="Serbia">Serbia</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Potential candidates</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a>&nbsp;<b>·</b> <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Former members</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <a href="/w/index.php?title=List_of_European_Union_member_states_by_accession&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by accession (not yet started)">by accession</a>&nbsp;<b>·</b> <a href="/w/index.php?title=List_of_European_Union_member_states_by_political_system&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by political system (not yet started)">by political system</a>&nbsp;<b>·</b> <a href="/wiki/List_of_European_Union_member_states_by_population" class="mw-redirect" title="List of European Union member states by population">by population</a>&nbsp;<b>·</b> <a href="/w/index.php?title=Economy_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="Economy of the European Union (not yet started)">by GDP</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="North_Atlantic_Treaty_Organization_(NATO)" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_Atlantic_Treaty_Organisation_(NATO)" title="Template:North Atlantic Treaty Organisation (NATO)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:North_Atlantic_Treaty_Organisation_(NATO)" title="Template talk:North Atlantic Treaty Organisation (NATO)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_Atlantic_Treaty_Organisation_(NATO)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="North_Atlantic_Treaty_Organization_(NATO)" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/North_Atlantic_Treaty_Organisation" class="mw-redirect" title="North Atlantic Treaty Organisation">North Atlantic Treaty Organization (NATO)</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Member countries</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Canada" title="Canada">Canada</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Czech Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Norway" title="Norway">Norway</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>&nbsp;<b>·</b> <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&nbsp;<b>·</b> <a href="/wiki/United_States" title="United States">United States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1306
+Cached time: 20201215182146
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.864 seconds
+Real time usage: 1.096 seconds
+Preprocessor visited node count: 4973/1000000
+Post‐expand include size: 140211/2097152 bytes
+Template argument size: 22515/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 28774/5000000 bytes
+Lua time usage: 0.383/10.000 seconds
+Lua memory usage: 23967118/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  893.631      1 -total
+ 69.62%  622.137      1 Template:Infobox_country
+ 67.28%  601.197      3 Template:Infobox
+ 19.96%  178.368      3 Template:Lang
+ 19.93%  178.145      1 Template:Native_name
+ 18.46%  164.943      1 Template:Reflist
+ 14.75%  131.815      7 Template:Cite_web
+  5.40%   48.242     19 Template:If_empty
+  4.84%   43.217      2 Template:Convinfobox
+  4.73%   42.258      3 Template:Navbox
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:6439-0!canonical and timestamp 20201215182146 and revision id 6978929. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Czech_Republic&amp;oldid=6978929">https://simple.wikipedia.org/w/index.php?title=Czech_Republic&amp;oldid=6978929</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Members_of_NATO" title="Category:Members of NATO">Members of NATO</a></li>
+       <li><a href="/wiki/Category:1993_establishments_in_Europe" title="Category:1993 establishments in Europe">1993 establishments in Europe</a></li>
+       <li><a href="/wiki/Category:Czech_Republic" title="Category:Czech Republic">Czech Republic</a></li>
+       <li><a href="/wiki/Category:European_Union_member_states" title="Category:European Union member states">European Union member states</a></li>
+       <li><a href="/wiki/Category:Landlocked_countries" title="Category:Landlocked countries">Landlocked countries</a></li>
+       <li><a href="/wiki/Category:States_and_territories_established_in_the_1990s" title="Category:States and territories established in the 1990s">States and territories established in the 1990s</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Czech-language_text" title="Category:Articles containing Czech-language text">Articles containing Czech-language text</a></li>
+       <li><a href="/wiki/Category:Pages_using_collapsible_list_with_both_background_and_text-align_in_titlestyle" title="Category:Pages using collapsible list with both background and text-align in titlestyle">Pages using collapsible list with both background and text-align in titlestyle</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Czech+Republic" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Czech+Republic" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Czech_Republic" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Czech_Republic" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Czech_Republic">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Czech_Republic&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Czech_Republic&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Czech_Republic&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Czech_Republic" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Czech_Republic" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Czech_Republic&amp;oldid=6978929" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Czech_Republic&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Czech_Republic&amp;id=6978929&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q213" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Czech+Republic">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Czech_Republic&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Czech_Republic&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Czech_Republic" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/C%C3%A8kia" title="Cèkia – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8D" title="Чехиэ – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D0%B5" title="Чехие – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Tsjeggi%C3%AB" title="Tsjeggië – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Czechia" title="Czechia – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Tschechien" title="Tschechien – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%89%B8%E1%8A%AA%E1%8B%AB" title="ቸኪያ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/T%C5%A1ekki" title="Tšekki – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Cecland" title="Cecland – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D0%B0" title="Чехиа – Abkhazian" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%B4%D9%8A%D9%83" title="التشيك – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Republica_Checa" title="Republica Checa – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%AC%DC%AB%DC%9D%DC%9F" title="ܬܫܝܟ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/Cehia" title="Cehia – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/R%C3%A8publica_tch%C3%A8ca" title="Rèpublica tchèca – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Chequia" title="Chequia – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-awa"><a href="https://awa.wikipedia.org/wiki/%E0%A4%9A%E0%A5%87%E0%A4%95_%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95" title="चेक रिपब्लिक – Awadhi" lang="awa" hreflang="awa" class="interlanguage-link-target">अवधी</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Chek%C3%ADa" title="Chekía – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Chexya_Ripublika" title="Chexya Ripublika – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C3%87exiya" title="Çexiya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%DA%86%DA%A9_%D8%AC%D9%88%D9%85%D9%87%D9%88%D8%B1%DB%8C%D8%AA%DB%8C" title="چک جومهوریتی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/R%C3%A9publik_C%C3%A9ko" title="Républik Céko – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A7%87%E0%A6%95_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0" title="চেক প্রজাতন্ত্র – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Chesko" title="Chesko – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Ceko" title="Ceko – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A7%D1%8D%D1%85%D1%96%D1%8F" title="Чэхія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A7%D1%8D%D1%85%D1%96%D1%8F" title="Чэхія – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%9A%E0%A5%87%E0%A4%95_%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95" title="चेक रिपब्लिक – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Tsekya" title="Tsekya – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Czechia" title="Czechia – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Tschechei" title="Tschechei – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%85%E0%BD%BA%E0%BC%8B%E0%BD%81%E0%BD%BA%E0%BC%8D" title="ཅེ་ཁེ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/%C4%8Ce%C5%A1ka" title="Češka – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Republik_Tchek" title="Republik Tchek – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8" title="Чехи – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Tx%C3%A8quia" title="Txèquia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Чех Республики – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Nasod_nga_Czech" title="Nasod nga Czech – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C4%8Cesko" title="Česko – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-ch"><a href="https://ch.wikipedia.org/wiki/Chekia" title="Chekia – Chamorro" lang="ch" hreflang="ch" class="interlanguage-link-target">Chamoru</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Chequia" title="Chequia – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Czechia" title="Czechia – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-tum"><a href="https://tum.wikipedia.org/wiki/Czechia" title="Czechia – Tumbuka" lang="tum" hreflang="tum" class="interlanguage-link-target">ChiTumbuka</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Cecch%C3%ACa" title="Cecchìa – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Y_Weriniaeth_Tsiec" title="Y Weriniaeth Tsiec – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Tjekkiet" title="Tjekkiet – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%B4%D9%8A%D9%83" title="التشيك – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/%C4%8Ceahkka" title="Čeahkka – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-pdc"><a href="https://pdc.wikipedia.org/wiki/Tschecherei" title="Tschecherei – Pennsylvania German" lang="pdc" hreflang="pdc" class="interlanguage-link-target">Deitsch</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tschechien" title="Tschechien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%97%DE%AC%DE%86%DE%B0_%DE%96%DE%AA%DE%89%DE%B0%DE%80%DE%AB%DE%83%DE%A8%DE%87%DE%B0%DE%94%DE%A7" title="ޗެކް ޖުމްހޫރިއްޔާ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/%C4%8Ceska" title="Česka – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%9A%E0%A5%87%E0%A4%95_%E0%A4%97%E0%A4%A3%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0" title="चेक गणतन्त्र – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-dz"><a href="https://dz.wikipedia.org/wiki/%E0%BD%85%E0%BD%BA%E0%BD%80%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BC%8B%E0%BD%94%E0%BD%96%E0%BC%8B%E0%BD%A3%E0%BD%B2%E0%BD%80%E0%BC%8B" title="ཅེཀ་རི་པབ་ལིཀ་ – Dzongkha" lang="dz" hreflang="dz" class="interlanguage-link-target">ཇོང་ཁ</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/T%C5%A1ehhi" title="Tšehhi – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A4%CF%83%CE%B5%CF%87%CE%AF%CE%B1" title="Τσεχία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Czech_Republic" title="Czech Republic – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Чехия Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Rep%C3%BAblica_Checa" title="República Checa – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://eo.wikipedia.org/wiki/%C4%88e%C4%A5io" title="Ĉeĥio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Rep%C3%BAbrica_Checa" title="Repúbrica Checa – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Txekia" title="Txekia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Czechia" title="Czechia – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%DA%86%DA%A9" title="جمهوری چک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Czechia" title="Czechia – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Kekkia" title="Kekkia – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Tch%C3%A9quie" title="Tchéquie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Tsjechje" title="Tsjechje – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Cekiya" title="Cekiya – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Republiche_Ceche" title="Republiche Ceche – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_tSeic" title="An tSeic – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Phobblaght_%C3%87heck" title="Yn Phobblaght Çheck – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/%C3%87ehiya" title="Çehiya – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/An_t-Seic" title="An t-Seic – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Rep%C3%BAblica_Checa" title="República Checa – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8D%84%F0%90%8D%83%F0%90%8C%BE%F0%90%8C%B0%F0%90%8C%B9%F0%90%8C%BA%F0%90%8C%B0%F0%90%8C%BB%F0%90%8C%B0%F0%90%8C%BD%F0%90%8C%B3" title="𐍄𐍃𐌾𐌰𐌹𐌺𐌰𐌻𐌰𐌽𐌳 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%9D%E0%A5%87%E0%A4%95_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A4%BE%E0%A4%B8%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%95" title="झेक प्रजासत्ताक – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Chhia%CC%8Dp-khiet" title="Chhia̍p-khiet – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%BC%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Чехмудин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B2%B4%EC%BD%94" title="체코 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Kazech" title="Kazech – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Tiekia" title="Tiekia – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%89%D5%A5%D5%AD%D5%AB%D5%A1" title="Չեխիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%87%E0%A4%95_%E0%A4%97%E0%A4%A3%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF" title="चेक गणराज्य – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/%C4%8C%C4%9Bska" title="Čěska – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/%C4%8Ce%C5%A1ka" title="Češka – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Chekia" title="Chekia – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Chekia" title="Chekia – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Republika_a_Tseka" title="Republika a Tseka – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%9A%E0%A7%87%E0%A6%95_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0" title="চেক প্রজাতন্ত্র – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ceko" title="Ceko – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Republica_Chec" title="Republica Chec – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://ie.wikipedia.org/wiki/Tchekia" title="Tchekia – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-ik"><a href="https://ik.wikipedia.org/wiki/Czechia" title="Czechia – Inupiaq" lang="ik" hreflang="ik" class="interlanguage-link-target">Iñupiak</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8" title="Чехи – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/ITsheki" title="ITsheki – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/T%C3%A9kkland" title="Tékkland – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Repubblica_Ceca" title="Repubblica Ceca – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A6%27%D7%9B%D7%99%D7%94" title="צ'כיה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/R%C3%A9publik_C%C3%A9ko" title="Républik Céko – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/C%C9%9B%C9%9Bk%C9%A9" title="Cɛɛkɩ – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Tjekkia" title="Tjekkia – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%9C%E0%B3%86%E0%B2%95%E0%B3%8D_%E0%B2%97%E0%B2%A3%E0%B2%B0%E0%B2%BE%E0%B2%9C%E0%B3%8D%E0%B2%AF" title="ಜೆಕ್ ಗಣರಾಜ್ಯ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Republikang_Tseku" title="Republikang Tseku – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A9%E1%83%94%E1%83%AE%E1%83%94%E1%83%97%E1%83%98" title="ჩეხეთი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Czesk%C3%B4_Rep%C3%B9blika" title="Czeskô Repùblika – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Pow_Chek" title="Pow Chek – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Cekiya" title="Cekiya – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Ucheki" title="Ucheki – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/R%C3%A9publique_tch%C3%A8que" title="République tchèque – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Ceska" title="Ceska – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Repiblik_Tch%C3%A8k" title="Repiblik Tchèk – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/R%C3%A9piblik_tch%C3%A8k" title="Répiblik tchèk – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/%C3%87ekya" title="Çekya – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Republica_Ceca" title="Republica Ceca – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Repuvlika_Cheka" title="Repuvlika Cheka – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lbe"><a href="https://lbe.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Lak" lang="lbe" hreflang="lbe" class="interlanguage-link-target">Лакку</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%AA%E0%BA%B2%E0%BA%97%E0%BA%B2%E0%BA%A5%E0%BA%B0%E0%BA%99%E0%BA%B0%E0%BA%A5%E0%BA%B1%E0%BA%94%E0%BB%80%E0%BA%8A%E0%BA%B1%E0%BA%81" title="ສາທາລະນະລັດເຊັກ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%DA%A9%D9%88%D9%85%D8%B1%D9%B1_%DA%A4%D9%84%D8%A7%D8%AA_%DA%86%DA%A9" title="کومرٱ ڤلات چک – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/%C4%8Cekeja" title="Čekeja – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Cechia" title="Cechia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/%C4%8Cehija" title="Čehija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Tschechesch_Republik" title="Tschechesch Republik – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Lezghian" lang="lez" hreflang="lez" class="interlanguage-link-target">Лезги</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/%C4%8Cekija" title="Čekija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Repubbrica_Ceca" title="Repubbrica Ceca – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Tsjechi%C3%AB" title="Tsjechië – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Shekia" title="Shekia – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Txesco" title="Txesco – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/%C4%8Ceehii" title="Čeehii – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/tcesk.zei_gubyseltru" title="tcesk.zei gubyseltru – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Cechia" title="Cechia – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Csehorsz%C3%A1g" title="Csehország – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%88%D0%BA%D0%B0" title="Чешка – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Tsekia" title="Tsekia – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B5%86%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D%E2%80%8C_%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%AC%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D%E2%80%8C" title="ചെക്ക്‌ റിപ്പബ്ലിക്ക്‌ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/%C4%8Aekja" title="Ċekja – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/T%C4%ABekia" title="Tīekia – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%9A%E0%A5%87%E0%A4%95_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A4%BE%E0%A4%B8%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%95" title="चेक प्रजासत्ताक – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A9%E1%83%94%E1%83%AE%E1%83%94%E1%83%97%E1%83%98" title="ჩეხეთი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%AA%D8%B4%D9%8A%D9%83%D9%8A%D8%A7" title="تشيكيا – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%DA%86%DA%A9_(%DA%A9%D8%B4%D9%88%D8%B1)" title="چک (کشور) – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Republik_Czech" title="Republik Czech – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Ci%C4%95k-k%C3%A1ik" title="Ciĕk-káik – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%BC%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Чехмастор – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85" title="Чех – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%81%E1%80%BB%E1%80%80%E1%80%BA%E1%80%9E%E1%80%99%E1%80%B9%E1%80%99%E1%80%90%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ချက်သမ္မတနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Tsiekia" title="Tsiekia – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Tsjechi%C3%AB" title="Tsjechië – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Tsjechie" title="Tsjechie – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%9A%E0%A5%87%E0%A4%95_%E0%A4%97%E0%A4%A3%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0" title="चेक गणतन्त्र – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%9A%E0%A5%87%E0%A4%95_%E0%A4%97%E0%A4%A3%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0" title="चेक गणतन्त्र – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3" title="チェコ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Repubbreca_Ceca" title="Repubbreca Ceca – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8" title="Чехи – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Tschechien" title="Tschechien – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Chekya" title="Chekya – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Tsjekkia" title="Tsjekkia – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Tsjekkia" title="Tsjekkia – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Tch%C3%A9quie" title="Tchéquie – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Chekia" title="Chekia – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Republica_Ch%C3%A8ca" title="Republica Chèca – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D0%B9" title="Чехий – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%9A%E0%AD%87%E0%AC%95%E0%AD%8D_%E0%AC%97%E0%AC%A3%E0%AC%B0%E0%AC%BE%E0%AC%9C%E0%AD%8D%E0%AD%9F" title="ଚେକ୍ ଗଣରାଜ୍ୟ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Cheekiyaa" title="Cheekiyaa – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Chexiya" title="Chexiya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%9A%E0%A9%88%E0%A9%B1%E0%A8%95_%E0%A8%97%E0%A8%A3%E0%A8%B0%E0%A8%BE%E0%A8%9C" title="ਚੈੱਕ ਗਣਰਾਜ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%9A%E0%A5%87%E0%A4%95_%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95" title="चेक रिपब्लिक – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pfl"><a href="https://pfl.wikipedia.org/wiki/Tschechien" title="Tschechien – Palatine German" lang="pfl" hreflang="pfl" class="interlanguage-link-target">Pälzisch</a></li>
+       <li class="interlanguage-link interwiki-pag"><a href="https://pag.wikipedia.org/wiki/Jhekia" title="Jhekia – Pangasinan" lang="pag" hreflang="pag" class="interlanguage-link-target">Pangasinan</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DA%86%DB%8C%DA%A9_%D9%84%D9%88%DA%A9%D8%B1%D8%A7%D8%AC" title="چیک لوکراج – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Czechia" title="Czechia – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%DA%86%DA%A9_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C%D8%AA" title="چک جمهوریت – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Chek_Ripoblik" title="Chek Ripoblik – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%A7%D0%B5%D1%81%D0%BA%D0%BE" title="Ческо – Komi-Permyak" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем коми</a></li>
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%86%E1%9F%81%E1%9E%80" title="ឆេក – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/R%C3%A9publike_tch%C3%A8ke" title="Républike tchèke – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Rep%C3%B9blica_Ceca" title="Repùblica Ceca – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Sek_Ripablik" title="Sek Ripablik – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Tschechien" title="Tschechien – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Czechy" title="Czechy – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%A4%CF%83%CE%B5%CF%87%CE%AF%CE%B1" title="Τσεχία – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ch%C3%A9quia" title="Chéquia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Chexiya" title="Chexiya – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/%C3%87ehiya" title="Çehiya – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ty"><a href="https://ty.wikipedia.org/wiki/Tieti" title="Tieti – Tahitian" lang="ty" hreflang="ty" class="interlanguage-link-target">Reo tahiti</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Cehia" title="Cehia – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Chexiya" title="Chexiya – Vlax Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani čhib</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Tschechia" title="Tschechia – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Chiksuyu" title="Chiksuyu – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%A7%D0%B5%D1%81%D1%8C%D0%BA%D0%BE" title="Чесько – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Czechia" title="Czechia – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Ripapelika_o_Sieki" title="Ripapelika o Sieki – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D_%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A5%8D" title="जेक् रिपब्लिक् – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%AA%E1%B1%AE%E1%B1%A0_%E1%B1%AF%E1%B1%A8%E1%B1%9A%E1%B1%A1%E1%B1%9F%E1%B1%9B%E1%B1%9A%E1%B1%B1%E1%B1%9B%E1%B1%A8%E1%B1%9A" title="ᱪᱮᱠ ᱯᱨᱚᱡᱟᱛᱚᱱᱛᱨᱚ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Rep%C3%B9blica_Ceca" title="Repùblica Ceca – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Czech_Republic" title="Czech Republic – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Tschechien" title="Tschechien – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Czechia" title="Czechia – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Republika_%C3%87eke" title="Republika Çeke – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Rip%C3%B9bblica_Ceca" title="Ripùbblica Ceca – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%A0%E0%B7%99%E0%B6%9A%E0%B7%8A_%E0%B6%A2%E0%B6%B1%E0%B6%BB%E0%B6%A2%E0%B6%BA" title="චෙක් ජනරජය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%DA%86%D9%8A%DA%AA_%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A7" title="چيڪ جمهوريا – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/Shekhi" title="Shekhi – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/%C4%8Cesko" title="Česko – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/%C4%8Ce%C5%A1ka" title="Češka – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%A7%D1%94%D1%88%D1%8C%D1%81%D0%BA%D0%BE" title="Чєшьско – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Czesko_Republika" title="Czesko Republika – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Jamhuuriyadda_Jek" title="Jamhuuriyadda Jek – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%A9%DB%86%D9%85%D8%A7%D8%B1%DB%8C_%DA%86%DB%8C%DA%A9" title="کۆماری چیک – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Tsjekikondre" title="Tsjekikondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A7%D0%B5%D1%88%D0%BA%D0%B0" title="Чешка – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/%C4%8Ce%C5%A1ka" title="Češka – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/C%C3%A9ko" title="Céko – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/T%C5%A1ekki" title="Tšekki – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tjeckien" title="Tjeckien – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Republikang_Tseko" title="Republikang Tseko – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%86%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B0%E0%AE%9A%E0%AF%81" title="செக் குடியரசு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Repubbleche_Ceche" title="Repubbleche Ceche – Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target">Tarandíne</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%81%B6%E1%80%BB%E1%82%85%E1%81%B5%E1%80%BA%E1%82%88" title="မိူင်းၶျႅၵ်ႈ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%9A%E0%B1%86%E0%B0%95%E0%B1%8D_%E0%B0%B0%E0%B0%BF%E0%B0%AA%E0%B0%AC%E0%B1%8D%E0%B0%B2%E0%B0%BF%E0%B0%95%E0%B1%8D" title="చెక్ రిపబ్లిక్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Rep%C3%BAblika_Xeka" title="Repúblika Xeka – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%80%E0%B8%8A%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2" title="ประเทศเช็กเกีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8F%A4%E1%8E%A9_%E1%8F%8D%E1%8E%A6%E1%8F%9A%E1%8E%A9" title="ᏤᎩ ᏍᎦᏚᎩ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-chy"><a href="https://chy.wikipedia.org/wiki/Czechia" title="Czechia – Cheyenne" lang="chy" hreflang="chy" class="interlanguage-link-target">Tsetsêhestâhese</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C3%87ek_Cumhuriyeti" title="Çek Cumhuriyeti – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/%C3%87ehi%C3%BDa" title="Çehiýa – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%85%D1%96%D1%8F" title="Чехія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%86%DB%8C%DA%A9_%D8%AC%D9%85%DB%81%D9%88%D8%B1%DB%8C%DB%81" title="چیک جمہوریہ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%DA%86%DB%90%D8%AE_%D8%AC%DB%87%D9%85%DA%BE%DB%87%D8%B1%D9%89%D9%8A%DB%95%D8%AA%D9%89" title="چېخ جۇمھۇرىيەتى – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Ciethaek" title="Ciethaek – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Rep%C3%B9blega_Ceca" title="Repùblega Ceca – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/%C4%8Cehanma" title="Čehanma – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_S%C3%A9c" title="Cộng hòa Séc – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Tsyeg%C3%A4n" title="Tsyegän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Tsehhi_Vabariik" title="Tsehhi Vabariik – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Tchekeye" title="Tchekeye – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E6%8D%B7%E5%85%8B" title="捷克 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Tsjechi%C3%AB" title="Tsjechië – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Czekya" title="Czekya – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/R%C3%A9ewum_Cek" title="Réewum Cek – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E6%8D%B7%E5%85%8B" title="捷克 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Czech_Republic" title="Czech Republic – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%98%D7%A9%D7%A2%D7%9B%D7%99%D7%99" title="טשעכיי – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Ts%E1%BA%B9%CC%81k%C3%AC_Ol%C3%B3m%C3%ACnira" title="Tsẹ́kì Olómìnira – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%8D%B7%E5%85%8B" title="捷克 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/%C3%87ekya" title="Çekya – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Tsjehhi%C3%AB" title="Tsjehhië – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/%C4%8Cek%C4%97j%C4%97" title="Čekėjė – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%8D%B7%E5%85%8B" title="捷克 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q213#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 7 June 2020, at 10:29.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Czech_Republic&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.864","walltime":"1.096","ppvisitednodes":{"value":4973,"limit":1000000},"postexpandincludesize":{"value":140211,"limit":2097152},"templateargumentsize":{"value":22515,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":28774,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  893.631      1 -total"," 69.62%  622.137      1 Template:Infobox_country"," 67.28%  601.197      3 Template:Infobox"," 19.96%  178.368      3 Template:Lang"," 19.93%  178.145      1 Template:Native_name"," 18.46%  164.943      1 Template:Reflist"," 14.75%  131.815      7 Template:Cite_web","  5.40%   48.242     19 Template:If_empty","  4.84%   43.217      2 Template:Convinfobox","  4.73%   42.258      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.383","limit":"10.000"},"limitreport-memusage":{"value":23967118,"limit":52428800}},"cachereport":{"origin":"mw1306","timestamp":"20201215182146","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Czech Republic","url":"https:\/\/simple.wikipedia.org\/wiki\/Czech_Republic","sameAs":"http:\/\/www.wikidata.org\/entity\/Q213","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q213","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-07T03:12:33Z","dateModified":"2020-06-07T10:29:42Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cb\/Flag_of_the_Czech_Republic.svg","headline":"sovereign state in Central Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":291,"wgHostname":"mw1355"});});</script> 
+ </body>
+</html>

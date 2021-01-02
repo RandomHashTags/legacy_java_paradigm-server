@@ -1,0 +1,1029 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Andorra - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lOgQpAIEIAAGG8lyQAAADI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andorra","wgTitle":"Andorra","wgCurRevisionId":7195396,"wgRevisionId":7195396,"wgArticleId":3529,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Catalan-language sources (ca)","Articles containing Catalan-language text","Coordinates on Wikidata","Articles with French-language sources (fr)","Pages using infobox country or infobox former country with the symbol caption or type parameters","Articles with hAudio microformats",
+"Pages including recorded pronunciations (English)","Geography stubs","Europe stubs","Andorra","Current monarchies"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Andorra","wgRelevantArticleId":3529,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":42.5,"lon":1.5166666666666666},"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage",
+"wgWikibaseItemId":"Q228"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Andorra"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Andorra&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Andorra&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Andorra"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Andorra rootpage-Andorra skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Andorra</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Principality of Andorra
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i lang="ca" title="Catalan language text">Principat d'Andorra</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>)</span>
+           <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><span style="font-size:85%;"><sup>a</sup></span></span>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Andorra.svg" class="image" title="Flag of Andorra"><img alt="Flag of Andorra" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/125px-Flag_of_Andorra.svg.png" decoding="async" width="125" height="88" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/188px-Flag_of_Andorra.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/250px-Flag_of_Andorra.svg.png 2x" data-file-width="1000" data-file-height="700"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Andorra" title="Flag of Andorra">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Andorra.svg" class="image" title="Coat of arms of Andorra"><img alt="Coat of arms of Andorra" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coat_of_arms_of_Andorra.svg/85px-Coat_of_arms_of_Andorra.svg.png" decoding="async" width="85" height="92" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coat_of_arms_of_Andorra.svg/128px-Coat_of_arms_of_Andorra.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coat_of_arms_of_Andorra.svg/170px-Coat_of_arms_of_Andorra.svg.png 2x" data-file-width="560" data-file-height="604"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Coat_of_arms_of_Andorra" title="Coat of arms of Andorra"> Coat of arms</a>
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b><i>Virtus Unita Fortior</i>
+           <br>’<span style="font-size:85%;">United virtue is stronger</span>‘
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><i lang="ca" title="Catalan language text"><a href="/wiki/El_Gran_Carlemany" title="El Gran Carlemany">El Gran Carlemany</a></i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>)</span>
+           <br>’<span style="font-size:85%;">The Great Charlemagne</span>’
+           <br>
+           <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="69.833242630385" data-startoffset="0" data-mwtitle="El_Gran_Carlemany.ogg" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/5/5b/El_Gran_Carlemany.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (132 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="132047">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/El_Gran_Carlemany.ogg/El_Gran_Carlemany.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="179288">
+             </audio>
+            </div>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Location_Andorra_Europe.png" class="image" title="Location of &nbsp;Andorra&nbsp;&nbsp;(center of green circle) on the European continent&nbsp;&nbsp;(dark grey)&nbsp; —&nbsp; [Legend]"><img alt="Location of &nbsp;Andorra&nbsp;&nbsp;(center of green circle) on the European continent&nbsp;&nbsp;(dark grey)&nbsp; —&nbsp; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/250px-Location_Andorra_Europe.png" decoding="async" width="250" height="219" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/375px-Location_Andorra_Europe.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/500px-Location_Andorra_Europe.png 2x" data-file-width="2056" data-file-height="1800"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Andorra</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">center of green circle</span>)</span>
+            <p style="width:250px;font-size:11px;text-align:center;margin-top:0px;margin-bottom:0px;line-height:1.15em;">on the <a href="/wiki/Europe" title="Europe">European continent</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark grey</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:Location_Andorra_Europe.png" title="File:Location Andorra Europe.png">Legend</a></span>]</p>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Andorra_la_Vella" title="Andorra la Vella">Andorra la Vella</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Andorra&amp;params=42_30_N_1_31_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°30′N</span> <span class="longitude">1°31′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.500°N 1.517°E</span><span style="display:none">﻿ / <span class="geo">42.500; 1.517</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Andorra&amp;params=42_30_N_1_31_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°30′N</span> <span class="longitude">1°31′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.500°N 1.517°E</span><span style="display:none">﻿ / <span class="geo">42.500; 1.517</span></span></span></a></span></span></span></td>
+        </tr>
+        <tr>
+         <th scope="row">Official language <br>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r6670383"><span class="nobold">and <a href="/wiki/National_language" title="National language">national language</a></span></th>
+         <td><a href="/wiki/Catalan_language" title="Catalan language">Catalan</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Recognized <a href="/wiki/National_language" title="National language">national languages</a></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></li>
+            <li><a href="/wiki/French_language" title="French language">French</a></li>
+            <li><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></li>
+           </ul>
+          </div> <br> <p><b>Other languages</b> <br> </p> 
+          <div class="plainlist">
+           <ul>
+            <li><a href="/wiki/English_language" title="English language">English</a></li>
+            <li><a href="/wiki/Italian_language" title="Italian language">Italian</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2012)
+          </div></th>
+         <td>49% <a href="/w/index.php?title=List_of_Andorrans&amp;action=edit&amp;redlink=1" class="new" title="List of Andorrans (not yet started)">Andorran</a><br>24.6% <a href="/wiki/Spaniards" class="mw-redirect" title="Spaniards">Spanish</a><br>14.3% <a href="/wiki/Portuguese_people" class="mw-redirect" title="Portuguese people">Portuguese</a><br>3.9% <a href="/wiki/French_people" class="mw-redirect" title="French people">French</a><br>8.2% others</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td><a href="/w/index.php?title=List_of_Andorrans&amp;action=edit&amp;redlink=1" class="new" title="List of Andorrans (not yet started)">Andorran</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><span class="nowrap"><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a></span> <a href="/w/index.php?title=Elective_monarchy&amp;action=edit&amp;redlink=1" class="new" title="Elective monarchy (not yet started)">semi-elective</a> <a href="/wiki/Diarchy" title="Diarchy">diarchy</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Co-Princes_of_Andorra" title="Co-Princes of Andorra">Co-Monarchs</a> 
+          </div></th>
+         <td><a href="/wiki/Joan_Enric_Vives_Sic%C3%ADlia" title="Joan Enric Vives Sicília">Joan Enric Vives Sicília</a><br><a href="/wiki/Emmanuel_Macron" title="Emmanuel Macron">Emmanuel Macron</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Governor-general&amp;action=edit&amp;redlink=1" class="new" title="Governor-general (not yet started)">Representatives</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Josep_Maria_Mauri&amp;action=edit&amp;redlink=1" class="new" title="Josep Maria Mauri (not yet started)">Josep Maria Mauri</a><br><a href="/w/index.php?title=Patrick_Strzoda&amp;action=edit&amp;redlink=1" class="new" title="Patrick Strzoda (not yet started)">Patrick Strzoda</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Head_of_Government_of_Andorra&amp;action=edit&amp;redlink=1" class="new" title="Head of Government of Andorra (not yet started)">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Antoni_Mart%C3%AD" title="Antoni Martí">Antoni Martí</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/w/index.php?title=General_Council_(Andorra)&amp;action=edit&amp;redlink=1" class="new" title="General Council (Andorra) (not yet started)">General Council</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Independence</th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from <a href="/wiki/Crown_of_Aragon" title="Crown of Aragon">Aragon</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Par%C3%A9age_of_Andorra_1278&amp;action=edit&amp;redlink=1" class="new" title="Paréage of Andorra 1278 (not yet started)">1278</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from the <a href="/w/index.php?title=S%C3%A8gre_(department)&amp;action=edit&amp;redlink=1" class="new" title="Sègre (department) (not yet started)">French Empire</a> 
+          </div></th>
+         <td>1814</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Constitution_of_Andorra&amp;action=edit&amp;redlink=1" class="new" title="Constitution of Andorra (not yet started)">Constitution</a> 
+          </div></th>
+         <td>1993</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>467.63&nbsp;km<sup>2</sup> (180.55&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">179th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>0.26 (121.4 <a href="/w/index.php?title=Hectares&amp;action=edit&amp;redlink=1" class="new" title="Hectares (not yet started)">ha</a>)<sup>c</sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2016 estimate
+          </div></th>
+         <td>77,281<sup id="cite_ref-UN_WPP_1-0" class="reference"><a href="#cite_note-UN_WPP-1">[1]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>179.8/km<sup>2</sup> (465.7/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">71st</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2016&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$3.249 billion (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">162nd</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$36,987 (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">26th</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2003)</span></th>
+         <td>27.21<sup>d</sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">low</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2016)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.858<sup id="cite_ref-HDI_2-0" class="reference"><a href="#cite_note-HDI-2">[2]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkgreen">very high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">32nd</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/Euro" title="Euro">Euro</a><sup>e</sup> (<a href="/wiki/ISO_4217" title="ISO 4217">EUR</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Telephone_numbers_in_Andorra" title="Telephone numbers in Andorra">Calling code</a></th>
+         <td><a href="/wiki/Telephone_numbers_in_Andorra" title="Telephone numbers in Andorra">+376</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:AD&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:AD (not yet started)">AD</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.ad" class="mw-redirect" title=".ad">.ad</a><sup>f</sup></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
+            <li value="1"><a rel="nofollow" class="external text" href="http://www.andorramania.com/constit_gb.htm">Constitution of Andorra</a>. In <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> and <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>: <i>Principado de Andorra</i>, in <a href="/wiki/French_language" title="French language">French</a>: <i>Principauté d'Andorre</i>.</li>
+            <li value="2"><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>, <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> and <a href="/wiki/French_language" title="French language">French</a> are also each natively spoken by a significant minority</li>
+            <li value="3"><span class="languageicon">(in French)</span> Girard P &amp; Gomez P (2009), <a rel="nofollow" class="external text" href="http://www.lacsdespyrenees.com/vallee-Andorre.html">Lacs des Pyrénées: Andorre</a>. <cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.estadistica.ad/serveiestudis/publicacions/CD/Anuari/cat/pdf/xifres.PDF">"Andorra en xifres 2007: Situació geogràfica, Departament d'Estadística, Govern d'Andorra"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">26 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Andorra+en+xifres+2007%3A+Situaci%C3%B3+geogr%C3%A0fica%2C+Departament+d%27Estad%C3%ADstica%2C+Govern+d%27Andorra&amp;rft_id=http%3A%2F%2Fwww.estadistica.ad%2Fserveiestudis%2Fpublicacions%2FCD%2FAnuari%2Fcat%2Fpdf%2Fxifres.PDF&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAndorra" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></li>
+            <li value="4"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.estadistica.ad/serveiestudis/publicacions/Publicacions/Pobresa.pdf">"Informe sobre l'estat de la pobresa i la desigualtat al Principal d'Andorra (2003)"</a> <span class="cs1-format">(PDF)</span>. Estadistica.ad<span class="reference-accessdate">. Retrieved <span class="nowrap">25 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Informe+sobre+l%27estat+de+la+pobresa+i+la+desigualtat+al+Principal+d%27Andorra+%282003%29&amp;rft.pub=Estadistica.ad&amp;rft_id=http%3A%2F%2Fwww.estadistica.ad%2Fserveiestudis%2Fpublicacions%2FPublicacions%2FPobresa.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAndorra" class="Z3988"></span>
+             <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></li>
+            <li value="5">Before 1999, the <a href="/w/index.php?title=French_franc&amp;action=edit&amp;redlink=1" class="new" title="French franc (not yet started)">French franc</a> and <a href="/w/index.php?title=Spanish_peseta&amp;action=edit&amp;redlink=1" class="new" title="Spanish peseta (not yet started)">Spanish peseta</a>; the coins and notes of both currencies, however, remained legal tender until 2002. Small amounts of <a href="/w/index.php?title=Andorran_diner&amp;action=edit&amp;redlink=1" class="new" title="Andorran diner (not yet started)">Andorran diners</a> (divided into 100 centim) were minted after 1982.</li>
+            <li value="6">Also <a href="/wiki/.cat" class="mw-redirect" title=".cat">.cat</a>, shared with <a href="/w/index.php?title=Pa%C3%AFsos_Catalans&amp;action=edit&amp;redlink=1" class="new" title="Països Catalans (not yet started)">Catalan-speaking territories</a>.</li> 
+           </ol>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table role="presentation" class="metadata mbox-small plainlinks" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wiktionary-logo-simple.png/40px-Wiktionary-logo-simple.png" decoding="async" width="40" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wiktionary-logo-simple.png/60px-Wiktionary-logo-simple.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wiktionary-logo-simple.png/80px-Wiktionary-logo-simple.png 2x" data-file-width="155" data-file-height="127"></td> 
+         <td class="mbox-text plainlist">The <a href="/wiki/Wikipedia:Simple_English_Wiktionary" title="Wikipedia:Simple English Wiktionary">Simple English Wiktionary</a> has a <a href="/wiki/Definition" title="Definition">definition</a> for: <i> <b><a href="https://simple.wiktionary.org/wiki/Andorra" class="extiw" title="wikt:Andorra">Andorra</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <p><b>Andorra</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/æ/: 'a' in 'bad'">æ</span><span title="'n' in 'nigh'">n</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'d' in 'dye'">d</span><span title="/ɒr/: 'or' in 'moral'">ɒr</span><span title="/ə/: 'a' in 'about'">ə</span></span>/</a></span> <span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:En-us-Andorra.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20"></a></span><a href="//upload.wikimedia.org/wikipedia/commons/3/3e/En-us-Andorra.ogg" class="internal" title="En-us-Andorra.ogg">listen</a></span></span>)</span></span>), officially the <b>Principality of Andorra</b>, is a <a href="/wiki/Landlocked_country" title="Landlocked country">landlocked</a> <a href="/wiki/List_of_countries" title="List of countries">sovereign country</a> located in the eastern <a href="/w/index.php?title=Pyrenees_Mountains&amp;action=edit&amp;redlink=1" class="new" title="Pyrenees Mountains (not yet started)">Pyrenees Mountains</a> of <a href="/wiki/Southern_Europe" title="Southern Europe">Southern Europe</a> and bordered by <a href="/wiki/Spain" title="Spain">Spain</a> and <a href="/wiki/France" title="France">France</a>.<sup id="cite_ref-CIA_World_Factbook_3-0" class="reference"><a href="#cite_note-CIA_World_Factbook-3">[3]</a></sup> There are about 84,000 people living in the country. The <a href="/wiki/Capital_city" title="Capital city">capital</a> is <a href="/wiki/Andorra_la_Vella" title="Andorra la Vella">Andorra la Vella</a>. It is ruled by a Spanish <a href="/wiki/Bishop" title="Bishop">Bishop</a> and the <a href="/wiki/President" title="President">French President</a>. Andorra's government is a parliamentary democracy. </p>
+      <p>Andorra is a rich country mostly because of tourism. There are about 10.2&nbsp;million visitors each year.<sup id="cite_ref-es2_4-0" class="reference"><a href="#cite_note-es2-4">[4]</a></sup> </p>
+      <p>The official language is <a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>, although Spanish, Portuguese, and French are also used. </p>
+      <p>It is not a member of the <a href="/wiki/European_Union" title="European Union">European</a> Union. The <a href="/wiki/Euro" title="Euro">euro</a> is the money used. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Parishes"><span class="tocnumber">2</span> <span class="toctext">Parishes</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Geography"><span class="tocnumber">3</span> <span class="toctext">Geography</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#Cities"><span class="tocnumber">3.1</span> <span class="toctext">Cities</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Religion"><span class="tocnumber">4</span> <span class="toctext">Religion</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Education"><span class="tocnumber">5</span> <span class="toctext">Education</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Related_pages"><span class="tocnumber">6</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Other_websites"><span class="tocnumber">8</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andorra&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Andorra&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>It is said that Charles the Great (<a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a>) gave the Andorran people their country in return for fighting against the <a href="/wiki/Moors" title="Moors">Moors</a>. </p>
+      <p>Before 1095, Andorra did not have any type of military protection. The Lord of Caboet and the Bishop of Urgell decided to rule Andorra together. In 1607 <a href="/wiki/Henry_IV_of_France" title="Henry IV of France">Henry IV of France</a> said the head of the French state and the Bishop of Urgell would be co-princes of Andorra. </p>
+      <p>Andorra declared war on <a href="/wiki/Imperial_Germany" class="mw-redirect" title="Imperial Germany">Imperial Germany</a> during <a href="/wiki/World_War_I" title="World War I">World War I</a>. It did not do any fighting. They stayed against Germany until 1957 because they were not in the <a href="/wiki/Treaty_of_Versailles" title="Treaty of Versailles">Treaty of Versailles</a>. </p>
+      <p>Andorra doesn't have an Army.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> France and Spain help to defend Andorra. The country has a police force of 295. </p> 
+      <h2><span class="mw-headline" id="Parishes">Parishes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andorra&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Parishes">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Andorra&amp;action=edit&amp;section=2" title="Change section: Parishes">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Andorra has seven parishes: </p> 
+      <ul>
+       <li><a href="/wiki/Andorra_la_Vella" title="Andorra la Vella">Andorra la Vella</a></li> 
+       <li><a href="/wiki/Canillo" title="Canillo">Canillo</a></li> 
+       <li><a href="/wiki/Encamp" title="Encamp">Encamp</a></li> 
+       <li><a href="/wiki/Escaldes-Engordany" title="Escaldes-Engordany">Escaldes-Engordany</a></li> 
+       <li><a href="/wiki/La_Massana" title="La Massana">La Massana</a></li> 
+       <li><a href="/wiki/Ordino" title="Ordino">Ordino</a></li> 
+       <li><a href="/wiki/Sant_Juli%C3%A0_de_L%C3%B2ria" title="Sant Julià de Lòria">Sant Julià de Lòria</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andorra&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Andorra&amp;action=edit&amp;section=3" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Andorra is in the <a href="/wiki/Pyrenees" title="Pyrenees">Pyrenees</a> mountain range. The highest mountain is <a href="/wiki/Coma_Pedrosa" title="Coma Pedrosa">Coma Pedrosa</a>. </p> 
+      <h3><span class="mw-headline" id="Cities">Cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andorra&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Cities">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Andorra&amp;action=edit&amp;section=4" title="Change section: Cities">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The largest cities in Andorra are: </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Ranking </th> 
+         <th>Name </th> 
+         <th>Population </th>
+        </tr> 
+        <tr> 
+         <td>1 </td> 
+         <td><a href="/wiki/Andorra_la_Vella" title="Andorra la Vella">Andorra la Vella</a> </td> 
+         <td>19,319 </td>
+        </tr> 
+        <tr> 
+         <td>2 </td> 
+         <td><a href="/wiki/Escaldes-Engordany" title="Escaldes-Engordany">Escaldes-Engordany</a> </td> 
+         <td>14,395 </td>
+        </tr> 
+        <tr> 
+         <td>3 </td> 
+         <td><a href="/wiki/Encamp" title="Encamp">Encamp</a> </td> 
+         <td>8,470 </td>
+        </tr> 
+        <tr> 
+         <td>4 </td> 
+         <td><a href="/wiki/Sant_Juli%C3%A0_de_L%C3%B2ria" title="Sant Julià de Lòria">Sant Julià de Lòria</a> </td> 
+         <td>7,518 </td>
+        </tr> 
+        <tr> 
+         <td>5 </td> 
+         <td><a href="/wiki/La_Massana" title="La Massana">La Massana</a> </td> 
+         <td>4,987 </td>
+        </tr> 
+        <tr> 
+         <td>6 </td> 
+         <td><a href="/w/index.php?title=Santa_Coloma_d%27Andorra&amp;action=edit&amp;redlink=1" class="new" title="Santa Coloma d'Andorra (not yet started)">Santa Coloma</a> </td> 
+         <td>2,937 </td>
+        </tr> 
+        <tr> 
+         <td>7 </td> 
+         <td><a href="/wiki/Ordino" title="Ordino">Ordino</a> </td> 
+         <td>2,780 </td>
+        </tr> 
+        <tr> 
+         <td>8 </td> 
+         <td><a href="/w/index.php?title=El_Pas_de_la_Casa&amp;action=edit&amp;redlink=1" class="new" title="El Pas de la Casa (not yet started)">El Pas de la Casa</a> </td> 
+         <td>2,613 </td>
+        </tr> 
+        <tr> 
+         <td>9 </td> 
+         <td><a href="/wiki/Canillo" title="Canillo">Canillo</a> </td> 
+         <td>2,025 </td>
+        </tr> 
+        <tr> 
+         <td>10 </td> 
+         <td><a href="/w/index.php?title=Arinsal&amp;action=edit&amp;redlink=1" class="new" title="Arinsal (not yet started)">Arinsal</a> </td> 
+         <td>1,555 </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>For other locations in Andorra, see <a href="/wiki/List_of_cities_in_Andorra" title="List of cities in Andorra">List of cities in Andorra</a>. </p> 
+      <h2><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andorra&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Religion">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Andorra&amp;action=edit&amp;section=5" title="Change section: Religion">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The population of Andorra is mostly (90%) <a href="/wiki/Catholicism" title="Catholicism">Roman Catholic</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Their patron saint is <a href="/wiki/Our_Lady_of_Meritxell" title="Our Lady of Meritxell">Our Lady of Meritxell</a>. </p> 
+      <h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andorra&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Education">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Andorra&amp;action=edit&amp;section=6" title="Change section: Education">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Children between the ages of 6 and 16 must have full-time education. Education up to secondary level is paid by the government. </p>
+      <p>The <a href="/wiki/University_of_Andorra" class="mw-redirect" title="University of Andorra">University of Andorra</a> (UdA) is the state public university. It is the only university in Andorra. </p> 
+      <ul class="gallery mw-gallery-traditional"> 
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:22.5px auto;">
+           <a href="/wiki/File:Satellite_image_of_Andorra_in_March.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Satellite_image_of_Andorra_in_March.jpg/120px-Satellite_image_of_Andorra_in_March.jpg" decoding="async" width="120" height="105" srcset="//upload.wikimedia.org/wikipedia/commons/f/f7/Satellite_image_of_Andorra_in_March.jpg 1.5x" data-file-width="126" data-file-height="110"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>A <a href="/wiki/Satellite_(artificial)" title="Satellite (artificial)">satellite</a> image of Andorra </p> 
+         </div> 
+        </div></li> 
+      </ul> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andorra&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Andorra&amp;action=edit&amp;section=7" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Andorra_at_the_Olympics" title="Andorra at the Olympics">Andorra at the Olympics</a></li> 
+       <li><a href="/wiki/List_of_rivers_of_Andorra" class="mw-redirect" title="List of rivers of Andorra">List of rivers of Andorra</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andorra&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Andorra&amp;action=edit&amp;section=8" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-UN_WPP-1"><span class="mw-cite-backlink"><a href="#cite_ref-UN_WPP_1-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://esa.un.org/unpd/wpp/DataQuery/">"World Population Prospects: The 2017 Revision"</a>. <i>ESA.UN.org</i> (custom data acquired via website). <a href="/w/index.php?title=United_Nations_Department_of_Economic_and_Social_Affairs&amp;action=edit&amp;redlink=1" class="new" title="United Nations Department of Economic and Social Affairs (not yet started)">United Nations Department of Economic and Social Affairs</a>, Population Division<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ESA.UN.org&amp;rft.atitle=World+Population+Prospects%3A+The+2017+Revision&amp;rft_id=https%3A%2F%2Fesa.un.org%2Funpd%2Fwpp%2FDataQuery%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAndorra" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-2"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_2-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/composite/HDI">"HUMAN DEVELOPMENT REPORT 2016 – Statistical annex"</a>. United Nations. 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=HUMAN+DEVELOPMENT+REPORT+2016+%E2%80%93+Statistical+annex&amp;rft.pub=United+Nations&amp;rft.date=2016&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fcomposite%2FHDI&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAndorra" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-CIA_World_Factbook-3"><span class="mw-cite-backlink"><a href="#cite_ref-CIA_World_Factbook_3-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/an.html">"Andorra"</a>. <i><a href="/wiki/The_World_Factbook" title="The World Factbook">The World Factbook</a></i>. <a href="/wiki/United_States" title="United States">United States</a> <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a>. July 2, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">September 14,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Andorra&amp;rft.date=2009-07-02&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fan.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAndorra" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-es2-4"><span class="mw-cite-backlink"><a href="#cite_ref-es2_4-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.estadistica.ad/serveiestudis/web/exportar_banc_dades_csv.asp?formules=anual%7Cinici&amp;any1=01/01/2008&amp;any2=01/01/2008&amp;codi_divisio=380&amp;lang=1&amp;codi_subtemes=59&amp;codi_tema=10">Estadistica.ad</a>, Departament d'Estadística, Govern d'Andorra. <span class="languageicon">(in Catalan)</span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/an.html">"Europe&nbsp;:: Andorra — The World Factbook - Central Intelligence Agency"</a>. <i>www.cia.gov</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cia.gov&amp;rft.atitle=Europe+%3A%3A+Andorra+%E2%80%94+The+World+Factbook+-+Central+Intelligence+Agency&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fan.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAndorra" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/an.html">"CIA&nbsp;– The World Fact Book&nbsp;– Andorra"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CIA+%E2%80%93+The+World+Fact+Book+%E2%80%93+Andorra&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fan.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAndorra" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andorra&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Andorra&amp;action=edit&amp;section=9" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Andorra" class="extiw" title="commons:Category:Andorra">Andorra</a> at Wikimedia Commons</li> 
+       <li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></a> <a href="https://simple.wikivoyage.org/wiki/Andorra" class="extiw" title="voy:Andorra">Andorra</a> travel guide from Wikivoyage</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/46px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></span> <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/Europe" title="Europe">Europe</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Country" title="Country">Countries</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a> – <a class="mw-selflink selflink">Andorra</a> – <a href="/wiki/Austria" title="Austria">Austria</a> – <a href="/wiki/Belarus" title="Belarus">Belarus</a> – <a href="/wiki/Belgium" title="Belgium">Belgium</a> – <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a> – <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> – <a href="/wiki/Croatia" title="Croatia">Croatia</a> – <a href="/wiki/Republic_of_Cyprus" title="Republic of Cyprus">Republic of Cyprus</a><sup>1</sup> – <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a> – <a href="/wiki/Denmark" title="Denmark">Denmark</a><sup>2,4</sup> – <a href="/wiki/Estonia" title="Estonia">Estonia</a> – <a href="/wiki/Finland" title="Finland">Finland</a> – <a href="/wiki/France" title="France">France</a><sup>4</sup> – <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a><sup>1</sup> – <a href="/wiki/Germany" title="Germany">Germany</a> – <a href="/wiki/Greece" title="Greece">Greece</a> – <a href="/wiki/Hungary" title="Hungary">Hungary</a> – <a href="/wiki/Iceland" title="Iceland">Iceland</a> – <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a> – <a href="/wiki/Italy" title="Italy">Italy</a> – <a href="/wiki/Latvia" title="Latvia">Latvia</a> – <a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a> – <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> – <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a> – <a href="/wiki/Malta" title="Malta">Malta</a> – <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a> – <a href="/wiki/Moldova" title="Moldova">Moldova</a> – <a href="/wiki/Monaco" title="Monaco">Monaco</a> – <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> – <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a><sup>4</sup> – <a href="/wiki/Norway" title="Norway">Norway</a><sup>4</sup> – <a href="/wiki/Poland" title="Poland">Poland</a> – <a href="/wiki/Portugal" title="Portugal">Portugal</a><sup>4,6</sup> – <a href="/wiki/Romania" title="Romania">Romania</a> – <a href="/wiki/Russia" title="Russia">Russia</a><sup>1</sup> – <a href="/wiki/San_Marino" title="San Marino">San Marino</a> – <a href="/wiki/Serbia" title="Serbia">Serbia</a> – <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> – <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a> – <a href="/wiki/Spain" title="Spain">Spain</a><sup>4,6</sup> – <a href="/wiki/Sweden" title="Sweden">Sweden</a> – <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> – <a href="/wiki/Turkey" title="Turkey">Turkey</a><sup>1</sup> – <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> – <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><sup>4</sup> – <a href="/wiki/Vatican_City" title="Vatican City">Vatican City</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_dependent_territories" class="mw-redirect" title="List of dependent territories">Dependencies</a></b></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a><sup>1</sup> – <a href="/wiki/Azores" title="Azores">Azores</a><sup>5</sup> – <a href="/wiki/Ceuta" title="Ceuta">Ceuta</a><sup>5, 6</sup> – <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a><sup>5</sup> – <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a><sup>5</sup> – <a href="/wiki/Greenland" title="Greenland">Greenland</a><sup>5,2</sup> – <a href="/wiki/Guernsey" title="Guernsey">Guernsey</a> – <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a> – <a href="/wiki/Jersey" title="Jersey">Jersey</a> – <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a> – <a href="/wiki/Melilla" title="Melilla">Melilla</a><sup>5,6</sup> – <a href="/wiki/Svalbard" title="Svalbard">Svalbard</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_unrecognized_countries" class="mw-redirect" title="List of unrecognized countries">Other Countries</a></b></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Abkhazia" title="Abkhazia">Abkhazia</a><sup>1,3</sup> – <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a><sup>3</sup> – <a href="/wiki/South_Ossetia" title="South Ossetia">South Ossetia</a><sup>1, 3</sup> – <a href="/wiki/Transnistria" title="Transnistria">Transnistria</a> – <a href="/wiki/Turkish_Republic_of_Northern_Cyprus" class="mw-redirect" title="Turkish Republic of Northern Cyprus">Turkish Republic of Northern Cyprus</a><sup>1,3</sup>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            1. <a href="/wiki/Transcontinental_country" title="Transcontinental country">Transcontinental country</a>/territory that can be considered both Europe and Asia 2. Territory or with territory geographically part of North America 3. Partially recognized. 4. not all dependent territories are listed 5. Territory has some form of self-rule. 6. Territory or with territory geographically part of Africa
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p><br> </p> 
+      <div class="boilerplate metadata plainlinks" id="stub">
+       <a href="/wiki/File:Geographylogo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/30px-Geographylogo.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/45px-Geographylogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/60px-Geographylogo.svg.png 2x" data-file-width="160" data-file-height="160"></a> <i>This <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">short article</a> about a&nbsp;<a href="/wiki/Category:Geography_stubs" title="Category:Geography stubs">place or feature</a> can be made longer. You can help Wikipedia by <a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Andorra&amp;action=edit">adding to it</a></i>.
+      </div> 
+      <div style="display:none"> 
+       <div class="boilerplate metadata plainlinks" id="stub">
+        <a href="/wiki/File:P_europe.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/P_europe.svg/30px-P_europe.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/P_europe.svg/45px-P_europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/P_europe.svg/60px-P_europe.svg.png 2x" data-file-width="432" data-file-height="422"></a> <i>This <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">short article</a> about <a href="/wiki/Category:Europe_stubs" title="Category:Europe stubs">Europe</a> can be made longer. You can help Wikipedia by <a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Andorra&amp;action=edit">adding to it</a></i>.
+       </div> 
+       <p><br> </p>
+       <p><br> </p> 
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1307
+Cached time: 20201215175042
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.048 seconds
+Real time usage: 1.320 seconds
+Preprocessor visited node count: 4604/1000000
+Post‐expand include size: 108756/2097152 bytes
+Template argument size: 21643/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21839/5000000 bytes
+Lua time usage: 0.695/10.000 seconds
+Lua memory usage: 30008170/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1215.286      1 -total
+ 85.26% 1036.148      1 Template:Infobox_country
+ 83.88% 1019.359      3 Template:Infobox
+ 15.90%  193.258      3 Template:ISO_3166_code
+ 14.45%  175.552      1 Template:Coord
+ 13.89%  168.834      7 Template:Cite_web
+ 13.71%  166.560      2 Template:Native_name
+ 12.96%  157.501      2 Template:Lang
+  4.19%   50.975      1 Template:Infobox_country/imagetable
+  3.96%   48.160     22 Template:If_empty
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:3529-0!canonical and timestamp 20201215175043 and revision id 7195396. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Andorra&amp;oldid=7195396">https://simple.wikipedia.org/w/index.php?title=Andorra&amp;oldid=7195396</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Andorra" title="Category:Andorra">Andorra</a></li>
+       <li><a href="/wiki/Category:Current_monarchies" title="Category:Current monarchies">Current monarchies</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_Catalan-language_sources_(ca)" title="Category:Articles with Catalan-language sources (ca)">Articles with Catalan-language sources (ca)</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Catalan-language_text" title="Category:Articles containing Catalan-language text">Articles containing Catalan-language text</a></li>
+       <li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li>
+       <li><a href="/wiki/Category:Articles_with_French-language_sources_(fr)" title="Category:Articles with French-language sources (fr)">Articles with French-language sources (fr)</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
+       <li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li>
+       <li><a href="/wiki/Category:Pages_including_recorded_pronunciations_(English)" title="Category:Pages including recorded pronunciations (English)">Pages including recorded pronunciations (English)</a></li>
+       <li><a href="/wiki/Category:Geography_stubs" title="Category:Geography stubs">Geography stubs</a></li>
+       <li><a href="/wiki/Category:Europe_stubs" title="Category:Europe stubs">Europe stubs</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Andorra" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andorra" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Andorra" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Andorra&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (not yet started) [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Andorra">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Andorra&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Andorra&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Andorra&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Andorra" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Andorra" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Andorra&amp;oldid=7195396" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Andorra&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Andorra&amp;id=7195396&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q228" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Andorra">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Andorra&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Andorra&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Andorra" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Andorra" title="Andorra – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D1%8D" title="Андоррэ – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D1%8D" title="Андоррэ – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://af.wikipedia.org/wiki/Andorra" title="Andorra – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Andorra" title="Andorra – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%A0%E1%8A%95%E1%8B%B6%E1%88%AB" title="አንዶራ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Andorra" title="Andorra – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Andorra" title="Andorra – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D0%B0" title="Андора – Abkhazian" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%AF%D9%88%D8%B1%D8%A7" title="أندورا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Andorra" title="Andorra – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%90%DC%A2%DC%95%DC%98%DC%AA%DC%90" title="ܐܢܕܘܪܐ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/Andorra" title="Andorra – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Andorra" title="Andorra – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Andorra" title="Andorra – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-awa"><a href="https://awa.wikipedia.org/wiki/%E0%A4%85%E0%A4%82%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="अंडोरा – Awadhi" lang="awa" hreflang="awa" class="interlanguage-link-target">अवधी</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Andorra" title="Andorra – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80" title="Андор – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Andorra" title="Andorra – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A2%D9%86%D8%AF%D9%88%D8%B1%D8%A7" title="آندورا – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Andorra" title="Andorra – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%8B%E0%A6%B0%E0%A6%BE" title="অ্যান্ডোরা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Andorra" title="Andorra – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Andorra" title="Andorra – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D0%B0" title="Андора – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D0%B0" title="Андора – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%85%E0%A4%82%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="अंडोरा – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Andora" title="Andora – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Andorra" title="Andorra – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D0%B0" title="Андора – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Andorra" title="Andorra – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%A8%E0%BD%93%E0%BC%8B%E0%BD%8C%E0%BD%BC%E0%BD%A2%E0%BC%8B%E0%BD%A2%E0%BC%8D" title="ཨན་ཌོར་ར། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Andora" title="Andora – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Andorra" title="Andorra – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%BE" title="Андорро – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://ca.wikipedia.org/wiki/Andorra" title="Andorra – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Andorra" title="Andorra – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Andorra" title="Andorra – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-ch"><a href="https://ch.wikipedia.org/wiki/Andorra" title="Andorra – Chamorro" lang="ch" hreflang="ch" class="interlanguage-link-target">Chamoru</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Andorra" title="Andorra – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Andorra" title="Andorra – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-tum"><a href="https://tum.wikipedia.org/wiki/Andorra" title="Andorra – Tumbuka" lang="tum" hreflang="tum" class="interlanguage-link-target">ChiTumbuka</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Andorra" title="Andorra – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Andorra" title="Andorra – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://da.wikipedia.org/wiki/Andorra" title="Andorra – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%A3%D9%86%D8%AF%D9%88%D8%B1%D8%A7" title="أندورا – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Andorra" title="Andorra – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-pdc"><a href="https://pdc.wikipedia.org/wiki/Andorra" title="Andorra – Pennsylvania German" lang="pdc" hreflang="pdc" class="interlanguage-link-target">Deitsch</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Andorra" title="Andorra – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%87%DE%AC%DE%82%DE%B0%DE%91%DE%AF%DE%83%DE%A7" title="އެންޑޯރާ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Andorra" title="Andorra – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%8F%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="एण्डोरा – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-dz"><a href="https://dz.wikipedia.org/wiki/%E0%BD%A8%E0%BD%B1%E0%BD%93%E0%BC%8B%E0%BD%91%E0%BD%BC%E0%BC%8B%E0%BD%A2" title="ཨཱན་དོ་ར – Dzongkha" lang="dz" hreflang="dz" class="interlanguage-link-target">ཇོང་ཁ</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Andorra" title="Andorra – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B4%CF%8C%CF%81%CF%81%CE%B1" title="Ανδόρρα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/And%C3%B2ra_(Princip%C3%A4)" title="Andòra (Principä) – Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Andorra" title="Andorra – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Андорра Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Andorra" title="Andorra – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Andoro" title="Andoro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Andorra" title="Andorra – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Andorra" title="Andorra – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Andorra" title="Andorra – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AF%D9%88%D8%B1%D8%A7" title="آندورا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Andorra" title="Andorra – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Andorra" title="Andorra – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Andorre" title="Andorre – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Andorra" title="Andorra – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Anndoora" title="Anndoora – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Andore" title="Andore – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/And%C3%B3ra" title="Andóra – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Andorra" title="Andorra – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Andorra" title="Andorra – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Andorra" title="Andorra – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Andorra" title="Andorra – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%8F%E0%AA%A8%E0%AB%8D%E0%AA%A1%E0%AB%8B%E0%AA%B0%E0%AA%BE" title="એન્ડોરા – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8C%B0%F0%90%8C%BD%F0%90%8C%B3%F0%90%8C%B0%F0%90%8C%BF%F0%90%8D%82%F0%90%8C%B0" title="𐌰𐌽𐌳𐌰𐌿𐍂𐌰 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%85%E0%A4%81%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="अँडोरा – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Andorra" title="Andorra – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D0%BC%D1%83%D0%B4%D0%B8%D0%BD_%D0%9D%D1%83%D1%82%D0%B3" title="Андормудин Нутг – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%88%EB%8F%84%EB%9D%BC" title="안도라 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Andorra" title="Andorra – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/%CA%BBAnakola" title="ʻAnakola – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%A4%D5%B8%D6%80%D6%80%D5%A1" title="Անդորրա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="अण्डोरा – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Andorra" title="Andorra – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Andora" title="Andora – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Andora" title="Andora – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Andorra" title="Andorra – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Andorra" title="Andorra – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%8B%E0%A6%B0%E0%A6%BE" title="এন্ডোরা – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Andorra" title="Andorra – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Andorra" title="Andorra – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Andorra" title="Andorra – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-iu"><a href="https://iu.wikipedia.org/wiki/%E1%90%8A%E1%93%90%E1%91%91%E1%95%90%E1%95%8B" title="ᐊᓐᑑᕐᕋ – Inuktitut" lang="iu" hreflang="iu" class="interlanguage-link-target">ᐃᓄᒃᑎᑐᑦ/inuktitut</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%C3%A6" title="Андоррæ – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/I-Andora" title="I-Andora – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Andorra" title="Andorra – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Andorra" title="Andorra – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%93%D7%95%D7%A8%D7%94" title="אנדורה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Andorra" title="Andorra – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Andor%C9%A9" title="Andorɩ – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Andorra" title="Andorra – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%82%E0%B2%A1%E0%B3%8B%E0%B2%B0" title="ಅಂಡೋರ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Andorra" title="Andorra – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9C%E1%83%93%E1%83%9D%E1%83%A0%E1%83%90" title="ანდორა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Andorra" title="Andorra – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Andorra" title="Andorra – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Andora" title="Andora – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Andorra" title="Andorra – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Andora" title="Andora – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Andorra" title="Andorra – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/And%C3%B2" title="Andò – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/And%C3%B2r" title="Andòr – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Andorra" title="Andorra – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Andora" title="Andora – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Andorra" title="Andorra – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%AD%E0%BA%B1%E0%BA%87%E0%BB%82%E0%BA%94%E0%BA%A5%E0%BA%B2" title="ປະເທດອັງໂດລາ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%DA%A4%D9%84%D8%A7%D8%AA_%D8%A2%D9%86%D8%AF%D9%88%D8%B1%D8%A7" title="ڤلات آندورا – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Andora" title="Andora – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Andorra" title="Andorra – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Andora" title="Andora – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Andorra" title="Andorra – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Lezghian" lang="lez" hreflang="lez" class="interlanguage-link-target">Лезги</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Andora" title="Andora – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Andora" title="Andora – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Andorra" title="Andorra – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Andora" title="Andora – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Andora" title="Andora – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Andorra" title="Andorra – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/andoras" title="andoras – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Andorra" title="Andorra – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Andorra" title="Andorra – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%8F%E0%A4%A8%E0%A5%8D%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="एन्डोरा – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D0%B0" title="Андора – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Andora" title="Andora – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B5%BB%E0%B4%A1%E0%B5%8B%E0%B4%B1" title="അൻഡോറ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Andorra" title="Andorra – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/Andorra" title="Andorra – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%86%E0%A4%82%E0%A4%A6%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="आंदोरा – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%90%E1%83%9C%E1%83%93%E1%83%9D%E1%83%A0%E1%83%90" title="ანდორა – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D8%A7" title="اندورا – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%A2%D9%86%D8%AF%D9%88%D8%B1%D8%A7" title="آندورا – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Andorra" title="Andorra – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/Andorra" title="Andorra – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Minangkabau</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Andorra" title="Andorra – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Andorra" title="Andorra – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D0%B0" title="Андора – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%84%E1%80%BA%E1%80%92%E1%80%AD%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="အင်ဒိုရာနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Andorra" title="Andorra – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Andorra" title="Andorra – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Andorra" title="Andorra – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%8F%E0%A4%A8%E0%A5%8D%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="एन्डोरा – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%8F%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="एण्डोरा – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9" title="アンドラ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Andorra" title="Andorra – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Andora" title="Andora – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Endora" title="Endora – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://no.wikipedia.org/wiki/Andorra" title="Andorra – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Andorra" title="Andorra – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Aundorre" title="Aundorre – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Andora" title="Andora – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/And%C3%B2rra" title="Andòrra – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%86%E0%AC%A3%E0%AD%8D%E0%AC%A1%E0%AD%8B%E0%AC%B0%E0%AC%BE" title="ଆଣ୍ଡୋରା – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Andooraa" title="Andooraa – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Andorra" title="Andorra – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%85%E0%A9%B0%E0%A8%A1%E0%A9%8B%E0%A8%B0%E0%A8%BE" title="ਅੰਡੋਰਾ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%85%E0%A4%82%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="अंडोरा – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pag"><a href="https://pag.wikipedia.org/wiki/Andorra" title="Andorra – Pangasinan" lang="pag" hreflang="pag" class="interlanguage-link-target">Pangasinan</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%D9%88%D8%B1%DB%81" title="اندورہ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Andorra" title="Andorra – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D8%A7" title="اندورا – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Anduora" title="Anduora – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Komi-Permyak" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем коми</a></li>
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%A2%E1%9E%84%E1%9F%8B%E1%9E%8A%E1%9E%BC%E1%9E%9A%E1%9F%89%E1%9E%B6" title="អង់ដូរ៉ា – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Andore" title="Andore – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Andorra" title="Andorra – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Andora" title="Andora – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Andorra" title="Andorra – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Andora" title="Andora – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%91%CE%BD%CE%B4%CF%8C%CF%81%CF%81%CE%B1" title="Ανδόρρα – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Andorra" title="Andorra – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Andorra" title="Andorra – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Andorra" title="Andorra – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Andorra" title="Andorra – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Andorra" title="Andorra – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Andorra" title="Andorra – Vlax Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani čhib</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Andorra" title="Andorra – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Andurra" title="Andurra – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D0%B0" title="Андора – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Andorra" title="Andorra – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Andora" title="Andora – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%85%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%8B%E0%A4%B0%E0%A4%BE" title="अण्डोरा – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/And%C3%B4ro" title="Andôro – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Andorra" title="Andorra – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Andorrae" title="Andorrae – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Andorra" title="Andorra – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Andorra" title="Andorra – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Andorra" title="Andorra – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Andorra" title="Andorra – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%87%E0%B6%B1%E0%B7%8A%E0%B6%A9%E0%B7%9D%E0%B6%BB%E0%B7%8F" title="ඇන්ඩෝරා – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A7%D9%86%DA%8A%D9%88%D8%B1%D8%A7" title="انڊورا – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/IYandola" title="IYandola – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Andorra" title="Andorra – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Andora" title="Andora – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D0%B0" title="Андора – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Andora" title="Andora – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Andorra" title="Andorra – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D9%86%D8%AF%DB%86%D8%B1%D8%A7" title="ئەندۆرا – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Andorrakondre" title="Andorrakondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D0%B0" title="Андора – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Andora" title="Andora – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Andorra" title="Andorra – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://fi.wikipedia.org/wiki/Andorra" title="Andorra – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Andorra" title="Andorra – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Andorra" title="Andorra – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%8B%E0%AE%B0%E0%AE%BE" title="அந்தோரா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Andorra" title="Andorra – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Andorre" title="Andorre – Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target">Tarandíne</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A2%E1%82%85%E1%81%BC%E1%80%BA%E1%82%87%E1%80%90%E1%80%B0%E1%80%9D%E1%80%BA%E1%82%87%E1%80%9B%E1%82%83%E1%82%87" title="မိူင်းဢႅၼ်ႇတူဝ်ႇရႃႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%82%E0%B0%A1%E0%B1%8A%E0%B0%B0%E0%B1%8D%E0%B0%B0%E0%B0%BE" title="అండొర్రా – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Andorra" title="Andorra – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B2" title="ประเทศอันดอร์รา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8E%A0%E1%8F%82%E1%8F%99%E1%8E%B3" title="ᎠᏂᏙᎳ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Andorra" title="Andorra – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Andorra" title="Andorra – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-tw"><a href="https://tw.wikipedia.org/wiki/Andorra" title="Andorra – Twi" lang="tw" hreflang="tw" class="interlanguage-link-target">Twi</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D0%B0" title="Андорра – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%86%DA%88%D9%88%D8%B1%D8%A7" title="انڈورا – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%A6%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D8%B1%D8%A7" title="ئاندوررا – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Andorra" title="Andorra – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Andora" title="Andora – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Andorr" title="Andorr – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Andorra" title="Andorra – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Landor%C3%A4n" title="Landorän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Andorra" title="Andorra – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%AE%89%E9%81%93%E7%88%BE" title="安道爾 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Andorra" title="Andorra – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Andorra" title="Andorra – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Andoor" title="Andoor – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%AE%89%E9%81%93%E5%B0%94" title="安道尔 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Andorra" title="Andorra – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%90%D7%A0%D7%93%D7%90%D7%A8%D7%A2" title="אנדארע – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%C3%80nd%C3%B3r%C3%A0" title="Àndórà – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%AE%89%E9%81%93%E7%88%BE" title="安道爾 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Andorra" title="Andorra – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Andorra" title="Andorra – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Anduora" title="Anduora – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E9%81%93%E5%B0%94" title="安道尔 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q228#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 30 November 2020, at 05:09.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Andorra&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.048","walltime":"1.320","ppvisitednodes":{"value":4604,"limit":1000000},"postexpandincludesize":{"value":108756,"limit":2097152},"templateargumentsize":{"value":21643,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21839,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1215.286      1 -total"," 85.26% 1036.148      1 Template:Infobox_country"," 83.88% 1019.359      3 Template:Infobox"," 15.90%  193.258      3 Template:ISO_3166_code"," 14.45%  175.552      1 Template:Coord"," 13.89%  168.834      7 Template:Cite_web"," 13.71%  166.560      2 Template:Native_name"," 12.96%  157.501      2 Template:Lang","  4.19%   50.975      1 Template:Infobox_country/imagetable","  3.96%   48.160     22 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.695","limit":"10.000"},"limitreport-memusage":{"value":30008170,"limit":52428800}},"cachereport":{"origin":"mw1307","timestamp":"20201215175042","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Andorra","url":"https:\/\/simple.wikipedia.org\/wiki\/Andorra","sameAs":"http:\/\/www.wikidata.org\/entity\/Q228","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q228","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-10T17:51:41Z","dateModified":"2020-11-30T05:09:01Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/19\/Flag_of_Andorra.svg","headline":"sovereign microstate between France and Spain, in Western Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":300,"wgHostname":"mw1329"});});</script> 
+ </body>
+</html>

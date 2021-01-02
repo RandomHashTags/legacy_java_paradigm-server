@@ -1,42 +1,100 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.location.Country;
-
 import java.net.ServerSocket;
+import java.net.Socket;
+import java.net.SocketException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
+import java.util.logging.Level;
 
-import static java.lang.System.out;
+public final class LocalServer implements DataValues {
 
-public interface LocalServer {
-    static void start(String serverName, int port, CompletionHandler handler) {
-        setupHttpServer(serverName, port, handler);
-    }
-    static void start(Country country, CompletionHandler handler) {
-        setupHttpServer(country.getName(), country.getServer().getPort(), handler);
-    }
-    private static void connectClients(ServerSocket server, String serverName, int port, CompletionHandler handler) {
-        new Thread(() -> {
-            out.println("\n" + serverName + " - Listening for clients on port " + port + "...");
-            while (true) {
-                try {
-                    new WLClient(server.accept(), handler).start();
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
-        }).start();
+    private static final Scanner INPUT_SCANNER = new Scanner(System.in);
+    private final String serverName;
+    private final int port;
+    private final CompletionHandler handler;
+    private ServerSocket server;
+
+    private LocalServer(String serverName, int port, CompletionHandler handler) {
+        this.serverName = serverName;
+        this.port = port;
+        this.handler = handler;
+        start();
     }
 
-    static void setupHttpServer(String serverName, int port, CompletionHandler handler) {
+    public static void start(String serverName, int port, CompletionHandler handler) {
+        new LocalServer(serverName, port, handler);
+    }
+    private void start() {
+        setupHttpServer();
+    }
+    private void stop() {
+        WLLogger.log(Level.INFO, serverName + " - shutting down server...");
         try {
-            connectClients(new ServerSocket(port), serverName, port, handler);
+            server.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    static String fixEscapeValues(String input) {
+    private void setupHttpServer() {
+        try {
+            server = new ServerSocket(port);
+            connectClients();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+    private void connectClients() {
+        executeUserInput();
+        WLLogger.log(Level.INFO, serverName + " - Listening for clients on port " + port + "...");
+        acceptClients();
+    }
+    private void acceptClients() {
+        while (!server.isClosed()) {
+            try {
+                final Socket socket = server.accept();
+                new WLClient(socket, handler).start();
+            } catch (SocketException ignored) {
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    private void executeUserInput() {
+        new Thread(() -> executeUserInput(getUserInput())).start();
+    }
+    private String getUserInput() {
+        try {
+            return INPUT_SCANNER.next();
+        } catch (Exception ignored) {
+            return null;
+        }
+    }
+    private void executeUserInput(String input) {
+        if(input == null) {
+            return;
+        }
+        switch (input.toLowerCase()) {
+            case "stop":
+            case "shutdown":
+                stop();
+                INPUT_SCANNER.close();
+                return;
+            case "restart":
+            case "reload":
+                stop();
+                start();
+                break;
+            default:
+                break;
+        }
+        executeUserInput(getUserInput());
+    }
+
+    public static String fixEscapeValues(String input) {
         return input != null ?
                 input.replace("\\", "\\\\")
                 .replace("\t", "\\t")
@@ -49,7 +107,7 @@ public interface LocalServer {
                 : null;
     }
 
-    static String toCorrectCapitalization(String input, String...excludedWords) {
+    public static String toCorrectCapitalization(String input, String...excludedWords) {
         final String lowercase = input.toLowerCase();
         final String[] values = lowercase.split("_");
         final StringBuilder builder = new StringBuilder();
@@ -71,7 +129,7 @@ public interface LocalServer {
         }
         return builder.toString();
     }
-    static String toCorrectCapitalization(String input, boolean onlyFirstWordIsCapitalized, String...excluded) {
+    public String toCorrectCapitalization(String input, boolean onlyFirstWordIsCapitalized, String...excluded) {
         if(onlyFirstWordIsCapitalized) {
             String words = input.toLowerCase().replace("_", " ");
             for(String string : excluded) {

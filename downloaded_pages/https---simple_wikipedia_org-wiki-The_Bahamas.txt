@@ -1,0 +1,1192 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>The Bahamas - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHQpAMMQAA@hI8EAAAAAO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"The_Bahamas","wgTitle":"The Bahamas","wgCurRevisionId":7028032,"wgRevisionId":7028032,"wgArticleId":10487,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox country with unknown parameters","Commonwealth realms","English-speaking countries","The Bahamas","Caribbean Community","1973 establishments in North America"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"The_Bahamas","wgRelevantArticleId":10487,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q778"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready",
+"skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1200px-Flag_of_the_Bahamas.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/The_Bahamas"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=The_Bahamas&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=The_Bahamas&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/The_Bahamas"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_Bahamas rootpage-The_Bahamas skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">The Bahamas</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Commonwealth of the Bahamas
+          </div><br></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_the_Bahamas.svg" class="image" title="Flag of the Bahamas"><img alt="Flag of the Bahamas" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/125px-Flag_of_the_Bahamas.svg.png" decoding="async" width="125" height="63" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/188px-Flag_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/250px-Flag_of_the_Bahamas.svg.png 2x" data-file-width="600" data-file-height="300"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_the_Bahamas" title="Flag of the Bahamas">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_the_Bahamas.svg" class="image" title="Coat of arms of the Bahamas"><img alt="Coat of arms of the Bahamas" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/85px-Coat_of_arms_of_the_Bahamas.svg.png" decoding="async" width="85" height="104" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/128px-Coat_of_arms_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/170px-Coat_of_arms_of_the_Bahamas.svg.png 2x" data-file-width="1323" data-file-height="1620"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Coat_of_arms_of_the_Bahamas" title="Coat of arms of the Bahamas"> Coat of arms</a>
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b>"Forward, Upward, Onward, Together"
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b>"<a href="/wiki/March_On,_Bahamaland" title="March On, Bahamaland">March On, Bahamaland</a>"
+          </div>
+          <hr> 
+          <div style="line-height:1.2em;">
+           <b><a href="/wiki/Royal_anthem" class="mw-redirect" title="Royal anthem">Royal anthem</a>:&nbsp;</b>"<a href="/wiki/God_Save_the_Queen" title="God Save the Queen">God Save the Queen</a>"
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:LocationBahamas.svg" class="image" title="Location of the Bahamas"><img alt="Location of the Bahamas" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/LocationBahamas.svg/250px-LocationBahamas.svg.png" decoding="async" width="250" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/LocationBahamas.svg/375px-LocationBahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/LocationBahamas.svg/500px-LocationBahamas.svg.png 2x" data-file-width="1000" data-file-height="500"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/English_language" title="English language">English</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>85% <a href="/wiki/African_Bahamians" class="mw-redirect" title="African Bahamians">African Bahamians</a><br>12% <a href="/wiki/European_Bahamian" class="mw-redirect" title="European Bahamian">European Bahamians</a><br>3% <a href="/wiki/Asian_people" class="mw-redirect" title="Asian people">Asians</a> and <a href="/wiki/Hispanic" title="Hispanic">Hispanic</a><sup id="cite_ref-cia.gov_1-0" class="reference"><a href="#cite_note-cia.gov-1">[1]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>Bahamian</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/w/index.php?title=Unitary_State&amp;action=edit&amp;redlink=1" class="new" title="Unitary State (not yet started)">Unitary</a> <a href="/wiki/Parliamentary_system" title="Parliamentary system">Parliamentary democracy</a> and <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">Constitutional monarchy</a>.<sup id="cite_ref-A12_2-0" class="reference"><a href="#cite_note-A12-2">[2]</a></sup><sup id="cite_ref-A13_3-0" class="reference"><a href="#cite_note-A13-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Monarchy_of_the_Bahamas" title="Monarchy of the Bahamas">Monarch</a> 
+          </div></th>
+         <td><a href="/wiki/Elizabeth_II" title="Elizabeth II">Elizabeth II</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/List_of_Governors-General_of_The_Bahamas" class="mw-redirect" title="List of Governors-General of The Bahamas">Governor-General</a> 
+          </div></th>
+         <td><a href="/wiki/Cornelius_A._Smith" title="Cornelius A. Smith">Cornelius A. Smith</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/List_of_heads_of_government_of_the_Bahamas" class="mw-redirect" title="List of heads of government of the Bahamas">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Hubert_Minnis" title="Hubert Minnis">Hubert Minnis</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/wiki/Parliament_of_The_Bahamas" title="Parliament of The Bahamas">Parliament</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Upper_house" title="Upper house">Upper house</a>
+          </div></th>
+         <td><a href="/wiki/Senate_of_the_Bahamas" class="mw-redirect" title="Senate of the Bahamas">Senate</a></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Lower_house" title="Lower house">Lower house</a>
+          </div></th>
+         <td><a href="/wiki/House_of_Assembly_of_the_Bahamas" class="mw-redirect" title="House of Assembly of the Bahamas">House of Assembly</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        </tr>
+        <tr class="mergedbottomrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> 
+          </div></th>
+         <td>July 10, 1973<sup id="cite_ref-bbc_Bahamas_5-0" class="reference"><a href="#cite_note-bbc_Bahamas-5">[5]</a></sup></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>13,878&nbsp;km<sup>2</sup> (5,358&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">160th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>28%</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2010 estimate
+          </div></th>
+         <td>353,658<sup id="cite_ref-pop_6-0" class="reference"><a href="#cite_note-pop-6">[6]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">177th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;1990&nbsp;census
+          </div></th>
+         <td>254,685</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>23.27/km<sup>2</sup> (60.3/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">181st</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$9.136 billion<sup id="cite_ref-imf2_7-0" class="reference"><a href="#cite_note-imf2-7">[7]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$26,225<sup id="cite_ref-imf2_7-1" class="reference"><a href="#cite_note-imf2-7">[7]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$7.787 billion<sup id="cite_ref-imf2_7-2" class="reference"><a href="#cite_note-imf2-7">[7]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$22,352<sup id="cite_ref-imf2_7-3" class="reference"><a href="#cite_note-imf2-7">[7]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2011)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.771<sup id="cite_ref-HDI_8-0" class="reference"><a href="#cite_note-HDI-8">[8]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">43rd</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/Bahamian_dollar" title="Bahamian dollar">Bahamian dollar</a> (<a href="/wiki/ISO_4217" title="ISO 4217">BSD</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>−5</span> (<a href="/wiki/Eastern_Time_Zone_(North_America)" class="mw-redirect" title="Eastern Time Zone (North America)">EST</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>−4</span> (<a href="/wiki/Eastern_Daylight_Time" class="mw-redirect" title="Eastern Daylight Time">EDT</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>left</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/wiki/Area_code_242" title="Area code 242">+1-242</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:BS&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:BS (not yet started)">BS</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.bs" class="mw-redirect" title=".bs">.bs</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>The Bahamas</b> (officially called <b>Commonwealth of The Bahamas</b>) is a <a href="/wiki/Archipelago" title="Archipelago">group of islands</a> in the West Indies. The country's capital, <a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a>, is on New Providence Island. </p>
+      <p>The Taino were the first people living there. In 1492, <a href="/wiki/Christopher_Columbus" title="Christopher Columbus">Christopher Columbus</a> found the Americas by landing on another of the islands, <a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a>. The Eleutheran Adventurers soon came along, making a home in Eleuthera. </p>
+      <p>The islands' mostly black population speaks <a href="/wiki/English_language" title="English language">English</a>, the country's main language. </p>
+      <p>The Bahamas are a popular place for people to visit for holidays, the 700 islands and cays attract many visitors from nearby <a href="/wiki/United_States" title="United States">America</a>, as well as <a href="/wiki/Europe" title="Europe">Europe</a> and other countries. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#People"><span class="tocnumber">2</span> <span class="toctext">People</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#Languages"><span class="tocnumber">2.1</span> <span class="toctext">Languages</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Geography_and_climate"><span class="tocnumber">3</span> <span class="toctext">Geography and climate</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-5"><a href="#Climate"><span class="tocnumber">3.1</span> <span class="toctext">Climate</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Districts"><span class="tocnumber">4</span> <span class="toctext">Districts</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Military"><span class="tocnumber">5</span> <span class="toctext">Military</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Related_pages"><span class="tocnumber">7</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-10"><a href="#Other_websites"><span class="tocnumber">8</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=The_Bahamas&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a href="/w/index.php?title=Lucayans&amp;action=edit&amp;redlink=1" class="new" title="Lucayans (not yet started)">Lucayanss</a> were the first people to arrive in the Bahamas. They moved into the southern Bahamas from <a href="/wiki/Hispaniola" title="Hispaniola">Hispaniola</a> and <a href="/wiki/Cuba" title="Cuba">Cuba</a> around the 11th century AD, having come there from South America. They came to be known as the <a href="/w/index.php?title=Lucayan_people&amp;action=edit&amp;redlink=1" class="new" title="Lucayan people (not yet started)">Lucayan</a>. About 30,000 Lucayan lived the Bahamas when <a href="/wiki/Christopher_Columbus" title="Christopher Columbus">Christopher Columbus</a> arrived in 1492. Columbus' first landfall in the <a href="/wiki/New_World" title="New World">New World</a> was on an island named San Salvador, which some scholars believe to be present-day <a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador Island</a>. </p>
+      <p>The Spanish forced much of the Lucayan population to move to Hispaniola. They were used for <a href="/wiki/Forced_labour" class="mw-redirect" title="Forced labour">forced labour</a>. This and the exposure to foreign <a href="/wiki/Infectious_disease" class="mw-redirect" title="Infectious disease">diseases</a> led to most of the population of the Bahamas dying.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> <a href="/wiki/Smallpox" title="Smallpox">Smallpox</a> alone wiped out half of the population in what is now the Bahamas.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p>
+      <p>In 1670, <a href="/wiki/Charles_II_of_England" title="Charles II of England">King Charles II</a> rented out the islands to the <a href="/w/index.php?title=Carolinas&amp;action=edit&amp;redlink=1" class="new" title="Carolinas (not yet started)">Carolinas</a>, along with rights of trading, tax, and <a href="/wiki/Government" title="Government">governing</a> the country.<sup id="cite_ref-Anglican_11-0" class="reference"><a href="#cite_note-Anglican-11">[11]</a></sup> During this time, the Bahamas became a haven for <a href="/wiki/Piracy" title="Piracy">pirates</a>, including the infamous <a href="/wiki/Blackbeard" class="mw-redirect" title="Blackbeard">Blackbeard</a>. To restore proper government, Britain made the Bahamas a <a href="/wiki/British_overseas_territories" title="British overseas territories">crown colony</a> in 1718. The first governor was <a href="/w/index.php?title=Woodes_Rogers&amp;action=edit&amp;redlink=1" class="new" title="Woodes Rogers (not yet started)">Woodes Rogers</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> </p>
+      <p>After the <a href="/wiki/American_War_of_Independence" class="mw-redirect" title="American War of Independence">American War of Independence</a>, the British resettled some 7,300 <a href="/wiki/Loyalist_(American_Revolution)" title="Loyalist (American Revolution)">Loyalists</a> and their <a href="/wiki/Slave" class="mw-redirect" title="Slave">slaves</a> in the Bahamas from New York, Florida, and the Carolinas. The first group of loyalists left <a href="/wiki/St._Augustine,_Florida" title="St. Augustine, Florida">St. Augustine</a> in East Florida in September 1783. These Loyalists established <a href="/wiki/Plantation" title="Plantation">plantations</a> on several islands. <a href="/wiki/British_America" class="mw-redirect" title="British America">British Americans</a> were outnumbered by the African-American slaves they brought with them, and ethnic Europeans remained a minority in the territory. On <a href="/wiki/10_July" class="mw-redirect" title="10 July">10 July</a> <a href="/wiki/1973" title="1973">1973</a> The Bahamas gains full <a href="/wiki/Independence" title="Independence">independence</a> within <a href="/wiki/British_Commonwealth" class="mw-redirect" title="British Commonwealth">British Commonwealth</a>. </p> 
+      <h2><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: People">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=The_Bahamas&amp;action=edit&amp;section=2" title="Change section: People">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: <a href="/wiki/List_of_Bahamian_people" class="mw-redirect" title="List of Bahamian people">List of Bahamian people</a> and <a href="/wiki/White_Bahamian" title="White Bahamian">White Bahamian</a>
+      </div> 
+      <p>Nearly 500,000 people live in the Bahamas. The ethnic groups of the population is: <br> 82% <a href="/wiki/Africa" title="Africa">African</a> descent <br> 15% <a href="/wiki/Europe" title="Europe">European</a> &amp; Mixed descent <br> 3% <a href="/wiki/Asian" class="mw-redirect" title="Asian">Asian</a> and other. </p> 
+      <div class="barbox tright" style="overflow-x: auto;"> 
+       <div style="border:1px solid silver; font-size:88%; padding:0.4em; width:auto; background: white;"> 
+        <table style="text-align:left; border-collapse:collapse; width:100%;"> 
+         <tbody>
+          <tr style="background:#ddd">
+           <th style="text-align:center;" colspan="5">DNA estimates of The Bahamas</th>
+          </tr> 
+          <tr style="font-size:88%; height:4px;"> 
+           <td style="padding:0 4px; text-align:left;">Ethnicity</td> 
+           <td style="padding:0 4px; text-align:right;"></td> 
+           <td style="width:100px; text-align:left;"></td> 
+           <td style="padding:0 4px; width:1em; text-align:right;">% approx.</td> 
+           <td style="padding:0 4px; text-align:right;"></td> 
+          </tr> 
+          <tr> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Black African</td> 
+           <td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+            <div style="background:Black; width:70%; overflow: hidden;">
+              
+            </div></td> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">70%</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Mulatto</td> 
+           <td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+            <div style="background:Brown; width:13.8%; overflow: hidden;">
+              
+            </div></td> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">13.8%</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">White</td> 
+           <td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+            <div style="background:Tan; width:12.4%; overflow: hidden;">
+              
+            </div></td> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">12.4%</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Asian</td> 
+           <td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;">
+            <div style="background:Yellow; width:3.8%; overflow: hidden;">
+              
+            </div></td> 
+           <td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">3.8%</td> 
+          </tr> 
+         </tbody>
+        </table> 
+       </div> 
+      </div> 
+      <h3><span class="mw-headline" id="Languages">Languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Languages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=The_Bahamas&amp;action=edit&amp;section=3" title="Change section: Languages">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The official language of the Bahamas is <a href="/wiki/English_language" title="English language">English</a>, but they also speak a local dialect called <a href="/w/index.php?title=Bahamian_Creole&amp;action=edit&amp;redlink=1" class="new" title="Bahamian Creole (not yet started)">Bahamianese</a>. The Bahamian dialect is based based on the West Country England accents along with South Hiberno English dialects with strong influences from <a href="/wiki/West_Africa" title="West Africa">West African</a> languages. </p> 
+      <h2><span class="mw-headline" id="Geography_and_climate">Geography and climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Geography and climate">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=The_Bahamas&amp;action=edit&amp;section=4" title="Change section: Geography and climate">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: <a href="/wiki/List_of_cities_in_the_Bahamas" title="List of cities in the Bahamas">List of cities in the Bahamas</a>
+      </div> 
+      <p>In 1864 the Governor of the Bahamas reported that there were 29 islands, 661 cays, and 2,387 rocks in the colony.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p>
+      <p>The closest island to the United States is <a href="/wiki/Bimini" title="Bimini">Bimini</a>. The southeasternmost island is <a href="/wiki/Inagua" title="Inagua">Inagua</a>. The largest island is <a href="/wiki/Andros_Island" class="mw-redirect" title="Andros Island">Andros Island</a>. <a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a>, capital city of The Bahamas, is on the island of <a href="/wiki/New_Providence" title="New Providence">New Providence</a>. </p>
+      <p>All the islands are low and flat. The highest point in the country is <a href="/wiki/Mount_Alvernia" title="Mount Alvernia">Mount Alvernia</a> on <a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a>. It is 63 metres (207&nbsp;ft) high. </p> 
+      <h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Climate">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=The_Bahamas&amp;action=edit&amp;section=5" title="Change section: Climate">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The climate of The Bahamas is subtropical to tropical. The <a href="/wiki/Gulf_Stream" class="mw-redirect" title="Gulf Stream">Gulf Stream</a> can be very dangerous in the summer and autumn. This is when hurricanes pass near or through the islands. <a href="/wiki/Hurricane_Andrew" title="Hurricane Andrew">Hurricane Andrew</a> hit the northern islands during the <a href="/wiki/1992_Atlantic_hurricane_season" title="1992 Atlantic hurricane season">1992 Atlantic hurricane season</a>. <a href="/wiki/Hurricane_Floyd" title="Hurricane Floyd">Hurricane Floyd</a> hit most of the islands during the 1999 Atlantic hurricane season. </p>
+      <p>There has never been a freeze reported in The Bahamas. The temperature can fall as low as 2–3&nbsp;°C (35.6–37.4&nbsp;°F). </p> 
+      <h2><span class="mw-headline" id="Districts">Districts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Districts">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=The_Bahamas&amp;action=edit&amp;section=6" title="Change section: Districts">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The Bahamas are divided into 32 districts and the town of <a href="/wiki/New_Providence" title="New Providence">New Providence</a>. </p>
+      <p>The districts are: </p> 
+      <div style="font-size:95%;"> 
+       <table style="background:transparent;" cellspacing="0" cellpadding="0"> 
+        <tbody>
+         <tr valign="top"> 
+          <td style="width:19em;"> 
+           <ul> 
+            <ol> 
+             <li><a href="/wiki/Acklins" class="mw-redirect" title="Acklins">Acklins</a></li> 
+             <li><a href="/wiki/Berry_Islands" title="Berry Islands">Berry Islands</a></li> 
+             <li><a href="/wiki/Bimini" title="Bimini">Bimini</a></li> 
+             <li><a href="/wiki/Black_Point_(Bahamas)" class="mw-redirect" title="Black Point (Bahamas)">Black Point</a>, <a href="/wiki/Exuma" title="Exuma">Exuma</a></li> 
+             <li><a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a></li> 
+             <li><a href="/wiki/Central_Abaco" title="Central Abaco">Central Abaco</a></li> 
+             <li><a href="/wiki/Central_Andros" title="Central Andros">Central Andros</a></li> 
+             <li><a href="/wiki/Central_Eleuthera" title="Central Eleuthera">Central Eleuthera</a></li> 
+             <li><a href="/wiki/Freeport,_Bahamas" title="Freeport, Bahamas">City of Freeport, Grand Bahama</a></li> 
+             <li><a href="/wiki/Crooked_Island,_Bahamas" title="Crooked Island, Bahamas">Crooked Island</a></li> 
+             <li><a href="/wiki/East_Grand_Bahama" title="East Grand Bahama">East Grand Bahama</a></li> 
+             <li><a href="/wiki/Exuma" title="Exuma">Exuma</a></li> 
+             <li><a href="/wiki/Grand_Cay" title="Grand Cay">Grand Cay</a>, <a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></li> 
+             <li><a href="/wiki/Harbour_Island_(Bahamas)" class="mw-redirect" title="Harbour Island (Bahamas)">Harbour Island</a>, <a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></li> 
+             <li><a href="/wiki/Hope_Town" title="Hope Town">Hope Town</a>, <a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></li> 
+             <li><a href="/wiki/Inagua" title="Inagua">Inagua</a></li> 
+             <li><a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long Island</a></li> 
+            </ol> 
+           </ul></td> 
+          <td style="width:1.25em;"></td> 
+          <td style="width:19em;"> 
+           <ul> 
+            <ol start="18"> 
+             <li><a href="/wiki/Mangrove_Cay" title="Mangrove Cay">Mangrove Cay</a>, <a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros</a></li> 
+             <li><a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a></li> 
+             <li><a href="/wiki/Moore%27s_Island" title="Moore's Island">Moore's Island</a>, <a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></li> 
+             <li><a href="/wiki/North_Abaco" title="North Abaco">North Abaco</a></li> 
+             <li><a href="/wiki/North_Andros" title="North Andros">North Andros</a></li> 
+             <li><a href="/wiki/North_Eleuthera" title="North Eleuthera">North Eleuthera</a></li> 
+             <li><a href="/wiki/Ragged_Island,_Bahamas" class="mw-redirect" title="Ragged Island, Bahamas">Ragged Island</a></li> 
+             <li><a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a></li> 
+             <li><a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a></li> 
+             <li><a href="/wiki/South_Abaco" title="South Abaco">South Abaco</a></li> 
+             <li><a href="/wiki/South_Andros" title="South Andros">South Andros</a></li> 
+             <li><a href="/wiki/South_Eleuthera" title="South Eleuthera">South Eleuthera</a></li> 
+             <li><a href="/wiki/Spanish_Wells" title="Spanish Wells">Spanish Wells</a>, <a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></li> 
+             <li><a href="/wiki/West_Grand_Bahama" title="West Grand Bahama">West Grand Bahama</a></li> 
+             <li><a href="/wiki/Green_Turtle_Cay" title="Green Turtle Cay">Green Turtle Cay</a> (not shown on map)</li> 
+            </ol> 
+           </ul></td> 
+         </tr>
+        </tbody>
+       </table> 
+      </div> 
+      <h2><span class="mw-headline" id="Military">Military</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Military">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=The_Bahamas&amp;action=edit&amp;section=7" title="Change section: Military">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The Bahamas does not have an army or an air force. The Royal Bahamas Defence Force (RBDF) is the navy. The Defence Force has a fleet of 26 coastal and inshore patrol craft along with 2 aircraft and over 850 personnel including 65 officers and 74 women. </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=The_Bahamas&amp;action=edit&amp;section=8" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-cia.gov-1"><span class="mw-cite-backlink"><a href="#cite_ref-cia.gov_1-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cia.gov/library/publications/the-world-factbook/geos/bf.html">https://www.cia.gov/library/publications/the-world-factbook/geos/bf.html</a></span> </li> 
+         <li id="cite_note-A12-2"><span class="mw-cite-backlink"><a href="#cite_ref-A12_2-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.paho.org/english/dd/ais/cp_044.htm">"•GENERAL SITUATION AND TRENDS"</a>. <i>Pan American Health Organization</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pan+American+Health+Organization&amp;rft.atitle=%E2%80%A2GENERAL+SITUATION+AND+TRENDS&amp;rft_id=http%3A%2F%2Fwww.paho.org%2Fenglish%2Fdd%2Fais%2Fcp_044.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AThe+Bahamas" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-A13-3"><span class="mw-cite-backlink"><a href="#cite_ref-A13_3-0">↑</a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.caribbeanevangelical.org/newsevents/oldarticles.htm?id=82">"Mission to Long Island in the Bahamas"</a>. <i>Evangelical Association of the Caribbean</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Evangelical+Association+of+the+Caribbean&amp;rft.atitle=Mission+to+Long+Island+in+the+Bahamas&amp;rft_id=http%3A%2F%2Fwww.caribbeanevangelical.org%2Fnewsevents%2Foldarticles.htm%3Fid%3D82&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AThe+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bahamas.gov.bs/wps/portal/public/The%20Government/Governor%20General/!ut/p/b1/vZTJcqMwFEW_JR-Q8MQoLwXGgBnNZMPGBbbBDDY4DLb5-na6N-muSrLpRFqpdPTuu1cqUTEV0YhBDI0FQaA2VHxOxiJP-qI5J_XbOua3DCgmISw2FQ540ALHII6g0jbiqDW1SSN6Nu-0fCHHWbvqyiEo9E5sfPtWbWomum2McmZmqac5KreMYXc2uGnXRI54zKWaZ0wgPRpDOHDYWwykQMhEZn1gJytk-HAxMrgbt2vcWi5M8ch60uFV5QpPn9VszUgwyNuS8NAcFfaooNQIGbkx920aNqHpr5t5ch2GrJVuMyszyNPDUPQwBB8MAl_5_XP-I4CFr_OKP0XeKvwGPmvx0wo6TUUPQHgH-CGAhoC4HloBthDlUxtgt155b7Wpmtxycs0OcuRVzR0FcPcmw7P8hd5bouWVsQNTwPiThjy5upuPfbPfOPvQDUQiCZ0msP8K2rQ_ewhKiNcDDjxgv1tQ4Wz8iEDwHcLRoNjopwWZH41UcWz4dod_PRp29f_vcEnFRXp6ue5OL_CCZzziBMzOMA8siwUqLCP-7Vu5zjU3a6NeTbpZJ2nVoImJAmRdpyEpuOC5TXavqYwbqdDUdhyd5VDZYoxhh0Ak9iFL9row5Fc7OWdBGci3IxGbyhM4Vdyv1Ak3U5-PZkmMZmfd9v0FC5V0SkapBbi0l2vt7dbcktm29CKcb_TLfdXLDs8Yej-Ui0ttFrRyM7fOwR46PrFMaJjI7Wo-zq6ocfLOzRb74pwm6Y1FgWxwlKU2pwN1il_vxXPlYvRuMvnTLz_qSzI!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/">"Governor-General"</a>. The Government of The Bahamas<span class="reference-accessdate">. Retrieved <span class="nowrap">30 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Governor-General&amp;rft.pub=The+Government+of+The+Bahamas&amp;rft_id=http%3A%2F%2Fwww.bahamas.gov.bs%2Fwps%2Fportal%2Fpublic%2FThe%2520Government%2FGovernor%2520General%2F%21ut%2Fp%2Fb1%2FvZTJcqMwFEW_JR-Q8MQoLwXGgBnNZMPGBbbBDDY4DLb5-na6N-muSrLpRFqpdPTuu1cqUTEV0YhBDI0FQaA2VHxOxiJP-qI5J_XbOua3DCgmISw2FQ540ALHII6g0jbiqDW1SSN6Nu-0fCHHWbvqyiEo9E5sfPtWbWomum2McmZmqac5KreMYXc2uGnXRI54zKWaZ0wgPRpDOHDYWwykQMhEZn1gJytk-HAxMrgbt2vcWi5M8ch60uFV5QpPn9VszUgwyNuS8NAcFfaooNQIGbkx920aNqHpr5t5ch2GrJVuMyszyNPDUPQwBB8MAl_5_XP-I4CFr_OKP0XeKvwGPmvx0wo6TUUPQHgH-CGAhoC4HloBthDlUxtgt155b7Wpmtxycs0OcuRVzR0FcPcmw7P8hd5bouWVsQNTwPiThjy5upuPfbPfOPvQDUQiCZ0msP8K2rQ_ewhKiNcDDjxgv1tQ4Wz8iEDwHcLRoNjopwWZH41UcWz4dod_PRp29f_vcEnFRXp6ue5OL_CCZzziBMzOMA8siwUqLCP-7Vu5zjU3a6NeTbpZJ2nVoImJAmRdpyEpuOC5TXavqYwbqdDUdhyd5VDZYoxhh0Ak9iFL9row5Fc7OWdBGci3IxGbyhM4Vdyv1Ak3U5-PZkmMZmfd9v0FC5V0SkapBbi0l2vt7dbcktm29CKcb_TLfdXLDs8Yej-Ui0ttFrRyM7fOwR46PrFMaJjI7Wo-zq6ocfLOzRb74pwm6Y1FgWxwlKU2pwN1il_vxXPlYvRuMvnTLz_qSzI%21%2Fdl4%2Fd5%2FL2dBISEvZ0FBIS9nQSEh%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AThe+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-bbc_Bahamas-5"><span class="mw-cite-backlink"><a href="#cite_ref-bbc_Bahamas_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/onthisday/hi/dates/stories/july/9/newsid_2498000/2498835.stm">"1973: Bahamas' sun sets on British Empire"</a>. <a href="/wiki/BBC_News" title="BBC News">BBC News</a>. July 9, 1973<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-05-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1973%3A+Bahamas%27+sun+sets+on+British+Empire&amp;rft.pub=BBC+News&amp;rft.date=1973-07-09&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fonthisday%2Fhi%2Fdates%2Fstories%2Fjuly%2F9%2Fnewsid_2498000%2F2498835.stm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AThe+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-pop-6"><span class="mw-cite-backlink"><a href="#cite_ref-pop_6-0">↑</a></span> <span class="reference-text">COMPARISON BETWEEN THE 2000 AND 2010 POPULATION CENSUSES AND PERCENTAGE CHANGE.</span> </li> 
+         <li id="cite_note-imf2-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_7-0">7.0</a></sup> <sup><a href="#cite_ref-imf2_7-1">7.1</a></sup> <sup><a href="#cite_ref-imf2_7-2">7.2</a></sup> <sup><a href="#cite_ref-imf2_7-3">7.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?pr.x=99&amp;pr.y=5&amp;sy=2008&amp;ey=2011&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=313&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"The Bahamas"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Bahamas&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2011%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D99%26pr.y%3D5%26sy%3D2008%26ey%3D2011%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D313%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AThe+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-8"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_8-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf">"Human Development Report 2011"</a> <span class="cs1-format">(PDF)</span>. United Nations. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2011&amp;rft.pub=United+Nations&amp;rft.date=2011&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fmedia%2FHDR_2011_EN_Table1.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AThe+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Joanne E. Dumene, "Looking for Columbus", <i>Five Hundred Magazine</i>, April 1990, Vol. 2, No. 1, pp. 11–15</span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.edweek.org/login.html?source=http://www.edweek.org/ew/articles/1991/10/09/06columb.h11.html&amp;destination=http://www.edweek.org/ew/articles/1991/10/09/06columb.h11.html&amp;levelId=2100">"Schools Grapple With Columbus's Legacy: Intrepid Explorer or Ruthless Conqueror?"</a>, <i>Education Week</i>, 9 October 1991</span> </li> 
+         <li id="cite_note-Anglican-11"><span class="mw-cite-backlink"><a href="#cite_ref-Anglican_11-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090210085306/http://bahamas.anglican.org/history.php">"Diocesan History"</a>. Anglican Communications Department. 2009. Archived from <a rel="nofollow" class="external text" href="http://bahamas.anglican.org/history.php">the original</a> on 10 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">7 May</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Diocesan+History&amp;rft.pub=Anglican+Communications+Department&amp;rft.date=2009&amp;rft_id=http%3A%2F%2Fbahamas.anglican.org%2Fhistory.php&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AThe+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite id="CITEREFWoodard2010" class="citation book cs1">Woodard, Colin (2010). <a rel="nofollow" class="external text" href="http://www.republicofpirates.net"><i>The Republic of Pirates</i></a>. Harcourt, Inc. pp.&nbsp;166–168, 262–314. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-15-603462-3" title="Special:BookSources/978-0-15-603462-3"><bdi>978-0-15-603462-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Republic+of+Pirates&amp;rft.pages=166-168%2C+262-314&amp;rft.pub=Harcourt%2C+Inc&amp;rft.date=2010&amp;rft.isbn=978-0-15-603462-3&amp;rft.aulast=Woodard&amp;rft.aufirst=Colin&amp;rft_id=http%3A%2F%2Fwww.republicofpirates.net&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AThe+Bahamas" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Albury:6</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=The_Bahamas&amp;action=edit&amp;section=9" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Bahamas_at_the_Olympics" title="Bahamas at the Olympics">Bahamas at the Olympics</a></li> 
+       <li><a href="/wiki/Bahamas_national_football_team" title="Bahamas national football team">Bahamas national football team</a></li> 
+       <li><a href="/wiki/List_of_rivers_of_the_Bahamas" title="List of rivers of the Bahamas">List of rivers of the Bahamas</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=The_Bahamas&amp;action=edit&amp;section=10" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="metadata mbox-small plainlinks" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wiktionary-logo-simple.png/40px-Wiktionary-logo-simple.png" decoding="async" width="40" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wiktionary-logo-simple.png/60px-Wiktionary-logo-simple.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wiktionary-logo-simple.png/80px-Wiktionary-logo-simple.png 2x" data-file-width="155" data-file-height="127"></td> 
+         <td class="mbox-text plainlist">The <a href="/wiki/Wikipedia:Simple_English_Wiktionary" title="Wikipedia:Simple English Wiktionary">Simple English Wiktionary</a> has a <a href="/wiki/Definition" title="Definition">definition</a> for: <i> <b><a href="https://simple.wiktionary.org/wiki/Bahamas" class="extiw" title="wikt:Bahamas">Bahamas</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.bahamas.gov.bs/">Official Government Website</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.bahamas.com/">The Ministry of Tourism's Site</a></li>
+      </ul> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/The_Bahamas" class="extiw" title="commons:Special:Search/The Bahamas">The Bahamas</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_North_America" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_America" title="Template:North America"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:North_America&amp;action=edit&amp;redlink=1" class="new" title="Template talk:North America (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_America&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_of_North_America" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/North_America" title="North America">North America</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Independent</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Bahamas</a>&nbsp;<b>·</b> <a href="/wiki/Barbados" title="Barbados">Barbados</a>&nbsp;<b>·</b> <a href="/wiki/Belize" title="Belize">Belize</a>&nbsp;<b>·</b> <a href="/wiki/Canada" title="Canada">Canada</a>&nbsp;<b>·</b> <a href="/wiki/Costa_Rica" title="Costa Rica">Costa&nbsp;Rica</a>&nbsp;<b>·</b> <a href="/wiki/Cuba" title="Cuba">Cuba</a>&nbsp;<b>·</b> <a href="/wiki/Dominica" title="Dominica">Dominica</a>&nbsp;<b>·</b> <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican&nbsp;Republic</a>&nbsp;<b>·</b> <a href="/wiki/El_Salvador" title="El Salvador">El&nbsp;Salvador</a>&nbsp;<b>·</b> <a href="/wiki/Grenada" title="Grenada">Grenada</a>&nbsp;<b>·</b> <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a>&nbsp;<b>·</b> <a href="/wiki/Haiti" title="Haiti">Haiti</a>&nbsp;<b>·</b> <a href="/wiki/Honduras" title="Honduras">Honduras</a>&nbsp;<b>·</b> <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>&nbsp;<b>·</b> <a href="/wiki/Mexico" title="Mexico">Mexico</a>&nbsp;<b>·</b> <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a>&nbsp;<b>·</b> <a href="/wiki/Panama" title="Panama">Panama</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint&nbsp;Kitts&nbsp;and&nbsp;Nevis</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint&nbsp;Lucia</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">Saint&nbsp;Vincent&nbsp;and&nbsp;the&nbsp;Grenadines</a>&nbsp;<b>·</b> <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad&nbsp;and&nbsp;Tobago</a>&nbsp;<b>·</b> <a href="/wiki/United_States" title="United States">United&nbsp;States</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Governed by other countries</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Anguilla" title="Anguilla">Anguilla</a>&nbsp;<b>·</b> <a href="/wiki/Aruba" title="Aruba">Aruba</a>&nbsp;<b>·</b> <a href="/wiki/Bermuda" title="Bermuda">Bermuda</a>&nbsp;<b>·</b> <a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British&nbsp;Virgin&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/Cura%C3%A7ao" title="Curaçao">Curaçao</a>&nbsp;<b>·</b> <a href="/wiki/Greenland" title="Greenland">Greenland</a>&nbsp;<b>·</b> <a href="/wiki/Guadeloupe" title="Guadeloupe">Guadeloupe</a>&nbsp;<b>·</b> <a href="/wiki/Martinique" title="Martinique">Martinique</a>&nbsp;<b>·</b> <a href="/wiki/Montserrat" title="Montserrat">Montserrat</a>&nbsp;<b>·</b> <a href="/wiki/Navassa_Island" title="Navassa Island">Navassa&nbsp;Island</a>&nbsp;<b>·</b> <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto&nbsp;Rico</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Martin_(Netherlands)" class="mw-redirect" title="Saint Martin (Netherlands)">Saint Martin</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Pierre_and_Miquelon" title="Saint Pierre and Miquelon">Saint-Pierre&nbsp;and&nbsp;Miquelon</a>&nbsp;<b>·</b> <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks&nbsp;and&nbsp;Caicos&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/United_States_Virgin_Islands" title="United States Virgin Islands">U.S.&nbsp;Virgin&nbsp;Islands</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_in_the_Caribbean_(West_Indies)" style="autocollapse;padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Caribbean" title="Template:Caribbean"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Caribbean" title="Template talk:Caribbean"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caribbean&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_in_the_Caribbean_(West_Indies)" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Country" title="Country">Countries</a> and <a href="/wiki/Territory" title="Territory">territories</a> in the <a href="/wiki/Caribbean" title="Caribbean">Caribbean</a> (<i>West Indies</i>)
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Independent Countries</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>&nbsp;<b>·</b> <a href="/wiki/Bahamas" class="mw-redirect" title="Bahamas">Bahamas</a>&nbsp;<b>·</b> <a href="/wiki/Barbados" title="Barbados">Barbados</a>&nbsp;<b>·</b> <a href="/wiki/Cuba" title="Cuba">Cuba</a>&nbsp;<b>·</b> <a href="/wiki/Dominica" title="Dominica">Dominica</a>&nbsp;<b>·</b> <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>&nbsp;<b>·</b> <a href="/wiki/Grenada" title="Grenada">Grenada</a>&nbsp;<b>·</b> <a href="/wiki/Haiti" title="Haiti">Haiti</a>&nbsp;<b>·</b> <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint Kitts and Nevis</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint Lucia</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a>&nbsp;<b>·</b> <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Governed by other countries</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Anguilla" title="Anguilla">Anguilla</a>&nbsp;<b>·</b> <a href="/wiki/Aruba" title="Aruba">Aruba</a>&nbsp;<b>·</b> <a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a>&nbsp;<b>·</b> <a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a>&nbsp;<b>·</b> <a href="/wiki/Guadeloupe" title="Guadeloupe">Guadeloupe</a>&nbsp;<b>·</b> <a href="/wiki/Cura%C3%A7ao" title="Curaçao">Curaçao</a>&nbsp;<b>·</b> <a href="/wiki/Martinique" title="Martinique">Martinique</a>&nbsp;<b>·</b> <a href="/wiki/Montserrat" title="Montserrat">Montserrat</a>&nbsp;<b>·</b> <a href="/wiki/Navassa_Island" title="Navassa Island">Navassa Island</a>&nbsp;<b>·</b> <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Martin_(Netherlands)" class="mw-redirect" title="Saint Martin (Netherlands)">Sint Maarten</a>&nbsp;<b>·</b> <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a>&nbsp;<b>·</b> <a href="/wiki/United_States_Virgin_Islands" title="United States Virgin Islands">U.S. Virgin Islands</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Caribbean_Community_(CARICOM)" style="autocollapse;padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Caricom" title="Template:Caricom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Caricom" title="Template talk:Caricom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caricom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Caribbean_Community_(CARICOM)" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Caribbean_Community" title="Caribbean Community">Caribbean Community</a> (CARICOM)
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Bahamas</a>¹&nbsp;<b>·</b> <a href="/wiki/Barbados" title="Barbados">Barbados</a>&nbsp;<b>·</b> <a href="/wiki/Belize" title="Belize">Belize</a>&nbsp;<b>·</b> <a href="/wiki/Dominica" title="Dominica">Dominica</a>&nbsp;<b>·</b> <a href="/wiki/Grenada" title="Grenada">Grenada</a>&nbsp;<b>·</b> <a href="/wiki/Guyana" title="Guyana">Guyana</a>&nbsp;<b>·</b> <a href="/wiki/Haiti" title="Haiti">Haiti</a>&nbsp;<b>·</b> <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>&nbsp;<b>·</b> <a href="/wiki/Montserrat" title="Montserrat">Montserrat</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint Kitts and Nevis</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint Lucia</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a>&nbsp;<b>·</b> <a href="/wiki/Suriname" title="Suriname">Suriname</a>&nbsp;<b>·</b> <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Associate members</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Anguilla" title="Anguilla">Anguilla</a>&nbsp;<b>·</b> <a href="/wiki/Bermuda" title="Bermuda">Bermuda</a>&nbsp;<b>·</b> <a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a>&nbsp;<b>·</b> <a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a>&nbsp;<b>·</b> <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Observer countries</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Aruba" title="Aruba">Aruba</a>&nbsp;<b>·</b> <a href="/wiki/Colombia" title="Colombia">Colombia</a>&nbsp;<b>·</b> <a href="/wiki/Cura%C3%A7ao" title="Curaçao">Curaçao</a>&nbsp;<b>·</b> <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>&nbsp;<b>·</b> <a href="/wiki/Mexico" title="Mexico">Mexico</a>&nbsp;<b>·</b> <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Martin_(Netherlands)" class="mw-redirect" title="Saint Martin (Netherlands)">Saint Martin</a>&nbsp;<b>·</b> <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            ¹ Member of the community but not the Caribbean (CARICOM) Single Market and Economy.
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Members_of_the_Commonwealth_of_Nations" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Members_of_the_Commonwealth_of_Nations" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=Member_states_of_the_Commonwealth_of_Nations&amp;action=edit&amp;redlink=1" class="new" title="Member states of the Commonwealth of Nations (not yet started)">Members of the</a> <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" class="mw-redirect" title="List of sovereign states">Sovereign states</a> <br> (Members)</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Australia" title="Australia">Australia</a></li> 
+             <li><a class="mw-selflink selflink">Bahamas</a></li> 
+             <li><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Barbados" title="Barbados">Barbados</a></li> 
+             <li><a href="/wiki/Belize" title="Belize">Belize</a></li> 
+             <li><a href="/wiki/Botswana" title="Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Brunei" title="Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Canada" title="Canada">Canada</a></li> 
+             <li><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Dominica" title="Dominica">Dominica</a></li> 
+             <li><a href="/wiki/Eswatini" title="Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Fiji" title="Fiji">Fiji</a></li> 
+             <li><a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Ghana" title="Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Grenada" title="Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Guyana" title="Guyana">Guyana</a></li> 
+             <li><a href="/wiki/India" title="India">India</a></li> 
+             <li><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Kenya" title="Kenya">Kenya</a></li> 
+             <li><a href="/wiki/Kiribati" title="Kiribati">Kiribati</a></li> 
+             <li><a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Malta" title="Malta">Malta</a></li> 
+             <li><a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Nauru" title="Nauru">Nauru</a></li> 
+             <li><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></li> 
+             <li><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">St. Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Saint_Lucia" title="Saint Lucia">St. Lucia</a></li> 
+             <li><a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">St. Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Samoa" title="Samoa">Samoa</a></li> 
+             <li><a href="/wiki/Seychelles" title="Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Singapore" title="Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a></li> 
+             <li><a href="/wiki/South_Africa" title="South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Tonga" title="Tonga">Tonga</a></li> 
+             <li><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a></li> 
+             <li><a href="/wiki/Uganda" title="Uganda">Uganda</a></li> 
+             <li><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a></li> 
+             <li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a><br> of Members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Australia</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Ashmore_and_Cartier_Islands" title="Ashmore and Cartier Islands">Ashmore and Cartier Islands</a></li> 
+                 <li><a href="/wiki/Australian_Antarctic_Territory" title="Australian Antarctic Territory">Australian Antarctic Territory</a></li> 
+                 <li><a href="/wiki/Christmas_Island" title="Christmas Island">Christmas Island</a></li> 
+                 <li><a href="/wiki/Cocos_(Keeling)_Islands" title="Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+                 <li><a href="/wiki/Coral_Sea_Islands" title="Coral Sea Islands">Coral Sea Islands</a></li> 
+                 <li><a href="/wiki/Heard_Island_and_McDonald_Islands" title="Heard Island and McDonald Islands">Heard Island and McDonald Islands</a></li> 
+                 <li><a href="/wiki/Norfolk_Island" title="Norfolk Island">Norfolk Island</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">New Zealand</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a></li> 
+                 <li><a href="/wiki/Niue" title="Niue">Niue</a></li> 
+                 <li><a href="/wiki/Ross_Dependency" title="Ross Dependency">Ross Dependency</a></li> 
+                 <li><a href="/wiki/Tokelau" title="Tokelau">Tokelau</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">United Kingdom</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a></li> 
+                 <li><a href="/wiki/Anguilla" title="Anguilla">Anguilla</a></li> 
+                 <li><a href="/wiki/Bermuda" title="Bermuda">Bermuda</a></li> 
+                 <li><a href="/wiki/British_Antarctic_Territory" title="British Antarctic Territory">British Antarctic Territory</a></li> 
+                 <li><a href="/wiki/British_Indian_Ocean_Territory" title="British Indian Ocean Territory">British Indian Ocean Territory</a></li> 
+                 <li><a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a></li> 
+                 <li><a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a></li> 
+                 <li><a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a></li> 
+                 <li><a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a></li> 
+                 <li><a href="/wiki/Guernsey" title="Guernsey">Guernsey</a></li> 
+                 <li><a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a></li> 
+                 <li><a href="/wiki/Jersey" title="Jersey">Jersey</a></li> 
+                 <li><a href="/wiki/Montserrat" title="Montserrat">Montserrat</a></li> 
+                 <li><a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">Pitcairn Islands</a></li> 
+                 <li><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">St. Helena, Ascension and Tristan da Cunha</a></li> 
+                 <li><a href="/wiki/South_Georgia_and_the_South_Sandwich_Islands" title="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</a></li> 
+                 <li><a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            Source: <a rel="nofollow" class="external text" href="http://www.thecommonwealth.org/Internal/142227/members/">Commonwealth Secretariat - Member States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1307
+Cached time: 20201216001540
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.548 seconds
+Real time usage: 0.686 seconds
+Preprocessor visited node count: 4222/1000000
+Post‐expand include size: 109805/2097152 bytes
+Template argument size: 8026/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 32880/5000000 bytes
+Lua time usage: 0.242/10.000 seconds
+Lua memory usage: 6295977/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  579.485      1 -total
+ 52.84%  306.172      1 Template:Infobox_country
+ 48.34%  280.132      3 Template:Infobox
+ 26.16%  151.595      1 Template:Reflist
+ 20.56%  119.125      6 Template:Cite_web
+  9.80%   56.800      1 Template:Infobox_country/imagetable
+  8.95%   51.884      5 Template:Navbox
+  8.85%   51.274      3 Template:ISO_3166_code
+  7.44%   43.133     20 Template:If_empty
+  6.66%   38.591      2 Template:Convinfobox
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:10487-0!canonical and timestamp 20201216001540 and revision id 7028032. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=The_Bahamas&amp;oldid=7028032">https://simple.wikipedia.org/w/index.php?title=The_Bahamas&amp;oldid=7028032</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Commonwealth_realms" title="Category:Commonwealth realms">Commonwealth realms</a></li>
+       <li><a href="/wiki/Category:English-speaking_countries" title="Category:English-speaking countries">English-speaking countries</a></li>
+       <li><a href="/wiki/Category:The_Bahamas" title="Category:The Bahamas">The Bahamas</a></li>
+       <li><a href="/wiki/Category:Caribbean_Community" title="Category:Caribbean Community">Caribbean Community</a></li>
+       <li><a href="/wiki/Category:1973_establishments_in_North_America" title="Category:1973 establishments in North America">1973 establishments in North America</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden category: 
+      <ul>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Bahamas" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Bahamas" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/The_Bahamas" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:The_Bahamas" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/The_Bahamas">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=The_Bahamas&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=The_Bahamas&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=The_Bahamas&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Bahamas" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Bahamas" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=The_Bahamas&amp;oldid=7028032" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=The_Bahamas&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Bahamas&amp;id=7028032&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q778" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Bahamas">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=The_Bahamas&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=The_Bahamas&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bahamas" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Bahama" title="Bahama – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Bahamas" title="Bahamas – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Bahamas" title="Bahamas – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%89%A3%E1%88%83%E1%88%9B%E1%88%B5" title="ባሃማስ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Bahama" title="Bahama – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Bahamas" title="Bahamas – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%87%D8%A7%D9%85%D8%A7%D8%B3" title="باهاماس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Bahamas" title="Bahamas – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/Bahamas" title="Bahamas – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Bahamas" title="Bahamas – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Les_Bahames" title="Les Bahames – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Vaamaku%C3%A9ra" title="Vaamakuéra – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Bahamas" title="Bahamas – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Baham_adalar%C4%B1" title="Baham adaları – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A8%D8%A7%D9%87%D8%A7%D9%85%D8%A7" title="باهاما – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Bahama" title="Bahama – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Bahamasi" title="Bahamasi – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%BE_%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%AA%E0%A6%AA%E0%A7%81%E0%A6%9E%E0%A7%8D%E0%A6%9C" title="বাহামা দ্বীপপুঞ্জ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Bahamas" title="Bahamas – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Bahama" title="Bahama – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC_%D0%A3%D1%82%D1%80%D0%B0%D1%83%D2%99%D0%B0%D1%80%D1%8B" title="Багам Утрауҙары – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%81%D0%BA%D1%96%D1%8F_%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%B2%D1%8B" title="Багамскія Астравы – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%8B" title="Багамы – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B8" title="बहामास – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Bahamas" title="Bahamas – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%B0%D1%85%D0%B0%D0%BC%D1%81%D0%BA%D0%B8_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8" title="Бахамски острови – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Bahamas" title="Bahamas – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%96%E0%BC%8B%E0%BD%A7%E0%BC%8B%E0%BD%98%E0%BD%B1%E0%BC%8B%E0%BD%A6%E0%BD%B2%E0%BC%8D" title="བ་ཧ་མཱ་སི། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Bahami" title="Bahami – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Bahamas" title="Bahamas – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%91%D0%B0%D2%BB%D0%B0%D0%BC%D1%8B%D0%BD_%D0%B0%D1%80%D0%B0%D0%BB%D0%BD%D1%83%D1%83%D0%B4" title="Баһамын аралнууд – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Bahames" title="Bahames – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9F%D0%B0%D1%85%D0%B0%D0%BC_%D1%83%D1%82%D1%80%D0%B0%D0%B2%C4%95%D1%81%D0%B5%D0%BC" title="Пахам утравĕсем – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Bahamas" title="Bahamas – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Bahamy" title="Bahamy – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Bahamas" title="Bahamas – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/The_Bahamas" title="The Bahamas – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Y_Bahamas" title="Y Bahamas – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bahamas" title="Bahamas – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%A8%D8%A7%D9%87%D8%A7%D9%85%D8%A7%D8%B3" title="باهاماس – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Bahama" title="Bahama – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bahamas" title="Bahamas – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%84%DE%A6%DE%80%DE%A7%DE%89%DE%A6%DE%90%DE%B0" title="ބަހާމަސް – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Bahamy" title="Bahamy – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%B8" title="बहामस – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-dz"><a href="https://dz.wikipedia.org/wiki/%E0%BD%96%E0%BD%B1%E0%BC%8B%E0%BD%A7%E0%BC%8B%E0%BD%98%E0%BD%A6%E0%BE%84%E0%BC%8D" title="བཱ་ཧ་མས྄། – Dzongkha" lang="dz" hreflang="dz" class="interlanguage-link-target">ཇོང་ཁ</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Bahama" title="Bahama – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%B1%CF%87%CE%AC%CE%BC%CE%B5%CF%82" title="Μπαχάμες – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/The_Bahamas" title="The Bahamas – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%82%D0%BD%D0%B5%D0%BD%D1%8C_%D0%A3%D1%81%D0%B8%D1%8F%D1%82" title="Багамтнень Усият – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bahamas" title="Bahamas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/La_Bahamoj" title="La Bahamoj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Baamas" title="Baamas – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Bahamak" title="Bahamak – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Bahamas" title="Bahamas – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%87%D8%A7%D9%85%D8%A7" title="باهاما – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Bahamas" title="Bahamas – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Bahamaoyggjar" title="Bahamaoyggjar – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bahamas" title="Bahamas – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Bahama%27s" title="Bahama's – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Na_Bah%C3%A1ma%C3%AD" title="Na Bahámaí – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Ny_Bahamaghyn" title="Ny Bahamaghyn – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Bahamalar" title="Bahamalar – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Na_h-Eileanan_Bhathama" title="Na h-Eileanan Bhathama – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Bahamas" title="Bahamas – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C" title="बहामाज – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Bahamas" title="Bahamas – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%83%D0%B4_%D0%90%D1%80%D0%BB%D0%B8%D0%BD_%D0%9D%D0%B8%D0%B8%D1%86%D3%99%D0%BD" title="Багамуд Арлин Ниицән – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B0%94%ED%95%98%EB%A7%88" title="바하마 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Bahamas" title="Bahamas – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%A1%D5%B0%D5%A1%D5%B4%D5%B5%D5%A1%D5%B6_%D4%BF%D5%B2%D5%A6%D5%AB%D5%B6%D5%A5%D6%80" title="Բահամյան Կղզիներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B8" title="बहामास – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Bahamy" title="Bahamy – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Bahami" title="Bahami – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Bahama" title="Bahama – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Bahamas" title="Bahamas – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%BE" title="বাহামা – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Bahama" title="Bahama – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Bahamas" title="Bahamas – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Bahamas" title="Bahamas – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%8B_%D1%81%D0%B0%D0%BA%D1%8A%D0%B0%D0%B4%C3%A6%D1%85%D1%82%C3%A6" title="Багамы сакъадæхтæ – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Bahamaeyjar" title="Bahamaeyjar – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bahamas" title="Bahamas – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%99_%D7%91%D7%94%D7%90%D7%9E%D7%94" title="איי בהאמה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Bahama" title="Bahama – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B2%B9%E0%B2%BE%E0%B2%AE%E0%B2%BE%E0%B2%B8%E0%B3%8D" title="ಬಹಾಮಾಸ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Bahamas" title="Bahamas – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-ka badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%B0%E1%83%90%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%99%E1%83%A3%E1%83%9C%E1%83%AB%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%98" title="ბაჰამის კუნძულები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC_%D0%B0%D1%80%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%D1%8B" title="Багам аралдары – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Ynysow_Bahama" title="Ynysow Bahama – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Bahamasi" title="Bahamasi – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Bahamas" title="Bahamas – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Bahamas" title="Bahamas – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Bahamas" title="Bahamas – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Bahama" title="Bahama – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D0%B0_%D0%B0%D1%80%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%D1%8B" title="Багама аралдары – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D0%B2%D0%BB%D3%93" title="Багамвлӓ – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Insulae_Bahamenses" title="Insulae Bahamenses – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Bahamu_Salas" title="Bahamu Salas – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Bahamas" title="Bahamas – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Bahamos" title="Bahamos – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Bahamas" title="Bahamas – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Bahama%27s" title="Bahama's – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Bahamas" title="Bahamas – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Bahamas" title="Bahamas – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Bagamat" title="Bagamat – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Bahamas" title="Bahamas – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Bahama-szigetek" title="Bahama-szigetek – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%B8" title="द बहामस – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%91%D0%B0%D1%85%D0%B0%D0%BC%D0%B8" title="Бахами – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Bahamasy" title="Bahamasy – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B4%B9%E0%B4%BE%E0%B4%AE%E0%B4%BE%E0%B4%B8%E0%B5%8D" title="ബഹാമാസ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Ba%C4%A7amas" title="Baħamas – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B8" title="बहामास – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%B0%E1%83%90%E1%83%9B%E1%83%98%E1%83%A8_%E1%83%99%E1%83%9D%E1%83%99%E1%83%94%E1%83%A4%E1%83%98" title="ბაჰამიშ კოკეფი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A8%D8%A7%D9%87%D8%A7%D9%85%D8%A7%D8%B3" title="باهاماس – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%A8%D8%A7%D9%87%D8%A7%D9%85%D8%A7" title="باهاما – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Bahamas" title="Bahamas – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Bahamas" title="Bahamas – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Bahamas" title="Bahamas – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%91%D0%B0%D1%85%D0%B0%D0%BC" title="Бахам – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%98%E1%80%9F%E1%80%AC%E1%80%B8%E1%80%99%E1%80%AC%E1%80%B8%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ဘဟားမားနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Bahamat" title="Bahamat – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bahama%27s" title="Bahama's – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%B8" title="बहामस – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B8" title="बहामास – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%8F%E3%83%9E" title="バハマ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D0%B0%D0%BD_%D0%93%D3%80%D0%B0%D0%B9%D1%80%D0%B5%D0%BD%D0%B0%D1%88" title="Багаман ГӀайренаш – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Bahaamas" title="Bahaamas – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Bahaamas" title="Bahaamas – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bahamas" title="Bahamas – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Bahamas" title="Bahamas – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Bahamas" title="Bahamas – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Bahamas" title="Bahamas – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D0%B0" title="Багама – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Bahamaas" title="Bahamaas – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Bagamalar" title="Bagamalar – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A8%B9%E0%A8%BE%E0%A8%AE%E0%A8%BE%E0%A8%B8" title="ਬਹਾਮਾਸ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B8" title="बहामास – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A8%D8%A7%DB%81%D8%A7%D9%85%D8%A7" title="باہاما – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Bahamas" title="Bahamas – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Ba%27aamaz" title="Ba'aamaz – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Bahamas" title="Bahamas – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Bahamas" title="Bahamas – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Bahamy" title="Bahamy – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bahamas" title="Bahamas – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Bagama_atawlar%C4%B1" title="Bagama atawları – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Bahamalar" title="Bahamalar – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Bahamas" title="Bahamas – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Bahamas" title="Bahamas – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Bahamakuna" title="Bahamakuna – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%8B" title="Багамы – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0" title="Багамские Острова – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D0%B0_%D0%A5%D0%BE%D0%BB%D0%B1%D0%BE%D2%BB%D1%83%D0%B3%D0%B0" title="Багама Холбоһуга – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Bahamas" title="Bahamas – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Bahamas" title="Bahamas – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B8" title="बहामास – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Bahamas" title="Bahamas – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/The_Bahamas" title="The Bahamas – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Bahamas" title="Bahamas – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Bahamet" title="Bahamet – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Bahamas" title="Bahamas – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B7%84%E0%B6%B8%E0%B7%8F%E0%B7%83%E0%B7%8A" title="බහමාස් – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A8%D9%87%D8%A7%D9%85%D8%A7%D8%B3" title="بهاماس – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/IBhahamasi" title="IBhahamasi – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Bahamy" title="Bahamy – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Bahami" title="Bahami – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Bahamy" title="Bahamy – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Bahamas" title="Bahamas – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A8%DB%95%DA%BE%D8%A7%D9%85%D8%A7" title="بەھاما – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D0%B0%D1%85%D0%B0%D0%BC%D0%B5" title="Бахаме – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Bahami" title="Bahami – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Bahama" title="Bahama – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Bahama" title="Bahama – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bahamas" title="Bahamas – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Bahamas" title="Bahamas – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%95%E0%AE%BE%E0%AE%AE%E0%AE%BE%E0%AE%9A%E0%AF%81" title="பகாமாசு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Bahamas" title="Bahamas – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D0%B0%D0%BB%D0%B0%D1%80" title="Багамалар – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%80%95%E1%82%83%E1%82%87%E1%82%81%E1%82%83%E1%80%B8%E1%80%99%E1%82%83%E1%80%B8" title="မိူင်းပႃႇႁႃးမႃး – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AC%E0%B0%B9%E0%B0%BE%E0%B0%AE%E0%B0%BE%E0%B0%B8%E0%B1%8D" title="బహామాస్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Bahamas" title="Bahamas – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9A%E0%B8%B2%E0%B8%AE%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%AA" title="ประเทศบาฮามาส – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D2%B6%D0%B0%D0%B7%D0%B8%D1%80%D0%B0%D2%B3%D0%BE%D0%B8_%D0%91%D0%B0%D0%B3%D0%B0%D0%BC" title="Ҷазираҳои Багам – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bahamalar" title="Bahamalar – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Bagama_Adalary" title="Bagama Adalary – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D0%B0_%D1%88%D0%BE%D1%80%D0%BC%D1%83%D3%B5%D1%8A%D1%91%D1%81" title="Багама шормуӵъёс – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BC%D1%81%D1%8C%D0%BA%D1%96_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8" title="Багамські Острови – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%DB%81%D8%A7%D9%85%D8%A7%D8%B3" title="بہاماس – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%A8%D8%A7%DA%BE%D8%A7%D9%85%D8%A7" title="باھاما – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Bahamas" title="Bahamas – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Bahamas" title="Bahamas – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Bagaman_Sared" title="Bagaman Sared – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Bahamas" title="Bahamas – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Bahamu%C3%A4ns" title="Bahamuäns – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Bahama" title="Bahama – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%B7%B4%E5%93%88%E9%A6%AC" title="巴哈馬 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Bahamas" title="Bahamas – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Bahamas" title="Bahamas – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%B7%B4%E5%93%88%E9%A6%AC" title="巴哈馬 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%91%D7%90%D7%94%D7%90%D7%9E%D7%90%D7%A1" title="באהאמאס – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%C3%80w%E1%BB%8Dn_B%C3%A0h%C3%A1m%C3%A0" title="Àwọn Bàhámà – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%B7%B4%E5%93%88%E9%A6%AC" title="巴哈馬 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Bahama" title="Bahama – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Bahama%27s" title="Bahama's – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Bahamas" title="Bahamas – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%93%88%E9%A9%AC" title="巴哈马 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q778#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 11 July 2020, at 00:52.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=The_Bahamas&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.548","walltime":"0.686","ppvisitednodes":{"value":4222,"limit":1000000},"postexpandincludesize":{"value":109805,"limit":2097152},"templateargumentsize":{"value":8026,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":32880,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  579.485      1 -total"," 52.84%  306.172      1 Template:Infobox_country"," 48.34%  280.132      3 Template:Infobox"," 26.16%  151.595      1 Template:Reflist"," 20.56%  119.125      6 Template:Cite_web","  9.80%   56.800      1 Template:Infobox_country/imagetable","  8.95%   51.884      5 Template:Navbox","  8.85%   51.274      3 Template:ISO_3166_code","  7.44%   43.133     20 Template:If_empty","  6.66%   38.591      2 Template:Convinfobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.242","limit":"10.000"},"limitreport-memusage":{"value":6295977,"limit":52428800}},"cachereport":{"origin":"mw1307","timestamp":"20201216001540","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Bahamas","url":"https:\/\/simple.wikipedia.org\/wiki\/The_Bahamas","sameAs":"http:\/\/www.wikidata.org\/entity\/Q778","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q778","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-01T13:00:56Z","dateModified":"2020-07-11T00:52:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/93\/Flag_of_the_Bahamas.svg","headline":"island sovereign state in the West Indies"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":218,"wgHostname":"mw1354"});});</script> 
+ </body>
+</html>

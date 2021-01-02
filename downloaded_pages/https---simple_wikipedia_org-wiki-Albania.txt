@@ -1,0 +1,1318 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Albania - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHQpAEJsAANOo@eYAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Albania","wgTitle":"Albania","wgCurRevisionId":7109459,"wgRevisionId":7109459,"wgArticleId":3461,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Articles containing Albanian-language text","Articles with Albanian-language sources (sq)","Pages using infobox country or infobox former country with the symbol caption or type parameters","Articles with hAudio microformats","Pages including recorded pronunciations (English)",
+"Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Members of NATO","Albania","European Union candidate states","Members of the Organisation of Islamic Cooperation"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Albania","wgRelevantArticleId":3461,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q222"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1200px-Flag_of_Albania.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Albania"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Albania&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Albania&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Albania"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Albania rootpage-Albania skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Albania</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic of Albania
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i lang="sq" title="Albanian language text">Republika e Shqipërisë</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Albanian_language" title="Albanian language">Albanian</a>)</span>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Albania.svg" class="image" title="Flag of Albania"><img alt="Flag of Albania" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/125px-Flag_of_Albania.svg.png" decoding="async" width="125" height="89" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/188px-Flag_of_Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/250px-Flag_of_Albania.svg.png 2x" data-file-width="980" data-file-height="700"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Albania" title="Flag of Albania">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Albania.svg" class="image" title="Coat of arms of Albania"><img alt="Coat of arms of Albania" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/85px-Coat_of_arms_of_Albania.svg.png" decoding="async" width="85" height="128" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/128px-Coat_of_arms_of_Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/170px-Coat_of_arms_of_Albania.svg.png 2x" data-file-width="669" data-file-height="1008"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Coat_of_arms_of_Albania" title="Coat of arms of Albania"> Coat of arms</a>
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b>
+           <br><i>"Ti, Shqipëri, më jep nder, më jep emrin Shqiptar"</i>
+           <br><small><span class="languageicon">(in Albanian)</span><br>"You, Albania, give me honor, give me the name Albanian"</small>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><i lang="sq" title="Albanian language text"><a href="/wiki/Himni_i_Flamurit" title="Himni i Flamurit">Himni i Flamurit</a></i><span class="nowrap">&nbsp;&nbsp;</span>
+           <br><small><span class="languageicon">(in Albanian)</span><br>"Hymn to the Flag"</small>
+           <br>
+           <div class="mediaContainer" style="width:220px">
+            <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="65.93306122449" data-startoffset="0" data-mwtitle="Hymni_i_Flamurit_instrumental.ogg" data-mwprovider="wikimediacommons">
+             <source src="//upload.wikimedia.org/wikipedia/commons/5/52/Hymni_i_Flamurit_instrumental.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (141 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="140747">
+             <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/52/Hymni_i_Flamurit_instrumental.ogg/Hymni_i_Flamurit_instrumental.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="198936">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=de&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="de" label="Deutsch (de) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=el&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="el" label="Ελληνικά (el) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=es&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="es" label="español (es) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=fr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="fr" label="français (fr) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=hr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="hr" label="hrvatski (hr) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=it&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="it" label="italiano (it) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=ja&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ja" label="日本語 (ja) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=ko&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ko" label="한국어 (ko) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=la&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="la" label="Latina (la) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=mk&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="mk" label="македонски (mk) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=pl&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="pl" label="polski (pl) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=pt&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="pt" label="português (pt) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=ro&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ro" label="română (ro) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=ru&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ru" label="русский (ru) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=sq&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="sq" label="shqip (sq) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=sr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="sr" label="српски / srpski (sr) subtitles" data-dir="ltr">
+             <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymni_i_Flamurit_instrumental.ogg&amp;lang=zh-hant&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="zh-Hant" label="中文（繁體）‎ (zh-hant) subtitles" data-dir="ltr">
+            </audio>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Europe-Albania.svg" class="image" title="Location of &nbsp;Albania&nbsp;&nbsp;(green) on the European continent&nbsp;&nbsp;(dark grey)&nbsp; —&nbsp; [Legend]"><img alt="Location of &nbsp;Albania&nbsp;&nbsp;(green) on the European continent&nbsp;&nbsp;(dark grey)&nbsp; —&nbsp; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Europe-Albania.svg/250px-Europe-Albania.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Europe-Albania.svg/375px-Europe-Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Europe-Albania.svg/500px-Europe-Albania.svg.png 2x" data-file-width="2045" data-file-height="1720"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Albania</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green</span>)</span>
+            <p style="width:250px;font-size:11px;text-align:center;margin-top:0px;margin-bottom:0px;line-height:1.15em;">on the <a href="/wiki/Europe" title="Europe">European continent</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark grey</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:Location_Albania_Europe.png" title="File:Location Albania Europe.png">Legend</a></span>]</p>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Tirana" title="Tirana">Tirana</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Albania&amp;params=41_19_N_19_49_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">41°19′N</span> <span class="longitude">19°49′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">41.317°N 19.817°E</span><span style="display:none">﻿ / <span class="geo">41.317; 19.817</span></span></span></a></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/Albanian_language" title="Albanian language">Albanian</a><sup>1</sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>95% Albanians, 3-6% <a href="/wiki/Greeks_in_Albania" title="Greeks in Albania">Greeks</a>,<br> 2% others</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>Albanian</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Parliamentary_republic" title="Parliamentary republic">Parliamentary republic</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/List_of_heads_of_state_of_Albania" title="List of heads of state of Albania">President</a> 
+          </div></th>
+         <td><a href="/wiki/Ilir_Meta" title="Ilir Meta">Ilir Meta</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/List_of_Prime_Ministers_of_Albania" title="List of Prime Ministers of Albania">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Edi_Rama" title="Edi Rama">Edi Rama</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Chairperson_of_the_Parliament_of_Albania" title="Chairperson of the Parliament of Albania">Chairperson of the Parliament</a> 
+          </div></th>
+         <td><a href="/wiki/Gramoz_Ru%C3%A7i" title="Gramoz Ruçi">Gramoz Ruçi</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/History_of_the_Albanian_state" class="mw-redirect" title="History of the Albanian state">Formation</a></th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Principality_of_Arb%C3%ABr" title="Principality of Arbër">Principality of Arbër</a> 
+          </div></th>
+         <td>1190</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/League_of_Lezh%C3%AB" title="League of Lezhë">League of Lezhë</a> 
+          </div></th>
+         <td>2 March 1444</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Independence from the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a> 
+          </div></th>
+         <td>28 November 1912</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Treaty_of_London_(1913)" title="Treaty of London (1913)">Recognized by the Great Powers</a> 
+          </div></th>
+         <td>2 December 1912</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Constitution_of_Albania" title="Constitution of Albania">Current Constitution</a> 
+          </div></th>
+         <td>28 November 1998</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>28,748&nbsp;km<sup>2</sup> (11,100&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">143rd</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>4.7</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2011 estimate
+          </div></th>
+         <td>2,994,667 (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">136th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2001&nbsp;census
+          </div></th>
+         <td>3,069,275</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>111.1/km<sup>2</sup> (287.7/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">63rd</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$25.035&nbsp;billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$7,780<sup id="cite_ref-imf2_2-1" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$13.292&nbsp;billion<sup id="cite_ref-imf2_2-2" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$4,131<sup id="cite_ref-imf2_2-3" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2005)</span></th>
+         <td>26.7<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">low</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2011)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.739<sup id="cite_ref-HDI_4-0" class="reference"><a href="#cite_note-HDI-4">[4]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">70th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/Albanian_lek" title="Albanian lek">Lek</a> (<a href="/wiki/ISO_4217" title="ISO 4217">ALL</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Telephone_numbers_in_Albania" title="Telephone numbers in Albania">Calling code</a></th>
+         <td><a href="/wiki/Telephone_numbers_in_Albania" title="Telephone numbers in Albania">355</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:AL&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:AL (not yet started)">AL</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.al" class="mw-redirect" title=".al">.al</a></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="margin-left:1em;"> 
+            <li value="1"><a href="/wiki/Greek_language" title="Greek language">Greek</a>, <a href="/wiki/Macedonian_language" title="Macedonian language">Macedonian</a> and other regional languages, are government-recognized minority languages.</li> 
+           </ol>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Albania</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/æ/: 'a' in 'bad'">æ</span><span title="'l' in 'lie'">l</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'b' in 'buy'">b</span><span title="/eɪ/: 'a' in 'face'">eɪ</span><span title="'n' in 'nigh'">n</span><span title="/i/: 'y' in 'happy'">i</span><span title="/ə/: 'a' in 'about'">ə</span></span>/</a></span> <span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:En-us-Albania.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20"></a></span><a href="//upload.wikimedia.org/wikipedia/commons/b/b3/En-us-Albania.ogg" class="internal" title="En-us-Albania.ogg">listen</a></span></span>)</span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling">al-<span style="font-size:90%">BAY</span>-nee-ə</i></a>; <a href="/wiki/Albanian_language" title="Albanian language">Albanian</a>: <i lang="sq">Shqipëri</i>), officially called the <b>Republic of Albania</b> is an independent <a href="/wiki/Republic" title="Republic">republic</a> in <a href="/wiki/Southeastern_Europe" class="mw-redirect" title="Southeastern Europe">Southeastern Europe</a>, with an area of 28,748 square kilometres (11,100&nbsp;sq&nbsp;mi). The <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> is <a href="/wiki/Tirana" title="Tirana">Tirana</a>, and other important cities are <a href="/wiki/Durr%C3%ABs" title="Durrës">Durrës</a>, <a href="/wiki/Elbasan" title="Elbasan">Elbasan</a> and <a href="/wiki/Vlora" class="mw-redirect" title="Vlora">Vlora</a>. Over 3 million people live in Albania. The majority of Albanians are <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslims</a> with 55%, 23% <a href="/wiki/Eastern_Orthodox" class="mw-redirect" title="Eastern Orthodox">Eastern Orthodox</a> and 15% <a href="/wiki/Roman_Catholic" class="mw-redirect" title="Roman Catholic">Roman Catholics</a>. </p>
+      <p>Albania is next to <a href="/wiki/Serbia" title="Serbia">Serbia</a>, <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>, <a href="/wiki/Greece" title="Greece">Greece</a> and <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">North Macedonia</a> and <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>. It has a <a href="/wiki/Coast" title="Coast">coast</a> on the <a href="/wiki/Adriatic_Sea" title="Adriatic Sea">Adriatic Sea</a> in the west, and a coast on the <a href="/wiki/Ionian_Sea" title="Ionian Sea">Ionian Sea</a> in the southwest. The <a href="/wiki/Official_language" title="Official language">official language</a> is <a href="/wiki/Albanian_language" title="Albanian language">Albanian</a>. The <a href="/wiki/National_anthem" title="National anthem">national anthem</a> is <i><a href="/wiki/Hymni_i_Flamurit" class="mw-redirect" title="Hymni i Flamurit">Hymni i Flamurit</a></i>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Divisions"><span class="tocnumber">2</span> <span class="toctext">Divisions</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Cities"><span class="tocnumber">3</span> <span class="toctext">Cities</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Armed_forces"><span class="tocnumber">4</span> <span class="toctext">Armed forces</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Geography"><span class="tocnumber">5</span> <span class="toctext">Geography</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Flora_and_fauna"><span class="tocnumber">6</span> <span class="toctext">Flora and fauna</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Related_pages"><span class="tocnumber">7</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Other_websites"><span class="tocnumber">9</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albania&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Albania&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Albania was the southern part of <i>Illyria</i> during the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a>. In the Middle Ages the Albanians were ruled by many foreign countries, including the <a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine</a> and <a href="/wiki/Venice" title="Venice">Venetian</a> Empires and during the 16th century resistance to the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a>'s rule was led by the Albanian national hero <i>Skanderberg</i> but his real name was Gjergj Kastrioti. After four centuries of Turkish domination, finally in the 20th century an independent Albania was created. In 1939 Albania was conquered by fascist <a href="/wiki/Italy" title="Italy">Italy</a> and was part of the Kingdom of Italy until 1943. After <a href="/wiki/World_War_II" title="World War II">World War II</a> Albania became independent again, under <a href="/wiki/Communism" title="Communism">communist</a> rule. It was ruled by <a href="/wiki/Enver_Hoxha" title="Enver Hoxha">Enver Hoxha</a>, who died in <a href="/wiki/1985" title="1985">1985</a>. <a href="/wiki/Ramiz_Alia" title="Ramiz Alia">Ramiz Alia</a> took over and also later became President when, in 1992, Albania returned to democracy, and it now has friendly relations with the <a href="/wiki/European_Union" title="European Union">European Union</a>, which it has applied to join. </p> 
+      <h2><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albania&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Divisions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Albania&amp;action=edit&amp;section=2" title="Change section: Divisions">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Albania is divided into 12 counties. These counties include 36 <a href="/wiki/Districts_of_Albania" title="Districts of Albania">districts</a> and 373 <a href="/wiki/Municipalities_of_Albania" class="mw-redirect" title="Municipalities of Albania">municipalities</a> </p> 
+      <div class="floatleft">
+       <a href="/wiki/File:AlbaniaNumberedPrefectures.svg" class="image" title="Counties of Albania"><img alt="Counties of Albania" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AlbaniaNumberedPrefectures.svg/250px-AlbaniaNumberedPrefectures.svg.png" decoding="async" width="250" height="350" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AlbaniaNumberedPrefectures.svg/375px-AlbaniaNumberedPrefectures.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AlbaniaNumberedPrefectures.svg/500px-AlbaniaNumberedPrefectures.svg.png 2x" data-file-width="500" data-file-height="700"></a>
+      </div> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th></th> 
+         <th><a href="/wiki/Counties_of_Albania" class="mw-redirect" title="Counties of Albania">County</a> </th> 
+         <th>Capital </th> 
+         <th><a href="/wiki/Districts_of_Albania" title="Districts of Albania">Districts</a> </th> 
+         <th><a href="/wiki/Municipalities_of_Albania" class="mw-redirect" title="Municipalities of Albania">Municipalities</a> </th> 
+         <th><a href="/wiki/List_of_cities_in_Albania" class="mw-redirect" title="List of cities in Albania">Cities</a> </th> 
+         <th>Villages </th>
+        </tr> 
+        <tr> 
+         <td>1</td> 
+         <td><a href="/wiki/Berat_County" title="Berat County">Berat</a> </td> 
+         <td><a href="/wiki/Berat" title="Berat">Berat</a> </td> 
+         <td><a href="/wiki/Berat_District" title="Berat District">Berat</a><br><a href="/wiki/Ku%C3%A7ov%C3%AB_District" title="Kuçovë District">Kuçovë</a><br><a href="/wiki/Skrapar_District" title="Skrapar District">Skrapar</a> </td> 
+         <td>10<br>2<br>8 </td> 
+         <td>2<br>1<br>2 </td> 
+         <td>122<br>18<br>105 </td>
+        </tr> 
+        <tr> 
+         <td>2</td> 
+         <td><a href="/wiki/Dib%C3%ABr_County" title="Dibër County">Dibër</a> </td> 
+         <td><a href="/wiki/Peshkopi" title="Peshkopi">Peshkopi</a> </td> 
+         <td><a href="/wiki/Bulqiz%C3%AB_District" title="Bulqizë District">Bulqizë</a><br><a href="/wiki/Dib%C3%ABr_District" title="Dibër District">Dibër</a><br><a href="/wiki/Mat_District" title="Mat District">Mat</a> </td> 
+         <td>7<br>14<br>10 </td> 
+         <td>1<br>1<br>2 </td> 
+         <td>63<br>141<br>76 </td>
+        </tr> 
+        <tr> 
+         <td>3</td> 
+         <td><a href="/wiki/Durr%C3%ABs_County" title="Durrës County">Durrës</a> </td> 
+         <td><a href="/wiki/Durr%C3%ABs" title="Durrës">Durrës</a> </td> 
+         <td><a href="/wiki/Durr%C3%ABs_District" title="Durrës District">Durrës</a><br><a href="/wiki/Kruj%C3%AB_District" title="Krujë District">Krujë</a> </td> 
+         <td>6<br>4 </td> 
+         <td>4<br>2 </td> 
+         <td>62<br>44 </td>
+        </tr> 
+        <tr> 
+         <td>4</td> 
+         <td><a href="/wiki/Elbasan_County" title="Elbasan County">Elbasan</a> </td> 
+         <td><a href="/wiki/Elbasan" title="Elbasan">Elbasan</a> </td> 
+         <td><a href="/wiki/Elbasan_District" title="Elbasan District">Elbasan</a><br><a href="/wiki/Gramsh_District" title="Gramsh District">Gramsh</a><br><a href="/wiki/Librazhd_District" title="Librazhd District">Librazhd</a><br><a href="/wiki/Peqin_District" title="Peqin District">Peqin</a> </td> 
+         <td>20<br>9<br>9<br>5 </td> 
+         <td>3<br>1<br>2<br>1 </td> 
+         <td>177<br>95<br>75<br>49 </td>
+        </tr> 
+        <tr> 
+         <td>5</td> 
+         <td><a href="/wiki/Fier_County" title="Fier County">Fier</a> </td> 
+         <td><a href="/wiki/Fier" title="Fier">Fier</a> </td> 
+         <td><a href="/wiki/Fier_District" title="Fier District">Fier</a><br><a href="/wiki/Lushnj%C3%AB_District" title="Lushnjë District">Lushnjë</a><br><a href="/wiki/Mallakast%C3%ABr_District" title="Mallakastër District">Mallakastër</a> </td> 
+         <td>14<br>14<br>8 </td> 
+         <td>3<br>2<br>1 </td> 
+         <td>117<br>121<br>40 </td>
+        </tr> 
+        <tr> 
+         <td>6</td> 
+         <td><a href="/wiki/Gjirokast%C3%ABr_County" title="Gjirokastër County">Gjirokastër</a> </td> 
+         <td><a href="/wiki/Gjirokast%C3%ABr" title="Gjirokastër">Gjirokastër</a> </td> 
+         <td><a href="/wiki/Gjirokast%C3%ABr_District" title="Gjirokastër District">Gjirokastër</a><br><a href="/wiki/P%C3%ABrmet_District" title="Përmet District">Përmet</a><br><a href="/wiki/Tepelen%C3%AB_District" title="Tepelenë District">Tepelenë</a> </td> 
+         <td>11<br>7<br>8 </td> 
+         <td>2<br>2<br>2 </td> 
+         <td>96<br>98<br>77 </td>
+        </tr> 
+        <tr> 
+         <td>7</td> 
+         <td><a href="/wiki/Kor%C3%A7%C3%AB_County" title="Korçë County">Korçë</a> </td> 
+         <td><a href="/wiki/Kor%C3%A7%C3%AB" title="Korçë">Korçë</a> </td> 
+         <td><a href="/wiki/Devoll_District" title="Devoll District">Devoll</a><br><a href="/wiki/Kolonj%C3%AB_District" title="Kolonjë District">Kolonjë</a><br><a href="/wiki/Kor%C3%A7%C3%AB_District" title="Korçë District">Korçë</a><br><a href="/wiki/Pogradec_District" title="Pogradec District">Pogradec</a> </td> 
+         <td>4<br>6<br>14<br>7 </td> 
+         <td>1<br>2<br>2<br>1 </td> 
+         <td>44<br>76<br>153<br>72 </td>
+        </tr> 
+        <tr> 
+         <td>8</td> 
+         <td><a href="/wiki/Kuk%C3%ABs_County" title="Kukës County">Kukës</a> </td> 
+         <td><a href="/wiki/Kuk%C3%ABs" title="Kukës">Kukës</a> </td> 
+         <td><a href="/wiki/Has_District" title="Has District">Has</a><br><a href="/wiki/Kuk%C3%ABs_District" title="Kukës District">Kukës</a><br><a href="/wiki/Tropoj%C3%AB_District" title="Tropojë District">Tropojë</a> </td> 
+         <td>3<br>14<br>7 </td> 
+         <td>1<br>1<br>1 </td> 
+         <td>30<br>89<br>68 </td>
+        </tr> 
+        <tr> 
+         <td>9</td> 
+         <td><a href="/wiki/Lezh%C3%AB_County" title="Lezhë County">Lezhë</a> </td> 
+         <td><a href="/wiki/Lezh%C3%AB" title="Lezhë">Lezhë</a> </td> 
+         <td><a href="/wiki/Kurbin_District" title="Kurbin District">Kurbin</a><br><a href="/wiki/Lezh%C3%AB_District" title="Lezhë District">Lezhë</a><br><a href="/wiki/Mirdit%C3%AB_District" title="Mirditë District">Mirditë</a> </td> 
+         <td>2<br>9<br>5 </td> 
+         <td>2<br>1<br>2 </td> 
+         <td>26<br>62<br>80 </td>
+        </tr> 
+        <tr> 
+         <td>10</td> 
+         <td><a href="/wiki/Shkod%C3%ABr_County" title="Shkodër County">Shkodër</a> </td> 
+         <td><a href="/wiki/Shkod%C3%ABr" title="Shkodër">Shkodër</a> </td> 
+         <td><a href="/wiki/Mal%C3%ABsi_e_Madhe_District" title="Malësi e Madhe District">Malësi e Madhe</a><br><a href="/wiki/Puk%C3%AB_District" title="Pukë District">Pukë</a><br><a href="/wiki/Shkod%C3%ABr_District" title="Shkodër District">Shkodër</a> </td> 
+         <td>5<br>8<br>15 </td> 
+         <td>1<br>2<br>2 </td> 
+         <td>56<br>75<br>141 </td>
+        </tr> 
+        <tr> 
+         <td>11</td> 
+         <td><a href="/wiki/Tirana_County" title="Tirana County">Tirana</a> </td> 
+         <td><a href="/wiki/Tirana" title="Tirana">Tirana</a> </td> 
+         <td><a href="/wiki/Kavaj%C3%AB_District" title="Kavajë District">Kavajë</a><br><a href="/wiki/Tirana_District" title="Tirana District">Tirana</a> </td> 
+         <td>8<br>16 </td> 
+         <td>2<br>3 </td> 
+         <td>66<br>167 </td>
+        </tr> 
+        <tr> 
+         <td>12</td> 
+         <td><a href="/wiki/Vlor%C3%AB_County" title="Vlorë County">Vlorë</a> </td> 
+         <td><a href="/wiki/Vlor%C3%AB" title="Vlorë">Vlorë</a> </td> 
+         <td><a href="/wiki/Delvin%C3%AB_District" title="Delvinë District">Delvinë</a><br><a href="/wiki/Sarand%C3%AB_District" title="Sarandë District">Sarandë</a><br><a href="/wiki/Vlor%C3%AB_District" title="Vlorë District">Vlorë</a> </td> 
+         <td>3<br>7<br>9 </td> 
+         <td>1<br>2<br>4 </td> 
+         <td>38<br>62<br>99 </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Cities">Cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albania&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Cities">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Albania&amp;action=edit&amp;section=3" title="Change section: Cities">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>This is a list of the largest <a href="/wiki/City" title="City">cities</a> in Albania. </p> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Durres_view.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Durres_view.jpg/250px-Durres_view.jpg" decoding="async" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Durres_view.jpg/375px-Durres_view.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Durres_view.jpg/500px-Durres_view.jpg 2x" data-file-width="1024" data-file-height="768"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Durres_view.jpg" class="internal" title="Enlarge"></a>
+         </div><a href="/wiki/Durr%C3%ABs" title="Durrës">Durrës</a>
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:07Tirana04.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/07Tirana04.jpg/250px-07Tirana04.jpg" decoding="async" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/07Tirana04.jpg/375px-07Tirana04.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/07Tirana04.jpg/500px-07Tirana04.jpg 2x" data-file-width="3264" data-file-height="2448"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:07Tirana04.jpg" class="internal" title="Enlarge"></a>
+         </div><a href="/wiki/Tirana" title="Tirana">Tirana</a>
+        </div>
+       </div>
+      </div> 
+      <table class="wikitable sortable" style="align left"> 
+       <tbody>
+        <tr> 
+         <th align="right"><b>Rank</b> </th> 
+         <th align="left"><b>City</b> </th> 
+         <th align="right"><b>2001 Census</b><sup id="cite_ref-world_5-0" class="reference"><a href="#cite_note-world-5">[5]</a></sup> </th> 
+         <th align="right"><b>2011 census</b><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </th>
+        </tr> 
+        <tr> 
+         <td align="right">1 </td> 
+         <td><b><a href="/wiki/Tirana" title="Tirana">Tirana</a></b> </td> 
+         <td align="right">352,581 </td> 
+         <td align="right">421,286 </td>
+        </tr> 
+        <tr> 
+         <td align="right">2 </td> 
+         <td><b><a href="/wiki/Durr%C3%ABs" title="Durrës">Durrës</a></b> </td> 
+         <td align="right">113,465 </td> 
+         <td align="right">115,550 </td>
+        </tr> 
+        <tr> 
+         <td align="right">3 </td> 
+         <td><b><a href="/wiki/Vlor%C3%AB" title="Vlorë">Vlorë</a></b> </td> 
+         <td align="right">85,180 </td> 
+         <td align="right">79,948 </td>
+        </tr> 
+        <tr> 
+         <td align="right">4 </td> 
+         <td><b><a href="/wiki/Elbasan" title="Elbasan">Elbasan</a></b> </td> 
+         <td align="right">95,554 </td> 
+         <td align="right">79,810 </td>
+        </tr> 
+        <tr> 
+         <td align="right">5 </td> 
+         <td><b><a href="/wiki/Shkod%C3%ABr" title="Shkodër">Shkodër</a></b> </td> 
+         <td align="right">85,798 </td> 
+         <td align="right">74,876 </td>
+        </tr> 
+        <tr> 
+         <td align="right">6 </td> 
+         <td><b><a href="/wiki/Fier" title="Fier">Fier</a></b> </td> 
+         <td align="right">56,297 </td> 
+         <td align="right">57,198 </td>
+        </tr> 
+        <tr> 
+         <td align="right">7 </td> 
+         <td><b><a href="/wiki/Kor%C3%A7%C3%AB" title="Korçë">Korçë</a></b> </td> 
+         <td align="right">58,911 </td> 
+         <td align="right">51,683 </td>
+        </tr> 
+        <tr> 
+         <td align="right">8 </td> 
+         <td><b><a href="/wiki/Berat" title="Berat">Berat</a></b> </td> 
+         <td align="right">45,572 </td> 
+         <td align="right">36,467 </td>
+        </tr> 
+        <tr> 
+         <td align="right">9 </td> 
+         <td><b><a href="/w/index.php?title=Lushnj%C3%AB&amp;action=edit&amp;redlink=1" class="new" title="Lushnjë (not yet started)">Lushnjë</a></b> </td> 
+         <td align="right">38,336 </td> 
+         <td align="right">31,424 </td>
+        </tr> 
+        <tr> 
+         <td align="right">10 </td> 
+         <td><b><a href="/w/index.php?title=Kavaj%C3%AB&amp;action=edit&amp;redlink=1" class="new" title="Kavajë (not yet started)">Kavajë</a></b> </td> 
+         <td align="right">28,149 </td> 
+         <td align="right">20,312 </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Armed_forces">Armed forces</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albania&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Armed forces">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Albania&amp;action=edit&amp;section=4" title="Change section: Armed forces">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The <a href="/wiki/Military_of_Albania" class="mw-redirect" title="Military of Albania">Albanian Armed Forces</a> were first formed after independence in 1912. Albania reduced the number of active troops from 65,000 in 1988<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> to 14,500 in 2009.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The military now is mostly a small fleet of aircraft and sea vessels. </p> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albania&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Albania&amp;action=edit&amp;section=5" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Albania has a total area of 28,748 square kilometers. Albania's coastline length is 476&nbsp;km (296&nbsp;mi).<sup id="cite_ref-Albania_pdf_9-0" class="reference"><a href="#cite_note-Albania_pdf-9">[9]</a></sup><sup class="reference" style="white-space:nowrap;">:240</sup> It goes along the <a href="/wiki/Adriatic_Sea" title="Adriatic Sea">Adriatic</a> and <a href="/wiki/Ionian_Sea" title="Ionian Sea">Ionian Seas</a>. On the coast there are mild, wet winters and warm, sunny, and rather dry summers. </p>
+      <p>70% of the country is mountains. The highest mountain is <a href="/wiki/Mount_Korab" title="Mount Korab">Korab</a>. </p>
+      <p>Albania is bordered by <a href="/wiki/Greece" title="Greece">Greece</a>, the <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Republic of North Macedonia</a>, <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> and <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>. A short stretch of <a href="/wiki/Sea" title="Sea">sea</a> separates Albania from the far southeast of <a href="/wiki/Italy" title="Italy">Italy</a>. </p> 
+      <h2><span class="mw-headline" id="Flora_and_fauna">Flora and fauna</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albania&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Flora and fauna">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Albania&amp;action=edit&amp;section=6" title="Change section: Flora and fauna">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Lynx_lynx_poing.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lynx_lynx_poing.jpg/220px-Lynx_lynx_poing.jpg" decoding="async" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lynx_lynx_poing.jpg/330px-Lynx_lynx_poing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lynx_lynx_poing.jpg/440px-Lynx_lynx_poing.jpg 2x" data-file-width="533" data-file-height="800"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Lynx_lynx_poing.jpg" class="internal" title="Enlarge"></a>
+         </div>The <a href="/wiki/Lynx" title="Lynx">Lynx</a> still survives in Albania.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+        </div>
+       </div>
+      </div> 
+      <p>Although a small country, Albania has a lot of variety in plants and animals. The total number of plants is over 3250 species. There are over 350 bird species, 330 freshwater and marine fish and 80 mammal species. The <a href="/wiki/Golden_Eagle" class="mw-redirect" title="Golden Eagle">Golden Eagle</a> is the national symbol of Albania. </p> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albania&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Albania&amp;action=edit&amp;section=7" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Albania_at_the_Olympics" title="Albania at the Olympics">Albania at the Olympics</a></li> 
+       <li><a href="/wiki/Albania_national_football_team" title="Albania national football team">Albania national football team</a></li> 
+       <li><a href="/wiki/List_of_rivers_of_Albania" title="List of rivers of Albania">List of rivers of Albania</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albania&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Albania&amp;action=edit&amp;section=8" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://president.al/?p=87&amp;lang=en">"Bujar Nishani – President of the Republic of Albania"</a>. Institution of the President of the Republic of Albania<span class="reference-accessdate">. Retrieved <span class="nowrap">30 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bujar+Nishani+%E2%80%93+President+of+the+Republic+of+Albania&amp;rft.pub=Institution+of+the+President+of+the+Republic+of+Albania&amp;rft_id=http%3A%2F%2Fpresident.al%2F%3Fp%3D87%26lang%3Den&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlbania" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-imf2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_2-0">2.0</a></sup> <sup><a href="#cite_ref-imf2_2-1">2.1</a></sup> <sup><a href="#cite_ref-imf2_2-2">2.2</a></sup> <sup><a href="#cite_ref-imf2_2-3">2.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?pr.x=28&amp;pr.y=3&amp;sy=2011&amp;ey=2016&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=914&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Albania"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved 1 November2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Albania&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2011%2F02%2Fweodata%2Fweorept.aspx%3Fpr.x%3D28%26pr.y%3D3%26sy%3D2011%26ey%3D2016%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D914%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlbania" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Check date values in: <code class="cs1-code">|accessdate=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">"Distribution of family income – Gini index"</a>. <i>The World Factbook</i>. CIA. <a rel="nofollow" class="external text" href="https://www.webcitation.org/5rRcwIiYs?url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">Archived</a> from the original on 23 July 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Distribution+of+family+income+%E2%80%93+Gini+index&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2172.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlbania" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-4"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_4-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf">"Human Development Report 2010"</a> <span class="cs1-format">(PDF)</span>. United Nations. 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2010&amp;rft.pub=United+Nations&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fmedia%2FHDR_2010_EN_Table1.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlbania" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-world-5"><span class="mw-cite-backlink"><a href="#cite_ref-world_5-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://archive.is/20121205081249/http://www.world-gazetteer.com/wg.php?x=&amp;men=gcis&amp;lng=en&amp;des=wg&amp;geo=-16&amp;srt=1pnn&amp;col=abcdefghinoq&amp;msz=1500&amp;pt=c&amp;va=&amp;srt=p1nn">Albania: largest cities and towns and statistics of their population</a> <a href="/w/index.php?title=World_Gazetteer&amp;action=edit&amp;redlink=1" class="new" title="World Gazetteer (not yet started)">World Gazetteer</a>.2009-12-01</span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://census.al/Resources/Data/Census2011/Instat_print+.pdf">"census.al"</a> <span class="cs1-format">(PDF)</span>. <i>census.al</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=census.al&amp;rft.atitle=census.al&amp;rft_id=http%3A%2F%2Fcensus.al%2FResources%2FData%2FCensus2011%2FInstat_print%2B.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlbania" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/europe/1935630.stm">"Albania sells off its military hardware"</a>. <i>BBC News</i>. 17 April 2002.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Albania+sells+off+its+military+hardware&amp;rft.date=2002-04-17&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Feurope%2F1935630.stm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlbania" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/features/2008/08/21/feature-03">"Albania to abolish conscription by 2010"</a>. SETimes.com. 21 August 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Albania+to+abolish+conscription+by+2010&amp;rft.pub=SETimes.com&amp;rft.date=2008-08-21&amp;rft_id=http%3A%2F%2Fwww.setimes.com%2Fcocoon%2Fsetimes%2Fxhtml%2Fen_GB%2Ffeatures%2Fsetimes%2Ffeatures%2F2008%2F08%2F21%2Ffeature-03&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlbania" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Albania_pdf-9"><span class="mw-cite-backlink"><a href="#cite_ref-Albania_pdf_9-0">↑</a></span> <span class="reference-text"><cite id="CITEREFR._Eftimi" class="citation web cs1">R. Eftimi. <a rel="nofollow" class="external text" href="http://aguas.igme.es/igme/publica/tiac-02/ALBANIA-I.pdf">"SOME CONSIDERATIONS ON SEAWATER-FRESHWATER RELATIONSHIP IN ALBANIAN COASTAL AREA"</a> <span class="cs1-format">(PDF)</span>. ITA Consult.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SOME+CONSIDERATIONS+ON+SEAWATER-FRESHWATER+RELATIONSHIP+IN+ALBANIAN+COASTAL+AREA&amp;rft.pub=ITA+Consult&amp;rft.au=R.+Eftimi&amp;rft_id=http%3A%2F%2Faguas.igme.es%2Figme%2Fpublica%2Ftiac-02%2FALBANIA-I.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlbania" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.catsg.org/balkanlynx/01_recovery-programme/1_7_conferences/tirana-sept-08/Tirana_Proceedings_Trajce_et_al_2008_Conservation_of_the_critically_endangered_Balkan_lynx.pdf">"Conservation of the Critically Endangered Balkan Lynx"</a> <span class="cs1-format">(PDF)</span>. Catsg.org<span class="reference-accessdate">. Retrieved <span class="nowrap">5 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Conservation+of+the+Critically+Endangered+Balkan+Lynx&amp;rft.pub=Catsg.org&amp;rft_id=http%3A%2F%2Fwww.catsg.org%2Fbalkanlynx%2F01_recovery-programme%2F1_7_conferences%2Ftirana-sept-08%2FTirana_Proceedings_Trajce_et_al_2008_Conservation_of_the_critically_endangered_Balkan_lynx.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlbania" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albania&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Albania&amp;action=edit&amp;section=9" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="metadata mbox-small plainlinks" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wiktionary-logo-simple.png/40px-Wiktionary-logo-simple.png" decoding="async" width="40" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wiktionary-logo-simple.png/60px-Wiktionary-logo-simple.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wiktionary-logo-simple.png/80px-Wiktionary-logo-simple.png 2x" data-file-width="155" data-file-height="127"></td> 
+         <td class="mbox-text plainlist">The <a href="/wiki/Wikipedia:Simple_English_Wiktionary" title="Wikipedia:Simple English Wiktionary">Simple English Wiktionary</a> has a <a href="/wiki/Definition" title="Definition">definition</a> for: <i> <b><a href="https://simple.wiktionary.org/wiki/Albania" class="extiw" title="wikt:Albania">Albania</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://www.forum-al.com">National Tourism Organization</a> Albania's official website for travel &amp; tourism information.</li>
+      </ul> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Albania" class="extiw" title="commons:Special:Search/Albania">Albania</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <div role="navigation" class="navbox" aria-labelledby="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/46px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></span> <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/Europe" title="Europe">Europe</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Country" title="Country">Countries</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a class="mw-selflink selflink">Albania</a> – <a href="/wiki/Andorra" title="Andorra">Andorra</a> – <a href="/wiki/Austria" title="Austria">Austria</a> – <a href="/wiki/Belarus" title="Belarus">Belarus</a> – <a href="/wiki/Belgium" title="Belgium">Belgium</a> – <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a> – <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> – <a href="/wiki/Croatia" title="Croatia">Croatia</a> – <a href="/wiki/Republic_of_Cyprus" title="Republic of Cyprus">Republic of Cyprus</a><sup>1</sup> – <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a> – <a href="/wiki/Denmark" title="Denmark">Denmark</a><sup>2,4</sup> – <a href="/wiki/Estonia" title="Estonia">Estonia</a> – <a href="/wiki/Finland" title="Finland">Finland</a> – <a href="/wiki/France" title="France">France</a><sup>4</sup> – <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a><sup>1</sup> – <a href="/wiki/Germany" title="Germany">Germany</a> – <a href="/wiki/Greece" title="Greece">Greece</a> – <a href="/wiki/Hungary" title="Hungary">Hungary</a> – <a href="/wiki/Iceland" title="Iceland">Iceland</a> – <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a> – <a href="/wiki/Italy" title="Italy">Italy</a> – <a href="/wiki/Latvia" title="Latvia">Latvia</a> – <a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a> – <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> – <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a> – <a href="/wiki/Malta" title="Malta">Malta</a> – <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a> – <a href="/wiki/Moldova" title="Moldova">Moldova</a> – <a href="/wiki/Monaco" title="Monaco">Monaco</a> – <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> – <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a><sup>4</sup> – <a href="/wiki/Norway" title="Norway">Norway</a><sup>4</sup> – <a href="/wiki/Poland" title="Poland">Poland</a> – <a href="/wiki/Portugal" title="Portugal">Portugal</a><sup>4,6</sup> – <a href="/wiki/Romania" title="Romania">Romania</a> – <a href="/wiki/Russia" title="Russia">Russia</a><sup>1</sup> – <a href="/wiki/San_Marino" title="San Marino">San Marino</a> – <a href="/wiki/Serbia" title="Serbia">Serbia</a> – <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> – <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a> – <a href="/wiki/Spain" title="Spain">Spain</a><sup>4,6</sup> – <a href="/wiki/Sweden" title="Sweden">Sweden</a> – <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> – <a href="/wiki/Turkey" title="Turkey">Turkey</a><sup>1</sup> – <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> – <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><sup>4</sup> – <a href="/wiki/Vatican_City" title="Vatican City">Vatican City</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_dependent_territories" class="mw-redirect" title="List of dependent territories">Dependencies</a></b></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a><sup>1</sup> – <a href="/wiki/Azores" title="Azores">Azores</a><sup>5</sup> – <a href="/wiki/Ceuta" title="Ceuta">Ceuta</a><sup>5, 6</sup> – <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a><sup>5</sup> – <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a><sup>5</sup> – <a href="/wiki/Greenland" title="Greenland">Greenland</a><sup>5,2</sup> – <a href="/wiki/Guernsey" title="Guernsey">Guernsey</a> – <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a> – <a href="/wiki/Jersey" title="Jersey">Jersey</a> – <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a> – <a href="/wiki/Melilla" title="Melilla">Melilla</a><sup>5,6</sup> – <a href="/wiki/Svalbard" title="Svalbard">Svalbard</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_unrecognized_countries" class="mw-redirect" title="List of unrecognized countries">Other Countries</a></b></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Abkhazia" title="Abkhazia">Abkhazia</a><sup>1,3</sup> – <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a><sup>3</sup> – <a href="/wiki/South_Ossetia" title="South Ossetia">South Ossetia</a><sup>1, 3</sup> – <a href="/wiki/Transnistria" title="Transnistria">Transnistria</a> – <a href="/wiki/Turkish_Republic_of_Northern_Cyprus" class="mw-redirect" title="Turkish Republic of Northern Cyprus">Turkish Republic of Northern Cyprus</a><sup>1,3</sup>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            1. <a href="/wiki/Transcontinental_country" title="Transcontinental country">Transcontinental country</a>/territory that can be considered both Europe and Asia 2. Territory or with territory geographically part of North America 3. Partially recognized. 4. not all dependent territories are listed 5. Territory has some form of self-rule. 6. Territory or with territory geographically part of Africa
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="European_Union_member_and_candidate_countries" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div id="European_Union_member_and_candidate_countries" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/European_Union" title="European Union">European Union</a> member and candidate countries
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Current members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Austria" title="Austria">Austria</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech&nbsp;Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/Finland" title="Finland">Finland</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Malta" title="Malta">Malta</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Sweden" title="Sweden">Sweden</a>
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Flag_of_Europe.svg" class="image"><img alt="Flag of Europe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/65px-Flag_of_Europe.svg.png" decoding="async" width="65" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/98px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/130px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Candidates</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>&nbsp;<b>·</b> <a href="/wiki/Serbia" title="Serbia">Serbia</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Potential candidates</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a class="mw-selflink selflink">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a>&nbsp;<b>·</b> <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Former members</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <a href="/w/index.php?title=List_of_European_Union_member_states_by_accession&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by accession (not yet started)">by accession</a>&nbsp;<b>·</b> <a href="/w/index.php?title=List_of_European_Union_member_states_by_political_system&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by political system (not yet started)">by political system</a>&nbsp;<b>·</b> <a href="/wiki/List_of_European_Union_member_states_by_population" class="mw-redirect" title="List of European Union member states by population">by population</a>&nbsp;<b>·</b> <a href="/w/index.php?title=Economy_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="Economy of the European Union (not yet started)">by GDP</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="North_Atlantic_Treaty_Organization_(NATO)" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_Atlantic_Treaty_Organisation_(NATO)" title="Template:North Atlantic Treaty Organisation (NATO)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:North_Atlantic_Treaty_Organisation_(NATO)" title="Template talk:North Atlantic Treaty Organisation (NATO)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_Atlantic_Treaty_Organisation_(NATO)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="North_Atlantic_Treaty_Organization_(NATO)" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/North_Atlantic_Treaty_Organisation" class="mw-redirect" title="North Atlantic Treaty Organisation">North Atlantic Treaty Organization (NATO)</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Member countries</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a class="mw-selflink selflink">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Canada" title="Canada">Canada</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Norway" title="Norway">Norway</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>&nbsp;<b>·</b> <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&nbsp;<b>·</b> <a href="/wiki/United_States" title="United States">United States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q222&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q222&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q222" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" class="mw-redirect" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX450686">XX450686</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11952716p">cb11952716p</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11952716p">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4001028-4">4001028-4</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://hls-dhs-dss.ch/fr/articles/003348">003348</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000115447102">0000 0001 1544 7102</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n83221467">n83221467</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/1c69b790-b46b-3e92-b6b4-93b4364badbc">1c69b790-b46b-3e92-b6b4-93b4364badbc</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10045353">10045353</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00560328">00560328</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge128651&amp;CON_LNG=ENG">ge128651</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/139070">139070</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/027501302">027501302</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/130228708">130228708</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n83221467">lccn-n83221467</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1335
+Cached time: 20201225185725
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.104 seconds
+Real time usage: 1.312 seconds
+Preprocessor visited node count: 4625/1000000
+Post‐expand include size: 122388/2097152 bytes
+Template argument size: 11422/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 21/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31107/5000000 bytes
+Lua time usage: 0.768/10.000 seconds
+Lua memory usage: 32830966/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1161.714      1 -total
+ 52.89%  614.423      1 Template:Infobox_country
+ 51.61%  599.521      3 Template:Infobox
+ 23.28%  270.431      1 Template:Authority_control
+ 15.32%  177.946      3 Template:ISO_3166_code
+ 14.30%  166.168      1 Template:Native_name
+ 13.98%  162.398      2 Template:Lang
+ 12.26%  142.399      1 Template:Reflist
+ 10.48%  121.711      8 Template:Cite_web
+  3.64%   42.303      3 Template:Navbox
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:3461-0!canonical and timestamp 20201225185725 and revision id 7109459. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Albania&amp;oldid=7109459">https://simple.wikipedia.org/w/index.php?title=Albania&amp;oldid=7109459</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Members_of_NATO" title="Category:Members of NATO">Members of NATO</a></li>
+       <li><a href="/wiki/Category:Albania" title="Category:Albania">Albania</a></li>
+       <li><a href="/wiki/Category:European_Union_candidate_states" title="Category:European Union candidate states">European Union candidate states</a></li>
+       <li><a href="/wiki/Category:Members_of_the_Organisation_of_Islamic_Cooperation" title="Category:Members of the Organisation of Islamic Cooperation">Members of the Organisation of Islamic Cooperation</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Albanian-language_text" title="Category:Articles containing Albanian-language text">Articles containing Albanian-language text</a></li>
+       <li><a href="/wiki/Category:Articles_with_Albanian-language_sources_(sq)" title="Category:Articles with Albanian-language sources (sq)">Articles with Albanian-language sources (sq)</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
+       <li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li>
+       <li><a href="/wiki/Category:Pages_including_recorded_pronunciations_(English)" title="Category:Pages including recorded pronunciations (English)">Pages including recorded pronunciations (English)</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_HDS_identifiers" title="Category:Wikipedia articles with HDS identifiers">Wikipedia articles with HDS identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Albania" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Albania" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Albania" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Albania&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (not yet started) [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Albania">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Albania&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Albania&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Albania&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Albania" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Albania" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Albania&amp;oldid=7109459" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Albania&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Albania&amp;id=7109459&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q222" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Albania">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Albania&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Albania&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Albania" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Albania" title="Albania – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8D" title="Албаниэ – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D0%B5" title="Албание – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Albani%C3%AB" title="Albanië – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Albania" title="Albania – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Albanien" title="Albanien – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%A0%E1%88%8D%E1%89%A3%E1%8A%92%E1%8B%AB" title="አልባኒያ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Albania" title="Albania – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Albania" title="Albania – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%90%D1%80%D0%BD%D0%B0%D1%83%D2%AD%D1%82%D3%99%D1%8B%D0%BB%D0%B0" title="Арнауҭтәыла – Abkhazian" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D8%A8%D8%A7%D9%86%D9%8A%D8%A7" title="ألبانيا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Albania" title="Albania – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%90%DC%A0%DC%92%DC%A2%DC%9D%DC%90" title="ܐܠܒܢܝܐ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D4%B1%D5%AC%D5%BA%D5%A1%D5%B6%D5%AB%D5%A1" title="Ալպանիա – Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/Arbini%C8%99ia" title="Arbinișia – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Albania" title="Albania – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%86%E0%A6%B2%E0%A6%AC%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="আলবেনিয়া – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Albania" title="Albania – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-awa"><a href="https://awa.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्बानिया – Awadhi" lang="awa" hreflang="awa" class="interlanguage-link-target">अवधी</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Av%C3%A1%C3%B1a" title="Aváña – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD" title="Албан – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Alwa%C3%B1a" title="Alwaña – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Albaniya" title="Albaniya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A2%D9%84%D8%A8%D8%A7%D9%86%DB%8C" title="آلبانی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Albania" title="Albania – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%B2%E0%A6%AC%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="আলবেনিয়া – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Albania" title="Albania – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Albania" title="Albania – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D1%96%D1%8F" title="Албанія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B0%D0%BD%D1%96%D1%8F" title="Альбанія – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्बानिया – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Albanya" title="Albanya – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Albania" title="Albania – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Oibanien" title="Oibanien – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%A8%E0%BD%A3%E0%BC%8B%E0%BD%94%E0%BC%8B%E0%BD%89%E0%BD%B2%E0%BC%8B%E0%BD%A1%E0%BC%8D" title="ཨལ་པ་ཉི་ཡ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://bs.wikipedia.org/wiki/Albanija" title="Albanija – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Albania" title="Albania – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8" title="Албани – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Alb%C3%A0nia" title="Albània – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8" title="Албани – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Albanya" title="Albanya – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Alb%C3%A1nie" title="Albánie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-ch"><a href="https://ch.wikipedia.org/wiki/Albania" title="Albania – Chamorro" lang="ch" hreflang="ch" class="interlanguage-link-target">Chamoru</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Albania" title="Albania – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Albania" title="Albania – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-tum"><a href="https://tum.wikipedia.org/wiki/Albania" title="Albania – Tumbuka" lang="tum" hreflang="tum" class="interlanguage-link-target">ChiTumbuka</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Albania" title="Albania – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Albania" title="Albania – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Albanien" title="Albanien – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%A3%D9%84%D8%A8%D8%A7%D9%86%D9%8A%D8%A7" title="ألبانيا – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Alb%C3%A1nia" title="Albánia – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-pdc"><a href="https://pdc.wikipedia.org/wiki/Albaani" title="Albaani – Pennsylvania German" lang="pdc" hreflang="pdc" class="interlanguage-link-target">Deitsch</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Albanien" title="Albanien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%87%DE%A6%DE%8D%DE%B0%DE%84%DE%AD%DE%82%DE%A8%DE%87%DE%A7" title="އަލްބޭނިއާ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Alba%C5%84ska" title="Albańska – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्बानिया – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-dz"><a href="https://dz.wikipedia.org/wiki/%E0%BD%A8%E0%BD%B1%E0%BD%A3%E0%BC%8B%E0%BD%96%E0%BD%BA%E0%BC%8B%E0%BD%93%E0%BD%B2%E0%BC%8B%E0%BD%A1" title="ཨཱལ་བེ་ནི་ཡ – Dzongkha" lang="dz" hreflang="dz" class="interlanguage-link-target">ཇོང་ཁ</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Albaania" title="Albaania – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1" title="Αλβανία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/Alban%C3%AE" title="Albanî – Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Albania" title="Albania – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Албания Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Albania" title="Albania – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://eo.wikipedia.org/wiki/Albanio" title="Albanio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Alb%C3%A1nia" title="Albánia – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Albania" title="Albania – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Albania" title="Albania – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%84%D8%A8%D8%A7%D9%86%DB%8C" title="آلبانی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Albania" title="Albania – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Albania" title="Albania – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Albanie" title="Albanie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Albaanje" title="Albaanje – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Albaniya" title="Albaniya – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Albanie" title="Albanie – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_Alb%C3%A1in" title="An Albáin – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Albaan" title="Yn Albaan – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Albaniya" title="Albaniya – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Alb%C3%A0inia" title="Albàinia – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Albania" title="Albania – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Ar%C5%A9mb%C4%A9nia" title="Arũmbĩnia – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%86%E0%AA%B2%E0%AB%8D%E0%AA%AC%E0%AB%87%E0%AA%A8%E0%AA%BF%E0%AA%AF%E0%AA%BE" title="આલ્બેનિયા – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8C%B0%F0%90%8C%BB%F0%90%8C%B1%F0%90%8C%B0%F0%90%8C%BD%F0%90%8C%BE%F0%90%8C%B0" title="𐌰𐌻𐌱𐌰𐌽𐌾𐌰 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्बानिया – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Albania" title="Albania – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%90%D1%80%D0%BD%D0%B3%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Арнгудин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%8C%EB%B0%94%EB%8B%88%EC%95%84" title="알바니아 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Albaniya" title="Albaniya – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/%CA%BBAlepania" title="ʻAlepania – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%AC%D5%A2%D5%A1%D5%B6%D5%AB%D5%A1" title="Ալբանիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्बानिया – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Albanska" title="Albanska – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Albanija" title="Albanija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Albania" title="Albania – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Albania" title="Albania – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Albania" title="Albania – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%86%E0%A6%B2%E0%A6%AC%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="আলবেনিয়া – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Albania" title="Albania – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Albania" title="Albania – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Albania" title="Albania – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-iu"><a href="https://iu.wikipedia.org/wiki/%E1%90%8A%E1%93%AA%E1%90%B9%E1%93%82%E1%90%8A" title="ᐊᓪᐹᓂᐊ – Inuktitut" lang="iu" hreflang="iu" class="interlanguage-link-target">ᐃᓄᒃᑎᑐᑦ/inuktitut</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8" title="Албани – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/I-Albaniya" title="I-Albaniya – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Alban%C3%ADa" title="Albanía – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Albania" title="Albania – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%91%D7%A0%D7%99%D7%94" title="אלבניה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Albani" title="Albani – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Albania" title="Albania – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%B2%E0%B3%8D%E0%B2%AC%E0%B3%87%E0%B2%A8%E0%B2%BF%E0%B2%AF" title="ಅಲ್ಬೇನಿಯ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Albania" title="Albania – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9A%E1%83%91%E1%83%90%E1%83%9C%E1%83%94%E1%83%97%E1%83%98" title="ალბანეთი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Alba%C5%84sk%C3%B4" title="Albańskô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Albani" title="Albani – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Alubaniya" title="Alubaniya – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Albania" title="Albania – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Albania" title="Albania – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Skiperia" title="Skiperia – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Albani" title="Albani – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Albani" title="Albani – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Albanya" title="Albanya – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8" title="Албани – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Albania" title="Albania – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Albania" title="Albania – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A2%D9%84%D8%A8%D8%A7%D9%86%DB%8C" title="آلبانی – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Albaneja" title="Albaneja – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Albania" title="Albania – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Alb%C4%81nija" title="Albānija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Albanien" title="Albanien – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Albanija" title="Albanija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Albania" title="Albania – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Albani%C3%AB" title="Albanië – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Albania" title="Albania – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Xciperia" title="Xciperia – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Albuanii" title="Albuanii – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Albania" title="Albania – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Alb%C3%A1nia" title="Albánia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्बानिया – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%98%D0%B0" title="Албанија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Albania" title="Albania – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B5%BD%E0%B4%AC%E0%B5%87%E0%B4%A8%E0%B4%BF%E0%B4%AF" title="അൽബേനിയ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Albanija" title="Albanija – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/Arapeinia" title="Arapeinia – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%86%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="आल्बेनिया – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%90%E1%83%9A%E1%83%91%E1%83%90%E1%83%9C%E1%83%94%E1%83%97%E1%83%98" title="ალბანეთი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%A7%D9%86%D9%8A%D8%A7" title="البانيا – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%A2%D9%84%D8%A8%D8%A7%D9%86%DB%8C" title="آلبانی – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Albania" title="Albania – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/Albania" title="Albania – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Minangkabau</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Albania" title="Albania – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Alb%C3%A1nia" title="Albánia – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8" title="Албани – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%9A%E1%80%BA%E1%80%9C%E1%80%BA%E1%80%98%E1%80%B1%E1%80%B8%E1%80%94%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="အယ်လ်ဘေးနီးယားနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Arbainiya" title="Arbainiya – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Albani%C3%AB" title="Albanië – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Albani%C3%AB" title="Albanië – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्बानिया – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्बानिया – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2" title="アルバニア – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Albania" title="Albania – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8" title="Албани – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Albaanien/%C3%B6%C3%B6" title="Albaanien/öö – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Elbanya" title="Elbanya – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Albania" title="Albania – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Albania" title="Albania – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Albania" title="Albania – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Albania" title="Albania – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D0%B9" title="Албаний – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%86%E0%AC%B2%E0%AC%AC%E0%AC%BE%E0%AC%A8%E0%AC%BF%E0%AC%86" title="ଆଲବାନିଆ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Albeeniyaa" title="Albeeniyaa – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Albaniya" title="Albaniya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%85%E0%A8%B2%E0%A8%AC%E0%A8%BE%E0%A8%A8%E0%A9%80%E0%A8%86" title="ਅਲਬਾਨੀਆ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्बानिया – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pag"><a href="https://pag.wikipedia.org/wiki/Shqip" title="Shqip – Pangasinan" lang="pag" hreflang="pag" class="interlanguage-link-target">Pangasinan</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%A7%D9%86%DB%8C%D8%A7" title="البانیا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Albania" title="Albania – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%A7%D9%86%DB%8C%D8%A7" title="البانیا – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Albienia" title="Albienia – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%A8%D1%82%D0%B8%D0%BF%D1%80%D0%B8%D1%8F" title="Штиприя – Komi-Permyak" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем коми</a></li>
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%A2%E1%9E%B6%E1%9E%9B%E1%9F%8B%E1%9E%94%E1%9E%B6%E1%9E%93%E1%9E%B8" title="អាល់បានី – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Albanie" title="Albanie – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Alban%C3%ACa" title="Albanìa – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Albenia" title="Albenia – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Albanien" title="Albanien – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Albania" title="Albania – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%91%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1" title="Αλβανία – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Alb%C3%A2nia" title="Albânia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Albaniya" title="Albaniya – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Arnavutl%C4%B1q" title="Arnavutlıq – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ty"><a href="https://ty.wikipedia.org/wiki/Arapania" title="Arapania – Tahitian" lang="ty" hreflang="ty" class="interlanguage-link-target">Reo tahiti</a></li>
+       <li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Albanien" title="Albanien – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Albania" title="Albania – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Shkiperiya" title="Shkiperiya – Vlax Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani čhib</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Albania" title="Albania – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Albanya" title="Albanya – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D1%96%D1%8F" title="Албанія – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Albania" title="Albania – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Albania" title="Albania – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A5%87%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्बेनिया – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/Alban%C3%AFi" title="Albanïi – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%9F%E1%B1%9E%E1%B1%B5%E1%B1%AE%E1%B1%B1%E1%B1%A4%E1%B1%AD%E1%B1%9F" title="ᱟᱞᱵᱮᱱᱤᱭᱟ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Albania" title="Albania – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Albanie" title="Albanie – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Albanien" title="Albanien – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Albania" title="Albania – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Albania" title="Albania – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Shqip%C3%ABria" title="Shqipëria – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Alban%C3%ACa" title="Albanìa – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%87%E0%B6%BD%E0%B7%8A%E0%B6%B6%E0%B7%9A%E0%B6%B1%E0%B7%92%E0%B6%BA%E0%B7%8F%E0%B7%80" title="ඇල්බේනියාව – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%A7%D9%86%D9%8A%D8%A7" title="البانيا – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/I-Alibheniya" title="I-Alibheniya – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Alb%C3%A1nsko" title="Albánsko – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Albanija" title="Albanija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%90%D0%BB%D0%B2%D0%B0%D0%BD%D1%97%EA%99%97" title="Алванїꙗ – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Alba%C5%84ijo" title="Albańijo – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Albania" title="Albania – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%D8%A7%D9%84%D8%A8%D8%A7%D9%86%DB%8C%D8%A7" title="ئالبانیا – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Albanikondre" title="Albanikondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%98%D0%B0" title="Албанија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Albanija" title="Albanija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Albania" title="Albania – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Albania" title="Albania – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Albanien" title="Albanien – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Albanya" title="Albanya – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B2%E0%AF%8D%E0%AE%AA%E0%AF%87%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%BE" title="அல்பேனியா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Albanya" title="Albanya – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Albanie" title="Albanie – Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target">Tarandíne</a></li>
+       <li class="interlanguage-link interwiki-tt badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://tt.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A2%E1%82%83%E1%82%87%E1%80%95%E1%82%83%E1%80%B8%E1%81%BC%E1%80%AE%E1%80%B8%E1%80%9A%E1%82%83%E1%80%B8" title="မိူင်းဢႃႇပႃးၼီးယႃး – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%B2%E0%B1%8D%E0%B0%AC%E0%B1%87%E0%B0%A8%E0%B0%BF%E0%B0%AF%E0%B0%BE" title="అల్బేనియా – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Alb%C3%A1nia" title="Albánia – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%81%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%9A%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2" title="ประเทศแอลเบเนีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-ti"><a href="https://ti.wikipedia.org/wiki/%E1%8A%A3%E1%88%8D%E1%89%A3%E1%8A%92%E1%8B%AB" title="ኣልባኒያ – Tigrinya" lang="ti" hreflang="ti" class="interlanguage-link-target">ትግርኛ</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8E%A0%E1%8E%B5%E1%8F%87%E1%8F%82%E1%8F%AF" title="ᎠᎵᏇᏂᏯ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Arnavutluk" title="Arnavutluk – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Albani%C3%BDa" title="Albaniýa – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-tw"><a href="https://tw.wikipedia.org/wiki/Albania" title="Albania – Twi" lang="tw" hreflang="tw" class="interlanguage-link-target">Twi</a></li>
+       <li class="interlanguage-link interwiki-tyv"><a href="https://tyv.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Tuvinian" lang="tyv" hreflang="tyv" class="interlanguage-link-target">Тыва дыл</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" title="Албания – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D1%96%D1%8F" title="Албанія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%A7%D9%86%DB%8C%D8%A7" title="البانیا – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%A6%D8%A7%D9%84%D8%A8%D8%A7%D9%86%D9%89%D9%8A%DB%95" title="ئالبانىيە – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Albania" title="Albania – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Albania" title="Albania – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Albanii" title="Albanii – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Albania" title="Albania – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Lalban%C3%A4n" title="Lalbanän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Albaania" title="Albaania – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Albaneye" title="Albaneye – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E4%BA%9E" title="阿爾巴尼亞 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Albani%C3%AB" title="Albanië – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Albanya" title="Albanya – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Albaani" title="Albaani – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E4%BA%9E" title="阿爾巴尼亞 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Albania" title="Albania – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%90%D7%9C%D7%91%D7%90%D7%A0%D7%99%D7%A2" title="אלבאניע – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Alb%C3%A1n%C3%AD%C3%A0" title="Albáníà – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E4%BA%9E" title="阿爾巴尼亞 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Arnawudiye" title="Arnawudiye – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Albani%C3%AB" title="Albanië – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Alban%C4%97j%C4%97" title="Albanėjė – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A" title="阿尔巴尼亚 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q222#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 14 September 2020, at 17:45.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Albania&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.104","walltime":"1.312","ppvisitednodes":{"value":4625,"limit":1000000},"postexpandincludesize":{"value":122388,"limit":2097152},"templateargumentsize":{"value":11422,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":21,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31107,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1161.714      1 -total"," 52.89%  614.423      1 Template:Infobox_country"," 51.61%  599.521      3 Template:Infobox"," 23.28%  270.431      1 Template:Authority_control"," 15.32%  177.946      3 Template:ISO_3166_code"," 14.30%  166.168      1 Template:Native_name"," 13.98%  162.398      2 Template:Lang"," 12.26%  142.399      1 Template:Reflist"," 10.48%  121.711      8 Template:Cite_web","  3.64%   42.303      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.768","limit":"10.000"},"limitreport-memusage":{"value":32830966,"limit":52428800}},"cachereport":{"origin":"mw1335","timestamp":"20201225185725","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Albania","url":"https:\/\/simple.wikipedia.org\/wiki\/Albania","sameAs":"http:\/\/www.wikidata.org\/entity\/Q222","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q222","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-07T03:07:30Z","dateModified":"2020-09-14T17:45:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/36\/Flag_of_Albania.svg","headline":"sovereign state in Southeast Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":283,"wgHostname":"mw1397"});});</script> 
+ </body>
+</html>

@@ -1,16 +1,15 @@
 package me.randomhashtags.worldlaws.people;
 
 public enum PoliticalParty {
-    DEMOCRATIC("D"),
+    DEMOCRAT("D"),
     INDEPENDENT("I"),
     LIBERTARIAN("L"),
     REPUBLICAN("R"),
 
     UNKNOWN("?"),
-
     ;
 
-    private String name, abbreviation;
+    private final String name, abbreviation;
 
     PoliticalParty(String abbreviation) {
         final String name = name();

@@ -1,0 +1,92 @@
+package me.randomhashtags.worldlaws;
+
+import me.randomhashtags.worldlaws.event.EventDate;
+import me.randomhashtags.worldlaws.event.UpcomingEventType;
+import me.randomhashtags.worldlaws.location.CountryBackendID;
+
+import java.time.Month;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
+
+public interface EventController extends RestAPI, Jsoupable {
+    HashMap<String, Month> MONTHS = monthMap();
+
+    static HashMap<String, Month> monthMap() {
+        final HashMap<String, Month> months = new HashMap<>();
+        for(Month month : Month.values()) {
+            String target = "";
+            final String name = month.name();
+            for(int i = 0; i < name.length(); i++) {
+                final String string = Character.toString(name.charAt(i));
+                target = target.concat(string).concat(" ");
+            }
+            months.put(target, month);
+        }
+        return months;
+    }
+
+    default String getEventIdentifier(EventDate date, String title) {
+        return getEventDateIdentifier(date) + "." + title.toLowerCase().replace(" ", "");
+    }
+    default void getEventsFromDate(EventDate date, CompletionHandler handler) {
+        final HashMap<String, String> events = getPreEvents();
+        if(events == null || events.isEmpty()) {
+            getUpcomingEvents(new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    final HashMap<String, String> events = getPreEvents();
+                    handler.handle(getEventsFromHashMap(date, events));
+                }
+            });
+        } else {
+            handler.handle(getEventsFromHashMap(date, events));
+        }
+    }
+    private String getEventsFromHashMap(EventDate date, HashMap<String, String> hashmap) {
+        final StringBuilder builder = new StringBuilder("[");
+        if(hashmap != null) {
+            final String identifier = getEventDateIdentifier(date) + ".";
+            final Set<Map.Entry<String, String>> set = hashmap.entrySet();
+            set.removeIf(map -> !map.getKey().startsWith(identifier));
+            boolean isFirst = true;
+            for(Map.Entry<String, String> value : set) {
+                final String json = value.getValue();
+                builder.append(isFirst ? "" : ",").append(json);
+                isFirst = false;
+            }
+        }
+        builder.append("]");
+        return builder.toString();
+    }
+    private String getEventDateIdentifier(EventDate date) {
+        return date.getMonth().getValue() + "-" + date.getYear() + "-" + date.getDay();
+    }
+
+    UpcomingEventType getType();
+    void getUpcomingEvents(@NotNull CompletionHandler handler);
+    HashMap<String, String> getPreEvents();
+    HashMap<String, String> getEvents();
+    default String getUpcomingEvent(String identifier) {
+        final HashMap<String, String> events = getEvents();
+        return events != null ? events.getOrDefault(identifier, null) : null;
+    }
+    CountryBackendID getCountryBackendID(); // if null, it is worldwide/global
+
+    default Month getMonthFrom(String text, Set<String> keys) {
+        for(String key : keys) {
+            if(text.startsWith(key)) {
+                return MONTHS.get(key);
+            }
+        }
+        return null;
+    }
+    default String getMonthKey(Month month, Set<String> keys) {
+        for(String key : keys) {
+            if(MONTHS.get(key).equals(month)) {
+                return key;
+            }
+        }
+        return null;
+    }
+}

@@ -1,0 +1,1240 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Seychelles - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAIDAAALJMalEAAACS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Seychelles","wgTitle":"Seychelles","wgCurRevisionId":7187612,"wgRevisionId":7187612,"wgArticleId":19315,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: invisible characters","CS1 errors: missing periodical","Pages using infobox country with unknown parameters","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNC identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers",
+"Wikipedia articles with CINII identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with RERO identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Seychelles","English-speaking countries","French-speaking countries","Gondwana","1976 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Seychelles","wgRelevantArticleId":19315,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1042"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1200px-Flag_of_Seychelles.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Seychelles"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Seychelles&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Seychelles&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Seychelles"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Seychelles rootpage-Seychelles skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Seychelles</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic of Seychelles
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i>Repiblik Sesel<br>République des Seychelles</i>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Seychelles.svg" class="image" title="Flag of Seychelles"><img alt="Flag of Seychelles" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/125px-Flag_of_Seychelles.svg.png" decoding="async" width="125" height="63" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/188px-Flag_of_Seychelles.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/250px-Flag_of_Seychelles.svg.png 2x" data-file-width="900" data-file-height="450"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Seychelles" title="Flag of Seychelles">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Seychelles.svg" class="image" title="Coat of arms of Seychelles"><img alt="Coat of arms of Seychelles" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Coat_of_arms_of_Seychelles.svg/85px-Coat_of_arms_of_Seychelles.svg.png" decoding="async" width="85" height="86" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Coat_of_arms_of_Seychelles.svg/128px-Coat_of_arms_of_Seychelles.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Coat_of_arms_of_Seychelles.svg/170px-Coat_of_arms_of_Seychelles.svg.png 2x" data-file-width="690" data-file-height="700"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b>"Finis Coronat Opus"<span class="nowrap">&nbsp;&nbsp;</span><small>(<a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>)<br>"The End Crowns the Work"</small>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><i><a href="/w/index.php?title=Koste_Seselwa&amp;action=edit&amp;redlink=1" class="new" title="Koste Seselwa (not yet started)">Koste Seselwa</a></i>
+           <br><i>"Join together all Seychellois"</i>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:LocationSeychelles.png" class="image" title="Location of Seychelles"><img alt="Location of Seychelles" src="//upload.wikimedia.org/wikipedia/commons/4/4c/LocationSeychelles.png" decoding="async" width="250" height="119" data-file-width="250" data-file-height="119"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Victoria,_Seychelles" title="Victoria, Seychelles">Victoria</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td> 
+          <ul>
+           <li><a href="/wiki/French_language" title="French language">French</a></li> 
+           <li><a href="/wiki/English_language" title="English language">English</a></li> 
+           <li><a href="/wiki/Seychellois_Creole" title="Seychellois Creole">Seychellois Creole</a></li>
+          </ul> </td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/w/index.php?title=Vernacular_language&amp;action=edit&amp;redlink=1" class="new" title="Vernacular language (not yet started)">Vernacular language</a></th>
+         <td><a href="/wiki/Seychellois_Creole" title="Seychellois Creole">Seychellois Creole</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>Seychellois, Seychelloise, Seselwa (Creole)</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Republic" title="Republic">Republic</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_Seychelles" class="mw-redirect" title="President of Seychelles">President</a> 
+          </div></th>
+         <td><a href="/wiki/Wavel_Ramkalawan" title="Wavel Ramkalawan">Wavel Ramkalawan</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Vice_President_of_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Vice President of Seychelles (not yet started)">Vice President</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Ahmed_Afif&amp;action=edit&amp;redlink=1" class="new" title="Ahmed Afif (not yet started)">Ahmed Afif</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        </tr>
+        <tr class="mergedbottomrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<span class="nowrap">from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span> 
+          </div></th>
+         <td>29 June 1976</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>451&nbsp;km<sup>2</sup> (174&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">197th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>negligible</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2009 estimate
+          </div></th>
+         <td>84,000<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">195th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>186.2/km<sup>2</sup> (482.3/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">60th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2010&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$2.129 billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">164th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$24,837<sup id="cite_ref-imf2_2-1" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">37th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2010&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$919 million<sup id="cite_ref-imf2_2-2" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">168th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$10,714<sup id="cite_ref-imf2_2-3" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">53rd</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2007)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.773<br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">57th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Seychellois_rupee&amp;action=edit&amp;redlink=1" class="new" title="Seychellois rupee (not yet started)">Seychellois rupee</a> (<a href="/wiki/ISO_4217" title="ISO 4217">SCR</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+4</span> (<a href="/w/index.php?title=Seychelles_Time&amp;action=edit&amp;redlink=1" class="new" title="Seychelles Time (not yet started)">SCT</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+4</span> (<i>not observed</i>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>left</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td>248</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:SC&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:SC (not yet started)">SC</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.sc" class="mw-redirect" title=".sc">.sc</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Seychelles</b> is an <a href="/wiki/Africa" title="Africa">African</a> <a href="/wiki/Country" title="Country">country</a> in the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a>. Its <a href="/wiki/Capital_city" title="Capital city">capital city</a> is <a href="/wiki/Victoria,_Seychelles" title="Victoria, Seychelles">Victoria</a>. The official <a href="/wiki/Language" title="***REMOVED***">languages</a> are <a href="/wiki/Creole" class="mw-redirect" title="Creole">Creole</a>, <a href="/wiki/English_language" title="English language">English</a>, and <a href="/wiki/French_language" title="French language">French</a>. It is a <a href="/wiki/Republic" title="Republic">republic</a> is made up of 115 <a href="/wiki/Island" title="Island">islands</a>. </p>
+      <p>Seychelles and the islands to the south, <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a> and <a href="/wiki/Mauritius" title="Mauritius">Mauritius</a>, all had legal <a href="/wiki/Slavery" title="Slavery">slavery</a> and were part of the <a href="/wiki/Slave_trade" title="Slave trade">slave trade</a>.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">[3]</a></sup> Most of the people are descendants of freed slaves, who make up about 90% of the population. Many of them also are descended from slave owners who abused their ancestors.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3">[3]</a></sup> There are small minorities of immigrants from Europe, China and India. Most people are Roman <a href="/wiki/Catholic" class="mw-redirect" title="Catholic">Catholics</a>, about 90% of them. About 8% are <a href="/wiki/Protestant" class="mw-redirect" title="Protestant">Protestants</a>. </p>
+      <p>Other nearby island countries and territories include <a href="/wiki/Zanzibar" title="Zanzibar">Zanzibar</a> to the west, <a href="/wiki/Mauritius" title="Mauritius">Mauritius</a>, <a href="/w/index.php?title=Rodrigues&amp;action=edit&amp;redlink=1" class="new" title="Rodrigues (not yet started)">Rodrigues</a>, <a href="/w/index.php?title=Agalega&amp;action=edit&amp;redlink=1" class="new" title="Agalega (not yet started)">Agalega</a> and <a href="/wiki/R%C3%A9union" title="Réunion">Réunion</a> to the south, and <a href="/wiki/Comoros" title="Comoros">Comoros</a> and <a href="/wiki/Mayotte" title="Mayotte">Mayotte</a> to the southwest. Seychelles has an estimated population of 86,525. It is the smallest population of any African state.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Subdivisions"><span class="tocnumber">2</span> <span class="toctext">Subdivisions</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Economy"><span class="tocnumber">3</span> <span class="toctext">Economy</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Flora_and_fauna"><span class="tocnumber">4</span> <span class="toctext">Flora and fauna</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Other_websites"><span class="tocnumber">6</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seychelles&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Seychelles&amp;action=edit&amp;section=1" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Seychelles is to the northeast of <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a> and about 1,600&nbsp;km (994&nbsp;mi) east of <a href="/wiki/Kenya" title="Kenya">Kenya</a>. The number of islands in the <a href="/wiki/Archipelago" title="Archipelago">archipelago</a> is often given as 115 but the Constitution of the Republic of Seychelles lists 155. </p>
+      <p>According to the president of <a href="/wiki/Nauru" title="Nauru">Nauru</a>, the Seychelles has been ranked the ninth most endangered nation due to flooding from <a href="/wiki/Climate_change" title="Climate change">climate change</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
+      <p>Some of the districts in Seychelles include: <a href="/w/index.php?title=Anse_Boileau&amp;action=edit&amp;redlink=1" class="new" title="Anse Boileau (not yet started)">Anse Boileau</a>, <a href="/w/index.php?title=Takamaka,_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Takamaka, Seychelles (not yet started)">Takamaka</a> and <a href="/w/index.php?title=Cote_D%E2%80%99Or&amp;action=edit&amp;redlink=1" class="new" title="Cote D’Or (not yet started)">Cote D’Or</a>. </p> 
+      <h2><span class="mw-headline" id="Subdivisions">Subdivisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seychelles&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Subdivisions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Seychelles&amp;action=edit&amp;section=2" title="Change section: Subdivisions">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Victoria_(Seychelles).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Victoria_%28Seychelles%29.jpg/220px-Victoria_%28Seychelles%29.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Victoria_%28Seychelles%29.jpg/330px-Victoria_%28Seychelles%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Victoria_%28Seychelles%29.jpg/440px-Victoria_%28Seychelles%29.jpg 2x" data-file-width="637" data-file-height="479"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Victoria_(Seychelles).jpg" class="internal" title="Enlarge"></a>
+         </div>Victoria is the capital of the Seychelles
+        </div>
+       </div>
+      </div> 
+      <p>Seychelles is divided into twenty-five administrative regions. Eight of the districts make up the <a href="/wiki/Capital_(political)" class="mw-redirect" title="Capital (political)">capital</a> of Seychelles. They are called Greater <a href="/wiki/Victoria,_Seychelles" title="Victoria, Seychelles">Victoria</a>. Another 14 districts are considered the rural part of the main island of <a href="/w/index.php?title=Mah%C3%A9,_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Mahé, Seychelles (not yet started)">Mahé</a>. There are two districts on <a href="/w/index.php?title=Praslin&amp;action=edit&amp;redlink=1" class="new" title="Praslin (not yet started)">Praslin</a> and one on <a href="/w/index.php?title=La_Digue&amp;action=edit&amp;redlink=1" class="new" title="La Digue (not yet started)">La Digue</a> which also include satellite islands. The rest of the <a href="/w/index.php?title=Outer_Islands_(Seychelles)&amp;action=edit&amp;redlink=1" class="new" title="Outer Islands (Seychelles) (not yet started)">Outer Islands</a> are not considered part of any district. </p> 
+      <div> 
+       <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+        <tbody>
+         <tr> 
+          <td style="width: 33.33%;text-align: left; vertical-align: top;"> 
+           <dl>
+            <dt>
+             Mahé
+            </dt>
+           </dl> 
+           <ul>
+            <li><a href="/w/index.php?title=Bel_Air,_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Bel Air, Seychelles (not yet started)">Bel Air</a></li> 
+            <li><a href="/w/index.php?title=La_Rivi%C3%A8re_Anglaise&amp;action=edit&amp;redlink=1" class="new" title="La Rivière Anglaise (not yet started)">La Rivière Anglaise</a> (<i>English River</i>)</li> 
+            <li><a href="/w/index.php?title=Les_Mamelles&amp;action=edit&amp;redlink=1" class="new" title="Les Mamelles (not yet started)">Les Mamelles</a></li> 
+            <li><a href="/w/index.php?title=Mont_Buxton&amp;action=edit&amp;redlink=1" class="new" title="Mont Buxton (not yet started)">Mont Buxton</a></li> 
+            <li><a href="/w/index.php?title=Mont_Fleuri&amp;action=edit&amp;redlink=1" class="new" title="Mont Fleuri (not yet started)">Mont Fleuri</a></li> 
+            <li><a href="/w/index.php?title=Plaisance,_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Plaisance, Seychelles (not yet started)">Plaisance</a></li> 
+            <li><a href="/w/index.php?title=Roche_Caiman&amp;action=edit&amp;redlink=1" class="new" title="Roche Caiman (not yet started)">Roche Caiman</a></li> 
+            <li><a href="/w/index.php?title=Saint_Louis,_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Saint Louis, Seychelles (not yet started)">Saint Louis</a></li> 
+            <li><a href="/wiki/Victoria,_Seychelles" title="Victoria, Seychelles">Victoria</a></li>
+           </ul> <p> </p> </td> 
+          <td style="width: 33.33%;text-align: left; vertical-align: top;"> 
+           <ul>
+            <li><a href="/w/index.php?title=Anse_aux_Pins&amp;action=edit&amp;redlink=1" class="new" title="Anse aux Pins (not yet started)">Anse aux Pins</a></li> 
+            <li><a href="/w/index.php?title=Anse_Boileau&amp;action=edit&amp;redlink=1" class="new" title="Anse Boileau (not yet started)">Anse Boileau</a></li> 
+            <li><a href="/w/index.php?title=Anse_Etoile&amp;action=edit&amp;redlink=1" class="new" title="Anse Etoile (not yet started)">Anse Etoile</a></li> 
+            <li><a href="/w/index.php?title=Au_Cap&amp;action=edit&amp;redlink=1" class="new" title="Au Cap (not yet started)">Au Cap</a></li> 
+            <li><a href="/w/index.php?title=Anse_Royale&amp;action=edit&amp;redlink=1" class="new" title="Anse Royale (not yet started)">Anse Royale</a></li> 
+            <li><a href="/w/index.php?title=Baie_Lazare&amp;action=edit&amp;redlink=1" class="new" title="Baie Lazare (not yet started)">Baie Lazare</a></li> 
+            <li><a href="/w/index.php?title=Beau_Vallon,_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Beau Vallon, Seychelles (not yet started)">Beau Vallon</a></li> 
+            <li><a href="/w/index.php?title=Bel_Ombre,_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Bel Ombre, Seychelles (not yet started)">Bel Ombre</a></li> 
+            <li><a href="/w/index.php?title=Cascade,_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Cascade, Seychelles (not yet started)">Cascade</a></li> 
+            <li><a href="/w/index.php?title=Glacis,_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Glacis, Seychelles (not yet started)">Glacis</a></li> 
+            <li><a href="/w/index.php?title=Grand%27Anse_Mah%C3%A9&amp;action=edit&amp;redlink=1" class="new" title="Grand'Anse Mahé (not yet started)">Grand'Anse Mahé</a></li> 
+            <li><a href="/w/index.php?title=Pointe_La_Rue&amp;action=edit&amp;redlink=1" class="new" title="Pointe La Rue (not yet started)">Pointe La Rue</a></li> 
+            <li><a href="/w/index.php?title=Port_Glaud&amp;action=edit&amp;redlink=1" class="new" title="Port Glaud (not yet started)">Port Glaud</a></li> 
+            <li><a href="/w/index.php?title=Takamaka,_Seychelles&amp;action=edit&amp;redlink=1" class="new" title="Takamaka, Seychelles (not yet started)">Takamaka</a></li>
+           </ul> <p> </p> </td> 
+          <td style="width: 33.33%;text-align: left; vertical-align: top;"> 
+           <dl>
+            <dt>
+             Praslin
+            </dt>
+           </dl> 
+           <ul>
+            <li><a href="/w/index.php?title=Baie_Sainte_Anne&amp;action=edit&amp;redlink=1" class="new" title="Baie Sainte Anne (not yet started)">Baie Sainte Anne</a> (Anse Volbert)</li> 
+            <li><a href="/w/index.php?title=Grand%27Anse_Praslin&amp;action=edit&amp;redlink=1" class="new" title="Grand'Anse Praslin (not yet started)">Grand'Anse Praslin</a> (Grande Anse)</li>
+           </ul> 
+           <dl>
+            <dt>
+             La Digue and remaining Inner Islands
+            </dt>
+           </dl> 
+           <ul>
+            <li><a href="/w/index.php?title=La_Digue&amp;action=edit&amp;redlink=1" class="new" title="La Digue (not yet started)">La Digue</a> (Anse Réunion)</li>
+           </ul> </td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seychelles&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Economy">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Seychelles&amp;action=edit&amp;section=3" title="Change section: Economy">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>During the plantation era, <a href="/wiki/Cinnamon" title="Cinnamon">cinnamon</a>, <a href="/wiki/Vanilla" title="Vanilla">vanilla</a>, and <a href="/wiki/Copra" title="Copra">copra</a> were the main <a href="/wiki/Export" title="Export">exports</a>. In the 1960s, about 33% of the working population worked at plantations, and 20% worked in the public or government sector. In 1971, with the opening of <a href="/w/index.php?title=Seychelles_International_Airport&amp;action=edit&amp;redlink=1" class="new" title="Seychelles International Airport (not yet started)">Seychelles International Airport</a>, tourism became a serious industry. </p> 
+      <h2><span class="mw-headline" id="Flora_and_fauna">Flora and fauna</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seychelles&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Flora and fauna">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Seychelles&amp;action=edit&amp;section=4" title="Change section: Flora and fauna">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Like many fragile island ecosystems, the Seychelles had loss of <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a> during early human history. This included the disappearance of most of the <a href="/wiki/Giant_tortoise" title="Giant tortoise">giant tortoises</a> from the <a href="/wiki/Granite" title="Granite">granitic</a> islands. There was also the <a href="/wiki/Extinction" title="Extinction">extinction</a> of species such as the <a href="/w/index.php?title=Seychelles_Chestnut-flanked_White-eye&amp;action=edit&amp;redlink=1" class="new" title="Seychelles Chestnut-flanked White-eye (not yet started)">chestnut flanked white eye</a>, the <a href="/wiki/Seychelles_Parakeet" class="mw-redirect" title="Seychelles Parakeet">Seychelles Parakeet</a>, the <a href="/w/index.php?title=Seychelles_Black_Terrapin&amp;action=edit&amp;redlink=1" class="new" title="Seychelles Black Terrapin (not yet started)">Seychelles Black Terrapin</a> and the <a href="/wiki/Saltwater_crocodile" title="Saltwater crocodile">saltwater crocodile</a>. However, extinctions were far fewer than on islands such as <a href="/wiki/Mauritius" title="Mauritius">Mauritius</a> or <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a>. This was partly due to a shorter period of human occupation being only since 1770. The Seychelles today is known for success stories in protecting its flora and fauna. The rare <a href="/w/index.php?title=Seychelles_Black_Parrot&amp;action=edit&amp;redlink=1" class="new" title="Seychelles Black Parrot (not yet started)">Seychelles Black Parrot</a>, the national bird of the country, is now protected. </p>
+      <p>The granitic islands of Seychelles are home to about 75 <a href="/wiki/Endemic" class="mw-redirect" title="Endemic">endemic</a> plant species. There are a further 25 or so species in the <a href="/w/index.php?title=Aldabra&amp;action=edit&amp;redlink=1" class="new" title="Aldabra (not yet started)">Aldabra</a> group. Particularly well-known is the <a href="/w/index.php?title=Coco_de_Mer&amp;action=edit&amp;redlink=1" class="new" title="Coco de Mer (not yet started)">Coco de Mer</a>, a species of palm that grows only on the islands of <a href="/w/index.php?title=Praslin&amp;action=edit&amp;redlink=1" class="new" title="Praslin (not yet started)">Praslin</a> and neighbouring <a href="/w/index.php?title=Curieuse&amp;action=edit&amp;redlink=1" class="new" title="Curieuse (not yet started)">Curieuse</a>. The <a href="/w/index.php?title=Jellyfish_tree&amp;action=edit&amp;redlink=1" class="new" title="Jellyfish tree (not yet started)">jellyfish tree</a> is to be found in only a few locations on <a href="/w/index.php?title=Mahe&amp;action=edit&amp;redlink=1" class="new" title="Mahe (not yet started)">Mahe</a>. This strange and ancient plant is in a <a href="/wiki/Genus" title="Genus">genus</a> of its own (Medusagynaceae). Other unique plant species include the Wright's Gardenia <i><a href="/w/index.php?title=Rothmannia_annae&amp;action=edit&amp;redlink=1" class="new" title="Rothmannia annae (not yet started)">Rothmannia annae</a></i> found only on <a href="/w/index.php?title=Aride_Island&amp;action=edit&amp;redlink=1" class="new" title="Aride Island (not yet started)">Aride</a> Island Special Reserve. </p>
+      <p>The <a href="/wiki/Freshwater_crab" title="Freshwater crab">freshwater crab</a> genus <i><a href="/w/index.php?title=Seychellum&amp;action=edit&amp;redlink=1" class="new" title="Seychellum (not yet started)">Seychellum</a></i> is endemic to the granitic Seychelles. There are a further 26 species of <a href="/wiki/Crab" title="Crab">crabs</a> and 5 species of <a href="/wiki/Hermit_crab" title="Hermit crab">hermit crabs</a> that live on the islands.<sup id="cite_ref-Haig_7-0" class="reference"><a href="#cite_note-Haig-7">[7]</a></sup> </p> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:172px;">
+        <a href="/wiki/File:Seychelles_giant_tortoise.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Seychelles_giant_tortoise.jpg/170px-Seychelles_giant_tortoise.jpg" decoding="async" width="170" height="203" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Seychelles_giant_tortoise.jpg/255px-Seychelles_giant_tortoise.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Seychelles_giant_tortoise.jpg/340px-Seychelles_giant_tortoise.jpg 2x" data-file-width="1583" data-file-height="1887"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Seychelles_giant_tortoise.jpg" class="internal" title="Enlarge"></a>
+         </div>Giant Tortoise (<i><a href="/w/index.php?title=Dipsochelys_hololissa&amp;action=edit&amp;redlink=1" class="new" title="Dipsochelys hololissa (not yet started)">Dipsochelys hololissa</a></i>)
+        </div>
+       </div>
+      </div> 
+      <p>The <a href="/w/index.php?title=Aldabra_Giant_Tortoise&amp;action=edit&amp;redlink=1" class="new" title="Aldabra Giant Tortoise (not yet started)">Aldabra Giant Tortoise</a> now lives on many of the islands of the Seychelles. The Aldabra population is the largest in the world. These unique reptiles can be found even in <a href="/wiki/Captive" class="mw-redirect" title="Captive">captive</a> herds. </p>
+      <p>There are several unique varieties of orchids on the Islands. </p>
+      <p>The marine life around the islands, especially the more remote coral islands, can be spectacular. More than 1,000 species of fish have been recorded. Since the use of <a href="/w/index.php?title=Speargun&amp;action=edit&amp;redlink=1" class="new" title="Speargun (not yet started)">spearguns</a> and <a href="/wiki/Dynamite" title="Dynamite">dynamite</a> for fishing was banned in the 1960s, the wildlife is unafraid of <a href="/wiki/Snorkeling" title="Snorkeling">snorkelers</a> and <a href="/wiki/Scuba_diving" title="Scuba diving">divers</a>. <a href="/wiki/Coral_bleaching" title="Coral bleaching">Coral bleaching</a> in 1998 has damaged most reefs, but some reefs show healthy recovery. </p>
+      <p>The main natural resources of the Seychelles are fish, <a href="/wiki/Copra" title="Copra">copra</a>, <a href="/wiki/Cinnamon" title="Cinnamon">cinnamon</a>, <a href="/wiki/Coconut" class="mw-redirect" title="Coconut">coconuts</a>, salt and iron. </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seychelles&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Seychelles&amp;action=edit&amp;section=5" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite id="CITEREFDepartment_of_Economic_and_Social_Affairs_Population_Division2009" class="citation journal cs1">Department of Economic and Social Affairs Population Division (2009). <a rel="nofollow" class="external text" href="http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf">"World Population Prospects, Table A.1"</a> <span class="cs1-format">(.PDF)</span>. 2008 revision. United Nations<span class="reference-accessdate">. Retrieved <span class="nowrap">4 February</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=World+Population+Prospects%2C+Table+A.1&amp;rft.date=2009&amp;rft.au=Department+of+Economic+and+Social+Affairs+Population+Division&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fesa%2Fpopulation%2Fpublications%2Fwpp2008%2Fwpp2008_text_tables.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASeychelles" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">line feed character in <code class="cs1-code">|author=</code> at position 42 (<a href="/wiki/Help:CS1_errors#invisible_char" title="Help:CS1 errors">help</a>); </span><span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-imf2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_2-0">2.0</a></sup> <sup><a href="#cite_ref-imf2_2-1">2.1</a></sup> <sup><a href="#cite_ref-imf2_2-2">2.2</a></sup> <sup><a href="#cite_ref-imf2_2-3">2.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?sy=2007&amp;ey=2010&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=718&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=53&amp;pr.y=7">"Seychelles"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">4 February</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Seychelles&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2010%2F02%2Fweodata%2Fweorept.aspx%3Fsy%3D2007%26ey%3D2010%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D718%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D%26pr.x%3D53%26pr.y%3D7&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASeychelles" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-:0-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_3-0">3.0</a></sup> <sup><a href="#cite_ref-:0_3-1">3.1</a></sup></span> <span class="reference-text"><cite id="CITEREFNwulia1981" class="citation book cs1">Nwulia, Moses D. E. (1981). <a rel="nofollow" class="external text" href="https://books.google.com/books/about/The_History_of_Slavery_in_Mauritius_and.html?id=YXTaAAAAMAAJ"><i>The History of Slavery in Mauritius and the Seychelles, 1810-1875</i></a>. Fairleigh Dickenson University Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-8386-2398-5" title="Special:BookSources/978-0-8386-2398-5"><bdi>978-0-8386-2398-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+History+of+Slavery+in+Mauritius+and+the+Seychelles%2C+1810-1875&amp;rft.pub=Fairleigh+Dickenson+University+Press&amp;rft.date=1981&amp;rft.isbn=978-0-8386-2398-5&amp;rft.aulast=Nwulia&amp;rft.aufirst=Moses+D.+E.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FThe_History_of_Slavery_in_Mauritius_and.html%3Fid%3DYXTaAAAAMAAJ&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASeychelles" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.sna.gov.sc/slavery-in-seychelles-.aspx">"Slavery in Seychelles"</a>. <i>The Seychelles National Archive</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-11-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Seychelles+National+Archive&amp;rft.atitle=Slavery+in+Seychelles&amp;rft_id=http%3A%2F%2Fwww.sna.gov.sc%2Fslavery-in-seychelles-.aspx&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASeychelles" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://goafrica.about.com/od/africatraveltips/a/africafacts.htm">"Geoafrica.about.com"</a>. Goafrica.about.com. 9 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">23 March</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Geoafrica.about.com&amp;rft.pub=Goafrica.about.com&amp;rft.date=2011-07-09&amp;rft_id=http%3A%2F%2Fgoafrica.about.com%2Fod%2Fafricatraveltips%2Fa%2Fafricafacts.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASeychelles" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://archive.is/TZ9K">"A sinking feeling: why is the president of the tiny Pacific island nation of Nauru so concerned about climate change?"</a>. <i>New York Times Upfront</i>. 2011. Archived from <a rel="nofollow" class="external text" href="http://findarticles.com/p/articles/mi_m0BUE/is_5-6_144/ai_n58473630">the original</a> on 2012-07-10.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Times+Upfront&amp;rft.atitle=A+sinking+feeling%3A+why+is+the+president+of+the+tiny+Pacific+island+nation+of+Nauru+so+concerned+about+climate+change%3F&amp;rft.date=2011&amp;rft_id=http%3A%2F%2Ffindarticles.com%2Fp%2Farticles%2Fmi_m0BUE%2Fis_5-6_144%2Fai_n58473630&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASeychelles" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Haig-7"><span class="mw-cite-backlink"><a href="#cite_ref-Haig_7-0">↑</a></span> <span class="reference-text"><cite id="CITEREFJanet_Haig1984" class="citation book cs1">Janet Haig (1984). "Land and freshwater crabs of the Seychelles and neighbouring islands". In David Ross Stoddart (ed.). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=hAu6qogRHloC&amp;pg=PA123"><i>Biogeography and Ecology of the Seychelles Islands</i></a>. <a href="/w/index.php?title=Springer_Science%2BBusiness_Media&amp;action=edit&amp;redlink=1" class="new" title="Springer Science+Business Media (not yet started)">Springer</a>. p.&nbsp;123. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-90-6193-107-2" title="Special:BookSources/978-90-6193-107-2"><bdi>978-90-6193-107-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Land+and+freshwater+crabs+of+the+Seychelles+and+neighbouring+islands&amp;rft.btitle=Biogeography+and+Ecology+of+the+Seychelles+Islands&amp;rft.pages=123&amp;rft.pub=Springer&amp;rft.date=1984&amp;rft.isbn=978-90-6193-107-2&amp;rft.au=Janet+Haig&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DhAu6qogRHloC%26pg%3DPA123&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASeychelles" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seychelles&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Seychelles&amp;action=edit&amp;section=6" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="metadata plainlinks mbox-small" style="padding:0.25em 0.5em 0.5em 0.75em;border:1px solid #aaa;background:#f9f9f9;"> 
+       <tbody>
+        <tr> 
+         <td colspan="2" style="padding-bottom:0.75em;border-bottom:1px solid #aaa;text-align:center;">
+          <div style="clear:both;">
+           Find more about
+           <br><b>Seychelles</b>
+           <br>at Wikipedia's <a href="/wiki/Wikipedia:Sister_projects" title="Wikipedia:Sister projects">sister projects</a> 
+          </div> </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td style="padding-top:0.75em;"><a href="https://simple.wiktionary.org/wiki/Special:Search/Seychelles" title="Search Wiktionary"><img alt="Search Wiktionary" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/23px-Wiktionary-logo-en.svg.png" decoding="async" width="23" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/35px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/46px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089"></a> </td> 
+         <td style="padding-top:0.75em;"><a href="https://simple.wiktionary.org/wiki/Special:Search/Seychelles" class="extiw" title="wikt:Special:Search/Seychelles">Definitions</a> from Wiktionary </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Seychelles" title="Search Commons"><img alt="Search Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" decoding="async" width="18" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/37px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> </td> 
+         <td><a href="https://commons.wikimedia.org/wiki/Special:Search/Category:Seychelles" class="extiw" title="commons:Special:Search/Category:Seychelles">Media</a> from Commons </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikinews.org/wiki/Special:Search/Seychelles" title="Search Wikinews"><img alt="Search Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/25px-Wikinews-logo.svg.png" decoding="async" width="25" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/38px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415"></a> </td> 
+         <td><a href="https://en.wikinews.org/wiki/Special:Search/Seychelles" class="extiw" title="wikinews:Special:Search/Seychelles">News stories</a> from Wikinews </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikiquote.org/wiki/Special:Search/Seychelles" title="Search Wikiquote"><img alt="Search Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/21px-Wikiquote-logo.svg.png" decoding="async" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/32px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/42px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355"></a> </td> 
+         <td><a href="https://en.wikiquote.org/wiki/Special:Search/Seychelles" class="extiw" title="wikiquote:Special:Search/Seychelles">Quotations</a> from Wikiquote </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikisource.org/wiki/Special:Search/Seychelles" title="Search Wikisource"><img alt="Search Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png" decoding="async" width="24" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/36px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/48px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> </td> 
+         <td><a href="https://en.wikisource.org/wiki/Special:Search/Seychelles" class="extiw" title="wikisource:Special:Search/Seychelles">Source texts</a> from Wikisource </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikibooks.org/wiki/Special:Search/Seychelles" title="Search Wikibooks"><img alt="Search Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300"></a> </td> 
+         <td><a href="https://en.wikibooks.org/wiki/Special:Search/Seychelles" class="extiw" title="wikibooks:Special:Search/Seychelles">Textbooks</a> from Wikibooks </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikiversity.org/wiki/Special:Search/Seychelles" title="Search Wikiversity"><img alt="Search Wikiversity" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/25px-Wikiversity-logo-en.svg.png" decoding="async" width="25" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/38px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/50px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900"></a> </td> 
+         <td><a href="https://en.wikiversity.org/wiki/Special:Search/Seychelles" class="extiw" title="wikiversity:Special:Search/Seychelles">Learning resources</a> from Wikiversity </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.picstropical.com/seychelles">Pictures of Seychelles</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_Africa" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=List_of_sovereign_states_and_dependent_territories_in_Africa&amp;action=edit&amp;redlink=1" class="new" title="List of sovereign states and dependent territories in Africa (not yet started)">Countries and territories</a> of <a href="/wiki/Africa" title="Africa">Africa</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Entirely or mostly<br>in Africa</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Algeria" title="Algeria">Algeria</a></li> 
+                 <li><a href="/wiki/Angola" title="Angola">Angola</a></li> 
+                 <li><a href="/wiki/Benin" title="Benin">Benin</a></li> 
+                 <li><a href="/wiki/Botswana" title="Botswana">Botswana</a></li> 
+                 <li><a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a></li> 
+                 <li><a href="/wiki/Burundi" title="Burundi">Burundi</a></li> 
+                 <li><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></li> 
+                 <li><a href="/wiki/Cape_Verde" title="Cape Verde">Cape Verde</a></li> 
+                 <li><a href="/wiki/Central_African_Republic" title="Central African Republic">Central African Republic</a></li> 
+                 <li><a href="/wiki/Chad" title="Chad">Chad</a></li> 
+                 <li><a href="/wiki/Comoros" title="Comoros">Comoros</a></li> 
+                 <li><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+                 <li><a href="/wiki/Republic_of_the_Congo" title="Republic of the Congo">Republic of the Congo</a></li> 
+                 <li><a href="/wiki/Djibouti" title="Djibouti">Djibouti</a></li> 
+                 <li><a href="/wiki/Egypt" title="Egypt">Egypt</a></li> 
+                 <li><a href="/wiki/Equatorial_Guinea" title="Equatorial Guinea">Equatorial Guinea</a></li> 
+                 <li><a href="/wiki/Eritrea" title="Eritrea">Eritrea</a></li> 
+                 <li><a href="/wiki/Eswatini" title="Eswatini">Eswatini</a></li> 
+                 <li><a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a></li> 
+                 <li><a href="/wiki/Gabon" title="Gabon">Gabon</a></li> 
+                 <li><a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a></li> 
+                 <li><a href="/wiki/Ghana" title="Ghana">Ghana</a></li> 
+                 <li><a href="/wiki/Guinea" title="Guinea">Guinea</a></li> 
+                 <li><a href="/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a></li> 
+                 <li><a href="/wiki/Ivory_Coast" title="Ivory Coast">Ivory Coast</a></li> 
+                 <li><a href="/wiki/Kenya" title="Kenya">Kenya</a></li> 
+                 <li><a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></li> 
+                 <li><a href="/wiki/Liberia" title="Liberia">Liberia</a></li> 
+                 <li><a href="/wiki/Libya" title="Libya">Libya</a></li> 
+                 <li><a href="/wiki/Madagascar" title="Madagascar">Madagascar</a></li> 
+                 <li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li> 
+                 <li><a href="/wiki/Mali" title="Mali">Mali</a></li> 
+                 <li><a href="/wiki/Mauritania" title="Mauritania">Mauritania</a></li> 
+                 <li><a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></li> 
+                 <li><a href="/wiki/Morocco" title="Morocco">Morocco</a></li> 
+                 <li><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></li> 
+                 <li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li> 
+                 <li><a href="/wiki/Niger" title="Niger">Niger</a></li> 
+                 <li><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></li> 
+                 <li><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a></li> 
+                 <li><a href="/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+                 <li><a href="/wiki/Senegal" title="Senegal">Senegal</a></li> 
+                 <li><a class="mw-selflink selflink">Seychelles</a></li> 
+                 <li><a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></li> 
+                 <li><a href="/wiki/Somalia" title="Somalia">Somalia</a></li> 
+                 <li><a href="/wiki/South_Africa" title="South Africa">South Africa</a></li> 
+                 <li><a href="/wiki/South_Sudan" title="South Sudan">South Sudan</a></li> 
+                 <li><a href="/wiki/Sudan" title="Sudan">Sudan</a></li> 
+                 <li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li> 
+                 <li><a href="/wiki/Togo" title="Togo">Togo</a></li> 
+                 <li><a href="/wiki/Tunisia" title="Tunisia">Tunisia</a></li> 
+                 <li><a href="/wiki/Uganda" title="Uganda">Uganda</a></li> 
+                 <li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li> 
+                 <li><a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Partly<br>in Africa</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/France" title="France">France</a> 
+                  <ul>
+                   <li><a href="/wiki/Mayotte" title="Mayotte">Mayotte</a></li> 
+                   <li><a href="/wiki/R%C3%A9union" title="Réunion">Réunion</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Italy" title="Italy">Italy</a> 
+                  <ul>
+                   <li><a href="/w/index.php?title=Pantelleria&amp;action=edit&amp;redlink=1" class="new" title="Pantelleria (not yet started)">Pantelleria</a></li> 
+                   <li><a href="/wiki/Pelagie_Islands" title="Pelagie Islands">Pelagie Islands</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Portugal" title="Portugal">Portugal</a> 
+                  <ul>
+                   <li><a href="/wiki/Madeira" class="mw-redirect" title="Madeira">Madeira</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Spain" title="Spain">Spain</a> 
+                  <ul>
+                   <li><a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a></li> 
+                   <li><a href="/wiki/Ceuta" title="Ceuta">Ceuta</a></li> 
+                   <li><a href="/wiki/Melilla" title="Melilla">Melilla</a></li> 
+                   <li><a href="/w/index.php?title=Plazas_de_soberan%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Plazas de soberanía (not yet started)">Plazas de soberanía</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Yemen" title="Yemen">Yemen</a> 
+                  <ul>
+                   <li><a href="/wiki/Socotra" title="Socotra">Socotra</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px;padding:0 1.0em 0 0.5em;">
+           <div>
+            <a href="/wiki/File:Africa_(orthographic_projection).svg" class="image" title="Orthographic projection of Africa"><img alt="Orthographic projection of Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/120px-Africa_%28orthographic_projection%29.svg.png" decoding="async" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/180px-Africa_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/240px-Africa_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/w/index.php?title=Territory_(subdivision)&amp;action=edit&amp;redlink=1" class="new" title="Territory (subdivision) (not yet started)">Territories</a> 
+            <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">and</span>
+            <br><a href="/wiki/Dependent_territory" title="Dependent territory">dependencies</a>
+           </div></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Scattered_Islands_in_the_Indian_Ocean" title="Scattered Islands in the Indian Ocean">Îles Éparses</a> 
+              <ul>
+               <li><span style="font-size:90%;">France</span></li>
+              </ul></li> 
+             <li><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</a> 
+              <ul>
+               <li><span style="font-size:90%;">UK</span></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with limited<br>recognition</a>
+           </div></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Sahrawi_Arab_Democratic_Republic" title="Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Somaliland" title="Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <sup><small>1</small></sup> <a href="/wiki/Territorial_dispute" class="mw-redirect" title="Territorial dispute">Unclear sovereignty</a>.
+            <br>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Members_of_the_Commonwealth_of_Nations" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Members_of_the_Commonwealth_of_Nations" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=Member_states_of_the_Commonwealth_of_Nations&amp;action=edit&amp;redlink=1" class="new" title="Member states of the Commonwealth of Nations (not yet started)">Members of the</a> <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" class="mw-redirect" title="List of sovereign states">Sovereign states</a> <br> (Members)</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Australia" title="Australia">Australia</a></li> 
+             <li><a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a></li> 
+             <li><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Barbados" title="Barbados">Barbados</a></li> 
+             <li><a href="/wiki/Belize" title="Belize">Belize</a></li> 
+             <li><a href="/wiki/Botswana" title="Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Brunei" title="Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Canada" title="Canada">Canada</a></li> 
+             <li><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Dominica" title="Dominica">Dominica</a></li> 
+             <li><a href="/wiki/Eswatini" title="Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Fiji" title="Fiji">Fiji</a></li> 
+             <li><a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Ghana" title="Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Grenada" title="Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Guyana" title="Guyana">Guyana</a></li> 
+             <li><a href="/wiki/India" title="India">India</a></li> 
+             <li><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Kenya" title="Kenya">Kenya</a></li> 
+             <li><a href="/wiki/Kiribati" title="Kiribati">Kiribati</a></li> 
+             <li><a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Malta" title="Malta">Malta</a></li> 
+             <li><a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Nauru" title="Nauru">Nauru</a></li> 
+             <li><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></li> 
+             <li><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">St. Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Saint_Lucia" title="Saint Lucia">St. Lucia</a></li> 
+             <li><a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">St. Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Samoa" title="Samoa">Samoa</a></li> 
+             <li><a class="mw-selflink selflink">Seychelles</a></li> 
+             <li><a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Singapore" title="Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a></li> 
+             <li><a href="/wiki/South_Africa" title="South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Tonga" title="Tonga">Tonga</a></li> 
+             <li><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a></li> 
+             <li><a href="/wiki/Uganda" title="Uganda">Uganda</a></li> 
+             <li><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a></li> 
+             <li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a><br> of Members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Australia</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Ashmore_and_Cartier_Islands" title="Ashmore and Cartier Islands">Ashmore and Cartier Islands</a></li> 
+                 <li><a href="/wiki/Australian_Antarctic_Territory" title="Australian Antarctic Territory">Australian Antarctic Territory</a></li> 
+                 <li><a href="/wiki/Christmas_Island" title="Christmas Island">Christmas Island</a></li> 
+                 <li><a href="/wiki/Cocos_(Keeling)_Islands" title="Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+                 <li><a href="/wiki/Coral_Sea_Islands" title="Coral Sea Islands">Coral Sea Islands</a></li> 
+                 <li><a href="/wiki/Heard_Island_and_McDonald_Islands" title="Heard Island and McDonald Islands">Heard Island and McDonald Islands</a></li> 
+                 <li><a href="/wiki/Norfolk_Island" title="Norfolk Island">Norfolk Island</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">New Zealand</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a></li> 
+                 <li><a href="/wiki/Niue" title="Niue">Niue</a></li> 
+                 <li><a href="/wiki/Ross_Dependency" title="Ross Dependency">Ross Dependency</a></li> 
+                 <li><a href="/wiki/Tokelau" title="Tokelau">Tokelau</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">United Kingdom</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a></li> 
+                 <li><a href="/wiki/Anguilla" title="Anguilla">Anguilla</a></li> 
+                 <li><a href="/wiki/Bermuda" title="Bermuda">Bermuda</a></li> 
+                 <li><a href="/wiki/British_Antarctic_Territory" title="British Antarctic Territory">British Antarctic Territory</a></li> 
+                 <li><a href="/wiki/British_Indian_Ocean_Territory" title="British Indian Ocean Territory">British Indian Ocean Territory</a></li> 
+                 <li><a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a></li> 
+                 <li><a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a></li> 
+                 <li><a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a></li> 
+                 <li><a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a></li> 
+                 <li><a href="/wiki/Guernsey" title="Guernsey">Guernsey</a></li> 
+                 <li><a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a></li> 
+                 <li><a href="/wiki/Jersey" title="Jersey">Jersey</a></li> 
+                 <li><a href="/wiki/Montserrat" title="Montserrat">Montserrat</a></li> 
+                 <li><a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">Pitcairn Islands</a></li> 
+                 <li><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">St. Helena, Ascension and Tristan da Cunha</a></li> 
+                 <li><a href="/wiki/South_Georgia_and_the_South_Sandwich_Islands" title="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</a></li> 
+                 <li><a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            Source: <a rel="nofollow" class="external text" href="http://www.thecommonwealth.org/Internal/142227/members/">Commonwealth Secretariat - Member States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1042&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1042&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1042" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Bibsys" title="Bibsys">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90743720">90743720</a></span></span></li> 
+             <li><span class="nowrap"><a href="/w/index.php?title=Biblioteca_Nacional_de_Chile&amp;action=edit&amp;redlink=1" class="new" title="Biblioteca Nacional de Chile (not yet started)">BNC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.bncatalogo.cl/F?func=direct&amp;local_base=red10&amp;doc_number=000219799">000219799</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" class="mw-redirect" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX453108">XX453108</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb12002381k">cb12002381k</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb12002381k">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/CiNii" title="CiNii">CiNii</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ci.nii.ac.jp/author/DA01576248?l=en">DA01576248</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4054694-9">4054694-9</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000040459108X">0000 0004 0459 108X</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n79071099">n79071099</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/be43ea01-053a-3b23-b03d-2df8317a57ff">be43ea01-053a-3b23-b03d-2df8317a57ff</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10035806">10035806</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00576370">00576370</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge130797&amp;CON_LNG=ENG">ge130797</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35491246">35491246</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=000975881&amp;local_base=nlx10">000975881</a></span></span></li> 
+             <li><span class="nowrap"><a href="/w/index.php?title=RERO_(Library_Network_of_Western_Switzerland)&amp;action=edit&amp;redlink=1" class="new" title="RERO (Library Network of Western Switzerland) (not yet started)">RERO</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.rero.ch/02-A000148649">02-A000148649</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/165095">165095</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/028127587">028127587</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/141529571">141529571</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n79071099">lccn-n79071099</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1293
+Cached time: 20201215234529
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.788 seconds
+Real time usage: 0.987 seconds
+Preprocessor visited node count: 4025/1000000
+Post‐expand include size: 97064/2097152 bytes
+Template argument size: 5110/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 25/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 25740/5000000 bytes
+Lua time usage: 0.446/10.000 seconds
+Lua memory usage: 7748687/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  835.353      1 -total
+ 40.51%  338.423      1 Template:Infobox_country
+ 38.97%  325.542      3 Template:Infobox
+ 29.02%  242.388      1 Template:Authority_control
+ 19.44%  162.430      1 Template:Reflist
+ 13.45%  112.378      1 Template:Cite_journal
+  6.96%   58.115      4 Template:Navbox
+  6.59%   55.077      1 Template:Africa
+  6.47%   54.063      1 Template:Infobox_country/imagetable
+  5.57%   46.529      3 Template:ISO_3166_code
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:19315-0!canonical and timestamp 20201215234529 and revision id 7187612. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Seychelles&amp;oldid=7187612">https://simple.wikipedia.org/w/index.php?title=Seychelles&amp;oldid=7187612</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Seychelles" title="Category:Seychelles">Seychelles</a></li>
+       <li><a href="/wiki/Category:English-speaking_countries" title="Category:English-speaking countries">English-speaking countries</a></li>
+       <li><a href="/wiki/Category:French-speaking_countries" title="Category:French-speaking countries">French-speaking countries</a></li>
+       <li><a href="/wiki/Category:Gondwana" title="Category:Gondwana">Gondwana</a></li>
+       <li><a href="/wiki/Category:1976_establishments_in_Africa" title="Category:1976 establishments in Africa">1976 establishments in Africa</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_errors:_invisible_characters" title="Category:CS1 errors: invisible characters">CS1 errors: invisible characters</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNC_identifiers" title="Category:Wikipedia articles with BNC identifiers">Wikipedia articles with BNC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_CINII_identifiers" title="Category:Wikipedia articles with CINII identifiers">Wikipedia articles with CINII identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_RERO_identifiers" title="Category:Wikipedia articles with RERO identifiers">Wikipedia articles with RERO identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Seychelles" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Seychelles" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Seychelles" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Seychelles" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Seychelles">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Seychelles&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Seychelles&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Seychelles&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Seychelles" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Seychelles" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Seychelles&amp;oldid=7187612" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Seychelles&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Seychelles&amp;id=7187612&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1042" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Seychelles">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Seychelles&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Seychelles&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Seychelles" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Seychelle" title="Seychelle – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Seychellen" title="Seychellen – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%88%B2%E1%88%B8%E1%88%8D%E1%88%B5" title="ሲሸልስ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Seychelleh" title="Seychelleh – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B4%D9%84" title="سيشل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Seychelles" title="Seychelles – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/S%C3%AAch%C2%B7%C3%A8les" title="Sêch·èles – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Seixeles" title="Seixeles – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/S%C3%A9ichele" title="Séichele – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Sey%C5%9Fel_adalar%C4%B1" title="Seyşel adaları – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B4%D9%84" title="سیشل – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Seychelles" title="Seychelles – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Seshel" title="Seshel – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B2" title="সেশেল – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Seychelles" title="Seychelles – Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Seychelles" title="Seychelles – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB_%D0%A3%D1%82%D1%80%D0%B0%D1%83%D2%99%D0%B0%D1%80%D1%8B" title="Сейшел Утрауҙары – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D1%8D%D0%BB%D1%8C%D1%81%D0%BA%D1%96%D1%8F_%D0%90%D1%81%D1%82%D1%80%D0%B0%D0%B2%D1%8B" title="Сейшэльскія Астравы – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A1%D1%8D%D0%B9%D1%88%D1%8D%D0%BB%D1%8B" title="Сэйшэлы – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B6%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%B8" title="सेशेल्स – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Seytsilyes" title="Seytsilyes – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D0%B8" title="Сейшели – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Seychelln" title="Seychelln – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%A6%E0%BD%BA%E0%BC%8B%E0%BD%9E%E0%BD%BA%E0%BD%A3%E0%BC%8D" title="སེ་ཞེལ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Sej%C5%A1eli" title="Sejšeli – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Sechelez" title="Sechelez – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D0%B8%D0%B8%D0%BD_%D0%B0%D1%80%D0%B0%D0%BB%D0%BD%D1%83%D1%83%D0%B4" title="Сейшелиин аралнууд – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Seychelles" title="Seychelles – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB_%D1%83%D1%82%D1%80%D0%B0%D0%B2%C4%95%D1%81%D0%B5%D0%BC" title="Сейшел утравĕсем – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Seychelles" title="Seychelles – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Seychely" title="Seychely – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Seychelles" title="Seychelles – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Seychelles" title="Seychelles – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Seychelles" title="Seychelles – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Seychellerne" title="Seychellerne – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B4%D9%8A%D9%84" title="سيشيل – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Seychellat" title="Seychellat – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Seychellen" title="Seychellen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%8C%DE%AD%DE%82%DE%B0%DE%8E%DE%A6%DE%8B%DE%A9%DE%84%DE%AA" title="ތޭންގަދީބު – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Seychelle" title="Seychelle – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%B8" title="सेसेल्स – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Sei%C5%A1ellid" title="Seišellid – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%B5%CF%8B%CF%87%CE%AD%CE%BB%CE%BB%CE%B5%CF%82" title="Σεϋχέλλες – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Seychelles" title="Seychelles – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Seychelles" title="Seychelles – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Sej%C5%9Deloj" title="Sejŝeloj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Seychelles" title="Seychelles – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Seychelleak" title="Seychelleak – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B4%D9%84" title="سیشل – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Seychelles" title="Seychelles – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Seyskelloyggjar" title="Seyskelloyggjar – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Seychelles" title="Seychelles – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Seysjellen" title="Seysjellen – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Na_S%C3%A9is%C3%A9il" title="Na Séiséil – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Ny_h-Ellanyn_Heshell" title="Ny h-Ellanyn Heshell – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Sey%C5%9Feller" title="Seyşeller – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Na_h-Eileanan_Sheiseall" title="Na h-Eileanan Sheiseall – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Seychelles" title="Seychelles – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Seychelles" title="Seychelles – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Seychelles" title="Seychelles – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB_%D0%90%D1%80%D0%BB%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Сейшел Арлин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%84%B8%EC%9D%B4%EC%85%B8" title="세이셸 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Seychelles" title="Seychelles – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%A5%D5%B5%D5%B7%D5%A5%D5%AC%D5%B5%D5%A1%D5%B6_%D5%AF%D5%B2%D5%A6%D5%AB%D5%B6%D5%A5%D6%80" title="Սեյշելյան կղզիներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B6%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%B8" title="सेशेल्स – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Seychelle" title="Seychelle – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Sej%C5%A1eli" title="Sejšeli – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Seycheli" title="Seycheli – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Seychelles" title="Seychelles – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Seychelles" title="Seychelles – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%B8%E0%A7%87%E0%A6%87%E0%A6%B6%E0%A7%87%E0%A6%B2_%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%AA%E0%A6%AA%E0%A7%81%E0%A6%9E%E0%A7%8D%E0%A6%9C" title="সেইশেল দ্বীপপুঞ্জ – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Seychelles" title="Seychelles – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Seychelles" title="Seychelles – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Seychelles" title="Seychelles – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D1%82%C3%A6" title="Сейшелтæ – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/IsiSeyisheli" title="IsiSeyisheli – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Seychelles-eyjar" title="Seychelles-eyjar – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Seychelles" title="Seychelles – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%99%D7%A9%D7%9C" title="סיישל – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/S%C3%A8ych%C3%A8lles" title="Sèychèlles – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B3%86%E0%B2%B6%E0%B3%86%E0%B2%B2%E0%B3%8D%E0%B2%B8%E0%B3%8D" title="ಸೆಶೆಲ್ಸ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Seychelles" title="Seychelles – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%94%E1%83%98%E1%83%A8%E1%83%94%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%99%E1%83%A3%E1%83%9C%E1%83%AB%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%98" title="სეიშელის კუნძულები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D1%8C_%D0%B0%D1%80%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%D1%8B" title="Сейшель аралдары – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Seychellys" title="Seychellys – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Seyishele" title="Seyishele – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Shelisheli" title="Shelisheli – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Seychell" title="Seychell – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Seycella" title="Seycella – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Sech%C3%A8l" title="Sechèl – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/S%C3%A9ch%C3%A8l" title="Séchèl – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Sey%C5%9Fel" title="Seyşel – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB_%D0%90%D1%80%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%D1%8B" title="Сейшел Аралдары – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D0%B2%D0%BB%D3%93" title="Сейшелвлӓ – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Seychelles" title="Seychelles – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B4%D9%84" title="سیشل – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Insulae_Seisellenses" title="Insulae Seisellenses – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Sei%C5%A1elas" title="Seišelas – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Seychellen" title="Seychellen – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Sei%C5%A1eliai" title="Seišeliai – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Seychelles" title="Seychelles – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Seychelle" title="Seychelle – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Seyshel" title="Seyshel – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Sexeles" title="Sexeles – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Sei%C5%A1ellit" title="Seišellit – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lg"><a href="https://lg.wikipedia.org/wiki/Seychelles" title="Seychelles – Ganda" lang="lg" hreflang="lg" class="interlanguage-link-target">Luganda</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Seychelles" title="Seychelles – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Seychelle-szigetek" title="Seychelle-szigetek – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%98%D1%88%D0%B5%D0%BB%D0%B8" title="Сејшели – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Seisely" title="Seisely – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%86%E0%B4%AF%E0%B5%8D%E2%80%8C%E0%B4%B7%E0%B5%86%E0%B5%BD%E0%B4%B8%E0%B5%8D" title="സെയ്‌ഷെൽസ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Seychelles" title="Seychelles – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B6%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%B8" title="सेशेल्स – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A1%E1%83%94%E1%83%98%E1%83%A8%E1%83%94%E1%83%9A%E1%83%98%E1%83%A8_%E1%83%99%E1%83%9D%E1%83%99%E1%83%94%E1%83%A4%E1%83%98" title="სეიშელიშ კოკეფი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B4%D9%8A%D9%84" title="سيشيل – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B4%D9%84" title="سیشل – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Seychelles" title="Seychelles – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Seychelles" title="Seychelles – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%86%E1%80%B1%E1%80%B8%E1%80%9B%E1%80%BE%E1%80%B2%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ဆေးရှဲနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Seychelles" title="Seychelles – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Seychellen" title="Seychellen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Seychellen" title="Seychellen – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB" title="セーシェル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D0%B0%D0%BD_%D0%B3%D3%80%D0%B0%D0%B9%D1%80%D0%B5%D0%BD%D0%B0%D1%88" title="Сейшелан гӀайренаш – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Seschelen" title="Seschelen – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Sieshels" title="Sieshels – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Seychellene" title="Seychellene – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Seychellane" title="Seychellane – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Seyshels" title="Seyshels – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Seich%C3%A8las" title="Seichèlas – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB-%D0%B2%D0%BB%D0%B0%D0%BA" title="Сейшел-влак – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Siishelsi" title="Siishelsi – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Seyshell_orollari" title="Seyshell orollari – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A9%87%E0%A8%B8%E0%A8%BC%E0%A9%88%E0%A8%B2" title="ਸੇਸ਼ੈਲ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B6%E0%A5%87%E0%A4%B2" title="सेशेल – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%B3%D8%B4%D9%84%D8%B2" title="سشلز – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B4%D9%84" title="سیشل – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Seishelz" title="Seishelz – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Seychelles" title="Seychelles – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Seychellen" title="Seychellen – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Seszele" title="Seszele – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Seicheles" title="Seicheles – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Seyshel_atawlar%C4%B1" title="Seyshel atawları – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Sey%C5%9Feller" title="Seyşeller – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Seychelles" title="Seychelles – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Seychellas" title="Seychellas – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Sichillakuna" title="Sichillakuna – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0" title="Сейшельские Острова – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D0%BB%D0%B0%D1%80" title="Сейшеллар – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Seychelles" title="Seychelles – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%B6%E0%A5%87%E0%A4%B2" title="सेशेल – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/S%C3%ABysh%C3%AAle" title="Sëyshêle – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Seychelles" title="Seychelles – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Seychelles" title="Seychelles – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Seychelle" title="Seychelle – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Seychelles" title="Seychelles – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Seychelles" title="Seychelles – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Sejshellet" title="Sejshellet – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Seicelli" title="Seicelli – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%83%E0%B7%93%E0%B7%82%E0%B7%99%E0%B6%BD%E0%B7%8A%E0%B7%83%E0%B7%8A" title="සීෂෙල්ස් – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%B3%D9%8A%DA%86%D9%8A%D9%84%D9%8A%D8%B3" title="سيچيليس – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/ISeyishelesi" title="ISeyishelesi – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Seychely" title="Seychely – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Sej%C5%A1eli" title="Sejšeli – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Seszele" title="Seszele – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Seyshelles" title="Seyshelles – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B4%DB%8E%D9%84" title="سیشێل – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D1%98%D1%88%D0%B5%D0%BB%D0%B8" title="Сејшели – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Sej%C5%A1eli" title="Sejšeli – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Seych%C3%A9ll" title="Seychéll – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Seychellit" title="Seychellit – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Seychellerna" title="Seychellerna – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Seychelles" title="Seychelles – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%80%E0%AE%9A%E0%AF%86%E0%AE%B2%E0%AF%8D%E0%AE%9A%E0%AF%81" title="சீசெல்சு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Seychelles" title="Seychelles – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB_%D1%83%D1%82%D1%80%D0%B0%D1%83%D0%BB%D0%B0%D1%80%D1%8B" title="Сейшел утраулары – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%B1%E1%80%B8%E1%80%9E%E1%80%BB%E1%82%84%E1%82%87" title="မိူင်းသေးသျႄႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B1%87%E0%B0%9A%E0%B1%86%E0%B0%B2%E0%B1%8D%E0%B0%B2%E0%B0%BF%E0%B0%B8%E0%B1%8D" title="సేచెల్లిస్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%8A%E0%B8%A5%E0%B8%AA%E0%B9%8C" title="ประเทศเซเชลส์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB" title="Сейшел – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Sey%C5%9Feller" title="Seyşeller – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Se%C3%BD%C5%9Fel_Adalary" title="Seýşel Adalary – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB_%D1%88%D0%BE%D1%80%D0%BC%D1%83%D3%B5%D1%8A%D1%91%D1%81" title="Сейшел шормуӵъёс – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8" title="Сейшельські Острови – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B4%DB%8C%D9%84%D8%B2" title="سیشیلز – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%B3%DB%90%D9%8A%D8%B4%DB%90%D9%84_%D8%A6%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%89%D8%B1%D9%89" title="سېيشېل ئاراللىرى – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Seychelles" title="Seychelles – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Seychelles" title="Seychelles – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Sei%C5%A1elan_Sared" title="Seišelan Sared – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Seychelles" title="Seychelles – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/S%C3%A4celu%C3%A4ns" title="Säceluäns – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%A1%9E%E5%B8%AD%E7%88%BE" title="塞席爾 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Seychelles" title="Seychelles – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Seysel" title="Seysel – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%A1%9E%E8%88%8C%E5%B0%94" title="塞舌尔 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Seychelles" title="Seychelles – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A1%D7%99%D7%99%D7%A9%D7%A2%D7%9C" title="סיישעל – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%E1%B9%A2%C3%A8%C3%ADh%E1%BA%B9%CC%81l%E1%BA%B9%CC%81s%C3%AC" title="Ṣèíhẹ́lẹ́sì – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%A1%9E%E8%88%8C%E7%88%BE" title="塞舌爾 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Sey%C5%9Feli" title="Seyşeli – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Seychell%27n" title="Seychell'n – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Sei%C5%A1el%C4%93" title="Seišelē – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A1%9E%E8%88%8C%E5%B0%94" title="塞舌尔 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1042#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 22 November 2020, at 20:47.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Seychelles&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.788","walltime":"0.987","ppvisitednodes":{"value":4025,"limit":1000000},"postexpandincludesize":{"value":97064,"limit":2097152},"templateargumentsize":{"value":5110,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":25740,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  835.353      1 -total"," 40.51%  338.423      1 Template:Infobox_country"," 38.97%  325.542      3 Template:Infobox"," 29.02%  242.388      1 Template:Authority_control"," 19.44%  162.430      1 Template:Reflist"," 13.45%  112.378      1 Template:Cite_journal","  6.96%   58.115      4 Template:Navbox","  6.59%   55.077      1 Template:Africa","  6.47%   54.063      1 Template:Infobox_country/imagetable","  5.57%   46.529      3 Template:ISO_3166_code"]},"scribunto":{"limitreport-timeusage":{"value":"0.446","limit":"10.000"},"limitreport-memusage":{"value":7748687,"limit":52428800}},"cachereport":{"origin":"mw1293","timestamp":"20201215234529","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Seychelles","url":"https:\/\/simple.wikipedia.org\/wiki\/Seychelles","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1042","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1042","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-15T00:45:52Z","dateModified":"2020-11-22T20:47:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fc\/Flag_of_Seychelles.svg","headline":"island sovereign state off the eastern coast of Africa"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":276,"wgHostname":"mw1327"});});</script> 
+ </body>
+</html>

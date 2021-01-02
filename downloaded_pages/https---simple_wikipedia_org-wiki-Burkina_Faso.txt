@@ -1,0 +1,1100 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Burkina Faso - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X97jLgpAIC8AAJeWZmAAAAAT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Burkina_Faso","wgTitle":"Burkina Faso","wgCurRevisionId":7056898,"wgRevisionId":7056898,"wgArticleId":19175,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: URL–wikilink conflict","CS1 French-language sources (fr)","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers",
+"Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with RERO identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with TDVİA identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Burkina Faso","Least developed countries","Members of the Organisation of Islamic Cooperation","1960 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Burkina_Faso","wgRelevantArticleId":19175,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q965"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
+"ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1200px-Flag_of_Burkina_Faso.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Burkina_Faso"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Burkina_Faso&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Burkina_Faso&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Burkina_Faso"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Burkina_Faso rootpage-Burkina_Faso skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Burkina Faso</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Burkina Faso
+          </div><br></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Burkina_Faso.svg" class="image" title="Flag of Burkina Faso"><img alt="Flag of Burkina Faso" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/125px-Flag_of_Burkina_Faso.svg.png" decoding="async" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/188px-Flag_of_Burkina_Faso.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/250px-Flag_of_Burkina_Faso.svg.png 2x" data-file-width="900" data-file-height="600"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Burkina_Faso" title="Flag of Burkina Faso">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Burkina_Faso.svg" class="image" title="Coat of arms of Burkina Faso"><img alt="Coat of arms of Burkina Faso" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_Burkina_Faso.svg/85px-Coat_of_arms_of_Burkina_Faso.svg.png" decoding="async" width="85" height="103" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_Burkina_Faso.svg/128px-Coat_of_arms_of_Burkina_Faso.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_Burkina_Faso.svg/170px-Coat_of_arms_of_Burkina_Faso.svg.png 2x" data-file-width="703" data-file-height="852"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b><i>"Unité-Progrès-Justice"</i>
+           <br><i>("Unity, Progress, Justice")</i>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><i><a href="/w/index.php?title=Une_Seule_Nuit&amp;action=edit&amp;redlink=1" class="new" title="Une Seule Nuit (not yet started)">Une Seule Nuit</a></i><span class="nowrap">&nbsp;&nbsp;</span><small>(French)<br><i>One Single Night</i> – Thomas Sankara<i></i></small>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Location_Burkina_Faso_AU_Africa.svg" class="image" title="Location of &nbsp;Burkina Faso&nbsp;&nbsp;(dark blue) –&nbsp;in Africa&nbsp;&nbsp;(light blue &amp;&nbsp;dark grey) –&nbsp;in the African Union&nbsp;&nbsp;(light blue)&nbsp; —&nbsp; [Legend]"><img alt="Location of &nbsp;Burkina Faso&nbsp;&nbsp;(dark blue) –&nbsp;in Africa&nbsp;&nbsp;(light blue &amp;&nbsp;dark grey) –&nbsp;in the African Union&nbsp;&nbsp;(light blue)&nbsp; —&nbsp; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Burkina_Faso_AU_Africa.svg/250px-Location_Burkina_Faso_AU_Africa.svg.png" decoding="async" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Burkina_Faso_AU_Africa.svg/375px-Location_Burkina_Faso_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Burkina_Faso_AU_Africa.svg/500px-Location_Burkina_Faso_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Burkina Faso</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+            <p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&nbsp;in <a href="/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">light blue &amp;&nbsp;dark grey</span>)<br>–&nbsp;in the <a href="/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">light blue</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:Location_Burkina_Faso_AU_Africa.svg" title="File:Location Burkina Faso AU Africa.svg">Legend</a></span>]</p>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Ouagadougou" title="Ouagadougou">Ouagadougou</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Burkina_Faso&amp;params=12_20_N_1_40_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">12°20′N</span> <span class="longitude">1°40′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">12.333°N 1.667°W</span><span style="display:none">﻿ / <span class="geo">12.333; -1.667</span></span></span></a></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/French_language" title="French language">French</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row"><span style="font-weight:normal;">Recognised regional&nbsp;languages</span></th>
+         <td><a href="/w/index.php?title=M%C3%B2or%C3%A9_language&amp;action=edit&amp;redlink=1" class="new" title="Mòoré language (not yet started)">Mòoré</a>, <a href="/w/index.php?title=Dioula_language&amp;action=edit&amp;redlink=1" class="new" title="Dioula language (not yet started)">Dioula</a> (<a href="/wiki/Bambara_language" title="Bambara language">Bambara</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>Burkinabé (also Burkinabè and Burkinabe)</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Semi-presidential_system" title="Semi-presidential system">Semi-presidential</a> republic</td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_Burkina_Faso" class="mw-redirect" title="President of Burkina Faso">President</a> 
+          </div></th>
+         <td><a href="/wiki/Roch_Marc_Christian_Kabor%C3%A9" title="Roch Marc Christian Kaboré">Roch Marc Christian Kaboré</a><sup id="cite_ref-BBC_1-0" class="reference"><a href="#cite_note-BBC-1">[1]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/List_of_Prime_Ministers_of_Burkina_Faso" title="List of Prime Ministers of Burkina Faso">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Paul_Kaba_Thieba" title="Paul Kaba Thieba">Paul Kaba Thieba</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        </tr>
+        <tr class="mergedbottomrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from <a href="/wiki/France" title="France">France</a> 
+          </div></th>
+         <td>5 August 1960</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>274,200&nbsp;km<sup>2</sup> (105,900&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">74th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>0.146%</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2010 estimate
+          </div></th>
+         <td>15,730,977<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">64th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2006&nbsp;census
+          </div></th>
+         <td>14,017,262</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>57.4/km<sup>2</sup> (148.7/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">145th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2010&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$19.992&nbsp;billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$1,360<sup id="cite_ref-imf2_3-1" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2010&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$8.781&nbsp;billion<sup id="cite_ref-imf2_3-2" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$597<sup id="cite_ref-imf2_3-3" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2007)</span></th>
+         <td>39.5<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2007)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.389<br><span style="white-space:nowrap;"><span style="color:red">low</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">177th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=West_African_CFA_franc&amp;action=edit&amp;redlink=1" class="new" title="West African CFA franc (not yet started)">West African CFA franc</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> (<a href="/wiki/ISO_4217" title="ISO 4217">XOF</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0</span></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td>not observed</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td>226</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:BF&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:BF (not yet started)">BF</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.bf" class="mw-redirect" title=".bf">.bf</a></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="margin-left:1em;"> 
+            <li value="1">The data here is an estimation for the year 2005 produced by the International Monetary Fund in April 2005.</li> 
+           </ol>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Burkina Faso</b> is a <a href="/wiki/Country" title="Country">country</a> in West <a href="/wiki/Africa" title="Africa">Africa</a>. It used to be called <a href="/wiki/Upper_Volta" title="Upper Volta">Upper Volta</a> and the name was changed to Burkina Faso in 1984. The country was once ruled by <a href="/wiki/France" title="France">France</a>, but it has been independent since 1960. The capital is <a href="/wiki/Ouagadougou" title="Ouagadougou">Ouagadougou</a>. </p>
+      <p>In 2005, about 13,228,000 people lived in the country. It is next to <a href="/wiki/Mali" title="Mali">Mali</a>, <a href="/wiki/Niger" title="Niger">Niger</a>, <a href="/wiki/Benin" title="Benin">Benin</a>, <a href="/wiki/Togo" title="Togo">Togo</a>, <a href="/wiki/Ghana" title="Ghana">Ghana</a> and <a href="/wiki/C%C3%B4te_d%27Ivoire" class="mw-redirect" title="Côte d'Ivoire">Côte d'Ivoire</a>. It does not have any <a href="/wiki/Coast" title="Coast">coast</a> with an <a href="/wiki/Ocean" title="Ocean">ocean</a> or <a href="/wiki/Sea" title="Sea">sea</a>. People from Burkina Faso are called Burkinabé (pronounced burr-KEE-na-bay). </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Regions,_provinces,_and_departments"><span class="tocnumber">2</span> <span class="toctext">Regions, provinces, and departments</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Cities"><span class="tocnumber">3</span> <span class="toctext">Cities</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Geography_and_climate"><span class="tocnumber">4</span> <span class="toctext">Geography and climate</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Culture"><span class="tocnumber">5</span> <span class="toctext">Culture</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Related_pages"><span class="tocnumber">6</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Other_websites"><span class="tocnumber">8</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>People have lived in the area of Burkina Faso for thousands of years. At first, they were <a href="/wiki/Hunter-gatherer" title="Hunter-gatherer">hunter-gatherers</a>, <a href="/wiki/Hunting" title="Hunting">hunting</a> animals and collecting <a href="/wiki/Fruit" title="Fruit">fruits</a> and <a href="/wiki/Vegetable" title="Vegetable">vegetables</a>.<sup id="cite_ref-POA_6-0" class="reference"><a href="#cite_note-POA-6">[6]</a></sup> Later they became <a href="/wiki/Farmer" title="Farmer">farmers</a>. People called the <a href="/wiki/Mossi" title="Mossi">Mossi</a> arrived between the 11th and 13th centuries.<sup id="cite_ref-POA_6-1" class="reference"><a href="#cite_note-POA-6">[6]</a></sup> They ruled the area until the end of the 19th century. In 1896 <a href="/wiki/France" title="France">France</a> beat the Mossi kingdom and became the <a href="/wiki/Colonialism" title="Colonialism">colonial</a> rulers of Burkina Faso. After <a href="/wiki/World_War_I" title="World War I">World War I</a>, the country was called <a href="/wiki/Upper_Volta" title="Upper Volta">Upper Volta</a>. </p>
+      <p>In 1960, Upper Volta became independent from France. The first <a href="/wiki/President" title="President">president</a> of the new country was <a href="/wiki/Maurice_Yam%C3%A9ogo" title="Maurice Yaméogo">Maurice Yaméogo</a>. After he became the president, Yaméogo banned other <a href="/wiki/Political_party" title="Political party">political parties</a>. For several years the people of Upper Volta were very unhappy with the government and in 1966 the <a href="/wiki/Military" title="Military">military</a> took over in a military <a href="/wiki/Coup_d%27%C3%A9tat" title="Coup d'état">coup</a>. In 1983 the government was taken over again by military men called <a href="/wiki/Thomas_Sankara" title="Thomas Sankara">Thomas Sankara</a> and <a href="/wiki/Blaise_Compaor%C3%A9" title="Blaise Compaoré">Blaise Compaoré</a>. Sankara became president. In 1984, he changed the name of the country to Burkina Faso. It means "land of honest people".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p>
+      <p>In December 1985, Burkina Faso went to war for five days with near-by country <a href="/wiki/Mali" title="Mali">Mali</a>. In 1987, there was another military coup and Sankara was <a href="/wiki/Assassination" title="Assassination">assassinated</a> (murdered). Blaise Compaoré became the president. </p>
+      <p>On 28 October 2014 protesters began to march and demonstrate in Ouagadougou. Compaoré was ready to change the constitution and <a href="https://simple.wiktionary.org/wiki/extend" class="extiw" title="wikt:extend">extend</a>his 27-year rule. On 30 October 2014, some protesters set fire to the parliament.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> They also took over the national television headquarters.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> On 31 October 2014, President Compaoré, resigned after 27 years in office.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p>
+      <p>In 2015 the country held their first election. Roch Marc Christian Kabore, a former Prime Minister, was elected as President.<sup id="cite_ref-BBC_1-1" class="reference"><a href="#cite_note-BBC-1">[1]</a></sup> </p> 
+      <h2><span id="Regions.2C_provinces.2C_and_departments"></span><span class="mw-headline" id="Regions,_provinces,_and_departments">Regions, provinces, and departments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Regions, provinces, and departments">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=2" title="Change section: Regions, provinces, and departments">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Burkina Faso is divided into thirteen regions, forty-five <a href="/wiki/Provinces_of_Burkina_Faso" title="Provinces of Burkina Faso">provinces</a>, and 301 departments. The regions are: </p> 
+      <ul>
+       <li><a href="/wiki/Boucle_du_Mouhoun_Region" title="Boucle du Mouhoun Region"><i>Boucle du Mouhoun</i></a></li> 
+       <li><a href="/wiki/Cascades_Region" title="Cascades Region"><i>Cascades</i></a></li> 
+       <li><a href="/wiki/Centre_Region_(Burkina_Faso)" title="Centre Region (Burkina Faso)"><i>Centre</i></a></li> 
+       <li><a href="/wiki/Centre-Est_Region" title="Centre-Est Region"><i>Centre-Est</i></a></li> 
+       <li><a href="/wiki/Centre-Nord_Region" title="Centre-Nord Region"><i>Centre-Nord</i></a></li> 
+       <li><a href="/wiki/Centre-Ouest_Region" title="Centre-Ouest Region"><i>Centre-Ouest</i></a></li> 
+       <li><a href="/wiki/Centre-Sud_Region" title="Centre-Sud Region"><i>Centre-Sud</i></a></li> 
+       <li><a href="/wiki/Est_Region_(Burkina_Faso)" title="Est Region (Burkina Faso)"><i>Est</i></a></li> 
+       <li><a href="/wiki/Hauts-Bassins_Region" title="Hauts-Bassins Region"><i>Hauts-Bassins</i></a></li> 
+       <li><a href="/wiki/Nord_Region_(Burkina_Faso)" title="Nord Region (Burkina Faso)"><i>Nord</i></a></li> 
+       <li><a href="/wiki/Plateau-Central_Region" title="Plateau-Central Region"><i>Plateau-Central</i></a></li> 
+       <li><a href="/wiki/Sahel_Region" title="Sahel Region"><i>Sahel</i></a></li> 
+       <li><a href="/wiki/Sud-Ouest_Region_(Burkina_Faso)" title="Sud-Ouest Region (Burkina Faso)"><i>Sud-Ouest</i></a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Cities">Cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Cities">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=3" title="Change section: Cities">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Below is a list of the largest cities in Burkina Faso. For other cities see <a href="/wiki/List_of_cities_in_Burkina_Faso" class="mw-redirect" title="List of cities in Burkina Faso">List of cities in Burkina Faso</a>. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>City </th> 
+         <th>Population (Census 2006)<sup id="cite_ref-c2006_11-0" class="reference"><a href="#cite_note-c2006-11">[11]</a></sup> </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Ouagadougou" title="Ouagadougou">Ouagadougou</a></td> 
+         <td>1,181,702 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Bobo_Dioulasso" class="mw-redirect" title="Bobo Dioulasso">Bobo Dioulasso</a></td> 
+         <td>435,543 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Koudougou" title="Koudougou">Koudougou</a></td> 
+         <td>82,720 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Banfora" title="Banfora">Banfora</a></td> 
+         <td>72,144 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Ouahigouya" title="Ouahigouya">Ouahigouya</a></td> 
+         <td>70,957 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Kaya,_Burkina_Faso&amp;action=edit&amp;redlink=1" class="new" title="Kaya, Burkina Faso (not yet started)">Kaya</a></td> 
+         <td>25,880 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tenkodogo" title="Tenkodogo">Tenkodogo</a></td> 
+         <td>40,839 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Fada_N%27gourma" title="Fada N'gourma">Fada N'gourma</a></td> 
+         <td>40,815 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/D%C3%A9dougou" title="Dédougou">Dédougou</a></td> 
+         <td>37,793 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Hound%C3%A9" title="Houndé">Houndé</a></td> 
+         <td>34,669 </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Geography_and_climate">Geography and climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Geography and climate">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=4" title="Change section: Geography and climate">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Waterfalls_at_Karfiguela,_Burkina_Faso.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Waterfalls_at_Karfiguela%2C_Burkina_Faso.jpg/220px-Waterfalls_at_Karfiguela%2C_Burkina_Faso.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Waterfalls_at_Karfiguela%2C_Burkina_Faso.jpg/330px-Waterfalls_at_Karfiguela%2C_Burkina_Faso.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Waterfalls_at_Karfiguela%2C_Burkina_Faso.jpg/440px-Waterfalls_at_Karfiguela%2C_Burkina_Faso.jpg 2x" data-file-width="2592" data-file-height="1944"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Waterfalls_at_Karfiguela,_Burkina_Faso.jpg" class="internal" title="Enlarge"></a>
+         </div>Waterfalls at <a href="/w/index.php?title=Karfiguela&amp;action=edit&amp;redlink=1" class="new" title="Karfiguela (not yet started)">Karfiguela</a>, Burkina Faso
+        </div>
+       </div>
+      </div> 
+      <p>Burkina Faso is made up of two major types of countryside. The larger part of the country is covered by a <a href="/w/index.php?title=Peneplain&amp;action=edit&amp;redlink=1" class="new" title="Peneplain (not yet started)">peneplain</a>. It has a gently undulating landscape with a few isolated hills. The southwest of the country forms a <a href="/wiki/Sandstone" title="Sandstone">sandstone</a> <a href="/wiki/Massif" title="Massif">massif</a>. The highest peak, Ténakourou, is found at an elevation of 749 meters (2,457&nbsp;ft). The area is bordered by sheer cliffs up to 150 meters (492&nbsp;ft) high. The average altitude of Burkina Faso is 400 meters (1,312&nbsp;ft). The difference between the highest and lowest terrain is no greater than 600 meters (1,969&nbsp;ft). Burkina Faso is a mostly flat country. </p>
+      <p>Burkina Faso has a tropical climate with two distinct seasons. In the rainy season, the country receives between 600 and 900 millimeters (23.6 and 35.4&nbsp;in) of rainfall. In the dry season, the <a href="/w/index.php?title=Harmattan&amp;action=edit&amp;redlink=1" class="new" title="Harmattan (not yet started)">harmattan</a> – a hot dry wind from the Sahara – blows. The rainy season lasts about four months, from May/June to September. It is shorter in the north of the country. </p>
+      <p>Burkina Faso's natural resources include <a href="/wiki/Manganese" title="Manganese">manganese</a>, <a href="/wiki/Limestone" title="Limestone">limestone</a>, <a href="/wiki/Marble" title="Marble">marble</a>, <a href="/wiki/Phosphate" title="Phosphate">phosphates</a>, <a href="/wiki/Pumice" title="Pumice">pumice</a>, salt and small deposits of gold. </p>
+      <p>Burkina Faso's fauna and flora are protected in two national parks and several reserves. </p> 
+      <h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Culture">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=5" title="Change section: Culture">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a href="/wiki/Literature" title="Literature">Literature</a> in Burkina Faso is based on the <a href="/wiki/Oral_tradition" title="Oral tradition">oral tradition</a>, which remains important. Since the 1970s, literature has developed in Burkina Faso with many more writers being published.<sup id="cite_ref-JM_12-0" class="reference"><a href="#cite_note-JM-12">[12]</a></sup> </p>
+      <p>There is also a large artist community, especially in <a href="/wiki/Ouagadougou" title="Ouagadougou">Ouagadougou</a>. Much of the crafts produced are for the growing tourist industry. </p>
+      <p>The food of Burkina Faso, typical of west African cuisine, is based around <a href="/wiki/Staple_food" title="Staple food">staple foods</a> of <a href="/wiki/Sorghum" title="Sorghum">sorghum</a>, <a href="/wiki/Millet" title="Millet">millet</a>, rice, maize, <a href="/wiki/Peanut" title="Peanut">peanuts</a>, potatoes, <a href="/wiki/Bean" title="Bean">beans</a>, <a href="/wiki/Yam_(vegetable)" class="mw-redirect" title="Yam (vegetable)">yams</a> and <a href="/wiki/Okra" title="Okra">okra</a>.<sup id="cite_ref-ox_13-0" class="reference"><a href="#cite_note-ox-13">[13]</a></sup> The most common sources of protein are chicken, eggs and fresh water fish. </p> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=6" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Burkina_Faso_at_the_Olympics" title="Burkina Faso at the Olympics">Burkina Faso at the Olympics</a></li> 
+       <li><a href="/wiki/Burkina_Faso_national_football_team" title="Burkina Faso national football team">Burkina Faso national football team</a></li> 
+       <li><a href="/wiki/List_of_rivers_of_Burkina_Faso" title="List of rivers of Burkina Faso">List of rivers of Burkina Faso</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=7" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-BBC-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-BBC_1-0">1.0</a></sup> <sup><a href="#cite_ref-BBC_1-1">1.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-africa-34971505">"Roch Marc Christian Kabore elected Burkina Faso president"</a>. BBC. 1 December 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">30 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Roch+Marc+Christian+Kabore+elected+Burkina+Faso+president&amp;rft.pub=BBC&amp;rft.date=2015-12-01&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-africa-34971505&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.insd.bf/fr/">"INSD Burkina Faso <span class="languageicon">(in French)</span>[[Category:Articles with French-language sources (fr)]]"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=INSD+Burkina+Faso+%3Cspan+class%3D%22languageicon%22%3E%28in+French%29%3C%2Fspan%3ECategory%3AArticles+with+French-language+sources+%28fr%29&amp;rft_id=http%3A%2F%2Fwww.insd.bf%2Ffr%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">URL–wikilink conflict (<a href="/wiki/Help:CS1_errors#wikilink_in_url" title="Help:CS1 errors">help</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-imf2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_3-0">3.0</a></sup> <sup><a href="#cite_ref-imf2_3-1">3.1</a></sup> <sup><a href="#cite_ref-imf2_3-2">3.2</a></sup> <sup><a href="#cite_ref-imf2_3-3">3.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&amp;ey=2011&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=748&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=15&amp;pr.y=7">"Burkina Faso"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Burkina+Faso&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2011%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2008%26ey%3D2011%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D748%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D%26pr.x%3D15%26pr.y%3D7&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">"Distribution of family income – Gini index"</a>. <i>The World Factbook</i>. CIA<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Distribution+of+family+income+%E2%80%93+Gini+index&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2172.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">CFA Franc BCEAO. Codes: XOF / 952 <a rel="nofollow" class="external text" href="http://www.iso.org/iso/support/faqs/faqs_widely_used_standards/widely_used_standards_other/currency_codes/currency_codes_list-1.htm">ISO 4217 currency names and code elements</a>. ISO. Retrieved 8 May 2009.</span> </li> 
+         <li id="cite_note-POA-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-POA_6-0">6.0</a></sup> <sup><a href="#cite_ref-POA_6-1">6.1</a></sup></span> <span class="reference-text"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=dMcBcoEm8-oC"><i>Peoples of Africa, Volume 2</i></a>. Marshall Cavendish. 2001. p.&nbsp;51. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/076147160X" title="Special:BookSources/076147160X"><bdi>076147160X</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Peoples+of+Africa%2C+Volume+2&amp;rft.pages=51&amp;rft.pub=Marshall+Cavendish&amp;rft.date=2001&amp;rft.isbn=076147160X&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DdMcBcoEm8-oC&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation book cs1"><i>Kingfisher Geography Encyclopedia</i>. p.&nbsp;170. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1-85613-582-9" title="Special:BookSources/1-85613-582-9"><bdi>1-85613-582-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kingfisher+Geography+Encyclopedia&amp;rft.pages=170&amp;rft.isbn=1-85613-582-9&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-africa-29831262">"BBC News - Burkina Faso parliament set ablaze"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=BBC+News+-+Burkina+Faso+parliament+set+ablaze&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-africa-29831262&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.smh.com.au/world/burkina-faso-protesters-set-parliament-on-fire-take-over-state-tv-and-march-on-presidency-20141031-11emg3.html">"Burkina Faso protesters set parliament on fire, take over state TV and march on presidency"</a>. <i>The Sydney Morning Herald</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft.atitle=Burkina+Faso+protesters+set+parliament+on+fire%2C+take+over+state+TV+and+march+on+presidency&amp;rft_id=http%3A%2F%2Fwww.smh.com.au%2Fworld%2Fburkina-faso-protesters-set-parliament-on-fire-take-over-state-tv-and-march-on-presidency-20141031-11emg3.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite id="CITEREFTaokoCowell2014" class="citation web cs1">Taoko, Hervé; Cowell, Alan (31 October 2014). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2014/11/01/world/africa/burkina-faso-unrest-blaise-compaore.html">"Burkina Faso's President Resigns, and General Takes Reins"</a> – via NYTimes.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Burkina+Faso%E2%80%99s+President+Resigns%2C+and+General+Takes+Reins&amp;rft.date=2014-10-31&amp;rft.aulast=Taoko&amp;rft.aufirst=Herv%C3%A9&amp;rft.au=Cowell%2C+Alan&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2014%2F11%2F01%2Fworld%2Fafrica%2Fburkina-faso-unrest-blaise-compaore.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-c2006-11"><span class="mw-cite-backlink"><a href="#cite_ref-c2006_11-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.insd.bf/Documents/Publications/INSD/Publications/Resultats_enquetes/Autres%20enq/Rapport_preliminaire_RGPH06.pdf">National 2006 census preliminary results</a></span> </li> 
+         <li id="cite_note-JM-12"><span class="mw-cite-backlink"><a href="#cite_ref-JM_12-0">↑</a></span> <span class="reference-text"><cite id="CITEREFMarchais2006" class="citation book cs1">Marchais, Julien (2006). <a rel="nofollow" class="external text" href="https://books.google.com/?id=6jsBLSzJWYsC"><i>Burkina Faso</i></a> (in French). Petit Futé. pp.&nbsp;91–92. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/2746916010" title="Special:BookSources/2746916010"><bdi>2746916010</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Burkina+Faso&amp;rft.pages=91-92&amp;rft.pub=Petit+Fut%C3%A9&amp;rft.date=2006&amp;rft.isbn=2746916010&amp;rft.aulast=Marchais&amp;rft.aufirst=Julien&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D6jsBLSzJWYsC&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-ox-13"><span class="mw-cite-backlink"><a href="#cite_ref-ox_13-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.oxfam.org.uk/coolplanet/ontheline/explore/journey/burkina/food.htm">"Oxfam's Cool Planet – Food in Burkina Faso"</a>. <a href="/wiki/Oxfam" title="Oxfam">Oxfam</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 May</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Oxfam%27s+Cool+Planet+%E2%80%93+Food+in+Burkina+Faso&amp;rft.pub=Oxfam&amp;rft_id=http%3A%2F%2Fwww.oxfam.org.uk%2Fcoolplanet%2Fontheline%2Fexplore%2Fjourney%2Fburkina%2Ffood.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=8" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Burkina_Faso" class="extiw" title="commons:Category:Burkina Faso">Burkina Faso</a> at Wikimedia Commons</li> 
+       <li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></a> <a href="https://simple.wikivoyage.org/wiki/Burkina_Faso" class="extiw" title="voy:Burkina Faso">Burkina Faso</a> travel guide from Wikivoyage</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_Africa" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=List_of_sovereign_states_and_dependent_territories_in_Africa&amp;action=edit&amp;redlink=1" class="new" title="List of sovereign states and dependent territories in Africa (not yet started)">Countries and territories</a> of <a href="/wiki/Africa" title="Africa">Africa</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Entirely or mostly<br>in Africa</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Algeria" title="Algeria">Algeria</a></li> 
+                 <li><a href="/wiki/Angola" title="Angola">Angola</a></li> 
+                 <li><a href="/wiki/Benin" title="Benin">Benin</a></li> 
+                 <li><a href="/wiki/Botswana" title="Botswana">Botswana</a></li> 
+                 <li><a class="mw-selflink selflink">Burkina Faso</a></li> 
+                 <li><a href="/wiki/Burundi" title="Burundi">Burundi</a></li> 
+                 <li><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></li> 
+                 <li><a href="/wiki/Cape_Verde" title="Cape Verde">Cape Verde</a></li> 
+                 <li><a href="/wiki/Central_African_Republic" title="Central African Republic">Central African Republic</a></li> 
+                 <li><a href="/wiki/Chad" title="Chad">Chad</a></li> 
+                 <li><a href="/wiki/Comoros" title="Comoros">Comoros</a></li> 
+                 <li><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+                 <li><a href="/wiki/Republic_of_the_Congo" title="Republic of the Congo">Republic of the Congo</a></li> 
+                 <li><a href="/wiki/Djibouti" title="Djibouti">Djibouti</a></li> 
+                 <li><a href="/wiki/Egypt" title="Egypt">Egypt</a></li> 
+                 <li><a href="/wiki/Equatorial_Guinea" title="Equatorial Guinea">Equatorial Guinea</a></li> 
+                 <li><a href="/wiki/Eritrea" title="Eritrea">Eritrea</a></li> 
+                 <li><a href="/wiki/Eswatini" title="Eswatini">Eswatini</a></li> 
+                 <li><a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a></li> 
+                 <li><a href="/wiki/Gabon" title="Gabon">Gabon</a></li> 
+                 <li><a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a></li> 
+                 <li><a href="/wiki/Ghana" title="Ghana">Ghana</a></li> 
+                 <li><a href="/wiki/Guinea" title="Guinea">Guinea</a></li> 
+                 <li><a href="/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a></li> 
+                 <li><a href="/wiki/Ivory_Coast" title="Ivory Coast">Ivory Coast</a></li> 
+                 <li><a href="/wiki/Kenya" title="Kenya">Kenya</a></li> 
+                 <li><a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></li> 
+                 <li><a href="/wiki/Liberia" title="Liberia">Liberia</a></li> 
+                 <li><a href="/wiki/Libya" title="Libya">Libya</a></li> 
+                 <li><a href="/wiki/Madagascar" title="Madagascar">Madagascar</a></li> 
+                 <li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li> 
+                 <li><a href="/wiki/Mali" title="Mali">Mali</a></li> 
+                 <li><a href="/wiki/Mauritania" title="Mauritania">Mauritania</a></li> 
+                 <li><a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></li> 
+                 <li><a href="/wiki/Morocco" title="Morocco">Morocco</a></li> 
+                 <li><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></li> 
+                 <li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li> 
+                 <li><a href="/wiki/Niger" title="Niger">Niger</a></li> 
+                 <li><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></li> 
+                 <li><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a></li> 
+                 <li><a href="/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+                 <li><a href="/wiki/Senegal" title="Senegal">Senegal</a></li> 
+                 <li><a href="/wiki/Seychelles" title="Seychelles">Seychelles</a></li> 
+                 <li><a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></li> 
+                 <li><a href="/wiki/Somalia" title="Somalia">Somalia</a></li> 
+                 <li><a href="/wiki/South_Africa" title="South Africa">South Africa</a></li> 
+                 <li><a href="/wiki/South_Sudan" title="South Sudan">South Sudan</a></li> 
+                 <li><a href="/wiki/Sudan" title="Sudan">Sudan</a></li> 
+                 <li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li> 
+                 <li><a href="/wiki/Togo" title="Togo">Togo</a></li> 
+                 <li><a href="/wiki/Tunisia" title="Tunisia">Tunisia</a></li> 
+                 <li><a href="/wiki/Uganda" title="Uganda">Uganda</a></li> 
+                 <li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li> 
+                 <li><a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Partly<br>in Africa</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/France" title="France">France</a> 
+                  <ul>
+                   <li><a href="/wiki/Mayotte" title="Mayotte">Mayotte</a></li> 
+                   <li><a href="/wiki/R%C3%A9union" title="Réunion">Réunion</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Italy" title="Italy">Italy</a> 
+                  <ul>
+                   <li><a href="/w/index.php?title=Pantelleria&amp;action=edit&amp;redlink=1" class="new" title="Pantelleria (not yet started)">Pantelleria</a></li> 
+                   <li><a href="/wiki/Pelagie_Islands" title="Pelagie Islands">Pelagie Islands</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Portugal" title="Portugal">Portugal</a> 
+                  <ul>
+                   <li><a href="/wiki/Madeira" class="mw-redirect" title="Madeira">Madeira</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Spain" title="Spain">Spain</a> 
+                  <ul>
+                   <li><a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a></li> 
+                   <li><a href="/wiki/Ceuta" title="Ceuta">Ceuta</a></li> 
+                   <li><a href="/wiki/Melilla" title="Melilla">Melilla</a></li> 
+                   <li><a href="/w/index.php?title=Plazas_de_soberan%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Plazas de soberanía (not yet started)">Plazas de soberanía</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Yemen" title="Yemen">Yemen</a> 
+                  <ul>
+                   <li><a href="/wiki/Socotra" title="Socotra">Socotra</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px;padding:0 1.0em 0 0.5em;">
+           <div>
+            <a href="/wiki/File:Africa_(orthographic_projection).svg" class="image" title="Orthographic projection of Africa"><img alt="Orthographic projection of Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/120px-Africa_%28orthographic_projection%29.svg.png" decoding="async" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/180px-Africa_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/240px-Africa_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/w/index.php?title=Territory_(subdivision)&amp;action=edit&amp;redlink=1" class="new" title="Territory (subdivision) (not yet started)">Territories</a> 
+            <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">and</span>
+            <br><a href="/wiki/Dependent_territory" title="Dependent territory">dependencies</a>
+           </div></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Scattered_Islands_in_the_Indian_Ocean" title="Scattered Islands in the Indian Ocean">Îles Éparses</a> 
+              <ul>
+               <li><span style="font-size:90%;">France</span></li>
+              </ul></li> 
+             <li><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</a> 
+              <ul>
+               <li><span style="font-size:90%;">UK</span></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with limited<br>recognition</a>
+           </div></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Sahrawi_Arab_Democratic_Republic" title="Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Somaliland" title="Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <sup><small>1</small></sup> <a href="/wiki/Territorial_dispute" class="mw-redirect" title="Territorial dispute">Unclear sovereignty</a>.
+            <br>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q965&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q965&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q965" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Bibsys" title="Bibsys">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90874248">90874248</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" class="mw-redirect" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX451485">XX451485</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11934219d">cb11934219d</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11934219d">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4088707-8">4088707-8</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://hls-dhs-dss.ch/fr/articles/003438">003438</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000404133505">0000 0004 0413 3505</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n84112192">n84112192</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/5f886d01-5c12-3abb-b8be-d758b282ab05">5f886d01-5c12-3abb-b8be-d758b282ab05</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10035682">10035682</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00568992">00568992</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge128862&amp;CON_LNG=ENG">ge128862</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=001004479&amp;local_base=nlx10">001004479</a></span></span></li> 
+             <li><span class="nowrap"><a href="/w/index.php?title=RERO_(Library_Network_of_Western_Switzerland)&amp;action=edit&amp;redlink=1" class="new" title="RERO (Library Network of Western Switzerland) (not yet started)">RERO</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.rero.ch/02-A000024359">02-A000024359</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/141850">141850</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/026489112">026489112</a></span></span></li> 
+             <li><span class="nowrap"><a href="https://www.wikidata.org/wiki/Q21527102" class="extiw" title="d:Q21527102">TDVİA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://islamansiklopedisi.org.tr/burkina-faso">burkina-faso</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/140653363">140653363</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n84112192">lccn-n84112192</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1298
+Cached time: 20201219005537
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.232 seconds
+Real time usage: 1.389 seconds
+Preprocessor visited node count: 4368/1000000
+Post‐expand include size: 95999/2097152 bytes
+Template argument size: 9343/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 24/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 36898/5000000 bytes
+Lua time usage: 0.741/10.000 seconds
+Lua memory usage: 24196622/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1273.554      1 -total
+ 37.88%  482.380      1 Template:Infobox_country
+ 37.06%  472.013      3 Template:Infobox
+ 26.74%  340.600      1 Template:Reflist
+ 23.04%  293.489      8 Template:Cite_web
+ 17.22%  219.343      1 Template:Authority_control
+ 13.15%  167.449      3 Template:ISO_3166_code
+ 12.89%  164.213      1 Template:Commonscat-inline
+ 12.52%  159.496      2 Template:Sister-inline
+ 11.26%  143.339      1 Template:In_lang
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:19175-0!canonical and timestamp 20201219005537 and revision id 7056898. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Burkina_Faso&amp;oldid=7056898">https://simple.wikipedia.org/w/index.php?title=Burkina_Faso&amp;oldid=7056898</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Burkina_Faso" title="Category:Burkina Faso">Burkina Faso</a></li>
+       <li><a href="/wiki/Category:Least_developed_countries" title="Category:Least developed countries">Least developed countries</a></li>
+       <li><a href="/wiki/Category:Members_of_the_Organisation_of_Islamic_Cooperation" title="Category:Members of the Organisation of Islamic Cooperation">Members of the Organisation of Islamic Cooperation</a></li>
+       <li><a href="/wiki/Category:1960_establishments_in_Africa" title="Category:1960 establishments in Africa">1960 establishments in Africa</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_errors:_URL%E2%80%93wikilink_conflict" title="Category:CS1 errors: URL–wikilink conflict">CS1 errors: URL–wikilink conflict</a></li>
+       <li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_HDS_identifiers" title="Category:Wikipedia articles with HDS identifiers">Wikipedia articles with HDS identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_RERO_identifiers" title="Category:Wikipedia articles with RERO identifiers">Wikipedia articles with RERO identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_TDV%C4%B0A_identifiers" title="Category:Wikipedia articles with TDVİA identifiers">Wikipedia articles with TDVİA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Burkina+Faso" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Burkina+Faso" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Burkina_Faso" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Burkina_Faso" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Burkina_Faso">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Burkina_Faso&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Burkina_Faso&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Burkina_Faso" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Burkina_Faso" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Burkina_Faso&amp;oldid=7056898" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Burkina_Faso&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Burkina_Faso&amp;id=7056898&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q965" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Burkina+Faso">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Burkina_Faso&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Burkina_Faso&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Burkina_Faso" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%89%A1%E1%88%AD%E1%8A%AA%E1%8A%93_%E1%8D%8B%E1%88%B6" title="ቡርኪና ፋሶ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D9%83%D9%8A%D9%86%D8%A7_%D9%81%D8%A7%D8%B3%D9%88" title="بوركينا فاسو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Burkina_Fas%C3%B4" title="Burkina Fasô – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Burkina_Fasu" title="Burkina Fasu – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Vuk%C3%ADna_F%C3%A1so" title="Vukína Fáso – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Burkina-Faso" title="Burkina-Faso – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%DA%A9%DB%8C%D9%86%D8%A7%D9%81%D8%A7%D8%B3%D9%88" title="بورکینافاسو – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Burukina_Faso" title="Burukina Faso – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A6%BE_%E0%A6%AB%E0%A6%BE%E0%A6%B8%E0%A7%8B" title="বুর্কিনা ফাসো – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Burkina_Paso" title="Burkina Paso – Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D1%96%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркіна-Фасо – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D1%96%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркіна-Фасо – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE_%E0%A4%AB%E0%A4%BE%E0%A4%B8%E0%A5%8B" title="बुर्किना फासो – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина Фасо – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%96%E0%BD%B4%E0%BD%A2%E0%BC%8B%E0%BD%80%E0%BD%B2%E0%BC%8B%E0%BD%93%E0%BC%8B%E0%BD%95%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8D" title="བུར་ཀི་ན་ཕ་སོ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%BE-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркино-Фасо – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина Фасо – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Bwrcina_Ffaso" title="Bwrcina Ffaso – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D9%83%D9%8A%D9%86%D8%A7_%D9%81%D8%A7%D8%B5%D9%88" title="بوركينا فاصو – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%84%DE%AA%DE%83%DE%AA%DE%86%DE%A9%DE%82%DE%A7_%DE%8A%DE%A7%DE%90%DE%AF" title="ބުރުކީނާ ފާސޯ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE_%E0%A4%AB%E0%A4%BE%E0%A4%B8%E0%A5%8B" title="बुर्किना फासो – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%BF%CF%85%CF%81%CE%BA%CE%AF%CE%BD%CE%B1_%CE%A6%CE%AC%CF%83%CE%BF" title="Μπουρκίνα Φάσο – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Burkino" title="Burkino – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Burquina_Fasu" title="Burquina Fasu – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%DA%A9%DB%8C%D9%86%D8%A7%D9%81%D8%A7%D8%B3%D9%88" title="بورکینافاسو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Boerkina_Faso" title="Boerkina Faso – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Buirc%C3%ADne_Fas%C3%B3" title="Buircíne Fasó – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Buirciona_Faso" title="Buirciona Faso – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Буркина Фасин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%80%EB%A5%B4%ED%82%A4%EB%82%98%ED%8C%8C%EC%86%8C" title="부르키나파소 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Burkina_faso" title="Burkina faso – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Burakina_Faso" title="Burakina Faso – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%B8%D6%82%D6%80%D5%AF%D5%AB%D5%B6%D5%A1_%D5%96%D5%A1%D5%BD%D5%B8" title="Բուրկինա Ֆասո – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE_%E0%A4%AB%E0%A4%BE%E0%A4%B8%E0%A5%8B" title="बुर्किना फासो – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AC%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A6%BE_%E0%A6%AB%E0%A6%BE%E0%A6%B8%E0%A7%8B" title="বুর্কিনা ফাসো – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/IBukhina_Faso" title="IBukhina Faso – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/B%C3%BArk%C3%ADna_Fas%C3%B3" title="Búrkína Fasó – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A0%D7%94_%D7%A4%D7%90%D7%A1%D7%95" title="בורקינה פאסו – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Purkina_Fasoo" title="Purkina Fasoo – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B3%81%E0%B2%B0%E0%B3%8D%E0%B2%95%E0%B3%80%E0%B2%A8_%E0%B2%AB%E0%B2%BE%E0%B2%B8%E0%B3%8A" title="ಬುರ್ಕೀನ ಫಾಸೊ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%A3%E1%83%A0%E1%83%99%E1%83%98%E1%83%9C%E1%83%90-%E1%83%A4%E1%83%90%E1%83%A1%E1%83%9D" title="ბურკინა-ფასო – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/B%C3%B9rkina_Faso" title="Bùrkina Faso – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Burukina_Faso" title="Burukina Faso – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Burkina" title="Burkina – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Boukinafaso" title="Boukinafaso – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Birkina_Faso" title="Birkina Faso – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Burk%C3%AEna_Faso" title="Burkîna Faso – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина Фасо – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A8%DB%8A%D8%B1%DA%A9%DB%8C%D9%86%D8%A7%D9%81%D8%A7%D8%B3%D9%88" title="بۊرکینافاسو – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Burkinafaso" title="Burkinafaso – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Burkina_Fasas" title="Burkina Fasas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Borkinn-a_F%C3%A4so" title="Borkinn-a Fäso – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Burcina_Faso" title="Burcina Faso – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lg"><a href="https://lg.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Ganda" lang="lg" hreflang="lg" class="interlanguage-link-target">Luganda</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE_%E0%A4%AB%E0%A4%BE%E0%A4%B8%E0%A5%8B" title="बुर्किना फासो – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина Фасо – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Borkina_Fas%C3%B4" title="Borkina Fasô – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%BC%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%A8%E0%B4%BE_%E0%B4%AB%E0%B4%BE%E0%B4%B8%E0%B5%8B" title="ബർക്കിനാ ഫാസോ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE_%E0%A4%AB%E0%A4%BE%E0%A4%B8%E0%A5%8B" title="बर्किना फासो – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%91%E1%83%A3%E1%83%A0%E1%83%99%E1%83%98%E1%83%9C%E1%83%90-%E1%83%A4%E1%83%90%E1%83%A1%E1%83%9D" title="ბურკინა-ფასო – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D9%83%D9%8A%D9%86%D8%A7_%D9%81%D8%A7%D8%B3%D9%88" title="بوركينا فاسو – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%DA%A9%DB%8C%D9%86%D8%A7%D9%81%D8%A7%D8%B3%D9%88" title="بورکینافاسو – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Minangkabau</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина Фасо – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%98%E1%80%AC%E1%80%80%E1%80%AE%E1%80%B8%E1%80%94%E1%80%AC%E1%80%B8%E1%80%96%E1%80%AC%E1%80%B8%E1%80%86%E1%80%AD%E1%80%AF%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ဘာကီးနားဖားဆိုနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Burquina_Faso" title="Burquina Faso – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Burkinabato" title="Burkinabato – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE_%E0%A4%AB%E0%A4%BE%E0%A4%B8%E0%A5%8B" title="बुर्किना फासो – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8%E0%A4%BE_%E0%A4%AB%E0%A4%BE%E0%A4%B8%E0%A5%8B" title="बुर्किना फासो – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%AD%E3%83%8A%E3%83%95%E3%82%A1%E3%82%BD" title="ブルキナファソ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nqo"><a href="https://nqo.wikipedia.org/wiki/%DF%93%DF%99%DF%8E%DF%9E%DF%8C%DF%A3%DF%8A%DF%AB_%DF%9D%DF%8A%DF%AC%DF%9B%DF%8F%DF%AB" title="ߓߙߎߞߌߣߊ߫ ߝߊ߬ߛߏ߫ – N’Ko" lang="nqo" hreflang="nqo" class="interlanguage-link-target">ߒߞߏ</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://frr.wikipedia.org/wiki/Burkiina_Faaso" title="Burkiina Faaso – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Burkinaa_Faasoo" title="Burkinaa Faasoo – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%81%E0%A8%B0%E0%A8%95%E0%A9%80%E0%A8%A8%E0%A8%BE_%E0%A8%AB%E0%A8%BC%E0%A8%BE%E0%A8%B8%E0%A9%8B" title="ਬੁਰਕੀਨਾ ਫ਼ਾਸੋ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%80%E0%A4%A8%E0%A4%BE-%E0%A4%AB%E0%A4%BE%E0%A4%B8%E0%A5%8B" title="बुर्कीना-फासो – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A8%D8%B1%DA%A9%DB%8C%D9%86%D8%A7_%D9%81%D8%A7%D8%B3%D9%88" title="برکینا فاسو – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%DA%A9%DB%8C%D9%86%D8%A7%D9%81%D8%A7%D8%B3%D9%88" title="بورکینافاسو – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Boerkiina_Faso" title="Boerkiina Faso – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Burkina_Phasu" title="Burkina Phasu – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D1%96%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркіна Фасо – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина Фасо – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Burkina_faso" title="Burkina faso – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%80%E0%A4%A8%E0%A4%BE-%E0%A4%AB%E0%A4%BE%E0%A4%B8%E0%A5%8B" title="बुर्कीना-फासो – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%B5%E1%B1%A9%E1%B1%A8%E1%B1%A0%E1%B1%A4%E1%B1%B1%E1%B1%9F_%E1%B1%AF%E1%B1%B7%E1%B1%9F%E1%B1%A5%E1%B1%B3" title="ᱵᱩᱨᱠᱤᱱᱟ ᱯᱷᱟᱥᱳ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Burchina_Fasu" title="Burchina Fasu – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B6%BB%E0%B7%8A%E0%B6%9A%E0%B7%92%E0%B6%B1%E0%B7%8F_%E0%B7%86%E0%B7%8F%E0%B7%83%E0%B7%9D" title="බර්කිනා ෆාසෝ – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A8%D8%B1%DA%AA%D9%8A%D9%86%D8%A7_%D9%81%D8%A7%D8%B3%D9%88" title="برڪينا فاسو – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/IBhukhina-Faso" title="IBhukhina-Faso – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Burkina" title="Burkina – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%DA%A9%DB%8C%D9%86%D8%A7%D9%81%D8%A7%D8%B3%DB%86" title="بورکینافاسۆ – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина Фасо – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%A9%E0%AE%BE_%E0%AE%AA%E0%AE%BE%E0%AE%9A%E0%AF%8B" title="புர்க்கினா பாசோ – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина Фасо – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%80%95%E1%80%B0%E1%82%87%E1%81%B5%E1%80%AE%E1%82%87%E1%81%BC%E1%82%83%E1%80%B8%E1%81%BE%E1%82%83%E1%80%B8%E1%80%9E%E1%80%B0%E1%80%9D%E1%80%BA%E1%82%87" title="မိူင်းပူႇၵီႇၼႃးၾႃးသူဝ်ႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AC%E0%B0%B0%E0%B1%8D%E0%B0%95%E0%B1%80%E0%B0%A8%E0%B0%BE_%E0%B0%AB%E0%B0%BE%E0%B0%B8%E0%B1%8B" title="బర్కీనా ఫాసో – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%9F%E0%B8%B2%E0%B9%82%E0%B8%8B" title="ประเทศบูร์กินาฟาโซ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-ti"><a href="https://ti.wikipedia.org/wiki/%E1%89%A1%E1%88%AD%E1%8A%AA%E1%8A%93_%E1%8D%8B%E1%88%B6" title="ቡርኪና ፋሶ – Tigrinya" lang="ti" hreflang="ti" class="interlanguage-link-target">ትግርኛ</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина Фасо – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8F%8B%E1%8E%A9%E1%8E%BE_%E1%8F%A9%E1%8F%90" title="ᏋᎩᎾ ᏩᏐ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Burkina-Faso" title="Burkina-Faso – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D1%96%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркіна-Фасо – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D8%B1%DA%A9%DB%8C%D9%86%D8%A7_%D9%81%D8%A7%D8%B3%D9%88" title="برکینا فاسو – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%A8%DB%87%D8%B1%D9%83%D9%89%D9%86%D8%A7_%D9%81%D8%A7%D8%B3%D9%88" title="بۇركىنا فاسو – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Burkin%C3%A4n" title="Burkinän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%B8%83%E5%9F%BA%E7%B4%8D%E6%B3%95%E7%B4%A2" title="布基納法索 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Burkinaa_Faaso" title="Burkinaa Faaso – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%B8%83%E5%9F%BA%E7%B4%8D%E6%B3%95%E7%B4%A2" title="布基納法索 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A0%D7%A2_%D7%A4%D7%90%D7%A1%D7%90" title="בורקינע פאסא – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/B%C3%B9rk%C3%ADn%C3%A0_Fas%C3%B2" title="Bùrkínà Fasò – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%B8%83%E5%9F%BA%E7%B4%8D%E6%B3%95%E7%B4%A2" title="布基納法索 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Bork%C4%97na_Fasos" title="Borkėna Fasos – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B8%83%E5%90%89%E7%B4%8D%E6%B3%95%E7%B4%A2" title="布吉納法索 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q965#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 5 August 2020, at 05:22.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Burkina_Faso&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.232","walltime":"1.389","ppvisitednodes":{"value":4368,"limit":1000000},"postexpandincludesize":{"value":95999,"limit":2097152},"templateargumentsize":{"value":9343,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":36898,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1273.554      1 -total"," 37.88%  482.380      1 Template:Infobox_country"," 37.06%  472.013      3 Template:Infobox"," 26.74%  340.600      1 Template:Reflist"," 23.04%  293.489      8 Template:Cite_web"," 17.22%  219.343      1 Template:Authority_control"," 13.15%  167.449      3 Template:ISO_3166_code"," 12.89%  164.213      1 Template:Commonscat-inline"," 12.52%  159.496      2 Template:Sister-inline"," 11.26%  143.339      1 Template:In_lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.741","limit":"10.000"},"limitreport-memusage":{"value":24196622,"limit":52428800}},"cachereport":{"origin":"mw1298","timestamp":"20201219005537","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Burkina Faso","url":"https:\/\/simple.wikipedia.org\/wiki\/Burkina_Faso","sameAs":"http:\/\/www.wikidata.org\/entity\/Q965","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q965","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-13T04:56:42Z","dateModified":"2020-08-05T05:22:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/31\/Flag_of_Burkina_Faso.svg","headline":"sovereign state in Africa"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":302,"wgHostname":"mw1326"});});</script> 
+ </body>
+</html>

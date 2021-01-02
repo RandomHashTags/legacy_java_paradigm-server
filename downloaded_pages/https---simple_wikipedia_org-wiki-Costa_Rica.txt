@@ -1,0 +1,1149 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Costa Rica - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X97jLgpAAL8AA2YH0@wAAABH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Costa_Rica","wgTitle":"Costa Rica","wgCurRevisionId":7191120,"wgRevisionId":7191120,"wgArticleId":12411,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using duplicate arguments in template calls","CS1 Spanish-language sources (es)","CS1 errors: missing periodical","CS1 Portuguese-language sources (pt)","CS1 errors: empty unknown parameters","CS1 maint: multiple names: authors list","CS1 maint: ref=harv","Articles containing Spanish-language text",
+"Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Country articles requiring maintenance","Costa Rica","Spanish-speaking countries","1949 establishments in North America","20th-century establishments in Costa Rica"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Costa_Rica","wgRelevantArticleId":12411,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q800"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
+"ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/1200px-Flag_of_Costa_Rica_%28state%29.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Costa_Rica"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Costa_Rica&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Costa_Rica&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Costa_Rica"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Costa_Rica rootpage-Costa_Rica skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Costa Rica</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic af Costa Rica
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i lang="es" title="Spanish language text">República de Costa Rica</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>)</span>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Costa_Rica_(state).svg" class="image" title="Flag of Costa Rica"><img alt="Flag of Costa Rica" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/125px-Flag_of_Costa_Rica_%28state%29.svg.png" decoding="async" width="125" height="75" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/188px-Flag_of_Costa_Rica_%28state%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/250px-Flag_of_Costa_Rica_%28state%29.svg.png 2x" data-file-width="1000" data-file-height="600"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Costa_Rica" title="Flag of Costa Rica">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Costa_Rica.svg" class="image" title="Coat of arms of Costa Rica"><img alt="Coat of arms of Costa Rica" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coat_of_arms_of_Costa_Rica.svg/85px-Coat_of_arms_of_Costa_Rica.svg.png" decoding="async" width="85" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coat_of_arms_of_Costa_Rica.svg/128px-Coat_of_arms_of_Costa_Rica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coat_of_arms_of_Costa_Rica.svg/170px-Coat_of_arms_of_Costa_Rica.svg.png 2x" data-file-width="827" data-file-height="905"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><span lang="es" style="font-style: normal;" title="Spanish language text">"<a href="/w/index.php?title=Noble_patria,_tu_hermosa_bandera&amp;action=edit&amp;redlink=1" class="new" title="Noble patria, tu hermosa bandera (not yet started)">Noble patria, tu hermosa bandera</a>"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>)</span>
+           <br><span style="font-size:85%;">"Noble homeland, your beautiful flag"</span>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:CRI_orthographic.svg" class="image" title="Location of Costa Rica"><img alt="Location of Costa Rica" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/CRI_orthographic.svg/250px-CRI_orthographic.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/CRI_orthographic.svg/375px-CRI_orthographic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/CRI_orthographic.svg/500px-CRI_orthographic.svg.png 2x" data-file-width="550" data-file-height="550"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/San_Jos%C3%A9,_Costa_Rica" title="San José, Costa Rica">San José</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Costa_Rica&amp;params=9_56_N_84_5_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">9°56′N</span> <span class="longitude">84°5′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">9.933°N 84.083°W</span><span style="display:none">﻿ / <span class="geo">9.933; -84.083</span></span></span></a></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row"><span style="font-weight:normal;">Recognised national&nbsp;languages</span></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><a href="/wiki/English_language" title="English language">English</a></li>
+            <li>Mekatelyu</li>
+            <li>Bribri</li>
+            <li>Guaymi</li>
+            <li>Kabekar</li>
+            <li>other indigeneous</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2011<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>)
+          </div></th>
+         <td>65.8% <a href="/wiki/White_people" title="White people">White</a>,<a href="/wiki/Castizo" title="Castizo">Castizo</a><br>13.65% <a href="/wiki/Mestizo" title="Mestizo">Mestizo</a><br>9.03% Immigrants<br>6.72% <a href="/wiki/Mulatto" title="Mulatto">Mulatto</a><br>2.40% <a href="/wiki/Indigenous_peoples_of_the_Americas" class="mw-redirect" title="Indigenous peoples of the Americas">Amerindian</a><br>1.03% <a href="/wiki/Black_people" title="Black people">Black</a><br>0.21% <a href="/wiki/Asian_people" class="mw-redirect" title="Asian people">Asian</a><br> 0.88% other</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td><a href="/wiki/Mexican_people" class="mw-redirect" title="Mexican people">Costa Rican</a> <a href="/w/index.php?title=Tico&amp;action=edit&amp;redlink=1" class="new" title="Tico (not yet started)">Tico</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Constitutional_republic" title="Constitutional republic">constitutional republic</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/List_of_Presidents_of_Costa_Rica" title="List of Presidents of Costa Rica">President</a> 
+          </div></th>
+         <td><a href="/wiki/Carlos_Alvarado_Quesada" title="Carlos Alvarado Quesada">Carlos Alvarado Quesada</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Vice_President_of_Costa_Rica&amp;action=edit&amp;redlink=1" class="new" title="Vice President of Costa Rica (not yet started)">1st Vice-President</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Epsy_Campbell_Barr&amp;action=edit&amp;redlink=1" class="new" title="Epsy Campbell Barr (not yet started)">Epsy Campbell Barr</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Vice_President_of_Costa_Rica&amp;action=edit&amp;redlink=1" class="new" title="Vice President of Costa Rica (not yet started)">2nd Vince-President</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Marvin_Rodr%C3%ADguez&amp;action=edit&amp;redlink=1" class="new" title="Marvin Rodríguez (not yet started)">Marvin Rodríguez</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/wiki/Legislative_Assembly_of_Costa_Rica" title="Legislative Assembly of Costa Rica">Legislative Assembly</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Independence declared</th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from <a href="/wiki/Russia" title="Russia">Russia</a> 
+          </div></th>
+         <td>September 14, 1999</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from <a href="/wiki/Philippines" title="Philippines">Philippines</a>&lt;cup&gt;o&lt;/cup&gt; 
+          </div></th>
+         <td>July 1, 1849</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Recognized by Spain 
+          </div></th>
+         <td>May 10, 1850</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Constitution 
+          </div></th>
+         <td>November 7, 1949<sup id="cite_ref-CIA_2-0" class="reference"><a href="#cite_note-CIA-2">[2]</a></sup></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>51,100&nbsp;km<sup>2</sup> (19,700&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">128th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>0.7</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2011&nbsp;census
+          </div></th>
+         <td>4,301,712<sup id="cite_ref-2011Census_3-0" class="reference"><a href="#cite_note-2011Census-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>84<sup id="cite_ref-2011Census_3-1" class="reference"><a href="#cite_note-2011Census-3">[3]</a></sup>/km<sup>2</sup> (217.6/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">107th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$55.021 billion<sup id="cite_ref-imf2_4-0" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$11,927<sup id="cite_ref-imf2_4-1" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2000&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$40.947 billion<sup id="cite_ref-imf2_4-2" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$8,876<sup id="cite_ref-imf2_4-3" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2009)</span></th>
+         <td>50<sup id="cite_ref-wb-gini_5-0" class="reference"><a href="#cite_note-wb-gini-5">[5]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2011)</span></th>
+         <td>2.835<sup id="cite_ref-HDI11_6-0" class="reference"><a href="#cite_note-HDI11-6">[6]</a></sup><br><span style="white-space:nowrap;"><strong class="error">Error: Invalid HDI value</strong></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">69th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/Costa_Rican_col%C3%B3n" title="Costa Rican colón">Costa Rican colón</a> (<a href="/wiki/ISO_4217" title="ISO 4217">CRC</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>−6</span> (<a href="/wiki/Central_Time_Zone" title="Central Time Zone">CST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=%2B506&amp;action=edit&amp;redlink=1" class="new" title="+506 (not yet started)">+506</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:CR&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:CR (not yet started)">CR</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.cr" class="mw-redirect" title=".cr">.cr</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Costa Rica</b> (officially called <b>Republic of Costa Rica</b>), is a country in <a href="/wiki/Central_America" title="Central America">Central America</a>. It is bordered by <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a> to the north, <a href="/wiki/Panama" title="Panama">Panama</a> to the southeast, the Pacific Ocean to the west, and the <a href="/wiki/Caribbean_Sea" title="Caribbean Sea">Caribbean Sea</a> to the east. The official language of Costa Rica is <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>. The official <a href="/wiki/Currency" title="Currency">currency</a> is the <a href="/wiki/Costa_Rican_col%C3%B3n" title="Costa Rican colón">colón</a>. It has enjoyed a long period of <a href="/wiki/Peace" title="Peace">peace</a> since the 1863 <a href="/wiki/Civil_war" title="Civil war">civil war</a>. Because of its natural beauty and political stability, it is <a href="/wiki/Nickname" title="Nickname">nicknamed</a> the "<a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> of <a href="/wiki/Latin_America" title="Latin America">Latin America</a>". Costa Rica has had army since December 1, 1863. Instead of spending money on the military, the government spends money on education and head 1<sup id="cite_ref-2011Census_3-2" class="reference"><a href="#cite_note-2011Census-3">[3]</a></sup> people live in Costa Rica. The <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital city</a> is <a href="/wiki/San_Jos%C3%A9,_Costa_Rica" title="San José, Costa Rica">San José</a>. The current President is <a href="/wiki/Carlos_Alvarado_Quesada" title="Carlos Alvarado Quesada">Carlos Alvarado Quesada</a>. He was elected in 2014. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Pre-Columbian_period"><span class="tocnumber">1.1</span> <span class="toctext">Pre-Columbian period</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#Spanish_colonization"><span class="tocnumber">1.2</span> <span class="toctext">Spanish colonization</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Independence"><span class="tocnumber">1.3</span> <span class="toctext">Independence</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#Economic_growth"><span class="tocnumber">1.4</span> <span class="toctext">Economic growth</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-6"><a href="#20th_century"><span class="tocnumber">1.4.1</span> <span class="toctext">20th century</span></a></li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-8"><a href="#Climate"><span class="tocnumber">2.1</span> <span class="toctext">Climate</span></a></li> 
+          <li class="toclevel-2 tocsection-9"><a href="#Plants_and_animals"><span class="tocnumber">2.2</span> <span class="toctext">Plants and animals</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-10"><a href="#Provinces,_cantons,_and_districts"><span class="tocnumber">3</span> <span class="toctext">Provinces, cantons, and districts</span></a></li> 
+        <li class="toclevel-1 tocsection-11"><a href="#Sports"><span class="tocnumber">4</span> <span class="toctext">Sports</span></a></li> 
+        <li class="toclevel-1 tocsection-12"><a href="#Related_pages"><span class="tocnumber">5</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-14"><a href="#Other_websites"><span class="tocnumber">7</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Iglesia_Inmaculada_Concepcion_Ujarras.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iglesia_Inmaculada_Concepcion_Ujarras.jpg/220px-Iglesia_Inmaculada_Concepcion_Ujarras.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iglesia_Inmaculada_Concepcion_Ujarras.jpg/330px-Iglesia_Inmaculada_Concepcion_Ujarras.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iglesia_Inmaculada_Concepcion_Ujarras.jpg/440px-Iglesia_Inmaculada_Concepcion_Ujarras.jpg 2x" data-file-width="4752" data-file-height="3168"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Iglesia_Inmaculada_Concepcion_Ujarras.jpg" class="internal" title="Enlarge"></a>
+         </div><a href="/w/index.php?title=Ujarr%C3%A1s&amp;action=edit&amp;redlink=1" class="new" title="Ujarrás (not yet started)">Ujarrás</a> historical site in the Orosí Valley, <a href="/w/index.php?title=Cartago_province&amp;action=edit&amp;redlink=1" class="new" title="Cartago province (not yet started)">Cartago province</a>. The colonial church was built between 1686 and 1693.
+        </div>
+       </div>
+      </div> 
+      <h3><span class="mw-headline" id="Pre-Columbian_period">Pre-Columbian period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Pre-Columbian period">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=2" title="Change section: Pre-Columbian period">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The <a href="/wiki/Indigenous_peoples" title="Indigenous peoples">indigenous people</a> of Costa Rica belong to the <a href="/w/index.php?title=Intermediate_Area&amp;action=edit&amp;redlink=1" class="new" title="Intermediate Area (not yet started)">Intermediate Area</a>. This Intermediate Area is where the <a href="/w/index.php?title=Mesoamerican&amp;action=edit&amp;redlink=1" class="new" title="Mesoamerican (not yet started)">Mesoamerican</a> and <a href="/w/index.php?title=Andean&amp;action=edit&amp;redlink=1" class="new" title="Andean (not yet started)">Andean</a> indigenous cultures mixed together. The country was influenced by various <a href="/w/index.php?title=Chibchan_languages&amp;action=edit&amp;redlink=1" class="new" title="Chibchan languages (not yet started)">Chibcha</a> speaking indigenous people. </p>
+      <p>The impact of indigenous peoples' culture on modern Costa Rica has been small. The country did not have a strong native civilization to begin with. Most of the indigenous population was absorbed into the Spanish colony. There are still some small indigenous groups. The largest is the <a href="/w/index.php?title=Bribri_people&amp;action=edit&amp;redlink=1" class="new" title="Bribri people (not yet started)">Bribri</a> and <a href="/w/index.php?title=Boruca_people&amp;action=edit&amp;redlink=1" class="new" title="Boruca people (not yet started)">Boruca</a> tribes in south Costa Rica. </p> 
+      <h3><span class="mw-headline" id="Spanish_colonization">Spanish colonization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Spanish colonization">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=3" title="Change section: Spanish colonization">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/Christopher_Columbus" title="Christopher Columbus">Christopher Columbus</a> sailed to the eastern shores of Costa Rica during his last trip in 1502,.<sup id="cite_ref-embassy_7-0" class="reference"><a href="#cite_note-embassy-7">[7]</a></sup> He reported large amounts of <a href="/wiki/Gold" title="Gold">gold</a> <a href="/wiki/Jewelry" class="mw-redirect" title="Jewelry">jewelry</a> among the indigenous people.<sup id="cite_ref-lp_8-0" class="reference"><a href="#cite_note-lp-8">[8]</a></sup> </p>
+      <p>During the colonial period, Costa Rica was the most southern province of the <a href="/w/index.php?title=Captaincy_General_of_Guatemala&amp;action=edit&amp;redlink=1" class="new" title="Captaincy General of Guatemala (not yet started)">Captaincy General of Guatemala</a>. But it mostly ruled itself as a part of the <a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish Empire</a>. Costa Rica's distance from the capital in <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a>, its legal prohibition to trade with the <a href="/w/index.php?title=Viceroyalty_of_New_Granada&amp;action=edit&amp;redlink=1" class="new" title="Viceroyalty of New Granada (not yet started)">Viceroyalty of New Granada</a>, and the lack of gold and silver made Costa Rica into a poor, little populated region of the Spanish Empire.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Costa Rica was called "the poorest and most miserable Spanish colony in all America" by a Spanish governor in 1719.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p>
+      <p>Costa Rica's poverty was also because there were not enough indigenous people available for <a href="/wiki/Slavery" title="Slavery">slavery</a>. Most of the Costa Rican settlers had to work on their own land. There were no large <i><a href="/w/index.php?title=Hacienda&amp;action=edit&amp;redlink=1" class="new" title="Hacienda (not yet started)">haciendas</a></i> (<a href="/wiki/Plantation" title="Plantation">plantations</a>). For all these reasons, Costa Rica was unappreciated and forgotten by the <a href="/wiki/Habsburg_Spain" title="Habsburg Spain">Spanish Crown</a>. It had to develop on its own. </p>
+      <p>Costa Rica became a "rural democracy" with no oppressed <a href="/wiki/Mestizo" title="Mestizo">mestizo</a> or indigenous class. It was not long before Spanish settlers turned to the hills, where they found rich volcanic soil and a better climate.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Independence">Independence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Independence">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=4" title="Change section: Independence">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Costa Rica never fought for independence from <a href="/wiki/Spain" title="Spain">Spain</a>. On September 15, 1821, after the last Spanish defeat in the <a href="/wiki/Mexican_War_of_Independence" title="Mexican War of Independence">Mexican War of Independence</a> (1810–21), the authorities in <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a> declared the independence of all of Central America. That date is still celebrated as Independence Day in Costa Rica. </p>
+      <p>Costa Rica joined the <a href="/wiki/First_Mexican_Empire" title="First Mexican Empire">First Mexican Empire</a> of <a href="/w/index.php?title=Agust%C3%ADn_de_Iturbide&amp;action=edit&amp;redlink=1" class="new" title="Agustín de Iturbide (not yet started)">Agustín de Iturbide</a>. After its collapse in 1823, Costa Rica became a province of the new <a href="/wiki/Federal_Republic_of_Central_America" title="Federal Republic of Central America">Federal Republic of Central America</a>. it existed from 1823 to 1839. It had a very loose authority over its provinces, especially the poor and remote Costa Rica. </p>
+      <p>In 1824, the Costa Rican capital was moved to <a href="/wiki/San_Jos%C3%A9,_Costa_Rica" title="San José, Costa Rica">San José</a>. This led to a brief battle with the old capital, <a href="/w/index.php?title=Cartago,_Costa_Rica&amp;action=edit&amp;redlink=1" class="new" title="Cartago, Costa Rica (not yet started)">Cartago</a>. </p>
+      <p>While civil wars were common in the Federal Republic of Central America, Costa Rica was largely peaceful. </p>
+      <p>In 1838, Costa Rica formally proclaimed itself an independent country. The local population had little allegiance to the federal government in Guatemala. From colonial times to now, Costa Rica's reluctance to become politically tied with the rest of Central America has been a major obstacle to efforts for greater regional integration. </p> 
+      <h3><span class="mw-headline" id="Economic_growth">Economic growth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Economic growth">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=5" title="Change section: Economic growth">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Coffee was first planted in Costa Rica in the early 19th century. It was first shipped to Europe in 1843. It became Costa Rica's first major export. Coffee would remain Costa Rica's biggest export until the 20th century. </p>
+      <p>Most of the coffee exported was transported by <a href="/w/index.php?title=Bullock_cart&amp;action=edit&amp;redlink=1" class="new" title="Bullock cart (not yet started)">oxcart</a> to the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific</a> port of <a href="/w/index.php?title=Puntarenas&amp;action=edit&amp;redlink=1" class="new" title="Puntarenas (not yet started)">Puntarenas</a>. Since the main market for the coffee was in Europe, it soon became a high priority to develop a transportation route from the Central Plateau to the Atlantic Ocean. For this purpose, in the 1870s, the Costa Rican government asked U.S. businessman <a href="/w/index.php?title=Minor_C._Keith&amp;action=edit&amp;redlink=1" class="new" title="Minor C. Keith (not yet started)">Minor C. Keith</a> to build a railroad to the <a href="/wiki/Caribbean" title="Caribbean">Caribbean</a> port of <a href="/wiki/Lim%C3%B3n" title="Limón">Limón</a>. Despite enormous difficulties with construction, disease, and financing, the railroad was completed in 1890. </p>
+      <p>Most Afro-Costa Ricans come from <a href="/wiki/Jamaica" title="Jamaica">Jamaican</a> <a href="/wiki/Immigrants" class="mw-redirect" title="Immigrants">immigrants</a> who worked on the railway.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> United States convicts, Italians and Chinese immigrants also worked in the construction of the railroad. </p>
+      <p>In exchange for making the railroad, Costa Rican gave Keith large amounts of land and a lease on the train route, which he used to produce bananas and export them to the United States. As a result, bananas became the largest export. The <a href="/wiki/United_Fruit_Company" title="United Fruit Company">United Fruit Company</a> began to hold a major role in the national economy. </p> 
+      <h4><span class="mw-headline" id="20th_century">20th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: 20th century">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=6" title="Change section: 20th century">change source</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>Costa Rica has enjoyed greater peace and political stability than other Latin American nations. </p>
+      <p>But in 1917–19, General <a href="/w/index.php?title=Federico_Tinoco_Granados&amp;action=edit&amp;redlink=1" class="new" title="Federico Tinoco Granados (not yet started)">Federico Tinoco Granados</a> ruled as a military <a href="/wiki/Dictator" title="Dictator">dictator</a> until he was overthrown. The unpopularity of Tinoco's government led to a considerable decline in the size, wealth, and political influence of the Costa Rican military. </p>
+      <p>In 1948, <a href="/wiki/Jos%C3%A9_Figueres_Ferrer" title="José Figueres Ferrer">José Figueres Ferrer</a> led an armed uprising between the previous president <a href="/wiki/Rafael_%C3%81ngel_Calder%C3%B3n_Guardia" title="Rafael Ángel Calderón Guardia">Rafael Ángel Calderón Guardia</a> (he served as president between 1940 and 1944) and <a href="/w/index.php?title=Otilio_Ulate_Blanco&amp;action=edit&amp;redlink=1" class="new" title="Otilio Ulate Blanco (not yet started)">Otilio Ulate Blanco</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> With more than 2,000 dead, the 44-day <a href="/w/index.php?title=Costa_Rican_Civil_War&amp;action=edit&amp;redlink=1" class="new" title="Costa Rican Civil War (not yet started)">Costa Rican Civil War</a> was the bloodiest event in Costa Rica during the 20th century. </p>
+      <p>The victorious rebels formed a government that <a href="/w/index.php?title=Military_of_Costa_Rica&amp;action=edit&amp;redlink=1" class="new" title="Military of Costa Rica (not yet started)">abolished the military</a>. It oversaw the drafting of a new constitution by a democratically elected assembly.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Having enacted these reforms, the junta relinquished its power on November 8, 1949, to the new democratic government. After that, Figueres became a national hero, winning the country's first democratic election under the new constitution in 1953. Since then, Costa Rica has held 14 presidential elections, the latest in 2014. All of them have been widely regarded by the international community as peaceful and transparent. </p> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=7" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Costa Rica is on the Central American <a href="/wiki/Isthmus" title="Isthmus">isthmus</a>. It is between latitudes 8<a href="/w/index.php?title=8th_parallel_north&amp;action=edit&amp;redlink=1" class="new" title="8th parallel north (not yet started)">°</a> and <a href="/w/index.php?title=12th_parallel_north&amp;action=edit&amp;redlink=1" class="new" title="12th parallel north (not yet started)">12°N</a>, and longitudes <a href="/w/index.php?title=82nd_meridian_west&amp;action=edit&amp;redlink=1" class="new" title="82nd meridian west (not yet started)">82°</a> and <a href="/w/index.php?title=86th_meridian_west&amp;action=edit&amp;redlink=1" class="new" title="86th meridian west (not yet started)">86°W</a>. It borders the <a href="/wiki/Caribbean_Sea" title="Caribbean Sea">Caribbean Sea</a> to the east and the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> to the west. It has a total of 1,290 kilometres (800&nbsp;mi) of coastline. Costa Rica also borders <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a> to the north (309&nbsp;km or 192&nbsp;mi of border) and <a href="/wiki/Panama" title="Panama">Panama</a> to the southeast (639&nbsp;km or 397&nbsp;mi of border). In total, Costa Rica has 51,100 square kilometres (19,700&nbsp;sq&nbsp;mi) plus 589 square kilometres (227&nbsp;sq&nbsp;mi) of <a href="/wiki/Territorial_waters" title="Territorial waters">territorial waters</a>. </p>
+      <p>The highest point in the country is <a href="/wiki/Cerro_Chirrip%C3%B3" title="Cerro Chirripó">Cerro Chirripó</a>, at 3,819 metres (12,530&nbsp;ft). The largest lake in Costa Rica is <a href="/w/index.php?title=Lake_Arenal&amp;action=edit&amp;redlink=1" class="new" title="Lake Arenal (not yet started)">Lake Arenal</a>. </p> 
+      <h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: Climate">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=8" title="Change section: Climate">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Costa Rica is located between 8 and 12 degrees north of the <a href="/wiki/Equator" title="Equator">Equator</a>. The climate is <a href="/wiki/Tropical_climate" title="Tropical climate">tropical</a> all year. The country has many <a href="/w/index.php?title=Microclimate&amp;action=edit&amp;redlink=1" class="new" title="Microclimate (not yet started)">microclimates</a> depending on <a href="/wiki/Elevation" title="Elevation">elevation</a>, <a href="/wiki/Rainfall" class="mw-redirect" title="Rainfall">rainfall</a>, and the <a href="/wiki/Geography" title="Geography">geography</a> of each region. </p>
+      <p>Costa Rica's seasons are defined by how much rain falls. It does not have the <a href="/wiki/Season" title="Season">four seasons</a> other countries have. The year can be split into two seasons: the dry season (known as summer), and the rainy season (known as winter). The "summer" starts in December and ends in April. "Winter" starts in May and ends in November. During this time it rains constantly in some regions. </p>
+      <p>The location receiving the most rain is the Caribbean. Annual rainfall is over 5,000&nbsp;mm (196.9&nbsp;in). Humidity is also higher here. The mean annual <a href="/wiki/Temperature" title="Temperature">temperature</a> on the coast is around 27&nbsp;°C (81&nbsp;°F). 20&nbsp;°C (68&nbsp;°F) in the main populated areas, and below 10&nbsp;°C (50&nbsp;°F) on the highest mountains.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </p> 
+      <div> 
+       <table class="wikitable collapsible" style="width:100%; text-align:center; line-height: 1.2em; margin:auto;"> 
+        <tbody>
+         <tr> 
+          <th colspan="14">Climate data for Costa Rica </th>
+         </tr> 
+         <tr> 
+          <th scope="row">Month </th> 
+          <th scope="col">Jan </th> 
+          <th scope="col">Feb </th> 
+          <th scope="col">Mar </th> 
+          <th scope="col">Apr </th> 
+          <th scope="col">May </th> 
+          <th scope="col">Jun </th> 
+          <th scope="col">Jul </th> 
+          <th scope="col">Aug </th> 
+          <th scope="col">Sep </th> 
+          <th scope="col">Oct </th> 
+          <th scope="col">Nov </th> 
+          <th scope="col">Dec </th> 
+          <th scope="col" style="border-left-width:medium">Year </th>
+         </tr> 
+         <tr style="text-align: center;"> 
+          <th scope="row" style="height: 16px;">Average high °C (°F) </th> 
+          <td style="background: #FF6300; color:#000000;">27<br>(81) </td> 
+          <td style="background: #FF6300; color:#000000;">27<br>(81) </td> 
+          <td style="background: #FF5D00; color:#000000;">28<br>(82) </td> 
+          <td style="background: #FF5D00; color:#000000;">28<br>(82) </td> 
+          <td style="background: #FF6300; color:#000000;">27<br>(81) </td> 
+          <td style="background: #FF6300; color:#000000;">27<br>(81) </td> 
+          <td style="background: #FF6300; color:#000000;">27<br>(81) </td> 
+          <td style="background: #FF6300; color:#000000;">27<br>(81) </td> 
+          <td style="background: #FF6A00; color:#000000;">26<br>(79) </td> 
+          <td style="background: #FF6A00; color:#000000;">26<br>(79) </td> 
+          <td style="background: #FF6A00; color:#000000;">26<br>(79) </td> 
+          <td style="background: #FF6A00; color:#000000;">26<br>(79) </td> 
+          <td style="background: #FF6300; color:#000000; border-left-width:medium">27<br>(81) </td>
+         </tr> 
+         <tr style="text-align: center;"> 
+          <th scope="row" style="height: 16px;">Average low °C (°F) </th> 
+          <td style="background: #FFA852; color:#000000;">17<br>(63) </td> 
+          <td style="background: #FFA144; color:#000000;">18<br>(64) </td> 
+          <td style="background: #FFA144; color:#000000;">18<br>(64) </td> 
+          <td style="background: #FFA144; color:#000000;">18<br>(64) </td> 
+          <td style="background: #FFA144; color:#000000;">18<br>(64) </td> 
+          <td style="background: #FFA144; color:#000000;">18<br>(64) </td> 
+          <td style="background: #FFA144; color:#000000;">18<br>(64) </td> 
+          <td style="background: #FFA144; color:#000000;">18<br>(64) </td> 
+          <td style="background: #FFA852; color:#000000;">17<br>(63) </td> 
+          <td style="background: #FFA144; color:#000000;">18<br>(64) </td> 
+          <td style="background: #FFA144; color:#000000;">18<br>(64) </td> 
+          <td style="background: #FFA144; color:#000000;">18<br>(64) </td> 
+          <td style="background: #FFA144; color:#000000; border-left-width:medium">18<br>(64) </td>
+         </tr> 
+         <tr style="text-align: center;"> 
+          <th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches) </th> 
+          <td style="background: #F5F5FF; color:#000000;">6.3<br>(0.25) </td> 
+          <td style="background: #EEEEFF; color:#000000;">10.2<br>(0.40) </td> 
+          <td style="background: #EAEAFF; color:#000000;">13.8<br>(0.54) </td> 
+          <td style="background: #8383FF; color:#000000;">79.9<br>(3.15) </td> 
+          <td style="background: #00006F; color:#FFFFFF;">267.6<br>(10.54) </td> 
+          <td style="background: #00004E; color:#FFFFFF;">280.1<br>(11.03) </td> 
+          <td style="background: #0000EF; color:#FFFFFF;">181.5<br>(7.15) </td> 
+          <td style="background: #000061; color:#FFFFFF;">276.9<br>(10.90) </td> 
+          <td style="background: #000030; color:#FFFFFF;">355.1<br>(13.98) </td> 
+          <td style="background: #000030; color:#FFFFFF;">330.6<br>(13.02) </td> 
+          <td style="background: #2E2EFF; color:#FFFFFF;">135.5<br>(5.33) </td> 
+          <td style="background: #CDCDFF; color:#000000;">33.5<br>(1.32) </td> 
+          <td style="background: #0505FF; color:#FFFFFF; border-left-width:medium">1,971<br>(77.61) </td>
+         </tr> 
+         <tr style="text-align: center;"> 
+          <th scope="row" style="height: 16px;">Percent <a href="/wiki/Sunshine_duration" class="mw-redirect" title="Sunshine duration">possible sunshine</a> </th> 
+          <td style="background: #EEEE0A; color:#000000;">40 </td> 
+          <td style="background: #E8E800; color:#000000;">37 </td> 
+          <td style="background: #ECEC06; color:#000000;">39 </td> 
+          <td style="background: #E2E200; color:#000000;">33 </td> 
+          <td style="background: #D4D400; color:#000000;">25 </td> 
+          <td style="background: #C3C311; color:#000000;">20 </td> 
+          <td style="background: #C6C600; color:#000000;">21 </td> 
+          <td style="background: #CACA00; color:#000000;">22 </td> 
+          <td style="background: #C3C311; color:#000000;">20 </td> 
+          <td style="background: #CACA00; color:#000000;">22 </td> 
+          <td style="background: #D4D400; color:#000000;">25 </td> 
+          <td style="background: #E3E300; color:#000000;">34 </td> 
+          <td style="background: #D9D900; color:#000000; border-left-width:medium">28 </td>
+         </tr> 
+         <tr> 
+          <td colspan="14" style="text-align:center;font-size:95%;">Source: <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </td>
+         </tr>
+        </tbody>
+       </table> 
+      </div> 
+      <p><br> There are many <a href="/wiki/National_Parks_of_Costa_Rica" title="National Parks of Costa Rica">national parks</a> in Costa Rica, including <a href="/wiki/Manuel_Antonio_National_Park" title="Manuel Antonio National Park">Manuel Antonio National Park</a>. </p> 
+      <h3><span class="mw-headline" id="Plants_and_animals">Plants and animals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Plants and animals">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=9" title="Change section: Plants and animals">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Red_eyed_tree_frog_edit2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Red_eyed_tree_frog_edit2.jpg/220px-Red_eyed_tree_frog_edit2.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Red_eyed_tree_frog_edit2.jpg/330px-Red_eyed_tree_frog_edit2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Red_eyed_tree_frog_edit2.jpg/440px-Red_eyed_tree_frog_edit2.jpg 2x" data-file-width="2293" data-file-height="1720"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Red_eyed_tree_frog_edit2.jpg" class="internal" title="Enlarge"></a>
+         </div>Red-eyed Tree Frog (<i><a href="/wiki/Agalychnis_callidryas" title="Agalychnis callidryas">Agalychnis callidryas</a></i>)
+        </div>
+       </div>
+      </div> 
+      <p>Costa Rica is home to many plants and animals. The country has only about 0.25% of the world's landmass, but it has 5% of the world's <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a>.<sup id="cite_ref-Guardian07_17-0" class="reference"><a href="#cite_note-Guardian07-17">[17]</a></sup><sup id="cite_ref-Honey99_18-0" class="reference"><a href="#cite_note-Honey99-18">[18]</a></sup> Almost 25% of Costa Rica's land area is in national parks and protected areas. <sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> This is the largest percentage of protected areas in the world.<sup id="cite_ref-ODI1_21-0" class="reference"><a href="#cite_note-ODI1-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> </p>
+      <p>Costa Rica successfully reduced <a href="/wiki/Deforestation" title="Deforestation">deforestation</a>. It had one of the worst deforestation rates in the world from 1973 to 1989. But it was almost zero by 2005.<sup id="cite_ref-ODI1_21-1" class="reference"><a href="#cite_note-ODI1-21">[21]</a></sup> </p>
+      <p>The <a href="/wiki/Corcovado_National_Park" title="Corcovado National Park">Corcovado National Park</a> is internationally known by <a href="/wiki/Ecologist" class="mw-redirect" title="Ecologist">ecologists</a> for its biodiversity. Visitors can see many different types of animals. An example is the <a href="/w/index.php?title=Big_cats&amp;action=edit&amp;redlink=1" class="new" title="Big cats (not yet started)">big cats</a> and <a href="/wiki/Tapirs" class="mw-redirect" title="Tapirs">tapirs</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Corcovado is the only park in Costa Rica where all four Costa Rican monkeys can be found.<sup id="cite_ref-watching_26-0" class="reference"><a href="#cite_note-watching-26">[26]</a></sup> These include the <a href="/wiki/White-headed_capuchin" title="White-headed capuchin">white-headed capuchin</a>, the <a href="/w/index.php?title=Mantled_howler&amp;action=edit&amp;redlink=1" class="new" title="Mantled howler (not yet started)">mantled howler</a>,the endangered <a href="/w/index.php?title=Geoffroy%27s_spider_monkey&amp;action=edit&amp;redlink=1" class="new" title="Geoffroy's spider monkey (not yet started)">Geoffroy's spider monkey</a><sup id="cite_ref-watching_26-1" class="reference"><a href="#cite_note-watching-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> and the <a href="/w/index.php?title=Central_American_squirrel_monkey&amp;action=edit&amp;redlink=1" class="new" title="Central American squirrel monkey (not yet started)">Central American squirrel monkey</a>. The squirrel monkey is found only on the Pacific coast of Costa Rica and a small part of <a href="/wiki/Panama" title="Panama">Panama</a>. </p>
+      <p><a href="/w/index.php?title=Tortuguero_National_Park&amp;action=edit&amp;redlink=1" class="new" title="Tortuguero National Park (not yet started)">Tortuguero National Park</a> is home to spider, howler, and white-throat Capuchin monkeys. It is also the home of <a href="/w/index.php?title=Three-toed_sloth&amp;action=edit&amp;redlink=1" class="new" title="Three-toed sloth (not yet started)">three-toed sloth</a> and <a href="/w/index.php?title=Two-toed_sloth&amp;action=edit&amp;redlink=1" class="new" title="Two-toed sloth (not yet started)">two-toed sloth</a>. It has 320 species of birds and many reptiles. There is an annual nesting of the endangered <a href="/wiki/Green_turtle" class="mw-redirect" title="Green turtle">green turtle</a>, and is the most important nesting site for the species. Giant <a href="/wiki/Leatherback_turtle" class="mw-redirect" title="Leatherback turtle">leatherback</a>, <a href="/wiki/Hawksbill_turtle" class="mw-redirect" title="Hawksbill turtle">hawksbill</a>, and <a href="/wiki/Loggerhead_Sea_Turtle" class="mw-redirect" title="Loggerhead Sea Turtle">loggerhead</a> turtles also nest here. </p>
+      <p>The <a href="/w/index.php?title=Monteverde_Cloud_Forest_Reserve&amp;action=edit&amp;redlink=1" class="new" title="Monteverde Cloud Forest Reserve (not yet started)">Monteverde Cloud Forest Reserve</a> is home to almost 2,000 plant species.<sup id="cite_ref-karttv_28-0" class="reference"><a href="#cite_note-karttv-28">[28]</a></sup> Including many <a href="/wiki/Orchid" title="Orchid">orchids</a>. It is also home to more than 400 types of birds. There are more than 100 species of mammals here.<sup id="cite_ref-karttv_28-1" class="reference"><a href="#cite_note-karttv-28">[28]</a></sup> </p>
+      <p>Costa Rica is a center of biological diversity for reptiles and <a href="/wiki/Amphibians" class="mw-redirect" title="Amphibians">amphibians</a>. They have the world's fastest running lizard, the spiny-tailed iguana (<i><a href="/w/index.php?title=Ctenosaura_similis&amp;action=edit&amp;redlink=1" class="new" title="Ctenosaura similis (not yet started)">Ctenosaura similis</a></i>).<sup id="cite_ref-'Garland1984'_29-0" class="reference"><a href="#cite_note-'Garland1984'-29">[29]</a></sup> </p> 
+      <h2><span id="Provinces.2C_cantons.2C_and_districts"></span><span class="mw-headline" id="Provinces,_cantons,_and_districts">Provinces, cantons, and districts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: Provinces, cantons, and districts">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=10" title="Change section: Provinces, cantons, and districts">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:La_Sabana-Costa_Rica_2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/La_Sabana-Costa_Rica_2.JPG/220px-La_Sabana-Costa_Rica_2.JPG" decoding="async" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/La_Sabana-Costa_Rica_2.JPG/330px-La_Sabana-Costa_Rica_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/La_Sabana-Costa_Rica_2.JPG/440px-La_Sabana-Costa_Rica_2.JPG 2x" data-file-width="499" data-file-height="298"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:La_Sabana-Costa_Rica_2.JPG" class="internal" title="Enlarge"></a>
+         </div>La Sabana Park in San José
+        </div>
+       </div>
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: <a href="/wiki/List_of_cities_in_Costa_Rica" title="List of cities in Costa Rica">List of cities in Costa Rica</a>
+      </div> 
+      <p><b>Article 168</b><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> of the <b>Constitution of Costa Rica</b> says the political divisions are classified into 3 groups: <a href="/wiki/Province" title="Province">provinces</a>, cantons, and districts. Costa Rica has seven <a href="/wiki/Province" title="Province">provinces</a>. The provinces are divided into 81 cantons. The canton is directed by a <a href="/wiki/Mayor" title="Mayor">mayor</a>. Mayors are chosen democratically every four years by the canton's people. There are no provincial legislatures. The cantons are further divided into 463 districts. </p>
+      <p>The provinces are: </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <td style="width:15px;">1.</td> 
+         <td style="width:90px;"><a href="/wiki/Alajuela_Province" title="Alajuela Province">Alajuela</a></td> 
+         <td style="width:185px; font-size:90%;">(Center-North)</td> 
+         <td rowspan="7" style="width:204px; vertical-align:middle;">
+          <div class="center">
+           <div class="floatnone">
+            <a href="/wiki/File:Provinces_Costa_Rica.png" class="image" title="Provinces of Costa Rica"><img alt="Provinces of Costa Rica" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Provinces_Costa_Rica.png/200px-Provinces_Costa_Rica.png" decoding="async" width="200" height="184" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Provinces_Costa_Rica.png/300px-Provinces_Costa_Rica.png 1.5x, //upload.wikimedia.org/wikipedia/commons/0/00/Provinces_Costa_Rica.png 2x" data-file-width="345" data-file-height="317"></a>
+           </div>
+          </div></td>
+        </tr> 
+        <tr>
+         <td>2.</td> 
+         <td><a href="/wiki/Cartago_Province" title="Cartago Province">Cartago</a></td> 
+         <td style="font-size:90%;">(East Central Valley)</td>
+        </tr> 
+        <tr>
+         <td>3.</td> 
+         <td><a href="/wiki/Guanacaste_Province" title="Guanacaste Province">Guanacaste</a></td> 
+         <td style="font-size:90%;">(North Pacific)</td>
+        </tr> 
+        <tr>
+         <td>4.</td> 
+         <td><a href="/wiki/Heredia_Province" title="Heredia Province">Heredia</a></td> 
+         <td style="font-size:90%;">(Center-North)</td>
+        </tr> 
+        <tr>
+         <td>5.</td> 
+         <td><a href="/wiki/Lim%C3%B3n_Province" title="Limón Province">Limón</a></td> 
+         <td style="font-size:90%;">(Caribbean Coast)</td>
+        </tr> 
+        <tr>
+         <td>6.</td> 
+         <td><a href="/wiki/Puntarenas_Province" title="Puntarenas Province">Puntarenas</a></td> 
+         <td style="font-size:90%;">(Central and South Pacific)</td>
+        </tr> 
+        <tr>
+         <td>7.</td> 
+         <td><a href="/wiki/San_Jos%C3%A9_Province" title="San José Province">San José</a></td> 
+         <td style="font-size:90%;">(Central Valley)</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Change section: Sports">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=11" title="Change section: Sports">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_(5).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_%285%29.jpg/220px-Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_%285%29.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_%285%29.jpg/330px-Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_%285%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_%285%29.jpg/440px-Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_%285%29.jpg 2x" data-file-width="5760" data-file-height="3840"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Uruguay_-_Costa_Rica_FIFA_World_Cup_2014_(5).jpg" class="internal" title="Enlarge"></a>
+         </div><a href="/w/index.php?title=Michael_Uma%C3%B1a&amp;action=edit&amp;redlink=1" class="new" title="Michael Umaña (not yet started)">Michael Umaña</a> (red) at 2014 FIFA World Cup
+        </div>
+       </div>
+      </div> 
+      <p>Costa Rica entered the <a href="/wiki/Summer_Olympics" class="mw-redirect" title="Summer Olympics">Summer Olympics</a> for the first time in 1936 with the fencer <a href="/w/index.php?title=Bernardo_de_la_Guardia&amp;action=edit&amp;redlink=1" class="new" title="Bernardo de la Guardia (not yet started)">Bernardo de la Guardia</a>. They entered the <a href="/wiki/Winter_Olympics" class="mw-redirect" title="Winter Olympics">Winter Olympics</a> for the first time in 1980 with the skier <a href="/w/index.php?title=Arturo_Kinch&amp;action=edit&amp;redlink=1" class="new" title="Arturo Kinch (not yet started)">Arturo Kinch</a>. All four of Costa Rica's Olympic medals were won by the sisters <a href="/wiki/Silvia_Poll" title="Silvia Poll">Silvia</a> and <a href="/wiki/Claudia_Poll" title="Claudia Poll">Claudia Poll</a> in <a href="/wiki/Swimming_(sport)" class="mw-redirect" title="Swimming (sport)">swimming</a>. Claudia won the country's only gold medal in <a href="/wiki/1996_Summer_Olympics" title="1996 Summer Olympics">1996</a>. </p>
+      <p><a href="/wiki/Association_football" title="Association football">Association football</a> is the most popular sport in Costa Rica. The <a href="/wiki/Costa_Rica_national_football_team" title="Costa Rica national football team">national team</a> has played in four <a href="/wiki/FIFA_World_Cup" title="FIFA World Cup">FIFA World Cup</a> tournaments. They reached the quarter-finals for the first time in <a href="/wiki/2014_FIFA_World_Cup" title="2014 FIFA World Cup">2014</a>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> Its best performance in the regional <a href="/wiki/CONCACAF_Gold_Cup" title="CONCACAF Gold Cup">CONCACAF Gold Cup</a> was runner-up in <a href="/w/index.php?title=2002_CONCACAF_Gold_Cup&amp;action=edit&amp;redlink=1" class="new" title="2002 CONCACAF Gold Cup (not yet started)">2002</a>. </p> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=12" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Costa_Rican_people" title="Costa Rican people">Costa Rican people</a></li> 
+       <li><a href="/wiki/Costa_Rica_at_the_Olympics" title="Costa Rica at the Olympics">Costa Rica at the Olympics</a></li> 
+       <li><a href="/wiki/Costa_Rica_national_football_team" title="Costa Rica national football team">Costa Rica national football team</a></li> 
+       <li><a href="/wiki/List_of_rivers_of_Costa_Rica" title="List of rivers of Costa Rica">List of rivers of Costa Rica</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=13" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns references-column-width" style="column-width: 30em; -moz-column-width: 30em; -webkit-column-width: 30em; list-style-type: decimal;"> 
+       <ol class="references"> 
+        <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.inec.go.cr/Web/Home/pagPrincipal.aspx">"Censo Nacional 2011"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Censo+Nacional+2011&amp;rft_id=http%3A%2F%2Fwww.inec.go.cr%2FWeb%2FHome%2FpagPrincipal.aspx&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+        <li id="cite_note-CIA-2"><span class="mw-cite-backlink"><a href="#cite_ref-CIA_2-0">↑</a></span> <span class="reference-text"><cite id="CITEREFCentral_Intelligence_Agency2017" class="citation web cs1">Central Intelligence Agency (2017). <a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/cs.html">"Costa Rica"</a>. <i>The World Factbook</i>. Langley, Montana: Central Intelligence Agency<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Costa+Rica&amp;rft.date=2017&amp;rft.au=Central+Intelligence+Agency&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fcs.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-2011Census-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-2011Census_3-0">3.0</a></sup> <sup><a href="#cite_ref-2011Census_3-1">3.1</a></sup> <sup><a href="#cite_ref-2011Census_3-2">3.2</a></sup></span> <span class="reference-text"><cite id="CITEREFInstituto_Nacional_de_Estadísticas_y_Censos_(INEC)2011" class="citation web cs1">Instituto Nacional de Estadísticas y Censos (INEC) (2011-12-20). <a rel="nofollow" class="external text" href="http://www.inec.go.cr/Web/Home/Noticia.aspx?id=1">"Costa Rica tiene 4 301 712 habitantes"</a> (in Spanish). INEC, Costa Rica<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Costa+Rica+tiene+4+301+712+habitantes&amp;rft.pub=INEC%2C+Costa+Rica&amp;rft.date=2011-12-20&amp;rft.au=Instituto+Nacional+de+Estad%C3%ADsticas+y+Censos+%28INEC%29&amp;rft_id=http%3A%2F%2Fwww.inec.go.cr%2FWeb%2FHome%2FNoticia.aspx%3Fid%3D1&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-imf2-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_4-0">4.0</a></sup> <sup><a href="#cite_ref-imf2_4-1">4.1</a></sup> <sup><a href="#cite_ref-imf2_4-2">4.2</a></sup> <sup><a href="#cite_ref-imf2_4-3">4.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=68&amp;pr.y=11&amp;sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=238&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Costa Rica"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Costa+Rica&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D68%26pr.y%3D11%26sy%3D2009%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D238%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-wb-gini-5"><span class="mw-cite-backlink"><a href="#cite_ref-wb-gini_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://data.worldbank.org/indicator/SI.POV.GINI/">"Gini Index"</a>. World Bank<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gini+Index&amp;rft.pub=World+Bank&amp;rft_id=http%3A%2F%2Fdata.worldbank.org%2Findicator%2FSI.POV.GINI%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-HDI11-6"><span class="mw-cite-backlink"><a href="#cite_ref-HDI11_6-0">↑</a></span> <span class="reference-text"><cite id="CITEREFUNDP_Human_Development_Report_2011" class="citation web cs1">UNDP Human Development Report 2011. <a rel="nofollow" class="external text" href="http://hdr.unda.org/en/media/HDR_2011_EN_Complete.pdf">"Table 1: elf Development Index and its components"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/UNDP" class="mw-redirect" title="UNDP">UNDP</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Table+1%3A+elf+Development+Index+and+its+components&amp;rft.pub=UNDP&amp;rft.au=UNDP+Human+Development+Report+2011&amp;rft_id=http%3A%2F%2Fhdr.unda.org%2Fen%2Fmedia%2FHDR_2011_EN_Complete.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"> <i>pp. 4, 42 (see Table 2.4 and Box 2.10) and 128</i>.</span> </li> 
+        <li id="cite_note-embassy-7"><span class="mw-cite-backlink"><a href="#cite_ref-embassy_7-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.costarica-embassy.org/index.php?q=node/19">"About Costa Rica"</a>. <i>Embassy of Costa Rica in Washington DC</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Embassy+of+Costa+Rica+in+Washington+DC&amp;rft.atitle=About+Costa+Rica&amp;rft_id=http%3A%2F%2Fwww.costarica-embassy.org%2Findex.php%3Fq%3Dnode%2F19&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-lp-8"><span class="mw-cite-backlink"><a href="#cite_ref-lp_8-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.lonelyplanet.com/costa-rica/history">"History of Costa Rica"</a>. <i>Lonely Planet</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Lonely+Planet&amp;rft.atitle=History+of+Costa+Rica&amp;rft_id=http%3A%2F%2Fwww.lonelyplanet.com%2Fcosta-rica%2Fhistory&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite class="citation book cs1"><i>Claudia Quirós. La Era de la Encomienda. Historia de Costa Rica. Editorial de la Universidad de Costa Rica. 1990</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Claudia+Quir%C3%B3s.++La+Era+de+la+Encomienda.+Historia+de+Costa+Rica.+Editorial+de+la+Universidad+de+Costa+Rica.+1990.&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite id="CITEREFShafer1994" class="citation book cs1">Shafer, D. Michael (1994). <i>Winners and losers: how sectors shape the developmental prospects of states</i>. Ithaca, N.Y.: Cornell University Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-8014-8188-8" title="Special:BookSources/978-0-8014-8188-8"><bdi>978-0-8014-8188-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Winners+and+losers%3A+how+sectors+shape+the+developmental+prospects+of+states&amp;rft.place=Ithaca%2C+N.Y.&amp;rft.pub=Cornell+University+Press&amp;rft.date=1994&amp;rft.isbn=978-0-8014-8188-8&amp;rft.aulast=Shafer&amp;rft.aufirst=D.+Michael&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.costarica.com/Destinations/Cities-and-Towns/Cartago/">"Costa Rica – Cartago"</a>. Costarica.com. 2009-05-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Costa+Rica+%E2%80%93+Cartago&amp;rft.pub=Costarica.com&amp;rft.date=2009-05-22&amp;rft_id=http%3A%2F%2Fwww.costarica.com%2FDestinations%2FCities-and-Towns%2FCartago%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.everyculture.com/Middle-America-Caribbean/Blacks-of-Costa-Rica.html">"Blacks of Costa Rica"</a>. <i>World Culture Encyclopedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=World+Culture+Encyclopedia&amp;rft.atitle=Blacks+of+Costa+Rica&amp;rft_id=http%3A%2F%2Fwww.everyculture.com%2FMiddle-America-Caribbean%2FBlacks-of-Costa-Rica.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">See <a rel="nofollow" class="external text" href="http://reachian.googlepages.com/seniorthesis2">Ian Holzhauer, "The Presidency of Calderón Guardia" (University of Florida History Thesis, 2004)</a></span> </li> 
+        <li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="https://www.nytimes.com/2010/01/07/opinion/07kristof.html?_r=1">The Happiest People</a>". The New York Times. January 6, 2010.</span> </li> 
+        <li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><cite id="CITEREFEggar" class="citation web cs1">Eggar, Marc. <a rel="nofollow" class="external text" href="http://www.worldheadquarters.com/cr/climate/">"Climate/Weather"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 June</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Climate%2FWeather&amp;rft.aulast=Eggar&amp;rft.aufirst=Marc&amp;rft_id=http%3A%2F%2Fwww.worldheadquarters.com%2Fcr%2Fclimate%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.costaricaguides.com/Climate.html">Costa Rica Weather</a>". Costa Rica Guides</span> </li> 
+        <li id="cite_note-Guardian07-17"><span class="mw-cite-backlink"><a href="#cite_ref-Guardian07_17-0">↑</a></span> <span class="reference-text"><cite id="CITEREFLeo_Hickman2007" class="citation news cs1">Leo Hickman (2007-05-26). <a rel="nofollow" class="external text" href="http://www.guardian.co.uk/travel/2007/may/26/saturday.costarica">"Shades of green"</a>. London: The Guardian<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Shades+of+green&amp;rft.date=2007-05-26&amp;rft.au=Leo+Hickman&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Ftravel%2F2007%2Fmay%2F26%2Fsaturday.costarica&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-Honey99-18"><span class="mw-cite-backlink"><a href="#cite_ref-Honey99_18-0">↑</a></span> <span class="reference-text"><cite id="CITEREFHoney1999" class="citation journal cs1">Honey, Martha (1999). "Ecotourism and Sustainable Development: Who Owns Paradise?". Island Press; 1 edition, Washington, D.C.: 128–181. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-55963-582-0" title="Special:BookSources/978-1-55963-582-0"><bdi>978-1-55963-582-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ecotourism+and+Sustainable+Development%3A+Who+Owns+Paradise%3F&amp;rft.pages=128-181&amp;rft.date=1999&amp;rft.isbn=978-1-55963-582-0&amp;rft.aulast=Honey&amp;rft.aufirst=Martha&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"> Chapter 5. Costa Rica: On the Beaten Path</span> </li> 
+        <li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://unfccc.int/resource/docs/2006/sbsta/eng/misc05.pdf">"United Nations Framework Convention on Climate Change. "Issues relating to reducing emissions from deforestation in developing countries and recommendations on any further process<span class="cs1-kern-right">"</span>"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=United+Nations+Framework+Convention+on+Climate+Change.+%22Issues+relating+to+reducing+emissions+from+deforestation+in+developing+countries+and+recommendations+on+any+further+process%22&amp;rft_id=http%3A%2F%2Funfccc.int%2Fresource%2Fdocs%2F2006%2Fsbsta%2Feng%2Fmisc05.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><cite id="CITEREFEarth_Trends2003" class="citation web cs1">Earth Trends (2003). <a rel="nofollow" class="external text" href="http://earthtrends.wri.org/pdf_library/country_profiles/bio_cou_188.pdf">"Biodiversity and Protected Areas – Costa Rica"</a> <span class="cs1-format">(PDF)</span>. World Resources Institute<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biodiversity+and+Protected+Areas+%E2%80%93+Costa+Rica&amp;rft.pub=World+Resources+Institute&amp;rft.date=2003&amp;rft.au=Earth+Trends&amp;rft_id=http%3A%2F%2Fearthtrends.wri.org%2Fpdf_library%2Fcountry_profiles%2Fbio_cou_188.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-ODI1-21"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ODI1_21-0">21.0</a></sup> <sup><a href="#cite_ref-ODI1_21-1">21.1</a></sup></span> <span class="reference-text">Jessica Brown and Neil Bird 2010. <a rel="nofollow" class="external text" href="http://www.odi.org.uk/resources/details.asp?id=5049&amp;title=costa-rica-sustainable-resource-management-successfully-tackling-tropical-deforestation">Costa Rica sustainable resource management: Successfully tackling tropical deforestation</a>. London: <a href="/w/index.php?title=Overseas_Development_Institute&amp;action=edit&amp;redlink=1" class="new" title="Overseas Development Institute (not yet started)">Overseas Development Institute</a></span> </li> 
+        <li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.worldheadquarters.com/cr/protected_areas/">"Costa Rica National Parks and Reserves"</a>. World Headquarters. 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Costa+Rica+National+Parks+and+Reserves&amp;rft.pub=World+Headquarters&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.worldheadquarters.com%2Fcr%2Fprotected_areas%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><cite id="CITEREFLeonardo_Coutinho_and_Otávio_Cabral2008" class="citation web cs1">Leonardo Coutinho and Otávio Cabral (2008-05-21). <a rel="nofollow" class="external text" href="http://planetasustentavel.abril.com.br/noticia/desenvolvimento/conteudo_280147.shtml?func=2">"O desafio da economia verde"</a> (in Portuguese). Revista Veja<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=O+desafio+da+economia+verde&amp;rft.pub=Revista+Veja&amp;rft.date=2008-05-21&amp;rft.au=Leonardo+Coutinho+and+Ot%C3%A1vio+Cabral&amp;rft_id=http%3A%2F%2Fplanetasustentavel.abril.com.br%2Fnoticia%2Fdesenvolvimento%2Fconteudo_280147.shtml%3Ffunc%3D2&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"> Published on website "Planeta Sustentável"</span> </li> 
+        <li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://costa-rica-guide.com/nature/national-parks/corcovado/">"Corcovado National Park Costa Rica"</a>. <i>costa-rica-guide.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=costa-rica-guide.com&amp;rft.atitle=Corcovado+National+Park+Costa+Rica&amp;rft_id=https%3A%2F%2Fcosta-rica-guide.com%2Fnature%2Fnational-parks%2Fcorcovado%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.govisitcostarica.com/region/city.asp?cID=350">"Diversity of Corcovado National Park"</a>. Govisitcostarica.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Diversity+of+Corcovado+National+Park&amp;rft.pub=Govisitcostarica.com&amp;rft_id=http%3A%2F%2Fwww.govisitcostarica.com%2Fregion%2Fcity.asp%3FcID%3D350&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-watching-26"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-watching_26-0">26.0</a></sup> <sup><a href="#cite_ref-watching_26-1">26.1</a></sup></span> <span class="reference-text"><cite id="CITEREFHunterAndrew2002" class="citation book cs1">Hunter, Luke; Andrew, David (2002). <i>Watching Wildlife Central America</i>. Lonely Planet. p.&nbsp;97. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-86450-034-9" title="Special:BookSources/978-1-86450-034-9"><bdi>978-1-86450-034-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Watching+Wildlife+Central+America&amp;rft.pages=97&amp;rft.pub=Lonely+Planet&amp;rft.date=2002&amp;rft.isbn=978-1-86450-034-9&amp;rft.aulast=Hunter&amp;rft.aufirst=Luke&amp;rft.au=Andrew%2C+David&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><cite id="CITEREFCuarón,_A.D.,_Morales,_A.,_Shedden,_A.,_Rodriguez-Luna,_E._&amp;_de_Grammont,_P.C.2008" class="citation web cs1">Cuarón, A.D., Morales, A., Shedden, A., Rodriguez-Luna, E. &amp; de Grammont, P.C. (2008). <a rel="nofollow" class="external text" href="https://iucnredlist.org/details/2279/0">"<i>Ateles geoffroyi</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2008</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" class="mw-redirect" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species.+Version+2008&amp;rft.atitle=Ateles+geoffroyi&amp;rft.date=2008&amp;rft.au=Cuar%C3%B3n%2C+A.D.%2C+Morales%2C+A.%2C+Shedden%2C+A.%2C+Rodriguez-Luna%2C+E.+%26+de+Grammont%2C+P.C.&amp;rft_id=https%3A%2F%2Fiucnredlist.org%2Fdetails%2F2279%2F0&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite has empty unknown parameter: <code class="cs1-code">|last-author-amp=</code> (<a href="/wiki/Help:CS1_errors#param_unknown_empty" title="Help:CS1 errors">help</a>)</span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>) CS1 maint: ref=harv (<a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">link</a>)</span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-karttv-28"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-karttv_28-0">28.0</a></sup> <sup><a href="#cite_ref-karttv_28-1">28.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.govisitcostarica.com/region/city.asp?cID=402">"Monteverde Cloud Forest Reserve"</a>. Govisitcostarica.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Monteverde+Cloud+Forest+Reserve&amp;rft.pub=Govisitcostarica.com&amp;rft_id=http%3A%2F%2Fwww.govisitcostarica.com%2Fregion%2Fcity.asp%3FcID%3D402&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-'Garland1984'-29"><span class="mw-cite-backlink"><a href="#cite_ref-'Garland1984'_29-0">↑</a></span> <span class="reference-text"><cite id="CITEREFGarland1984" class="citation journal cs1">Garland, T., Jr. (1984). <a rel="nofollow" class="external text" href="http://www.biology.ucr.edu/people/faculty/Garland/Garl1984.pdf">"Physiological correlates of locomotory performance in a lizard: an allometric approach"</a> <span class="cs1-format">(PDF)</span>. <i>American Journal of Physiology</i>. <b>247</b> (5 Pt 2): R806–R815. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/6238543">6238543</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Journal+of+Physiology&amp;rft.atitle=Physiological+correlates+of+locomotory+performance+in+a+lizard%3A+an+allometric+approach&amp;rft.volume=247&amp;rft.issue=5+Pt+2&amp;rft.pages=R806-R815&amp;rft.date=1984&amp;rft_id=info%3Apmid%2F6238543&amp;rft.aulast=Garland&amp;rft.aufirst=T.%2C+Jr.&amp;rft_id=http%3A%2F%2Fwww.biology.ucr.edu%2Fpeople%2Ffaculty%2FGarland%2FGarl1984.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.constitution.org/cons/costaric.htm">"CONSTITUCION POLITICA DE LA REPUBLICA DE COSTA RICA 1949"</a>. <i>www.constitution.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.constitution.org&amp;rft.atitle=CONSTITUCION+POLITICA+DE+LA+REPUBLICA+DE+COSTA+RICA+1949&amp;rft_id=http%3A%2F%2Fwww.constitution.org%2Fcons%2Fcostaric.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        <li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><cite id="CITEREFGriffiths,_F.2014" class="citation web cs1">Griffiths, F. (June 24, 2014). <a rel="nofollow" class="external text" href="https://www.thestar.com/sports/soccer/2014/06/24/world_cup_costa_rica_defies_the_odds_in_winning_group_d.html">"World Cup: Costa Rica defies the odds in winning Group D"</a>. <a href="/w/index.php?title=Toronto_Star&amp;action=edit&amp;redlink=1" class="new" title="Toronto Star (not yet started)">Toronto Star</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+Cup%3A+Costa+Rica+defies+the+odds+in+winning+Group+D&amp;rft.pub=Toronto+Star&amp;rft.date=2014-06-24&amp;rft.au=Griffiths%2C+F.&amp;rft_id=https%3A%2F%2Fwww.thestar.com%2Fsports%2Fsoccer%2F2014%2F06%2F24%2Fworld_cup_costa_rica_defies_the_odds_in_winning_group_d.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ACosta+Rica" class="Z3988"></span>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Costa_Rica&amp;action=edit&amp;section=14" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> Media related to <a href="https://commons.wikimedia.org/wiki/Special:Search/Costa_Rica" class="extiw" title="commons:Special:Search/Costa Rica">Costa Rica</a> at Wikimedia Commons</li> 
+       <li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></a> <a href="https://simple.wikivoyage.org/wiki/Costa_Rica" class="extiw" title="voy:Costa Rica">Costa Rica</a> travel guide from Wikivoyage</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_North_America" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_America" title="Template:North America"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:North_America&amp;action=edit&amp;redlink=1" class="new" title="Template talk:North America (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_America&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_of_North_America" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/North_America" title="North America">North America</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Independent</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>&nbsp;<b>·</b> <a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a>&nbsp;<b>·</b> <a href="/wiki/Barbados" title="Barbados">Barbados</a>&nbsp;<b>·</b> <a href="/wiki/Belize" title="Belize">Belize</a>&nbsp;<b>·</b> <a href="/wiki/Canada" title="Canada">Canada</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Costa&nbsp;Rica</a>&nbsp;<b>·</b> <a href="/wiki/Cuba" title="Cuba">Cuba</a>&nbsp;<b>·</b> <a href="/wiki/Dominica" title="Dominica">Dominica</a>&nbsp;<b>·</b> <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican&nbsp;Republic</a>&nbsp;<b>·</b> <a href="/wiki/El_Salvador" title="El Salvador">El&nbsp;Salvador</a>&nbsp;<b>·</b> <a href="/wiki/Grenada" title="Grenada">Grenada</a>&nbsp;<b>·</b> <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a>&nbsp;<b>·</b> <a href="/wiki/Haiti" title="Haiti">Haiti</a>&nbsp;<b>·</b> <a href="/wiki/Honduras" title="Honduras">Honduras</a>&nbsp;<b>·</b> <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>&nbsp;<b>·</b> <a href="/wiki/Mexico" title="Mexico">Mexico</a>&nbsp;<b>·</b> <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a>&nbsp;<b>·</b> <a href="/wiki/Panama" title="Panama">Panama</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint&nbsp;Kitts&nbsp;and&nbsp;Nevis</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint&nbsp;Lucia</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">Saint&nbsp;Vincent&nbsp;and&nbsp;the&nbsp;Grenadines</a>&nbsp;<b>·</b> <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad&nbsp;and&nbsp;Tobago</a>&nbsp;<b>·</b> <a href="/wiki/United_States" title="United States">United&nbsp;States</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Governed by other countries</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Anguilla" title="Anguilla">Anguilla</a>&nbsp;<b>·</b> <a href="/wiki/Aruba" title="Aruba">Aruba</a>&nbsp;<b>·</b> <a href="/wiki/Bermuda" title="Bermuda">Bermuda</a>&nbsp;<b>·</b> <a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British&nbsp;Virgin&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/Cura%C3%A7ao" title="Curaçao">Curaçao</a>&nbsp;<b>·</b> <a href="/wiki/Greenland" title="Greenland">Greenland</a>&nbsp;<b>·</b> <a href="/wiki/Guadeloupe" title="Guadeloupe">Guadeloupe</a>&nbsp;<b>·</b> <a href="/wiki/Martinique" title="Martinique">Martinique</a>&nbsp;<b>·</b> <a href="/wiki/Montserrat" title="Montserrat">Montserrat</a>&nbsp;<b>·</b> <a href="/wiki/Navassa_Island" title="Navassa Island">Navassa&nbsp;Island</a>&nbsp;<b>·</b> <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto&nbsp;Rico</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Martin_(Netherlands)" class="mw-redirect" title="Saint Martin (Netherlands)">Saint Martin</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Pierre_and_Miquelon" title="Saint Pierre and Miquelon">Saint-Pierre&nbsp;and&nbsp;Miquelon</a>&nbsp;<b>·</b> <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks&nbsp;and&nbsp;Caicos&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/United_States_Virgin_Islands" title="United States Virgin Islands">U.S.&nbsp;Virgin&nbsp;Islands</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q800&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q800&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q800" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" class="mw-redirect" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX451070">XX451070</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11943356v">cb11943356v</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11943356v">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4010618-4">4010618-4</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://hls-dhs-dss.ch/fr/articles/003382">003382</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000012248346X">0000 0001 2248 346X</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n79070075">n79070075</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/ba544658-8266-36cb-ac0e-3bdfbf52cb00">ba544658-8266-36cb-ac0e-3bdfbf52cb00</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10044685">10044685</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00566755">00566755</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge129641&amp;CON_LNG=ENG">ge129641</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=000975849&amp;local_base=nlx10">000975849</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/126073638">126073638</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n79070075">lccn-n79070075</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1410
+Cached time: 20201218234454
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.272 seconds
+Real time usage: 1.534 seconds
+Preprocessor visited node count: 5961/1000000
+Post‐expand include size: 127739/2097152 bytes
+Template argument size: 8882/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 18/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 87791/5000000 bytes
+Lua time usage: 0.898/10.000 seconds
+Lua memory usage: 30828350/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1393.309      1 -total
+ 47.17%  657.174      1 Template:Infobox_country
+ 45.05%  627.666      3 Template:Infobox
+ 21.54%  300.147      1 Template:Authority_control
+ 18.89%  263.141      1 Template:Reflist
+ 15.98%  222.625      3 Template:ISO_3166_code
+ 13.45%  187.441     20 Template:Cite_web
+ 10.36%  144.310      2 Template:Native_name
+  9.80%  136.524      2 Template:Lang
+  5.08%   70.742      1 Template:Weather_box
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:12411-0!canonical and timestamp 20201218234452 and revision id 7191120. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Costa_Rica&amp;oldid=7191120">https://simple.wikipedia.org/w/index.php?title=Costa_Rica&amp;oldid=7191120</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/w/index.php?title=Category:Country_articles_requiring_maintenance&amp;action=edit&amp;redlink=1" class="new" title="Category:Country articles requiring maintenance (not yet started)">Country articles requiring maintenance</a></li>
+       <li><a href="/wiki/Category:Costa_Rica" title="Category:Costa Rica">Costa Rica</a></li>
+       <li><a href="/wiki/Category:Spanish-speaking_countries" title="Category:Spanish-speaking countries">Spanish-speaking countries</a></li>
+       <li><a href="/wiki/Category:1949_establishments_in_North_America" title="Category:1949 establishments in North America">1949 establishments in North America</a></li>
+       <li><a href="/wiki/Category:20th-century_establishments_in_Costa_Rica" title="Category:20th-century establishments in Costa Rica">20th-century establishments in Costa Rica</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Pages_using_duplicate_arguments_in_template_calls" title="Category:Pages using duplicate arguments in template calls">Pages using duplicate arguments in template calls</a></li>
+       <li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li>
+       <li><a href="/wiki/Category:CS1_Portuguese-language_sources_(pt)" title="Category:CS1 Portuguese-language sources (pt)">CS1 Portuguese-language sources (pt)</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_empty_unknown_parameters" title="Category:CS1 errors: empty unknown parameters">CS1 errors: empty unknown parameters</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">CS1 maint: multiple names: authors list</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">CS1 maint: ref=harv</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_HDS_identifiers" title="Category:Wikipedia articles with HDS identifiers">Wikipedia articles with HDS identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Costa+Rica" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Costa+Rica" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Costa_Rica" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Costa_Rica&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (not yet started) [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Costa_Rica">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Costa_Rica&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Costa_Rica&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Costa_Rica&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Costa_Rica" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Costa_Rica" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Costa_Rica&amp;oldid=7191120" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Costa_Rica&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Costa_Rica&amp;id=7191120&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q800" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Costa+Rica">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Costa_Rica&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Costa_Rica&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Costa_Rica" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%8D-%D0%A0%D0%B8%D0%BA%D1%8D" title="Костэ-Рикэ – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://af.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%AE%E1%88%B5%E1%89%B3_%E1%88%AA%E1%8A%AB" title="ኮስታ ሪካ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Abkhazian" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%88%D8%B3%D8%AA%D8%A7%D8%B1%D9%8A%D9%83%D8%A7" title="كوستاريكا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Kosta_Rrika" title="Kosta Rrika – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Kustarika" title="Kustarika – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Kosta-Rika" title="Kosta-Rika – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%D8%A7" title="کاستاریکا – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE" title="কোস্টা রিকা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D1%8B%D0%BA%D0%B0" title="Коста-Рыка – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D1%8B%D0%BA%D0%B0" title="Коста-Рыка – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE_%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE" title="कोस्टा रिका – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0_%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста Рика – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%81%E0%BD%BC%E0%BC%8B%E0%BD%A6%E0%BC%8B%E0%BD%8F%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BC%8B%E0%BD%81" title="ཁོ་ས་ཏ་རི་ཁ – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Kostarika" title="Kostarika – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Kostarika" title="Kostarika – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kostarika" title="Kostarika – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://da.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D9%83%D9%88%D8%B3%D8%B7%D8%A7%D8%B1%D9%8A%D9%83%D8%A7" title="كوسطاريكا – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%86%DE%AE%DE%90%DE%B0%DE%93%DE%A6%DE%83%DE%A9%DE%86%DE%A7" title="ކޮސްޓަރީކާ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE" title="कोस्टारिका – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CF%8C%CF%83%CF%84%CE%B1_%CE%A1%CE%AF%CE%BA%CE%B1" title="Κόστα Ρίκα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kostariko" title="Kostariko – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%D8%A7" title="کاستاریکا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/C%C3%B3sta_R%C3%ADce" title="Cósta Ríce – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Coose_Ber%C3%A7hagh" title="Yn Coose Berçhagh – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE_%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE" title="कोस्टा रिका – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Костарикмудин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%BD%94%EC%8A%A4%ED%83%80%EB%A6%AC%EC%B9%B4" title="코스타리카 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D5%BD%D5%BF%D5%A1_%D5%8C%D5%AB%D5%AF%D5%A1" title="Կոստա Ռիկա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE_%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A4%BE" title="कोस्ता रीका – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Kostarika" title="Kostarika – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%95%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE" title="কোস্টা রিকা – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%C3%A6" title="Коста-Рикæ – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Kosta_R%C3%ADka" title="Kosta Ríka – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%A1%D7%98%D7%94_%D7%A8%D7%99%D7%A7%D7%94" title="קוסטה ריקה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/K%C9%94sitaarika" title="Kɔsitaarika – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B3%8B%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B2%BE_%E0%B2%B0%E0%B2%BF%E0%B2%95" title="ಕೋಸ್ಟಾ ರಿಕ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%A1%E1%83%A2%E1%83%90-%E1%83%A0%E1%83%98%E1%83%99%E1%83%90" title="კოსტა-რიკა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Kosita_Rika" title="Kosita Rika – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Costarika" title="Costarika – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Kostarika" title="Kostarika – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Kosta_R%C3%AEka" title="Kosta Rîka – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%81%E0%BA%BB%E0%BA%94%E0%BA%AA%E0%BA%B0%E0%BA%95%E0%BA%B2%E0%BA%A5%E0%BA%B4%E0%BA%81%E0%BA%B2" title="ປະເທດກົດສະຕາລິກາ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%D8%A7" title="کاستاریکا – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Costarica" title="Costarica – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Kostarika" title="Kostarika – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/C%C3%B2sta_Rica" title="Còsta Rica – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Kosta_Rikku" title="Kosta Rikku – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/kostarikas" title="kostarikas – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BA%D0%B0" title="Костарика – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/K%C3%B4sta_Rika" title="Kôsta Rika – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%8B%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1_%E0%B4%B1%E0%B5%80%E0%B4%95%E0%B5%8D%E0%B4%95" title="കോസ്റ്റ റീക്ക – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE_%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE" title="कोस्टा रिका – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%A1%E1%83%A2%E1%83%90-%E1%83%A0%E1%83%98%E1%83%99%E1%83%90" title="კოსტა-რიკა – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%83%D9%88%D8%B3%D8%AA%D8%A7_%D8%B1%D9%8A%D9%83%D8%A7" title="كوستا ريكا – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%D8%A7" title="کاستاریکا – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%80%E1%80%B1%E1%80%AC%E1%80%B7%E1%80%85%E1%80%90%E1%80%AC%E1%80%9B%E1%80%AE%E1%80%80%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ကော့စတာရီကာနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE" title="कोस्टारिका – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE_%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE" title="कोस्टा रिका – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB" title="コスタリカ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/C%C3%B2sta_Rica" title="Còsta Rica – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%95%E0%AD%8B%E0%AC%B7%E0%AD%8D%E0%AC%9F%E0%AC%BE%E0%AC%B0%E0%AC%BF%E0%AC%95%E0%AC%BE" title="କୋଷ୍ଟାରିକା – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Kostaa_Rikaa" title="Kostaa Rikaa – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Kosta-Rika" title="Kosta-Rika – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%8B%E0%A8%B8%E0%A8%A4%E0%A8%BE_%E0%A8%B0%E0%A9%80%E0%A8%95%E0%A8%BE" title="ਕੋਸਤਾ ਰੀਕਾ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE_%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A4%BE" title="कोस्टा रीका – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DA%A9%D9%88%D8%B3%D9%B9%D8%A7_%D8%B1%DB%8C%DA%A9%D8%A7" title="کوسٹا ریکا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%DA%A9%D9%88%D8%B3%D9%BC%D8%A7%D8%B1%DB%8C%DA%A9%D8%A7" title="کوسټاریکا – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Kasta_Riika" title="Kasta Riika – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/C%C3%B2sta_Rica" title="Còsta Rica – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kostaryka" title="Kostaryka – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Kosta-Rika" title="Kosta-Rika – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Kustarika" title="Kustarika – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0_%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста Рика – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Costa_Riga" title="Costa Riga – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE_%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A4%BE" title="कोस्टा रीका – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%9A%E0%B7%9D%E0%B7%83%E0%B7%8A%E0%B6%A7_%E0%B6%BB%E0%B7%92%E0%B6%9A%E0%B7%8F" title="කෝස්ට රිකා – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%DA%AA%D9%88%D8%B3%D9%BD%D8%A7%D8%B1%D9%8A%DA%AA%D8%A7" title="ڪوسٽاريڪا – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/IKhosta-Likha" title="IKhosta-Likha – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kostarika" title="Kostarika – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Kostarika" title="Kostarika – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Kostaryka" title="Kostaryka – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%A9%DB%86%D8%B3%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%D8%A7" title="کۆستاریکا – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BA%D0%B0" title="Костарика – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Kostarika" title="Kostarika – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%8B%E0%AE%B8%E0%AF%8D%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BE_%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE" title="கோஸ்ட்டா ரிக்கா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Kusta_Rika" title="Kusta Rika – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%81%B5%E1%80%B1%E1%82%83%E1%80%B8%E1%80%9E%E1%80%90%E1%82%83%E1%82%87%E1%80%9B%E1%80%AD%E1%81%B5%E1%82%83%E1%82%87" title="မိူင်းၵေႃးသတႃႇရိၵႃႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B1%8B%E0%B0%B8%E0%B1%8D%E0%B0%9F%E0%B0%BE%E0%B0%B0%E0%B1%80%E0%B0%95%E0%B0%BE" title="కోస్టారీకా – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Kostarrika" title="Kostarrika – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%84%E0%B8%AD%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2" title="ประเทศคอสตาริกา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Kosta-Rika" title="Kosta-Rika – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0-%D0%A0%D0%B8%D0%BA%D0%B0" title="Коста-Рика – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%A9%D9%88%D8%B3%D8%AA%D8%A7_%D8%B1%DB%8C%DA%A9%D8%A7" title="کوستا ریکا – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D9%83%D9%88%D8%B3%D8%AA%D8%A7%D8%B1%D9%89%D9%83%D8%A7" title="كوستارىكا – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Kostarik" title="Kostarik – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Kostarik%C3%A4n" title="Kostarikän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%93%A5%E6%96%AF%E5%A4%A7%E9%BB%8E%E5%8A%A0" title="哥斯大黎加 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Kosta_Riika" title="Kosta Riika – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0" title="哥斯达黎加 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A7%D7%90%D7%A1%D7%98%D7%90_%D7%A8%D7%99%D7%A7%D7%90" title="קאסטא ריקא – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://yo.wikipedia.org/wiki/K%C3%B3st%C3%A1_Rik%C3%A0" title="Kóstá Rikà – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%93%A5%E6%96%AF%E9%81%94%E9%BB%8E%E5%8A%A0" title="哥斯達黎加 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Kosta_Rika" title="Kosta Rika – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Costa_Rica" title="Costa Rica – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Kuosta_R%C4%97ka" title="Kuosta Rėka – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0" title="哥斯达黎加 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q800#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 26 November 2020, at 08:47.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Costa_Rica&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.272","walltime":"1.534","ppvisitednodes":{"value":5961,"limit":1000000},"postexpandincludesize":{"value":127739,"limit":2097152},"templateargumentsize":{"value":8882,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":87791,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1393.309      1 -total"," 47.17%  657.174      1 Template:Infobox_country"," 45.05%  627.666      3 Template:Infobox"," 21.54%  300.147      1 Template:Authority_control"," 18.89%  263.141      1 Template:Reflist"," 15.98%  222.625      3 Template:ISO_3166_code"," 13.45%  187.441     20 Template:Cite_web"," 10.36%  144.310      2 Template:Native_name","  9.80%  136.524      2 Template:Lang","  5.08%   70.742      1 Template:Weather_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.898","limit":"10.000"},"limitreport-memusage":{"value":30828350,"limit":52428800}},"cachereport":{"origin":"mw1410","timestamp":"20201218234454","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Costa Rica","url":"https:\/\/simple.wikipedia.org\/wiki\/Costa_Rica","sameAs":"http:\/\/www.wikidata.org\/entity\/Q800","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q800","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-12T22:45:35Z","dateModified":"2020-11-26T08:47:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bc\/Flag_of_Costa_Rica_%28state%29.svg","headline":"sovereign state in Central America"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":223,"wgHostname":"mw1387"});});</script> 
+ </body>
+</html>

@@ -1,0 +1,1293 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Niger - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X97jLgpAMNYAAv0n7XkAAAAG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Niger","wgTitle":"Niger","wgCurRevisionId":7172022,"wgRevisionId":7172022,"wgArticleId":18023,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with French-language sources (fr)","Articles with Hausa-language sources (ha)","Pages using infobox country with unknown parameters","Commons category link from Wikidata","Geography stubs","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers",
+"Wikipedia articles with HDS identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with RERO identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with TDVİA identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Niger","French-speaking countries","Least developed countries","Members of the Organisation of Islamic Cooperation"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Niger","wgRelevantArticleId":18023,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1032"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":
+"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1200px-Flag_of_Niger.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Niger"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Niger&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Niger&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Niger"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Niger rootpage-Niger skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Niger</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div role="note" class="hatnote navigation-not-searchable">
+       Not to be confused with <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a>.
+      </div> 
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="padding-top:0.25em; font-weight:normal;">
+           Republic of Niger
+           <br><i>République du Niger</i> <small><span class="languageicon">(in French)</span></small>
+           <br><i>Jamhuriyar Nijar</i> <small><span class="languageicon">(in Hausa)</span></small>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Niger.svg" class="image" title="Flag of Niger"><img alt="Flag of Niger" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/125px-Flag_of_Niger.svg.png" decoding="async" width="125" height="107" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/188px-Flag_of_Niger.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/250px-Flag_of_Niger.svg.png 2x" data-file-width="700" data-file-height="600"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Niger" title="Flag of Niger">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Niger.svg" class="image" title="Coat of arms of Niger"><img alt="Coat of arms of Niger" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Coat_of_arms_of_Niger.svg/85px-Coat_of_arms_of_Niger.svg.png" decoding="async" width="85" height="56" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Coat_of_arms_of_Niger.svg/128px-Coat_of_arms_of_Niger.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Coat_of_arms_of_Niger.svg/170px-Coat_of_arms_of_Niger.svg.png 2x" data-file-width="679" data-file-height="450"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b>"Fraternité, Travail, Progrès"<span class="nowrap">&nbsp;&nbsp;</span><span class="languageicon">(in French)</span>
+           <br>"Fraternity, Work, Progress"
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><i><a href="/w/index.php?title=La_Nig%C3%A9rienne&amp;action=edit&amp;redlink=1" class="new" title="La Nigérienne (not yet started)">La Nigérienne</a></i>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Location_Niger_AU_Africa.svg" class="image" title="Location of &nbsp;Niger&nbsp;&nbsp;(dark blue) –&nbsp;in Africa&nbsp;&nbsp;(light blue &amp;&nbsp;dark grey) –&nbsp;in the African Union&nbsp;&nbsp;(light blue)"><img alt="Location of &nbsp;Niger&nbsp;&nbsp;(dark blue) –&nbsp;in Africa&nbsp;&nbsp;(light blue &amp;&nbsp;dark grey) –&nbsp;in the African Union&nbsp;&nbsp;(light blue)" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Location_Niger_AU_Africa.svg/250px-Location_Niger_AU_Africa.svg.png" decoding="async" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Location_Niger_AU_Africa.svg/375px-Location_Niger_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Location_Niger_AU_Africa.svg/500px-Location_Niger_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Niger</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
+            <p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&nbsp;in <a href="/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">light blue &amp;&nbsp;dark grey</span>)<br>–&nbsp;in the <a href="/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">light blue</span>)</p>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Niamey" title="Niamey">Niamey</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13_32_N_2_5_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°32′N</span> <span class="longitude">2°5′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.533°N 2.083°E</span><span style="display:none">﻿ / <span class="geo">13.533; 2.083</span></span></span></a></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/French_language" title="French language">French</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/National_language" title="National language">National languages</a></th>
+         <td><a href="/wiki/Hausa_language" title="Hausa language">Hausa</a>, <a href="/wiki/Fulfulde" title="Fulfulde">Fulfulde</a>, <a href="/w/index.php?title=Gourmantch%C3%A9&amp;action=edit&amp;redlink=1" class="new" title="Gourmantché (not yet started)">Gulmancema</a>, <a href="/w/index.php?title=Kanuri_language&amp;action=edit&amp;redlink=1" class="new" title="Kanuri language (not yet started)">Kanuri</a>, <a href="/w/index.php?title=Zarma_language&amp;action=edit&amp;redlink=1" class="new" title="Zarma language (not yet started)">Zarma</a>, <a href="/w/index.php?title=Tuareg_languages&amp;action=edit&amp;redlink=1" class="new" title="Tuareg languages (not yet started)">Tamasheq</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>Nigerien (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="'n' in 'nigh'">n</span><span title="/aɪ/: 'i' in 'tide'">aɪ</span><span title="/dʒ/: 'j' in 'jam'">dʒ</span><span title="/ɪr/: 'irr' in 'mirror'">ɪr</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'n' in 'nigh'">n</span></span>/</a></span></span> or <span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="'n' in 'nigh'">n</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/ʒ/: 's' in 'pleasure'">ʒ</span><span title="/ɛər/: 'are' in 'bare'">ɛər</span><span title="/i/: 'y' in 'happy'">i</span><span title="/ən/: 'on' in 'button'">ən</span></span>/</a></span></span>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Semi-presidential_system" title="Semi-presidential system">Semi-presidential</a> republic</td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/List_of_Presidents_of_Niger" class="mw-redirect" title="List of Presidents of Niger">President</a> 
+          </div></th>
+         <td><a href="/wiki/Mahamadou_Issoufou" title="Mahamadou Issoufou">Mahamadou Issoufou</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Prime_Minister_of_Niger" class="mw-redirect" title="Prime Minister of Niger">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Brigi_Rafini" title="Brigi Rafini">Brigi Rafini</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=History_of_Niger&amp;action=edit&amp;redlink=1" class="new" title="History of Niger (not yet started)">Independence</a>&nbsp;
+          <div style="font-weight:normal;display:inline;">
+           from France
+          </div></th>
+        </tr>
+        <tr class="mergedbottomrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Declared 
+          </div></th>
+         <td>3 August 1960</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>1,267,000&nbsp;km<sup>2</sup> (489,000&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">22nd</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>0.02</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;July 2011 estimate
+          </div></th>
+         <td>15,730,754<sup id="cite_ref-INS_3-0" class="reference"><a href="#cite_note-INS-3">[3]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">63rd</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2001&nbsp;census
+          </div></th>
+         <td>10,790,352</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>12.1/km<sup>2</sup> (31.3/sq&nbsp;mi)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$11.783&nbsp;billion<sup id="cite_ref-imf2_4-0" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">140th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$781<sup id="cite_ref-imf2_4-1" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">175th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$6.286&nbsp;billion<sup id="cite_ref-imf2_4-2" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">143rd</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$417<sup id="cite_ref-imf2_4-3" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">177th</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(1995)</span></th>
+         <td>50.5<br><span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2011)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.295<br><span style="white-space:nowrap;"><span style="color:red">low</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">186th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=West_African_CFA_franc&amp;action=edit&amp;redlink=1" class="new" title="West African CFA franc (not yet started)">West African CFA franc</a> (<a href="/wiki/ISO_4217" title="ISO 4217">XOF</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/West_Africa_Time" title="West Africa Time">WAT</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<i>not observed</i>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td>227</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:NE&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:NE (not yet started)">NE</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.ne" class="mw-redirect" title=".ne">.ne</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Niger</b> is a <a href="/wiki/Country" title="Country">country</a> in western <a href="/wiki/Africa" title="Africa">Africa</a>. The <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> is <a href="/wiki/Niamey" title="Niamey">Niamey</a>, and the official language is <a href="/wiki/French_language" title="French language">French</a>. It is surrounded by <a href="/wiki/Algeria" title="Algeria">Algeria</a> and <a href="/wiki/Libya" title="Libya">Libya</a> to the north, <a href="/wiki/Chad" title="Chad">Chad</a> to the east, <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a> and <a href="/wiki/Benin" title="Benin">Benin</a> to the south, and <a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a> and <a href="/wiki/Mali" title="Mali">Mali</a> to the west. Niger is landlocked, meaning it has no coastline. Niger gets its name from the <a href="/wiki/Niger_River" title="Niger River">Niger River</a>, whose name possibly comes from the Berber word "<a href="/wiki/Niger_River" title="Niger River">River of Rivers</a>".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
+      <p>The <a href="/wiki/Mali_Empire" title="Mali Empire">Mali Empire</a> and the <a href="/wiki/Songhai_Empire" title="Songhai Empire">Songhai Empire</a> both had land in what is now Niger. Later <a href="/wiki/France" title="France">France</a> controlled the land that is now Niger. Niger has a population, or the number of people living in an area, of 15,306,252 and an area of 1,267,000 <a href="/wiki/Square_kilometre" title="Square kilometre">square kilometres</a>. Much of Niger is <a href="/wiki/Sahara" title="Sahara">desert</a>. </p>
+      <p>After a military <a href="/wiki/Coup" class="mw-redirect" title="Coup">coup</a> in 2010, Niger is now a democratic, multi-party state. Most of the people live in rural areas, and have little access to advanced education. </p>
+      <p>Niger is one of the poorest countries in the world with a lack of <a href="/wiki/Contraception" class="mw-redirect" title="Contraception">contraception</a>. 41.4% live in <a href="/wiki/Poverty" title="Poverty">poverty</a>. <a href="/wiki/Hunger" title="Hunger">Hunger</a> plagues the country. </p>
+      <p>Niger’s main exports are <a href="/w/index.php?title=Uranium_ore&amp;action=edit&amp;redlink=1" class="new" title="Uranium ore (not yet started)">uranium ore</a>, <a href="/wiki/Livestock" title="Livestock">livestock</a>, <a href="/w/index.php?title=Cowpeas&amp;action=edit&amp;redlink=1" class="new" title="Cowpeas (not yet started)">cowpeas</a> and <a href="/wiki/Onions" class="mw-redirect" title="Onions">onions</a>. <a href="/wiki/Millet" title="Millet">Millet</a> and <a href="/wiki/Sorghum" title="Sorghum">sorghum</a> are grown in the south, as well as cassava and sugarcane. Rice is grown in the Niger River valley. Peanuts are the most important cash crop. Other important crops are cotton and pulses. </p>
+      <p>Niger is home to the critically endangered <a href="/w/index.php?title=Addax_antelope&amp;action=edit&amp;redlink=1" class="new" title="Addax antelope (not yet started)">addax antelope</a>. West African giraffes are the only <a href="/wiki/Giraffes" class="mw-redirect" title="Giraffes">giraffes</a> in West Africa that exist in Niger. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Cities"><span class="tocnumber">1.1</span> <span class="toctext">Cities</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#Climate"><span class="tocnumber">1.2</span> <span class="toctext">Climate</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Wildlife"><span class="tocnumber">1.3</span> <span class="toctext">Wildlife</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Demographics"><span class="tocnumber">2</span> <span class="toctext">Demographics</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Education"><span class="tocnumber">3</span> <span class="toctext">Education</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Related_pages"><span class="tocnumber">4</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Other_websites"><span class="tocnumber">6</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niger&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Niger&amp;action=edit&amp;section=1" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Niger is on the border between the <a href="/wiki/Sahara" title="Sahara">Sahara</a> and <a href="/wiki/Sub-Saharan_Africa" title="Sub-Saharan Africa">Sub-Saharan</a> regions. Niger's area is 1,267,000 square kilometres (489,191&nbsp;sq&nbsp;mi) of which 300 square kilometres (116&nbsp;sq&nbsp;mi) is water. It is the world's twenty-second largest country. Niger borders seven countries. The longest border is with <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a> to the south. </p>
+      <p>The lowest point is the <a href="/wiki/Niger_River" title="Niger River">Niger River</a>, with an elevation of 200 metres (656&nbsp;ft). The highest point is <a href="/w/index.php?title=Mont_Idoukal-n-Tagh%C3%A8s&amp;action=edit&amp;redlink=1" class="new" title="Mont Idoukal-n-Taghès (not yet started)">Mont Idoukal-n-Taghès</a> in the <a href="/w/index.php?title=A%C3%AFr_Mountains&amp;action=edit&amp;redlink=1" class="new" title="Aïr Mountains (not yet started)">Aïr Mountains</a> at 2,022&nbsp;m (6,634&nbsp;ft). </p> 
+      <h3><span class="mw-headline" id="Cities">Cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niger&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Cities">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Niger&amp;action=edit&amp;section=2" title="Change section: Cities">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>This table shows cities with a population over 10,000, according to 2001 census. </p> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr valign="top" style="font-weight:bold; background-color: #DDDDDD"> 
+         <td>City </td> 
+         <td>Census division </td> 
+         <td>Population<br>2001<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </td> 
+         <td>Position<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Abalak&amp;action=edit&amp;redlink=1" class="new" title="Abalak (not yet started)">Abalak</a></td> 
+         <td><a href="/w/index.php?title=Tahoua_Region&amp;action=edit&amp;redlink=1" class="new" title="Tahoua Region (not yet started)">Tahoua</a></td> 
+         <td>12,764</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=15.4522222_N_6.2783333_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">15°27′08″N</span> <span class="longitude">6°16′42″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">15.4522222°N 6.2783333°E</span><span style="display:none">﻿ / <span class="geo">15.4522222; 6.2783333</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Agadez&amp;action=edit&amp;redlink=1" class="new" title="Agadez (not yet started)">Agadez</a></td> 
+         <td><a href="/w/index.php?title=Agadez_Region&amp;action=edit&amp;redlink=1" class="new" title="Agadez Region (not yet started)">Agadez</a></td> 
+         <td>78,289</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=16.9738889_N_7.9908333_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">16°58′26″N</span> <span class="longitude">7°59′27″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">16.9738889°N 7.9908333°E</span><span style="display:none">﻿ / <span class="geo">16.9738889; 7.9908333</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Aguie&amp;action=edit&amp;redlink=1" class="new" title="Aguie (not yet started)">Aguié</a></td> 
+         <td><a href="/w/index.php?title=Maradi_Region&amp;action=edit&amp;redlink=1" class="new" title="Maradi Region (not yet started)">Maradi</a></td> 
+         <td>11,475</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.5080556_N_7.7772222_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°30′29″N</span> <span class="longitude">7°46′38″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.5080556°N 7.7772222°E</span><span style="display:none">﻿ / <span class="geo">13.5080556; 7.7772222</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Arlit&amp;action=edit&amp;redlink=1" class="new" title="Arlit (not yet started)">Arlit</a></td> 
+         <td><a href="/w/index.php?title=Agadez_Region&amp;action=edit&amp;redlink=1" class="new" title="Agadez Region (not yet started)">Agadez</a></td> 
+         <td>69,435</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=18.7325_N_7.3680556_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">18°43′57″N</span> <span class="longitude">7°22′05″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">18.7325°N 7.3680556°E</span><span style="display:none">﻿ / <span class="geo">18.7325; 7.3680556</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Birni_Ngaour%C3%A9&amp;action=edit&amp;redlink=1" class="new" title="Birni Ngaouré (not yet started)">Birni Ngaouré</a></td> 
+         <td><a href="/w/index.php?title=Dosso_Region&amp;action=edit&amp;redlink=1" class="new" title="Dosso Region (not yet started)">Dosso</a></td> 
+         <td>10,775</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.0877778_N_2.9169444_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°05′16″N</span> <span class="longitude">2°55′01″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.0877778°N 2.9169444°E</span><span style="display:none">﻿ / <span class="geo">13.0877778; 2.9169444</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Birni_Nkonni&amp;action=edit&amp;redlink=1" class="new" title="Birni Nkonni (not yet started)">Birni Nkonni</a></td> 
+         <td><a href="/w/index.php?title=Tahoua_Region&amp;action=edit&amp;redlink=1" class="new" title="Tahoua Region (not yet started)">Tahoua</a></td> 
+         <td>44,663</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.8_N_5.25_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°48′N</span> <span class="longitude">5°15′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.8°N 5.25°E</span><span style="display:none">﻿ / <span class="geo">13.8; 5.25</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Dakoro&amp;action=edit&amp;redlink=1" class="new" title="Dakoro (not yet started)">Dakoro</a></td> 
+         <td><a href="/w/index.php?title=Maradi_Region&amp;action=edit&amp;redlink=1" class="new" title="Maradi Region (not yet started)">Maradi</a></td> 
+         <td>18,875</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.8166667_N_6.4166667_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°49′00″N</span> <span class="longitude">6°25′00″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.8166667°N 6.4166667°E</span><span style="display:none">﻿ / <span class="geo">13.8166667; 6.4166667</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Diffa&amp;action=edit&amp;redlink=1" class="new" title="Diffa (not yet started)">Diffa</a></td> 
+         <td><a href="/w/index.php?title=Diffa_Region&amp;action=edit&amp;redlink=1" class="new" title="Diffa Region (not yet started)">Diffa</a></td> 
+         <td>23,409</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.3155556_N_12.6088889_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°18′56″N</span> <span class="longitude">12°36′32″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.3155556°N 12.6088889°E</span><span style="display:none">﻿ / <span class="geo">13.3155556; 12.6088889</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Dogondoutchi&amp;action=edit&amp;redlink=1" class="new" title="Dogondoutchi (not yet started)">Dogondoutchi</a></td> 
+         <td><a href="/w/index.php?title=Dosso_Region&amp;action=edit&amp;redlink=1" class="new" title="Dosso Region (not yet started)">Dosso</a></td> 
+         <td>29,244</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.6461111_N_4.0288889_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°38′46″N</span> <span class="longitude">4°01′44″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.6461111°N 4.0288889°E</span><span style="display:none">﻿ / <span class="geo">13.6461111; 4.0288889</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Dosso,_Niger&amp;action=edit&amp;redlink=1" class="new" title="Dosso, Niger (not yet started)">Dosso</a></td> 
+         <td><a href="/w/index.php?title=Dosso_Region&amp;action=edit&amp;redlink=1" class="new" title="Dosso Region (not yet started)">Dosso</a></td> 
+         <td>43,561</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.0444444_N_3.1947222_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°02′40″N</span> <span class="longitude">3°11′41″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.0444444°N 3.1947222°E</span><span style="display:none">﻿ / <span class="geo">13.0444444; 3.1947222</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Filingu%C3%A9&amp;action=edit&amp;redlink=1" class="new" title="Filingué (not yet started)">Filingué</a></td> 
+         <td><a href="/w/index.php?title=Tillab%C3%A9ri_Region&amp;action=edit&amp;redlink=1" class="new" title="Tillabéri Region (not yet started)">Tillabéri</a></td> 
+         <td>11,661</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=14.35_N_3.3166667_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°21′00″N</span> <span class="longitude">3°19′00″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.35°N 3.3166667°E</span><span style="display:none">﻿ / <span class="geo">14.35; 3.3166667</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Gaya,_Niger&amp;action=edit&amp;redlink=1" class="new" title="Gaya, Niger (not yet started)">Gaya</a></td> 
+         <td><a href="/w/index.php?title=Dosso_Region&amp;action=edit&amp;redlink=1" class="new" title="Dosso Region (not yet started)">Dosso</a></td> 
+         <td>28,385</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=11.8877778_N_3.4466667_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">11°53′16″N</span> <span class="longitude">3°26′48″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">11.8877778°N 3.4466667°E</span><span style="display:none">﻿ / <span class="geo">11.8877778; 3.4466667</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Gour%C3%A9&amp;action=edit&amp;redlink=1" class="new" title="Gouré (not yet started)">Gouré</a></td> 
+         <td><a href="/w/index.php?title=Zinder_Region&amp;action=edit&amp;redlink=1" class="new" title="Zinder Region (not yet started)">Zinder</a></td> 
+         <td>13,422</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.9869444_N_10.27_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°59′13″N</span> <span class="longitude">10°16′12″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.9869444°N 10.27°E</span><span style="display:none">﻿ / <span class="geo">13.9869444; 10.27</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Guidan_Roumji&amp;action=edit&amp;redlink=1" class="new" title="Guidan Roumji (not yet started)">Guidan Roumji</a></td> 
+         <td><a href="/w/index.php?title=Maradi_Region&amp;action=edit&amp;redlink=1" class="new" title="Maradi Region (not yet started)">Maradi</a></td> 
+         <td>10,744</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.85_N_6.9666667_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°51′00″N</span> <span class="longitude">6°58′00″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.85°N 6.9666667°E</span><span style="display:none">﻿ / <span class="geo">13.85; 6.9666667</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Ill%C3%A9la&amp;action=edit&amp;redlink=1" class="new" title="Illéla (not yet started)">Illéla</a></td> 
+         <td><a href="/w/index.php?title=Tahoua_Region&amp;action=edit&amp;redlink=1" class="new" title="Tahoua Region (not yet started)">Tahoua</a></td> 
+         <td>15,805</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=14.4616667_N_5.2475_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°27′42″N</span> <span class="longitude">5°14′51″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.4616667°N 5.2475°E</span><span style="display:none">﻿ / <span class="geo">14.4616667; 5.2475</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Kollo&amp;action=edit&amp;redlink=1" class="new" title="Kollo (not yet started)">Kollo</a></td> 
+         <td><a href="/w/index.php?title=Tillab%C3%A9ri_Region&amp;action=edit&amp;redlink=1" class="new" title="Tillabéri Region (not yet started)">Tillabéri</a></td> 
+         <td>10,533</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.3086111_N_2.3308333_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°18′31″N</span> <span class="longitude">2°19′51″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.3086111°N 2.3308333°E</span><span style="display:none">﻿ / <span class="geo">13.3086111; 2.3308333</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Madaoua&amp;action=edit&amp;redlink=1" class="new" title="Madaoua (not yet started)">Madaoua</a></td> 
+         <td><a href="/w/index.php?title=Tahoua_Region&amp;action=edit&amp;redlink=1" class="new" title="Tahoua Region (not yet started)">Tahoua</a></td> 
+         <td>22,175</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=14.1_N_6.4333333_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°06′00″N</span> <span class="longitude">6°26′00″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.1°N 6.4333333°E</span><span style="display:none">﻿ / <span class="geo">14.1; 6.4333333</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Magaria&amp;action=edit&amp;redlink=1" class="new" title="Magaria (not yet started)">Magaria</a></td> 
+         <td><a href="/w/index.php?title=Zinder_Region&amp;action=edit&amp;redlink=1" class="new" title="Zinder Region (not yet started)">Zinder</a></td> 
+         <td>17,776</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=14.5666667_N_8.7333333_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°34′00″N</span> <span class="longitude">8°44′00″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.5666667°N 8.7333333°E</span><span style="display:none">﻿ / <span class="geo">14.5666667; 8.7333333</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Ma%C3%AFn%C3%A9-Soroa&amp;action=edit&amp;redlink=1" class="new" title="Maïné-Soroa (not yet started)">Maïné-Soroa</a></td> 
+         <td><a href="/w/index.php?title=Diffa_Region&amp;action=edit&amp;redlink=1" class="new" title="Diffa Region (not yet started)">Diffa</a></td> 
+         <td>10,176</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.2177778_N_12.0266667_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°13′04″N</span> <span class="longitude">12°01′36″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.2177778°N 12.0266667°E</span><span style="display:none">﻿ / <span class="geo">13.2177778; 12.0266667</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Maradi,_Niger&amp;action=edit&amp;redlink=1" class="new" title="Maradi, Niger (not yet started)">Maradi</a></td> 
+         <td><a href="/w/index.php?title=Maradi_Region&amp;action=edit&amp;redlink=1" class="new" title="Maradi Region (not yet started)">Maradi</a></td> 
+         <td>148,017</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.4916667_N_7.0963889_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°29′30″N</span> <span class="longitude">7°05′47″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.4916667°N 7.0963889°E</span><span style="display:none">﻿ / <span class="geo">13.4916667; 7.0963889</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Matameye&amp;action=edit&amp;redlink=1" class="new" title="Matameye (not yet started)">Matameye</a></td> 
+         <td><a href="/w/index.php?title=Zinder_Region&amp;action=edit&amp;redlink=1" class="new" title="Zinder Region (not yet started)">Zinder</a></td> 
+         <td>17,930</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.4238889_N_8.4777778_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°25′26″N</span> <span class="longitude">8°28′40″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.4238889°N 8.4777778°E</span><span style="display:none">﻿ / <span class="geo">13.4238889; 8.4777778</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Mirria&amp;action=edit&amp;redlink=1" class="new" title="Mirria (not yet started)">Mirria</a></td> 
+         <td><a href="/w/index.php?title=Zinder_Region&amp;action=edit&amp;redlink=1" class="new" title="Zinder Region (not yet started)">Zinder</a></td> 
+         <td>19,161</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.7141667_N_9.1505556_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°42′51″N</span> <span class="longitude">9°09′02″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.7141667°N 9.1505556°E</span><span style="display:none">﻿ / <span class="geo">13.7141667; 9.1505556</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Nguigmi&amp;action=edit&amp;redlink=1" class="new" title="Nguigmi (not yet started)">Nguigmi</a></td> 
+         <td><a href="/w/index.php?title=Diffa_Region&amp;action=edit&amp;redlink=1" class="new" title="Diffa Region (not yet started)">Diffa</a></td> 
+         <td>15,922</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=14.2527778_N_13.1108333_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°15′10″N</span> <span class="longitude">13°06′39″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.2527778°N 13.1108333°E</span><span style="display:none">﻿ / <span class="geo">14.2527778; 13.1108333</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Niamey" title="Niamey">Niamey</a></td> 
+         <td><a href="/wiki/Niamey" title="Niamey">Niamey Capital District</a></td> 
+         <td>707,951</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.5166667_N_2.1166667_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°31′00″N</span> <span class="longitude">2°07′00″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.5166667°N 2.1166667°E</span><span style="display:none">﻿ / <span class="geo">13.5166667; 2.1166667</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Say,_Niger&amp;action=edit&amp;redlink=1" class="new" title="Say, Niger (not yet started)">Say</a></td> 
+         <td><a href="/w/index.php?title=Tillab%C3%A9ri_Region&amp;action=edit&amp;redlink=1" class="new" title="Tillabéri Region (not yet started)">Tillabéri</a></td> 
+         <td>10,502</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.1080556_N_2.3597222_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°06′29″N</span> <span class="longitude">2°21′35″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.1080556°N 2.3597222°E</span><span style="display:none">﻿ / <span class="geo">13.1080556; 2.3597222</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Tahoua&amp;action=edit&amp;redlink=1" class="new" title="Tahoua (not yet started)">Tahoua</a></td> 
+         <td><a href="/w/index.php?title=Tahoua_Region&amp;action=edit&amp;redlink=1" class="new" title="Tahoua Region (not yet started)">Tahoua</a></td> 
+         <td>73,002</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=14.8902778_N_5.2677778_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°53′25″N</span> <span class="longitude">5°16′04″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.8902778°N 5.2677778°E</span><span style="display:none">﻿ / <span class="geo">14.8902778; 5.2677778</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=T%C3%A2nout&amp;action=edit&amp;redlink=1" class="new" title="Tânout (not yet started)">Tânout</a></td> 
+         <td><a href="/w/index.php?title=Zinder_Region&amp;action=edit&amp;redlink=1" class="new" title="Zinder Region (not yet started)">Zinder</a></td> 
+         <td>15,779</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=14.9702778_N_8.8916667_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°58′13″N</span> <span class="longitude">8°53′30″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.9702778°N 8.8916667°E</span><span style="display:none">﻿ / <span class="geo">14.9702778; 8.8916667</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Tchirozerine&amp;action=edit&amp;redlink=1" class="new" title="Tchirozerine (not yet started)">Tchirozérine</a></td> 
+         <td><a href="/w/index.php?title=Agadez_Region&amp;action=edit&amp;redlink=1" class="new" title="Agadez Region (not yet started)">Agadez</a></td> 
+         <td>10,032</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=17.2602778_N_7.7508333_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">17°15′37″N</span> <span class="longitude">7°45′03″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">17.2602778°N 7.7508333°E</span><span style="display:none">﻿ / <span class="geo">17.2602778; 7.7508333</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=T%C3%A9ra&amp;action=edit&amp;redlink=1" class="new" title="Téra (not yet started)">Téra</a></td> 
+         <td><a href="/w/index.php?title=Tillab%C3%A9ri_Region&amp;action=edit&amp;redlink=1" class="new" title="Tillabéri Region (not yet started)">Tillabéri</a></td> 
+         <td>19,508</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=14.0105556_N_0.7530556_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°00′38″N</span> <span class="longitude">0°45′11″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.0105556°N 0.7530556°E</span><span style="display:none">﻿ / <span class="geo">14.0105556; 0.7530556</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Tessaoua&amp;action=edit&amp;redlink=1" class="new" title="Tessaoua (not yet started)">Tessaoua</a></td> 
+         <td><a href="/w/index.php?title=Maradi_Region&amp;action=edit&amp;redlink=1" class="new" title="Maradi Region (not yet started)">Maradi</a></td> 
+         <td>31,667</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.7533333_N_7.9863889_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°45′12″N</span> <span class="longitude">7°59′11″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.7533333°N 7.9863889°E</span><span style="display:none">﻿ / <span class="geo">13.7533333; 7.9863889</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Tillab%C3%A9ri&amp;action=edit&amp;redlink=1" class="new" title="Tillabéri (not yet started)">Tillabéri</a></td> 
+         <td><a href="/w/index.php?title=Tillab%C3%A9ri_Region&amp;action=edit&amp;redlink=1" class="new" title="Tillabéri Region (not yet started)">Tillabéri</a></td> 
+         <td>16,683</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=14.206146_N_1.453457_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">14°12′22″N</span> <span class="longitude">1°27′12″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">14.206146°N 1.453457°E</span><span style="display:none">﻿ / <span class="geo">14.206146; 1.453457</span></span></span></a></span></small> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Zinder&amp;action=edit&amp;redlink=1" class="new" title="Zinder (not yet started)">Zinder</a></td> 
+         <td><a href="/w/index.php?title=Zinder_Region&amp;action=edit&amp;redlink=1" class="new" title="Zinder Region (not yet started)">Zinder</a></td> 
+         <td>170,575</td> 
+         <td><small><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Niger&amp;params=13.8_N_8.9833333_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°48′00″N</span> <span class="longitude">8°59′00″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.8°N 8.9833333°E</span><span style="display:none">﻿ / <span class="geo">13.8; 8.9833333</span></span></span></a></span></small> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niger&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Climate">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Niger&amp;action=edit&amp;section=3" title="Change section: Climate">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Niger's <a href="/wiki/Subtropical" class="mw-redirect" title="Subtropical">subtropical</a> climate is mainly very hot and dry. Much of it is covered by <a href="/wiki/Desert" title="Desert">desert</a>. In the extreme south there is a tropical climate on the edges of the <a href="/wiki/Niger_River" title="Niger River">Niger River</a> basin. The land is mostly desert plains and <a href="/wiki/Sand_dune" class="mw-redirect" title="Sand dune">sand dunes</a>. There is flat to rolling savanna in the south and hills in the north. </p> 
+      <h3><span class="mw-headline" id="Wildlife">Wildlife</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niger&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Wildlife">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Niger&amp;action=edit&amp;section=4" title="Change section: Wildlife">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul class="gallery mw-gallery-traditional"> 
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:35px auto;">
+           <a href="/wiki/File:Gazelle_big_road_park_w_niger_2006148670716_94d943892c_b.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gazelle_big_road_park_w_niger_2006148670716_94d943892c_b.jpg/120px-Gazelle_big_road_park_w_niger_2006148670716_94d943892c_b.jpg" decoding="async" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gazelle_big_road_park_w_niger_2006148670716_94d943892c_b.jpg/180px-Gazelle_big_road_park_w_niger_2006148670716_94d943892c_b.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gazelle_big_road_park_w_niger_2006148670716_94d943892c_b.jpg/240px-Gazelle_big_road_park_w_niger_2006148670716_94d943892c_b.jpg 2x" data-file-width="1024" data-file-height="681"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Gazelle </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:35px auto;">
+           <a href="/wiki/File:Elephants_bath_park_w_Niger_2006.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Elephants_bath_park_w_Niger_2006.jpg/120px-Elephants_bath_park_w_Niger_2006.jpg" decoding="async" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Elephants_bath_park_w_Niger_2006.jpg/180px-Elephants_bath_park_w_Niger_2006.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Elephants_bath_park_w_Niger_2006.jpg/240px-Elephants_bath_park_w_Niger_2006.jpg 2x" data-file-width="1024" data-file-height="681"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Elephants </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a href="/wiki/File:Musophaga_violacea-20080321.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Musophaga_violacea-20080321.jpg/104px-Musophaga_violacea-20080321.jpg" decoding="async" width="104" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Musophaga_violacea-20080321.jpg/155px-Musophaga_violacea-20080321.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Musophaga_violacea-20080321.jpg/207px-Musophaga_violacea-20080321.jpg 2x" data-file-width="661" data-file-height="765"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Violet turaco </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:30px auto;">
+           <a href="/wiki/File:Black-headed_plover.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Black-headed_plover.jpg/120px-Black-headed_plover.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Black-headed_plover.jpg/180px-Black-headed_plover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Black-headed_plover.jpg/240px-Black-headed_plover.jpg 2x" data-file-width="667" data-file-height="499"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Black-headed lapwing </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a href="/wiki/File:Urocolius_macrourus-20090110.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Urocolius_macrourus-20090110.jpg/65px-Urocolius_macrourus-20090110.jpg" decoding="async" width="65" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Urocolius_macrourus-20090110.jpg/97px-Urocolius_macrourus-20090110.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Urocolius_macrourus-20090110.jpg/130px-Urocolius_macrourus-20090110.jpg 2x" data-file-width="404" data-file-height="745"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Blue-naped mousebird </p> 
+         </div> 
+        </div></li> 
+      </ul> 
+      <h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niger&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Demographics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Niger&amp;action=edit&amp;section=5" title="Change section: Demographics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>There are several ethnic groups in Niger: </p> 
+      <ul>
+       <li><a href="/wiki/Hausa" class="mw-redirect" title="Hausa">Hausa</a> 53.1%</li> 
+       <li><a href="/w/index.php?title=Zarma/Songhai&amp;action=edit&amp;redlink=1" class="new" title="Zarma/Songhai (not yet started)">Zarma/Songhai</a> 21.2%</li> 
+       <li><a href="/wiki/Tuareg" class="mw-redirect" title="Tuareg">Tuareg</a> 11%</li> 
+       <li><a href="/w/index.php?title=Fulani_(Peuhl)&amp;action=edit&amp;redlink=1" class="new" title="Fulani (Peuhl) (not yet started)">Fulani (Peuhl)</a> 6.5%</li> 
+       <li><a href="/w/index.php?title=Kanuri&amp;action=edit&amp;redlink=1" class="new" title="Kanuri (not yet started)">Kanuri</a> 5.9%</li> 
+       <li><a href="/w/index.php?title=Gurma&amp;action=edit&amp;redlink=1" class="new" title="Gurma (not yet started)">Gurma</a> 0.8%</li> 
+       <li><a href="/wiki/Arab" class="mw-redirect" title="Arab">Arab</a> 0.4%</li> 
+       <li><a href="/w/index.php?title=Tubu&amp;action=edit&amp;redlink=1" class="new" title="Tubu (not yet started)">Tubu</a> 0.4%</li> 
+       <li>other/unavailable 0.9%</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niger&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Education">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Niger&amp;action=edit&amp;section=6" title="Change section: Education">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The <a href="/w/index.php?title=Literacy_rate&amp;action=edit&amp;redlink=1" class="new" title="Literacy rate (not yet started)">literacy rate</a> (the amount of the adult population who can read or write) of Niger is among the lowest in the world. In 2005 it was estimated to be only 28.7% (42.9% male and 15.1% female).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Primary education in Niger is required for six years.<sup id="cite_ref-ilab_10-0" class="reference"><a href="#cite_note-ilab-10">[10]</a></sup> The primary school enrollment and attendance rates are low, particularly for girls.<sup id="cite_ref-ilab_10-1" class="reference"><a href="#cite_note-ilab-10">[10]</a></sup> Children are often made to work rather than attend school. This is particularly true during planting or <a href="/wiki/Harvest" title="Harvest">harvest</a> periods. </p> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niger&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Niger&amp;action=edit&amp;section=7" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/List_of_rivers_of_Niger" title="List of rivers of Niger">List of rivers of Niger</a></li> 
+       <li><a href="/wiki/Niger_at_the_Olympics" title="Niger at the Olympics">Niger at the Olympics</a></li> 
+       <li><a href="/wiki/Niger_national_football_team" title="Niger national football team">Niger national football team</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niger&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Niger&amp;action=edit&amp;section=8" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/audio.php?file=ggnig01v&amp;word=Nigerien&amp;text=\%3Cspan%20class%3D%22unicode%22%3E%CB%8C%3C%2Fspan%3En%C4%AB-%3Cspan%20class%3D%22unicode%22%3E%CB%8C%3C%2Fspan%3Ejir-%C4%93-%3Cspan%20class%3D%22unicode%22%3E%CB%88%3C%2Fspan%3Een%2C%20n%C4%93-%3Cspan%20class%3D%22unicode%22%3E%CB%88%3C%2Fspan%3Ezher-%C4%93-%C9%99n\">"Merriam-Webster Dictionary"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Merriam-Webster+Dictionary&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Faudio.php%3Ffile%3Dggnig01v%26word%3DNigerien%26text%3D%5C%253Cspan%2520class%253D%2522unicode%2522%253E%25CB%258C%253C%252Fspan%253En%25C4%25AB-%253Cspan%2520class%253D%2522unicode%2522%253E%25CB%258C%253C%252Fspan%253Ejir-%25C4%2593-%253Cspan%2520class%253D%2522unicode%2522%253E%25CB%2588%253C%252Fspan%253Een%252C%2520n%25C4%2593-%253Cspan%2520class%253D%2522unicode%2522%253E%25CB%2588%253C%252Fspan%253Ezher-%25C4%2593-%25C9%2599n%5C&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANiger" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://en.oxforddictionaries.com/definition/Niger">"Niger - Definition of Niger in English by Oxford Dictionaries"</a>. <i>Oxford Dictionaries - English</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Oxford+Dictionaries+-+English&amp;rft.atitle=Niger+-+Definition+of+Niger+in+English+by+Oxford+Dictionaries&amp;rft_id=https%3A%2F%2Fen.oxforddictionaries.com%2Fdefinition%2FNiger&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANiger" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-INS-3"><span class="mw-cite-backlink"><a href="#cite_ref-INS_3-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.stat-niger.org/statistique/">INS Niger <span class="languageicon">(in French)</span></a></span> </li> 
+         <li id="cite_note-imf2-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_4-0">4.0</a></sup> <sup><a href="#cite_ref-imf2_4-1">4.1</a></sup> <sup><a href="#cite_ref-imf2_4-2">4.2</a></sup> <sup><a href="#cite_ref-imf2_4-3">4.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&amp;ey=2011&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=692&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=65&amp;pr.y=4">"Niger"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Niger&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2011%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2008%26ey%3D2011%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D692%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D%26pr.x%3D65%26pr.y%3D4&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANiger" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.brianlucas.ca/roadside/">Which side of the road do they drive on?</a> Brian Lucas. August 2005. Retrieved 28 January 2009.</span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite id="CITEREFHunwick2003" class="citation book cs1"><a href="/w/index.php?title=John_Hunwick&amp;action=edit&amp;redlink=1" class="new" title="John Hunwick (not yet started)">Hunwick, John O.</a> (2003) [1999]. <i>Timbuktu and the Songhay Empire: Al-Sadi's Tarikh al-Sudan down to 1613 and other contemporary documents</i>. Leiden: Brill. p.&nbsp;275 Fn 22. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/90-04-11207-3" title="Special:BookSources/90-04-11207-3"><bdi>90-04-11207-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Timbuktu+and+the+Songhay+Empire%3A+Al-Sadi%27s+Tarikh+al-Sudan+down+to+1613+and+other+contemporary+documents&amp;rft.place=Leiden&amp;rft.pages=275+Fn+22&amp;rft.pub=Brill&amp;rft.date=2003&amp;rft.isbn=90-04-11207-3&amp;rft.aulast=Hunwick&amp;rft.aufirst=John+O.&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANiger" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.citypopulation.de/Niger.html">Population figures from citypopulation.de</a>, citing <a rel="nofollow" class="external text" href="http://www.stat-niger.org/">(2001) Institut National de la Statistique du Niger</a>.</span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fallingrain.com/world/NG/index.html">fallingrain.com</a>.</span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/ng.html">"Africa&nbsp;:: Niger — The World Factbook - Central Intelligence Agency"</a>. <i>www.cia.gov</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cia.gov&amp;rft.atitle=Africa+%3A%3A+Niger+%E2%80%94+The+World+Factbook+-+Central+Intelligence+Agency&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fng.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANiger" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-ilab-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ilab_10-0">10.0</a></sup> <sup><a href="#cite_ref-ilab_10-1">10.1</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dol.gov/ilab/media/reports/iclp/tda2001/Niger.htm">"Niger"</a>. <i>2001 Findings on the Worst Forms of Child Labor</i>. <a href="/w/index.php?title=Bureau_of_International_Labor_Affairs&amp;action=edit&amp;redlink=1" class="new" title="Bureau of International Labor Affairs (not yet started)">Bureau of International Labor Affairs</a>, <a href="/wiki/U.S._Department_of_Labor" class="mw-redirect" title="U.S. Department of Labor">U.S. Department of Labor</a> (2002). <i>This article incorporates text from this source, which is in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>.</i></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niger&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Niger&amp;action=edit&amp;section=9" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Niger" class="extiw" title="commons:Category:Niger"><span style="">Niger</span></a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/ng.html">Niger - CIA world factbook</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_Africa" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=List_of_sovereign_states_and_dependent_territories_in_Africa&amp;action=edit&amp;redlink=1" class="new" title="List of sovereign states and dependent territories in Africa (not yet started)">Countries and territories</a> of <a href="/wiki/Africa" title="Africa">Africa</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Entirely or mostly<br>in Africa</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Algeria" title="Algeria">Algeria</a></li> 
+                 <li><a href="/wiki/Angola" title="Angola">Angola</a></li> 
+                 <li><a href="/wiki/Benin" title="Benin">Benin</a></li> 
+                 <li><a href="/wiki/Botswana" title="Botswana">Botswana</a></li> 
+                 <li><a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a></li> 
+                 <li><a href="/wiki/Burundi" title="Burundi">Burundi</a></li> 
+                 <li><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></li> 
+                 <li><a href="/wiki/Cape_Verde" title="Cape Verde">Cape Verde</a></li> 
+                 <li><a href="/wiki/Central_African_Republic" title="Central African Republic">Central African Republic</a></li> 
+                 <li><a href="/wiki/Chad" title="Chad">Chad</a></li> 
+                 <li><a href="/wiki/Comoros" title="Comoros">Comoros</a></li> 
+                 <li><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+                 <li><a href="/wiki/Republic_of_the_Congo" title="Republic of the Congo">Republic of the Congo</a></li> 
+                 <li><a href="/wiki/Djibouti" title="Djibouti">Djibouti</a></li> 
+                 <li><a href="/wiki/Egypt" title="Egypt">Egypt</a></li> 
+                 <li><a href="/wiki/Equatorial_Guinea" title="Equatorial Guinea">Equatorial Guinea</a></li> 
+                 <li><a href="/wiki/Eritrea" title="Eritrea">Eritrea</a></li> 
+                 <li><a href="/wiki/Eswatini" title="Eswatini">Eswatini</a></li> 
+                 <li><a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a></li> 
+                 <li><a href="/wiki/Gabon" title="Gabon">Gabon</a></li> 
+                 <li><a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a></li> 
+                 <li><a href="/wiki/Ghana" title="Ghana">Ghana</a></li> 
+                 <li><a href="/wiki/Guinea" title="Guinea">Guinea</a></li> 
+                 <li><a href="/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a></li> 
+                 <li><a href="/wiki/Ivory_Coast" title="Ivory Coast">Ivory Coast</a></li> 
+                 <li><a href="/wiki/Kenya" title="Kenya">Kenya</a></li> 
+                 <li><a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></li> 
+                 <li><a href="/wiki/Liberia" title="Liberia">Liberia</a></li> 
+                 <li><a href="/wiki/Libya" title="Libya">Libya</a></li> 
+                 <li><a href="/wiki/Madagascar" title="Madagascar">Madagascar</a></li> 
+                 <li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li> 
+                 <li><a href="/wiki/Mali" title="Mali">Mali</a></li> 
+                 <li><a href="/wiki/Mauritania" title="Mauritania">Mauritania</a></li> 
+                 <li><a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></li> 
+                 <li><a href="/wiki/Morocco" title="Morocco">Morocco</a></li> 
+                 <li><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></li> 
+                 <li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li> 
+                 <li><a class="mw-selflink selflink">Niger</a></li> 
+                 <li><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></li> 
+                 <li><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a></li> 
+                 <li><a href="/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+                 <li><a href="/wiki/Senegal" title="Senegal">Senegal</a></li> 
+                 <li><a href="/wiki/Seychelles" title="Seychelles">Seychelles</a></li> 
+                 <li><a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></li> 
+                 <li><a href="/wiki/Somalia" title="Somalia">Somalia</a></li> 
+                 <li><a href="/wiki/South_Africa" title="South Africa">South Africa</a></li> 
+                 <li><a href="/wiki/South_Sudan" title="South Sudan">South Sudan</a></li> 
+                 <li><a href="/wiki/Sudan" title="Sudan">Sudan</a></li> 
+                 <li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li> 
+                 <li><a href="/wiki/Togo" title="Togo">Togo</a></li> 
+                 <li><a href="/wiki/Tunisia" title="Tunisia">Tunisia</a></li> 
+                 <li><a href="/wiki/Uganda" title="Uganda">Uganda</a></li> 
+                 <li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li> 
+                 <li><a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Partly<br>in Africa</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/France" title="France">France</a> 
+                  <ul>
+                   <li><a href="/wiki/Mayotte" title="Mayotte">Mayotte</a></li> 
+                   <li><a href="/wiki/R%C3%A9union" title="Réunion">Réunion</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Italy" title="Italy">Italy</a> 
+                  <ul>
+                   <li><a href="/w/index.php?title=Pantelleria&amp;action=edit&amp;redlink=1" class="new" title="Pantelleria (not yet started)">Pantelleria</a></li> 
+                   <li><a href="/wiki/Pelagie_Islands" title="Pelagie Islands">Pelagie Islands</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Portugal" title="Portugal">Portugal</a> 
+                  <ul>
+                   <li><a href="/wiki/Madeira" class="mw-redirect" title="Madeira">Madeira</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Spain" title="Spain">Spain</a> 
+                  <ul>
+                   <li><a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a></li> 
+                   <li><a href="/wiki/Ceuta" title="Ceuta">Ceuta</a></li> 
+                   <li><a href="/wiki/Melilla" title="Melilla">Melilla</a></li> 
+                   <li><a href="/w/index.php?title=Plazas_de_soberan%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Plazas de soberanía (not yet started)">Plazas de soberanía</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Yemen" title="Yemen">Yemen</a> 
+                  <ul>
+                   <li><a href="/wiki/Socotra" title="Socotra">Socotra</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px;padding:0 1.0em 0 0.5em;">
+           <div>
+            <a href="/wiki/File:Africa_(orthographic_projection).svg" class="image" title="Orthographic projection of Africa"><img alt="Orthographic projection of Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/120px-Africa_%28orthographic_projection%29.svg.png" decoding="async" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/180px-Africa_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/240px-Africa_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/w/index.php?title=Territory_(subdivision)&amp;action=edit&amp;redlink=1" class="new" title="Territory (subdivision) (not yet started)">Territories</a> 
+            <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">and</span>
+            <br><a href="/wiki/Dependent_territory" title="Dependent territory">dependencies</a>
+           </div></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Scattered_Islands_in_the_Indian_Ocean" title="Scattered Islands in the Indian Ocean">Îles Éparses</a> 
+              <ul>
+               <li><span style="font-size:90%;">France</span></li>
+              </ul></li> 
+             <li><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</a> 
+              <ul>
+               <li><span style="font-size:90%;">UK</span></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with limited<br>recognition</a>
+           </div></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Sahrawi_Arab_Democratic_Republic" title="Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Somaliland" title="Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <sup><small>1</small></sup> <a href="/wiki/Territorial_dispute" class="mw-redirect" title="Territorial dispute">Unclear sovereignty</a>.
+            <br>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p><br> </p> 
+      <div class="boilerplate metadata plainlinks" id="stub">
+       <a href="/wiki/File:Geographylogo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/30px-Geographylogo.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/45px-Geographylogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/60px-Geographylogo.svg.png 2x" data-file-width="160" data-file-height="160"></a> <i>This <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">short article</a> about a&nbsp;<a href="/wiki/Category:Geography_stubs" title="Category:Geography stubs">place or feature</a> can be made longer. You can help Wikipedia by <a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Niger&amp;action=edit">adding to it</a></i>.
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1032&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1032&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1032" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" class="mw-redirect" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX453561">XX453561</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11877680z">cb11877680z</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11877680z">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4042298-7">4042298-7</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://hls-dhs-dss.ch/fr/articles/003459">003459</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000121881490">0000 0001 2188 1490</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n79065240">n79065240</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/f27e792b-ddd2-3a70-bdd4-41fb11534b57">f27e792b-ddd2-3a70-bdd4-41fb11534b57</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10035780">10035780</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00568588">00568588</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge134317&amp;CON_LNG=ENG">ge134317</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=000975717&amp;local_base=nlx10">000975717</a></span></span></li> 
+             <li><span class="nowrap"><a href="/w/index.php?title=RERO_(Library_Network_of_Western_Switzerland)&amp;action=edit&amp;redlink=1" class="new" title="RERO (Library Network of Western Switzerland) (not yet started)">RERO</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.rero.ch/02-A000122292">02-A000122292</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/026550180">026550180</a></span></span></li> 
+             <li><span class="nowrap"><a href="https://www.wikidata.org/wiki/Q21527102" class="extiw" title="d:Q21527102">TDVİA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://islamansiklopedisi.org.tr/nijer">nijer</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/153186877">153186877</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n79065240">lccn-n79065240</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1311
+Cached time: 20201220033122
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.224 seconds
+Real time usage: 1.486 seconds
+Preprocessor visited node count: 5273/1000000
+Post‐expand include size: 139813/2097152 bytes
+Template argument size: 12480/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 21/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 24065/5000000 bytes
+Lua time usage: 0.841/10.000 seconds
+Lua memory usage: 28018207/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1337.538      1 -total
+ 48.95%  654.718      1 Template:Infobox_country
+ 47.90%  640.646      3 Template:Infobox
+ 16.47%  220.345      3 Template:ISO_3166_code
+ 13.83%  184.935      1 Template:Authority_control
+ 12.18%  162.908      1 Template:Commonscat
+ 11.19%  149.634      4 Template:In_lang
+ 10.93%  146.183      1 Template:Commons
+ 10.70%  143.069      1 Template:Sister_project
+ 10.47%  140.002      1 Template:Side_box
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:18023-0!canonical and timestamp 20201220033122 and revision id 7172022. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Niger&amp;oldid=7172022">https://simple.wikipedia.org/w/index.php?title=Niger&amp;oldid=7172022</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Niger" title="Category:Niger">Niger</a></li>
+       <li><a href="/wiki/Category:French-speaking_countries" title="Category:French-speaking countries">French-speaking countries</a></li>
+       <li><a href="/wiki/Category:Least_developed_countries" title="Category:Least developed countries">Least developed countries</a></li>
+       <li><a href="/wiki/Category:Members_of_the_Organisation_of_Islamic_Cooperation" title="Category:Members of the Organisation of Islamic Cooperation">Members of the Organisation of Islamic Cooperation</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_French-language_sources_(fr)" title="Category:Articles with French-language sources (fr)">Articles with French-language sources (fr)</a></li>
+       <li><a href="/wiki/Category:Articles_with_Hausa-language_sources_(ha)" title="Category:Articles with Hausa-language sources (ha)">Articles with Hausa-language sources (ha)</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li>
+       <li><a href="/wiki/Category:Geography_stubs" title="Category:Geography stubs">Geography stubs</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_HDS_identifiers" title="Category:Wikipedia articles with HDS identifiers">Wikipedia articles with HDS identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_RERO_identifiers" title="Category:Wikipedia articles with RERO identifiers">Wikipedia articles with RERO identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_TDV%C4%B0A_identifiers" title="Category:Wikipedia articles with TDVİA identifiers">Wikipedia articles with TDVİA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Niger" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Niger" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Niger" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Niger&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (not yet started) [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Niger">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Niger&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Niger&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Niger&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Niger" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Niger" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Niger&amp;oldid=7172022" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Niger&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Niger&amp;id=7172022&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1032" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Niger">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Niger&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Niger&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Niger" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Niger" title="Niger – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80_(%D0%BA%D1%8A%D1%8D%D1%80%D0%B0%D0%BB)" title="Нигер (къэрал) – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Niger" title="Niger – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Niger" title="Niger – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Niger" title="Niger – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%92%E1%8C%84%E1%88%AD" title="ኒጄር – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Niger" title="Niger – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1" title="النيجر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/N%C3%ADcher" title="Nícher – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%A2%DC%9D%DC%93%DC%AA" title="ܢܝܓܪ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Nig%C2%B7%C3%A8r" title="Nig·èr – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/N%C3%ADxer" title="Níxer – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/N%C3%ADher" title="Níher – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Niger" title="Niger – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%86%DB%8C%D8%AC%D8%B1" title="نیجر – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Niger" title="Niger – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Niz%C9%9Bri" title="Nizɛri – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%BE%E0%A6%B0" title="নাইজার – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Niger" title="Niger – Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Niger" title="Niger – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9D%D1%96%D0%B3%D0%B5%D1%80" title="Нігер – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9D%D1%96%D0%B3%D0%B5%D1%80" title="Нігер – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%B0" title="नाइजर – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Niger" title="Niger – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%93%E0%BD%B2%E0%BC%8B%E0%BD%87%E0%BD%A2%E0%BC%8D" title="ནི་ཇར། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Niger" title="Niger – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Niger" title="Niger – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/N%C3%ADger" title="Níger – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Niger" title="Niger – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Niger" title="Niger – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/N%C3%ADger" title="Níger – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Niger" title="Niger – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/N%C3%ACger" title="Nìger – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Niger" title="Niger – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Niger" title="Niger – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1" title="النيجر – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Niger" title="Niger – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Niger" title="Niger – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%82%DE%A9%DE%96%DE%A6%DE%83%DE%AA" title="ނީޖަރު – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Niger" title="Niger – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%B0" title="नाइजर – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Niger" title="Niger – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%B3%CE%B7%CF%81%CE%B1%CF%82" title="Νίγηρας – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Niger" title="Niger – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/N%C3%ADger" title="Níger – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ni%C4%9Dero" title="Niĝero – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Nigi" title="Nigi – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Niger" title="Niger – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Nidz%C9%9B" title="Nidzɛ – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%AC%D8%B1" title="نیجر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Niger" title="Niger – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Niger" title="Niger – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Niger" title="Niger – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Niger" title="Niger – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Niiser" title="Niiser – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_N%C3%ADgir" title="An Nígir – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Neegeyr" title="Yn Neegeyr – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Niger" title="Niger – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/N%C3%ACgeir" title="Nìgeir – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/N%C3%ADxer" title="Níxer – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Niger" title="Niger – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%A8%E0%AA%BE%E0%AA%88%E0%AA%9C%E0%AA%B0" title="નાઈજર – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Niger" title="Niger – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%BC%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Нигермудин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8B%88%EC%A0%9C%EB%A5%B4" title="니제르 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Nijar_(%C6%99asa)" title="Nijar (ƙasa) – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%86%D5%AB%D5%A3%D5%A5%D6%80" title="Նիգեր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%B0" title="नाइजर – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Niger" title="Niger – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Niger" title="Niger – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Nijer" title="Nijer – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Niger" title="Niger – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Niger" title="Niger – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B0" title="নাইজের – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Niger" title="Niger – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Niger" title="Niger – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Niger" title="Niger – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80_(%D0%BF%D0%B0%D0%B4%D0%B4%D0%B7%D0%B0%D1%85%D0%B0%D0%B4)" title="Нигер (паддзахад) – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/INayighe" title="INayighe – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/N%C3%ADger" title="Níger – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Niger" title="Niger – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%96%27%D7%A8" title="ניז'ר – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Niger" title="Niger – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Niz%C9%9B%C9%9Br%C9%A9" title="Nizɛɛrɩ – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%A8%E0%B3%88%E0%B2%9C%E0%B2%B0%E0%B3%8D" title="ನೈಜರ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Niger" title="Niger – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%98%E1%83%92%E1%83%94%E1%83%A0%E1%83%98" title="ნიგერი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Pow_Nijer" title="Pow Nijer – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Nigeri" title="Nigeri – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Niger" title="Niger – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Nijer" title="Nijer – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Nigera" title="Nigera – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Nij%C3%A8" title="Nijè – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Nij%C3%A8r" title="Nijèr – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/N%C3%AEjer" title="Nîjer – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Niger" title="Niger – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Nijer" title="Nijer – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D9%86%DB%8C%D8%AC%D8%B1" title="نیجر – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Nigritania" title="Nigritania – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Nig%C4%93ra" title="Nigēra – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Niger" title="Niger – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Nigeris" title="Nigeris – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Niger" title="Niger – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Niger" title="Niger – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Nizer" title="Nizer – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Nijer" title="Nijer – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Nigeru" title="Nigeru – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lg"><a href="https://lg.wikipedia.org/wiki/Niger" title="Niger – Ganda" lang="lg" hreflang="lg" class="interlanguage-link-target">Luganda</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Niger" title="Niger – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Niger_(orsz%C3%A1g)" title="Niger (ország) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Nijera" title="Nijera – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B5%88%E0%B4%9C%E0%B5%BC" title="നൈജർ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Ni%C4%A1er" title="Niġer – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%9C%E0%A4%B0" title="नायजर – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%9C%E1%83%98%E1%83%92%E1%83%94%E1%83%A0%E1%83%98" title="ნიგერი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%86%D9%8A%D8%AC%D8%B1" title="نيجر – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D9%86%DB%8C%D8%AC%D8%B1" title="نیجر – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Niger" title="Niger – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/Niger" title="Niger – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Minangkabau</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Niger" title="Niger – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%B5%D1%80" title="Нижер – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%82%E1%80%BB%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="နိုင်ဂျာနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Niger" title="Niger – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Niger" title="Niger – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Niger_(land)" title="Niger (land) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Niger_(laand)" title="Niger (laand) – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%B0" title="नाइजर – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%87%E0%A4%9C%E0%A4%B0" title="नाइजर – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%AB" title="ニジェール – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Niiger" title="Niiger – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Niijir" title="Niijir – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Niger" title="Niger – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Niger" title="Niger – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Niger" title="Niger – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Nig%C3%A8r_(pa%C3%ADs)" title="Nigèr (país) – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Niijer" title="Niijer – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Niger" title="Niger – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%A8%E0%A8%BE%E0%A8%88%E0%A8%9C%E0%A8%B0" title="ਨਾਈਜਰ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%9C%E0%A5%87" title="नीजे – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%86%D8%A7%D8%A6%D8%AC%D8%B1" title="نائجر – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Niger" title="Niger – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%86%D8%A7%DB%8C%D8%AC%DB%8C%D8%B1" title="نایجیر – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Nijier" title="Nijier – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/N%C3%ACger" title="Nìger – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Republiek_Niger" title="Republiek Niger – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Niger" title="Niger – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/N%C3%ADger" title="Níger – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Niger" title="Niger – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Niger" title="Niger – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Niger" title="Niger – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Niqir" title="Niqir – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%9D%D1%96%D2%91%D0%B5%D1%80" title="Ніґер – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Niger" title="Niger – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Niger" title="Niger – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%A8%E0%A5%80%E0%A4%9C%E0%A5%87" title="नीजे – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/Niz%C3%ABre" title="Nizëre – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Nix%C3%A8r" title="Nixèr – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Niger" title="Niger – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Niger" title="Niger – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Niger" title="Niger – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Niger" title="Niger – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Nigeri" title="Nigeri – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Niger" title="Niger – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B1%E0%B6%BA%E0%B7%92%E0%B6%A2%E0%B6%BB%E0%B7%8A" title="නයිජර් – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%86%D8%A7%D8%A6%D9%8A%D8%AC%D8%B1" title="نائيجر – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/INayijari" title="INayijari – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Niger" title="Niger – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Niger" title="Niger – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/%C5%83iger" title="Ńiger – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Nayjar" title="Nayjar – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%86%DB%8C%D8%AC%DB%95%D8%B1" title="نیجەر – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Niger" title="Niger – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Niger" title="Niger – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Niger" title="Niger – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Niger" title="Niger – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Niger" title="Niger – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%88%E0%AE%9C%E0%AE%B0%E0%AF%8D" title="நைஜர் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Nnijer" title="Nnijer – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%81%BC%E1%81%A2%E1%82%86%E1%80%B8%E1%81%B5%E1%80%BB%E1%82%83%E1%80%B8" title="မိူင်းၼၢႆးၵျႃး – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%A8%E0%B1%88%E0%B0%9C%E0%B0%B0%E0%B1%8D" title="నైజర్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="ประเทศไนเจอร์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-ti"><a href="https://ti.wikipedia.org/wiki/%E1%8A%93%E1%8B%AD%E1%8C%80%E1%88%AD" title="ናይጀር – Tigrinya" lang="ti" hreflang="ti" class="interlanguage-link-target">ትግርኛ</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9D%D0%B8%D2%B7%D0%B5%D1%80" title="Ниҷер – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Nijer" title="Nijer – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Niger" title="Niger – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-din"><a href="https://din.wikipedia.org/wiki/Nijer" title="Nijer – Dinka" lang="din" hreflang="din" class="interlanguage-link-target">Thuɔŋjäŋ</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D1%96%D0%B3%D0%B5%D1%80" title="Нігер – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%86%D8%A7%D8%A6%D8%AC%D8%B1" title="نائجر – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D9%86%D9%89%DA%AF%DB%90%D8%B1" title="نىگېر – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Niger" title="Niger – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Niger" title="Niger – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Niger" title="Niger – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Niger" title="Niger – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Niger%C3%A4n" title="Nigerän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Niger" title="Niger – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%B0%BC%E6%97%A5" title="尼日 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Niger" title="Niger – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Niseer" title="Niseer – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%B0%BC%E6%97%A5%E7%88%BE" title="尼日爾 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Niger" title="Niger – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A0%D7%99%D7%96%D7%A9%D7%A2%D7%A8" title="ניזשער – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/N%C3%ACj%E1%BA%B9%CC%80r" title="Nìjẹ̀r – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%B0%BC%E6%97%A5%E7%88%BE" title="尼日爾 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Nicer" title="Nicer – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Niher" title="Niher – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Nigeris" title="Nigeris – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B0%BC%E6%97%A5%E5%B0%94" title="尼日尔 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1032#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 7 November 2020, at 04:50.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Niger&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.224","walltime":"1.486","ppvisitednodes":{"value":5273,"limit":1000000},"postexpandincludesize":{"value":139813,"limit":2097152},"templateargumentsize":{"value":12480,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":21,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24065,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1337.538      1 -total"," 48.95%  654.718      1 Template:Infobox_country"," 47.90%  640.646      3 Template:Infobox"," 16.47%  220.345      3 Template:ISO_3166_code"," 13.83%  184.935      1 Template:Authority_control"," 12.18%  162.908      1 Template:Commonscat"," 11.19%  149.634      4 Template:In_lang"," 10.93%  146.183      1 Template:Commons"," 10.70%  143.069      1 Template:Sister_project"," 10.47%  140.002      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.841","limit":"10.000"},"limitreport-memusage":{"value":28018207,"limit":52428800}},"cachereport":{"origin":"mw1311","timestamp":"20201220033122","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Niger","url":"https:\/\/simple.wikipedia.org\/wiki\/Niger","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1032","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1032","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-22T16:30:35Z","dateModified":"2020-11-07T04:50:37Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f4\/Flag_of_Niger.svg","headline":"sovereign state in Western Africa"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":264,"wgHostname":"mw1372"});});</script> 
+ </body>
+</html>

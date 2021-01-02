@@ -1,0 +1,1175 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Saint Vincent and the Grenadines - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X9wIWwpAMMQAAoCIKT8AAAAQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Saint_Vincent_and_the_Grenadines","wgTitle":"Saint Vincent and the Grenadines","wgCurRevisionId":7206165,"wgRevisionId":7206165,"wgArticleId":18322,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Coordinates on Wikidata","Pages using infobox country with unknown parameters","Organisation of Eastern Caribbean States","Saint Vincent and the Grenadines","Current monarchies","Caribbean Community","English-speaking countries","Commonwealth realms"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Saint_Vincent_and_the_Grenadines","wgRelevantArticleId":18322,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":13.166666666666666,"lon":-61.233333333333334},"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q757"};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1200px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Saint_Vincent_and_the_Grenadines rootpage-Saint_Vincent_and_the_Grenadines skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Saint Vincent and the Grenadines</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Saint_Vincent_and_the_Grenadines&amp;params=13_10_N_61_14_W_type:country_region:BB_scale:2500000&amp;title=Saint+Vicent+and+the+Grenadines"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°10′N</span> <span class="longitude">61°14′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.167°N 61.233°W</span><span style="display:none">﻿ / <span class="geo">13.167; -61.233</span></span><span style="display:none">﻿ (<span class="fn org">Saint Vicent and the Grenadines</span>)</span></span></span></a></span></span></span> </p> 
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Saint Vincent and the Grenadines
+          </div><br></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Saint_Vincent_and_the_Grenadines.svg" class="image" title="Flag of Saint Vincent and the Grenadines"><img alt="Flag of Saint Vincent and the Grenadines" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/125px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png" decoding="async" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/188px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/250px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 2x" data-file-width="1200" data-file-height="800"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Saint_Vincent_and_the_Grenadines" title="Flag of Saint Vincent and the Grenadines">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg" class="image" title="Coat of arms of Saint Vincent and the Grenadines"><img alt="Coat of arms of Saint Vincent and the Grenadines" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg/85px-Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg.png" decoding="async" width="85" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg/128px-Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg/170px-Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg.png 2x" data-file-width="654" data-file-height="924"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b><i>Pax et justitia</i><span class="nowrap">&nbsp;&nbsp;</span><small>(<a href="/wiki/Latin" title="Latin">Latin</a>)<br>"Peace and justice"</small>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b>"<a href="/w/index.php?title=Saint_Vincent_Land_so_Beautiful&amp;action=edit&amp;redlink=1" class="new" title="Saint Vincent Land so Beautiful (not yet started)">Saint Vincent Land so Beautiful</a>"
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:LocationSaintVincentAndTheGrenadines.png" class="image" title="Location of Saint Vincent and the Grenadines"><img alt="Location of Saint Vincent and the Grenadines" src="//upload.wikimedia.org/wikipedia/commons/1/19/LocationSaintVincentAndTheGrenadines.png" decoding="async" width="250" height="115" data-file-width="250" data-file-height="115"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Kingstown" title="Kingstown">Kingstown</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td>
+          <div class="hlist hlist-separated">
+           <ul>
+            <li><a href="/wiki/French_language" title="French language">French</a></li>
+            <li><a href="/wiki/English_language" title="English language">English</a></li>
+            <li><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Vernacular languages</th>
+         <td>Vincentian Creole</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>66% <a href="/wiki/Black_people" title="Black people">Black</a>, 19% <a href="/wiki/Mulatto" title="Mulatto">Mixed</a>, 6.0% East Indian, 4.0% <a href="/wiki/White_people" title="White people">European</a>, 2.0% <a href="/w/index.php?title=Carib&amp;action=edit&amp;redlink=1" class="new" title="Carib (not yet started)">Carib Amerindian</a>, 3.0% others<sup id="cite_ref-cia_1-0" class="reference"><a href="#cite_note-cia-1">[1]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>Vincentian</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Parliamentary_system" title="Parliamentary system">Parliamentary democracy</a> and <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Monarch" title="Monarch">Monarch</a> 
+          </div></th>
+         <td><a href="/wiki/Elizabeth_II" title="Elizabeth II">Elizabeth II</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Governor" title="Governor">Governor-General</a> 
+          </div></th>
+         <td>Sir <a href="/wiki/Frederick_Ballantyne" title="Frederick Ballantyne">Frederick Ballantyne</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Prime_Minister" class="mw-redirect" title="Prime Minister">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Ralph_Gonsalves" title="Ralph Gonsalves">Ralph Gonsalves</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        </tr>
+        <tr class="mergedbottomrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<span class="nowrap">from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span> 
+          </div></th>
+         <td>27 October 1979</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>389&nbsp;km<sup>2</sup> (150&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">204th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>negligible</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2013 estimate
+          </div></th>
+         <td>103,220<sup id="cite_ref-cia_1-1" class="reference"><a href="#cite_note-cia-1">[1]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">195th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>265/km<sup>2</sup> (686.3/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">39th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$1.259 billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$11,700<sup id="cite_ref-imf2_2-1" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$695 million<sup id="cite_ref-imf2_2-2" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$6,342<sup id="cite_ref-imf2_2-3" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2007)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.772<br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">91st</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/East_Caribbean_dollar" title="East Caribbean dollar">East Caribbean dollar</a> (<a href="/wiki/ISO_4217" title="ISO 4217">XCD</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>-4</span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>left</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=%2B1-784&amp;action=edit&amp;redlink=1" class="new" title="+1-784 (not yet started)">+1-784</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:VC&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:VC (not yet started)">VC</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.vc" class="mw-redirect" title=".vc">.vc</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Saint Vincent and the Grenadines</b> is an <a href="/wiki/Island" title="Island">island</a> <a href="/wiki/Nation" title="Nation">nation</a> in the <a href="/wiki/Caribbean_Sea" title="Caribbean Sea">Caribbean Sea</a>. It is a member of the <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>, the <a href="/w/index.php?title=Organisation_of_Eastern_Caribbean_States&amp;action=edit&amp;redlink=1" class="new" title="Organisation of Eastern Caribbean States (not yet started)">Organisation of Eastern Caribbean States</a> and <a href="/wiki/Caribbean_Community" title="Caribbean Community">CARICOM</a>. </p>
+      <p>The country speaks <a href="/wiki/English_language" title="English language">English</a> as its official language. The <a href="/wiki/Capital_city" title="Capital city">capital</a>, and its main <a href="/wiki/Port" title="Port">port</a>, is <a href="/wiki/Kingstown_(Saint_Vincent_and_the_Grenadines)" class="mw-redirect" title="Kingstown (Saint Vincent and the Grenadines)">Kingstown</a>. </p>
+      <p>Its <a href="/wiki/List_of_national_birds" title="List of national birds">national bird</a> is the <a href="/wiki/Saint_Vincent_Amazon" class="mw-redirect" title="Saint Vincent Amazon">Saint Vincent Amazon</a>, an <a href="/wiki/Endemism" title="Endemism">endemic</a> bird of the <a href="/wiki/Saint_Vincent_(island)" title="Saint Vincent (island)">Saint Vincent</a> island.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Politics"><span class="tocnumber">1</span> <span class="toctext">Politics</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Population"><span class="tocnumber">3</span> <span class="toctext">Population</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#Demographics"><span class="tocnumber">3.1</span> <span class="toctext">Demographics</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#Language"><span class="tocnumber">3.2</span> <span class="toctext">Language</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Religion"><span class="tocnumber">3.3</span> <span class="toctext">Religion</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Geography"><span class="tocnumber">4</span> <span class="toctext">Geography</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-8"><a href="#Islands"><span class="tocnumber">4.1</span> <span class="toctext">Islands</span></a></li> 
+          <li class="toclevel-2 tocsection-9"><a href="#Administrative_divisions"><span class="tocnumber">4.2</span> <span class="toctext">Administrative divisions</span></a></li> 
+          <li class="toclevel-2 tocsection-10"><a href="#Climate"><span class="tocnumber">4.3</span> <span class="toctext">Climate</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-11"><a href="#Related_pages"><span class="tocnumber">5</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: Politics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=1" title="Change section: Politics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Saint Vincent and the Grenadines is a <a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary democracy</a> and <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a> with <a href="/wiki/Elizabeth_II" title="Elizabeth II">Queen Elizabeth II</a> as head of state. The Queen does not live in the islands but she is represented in the country by the <a href="/wiki/Governor" title="Governor">Governor-General</a>, currently Sir <a href="/wiki/Frederick_Ballantyne" title="Frederick Ballantyne">Frederick Ballantyne</a>. </p>
+      <p>Control of the government rests with the <a href="/wiki/Election" title="Election">elected</a> <a href="/wiki/Prime_minister" title="Prime minister">prime minister</a> and his or her <a href="/wiki/Cabinet" title="Cabinet">cabinet</a>. The current Prime Minister is <a href="/wiki/Ralph_Gonsalves" title="Ralph Gonsalves">Ralph Gonsalves</a>. </p>
+      <p>The country has no formal armed forces, although the police has a Special Service Unit that has a supporting role on the island. </p>
+      <p>The <a href="/wiki/Parliament" title="Parliament">Parliament</a> is <a href="/wiki/Unicameral" class="mw-redirect" title="Unicameral">unicameral</a> is formed only by the <a href="/w/index.php?title=House_of_Assembly&amp;action=edit&amp;redlink=1" class="new" title="House of Assembly (not yet started)">House of Assembly</a> with 21 seats: 15 <a href="/wiki/Representative" class="mw-disambig" title="Representative">representatives</a> elected by popular vote to serve five-year terms and 6 appointed <a href="/wiki/Senator" class="mw-redirect" title="Senator">senators</a>. The last elections were held on 13 December 2010 and the next will be held in 2015.<sup id="cite_ref-cia_1-2" class="reference"><a href="#cite_note-cia-1">[1]</a></sup> </p> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=2" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The island now known as Saint Vincent was originally named <i>Youloumain</i><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> by the native <a href="/w/index.php?title=Caribe_people&amp;action=edit&amp;redlink=1" class="new" title="Caribe people (not yet started)">Caribs</a>. The Caribs inhabited Saint Vincent before the Europeans arrived, and it is possible still to find Carib <a href="/wiki/Artifact_(archaeology)" title="Artifact (archaeology)">artifacts</a> in the island. </p>
+      <p><a href="/wiki/Christopher_Columbus" title="Christopher Columbus">Christopher Columbus</a> explored in 1498 the main island on Saint Vincent's Day.<sup id="cite_ref-BBCTL_5-0" class="reference"><a href="#cite_note-BBCTL-5">[5]</a></sup> The Caribs did not allowed Europeans to settle in Saint Vincent until 1719 when some <a href="/wiki/French_people" class="mw-redirect" title="French people">French people</a> came from <a href="/wiki/Martinique" title="Martinique">Martinique</a> and began to grow <a href="/wiki/Coffee" title="Coffee">coffee</a>, <a href="/wiki/Tobacco" title="Tobacco">tobacco</a>, <a href="/wiki/Indigo" title="Indigo">indigo</a>, <a href="/wiki/Cotton" title="Cotton">cotton</a> and <a href="/wiki/Sugar_cane" class="mw-redirect" title="Sugar cane">sugar cane</a> with the help of <a href="/wiki/African" class="mw-redirect" title="African">African</a> <a href="/wiki/Slave" class="mw-redirect" title="Slave">slaves</a>. </p>
+      <p>In 1763 by the <a href="/wiki/Treaty_of_Paris_(1763)" title="Treaty of Paris (1763)">Treaty of Paris</a>, France gave control of Saint Vincent to Britain; France took the island again in 1779, but the British then regained Saint Vincent under the <a href="/wiki/Treaty_of_Paris_(1783)" title="Treaty of Paris (1783)">Treaty of Versailles (1783)</a>. </p>
+      <p>In 1834 <a href="/wiki/Slavery" title="Slavery">slavery</a> was abolished and people from the <a href="/wiki/Portugal" title="Portugal">Portuguese</a> island of <a href="/wiki/Madeira" class="mw-redirect" title="Madeira">Madeira</a> and from <a href="/wiki/India" title="India">India</a> came to work as <a href="/wiki/Agriculture" class="mw-redirect" title="Agriculture">agricultural</a> workers.<sup id="cite_ref-BBCTL_5-1" class="reference"><a href="#cite_note-BBCTL-5">[5]</a></sup> </p>
+      <p>In 1871 the group of islands became part of the Windward Islands Colony and in 1956 a member of the Federation of the Windward Islands. In 1958 Saint Vincent joined the Federation of the West Indies and in 1969 it got full internal self-government. Finally in 1979 it became an Independent Sovereign State within the Commonwealt.<sup id="cite_ref-BBCTL_5-2" class="reference"><a href="#cite_note-BBCTL-5">[5]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Population">Population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Population">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=3" title="Change section: Population">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Demographics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=4" title="Change section: Demographics">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The estimated population in 2003 was 103,220. The population density is 265 persons per square <a href="/wiki/Kilometre" title="Kilometre">kilometre</a>. </p>
+      <p>The ethnic composition was 66% <a href="/wiki/Black_people" title="Black people">Black</a>, 19% <a href="/wiki/Mulatto" title="Mulatto">Mixed</a>, 6.0% East Indian, 4.0% <a href="/wiki/White_people" title="White people">European</a> (mainly <a href="/wiki/Portugal" title="Portugal">Portuguese</a>), 2.0% <a href="/w/index.php?title=Carib&amp;action=edit&amp;redlink=1" class="new" title="Carib (not yet started)">Carib Amerindian</a>, 3.0% others.<sup id="cite_ref-cia_1-3" class="reference"><a href="#cite_note-cia-1">[1]</a></sup> </p> 
+      <h3><span class="mw-headline" id="***REMOVED***">Language</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Language">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=5" title="Change section: Language">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The official language of the islands is <a href="/wiki/English_language" title="English language">English</a> but most people use the Vicentian <a href="/wiki/Creole_language" title="Creole language">Creole</a> English.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Religion">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=6" title="Change section: Religion">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The people of Saint Vincent and the Grenadines was 75% <a href="/wiki/Protestantism" title="Protestantism">Protestant</a> (47% <a href="/wiki/Anglican_Church" class="mw-redirect" title="Anglican Church">Anglicans</a>, 28% <a href="/wiki/Methodism" title="Methodism">Methodists</a>), 13% Catholics, 12% other (<a href="/wiki/Hinduism" title="Hinduism">Hindu</a>, <a href="/wiki/Seventh-day_Adventist_Church" title="Seventh-day Adventist Church">Seventh-Day Adventists</a>, other Protestant).<sup id="cite_ref-cia_1-4" class="reference"><a href="#cite_note-cia-1">[1]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=7" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Saint Vincent and the Grenadines is a group of islands of the <a href="/wiki/Caribbean_Sea" title="Caribbean Sea">Caribbean Sea</a>. It lies to the west of <a href="/wiki/Barbados" title="Barbados">Barbados</a>, south of <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint Lucia</a> and north of <a href="/wiki/Grenada" title="Grenada">Grenada</a> in the <a href="/wiki/Windward_Islands" title="Windward Islands">Windward Islands</a> of the <a href="/wiki/Lesser_Antilles" title="Lesser Antilles">Lesser Antilles</a>. </p>
+      <p>There are 32 islands and <a href="/wiki/Cay" title="Cay">cays</a>, including the main island of <a href="/wiki/Saint_Vincent_(island)" title="Saint Vincent (island)">Saint Vincent</a> (344 square kilometres (133&nbsp;sq&nbsp;mi)) and the northern two-thirds of the Grenadines (45 square kilometres (17&nbsp;sq&nbsp;mi)), which are a chain of small islands stretching south from Saint Vincent to Grenada. The largest and most populated Grenadines islands are Bequia, Mustique, Canouan and Union Island.<sup id="cite_ref-gov_7-0" class="reference"><a href="#cite_note-gov-7">[7]</a></sup> </p>
+      <p>The main island of <b>Saint Vincent</b>, at <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Saint_Vincent_and_the_Grenadines&amp;params=13_15_N_61_12_W_region:ID_type:isle&amp;title=Saint+Vincent"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°15′N</span> <span class="longitude">61°12′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.250°N 61.200°W</span><span style="display:none">﻿ / <span class="geo">13.250; -61.200</span></span><span style="display:none">﻿ (<span class="fn org">Saint Vincent</span>)</span></span></span></a></span>, is 18 kilometres (11&nbsp;mi) long and 11 kilometres (6.8&nbsp;mi) wide, and has an area of 344 square kilometres (133&nbsp;sq&nbsp;mi), or about 88% of the total country area, 19 times that of the country's second largest island <a href="/w/index.php?title=Bequia&amp;action=edit&amp;redlink=1" class="new" title="Bequia (not yet started)">Bequia</a>. It is dominated by the highest mountain in the country and an active <a href="/wiki/Volcano" title="Volcano">volcano</a>, <a href="/wiki/La_Soufri%C3%A8re_(volcano)" title="La Soufrière (volcano)">La Soufrière</a> (1,234 metres (4,049&nbsp;ft)), which erupted violently in 1812 and 1902. The most recent eruption was on April 13, 1979. The island has many mountains and <a href="/wiki/Forest" title="Forest">forests</a>. The island is tropical humid, with an average of between 18 and 31&nbsp;°C depending on the altitude. </p>
+      <p>The Saint Vincent Passage is between the <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint Lucia</a> and Saint Vincent islands, and the Bequia Channel is between the Grenadines and Saint Vincent islands. </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:330px;">
+        <a href="/wiki/File:Saint_Vincent_and_the_Grenadines-CIA_WFB_Map.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/9/92/Saint_Vincent_and_the_Grenadines-CIA_WFB_Map.png" decoding="async" width="328" height="352" class="thumbimage" data-file-width="328" data-file-height="352"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Saint_Vincent_and_the_Grenadines-CIA_WFB_Map.png" class="internal" title="Enlarge"></a>
+         </div>Saint Vincent and the Grenadines
+        </div>
+       </div>
+      </div> 
+      <p>The <b>Grenadines</b> islands lie between the islands of Saint Vincent in the north and Grenada in the south. Neither Saint Vincent nor Grenada are Grenadine islands. The islands north of the Martinique Channel belong to Saint Vincent and the Grenadines and the islands south of the channel belong to Grenada. </p> 
+      <h3><span class="mw-headline" id="Islands">Islands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: Islands">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=8" title="Change section: Islands">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>These islands make up the <a href="/w/index.php?title=Grenadines_Parish,_Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Grenadines Parish, Saint Vincent and the Grenadines (not yet started)">Grenadines Parish</a> </p> 
+      <ul>
+       <li><a href="/w/index.php?title=Bequia&amp;action=edit&amp;redlink=1" class="new" title="Bequia (not yet started)">Bequia</a>, at <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Saint_Vincent_and_the_Grenadines&amp;params=13_00_N_61_14_W_region:ID_type:isle&amp;title=Bequia"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°00′N</span> <span class="longitude">61°14′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.000°N 61.233°W</span><span style="display:none">﻿ / <span class="geo">13.000; -61.233</span></span><span style="display:none">﻿ (<span class="fn org">Bequia</span>)</span></span></span></a></span>, is the largest of the Grenadines. The capital of the Grenadines parish, <a href="/w/index.php?title=Port_Elizabeth,_Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Port Elizabeth, Saint Vincent and the Grenadines (not yet started)">Port Elizabeth</a> , is here.</li> 
+       <li><a href="/w/index.php?title=Petite_Nevis&amp;action=edit&amp;redlink=1" class="new" title="Petite Nevis (not yet started)">Petit Nevis</a></li> 
+       <li><a href="/w/index.php?title=Quatre&amp;action=edit&amp;redlink=1" class="new" title="Quatre (not yet started)">Isle à Quatre</a></li> 
+       <li><a href="/w/index.php?title=Bettowia&amp;action=edit&amp;redlink=1" class="new" title="Bettowia (not yet started)">Bettowia</a></li> 
+       <li><a href="/w/index.php?title=Baliceaux&amp;action=edit&amp;redlink=1" class="new" title="Baliceaux (not yet started)">Baliceaux</a></li> 
+       <li><a href="/w/index.php?title=Mustique&amp;action=edit&amp;redlink=1" class="new" title="Mustique (not yet started)">Mustique</a></li> 
+       <li><a href="/w/index.php?title=Petite_Mustique&amp;action=edit&amp;redlink=1" class="new" title="Petite Mustique (not yet started)">Petit Mustique</a></li> 
+       <li><a href="/w/index.php?title=Savan_(island)&amp;action=edit&amp;redlink=1" class="new" title="Savan (island) (not yet started)">Savan</a></li> 
+       <li><a href="/w/index.php?title=Petite_Canouan&amp;action=edit&amp;redlink=1" class="new" title="Petite Canouan (not yet started)">Petit Canouan</a></li> 
+       <li><a href="/wiki/Canouan" title="Canouan">Canouan</a></li> 
+       <li><a href="/w/index.php?title=Mayreau&amp;action=edit&amp;redlink=1" class="new" title="Mayreau (not yet started)">Mayreau</a></li> 
+       <li><a href="/w/index.php?title=Tobago_Cays&amp;action=edit&amp;redlink=1" class="new" title="Tobago Cays (not yet started)">Tobago Cays</a></li> 
+       <li><a href="/w/index.php?title=Union_Island&amp;action=edit&amp;redlink=1" class="new" title="Union Island (not yet started)">Union Island</a></li> 
+       <li><a href="/w/index.php?title=Petit_Saint_Vincent&amp;action=edit&amp;redlink=1" class="new" title="Petit Saint Vincent (not yet started)">Petit Saint Vincent</a></li> 
+       <li><a href="/w/index.php?title=Palm_Island,_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Palm Island, Grenadines (not yet started)">Palm Island</a></li>
+      </ul> 
+      <h3><span class="mw-headline" id="Administrative_divisions">Administrative divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Administrative divisions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=9" title="Change section: Administrative divisions">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Administratively, Saint Vincent and the Grenadines is divided into six <a href="/wiki/Parish" title="Parish">parishes</a>. Five parishes are on Saint Vincent, while the sixth is made up of the Grenadine islands. <a href="/wiki/Kingstown" title="Kingstown">Kingstown</a> is located in the Parish of Saint George and is the capital city and central administrative centre of the country. </p> 
+      <ul>
+       <li>5 parishes on Saint Vincent: 
+        <ul>
+         <li><a href="/w/index.php?title=Charlotte_Parish,_Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Charlotte Parish, Saint Vincent and the Grenadines (not yet started)">Charlotte</a> - 149&nbsp;km² (capital: <a href="/w/index.php?title=Georgetown,_Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Georgetown, Saint Vincent and the Grenadines (not yet started)">Georgetown</a>)</li> 
+         <li><a href="/w/index.php?title=Saint_George_Parish,_Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Saint George Parish, Saint Vincent and the Grenadines (not yet started)">Saint George</a> - 52&nbsp;km² (capital: <a href="/wiki/Kingstown" title="Kingstown">Kingstown</a>)</li> 
+         <li><a href="/w/index.php?title=Saint_Andrew_Parish,_Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Saint Andrew Parish, Saint Vincent and the Grenadines (not yet started)">Saint Andrew</a> - 29&nbsp;km² (capital: <a href="/w/index.php?title=Layou&amp;action=edit&amp;redlink=1" class="new" title="Layou (not yet started)">Layou</a>)</li> 
+         <li><a href="/w/index.php?title=Saint_Patrick_Parish,_Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Saint Patrick Parish, Saint Vincent and the Grenadines (not yet started)">Saint Patrick</a> - 37&nbsp;km² (capital: <a href="/w/index.php?title=Barrouallie&amp;action=edit&amp;redlink=1" class="new" title="Barrouallie (not yet started)">Barrouallie</a>)</li> 
+         <li><a href="/w/index.php?title=Saint_David_Parish,_Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Saint David Parish, Saint Vincent and the Grenadines (not yet started)">Saint David</a> - 80&nbsp;km² (capital: <a href="/w/index.php?title=Chateaubelair&amp;action=edit&amp;redlink=1" class="new" title="Chateaubelair (not yet started)">Chateaubelair</a>)</li>
+        </ul></li> 
+       <li>1 parish made up of the Grenadine islands: 
+        <ul>
+         <li><a href="/w/index.php?title=Grenadines_Parish,_Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Grenadines Parish, Saint Vincent and the Grenadines (not yet started)">Grenadines</a> - 43&nbsp;km² (capital: <a href="/w/index.php?title=Port_Elizabeth,_Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" class="new" title="Port Elizabeth, Saint Vincent and the Grenadines (not yet started)">Port Elizabeth</a> on the <a href="/w/index.php?title=Bequia&amp;action=edit&amp;redlink=1" class="new" title="Bequia (not yet started)">Bequia</a> island)</li>
+        </ul></li>
+      </ul> 
+      <h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: Climate">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=10" title="Change section: Climate">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/Tropical" class="mw-redirect" title="Tropical">Tropical</a> <a href="/wiki/Rainforest" title="Rainforest">rainforest</a> climate is a type of <a href="/wiki/Tropical_climate" title="Tropical climate">tropical climate</a> in which there is no dry season - all months have mean <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> values of at least 60 millimetres (2.4&nbsp;in). Tropical rainforest climates have no pronounced summer or winter; it is typically hot and wet throughout the year and <a href="/wiki/Rainfall" class="mw-redirect" title="Rainfall">rainfall</a> is both heavy and frequent.<sup id="cite_ref-Weatherbase_8-0" class="reference"><a href="#cite_note-Weatherbase-8">[8]</a></sup> </p>
+      <p>The <a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a> subtype for this climate is <b>Af</b> (Tropical Rainforest Climate).<sup id="cite_ref-Weatherbase_8-1" class="reference"><a href="#cite_note-Weatherbase-8">[8]</a></sup> </p>
+      <p>The average yearly temperature is 27&nbsp;°C (81&nbsp;°F). The coolest months are between November and February. During the rainy season, May through October, rain is frequent in the mountains of St. Vincent with the annual average rainfall being 380 centimetres (150&nbsp;in) away from the coast and 200 centimetres (79&nbsp;in) on the coast.<sup id="cite_ref-gov_7-1" class="reference"><a href="#cite_note-gov-7">[7]</a></sup> </p> 
+      <div style="clear:both;"></div> 
+      <div> 
+       <table class="wikitable collapsible" style="width:100%; text-align:center; line-height: 1.2em; margin:auto;"> 
+        <tbody>
+         <tr> 
+          <th colspan="14">Climate data for Kingstown, Saint Vincent and the Grenadines </th>
+         </tr> 
+         <tr> 
+          <th scope="row">Month </th> 
+          <th scope="col">Jan </th> 
+          <th scope="col">Feb </th> 
+          <th scope="col">Mar </th> 
+          <th scope="col">Apr </th> 
+          <th scope="col">May </th> 
+          <th scope="col">Jun </th> 
+          <th scope="col">Jul </th> 
+          <th scope="col">Aug </th> 
+          <th scope="col">Sep </th> 
+          <th scope="col">Oct </th> 
+          <th scope="col">Nov </th> 
+          <th scope="col">Dec </th> 
+          <th scope="col" style="border-left-width:medium">Year </th>
+         </tr> 
+         <tr style="text-align: center;"> 
+          <th scope="row" style="height: 16px;">Daily mean °C (°F) </th> 
+          <td style="background: #FF7400; color:#000000;">24.6<br>(76.3) </td> 
+          <td style="background: #FF7800; color:#000000;">24.0<br>(75.2) </td> 
+          <td style="background: #FF7900; color:#000000;">23.9<br>(75.0) </td> 
+          <td style="background: #FF7500; color:#000000;">24.4<br>(75.9) </td> 
+          <td style="background: #FF7100; color:#000000;">25.0<br>(77.0) </td> 
+          <td style="background: #FF6C00; color:#000000;">25.8<br>(78.4) </td> 
+          <td style="background: #FF6A00; color:#000000;">26.0<br>(78.8) </td> 
+          <td style="background: #FF6A00; color:#000000;">26.0<br>(78.8) </td> 
+          <td style="background: #FF6900; color:#000000;">26.2<br>(79.2) </td> 
+          <td style="background: #FF6900; color:#000000;">26.2<br>(79.2) </td> 
+          <td style="background: #FF6A00; color:#000000;">26.0<br>(78.8) </td> 
+          <td style="background: #FF6E00; color:#000000;">25.4<br>(77.7) </td> 
+          <td style="background: #FF6F00; color:#000000; border-left-width:medium">25.3<br>(77.5) </td>
+         </tr> 
+         <tr style="text-align: center;"> 
+          <th scope="row" style="height: 16px;">Average rainfall mm (inches) </th> 
+          <td style="background: #3535FF; color:#FFFFFF;">135<br>(5.3) </td> 
+          <td style="background: #5656FF; color:#FFFFFF;">103<br>(4.1) </td> 
+          <td style="background: #9393FF; color:#000000;">72<br>(2.8) </td> 
+          <td style="background: #9191FF; color:#000000;">71<br>(2.8) </td> 
+          <td style="background: #8989FF; color:#000000;">79<br>(3.1) </td> 
+          <td style="background: #1818FF; color:#FFFFFF;">150<br>(5.9) </td> 
+          <td style="background: #0000ED; color:#FFFFFF;">183<br>(7.2) </td> 
+          <td style="background: #0000A4; color:#FFFFFF;">232<br>(9.1) </td> 
+          <td style="background: #000098; color:#FFFFFF;">232<br>(9.1) </td> 
+          <td style="background: #000095; color:#FFFFFF;">242<br>(9.5) </td> 
+          <td style="background: #0000B1; color:#FFFFFF;">216<br>(8.5) </td> 
+          <td style="background: #0000BF; color:#FFFFFF;">214<br>(8.4) </td> 
+          <td style="background: #0B0BFF; color:#FFFFFF; border-left-width:medium">1,929<br>(75.8) </td>
+         </tr> 
+         <tr> 
+          <td colspan="14" style="text-align:center;font-size:95%;">Source: Weatherbase.com <a rel="nofollow" class="external autonumber" href="http://www.weatherbase.com/weather/weather.php3?s=528572&amp;cityname=Kingstown-Saint-George-Saint-Vincent-and-the-Grenadines&amp;units=metric">[1]</a> </td>
+         </tr>
+        </tbody>
+       </table> 
+      </div> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=11" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/List_of_rivers_of_Saint_Vincent_and_the_Grenadines" title="List of rivers of Saint Vincent and the Grenadines">List of rivers of Saint Vincent and the Grenadines</a></li> 
+       <li><a href="/wiki/List_of_Vincentian_people" class="mw-redirect" title="List of Vincentian people">List of Vincentian people</a></li> 
+       <li><a href="/wiki/Saint_Vincent_and_the_Grenadines_at_the_Olympics" title="Saint Vincent and the Grenadines at the Olympics">Saint Vincent and the Grenadines at the Olympics</a></li> 
+       <li><a href="/wiki/Saint_Vincent_and_the_Grenadines_national_football_team" title="Saint Vincent and the Grenadines national football team">Saint Vincent and the Grenadines national football team</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;section=12" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Saint_Vincent_and_the_Grenadines" class="extiw" title="commons:Special:Search/Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-cia-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-cia_1-0">1.0</a></sup> <sup><a href="#cite_ref-cia_1-1">1.1</a></sup> <sup><a href="#cite_ref-cia_1-2">1.2</a></sup> <sup><a href="#cite_ref-cia_1-3">1.3</a></sup> <sup><a href="#cite_ref-cia_1-4">1.4</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/vc.html">"CIA World Factbook – Saint Vincent and the Grenadines"</a>. <i>CIA World Factbook</i>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a>. 09 April 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CIA+World+Factbook&amp;rft.atitle=CIA+World+Factbook+%E2%80%93+Saint+Vincent+and+the+Grenadines&amp;rft.chron=09+April+2013&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fvc.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Vincent+and+the+Grenadines" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Check date values in: <code class="cs1-code">|date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-imf2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_2-0">2.0</a></sup> <sup><a href="#cite_ref-imf2_2-1">2.1</a></sup> <sup><a href="#cite_ref-imf2_2-2">2.2</a></sup> <sup><a href="#cite_ref-imf2_2-3">2.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=46&amp;pr.y=14&amp;sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=364&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Saint Vincent and the Grenadines"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Saint+Vincent+and+the+Grenadines&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D46%26pr.y%3D14%26sy%3D2009%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D364%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Vincent+and+the+Grenadines" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.visitsvg.com/intro/symbol.html">"St. Vincent and the Grenadines National Symbols"</a>. <i>visitsvg.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=visitsvg.com&amp;rft.atitle=St.+Vincent+and+the+Grenadines+National+Symbols&amp;rft_id=http%3A%2F%2Fwww.visitsvg.com%2Fintro%2Fsymbol.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Vincent+and+the+Grenadines" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Historic Account of Saint Vincent, the Indian Youroumayn, the island of the Karaÿbes.- Frere. Adrien Le Breton SJ. (1662-1736) - Museum of Natural History, Fonds Jussieu, Paris</span> </li> 
+         <li id="cite_note-BBCTL-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-BBCTL_5-0">5.0</a></sup> <sup><a href="#cite_ref-BBCTL_5-1">5.1</a></sup> <sup><a href="#cite_ref-BBCTL_5-2">5.2</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/world-latin-america-20007543">"St Vincent and the Grenadines profile - Timeline"</a>. <i>BBC News</i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 26 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">9 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=St+Vincent+and+the+Grenadines+profile+-+Timeline&amp;rft.date=2012-10-26&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-latin-america-20007543&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Vincent+and+the+Grenadines" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ethnologue.com/country/VC">"Languages of Saint Vincent and the Grenadines"</a>. Ethnologue. 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">30 Mar</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Languages+of+Saint+Vincent+and+the+Grenadines&amp;rft.pub=Ethnologue&amp;rft.date=2013&amp;rft_id=http%3A%2F%2Fwww.ethnologue.com%2Fcountry%2FVC&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Vincent+and+the+Grenadines" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-gov-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-gov_7-0">7.0</a></sup> <sup><a href="#cite_ref-gov_7-1">7.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gov.vc/tourism/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=71">"Geography - SVG Facts"</a>. Ministry of Tourism, Sports and Culture. 09 April 2013<span class="reference-accessdate">. Retrieved 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Geography+-+SVG+Facts&amp;rft.pub=Ministry+of+Tourism%2C+Sports+and+Culture&amp;rft_id=http%3A%2F%2Fwww.gov.vc%2Ftourism%2Findex.php%3Foption%3Dcom_content%26view%3Dcategory%26layout%3Dblog%26id%3D20%26Itemid%3D71&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Vincent+and+the+Grenadines" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Check date values in: <code class="cs1-code">|accessdate=</code> and <code class="cs1-code">|date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Weatherbase-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Weatherbase_8-0">8.0</a></sup> <sup><a href="#cite_ref-Weatherbase_8-1">8.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.weatherbase.com/weather/weather-summary.php3?s=528572&amp;cityname=Kingstown%2C+Saint+George%2C+Saint+Vincent+and+the+Grenadines&amp;units=">"Kingstown, Saint Vincent and the Grenadines - Köppen Climate Classification"</a>. Weatherbase<span class="reference-accessdate">. Retrieved <span class="nowrap">7 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kingstown%2C+Saint+Vincent+and+the+Grenadines+-+K%C3%B6ppen+Climate+Classification&amp;rft.pub=Weatherbase&amp;rft_id=http%3A%2F%2Fwww.weatherbase.com%2Fweather%2Fweather-summary.php3%3Fs%3D528572%26cityname%3DKingstown%252C%2BSaint%2BGeorge%252C%2BSaint%2BVincent%2Band%2Bthe%2BGrenadines%26units%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Vincent+and+the+Grenadines" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_North_America" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_America" title="Template:North America"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:North_America&amp;action=edit&amp;redlink=1" class="new" title="Template talk:North America (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_America&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_of_North_America" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/North_America" title="North America">North America</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Independent</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>&nbsp;<b>·</b> <a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a>&nbsp;<b>·</b> <a href="/wiki/Barbados" title="Barbados">Barbados</a>&nbsp;<b>·</b> <a href="/wiki/Belize" title="Belize">Belize</a>&nbsp;<b>·</b> <a href="/wiki/Canada" title="Canada">Canada</a>&nbsp;<b>·</b> <a href="/wiki/Costa_Rica" title="Costa Rica">Costa&nbsp;Rica</a>&nbsp;<b>·</b> <a href="/wiki/Cuba" title="Cuba">Cuba</a>&nbsp;<b>·</b> <a href="/wiki/Dominica" title="Dominica">Dominica</a>&nbsp;<b>·</b> <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican&nbsp;Republic</a>&nbsp;<b>·</b> <a href="/wiki/El_Salvador" title="El Salvador">El&nbsp;Salvador</a>&nbsp;<b>·</b> <a href="/wiki/Grenada" title="Grenada">Grenada</a>&nbsp;<b>·</b> <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a>&nbsp;<b>·</b> <a href="/wiki/Haiti" title="Haiti">Haiti</a>&nbsp;<b>·</b> <a href="/wiki/Honduras" title="Honduras">Honduras</a>&nbsp;<b>·</b> <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>&nbsp;<b>·</b> <a href="/wiki/Mexico" title="Mexico">Mexico</a>&nbsp;<b>·</b> <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a>&nbsp;<b>·</b> <a href="/wiki/Panama" title="Panama">Panama</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint&nbsp;Kitts&nbsp;and&nbsp;Nevis</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint&nbsp;Lucia</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Saint&nbsp;Vincent&nbsp;and&nbsp;the&nbsp;Grenadines</a>&nbsp;<b>·</b> <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad&nbsp;and&nbsp;Tobago</a>&nbsp;<b>·</b> <a href="/wiki/United_States" title="United States">United&nbsp;States</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Governed by other countries</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Anguilla" title="Anguilla">Anguilla</a>&nbsp;<b>·</b> <a href="/wiki/Aruba" title="Aruba">Aruba</a>&nbsp;<b>·</b> <a href="/wiki/Bermuda" title="Bermuda">Bermuda</a>&nbsp;<b>·</b> <a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British&nbsp;Virgin&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/Cura%C3%A7ao" title="Curaçao">Curaçao</a>&nbsp;<b>·</b> <a href="/wiki/Greenland" title="Greenland">Greenland</a>&nbsp;<b>·</b> <a href="/wiki/Guadeloupe" title="Guadeloupe">Guadeloupe</a>&nbsp;<b>·</b> <a href="/wiki/Martinique" title="Martinique">Martinique</a>&nbsp;<b>·</b> <a href="/wiki/Montserrat" title="Montserrat">Montserrat</a>&nbsp;<b>·</b> <a href="/wiki/Navassa_Island" title="Navassa Island">Navassa&nbsp;Island</a>&nbsp;<b>·</b> <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto&nbsp;Rico</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Martin_(Netherlands)" class="mw-redirect" title="Saint Martin (Netherlands)">Saint Martin</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Pierre_and_Miquelon" title="Saint Pierre and Miquelon">Saint-Pierre&nbsp;and&nbsp;Miquelon</a>&nbsp;<b>·</b> <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks&nbsp;and&nbsp;Caicos&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/United_States_Virgin_Islands" title="United States Virgin Islands">U.S.&nbsp;Virgin&nbsp;Islands</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_in_the_Caribbean_(West_Indies)" style="autocollapse;padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Caribbean" title="Template:Caribbean"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Caribbean" title="Template talk:Caribbean"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caribbean&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_in_the_Caribbean_(West_Indies)" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Country" title="Country">Countries</a> and <a href="/wiki/Territory" title="Territory">territories</a> in the <a href="/wiki/Caribbean" title="Caribbean">Caribbean</a> (<i>West Indies</i>)
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Independent Countries</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>&nbsp;<b>·</b> <a href="/wiki/Bahamas" class="mw-redirect" title="Bahamas">Bahamas</a>&nbsp;<b>·</b> <a href="/wiki/Barbados" title="Barbados">Barbados</a>&nbsp;<b>·</b> <a href="/wiki/Cuba" title="Cuba">Cuba</a>&nbsp;<b>·</b> <a href="/wiki/Dominica" title="Dominica">Dominica</a>&nbsp;<b>·</b> <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>&nbsp;<b>·</b> <a href="/wiki/Grenada" title="Grenada">Grenada</a>&nbsp;<b>·</b> <a href="/wiki/Haiti" title="Haiti">Haiti</a>&nbsp;<b>·</b> <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint Kitts and Nevis</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint Lucia</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Saint Vincent and the Grenadines</a>&nbsp;<b>·</b> <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Governed by other countries</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Anguilla" title="Anguilla">Anguilla</a>&nbsp;<b>·</b> <a href="/wiki/Aruba" title="Aruba">Aruba</a>&nbsp;<b>·</b> <a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a>&nbsp;<b>·</b> <a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a>&nbsp;<b>·</b> <a href="/wiki/Guadeloupe" title="Guadeloupe">Guadeloupe</a>&nbsp;<b>·</b> <a href="/wiki/Cura%C3%A7ao" title="Curaçao">Curaçao</a>&nbsp;<b>·</b> <a href="/wiki/Martinique" title="Martinique">Martinique</a>&nbsp;<b>·</b> <a href="/wiki/Montserrat" title="Montserrat">Montserrat</a>&nbsp;<b>·</b> <a href="/wiki/Navassa_Island" title="Navassa Island">Navassa Island</a>&nbsp;<b>·</b> <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Martin_(Netherlands)" class="mw-redirect" title="Saint Martin (Netherlands)">Sint Maarten</a>&nbsp;<b>·</b> <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a>&nbsp;<b>·</b> <a href="/wiki/United_States_Virgin_Islands" title="United States Virgin Islands">U.S. Virgin Islands</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Caribbean_Community_(CARICOM)" style="autocollapse;padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Caricom" title="Template:Caricom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Caricom" title="Template talk:Caricom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caricom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Caribbean_Community_(CARICOM)" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Caribbean_Community" title="Caribbean Community">Caribbean Community</a> (CARICOM)
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>&nbsp;<b>·</b> <a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a>¹&nbsp;<b>·</b> <a href="/wiki/Barbados" title="Barbados">Barbados</a>&nbsp;<b>·</b> <a href="/wiki/Belize" title="Belize">Belize</a>&nbsp;<b>·</b> <a href="/wiki/Dominica" title="Dominica">Dominica</a>&nbsp;<b>·</b> <a href="/wiki/Grenada" title="Grenada">Grenada</a>&nbsp;<b>·</b> <a href="/wiki/Guyana" title="Guyana">Guyana</a>&nbsp;<b>·</b> <a href="/wiki/Haiti" title="Haiti">Haiti</a>&nbsp;<b>·</b> <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>&nbsp;<b>·</b> <a href="/wiki/Montserrat" title="Montserrat">Montserrat</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint Kitts and Nevis</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint Lucia</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Saint Vincent and the Grenadines</a>&nbsp;<b>·</b> <a href="/wiki/Suriname" title="Suriname">Suriname</a>&nbsp;<b>·</b> <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Associate members</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Anguilla" title="Anguilla">Anguilla</a>&nbsp;<b>·</b> <a href="/wiki/Bermuda" title="Bermuda">Bermuda</a>&nbsp;<b>·</b> <a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a>&nbsp;<b>·</b> <a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a>&nbsp;<b>·</b> <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Observer countries</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Aruba" title="Aruba">Aruba</a>&nbsp;<b>·</b> <a href="/wiki/Colombia" title="Colombia">Colombia</a>&nbsp;<b>·</b> <a href="/wiki/Cura%C3%A7ao" title="Curaçao">Curaçao</a>&nbsp;<b>·</b> <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>&nbsp;<b>·</b> <a href="/wiki/Mexico" title="Mexico">Mexico</a>&nbsp;<b>·</b> <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Martin_(Netherlands)" class="mw-redirect" title="Saint Martin (Netherlands)">Saint Martin</a>&nbsp;<b>·</b> <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            ¹ Member of the community but not the Caribbean (CARICOM) Single Market and Economy.
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Members_of_the_Commonwealth_of_Nations" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Members_of_the_Commonwealth_of_Nations" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=Member_states_of_the_Commonwealth_of_Nations&amp;action=edit&amp;redlink=1" class="new" title="Member states of the Commonwealth of Nations (not yet started)">Members of the</a> <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" class="mw-redirect" title="List of sovereign states">Sovereign states</a> <br> (Members)</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Australia" title="Australia">Australia</a></li> 
+             <li><a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a></li> 
+             <li><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Barbados" title="Barbados">Barbados</a></li> 
+             <li><a href="/wiki/Belize" title="Belize">Belize</a></li> 
+             <li><a href="/wiki/Botswana" title="Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Brunei" title="Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Canada" title="Canada">Canada</a></li> 
+             <li><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Dominica" title="Dominica">Dominica</a></li> 
+             <li><a href="/wiki/Eswatini" title="Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Fiji" title="Fiji">Fiji</a></li> 
+             <li><a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Ghana" title="Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Grenada" title="Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Guyana" title="Guyana">Guyana</a></li> 
+             <li><a href="/wiki/India" title="India">India</a></li> 
+             <li><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Kenya" title="Kenya">Kenya</a></li> 
+             <li><a href="/wiki/Kiribati" title="Kiribati">Kiribati</a></li> 
+             <li><a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Malta" title="Malta">Malta</a></li> 
+             <li><a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Nauru" title="Nauru">Nauru</a></li> 
+             <li><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></li> 
+             <li><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">St. Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Saint_Lucia" title="Saint Lucia">St. Lucia</a></li> 
+             <li><a class="mw-selflink selflink">St. Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Samoa" title="Samoa">Samoa</a></li> 
+             <li><a href="/wiki/Seychelles" title="Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Singapore" title="Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a></li> 
+             <li><a href="/wiki/South_Africa" title="South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Tonga" title="Tonga">Tonga</a></li> 
+             <li><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a></li> 
+             <li><a href="/wiki/Uganda" title="Uganda">Uganda</a></li> 
+             <li><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a></li> 
+             <li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a><br> of Members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Australia</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Ashmore_and_Cartier_Islands" title="Ashmore and Cartier Islands">Ashmore and Cartier Islands</a></li> 
+                 <li><a href="/wiki/Australian_Antarctic_Territory" title="Australian Antarctic Territory">Australian Antarctic Territory</a></li> 
+                 <li><a href="/wiki/Christmas_Island" title="Christmas Island">Christmas Island</a></li> 
+                 <li><a href="/wiki/Cocos_(Keeling)_Islands" title="Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+                 <li><a href="/wiki/Coral_Sea_Islands" title="Coral Sea Islands">Coral Sea Islands</a></li> 
+                 <li><a href="/wiki/Heard_Island_and_McDonald_Islands" title="Heard Island and McDonald Islands">Heard Island and McDonald Islands</a></li> 
+                 <li><a href="/wiki/Norfolk_Island" title="Norfolk Island">Norfolk Island</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">New Zealand</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a></li> 
+                 <li><a href="/wiki/Niue" title="Niue">Niue</a></li> 
+                 <li><a href="/wiki/Ross_Dependency" title="Ross Dependency">Ross Dependency</a></li> 
+                 <li><a href="/wiki/Tokelau" title="Tokelau">Tokelau</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">United Kingdom</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a></li> 
+                 <li><a href="/wiki/Anguilla" title="Anguilla">Anguilla</a></li> 
+                 <li><a href="/wiki/Bermuda" title="Bermuda">Bermuda</a></li> 
+                 <li><a href="/wiki/British_Antarctic_Territory" title="British Antarctic Territory">British Antarctic Territory</a></li> 
+                 <li><a href="/wiki/British_Indian_Ocean_Territory" title="British Indian Ocean Territory">British Indian Ocean Territory</a></li> 
+                 <li><a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a></li> 
+                 <li><a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a></li> 
+                 <li><a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a></li> 
+                 <li><a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a></li> 
+                 <li><a href="/wiki/Guernsey" title="Guernsey">Guernsey</a></li> 
+                 <li><a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a></li> 
+                 <li><a href="/wiki/Jersey" title="Jersey">Jersey</a></li> 
+                 <li><a href="/wiki/Montserrat" title="Montserrat">Montserrat</a></li> 
+                 <li><a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">Pitcairn Islands</a></li> 
+                 <li><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">St. Helena, Ascension and Tristan da Cunha</a></li> 
+                 <li><a href="/wiki/South_Georgia_and_the_South_Sandwich_Islands" title="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</a></li> 
+                 <li><a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            Source: <a rel="nofollow" class="external text" href="http://www.thecommonwealth.org/Internal/142227/members/">Commonwealth Secretariat - Member States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Organisation_of_Eastern_Caribbean_States_(OECS)" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Organisation_of_Eastern_Caribbean_States_(OECS)" title="Template:Organisation of Eastern Caribbean States (OECS)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Organisation_of_Eastern_Caribbean_States_(OECS)&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Organisation of Eastern Caribbean States (OECS) (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Organisation_of_Eastern_Caribbean_States_(OECS)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Organisation_of_Eastern_Caribbean_States_(OECS)" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=Organisation_of_Eastern_Caribbean_States&amp;action=edit&amp;redlink=1" class="new" title="Organisation of Eastern Caribbean States (not yet started)">Organisation of Eastern Caribbean States (OECS)</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>&nbsp;<b>·</b> <a href="/wiki/Dominica" title="Dominica">Dominica</a>&nbsp;<b>·</b> <a href="/wiki/Grenada" title="Grenada">Grenada</a>&nbsp;<b>·</b> <a href="/wiki/Montserrat" title="Montserrat">Montserrat</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">St.&nbsp;Kitts&nbsp;and Nevis</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Lucia" title="Saint Lucia">St.&nbsp;Lucia</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">St.&nbsp;Vincent&nbsp;and the&nbsp;Grenadines</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Associate&nbsp;members</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Anguilla" title="Anguilla">Anguilla</a>&nbsp;<b>·</b> <a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British Virgin Islands</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Financial institutions</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/w/index.php?title=Eastern_Caribbean_Central_Securities_Registry&amp;action=edit&amp;redlink=1" class="new" title="Eastern Caribbean Central Securities Registry (not yet started)">Eastern Caribbean Central Securities Registry</a>&nbsp;<b>·</b> <a href="/w/index.php?title=Eastern_Caribbean_Securities_Exchange&amp;action=edit&amp;redlink=1" class="new" title="Eastern Caribbean Securities Exchange (not yet started)">Eastern Caribbean Securities Exchange</a>&nbsp;<b>·</b> <a href="/wiki/East_Caribbean_dollar" title="East Caribbean dollar">East Caribbean dollar</a>&nbsp;<b>·</b> <a href="/wiki/Eastern_Caribbean_Central_Bank" title="Eastern Caribbean Central Bank">Eastern Caribbean Central Bank</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other institutions</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Eastern_Caribbean_Supreme_Court" title="Eastern Caribbean Supreme Court">Eastern Caribbean Supreme Court</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1295
+Cached time: 20201217130556
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.808 seconds
+Real time usage: 0.936 seconds
+Preprocessor visited node count: 4819/1000000
+Post‐expand include size: 118518/2097152 bytes
+Template argument size: 5287/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29588/5000000 bytes
+Lua time usage: 0.449/10.000 seconds
+Lua memory usage: 11565402/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  812.644      1 -total
+ 36.04%  292.917      1 Template:Infobox_country
+ 32.28%  262.298      3 Template:Infobox
+ 27.76%  225.621      3 Template:Coord
+ 13.84%  112.508      1 Template:Reflist
+ 12.09%   98.233      7 Template:Cite_web
+ 11.14%   90.530      1 Template:Weather_box
+  6.64%   53.956      3 Template:ISO_3166_code
+  6.12%   49.716      2 Template:Convinfobox
+  5.59%   45.415      1 Template:Convinfobox/prisec2
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:18322-0!canonical and timestamp 20201217130556 and revision id 7206165. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;oldid=7206165">https://simple.wikipedia.org/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;oldid=7206165</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Organisation_of_Eastern_Caribbean_States" title="Category:Organisation of Eastern Caribbean States">Organisation of Eastern Caribbean States</a></li>
+       <li><a href="/wiki/Category:Saint_Vincent_and_the_Grenadines" title="Category:Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></li>
+       <li><a href="/wiki/Category:Current_monarchies" title="Category:Current monarchies">Current monarchies</a></li>
+       <li><a href="/wiki/Category:Caribbean_Community" title="Category:Caribbean Community">Caribbean Community</a></li>
+       <li><a href="/wiki/Category:English-speaking_countries" title="Category:English-speaking countries">English-speaking countries</a></li>
+       <li><a href="/wiki/Category:Commonwealth_realms" title="Category:Commonwealth realms">Commonwealth realms</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li>
+       <li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Saint+Vincent+and+the+Grenadines" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Saint+Vincent+and+the+Grenadines" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Saint_Vincent_and_the_Grenadines" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Saint_Vincent_and_the_Grenadines&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (not yet started) [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Saint_Vincent_and_the_Grenadines">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Saint_Vincent_and_the_Grenadines" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Saint_Vincent_and_the_Grenadines" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;oldid=7206165" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Saint_Vincent_and_the_Grenadines&amp;id=7206165&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q757" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Saint+Vincent+and+the+Grenadines">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Saint_Vincent_and_the_Grenadines&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Saint_Vincent_and_the_Grenadines" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/St._Vincent_en_die_Grenadine" title="St. Vincent en die Grenadine – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/St._Vincent_und_die_Grenadinen" title="St. Vincent und die Grenadinen – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%88%B0%E1%8B%AD%E1%8A%95%E1%89%B5_%E1%89%AA%E1%8A%95%E1%88%B0%E1%8A%95%E1%89%B5%E1%8A%93_%E1%8B%98_%E1%8C%8D%E1%88%A8%E1%8A%90%E1%8B%B2%E1%8A%95%E1%8B%9D" title="ሰይንት ቪንሰንትና ዘ ግረነዲንዝ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Saint_Vincent_j%C3%A1_Grenadiineh" title="Saint Vincent já Grenadiineh – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%86%D8%AA_%D9%81%D9%8A%D9%86%D8%B3%D9%86%D8%AA_%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D9%8A%D9%86%D8%A7%D8%AF%D9%8A%D9%86" title="سانت فينسنت والغرينادين – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Sant_Vicent_y_as_Granadinas" title="Sant Vicent y as Granadinas – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Sant-Vincent-et-les_Grenadenes" title="Sant-Vincent-et-les Grenadenes – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/San_Vicente_y_les_Granadines" title="San Vicente y les Granadines – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/San_Vicente_ha_Granadinas" title="San Vicente ha Granadinas – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Saint_Winsent_wan_Grenadinak" title="Saint Winsent wan Grenadinak – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Sent-Vinsent_v%C9%99_Qrenadin" title="Sent-Vinsent və Qrenadin – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B3%D9%86%D8%AA_%D9%88%DB%8C%D9%86%D8%B3%D9%86%D8%AA_%D9%88_%D9%82%D8%B1%D9%86%D8%A7%D8%AF%DB%8C%D9%86%E2%80%8C%D9%84%D8%B1" title="سنت وینسنت و قرنادین‌لر – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Saint_Vinc%C3%A9nt_miwah_Gr%C3%A9nadines" title="Saint Vincént miwah Grénadines – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F_%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F_%E0%A6%93_%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%87%E0%A6%A8" title="সেন্ট ভিনসেন্ট ও গ্রেনাডাইন – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Saint_Vincent_kap_Grenadines" title="Saint Vincent kap Grenadines – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D2%BB%D3%99%D0%BC_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD" title="Сент-Винсент һәм Гренадин – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D1%96%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D1%96_%D0%93%D1%80%D1%8D%D0%BD%D0%B0%D0%B4%D0%B7%D1%96%D0%BD%D1%8B" title="Сент-Вінсент і Грэнадзіны – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A1%D1%8C%D0%B2%D1%8F%D1%82%D1%8B_%D0%92%D1%96%D0%BD%D1%86%D1%8D%D0%BD%D1%82_%D1%96_%D0%93%D1%80%D1%8D%D0%BD%D0%B0%D0%B4%D0%B7%D1%96%D0%BD%D1%8B" title="Сьвяты Вінцэнт і Грэнадзіны – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/San_Vincente_asin_an_Granadinas" title="San Vincente asin an Granadinas – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D0%BD%D1%82_%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D0%B8_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8" title="Сейнт Винсент и Гренадини – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/St._Vincent_und_de_Grenadinen" title="St. Vincent und de Grenadinen – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%A6%E0%BD%BA%E0%BD%93%E0%BC%8B%E0%BD%8A%E0%BD%B2%E0%BC%8B%E0%BD%96%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%A6%E0%BD%BA%E0%BD%93%E0%BC%8B%E0%BD%8A%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%84%E0%BC%8B%E0%BD%82%E0%BD%B2%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BC%8B%E0%BD%93%E0%BC%8B%E0%BD%8C%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%A6%E0%BD%B2%E0%BC%8D" title="སེན་ཊི་བིན་སེན་ཊི་དང་གི་རི་ན་ཌིན་སི། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Sveti_Vincent_i_Grenadini" title="Sveti Vincent i Grenadini – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Sant_Visant_hag_an_Inizi_Granadinas" title="Sant Visant hag an Inizi Granadinas – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D0%B1%D0%B0_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD" title="Сент-Винсент ба Гренадин – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Saint_Vincent_i_les_Grenadines" title="Saint Vincent i les Grenadines – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Saint_Vincent_ug_ang_Grenadines" title="Saint Vincent ug ang Grenadines – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Svat%C3%BD_Vincenc_a_Grenadiny" title="Svatý Vincenc a Grenadiny – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/San_Vicente_y_las_Granadinas" title="San Vicente y las Granadinas – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Saint_Vincent_a%27r_Grenadines" title="Saint Vincent a'r Grenadines – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Saint_Vincent_og_Grenadinerne" title="Saint Vincent og Grenadinerne – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%B3%D8%A7%D9%86%D8%AA_%DA%A4%D9%8A%D9%86%D8%B3%D9%86%D8%AA_%D9%88_%D9%84%DA%AD%D8%B1%D9%88%D9%86%D8%A7%D8%AF%D9%8A%D9%86" title="سانت ڤينسنت و لڭرونادين – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/St._Vincent_und_die_Grenadinen" title="St. Vincent und die Grenadinen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%90%DE%A6%DE%82%DE%B0%DE%8C%DE%A8_%DE%88%DE%A8%DE%90%DE%AC%DE%82%DE%B0%DE%93%DE%AD_%DE%87%DE%A6%DE%8B%DE%A8_%DE%8E%DE%AA%DE%83%DE%AC%DE%82%DE%A7%DE%91%DE%A9%DE%82%DE%B0" title="ސަންތި ވިސެންޓޭ އަދި ގުރެނާޑީން – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Saint_Vincent_a_Grenadiny" title="Saint Vincent a Grenadiny – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F_%E0%A4%AD%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F_%E0%A4%B0_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A4%BE%E0%A4%A1%E0%A4%BE%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%B8" title="सेन्ट भिन्सेन्ट र ग्रेनाडाइन्स – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Saint_Vincent_ja_Grenadiinid" title="Saint Vincent ja Grenadiinid – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%86%CE%B3%CE%B9%CE%BF%CF%82_%CE%92%CE%B9%CE%BA%CE%AD%CE%BD%CF%84%CE%B9%CE%BF%CF%82_%CE%BA%CE%B1%CE%B9_%CE%93%CF%81%CE%B5%CE%BD%CE%B1%CE%B4%CE%AF%CE%BD%CE%B5%CF%82" title="Άγιος Βικέντιος και Γρεναδίνες – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D0%B4%D1%8B_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D1%82" title="Сент-Винсент ды Гренадинт – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/San_Vicente_y_las_Granadinas" title="San Vicente y las Granadinas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Sankta_Vincento_kaj_la_Grenadinoj" title="Sankta Vincento kaj la Grenadinoj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/San_Vicenti_i_las_Granainas" title="San Vicenti i las Granainas – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Saint_Vincent_eta_Grenadinak" title="Saint Vincent eta Grenadinak – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D9%86%D8%AA_%D9%88%DB%8C%D9%86%D8%B3%D9%86%D8%AA_%D9%88_%DA%AF%D8%B1%D9%86%D8%A7%D8%AF%DB%8C%D9%86%E2%80%8C%D9%87%D8%A7" title="سنت وینسنت و گرنادین‌ها – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/St_Vinsent_og_Grenadinoyggjar" title="St Vinsent og Grenadinoyggjar – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Saint-Vincent-et-les-Grenadines" title="Saint-Vincent-et-les-Grenadines – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Sint-Finsint_en_de_Grenadinen" title="Sint-Finsint en de Grenadinen – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/San_Uinseann_agus_na_Grean%C3%A1id%C3%ADn%C3%AD" title="San Uinseann agus na Greanáidíní – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Noo_Winsen_as_ny_Grenadeenyn" title="Noo Winsen as ny Grenadeenyn – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Sent_Vin%C8%9Bent_hem_Grenadinler" title="Sent Vințent hem Grenadinler – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Naomh_Bhionsant_agus_Eileanan_Greanadach" title="Naomh Bhionsant agus Eileanan Greanadach – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/San_Vicente_e_as_Granadinas" title="San Vicente e as Granadinas – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F_%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F_%E0%A4%86%E0%A4%A8%E0%A5%80_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%87%E0%A4%A1%E0%A5%80%E0%A4%A8%E0%A5%8D%E0%A4%B8" title="सेंट व्हिन्सेंट आनी ग्रेनेडीन्स – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Saint_Vincent_l%C3%A2u_Grenadines" title="Saint Vincent lâu Grenadines – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D0%B2%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82%D0%B8%D0%BD_%D0%B1%D0%BE%D0%BB%D0%BD_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Сенвинсентин болн Гренадин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%84%B8%EC%9D%B8%ED%8A%B8%EB%B9%88%EC%84%BC%ED%8A%B8_%EA%B7%B8%EB%A0%88%EB%82%98%EB%94%98" title="세인트빈센트 그레나딘 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%A5%D5%B6%D5%A9_%D5%8E%D5%AB%D5%B6%D5%BD%D5%A5%D5%B6%D5%A9_%D6%87_%D4%B3%D6%80%D5%A5%D5%B6%D5%A1%D5%A4%D5%AB%D5%B6%D5%B6%D5%A5%D6%80" title="Սենթ Վինսենթ և Գրենադիններ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F_%E0%A4%B5%E0%A4%BF%E0%A4%82%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F_%E0%A4%8F%E0%A4%82%E0%A4%A1_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A4%BE%E0%A4%A1%E0%A4%BE%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%B8" title="सेंट विंसेंट एंड ग्रेनाडाइन्स – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Saint_Vincent_a_Grenadiny" title="Saint Vincent a Grenadiny – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Sveti_Vincent_i_Grenadini" title="Sveti Vincent i Grenadini – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Santa_Vincent_e_Grenadini" title="Santa Vincent e Grenadini – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/San_Vicente_ken_dagiti_Grenadito" title="San Vicente ken dagiti Grenadito – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F_%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F_%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8B_%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%87%E0%A6%A8" title="সেন্ট ভিনসেন্ট বারো গ্রেনাডাইন – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Saint_Vincent_dan_Grenadine" title="Saint Vincent dan Grenadine – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Sant_Vincent_e_li_Grenadines" title="Sant Vincent e li Grenadines – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%C3%A6%D0%BC%C3%A6_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D1%82%C3%A6" title="Сент-Винсент æмæ Гренадинтæ – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Sankti_Vinsent_og_Grenad%C3%ADnur" title="Sankti Vinsent og Grenadínur – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Saint_Vincent_e_Grenadine" title="Saint Vincent e Grenadine – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%A0%D7%98_%D7%95%D7%99%D7%A0%D7%A1%D7%A0%D7%98_%D7%95%D7%94%D7%92%D7%A8%D7%A0%D7%93%D7%99%D7%A0%D7%99%D7%9D" title="סנט וינסנט והגרנדינים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Santa_Vincent_lan_Gr%C3%A9nadines" title="Santa Vincent lan Grénadines – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B3%87%E0%B2%82%E0%B2%9F%E0%B3%8D_%E0%B2%B5%E0%B2%BF%E0%B2%A8%E0%B3%8D%E0%B2%B8%E0%B3%86%E0%B2%82%E0%B2%9F%E0%B3%8D_%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81_%E0%B2%97%E0%B3%8D%E0%B2%B0%E0%B3%86%E0%B2%A8%E0%B2%A1%E0%B3%80%E0%B2%A8%E0%B3%8D%E0%B2%B8%E0%B3%8D" title="ಸೇಂಟ್ ವಿನ್ಸೆಂಟ್ ಮತ್ತು ಗ್ರೆನಡೀನ್ಸ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%94%E1%83%9C%E1%83%A2-%E1%83%95%E1%83%98%E1%83%9C%E1%83%A1%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98_%E1%83%93%E1%83%90_%E1%83%92%E1%83%A0%E1%83%94%E1%83%9C%E1%83%90%E1%83%93%E1%83%98%E1%83%9C%E1%83%94%E1%83%91%E1%83%98" title="სენტ-ვინსენტი და გრენადინები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D0%B6%D3%99%D0%BD%D0%B5_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D0%B4%D0%B5%D1%80" title="Сент-Винсент және Гренадиндер – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Sen_Vinsent_ha%27n_Ynysow_Grenadinek" title="Sen Vinsent ha'n Ynysow Grenadinek – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Mutagatifu_Visenti_na_Gerenadine" title="Mutagatifu Visenti na Gerenadine – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Saint_Vincent_na_Grenadini" title="Saint Vincent na Grenadini – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Sen_Vensan_ak_Grenadin" title="Sen Vensan ak Grenadin – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Saint_Vincent_%C3%BB_Girav%C3%AAn_Grenad%C3%AEn" title="Saint Vincent û Giravên Grenadîn – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D0%B6%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D0%B4%D0%B5%D1%80" title="Сент-Винсент жана Гренадиндер – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/San_Vicente_i_las_Granadinas" title="San Vicente i las Granadinas – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Sanctus_Vincentius_et_Granatinae" title="Sanctus Vincentius et Granatinae – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Sentvinsenta_un_Grenad%C4%ABnas" title="Sentvinsenta un Grenadīnas – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Saint_Vincent_an_d%27Grenadinnen" title="Saint Vincent an d'Grenadinnen – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Sent_Vinsentas_ir_Grenadinai" title="Sent Vinsentas ir Grenadinai – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/San_Vi%C3%A7en%C3%A7o_e_Grenadinn-e" title="San Viçenço e Grenadinn-e – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Saint_Vincent_en_de_Grenadines" title="Saint Vincent en de Grenadines – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Santu_Vincent_mp%C3%A9_Granadines" title="Santu Vincent mpé Granadines – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/San_Vinsent_e_la_Grenadines" title="San Vinsent e la Grenadines – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Sent-Vinsent_da_Grenadinat" title="Sent-Vinsent da Grenadinat – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/San_Vincenz_e_Grenadin" title="San Vincenz e Grenadin – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Saint_Vincent_%C3%A9s_a_Grenadine-szigetek" title="Saint Vincent és a Grenadine-szigetek – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%B8_%D0%92%D0%B8%D0%BD%D1%86%D0%B5%D0%BD%D1%82_%D0%B8_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8" title="Свети Винцент и Гренадини – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Masina_Vincent_sy_Grenadine" title="Masina Vincent sy Grenadine – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%86%E0%B4%AF%E0%B5%8D%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%8D_%E0%B4%B5%E0%B4%BF%E0%B5%BB%E0%B4%B8%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%8D_%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B4%A8%E0%B4%A1%E0%B5%80%E0%B5%BB%E0%B4%B8%E0%B5%8D" title="സെയ്ന്റ് വിൻസന്റ് ഗ്രനഡീൻസ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Saint_Vincent_u_l-Grenadini" title="Saint Vincent u l-Grenadini – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F_%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F_%E0%A4%86%E0%A4%A3%E0%A4%BF_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%87%E0%A4%A1%E0%A5%80%E0%A4%A8%E0%A5%8D%E0%A4%B8" title="सेंट व्हिन्सेंट आणि ग्रेनेडीन्स – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A1%E1%83%94%E1%83%9C%E1%83%A2-%E1%83%95%E1%83%98%E1%83%9C%E1%83%A1%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98_%E1%83%93%E1%83%9D_%E1%83%92%E1%83%A0%E1%83%94%E1%83%9C%E1%83%90%E1%83%93%E1%83%98%E1%83%9C%E1%83%94%E1%83%A4%E1%83%98" title="სენტ-ვინსენტი დო გრენადინეფი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%B3%D8%A7%D9%86%D8%AA_%D9%81%D9%8A%D9%86%D8%B3%D9%8A%D9%86%D8%AA_%D9%88_%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D9%86%D8%A7%D8%AF%D9%8A%D9%86%D8%B2" title="سانت فينسينت و الجرينادينز – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Saint_Vincent_dan_Kepulauan_Grenadine" title="Saint Vincent dan Kepulauan Grenadine – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Saint_Vincent_g%C3%A2e%CC%A4ng_Grenadines" title="Saint Vincent gâe̤ng Grenadines – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%85%E1%80%AD%E1%80%94%E1%80%B7%E1%80%BA%E1%80%97%E1%80%84%E1%80%BA%E1%80%B8%E1%80%86%E1%80%84%E1%80%B7%E1%80%BA%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA_%E1%80%82%E1%80%9B%E1%80%AD%E1%80%94%E1%80%B1%E1%80%92%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="စိန့်ဗင်းဆင့်နှင့် ဂရိနေဒိုင်နိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Saint_Vincent_en_de_Grenadines" title="Saint Vincent en de Grenadines – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%93%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%8A%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3" title="セントビンセント・グレナディーン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D0%B0,_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0%D1%88_%D0%B0" title="Сент-Винсент а, Гренадинаш а – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/St._Vincent_an_Grenadiinen" title="St. Vincent an Grenadiinen – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Saint_Vincent_a%27_t%27_Grenadines" title="Saint Vincent a' t' Grenadines – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Saint_Vincent_og_Grenadinene" title="Saint Vincent og Grenadinene – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Saint_Vincent_og_Grenadinane" title="Saint Vincent og Grenadinane – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Sankte_Vinsent_e_li_Grenadines" title="Sankte Vinsent e li Grenadines – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Sant_Vincen%C3%A7_e_las_Grenadinas" title="Sant Vincenç e las Grenadinas – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Seenti_Viinsenti_fi_Giranadiinsi" title="Seenti Viinsenti fi Giranadiinsi – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Sent_Vinsent_va_Grenadinlar" title="Sent Vinsent va Grenadinlar – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A9%87%E0%A8%82%E0%A8%9F_%E0%A8%B5%E0%A8%BF%E0%A8%A8%E0%A8%B8%E0%A9%88%E0%A8%82%E0%A8%9F_%E0%A8%85%E0%A8%A4%E0%A9%87_%E0%A8%97%E0%A9%8D%E0%A8%B0%E0%A9%87%E0%A8%A8%E0%A8%BE%E0%A8%A1%E0%A9%80%E0%A8%A8%E0%A8%9C%E0%A8%BC" title="ਸੇਂਟ ਵਿਨਸੈਂਟ ਅਤੇ ਗ੍ਰੇਨਾਡੀਨਜ਼ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%B9_%D9%88%D9%86%D8%B3%D9%86%D9%B9_%D8%AA%DB%92_%DA%AF%D8%B1%DB%8C%D9%86%D8%A7%DA%88%D8%A7%D8%A6%D9%86%DB%8C%D8%B2" title="سینٹ ونسنٹ تے گریناڈائنیز – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Sin_Vinsn_ah_di_Grenidiinz" title="Sin Vinsn ah di Grenidiinz – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/San_Vincens_e_Grenadin-e" title="San Vincens e Grenadin-e – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/St._Vincent_un_de_Grenadinen" title="St. Vincent un de Grenadinen – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Saint_Vincent_i_Grenadyny" title="Saint Vincent i Grenadyny – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Vicente_e_Granadinas" title="São Vicente e Granadinas – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Sent_Vinsent_ve_Grenadinler" title="Sent Vinsent ve Grenadinler – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Sf%C3%A2ntul_Vincen%C8%9Biu_%C8%99i_Grenadinele" title="Sfântul Vincențiu și Grenadinele – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/San_Wisinti_Granadinas-pas" title="San Wisinti Granadinas-pas – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D0%B8_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D1%8B" title="Сент-Винсент и Гренадины – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82_%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D1%83%D0%BE%D0%BD%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D0%BD%D0%B0%D1%80" title="Сент Винсент уонна Гренадиннар – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Saint_Vincent_ma_Grenadine" title="Saint Vincent ma Grenadine – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%A1_%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A1_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%9A" title="सेंड विन्सेन्ड ग्रेनदिनेश्च – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Saint_Vincent_e_sas_Grenadinas" title="Saint Vincent e sas Grenadinas – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Saunt_Vincent_an_the_Grenadines" title="Saunt Vincent an the Grenadines – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Sh%C3%ABn_Vincenti_dhe_Grenadinet" title="Shën Vincenti dhe Grenadinet – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Saint_Vincent_e_Grenadine" title="Saint Vincent e Grenadine – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%B3%D9%8A%D9%86%D9%BD_%D9%88%D9%86%D8%B3%D9%86%D9%BD_%DB%BD_%DA%AF%D8%B1%D9%8A%D9%86%D8%A7%DA%8A%D8%A7%D8%A6%D9%86%D8%B2" title="سينٽ ونسنٽ ۽ گريناڊائنز – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Sv%C3%A4t%C3%BD_Vincent_a_Grenad%C3%ADny" title="Svätý Vincent a Grenadíny – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Sveti_Vincencij_in_Grenadine" title="Sveti Vincencij in Grenadine – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Saint_Vincent_a_Grynadyny" title="Saint Vincent a Grynadyny – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%B3%DB%95%DB%8C%D9%86%D8%AA_%DA%A4%DB%8C%D9%86%D8%B3%DB%95%D9%86%D8%AA_%D9%88_%DA%AF%D8%B1%DB%8C%D9%86%D8%A7%D8%AF%DB%8C%D9%86%D8%B2" title="سەینت ڤینسەنت و گرینادینز – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82_%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D0%B8_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8" title="Сент Винсент и Гренадини – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Sveti_Vincent_i_Grenadini" title="Sveti Vincent i Grenadini – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Saint_Vincent_jeung_Gr%C3%A9nadin" title="Saint Vincent jeung Grénadin – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Saint_Vincent_ja_Grenadiinit" title="Saint Vincent ja Grenadiinit – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Saint_Vincent_och_Grenadinerna" title="Saint Vincent och Grenadinerna – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%9F%E0%AF%8D_%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%9A%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%AE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AF%86%E0%AE%A9%E0%AE%9F%E0%AF%80%E0%AE%A9%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D" title="செயின்ட் வின்செண்டு மற்றும் கிரெனடீன்கள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Saint_Vincent_ed_Grenadines" title="Saint Vincent ed Grenadines – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D2%BB%D3%99%D0%BC_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0%D0%BB%D0%B0%D1%80" title="Сент-Винсент һәм Гренадиналар – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%B5%E1%80%84%E1%80%BA%E1%82%89%E1%80%9D%E1%80%AD%E1%81%BC%E1%80%BA%E1%80%B8%E1%80%9E%E1%82%85%E1%81%BC%E1%80%BA%E1%82%89_%E1%80%9C%E1%82%84%E1%82%88_%E1%81%B5%E1%80%9B%E1%82%84%E1%80%B8%E1%81%BC%E1%82%83%E1%80%B8%E1%80%90%E1%80%AD%E1%81%BC%E1%80%BA%E1%80%B8" title="မိူင်းသဵင်ႉဝိၼ်းသႅၼ်ႉ လႄႈ ၵရႄးၼႃးတိၼ်း – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B1%86%E0%B0%AF%E0%B0%BF%E0%B0%82%E0%B0%9F%E0%B1%8D_%E0%B0%B5%E0%B0%BF%E0%B0%A8%E0%B1%8D%E0%B0%B8%E0%B1%86%E0%B0%82%E0%B0%9F%E0%B1%8D,_%E0%B0%97%E0%B1%8D%E0%B0%B0%E0%B1%86%E0%B0%A8%E0%B0%A1%E0%B0%BF%E0%B0%A8%E0%B1%8D%E0%B0%B8%E0%B1%8D" title="సెయింట్ విన్సెంట్, గ్రెనడిన్స్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Saun_Visente_no_Granadinas" title="Saun Visente no Granadinas – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%B5%E0%B8%99%E0%B8%AA%E0%B9%8C" title="ประเทศเซนต์วินเซนต์และเกรนาดีนส์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Saint_Vincent_ve_Grenadinler" title="Saint Vincent ve Grenadinler – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D0%BD%D0%BE_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD" title="Сент-Винсент но Гренадин – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%92%D1%96%D0%BD%D1%81%D0%B5%D0%BD%D1%82_%D1%96_%D0%93%D1%80%D0%B5%D0%BD%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8" title="Сент-Вінсент і Гренадини – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%D9%B9_%D9%88%DB%8C%D9%86%D8%B3%DB%8C%D9%86%D9%B9_%D9%88_%DA%AF%D8%B1%DB%8C%D9%86%D8%A7%DA%88%D8%A7%D8%A6%D9%86%D8%B2" title="سینٹ وینسینٹ و گریناڈائنز – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%B3%DB%90%D9%86%D8%AA_%DB%8B%D9%89%D9%86%D8%B3%DB%90%D9%86%D8%AA_%DB%8B%DB%95_%DA%AF%D8%B1%DB%90%D9%86%D8%A7%D8%AF%D9%89%D9%86_%D8%A6%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%89%D8%B1%D9%89" title="سېنت ۋىنسېنت ۋە گرېنادىن ئاراللىرى – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Saint_Vincent_caeuq_Grenadines" title="Saint Vincent caeuq Grenadines – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Sent_Vinsent_da_Grenadinad" title="Sent Vinsent da Grenadinad – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Saint_Vincent_v%C3%A0_Grenadines" title="Saint Vincent và Grenadines – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Saluda-Vinsente%C3%A4n_e_Grenadine%C3%A4ns" title="Saluda-Vinsenteän e Grenadineäns – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Saint_Vincent_ja_Grenadiiniq" title="Saint Vincent ja Grenadiiniq – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E8%81%96%E6%96%87%E6%A3%AE%E5%8F%8A%E6%A0%BC%E7%91%9E%E9%82%A3%E4%B8%81" title="聖文森及格瑞那丁 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/San_Vincente_ngan_an_Grenadines" title="San Vincente ngan an Grenadines – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%9C%A3%E6%96%87%E6%A3%AE%E7%89%B9%E6%90%AD%E6%A0%BC%E6%9E%97%E7%BA%B3%E4%B8%81%E6%96%AF" title="圣文森特搭格林纳丁斯 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Saint_Vincent_%C3%A0ti_%C3%A0w%E1%BB%8Dn_Gr%E1%BA%B9nad%C3%ADn%C3%AC" title="Saint Vincent àti àwọn Grẹnadínì – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E8%81%96%E6%96%87%E6%A3%AE%E7%89%B9%E5%92%8C%E6%A0%BC%E6%9E%97%E7%B4%8D%E4%B8%81%E6%96%AF" title="聖文森特和格林納丁斯 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Saint_Vincent_u_Grenadinan" title="Saint Vincent u Grenadinan – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Saint_Vincent_en_de_Grenadines" title="Saint Vincent en de Grenadines – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Sent_Vinsents_%C4%97r_Gr%C4%97nadin%C4%81" title="Sent Vinsents ėr Grėnadinā – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9C%A3%E6%96%87%E6%A3%AE%E7%89%B9%E5%92%8C%E6%A0%BC%E6%9E%97%E7%BA%B3%E4%B8%81%E6%96%AF" title="圣文森特和格林纳丁斯 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q757#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 8 December 2020, at 14:09.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Saint_Vincent_and_the_Grenadines&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.808","walltime":"0.936","ppvisitednodes":{"value":4819,"limit":1000000},"postexpandincludesize":{"value":118518,"limit":2097152},"templateargumentsize":{"value":5287,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29588,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  812.644      1 -total"," 36.04%  292.917      1 Template:Infobox_country"," 32.28%  262.298      3 Template:Infobox"," 27.76%  225.621      3 Template:Coord"," 13.84%  112.508      1 Template:Reflist"," 12.09%   98.233      7 Template:Cite_web"," 11.14%   90.530      1 Template:Weather_box","  6.64%   53.956      3 Template:ISO_3166_code","  6.12%   49.716      2 Template:Convinfobox","  5.59%   45.415      1 Template:Convinfobox/prisec2"]},"scribunto":{"limitreport-timeusage":{"value":"0.449","limit":"10.000"},"limitreport-memusage":{"value":11565402,"limit":52428800}},"cachereport":{"origin":"mw1295","timestamp":"20201217130556","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Saint Vincent and the Grenadines","url":"https:\/\/simple.wikipedia.org\/wiki\/Saint_Vincent_and_the_Grenadines","sameAs":"http:\/\/www.wikidata.org\/entity\/Q757","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q757","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-29T01:46:11Z","dateModified":"2020-12-08T14:09:22Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6d\/Flag_of_Saint_Vincent_and_the_Grenadines.svg","headline":"island sovereign state in the Caribbean Sea"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":238,"wgHostname":"mw1354"});});</script> 
+ </body>
+</html>

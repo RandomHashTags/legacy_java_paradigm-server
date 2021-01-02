@@ -1,0 +1,973 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>List of states of Mexico - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@jq5ApAAL8AAlRWgJsAAABE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_states_of_Mexico","wgTitle":"List of states of Mexico","wgCurRevisionId":995053205,"wgRevisionId":995053205,"wgArticleId":8196151,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","Webarchive template wayback links","Articles with short description","Short description matches Wikidata","All articles lacking reliable references","Articles lacking reliable references from June 2020",
+"Articles containing explicitly cited English-language text","Lists of states of Mexico","States of Mexico","First-level administrative country subdivisions"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_states_of_Mexico","wgRelevantArticleId":8196151,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":
+"interlanguage","wgWikibaseItemId":"Q28912963"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/51/Mexico_states_map_small.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/List_of_states_of_Mexico"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_states_of_Mexico&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_states_of_Mexico&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_states_of_Mexico"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_states_of_Mexico rootpage-List_of_states_of_Mexico skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">List of states of Mexico</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikimedia list article
+      </div> 
+      <div role="img" class="floatright noresize" style="width: 450px; line-height: 1; text-align: center; background-color: #ffffff; position: relative;">
+       <a href="/wiki/File:Mexico_states_map_small.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/5/51/Mexico_states_map_small.png" decoding="async" width="450" height="312" data-file-width="450" data-file-height="312"></a> 
+       <div style="position:absolute; font-size:85%; left:322.5px; top:188.65px">
+        <a href="/wiki/Mexico_City" title="Mexico City"><span style="color: #FFFFFF;">Mexico City</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:200.1px; top:185.5px">
+        <a href="/wiki/Aguascalientes" title="Aguascalientes"><span style="color: #FFFFFF;">Ags</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:19.2px; top:37px">
+        <a href="/wiki/Baja_California" title="Baja California"><span style="color: #FFFFFF;">Baja<br>California</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:52.5px; top:118px">
+        <a href="/wiki/Baja_California_Sur" title="Baja California Sur"><span style="color: #FFFFFF;">Baja<br>California<br>Sur</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:387.75px; top:226.9px">
+        <a href="/wiki/Campeche" title="Campeche"><span style="color: #FFFFFF;">Camp</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:349.5px; top:264.25px">
+        <a href="/wiki/Chiapas" title="Chiapas"><span style="color: #FFFFFF;">Chiapas</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:133.5px; top:77.5px">
+        <a href="/wiki/Chihuahua_(state)" title="Chihuahua (state)"><span style="color: #FFFFFF;">Chihuahua</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:189.75px; top:102.25px">
+        <a href="/wiki/Coahuila" title="Coahuila"><span style="color: #FFFFFF;">Coahuila</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:179.4px; top:230.5px">
+        <a href="/wiki/Colima" title="Colima"><span style="color: #FFFFFF;">Col</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:151.5px; top:136px">
+        <a href="/wiki/Durango" title="Durango"><span style="color: #FFFFFF;">Durango</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:219px; top:202.15px">
+        <a href="/wiki/Guanajuato" title="Guanajuato"><span style="color: #FFFFFF;">Gto</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:232.5px; top:253px">
+        <a href="/wiki/Guerrero" title="Guerrero"><span style="color: #FFFFFF;">Guerrero</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:252.75px; top:208px">
+        <a href="/wiki/Hidalgo_(state)" title="Hidalgo (state)"><span style="color: #FFFFFF;">Hgo</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:165px; top:216.1px">
+        <a href="/wiki/Jalisco" title="Jalisco"><span style="color: #FFFFFF;">Jalisco</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:241.5px; top:226px">
+        <a href="/wiki/State_of_Mexico" title="State of Mexico"><span style="color: #FFFFFF;">Mex</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:212.25px; top:230.5px">
+        <a href="/wiki/Michoac%C3%A1n" title="Michoacán"><span style="color: #FFFFFF;">Mich</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:252.3px; top:238.15px">
+        <a href="/wiki/Morelos" title="Morelos"><span style="color: #FFFFFF;">Mor</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:164.55px; top:188.2px">
+        <a href="/wiki/Nayarit" title="Nayarit"><span style="color: #FFFFFF;">Nay</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:232.5px; top:120.25px">
+        <a href="/wiki/Nuevo_Le%C3%B3n" title="Nuevo León"><span style="color: #FFFFFF;">Nuevo<br>León</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:286.5px; top:262px">
+        <a href="/wiki/Oaxaca" title="Oaxaca"><span style="color: #FFFFFF;">Oaxaca</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:268.5px; top:237.25px">
+        <a href="/wiki/Puebla" title="Puebla"><span style="color: #FFFFFF;">Pue</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:237px; top:203.5px">
+        <a href="/wiki/Quer%C3%A9taro" title="Querétaro"><span style="color: #FFFFFF;">Qto</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:410.25px; top:212.5px">
+        <a href="/wiki/Quintana_Roo" title="Quintana Roo"><span style="color: #FFFFFF;">Quintana<br>Roo</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:232.5px; top:180.1px">
+        <a href="/wiki/San_Luis_Potos%C3%AD" title="San Luis Potosí"><span style="color: #FFFFFF;">SLP</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:114.6px; top:127px">
+        <a href="/wiki/Sinaloa" title="Sinaloa"><span style="color: #FFFFFF;">Sinaloa</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:81.75px; top:59.5px">
+        <a href="/wiki/Sonora" title="Sonora"><span style="color: #FFFFFF;">Sonora</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:351.75px; top:242.2px">
+        <a href="/wiki/Tabasco" title="Tabasco"><span style="color: #FFFFFF;">Tab</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:254.55px; top:147.25px">
+        <a href="/wiki/Tamaulipas" title="Tamaulipas"><span style="color: #FFFFFF;">Tamaulipas</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:266.25px; top:225.1px">
+        <a href="/wiki/Tlaxcala" title="Tlaxcala"><span style="color: #FFFFFF;">Tlax</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:293.25px; top:231.4px">
+        <a href="/wiki/Veracruz" title="Veracruz"><span style="color: #FFFFFF;">Ver</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:394.5px; top:194.5px">
+        <a href="/wiki/Yucat%C3%A1n" title="Yucatán"><span style="color: #FFFFFF;">Yucatán</span></a>
+       </div> 
+       <div style="position:absolute; font-size:85%; left:187.5px; top:154px">
+        <a href="/wiki/Zacatecas" title="Zacatecas"><span style="color: #FFFFFF;">Zacatecas</span></a>
+       </div> 
+      </div> 
+      <p>The <b>states of Mexico</b> are first-level administrative territorial entities of the country of Mexico, which officially is named <a href="/wiki/Mexico" title="Mexico">United Mexican States</a>. There are 32 federal entities in Mexico (31 states and the capital, <a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a>, as a separate entity without being formally a state).<sup id="cite_ref-guardianname_1-0" class="reference"><a href="#cite_note-guardianname-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p>
+      <p>The states are further divided into <a href="/wiki/Municipalities_of_Mexico" title="Municipalities of Mexico">municipalities</a>. In Mexico City the municipalities are known as <i>alcaldías</i> (similar to other state's municipalities but with different administrative powers).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability#Wikipedia_and_sources_that_mirror_or_use_it" title="Wikipedia:Verifiability"><span title="This claim cites another Wikipedia article. Articles need references to reliable third-party sources. (June 2020)">circular reference</span></a></i>]</sup> </p> 
+      <h2><span class="mw-headline" id="List">List</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_states_of_Mexico&amp;action=edit&amp;section=1" title="Edit section: List">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><i>It is noteworthy that Mexico's post agency, <a href="/wiki/Correos_de_M%C3%A9xico" title="Correos de México">Correos de México</a>, does not offer an official list of state name abbreviations, and as such they are not included below. A list of Mexican states and several versions of their abbreviations can be found <a href="/wiki/Template:Mexico_State-Abbreviation_Codes" title="Template:Mexico State-Abbreviation Codes">here</a>.</i> </p> 
+      <table class="wikitable sortable" style="font-size: 95%; padding:0px; text-align: center;"> 
+       <caption>
+        States of Mexico 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th style="width: 115px;">State </th> 
+         <th>Official Name (except Mexico City): <p><i>Estado Libre y Soberano de</i> (English: "Free and Sovereign State of")&nbsp;: </p> </th> 
+         <th>Flag </th> 
+         <th>Capital </th> 
+         <th>Largest city </th> 
+         <th>Area<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </th> 
+         <th>Population (2010)<sup id="cite_ref-CONAPO_7-0" class="reference"><a href="#cite_note-CONAPO-7">[7]</a></sup> </th> 
+         <th>Order of Admission<br>to Federation </th> 
+         <th>Date of Admission<br>to Federation </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Aguascalientes" title="Aguascalientes">Aguascalientes</a> </td> 
+         <td style="text-align: center;"><i>Aguascalientes</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Aguascalientes.svg" class="image"><img alt="Flag of Aguascalientes.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Aguascalientes.svg/50px-Flag_of_Aguascalientes.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Aguascalientes.svg/75px-Flag_of_Aguascalientes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Aguascalientes.svg/100px-Flag_of_Aguascalientes.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Aguascalientes_City" title="Aguascalientes City">Aguascalientes</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Aguascalientes_City" title="Aguascalientes City">Aguascalientes</a> </td> 
+         <td style="text-align: right;"><span style="display:none">005618</span>5,618&nbsp;km<sup>2</sup> (2,169&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">01184996</span>1,184,996 </td> 
+         <td style="text-align: center;"><span style="display:none">24</span><span data-sort-value="7001240000000000000♠">24</span> </td> 
+         <td><span style="display:none">18570205</span>1857-02-05<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Baja_California" title="Baja California">Baja California</a> </td> 
+         <td style="text-align: center;"><i>Baja California</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Baja_California.svg" class="image"><img alt="Flag of Baja California.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Baja_California.svg/50px-Flag_of_Baja_California.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Baja_California.svg/75px-Flag_of_Baja_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Baja_California.svg/100px-Flag_of_Baja_California.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Mexicali" title="Mexicali">Mexicali</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Tijuana" title="Tijuana">Tijuana</a> </td> 
+         <td style="text-align: right;"><span style="display:none">071446</span>71,446&nbsp;km<sup>2</sup> (27,585&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">03155070</span>3,155,070 </td> 
+         <td style="text-align: center;"><span style="display:none">29</span><span data-sort-value="7001290000000000000♠">29</span> </td> 
+         <td><span style="display:none">19520116</span>1952-01-16<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Baja_California_Sur" title="Baja California Sur">Baja California Sur</a> </td> 
+         <td style="text-align: center;"><i>Baja California Sur</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Baja_California_Sur.svg" class="image"><img alt="Flag of Baja California Sur.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Baja_California_Sur.svg/50px-Flag_of_Baja_California_Sur.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Baja_California_Sur.svg/75px-Flag_of_Baja_California_Sur.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Baja_California_Sur.svg/100px-Flag_of_Baja_California_Sur.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/La_Paz,_Baja_California_Sur" title="La Paz, Baja California Sur">La Paz</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/La_Paz,_Baja_California_Sur" title="La Paz, Baja California Sur">La Paz</a> </td> 
+         <td style="text-align: right;"><span style="display:none">073922</span>73,922&nbsp;km<sup>2</sup> (28,541&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">00637026</span>637,026 </td> 
+         <td style="text-align: center;"><span style="display:none">31</span><span data-sort-value="7001310000000000000♠">31</span> </td> 
+         <td><span style="display:none">19741008</span>1974-10-08<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Campeche" title="Campeche">Campeche</a> </td> 
+         <td style="text-align: center;"><i>Campeche</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Campeche.svg" class="image"><img alt="Flag of Campeche.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_of_Campeche.svg/50px-Flag_of_Campeche.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_of_Campeche.svg/75px-Flag_of_Campeche.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_of_Campeche.svg/100px-Flag_of_Campeche.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Campeche_City" title="Campeche City">San Francisco de Campeche</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Campeche_City" title="Campeche City">San Francisco de Campeche</a> </td> 
+         <td style="text-align: right;"><span style="display:none">057924</span>57,924&nbsp;km<sup>2</sup> (22,365&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">00822441</span>822,441 </td> 
+         <td style="text-align: center;"><span style="display:none">25</span><span data-sort-value="7001250000000000000♠">25</span> </td> 
+         <td><span style="display:none">18630429</span>1863-04-29<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Chiapas" title="Chiapas">Chiapas</a> </td> 
+         <td style="text-align: center;"><i>Chiapas</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Chiapas.svg" class="image"><img alt="Flag of Chiapas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Chiapas.svg/50px-Flag_of_Chiapas.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Chiapas.svg/75px-Flag_of_Chiapas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Chiapas.svg/100px-Flag_of_Chiapas.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Tuxtla_Guti%C3%A9rrez" title="Tuxtla Gutiérrez">Tuxtla Gutiérrez</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Tuxtla_Guti%C3%A9rrez" title="Tuxtla Gutiérrez">Tuxtla Gutiérrez</a> </td> 
+         <td style="text-align: right;"><span style="display:none">073289</span>73,289&nbsp;km<sup>2</sup> (28,297&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">04796580</span>4,796,580 </td> 
+         <td style="text-align: center;"><span style="display:none">19</span><span data-sort-value="7001190000000000000♠">19</span> </td> 
+         <td><span style="display:none">18240914</span>1824-09-14<sup id="cite_ref-googlebooks_12-0" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a> </td> 
+         <td><i>Ciudad de México</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Mexico_City,_Mexico.svg" class="image"><img alt="Flag of Mexico City, Mexico.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Mexico_City%2C_Mexico.svg/50px-Flag_of_Mexico_City%2C_Mexico.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Mexico_City%2C_Mexico.svg/75px-Flag_of_Mexico_City%2C_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Mexico_City%2C_Mexico.svg/100px-Flag_of_Mexico_City%2C_Mexico.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td><a href="/wiki/Ciudad_de_M%C3%A9xico" class="mw-redirect" title="Ciudad de México">Ciudad de México</a> </td> 
+         <td><a href="/wiki/Ciudad_de_M%C3%A9xico" class="mw-redirect" title="Ciudad de México">Ciudad de México</a> </td> 
+         <td style="text-align: right;"><span style="display:none">001495</span>1,495&nbsp;km<sup>2</sup> (577&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">08918653</span>8,918,653 </td> 
+         <td style="text-align: center;"><span style="display:none">32</span><span data-sort-value="7001320000000000000♠">32</span> </td> 
+         <td><span style="display:none">18240914</span>2016-01-29 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Chihuahua_(state)" title="Chihuahua (state)">Chihuahua</a> </td> 
+         <td style="text-align: center;"><i>Chihuahua</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Chihuahua.svg" class="image"><img alt="Flag of Chihuahua.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Chihuahua.svg/50px-Flag_of_Chihuahua.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Chihuahua.svg/75px-Flag_of_Chihuahua.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Chihuahua.svg/100px-Flag_of_Chihuahua.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Chihuahua_City" title="Chihuahua City">Chihuahua</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Ciudad_Ju%C3%A1rez" title="Ciudad Juárez">Ciudad Juárez</a> </td> 
+         <td style="text-align: right;"><span style="display:none">247455</span>247,455&nbsp;km<sup>2</sup> (95,543&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">03406465</span>3,406,465 </td> 
+         <td style="text-align: center;"><span style="display:none">18</span><span data-sort-value="7001180000000000000♠">18</span> </td> 
+         <td><span style="display:none">18240706</span>1824-07-06<sup id="cite_ref-googlebooks_12-1" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Coahuila" title="Coahuila">Coahuila</a><sup>1</sup> <sup>4</sup> </td> 
+         <td style="text-align: center;"><i>Coahuila de Zaragoza</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Coahuila.svg" class="image"><img alt="Flag of Coahuila.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Coahuila.svg/50px-Flag_of_Coahuila.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Coahuila.svg/75px-Flag_of_Coahuila.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Coahuila.svg/100px-Flag_of_Coahuila.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Saltillo" title="Saltillo">Saltillo</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Saltillo" title="Saltillo">Saltillo</a> </td> 
+         <td style="text-align: right;"><span style="display:none">151563</span>151,563&nbsp;km<sup>2</sup> (58,519&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">02748391</span>2,748,391 </td> 
+         <td style="text-align: center;"><span style="display:none">16</span><span data-sort-value="7001160000000000000♠">16</span> </td> 
+         <td><span style="display:none">18240507</span>1824-05-07<sup id="cite_ref-googlebooks_12-2" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Colima" title="Colima">Colima</a><sup>6</sup> </td> 
+         <td style="text-align: center;"><i>Colima</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Colima.svg" class="image"><img alt="Flag of Colima.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Colima.svg/50px-Flag_of_Colima.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Colima.svg/75px-Flag_of_Colima.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Colima.svg/100px-Flag_of_Colima.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Colima_City" title="Colima City">Colima</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Manzanillo,_Colima" title="Manzanillo, Colima">Manzanillo</a> </td> 
+         <td style="text-align: right;"><span style="display:none">005625</span>5,625&nbsp;km<sup>2</sup> (2,172&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">00650,555</span> 650,555 </td> 
+         <td style="text-align: center;"><span style="display:none">23</span><span data-sort-value="7001230000000000000♠">23</span> </td> 
+         <td><span style="display:none">18560912</span>1856-09-12<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Durango" title="Durango">Durango</a> </td> 
+         <td style="text-align: center;"><i>Durango</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Durango.svg" class="image"><img alt="Flag of Durango.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Flag_of_Durango.svg/50px-Flag_of_Durango.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Flag_of_Durango.svg/75px-Flag_of_Durango.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Flag_of_Durango.svg/100px-Flag_of_Durango.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Durango_City" title="Durango City">Victoria de Durango</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Durango_City" title="Durango City">Victoria de Durango</a> </td> 
+         <td style="text-align: right;"><span style="display:none">123451</span>123,451&nbsp;km<sup>2</sup> (47,665&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">01632934</span>1,632,934 </td> 
+         <td style="text-align: center;"><span style="display:none">17</span><span data-sort-value="7001170000000000000♠">17</span> </td> 
+         <td><span style="display:none">18240522</span>1824-05-22<sup id="cite_ref-googlebooks_12-3" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Guanajuato" title="Guanajuato">Guanajuato</a> </td> 
+         <td style="text-align: center;"><i>Guanajuato</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Guanajuato.svg" class="image"><img alt="Flag of Guanajuato.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Guanajuato.svg/50px-Flag_of_Guanajuato.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Guanajuato.svg/75px-Flag_of_Guanajuato.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Guanajuato.svg/100px-Flag_of_Guanajuato.svg.png 2x" data-file-width="500" data-file-height="286"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Guanajuato_City" title="Guanajuato City">Guanajuato</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Le%C3%B3n,_Guanajuato" title="León, Guanajuato">León</a> </td> 
+         <td style="text-align: right;"><span style="display:none">030608</span>30,608&nbsp;km<sup>2</sup> (11,818&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">05486372</span>5,486,372 </td> 
+         <td style="text-align: center;"><span style="display:none">02</span><span data-sort-value="7000200000000000000♠">2</span> </td> 
+         <td><span style="display:none">18231220</span>1823-12-20<sup id="cite_ref-googlebooks_12-4" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Guerrero" title="Guerrero">Guerrero</a> </td> 
+         <td style="text-align: center;"><i>Guerrero</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Guerrero.svg" class="image"><img alt="Flag of Guerrero.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Guerrero.svg/50px-Flag_of_Guerrero.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Guerrero.svg/75px-Flag_of_Guerrero.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Guerrero.svg/100px-Flag_of_Guerrero.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Chilpancingo" title="Chilpancingo">Chilpancingo</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Acapulco" title="Acapulco">Acapulco</a> </td> 
+         <td style="text-align: right;"><span style="display:none">063621</span>63,621&nbsp;km<sup>2</sup> (24,564&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">03388768</span>3,388,768 </td> 
+         <td style="text-align: center;"><span style="display:none">21</span><span data-sort-value="7001210000000000000♠">21</span> </td> 
+         <td><span style="display:none">18491027</span>1849-10-27<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Hidalgo_(state)" title="Hidalgo (state)">Hidalgo</a> </td> 
+         <td style="text-align: center;"><i>Hidalgo</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Hidalgo.svg" class="image"><img alt="Flag of Hidalgo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Hidalgo.svg/50px-Flag_of_Hidalgo.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Hidalgo.svg/75px-Flag_of_Hidalgo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Hidalgo.svg/100px-Flag_of_Hidalgo.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Pachuca" title="Pachuca">Pachuca</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Pachuca" title="Pachuca">Pachuca</a> </td> 
+         <td style="text-align: right;"><span style="display:none">020846</span>20,846&nbsp;km<sup>2</sup> (8,049&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">02665018</span>2,665,018 </td> 
+         <td style="text-align: center;"><span style="display:none">26</span><span data-sort-value="7001260000000000000♠">26</span> </td> 
+         <td><span style="display:none">18690116</span>1869-01-16<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Jalisco" title="Jalisco">Jalisco</a> </td> 
+         <td style="text-align: center;"><i>Jalisco</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Jalisco.svg" class="image"><img alt="Flag of Jalisco.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Jalisco.svg/50px-Flag_of_Jalisco.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Jalisco.svg/75px-Flag_of_Jalisco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Jalisco.svg/100px-Flag_of_Jalisco.svg.png 2x" data-file-width="1400" data-file-height="800"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Guadalajara" title="Guadalajara">Guadalajara</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Guadalajara" title="Guadalajara">Guadalajara</a> </td> 
+         <td style="text-align: right;"><span style="display:none">078599</span>78,599&nbsp;km<sup>2</sup> (30,347&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">07350682</span>7,350,682 </td> 
+         <td style="text-align: center;"><span style="display:none">09</span><span data-sort-value="7000900000000000000♠">9</span> </td> 
+         <td><span style="display:none">18231223</span>1823-12-23<sup id="cite_ref-googlebooks_12-5" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/State_of_Mexico" title="State of Mexico">México</a> </td> 
+         <td style="text-align: center;"><i>México</i> </td> 
+         <td><a href="/wiki/File:Flag_of_the_State_of_Mexico.svg" class="image"><img alt="Flag of the State of Mexico.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_the_State_of_Mexico.svg/50px-Flag_of_the_State_of_Mexico.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_the_State_of_Mexico.svg/75px-Flag_of_the_State_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_the_State_of_Mexico.svg/100px-Flag_of_the_State_of_Mexico.svg.png 2x" data-file-width="700" data-file-height="400"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Toluca" title="Toluca">Toluca de Lerdo</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Ecatepec_de_Morelos" title="Ecatepec de Morelos">Ecatepec de Morelos</a> </td> 
+         <td style="text-align: right;"><span style="display:none">022357</span>22,357&nbsp;km<sup>2</sup> (8,632&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">15175862</span>15,175,862 </td> 
+         <td style="text-align: center;"><span style="display:none">01</span><span data-sort-value="7000100000000000000♠">1</span> </td> 
+         <td><span style="display:none">18231220</span>1823-12-20<sup id="cite_ref-googlebooks_12-6" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Michoac%C3%A1n" title="Michoacán">Michoacán</a> </td> 
+         <td style="text-align: center;"><i>Michoacán de Ocampo</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Michoacan.svg" class="image"><img alt="Flag of Michoacan.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Michoacan.svg/50px-Flag_of_Michoacan.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Michoacan.svg/75px-Flag_of_Michoacan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Michoacan.svg/100px-Flag_of_Michoacan.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Morelia" title="Morelia">Morelia</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Morelia" title="Morelia">Morelia</a> </td> 
+         <td style="text-align: right;"><span style="display:none">058643</span>58,643&nbsp;km<sup>2</sup> (22,642&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">04351037</span>4,351,037 </td> 
+         <td style="text-align: center;"><span style="display:none">05</span><span data-sort-value="7000500000000000000♠">5</span> </td> 
+         <td><span style="display:none">18231222</span>1823-12-22<sup id="cite_ref-googlebooks_12-7" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Morelos" title="Morelos">Morelos</a> </td> 
+         <td style="text-align: center;"><i>Morelos</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Morelos.svg" class="image"><img alt="Flag of Morelos.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Morelos.svg/50px-Flag_of_Morelos.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Morelos.svg/75px-Flag_of_Morelos.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Morelos.svg/100px-Flag_of_Morelos.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Cuernavaca" title="Cuernavaca">Cuernavaca</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Cuernavaca" title="Cuernavaca">Cuernavaca</a> </td> 
+         <td style="text-align: right;"><span style="display:none">004893</span>4,893&nbsp;km<sup>2</sup> (1,889&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">01777227</span>1,777,227 </td> 
+         <td style="text-align: center;"><span style="display:none">27</span><span data-sort-value="7001270000000000000♠">27</span> </td> 
+         <td><span style="display:none">18690417</span>1869-04-17<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Nayarit" title="Nayarit">Nayarit</a> </td> 
+         <td style="text-align: center;"><i>Nayarit</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Nayarit.svg" class="image"><img alt="Flag of Nayarit.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Nayarit.svg/50px-Flag_of_Nayarit.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Nayarit.svg/75px-Flag_of_Nayarit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Nayarit.svg/100px-Flag_of_Nayarit.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Tepic" title="Tepic">Tepic</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Tepic" title="Tepic">Tepic</a> </td> 
+         <td style="text-align: right;"><span style="display:none">027815</span>27,815&nbsp;km<sup>2</sup> (10,739&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">01084979</span>1,084,979 </td> 
+         <td style="text-align: center;"><span style="display:none">28</span><span data-sort-value="7001280000000000000♠">28</span> </td> 
+         <td><span style="display:none">19170126</span>1917-01-26<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Nuevo_Le%C3%B3n" title="Nuevo León">Nuevo León</a><sup>4</sup> </td> 
+         <td style="text-align: center;"><i>Nuevo León</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Nuevo_Leon.svg" class="image"><img alt="Flag of Nuevo Leon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Flag_of_Nuevo_Leon.svg/50px-Flag_of_Nuevo_Leon.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Flag_of_Nuevo_Leon.svg/75px-Flag_of_Nuevo_Leon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Flag_of_Nuevo_Leon.svg/100px-Flag_of_Nuevo_Leon.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Monterrey" title="Monterrey">Monterrey</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Monterrey" title="Monterrey">Monterrey</a> </td> 
+         <td style="text-align: right;"><span style="display:none">064220</span>64,220&nbsp;km<sup>2</sup> (24,800&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">04653458</span>4,653,458 </td> 
+         <td style="text-align: center;"><span style="display:none">15</span><span data-sort-value="7001150000000000000♠">15</span> </td> 
+         <td><span style="display:none">18240507</span>1824-05-07<sup id="cite_ref-googlebooks_12-8" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Oaxaca" title="Oaxaca">Oaxaca</a> </td> 
+         <td style="text-align: center;"><i>Oaxaca</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Oaxaca.svg" class="image"><img alt="Flag of Oaxaca.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_of_Oaxaca.svg/50px-Flag_of_Oaxaca.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_of_Oaxaca.svg/75px-Flag_of_Oaxaca.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_of_Oaxaca.svg/100px-Flag_of_Oaxaca.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Oaxaca_City" title="Oaxaca City">Oaxaca</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Oaxaca_City" title="Oaxaca City">Oaxaca</a> </td> 
+         <td style="text-align: right;"><span style="display:none">093793</span>93,793&nbsp;km<sup>2</sup> (36,214&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">03801962</span>3,801,962 </td> 
+         <td style="text-align: center;"><span style="display:none">03</span><span data-sort-value="7000300000000000000♠">3</span> </td> 
+         <td><span style="display:none">18231221</span>1823-12-21<sup id="cite_ref-googlebooks_12-9" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Puebla" title="Puebla">Puebla</a> </td> 
+         <td style="text-align: center;"><i>Puebla</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Puebla.svg" class="image"><img alt="Flag of Puebla.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Puebla.svg/50px-Flag_of_Puebla.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Puebla.svg/75px-Flag_of_Puebla.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Puebla.svg/100px-Flag_of_Puebla.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Puebla_City" class="mw-redirect" title="Puebla City">Puebla</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Puebla_City" class="mw-redirect" title="Puebla City">Puebla</a> </td> 
+         <td style="text-align: right;"><span style="display:none">034290</span>34,290&nbsp;km<sup>2</sup> (13,240&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">05779829</span>5,779,829 </td> 
+         <td style="text-align: center;"><span style="display:none">04</span><span data-sort-value="7000400000000000000♠">4</span> </td> 
+         <td><span style="display:none">18231221</span>1823-12-21<sup id="cite_ref-googlebooks_12-10" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Quer%C3%A9taro" title="Querétaro">Querétaro</a> </td> 
+         <td style="text-align: center;"><i>Querétaro de Arteaga</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Queretaro.svg" class="image"><img alt="Flag of Queretaro.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Queretaro.svg/50px-Flag_of_Queretaro.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Queretaro.svg/75px-Flag_of_Queretaro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Queretaro.svg/100px-Flag_of_Queretaro.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Quer%C3%A9taro_City" title="Querétaro City">Querétaro</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Quer%C3%A9taro_City" title="Querétaro City">Querétaro</a> </td> 
+         <td style="text-align: right;"><span style="display:none">011684</span>11,684&nbsp;km<sup>2</sup> (4,511&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">01827937</span>1,827,937 </td> 
+         <td style="text-align: center;"><span style="display:none">11</span><span data-sort-value="7001110000000000000♠">11</span> </td> 
+         <td><span style="display:none">18231223</span>1823-12-23<sup id="cite_ref-googlebooks_12-11" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Quintana_Roo" title="Quintana Roo">Quintana Roo</a> </td> 
+         <td style="text-align: center;"><i>Quintana Roo</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Quintana_Roo.svg" class="image"><img alt="Flag of Quintana Roo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Quintana_Roo.svg/50px-Flag_of_Quintana_Roo.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Quintana_Roo.svg/75px-Flag_of_Quintana_Roo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Quintana_Roo.svg/100px-Flag_of_Quintana_Roo.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Chetumal" title="Chetumal">Chetumal</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Canc%C3%BAn" title="Cancún">Cancún</a> </td> 
+         <td style="text-align: right;"><span style="display:none">042361</span>42,361&nbsp;km<sup>2</sup> (16,356&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">01325578</span>1,325,578 </td> 
+         <td style="text-align: center;"><span style="display:none">30</span><span data-sort-value="7001300000000000000♠">30</span> </td> 
+         <td><span style="display:none">19741008</span>1974-10-08<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/San_Luis_Potos%C3%AD" title="San Luis Potosí">San Luis Potosí</a> </td> 
+         <td style="text-align: center;"><i>San Luis Potosí</i> </td> 
+         <td><a href="/wiki/File:Flag_of_San_Luis_Potosi.svg" class="image"><img alt="Flag of San Luis Potosi.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_San_Luis_Potosi.svg/50px-Flag_of_San_Luis_Potosi.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_San_Luis_Potosi.svg/75px-Flag_of_San_Luis_Potosi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_San_Luis_Potosi.svg/100px-Flag_of_San_Luis_Potosi.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/San_Luis_Potos%C3%AD_City" title="San Luis Potosí City">San Luis Potosí</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/San_Luis_Potos%C3%AD_City" title="San Luis Potosí City">San Luis Potosí</a> </td> 
+         <td style="text-align: right;"><span style="display:none">060983</span>60,983&nbsp;km<sup>2</sup> (23,546&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">02585518</span>2,585,518 </td> 
+         <td style="text-align: center;"><span style="display:none">06</span><span data-sort-value="7000600000000000000♠">6</span> </td> 
+         <td><span style="display:none">18231222</span>1823-12-22<sup id="cite_ref-googlebooks_12-12" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Sinaloa" title="Sinaloa">Sinaloa</a> </td> 
+         <td style="text-align: center;"><i>Sinaloa</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Sinaloa.svg" class="image"><img alt="Flag of Sinaloa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_Sinaloa.svg/50px-Flag_of_Sinaloa.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_Sinaloa.svg/75px-Flag_of_Sinaloa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_Sinaloa.svg/100px-Flag_of_Sinaloa.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Culiac%C3%A1n" title="Culiacán">Culiacán</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Culiac%C3%A1n" title="Culiacán">Culiacán</a> </td> 
+         <td style="text-align: right;"><span style="display:none">058200</span>58,200&nbsp;km<sup>2</sup> (22,500&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">03216000</span>3,216,000 </td> 
+         <td style="text-align: center;"><span style="display:none">20</span><span data-sort-value="7001200000000000000♠">20</span> </td> 
+         <td><span style="display:none">18301014</span>1830-10-14<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Sonora" title="Sonora">Sonora</a><sup>2</sup> </td> 
+         <td style="text-align: center;"><i>Sonora</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Sonora.svg" class="image"><img alt="Flag of Sonora.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Sonora.svg/50px-Flag_of_Sonora.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Sonora.svg/75px-Flag_of_Sonora.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Sonora.svg/100px-Flag_of_Sonora.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Hermosillo" title="Hermosillo">Hermosillo</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Hermosillo" title="Hermosillo">Hermosillo</a> </td> 
+         <td style="text-align: right;"><span style="display:none">179503</span>179,503&nbsp;km<sup>2</sup> (69,306&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">02662480</span>2,662,480 </td> 
+         <td style="text-align: center;"><span style="display:none">12</span><span data-sort-value="7001120000000000000♠">12</span> </td> 
+         <td><span style="display:none">18240110</span>1824-01-10<sup id="cite_ref-googlebooks_12-13" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tabasco" title="Tabasco">Tabasco</a><sup>5</sup> </td> 
+         <td style="text-align: center;"><i>Tabasco</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Tabasco.svg" class="image"><img alt="Flag of Tabasco.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Tabasco.svg/50px-Flag_of_Tabasco.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Tabasco.svg/75px-Flag_of_Tabasco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Tabasco.svg/100px-Flag_of_Tabasco.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Villahermosa" title="Villahermosa">Villahermosa</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Villahermosa" title="Villahermosa">Villahermosa</a> </td> 
+         <td style="text-align: right;"><span style="display:none">024738</span>24,738&nbsp;km<sup>2</sup> (9,551&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">02238603</span>2,238,603 </td> 
+         <td style="text-align: center;"><span style="display:none">13</span><span data-sort-value="7001130000000000000♠">13</span> </td> 
+         <td><span style="display:none">18240207</span>1824-02-07<sup id="cite_ref-googlebooks_12-14" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tamaulipas" title="Tamaulipas">Tamaulipas</a><sup>4</sup> </td> 
+         <td style="text-align: center;"><i>Tamaulipas</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Tamaulipas.svg" class="image"><img alt="Flag of Tamaulipas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Tamaulipas.svg/50px-Flag_of_Tamaulipas.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Tamaulipas.svg/75px-Flag_of_Tamaulipas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Tamaulipas.svg/100px-Flag_of_Tamaulipas.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Ciudad_Victoria" title="Ciudad Victoria">Ciudad Victoria</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Reynosa" title="Reynosa">Reynosa</a> </td> 
+         <td style="text-align: right;"><span style="display:none">080175</span>80,175&nbsp;km<sup>2</sup> (30,956&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">03268554</span>3,268,554 </td> 
+         <td style="text-align: center;"><span style="display:none">14</span><span data-sort-value="7001140000000000000♠">14</span> </td> 
+         <td><span style="display:none">18240207</span>1824-02-07<sup id="cite_ref-googlebooks_12-15" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tlaxcala" title="Tlaxcala">Tlaxcala</a> </td> 
+         <td style="text-align: center;"><i>Tlaxcala</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Tlaxcala.svg" class="image"><img alt="Flag of Tlaxcala.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_Tlaxcala.svg/50px-Flag_of_Tlaxcala.svg.png" decoding="async" width="50" height="31" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_Tlaxcala.svg/75px-Flag_of_Tlaxcala.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_Tlaxcala.svg/100px-Flag_of_Tlaxcala.svg.png 2x" data-file-width="816" data-file-height="499"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Tlaxcala_City" title="Tlaxcala City">Tlaxcala</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Vicente_Guerrero,_Tlaxcala" title="Vicente Guerrero, Tlaxcala">Vicente Guerrero</a> </td> 
+         <td style="text-align: right;"><span style="display:none">003991</span>3,991&nbsp;km<sup>2</sup> (1,541&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">01169936</span>1,169,936 </td> 
+         <td style="text-align: center;"><span style="display:none">22</span><span data-sort-value="7001220000000000000♠">22</span> </td> 
+         <td><span style="display:none">18561209</span>1856-12-09<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Veracruz" title="Veracruz">Veracruz</a> </td> 
+         <td style="text-align: center;"><i>Veracruz de<br>Ignacio de la Llave</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Veracruz.svg" class="image"><img alt="Flag of Veracruz.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Veracruz.svg/50px-Flag_of_Veracruz.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Veracruz.svg/75px-Flag_of_Veracruz.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Veracruz.svg/100px-Flag_of_Veracruz.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Xalapa" title="Xalapa">Xalapa</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Veracruz_(city)" title="Veracruz (city)">Veracruz</a> </td> 
+         <td style="text-align: right;"><span style="display:none">071820</span>71,820&nbsp;km<sup>2</sup> (27,730&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">07643194</span>7,643,194 </td> 
+         <td style="text-align: center;"><span style="display:none">07</span><span data-sort-value="7000700000000000000♠">7</span> </td> 
+         <td><span style="display:none">18231222</span>1823-12-22<sup id="cite_ref-googlebooks_12-16" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Yucat%C3%A1n" title="Yucatán">Yucatán</a><sup>3</sup> </td> 
+         <td style="text-align: center;"><i>Yucatán</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Yucatan.svg" class="image"><img alt="Flag of Yucatan.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Yucatan.svg/50px-Flag_of_Yucatan.svg.png" decoding="async" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Yucatan.svg/75px-Flag_of_Yucatan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Yucatan.svg/100px-Flag_of_Yucatan.svg.png 2x" data-file-width="600" data-file-height="400"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/M%C3%A9rida,_Yucat%C3%A1n" title="Mérida, Yucatán">Mérida</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/M%C3%A9rida,_Yucat%C3%A1n" title="Mérida, Yucatán">Mérida</a> </td> 
+         <td style="text-align: right;"><span style="display:none">039612</span>39,612&nbsp;km<sup>2</sup> (15,294&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">01955577</span>1,955,577 </td> 
+         <td style="text-align: center;"><span style="display:none">08</span><span data-sort-value="7000800000000000000♠">8</span> </td> 
+         <td><span style="display:none">18231223</span>1823-12-23<sup id="cite_ref-googlebooks_12-17" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Zacatecas" title="Zacatecas">Zacatecas</a> </td> 
+         <td style="text-align: center;"><i>Zacatecas</i> </td> 
+         <td><a href="/wiki/File:Flag_of_Zacatecas.svg" class="image"><img alt="Flag of Zacatecas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Zacatecas.svg/50px-Flag_of_Zacatecas.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Zacatecas.svg/75px-Flag_of_Zacatecas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Zacatecas.svg/100px-Flag_of_Zacatecas.svg.png 2x" data-file-width="350" data-file-height="200"></a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Zacatecas_City" title="Zacatecas City">Zacatecas</a> </td> 
+         <td style="text-align: center;"><a href="/wiki/Zacatecas_City" title="Zacatecas City">Zacatecas</a> </td> 
+         <td style="text-align: right;"><span style="display:none">075539</span>75,539&nbsp;km<sup>2</sup> (29,166&nbsp;sq&nbsp;mi) </td> 
+         <td style="text-align: right;"><span style="display:none">01490668</span>1,490,668 </td> 
+         <td style="text-align: center;"><span style="display:none">10</span><span data-sort-value="7001100000000000000♠">10</span> </td> 
+         <td><span style="display:none">18231223</span>1823-12-23<sup id="cite_ref-googlebooks_12-18" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <p><b>Notes:</b> </p> 
+      <ol>
+       <li>Joined the federation with the name of <a href="/wiki/Coahuila_y_Tejas" title="Coahuila y Tejas">Coahuila y Tejas</a>.</li> 
+       <li>Joined the federation with the name of <a href="/wiki/Estado_de_Occidente" title="Estado de Occidente">Estado de Occidente</a> also recognized as <a href="/wiki/Sonora_y_Sinaloa" class="mw-redirect" title="Sonora y Sinaloa">Sonora y Sinaloa</a>.</li> 
+       <li>Joined the federation as <a href="/wiki/Republic_of_Yucatan#First_Republic_of_Yucatán_and_the_federal_pact_with_Mexico" class="mw-redirect" title="Republic of Yucatan">República Federada de Yucatán</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> (English: <span lang="en">Federated Republic of Yucatán</span>) formed by the current states of Yucatán, Campeche and Quintana Roo. Became independent in 1841 constituting the second <a href="/wiki/Republic_of_Yucat%C3%A1n" title="Republic of Yucatán">Republic of Yucatán</a> and definitively rejoined in 1848.</li> 
+       <li>States of <a href="/wiki/Nuevo_Le%C3%B3n" title="Nuevo León">Nuevo León</a>, <a href="/wiki/Tamaulipas" title="Tamaulipas">Tamaulipas</a> and <a href="/wiki/Coahuila" title="Coahuila">Coahuila</a> became independent <i><a href="/wiki/De_facto" title="De facto">de facto</a></i> in 1840 to form the <a href="/wiki/Rep%C3%BAblica_del_R%C3%ADo_Grande" class="mw-redirect" title="República del Río Grande">República del Río Grande</a> (English: <span lang="en">Republic of the Rio Grande</span>); never consolidated its independence because independent forces were defeated by the centralist forces.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></li> 
+       <li>The State of <a href="/wiki/Tabasco" title="Tabasco">Tabasco</a> seceded from Mexico on two occasions, the first on February 13, 1841, rejoining again on December 2, 1842. And the second time was from November 9, 1846 to December 9, 1846</li> 
+       <li>Inc the remote <a href="/wiki/Revillagigedo_Islands" title="Revillagigedo Islands">Revillagigedo Islands</a>, which are federally administered.</li>
+      </ol> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_states_of_Mexico&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style>
+      <div role="navigation" aria-label="Portals" class="noprint portal plainlist tright"> 
+       <ul> 
+        <li><span><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/32px-Flag_of_Mexico.svg.png" decoding="async" width="32" height="18" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/48px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/64px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560"></span><span><a href="/wiki/Portal:Mexico" title="Portal:Mexico">Mexico portal</a></span></li>
+       </ul>
+      </div> 
+      <ul>
+       <li><a href="/wiki/Administrative_divisions_of_Mexico" title="Administrative divisions of Mexico">Administrative divisions of Mexico</a></li> 
+       <li><a href="/wiki/List_of_current_state_governors_in_Mexico" title="List of current state governors in Mexico">List of current state governors in Mexico</a></li> 
+       <li><a href="/wiki/List_of_Mexican_state_demonyms" class="mw-redirect" title="List of Mexican state demonyms">List of Mexican state demonyms</a></li> 
+       <li><a href="/wiki/List_of_Mexican_state_governors" class="mw-redirect" title="List of Mexican state governors">List of Mexican state governors</a></li> 
+       <li><a href="/wiki/List_of_Mexican_state_legislatures" title="List of Mexican state legislatures">List of Mexican state legislatures</a> <i>(Current composition)</i></li> 
+       <li><a href="/wiki/List_of_Mexican_states_by_area" title="List of Mexican states by area">List of Mexican states by area</a></li> 
+       <li><a href="/wiki/List_of_Mexican_states_by_HDI" class="mw-redirect" title="List of Mexican states by HDI">List of Mexican states by HDI</a></li> 
+       <li><a href="/wiki/List_of_Mexican_states_by_population" title="List of Mexican states by population">List of Mexican states by population</a></li> 
+       <li><a href="/wiki/Mexican_state_name_etymologies" class="mw-redirect" title="Mexican state name etymologies">Mexican state name etymologies</a></li> 
+       <li><a href="/wiki/Ranked_list_of_Mexican_states" title="Ranked list of Mexican states">Ranked list of Mexican states</a></li> 
+       <li><a href="/wiki/State_flags_of_Mexico" title="State flags of Mexico">State flags of Mexico</a></li> 
+       <li><a href="/wiki/State_governments_of_Mexico" title="State governments of Mexico">State governments of Mexico</a></li> 
+       <li><a href="/wiki/Territorial_evolution_of_Mexico" title="Territorial evolution of Mexico">Territorial evolution of Mexico</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_states_of_Mexico&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-guardianname-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-guardianname_1-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFAgren2015" class="citation web cs1">Agren, David (29 January 2015). <a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2016/jan/29/mexico-city-name-change-federal-district-df">"Mexico City officially changes its name to – Mexico City"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Mexico+City+officially+changes+its+name+to+%E2%80%93+Mexico+City&amp;rft.date=2015-01-29&amp;rft.aulast=Agren&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Fjan%2F29%2Fmexico-city-name-change-federal-district-df&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFEl_Diario_de_México" class="citation web cs1">El Diario de México. <a rel="nofollow" class="external text" href="http://www.diariodemexico.com.mx/la-ciudad-mexico-no-sera-estado-sino-entidad-federal-autonoma/">"La Ciudad de México no será estado, sino entidad federal autónoma"</a> (in Spanish)<span class="reference-accessdate">. Retrieved <span class="nowrap">February 29,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=La+Ciudad+de+M%C3%A9xico+no+ser%C3%A1+estado%2C+sino+entidad+federal+aut%C3%B3noma&amp;rft.au=El+Diario+de+M%C3%A9xico&amp;rft_id=http%3A%2F%2Fwww.diariodemexico.com.mx%2Fla-ciudad-mexico-no-sera-estado-sino-entidad-federal-autonoma%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ordenjuridico.gob.mx/Constitucion/articulos/43.pdf">"Artículo 43 de la Constitución Política de los Estados Unidos Mexicanos"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Art%C3%ADculo+43+de+la+Constituci%C3%B3n+Pol%C3%ADtica+de+los+Estados+Unidos+Mexicanos&amp;rft_id=http%3A%2F%2Fwww.ordenjuridico.gob.mx%2FConstitucion%2Farticulos%2F43.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200418033026/https://www.elfinanciero.com.mx/nacional/df-no-es-el-estado-32-aclaran-legisladores">"DF no es el estado 32, aclaran legisladores"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.elfinanciero.com.mx/nacional/df-no-es-el-estado-32-aclaran-legisladores">the original</a> on 2020-04-18.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DF+no+es+el+estado+32%2C+aclaran+legisladores&amp;rft_id=https%3A%2F%2Fwww.elfinanciero.com.mx%2Fnacional%2Fdf-no-es-el-estado-32-aclaran-legisladores&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a class="external text" href="https://en.wikipedia.org/wiki/Municipalities_of_Mexico_City">"Municipalities of Mexico City"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Municipalities+of+Mexico+City&amp;rft_id=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMunicipalities_of_Mexico_City&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110723191350/http://cuentame.inegi.gob.mx/monografias/default.aspx?tema=me">"INEGI"</a>. Archived from <a rel="nofollow" class="external text" href="http://cuentame.inegi.gob.mx/monografias/default.aspx?tema=me">the original</a> on 2011-07-23.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=INEGI&amp;rft_id=http%3A%2F%2Fcuentame.inegi.gob.mx%2Fmonografias%2Fdefault.aspx%3Ftema%3Dme&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-CONAPO-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-CONAPO_7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.censo2010.org.mx/">Censo 2010</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110406225157/http://www.censo2010.org.mx/">Archived</a> 2011-04-06 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100411140738/http://www.yucatan.gob.mx/servicios/c_civico/fechas.jsp?mes=2">"Calendario de Eventos Cívicos - Febrero"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.yucatan.gob.mx/servicios/c_civico/fechas.jsp?mes=2">the original</a> on 2010-04-11.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Calendario+de+Eventos+C%C3%ADvicos+-+Febrero&amp;rft_id=http%3A%2F%2Fwww.yucatan.gob.mx%2Fservicios%2Fc_civico%2Ffechas.jsp%3Fmes%3D2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.bajacalifornia.gob.mx/portal/nuestro_estado/historia/transformacion.jsp">"Transformación Política de Territorio Norte de la Baja California a Estado 29"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Transformaci%C3%B3n+Pol%C3%ADtica+de+Territorio+Norte+de+la+Baja+California+a+Estado+29&amp;rft_id=http%3A%2F%2Fwww.bajacalifornia.gob.mx%2Fportal%2Fnuestro_estado%2Fhistoria%2Ftransformacion.jsp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100810021435/http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=8&amp;mes=10">"Secretaria de Educación Publica"</a>. Archived from <a rel="nofollow" class="external text" href="http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=8&amp;mes=10">the original</a> on 2010-08-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Secretaria+de+Educaci%C3%B3n+Publica&amp;rft_id=http%3A%2F%2Fwww2.sepdf.gob.mx%2Fefemerides%2Fconsulta_efemerides.jsp%3Fdia%3D8%26mes%3D10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111026155634/http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=29&amp;mes=4">"Secretaria de Educación Publica"</a>. Archived from <a rel="nofollow" class="external text" href="http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=29&amp;mes=4">the original</a> on 2011-10-26.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Secretaria+de+Educaci%C3%B3n+Publica&amp;rft_id=http%3A%2F%2Fwww2.sepdf.gob.mx%2Fefemerides%2Fconsulta_efemerides.jsp%3Fdia%3D29%26mes%3D4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-googlebooks-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-googlebooks_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-googlebooks_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-googlebooks_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-googlebooks_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-googlebooks_12-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-googlebooks_12-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-googlebooks_12-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-googlebooks_12-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-googlebooks_12-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-googlebooks_12-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-googlebooks_12-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-googlebooks_12-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-googlebooks_12-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-googlebooks_12-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-googlebooks_12-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-googlebooks_12-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-googlebooks_12-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-googlebooks_12-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-googlebooks_12-18"><sup><i><b>s</b></i></sup></a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://biblio.juridicas.unam.mx/libros/6/2920/11.pdf">"Las Diputaciones Provinciales"</a> <span class="cs1-format">(PDF)</span> (in Spanish). p.&nbsp;15.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Las+Diputaciones+Provinciales&amp;rft.pages=15&amp;rft_id=http%3A%2F%2Fbiblio.juridicas.unam.mx%2Flibros%2F6%2F2920%2F11.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.bajacalifornia.gob.mx/portal/nuestro_estado/historia/efemerides/en-diciembre.jsp">"Portal Ciudadano de Baja California"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Portal+Ciudadano+de+Baja+California&amp;rft_id=http%3A%2F%2Fwww.bajacalifornia.gob.mx%2Fportal%2Fnuestro_estado%2Fhistoria%2Fefemerides%2Fen-diciembre.jsp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100810192803/http://elcomentario.ucol.mx/Noticia.php?id=1260333428">"Universidad de Colima"</a>. Archived from <a rel="nofollow" class="external text" href="http://elcomentario.ucol.mx/Noticia.php?id=1260333428">the original</a> on 2010-08-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Universidad+de+Colima&amp;rft_id=http%3A%2F%2Felcomentario.ucol.mx%2FNoticia.php%3Fid%3D1260333428&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071017132224/http://guerrero.gob.mx/?P=readart&amp;ArtOrder=ReadArt&amp;Article=2177">"Erección del Estado de Guerrero"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.guerrero.gob.mx/?P=readart&amp;ArtOrder=ReadArt&amp;Article=2177">the original</a> on 2007-10-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Erecci%C3%B3n+del+Estado+de+Guerrero&amp;rft_id=http%3A%2F%2Fwww.guerrero.gob.mx%2F%3FP%3Dreadart%26ArtOrder%3DReadArt%26Article%3D2177&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://archive.is/20080724223240/http://www.congreso-hidalgo.gob.mx/index.php?historia-de-las-divisiones-territoriales-de-los-municipios-del-estado-de-hidalgo-1">"Congreso del Estado Libre y Soberano de Hidalgo"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.congreso-hidalgo.gob.mx/index.php?historia-de-las-divisiones-territoriales-de-los-municipios-del-estado-de-hidalgo-1">the original</a> on 2008-07-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Congreso+del+Estado+Libre+y+Soberano+de+Hidalgo&amp;rft_id=http%3A%2F%2Fwww.congreso-hidalgo.gob.mx%2Findex.php%3Fhistoria-de-las-divisiones-territoriales-de-los-municipios-del-estado-de-hidalgo-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110718113934/http://www.inafed.gob.mx/work/templates/enciclo/morelos/gobi.htm">"Enciclopedia de los Municipios de México"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.inafed.gob.mx/work/templates/enciclo/morelos/gobi.htm">the original</a> on 2011-07-18.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Enciclopedia+de+los+Municipios+de+M%C3%A9xico&amp;rft_id=http%3A%2F%2Fwww.inafed.gob.mx%2Fwork%2Ftemplates%2Fenciclo%2Fmorelos%2Fgobi.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100218064033/http://www.tlaxcala.gob.mx/tlaxcala/enero-febrero.html">"Gobierno del Estado de Tlaxcala"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.tlaxcala.gob.mx/tlaxcala/enero-febrero.html">the original</a> on 2010-02-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Gobierno+del+Estado+de+Tlaxcala&amp;rft_id=http%3A%2F%2Fwww.tlaxcala.gob.mx%2Ftlaxcala%2Fenero-febrero.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110817230003/http://www.qroo.gob.mx/qroo/Estado/Historia.php">"Gobierno del Estado de Quintana Roo"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.qroo.gob.mx/qroo/Estado/Historia.php">the original</a> on 2011-08-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Gobierno+del+Estado+de+Quintana+Roo&amp;rft_id=http%3A%2F%2Fwww.qroo.gob.mx%2Fqroo%2FEstado%2FHistoria.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.biblioteca.tv/artman2/publish/1830_135/Ley_Reglas_para_la_divisi_n_del_Estado_de_Sonora_y_Sinaloa.shtml">"500 años de México en documentos"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=500+a%C3%B1os+de+M%C3%A9xico+en+documentos&amp;rft_id=http%3A%2F%2Fwww.biblioteca.tv%2Fartman2%2Fpublish%2F1830_135%2FLey_Reglas_para_la_divisi_n_del_Estado_de_Sonora_y_Sinaloa.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091227003735/http://www.tlaxcala.gob.mx/tlaxcala/nov-dic.html">"Portal Gobierno del Estado de Tlaxcala"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.tlaxcala.gob.mx/tlaxcala/nov-dic.html">the original</a> on 2009-12-27.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Portal+Gobierno+del+Estado+de+Tlaxcala&amp;rft_id=http%3A%2F%2Fwww.tlaxcala.gob.mx%2Ftlaxcala%2Fnov-dic.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.sobrino.net/Dzidzantun/la_historia_de_la_rep_yuc.htm">"La historia de la República de Yucatán"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=La+historia+de+la+Rep%C3%BAblica+de+Yucat%C3%A1n&amp;rft_id=http%3A%2F%2Fwww.sobrino.net%2FDzidzantun%2Fla_historia_de_la_rep_yuc.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100122084249/http://www.ambosmedios.com/releases/2005/12/prweb321680.htm">"República de Río Grande, el País que no pudo ser"</a> (in Spanish). Archived from <a rel="nofollow" class="external text" href="http://www.ambosmedios.com/releases/2005/12/prweb321680.htm">the original</a> on 2010-01-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rep%C3%BAblica+de+R%C3%ADo+Grande%2C+el+Pa%C3%ADs+que+no+pudo+ser.&amp;rft_id=http%3A%2F%2Fwww.ambosmedios.com%2Freleases%2F2005%2F12%2Fprweb321680.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+states+of+Mexico" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="20x20px&amp;#124;link=&amp;#124;alt=_Indicators_of_Mexican_states" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Indicators_of_Mexican_States" title="Template:Indicators of Mexican States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Indicators_of_Mexican_States" title="Template talk:Indicators of Mexican States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Indicators_of_Mexican_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="20x20px&amp;#124;link=&amp;#124;alt=_Indicators_of_Mexican_states" style="font-size:114%;margin:0 4em">
+            <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Mexico.svg/20px-Coat_of_arms_of_Mexico.svg.png" decoding="async" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Mexico.svg/30px-Coat_of_arms_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Mexico.svg/40px-Coat_of_arms_of_Mexico.svg.png 2x" data-file-width="579" data-file-height="525"> Indicators of <a href="/wiki/Mexico" title="Mexico">Mexican</a> <a href="/wiki/States_of_Mexico" class="mw-redirect" title="States of Mexico">states</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Ranked</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_Mexican_states_by_area" title="List of Mexican states by area">Area</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_population_growth_rate" title="List of Mexican states by population growth rate">Growth rate</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_population" title="List of Mexican states by population">Population</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_population_density" title="List of Mexican states by population density">Population density</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Social</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_Mexican_states_by_fertility_rate" title="List of Mexican states by fertility rate">Fertility Rate</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_Human_Development_Index" title="List of Mexican states by Human Development Index">HDI</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_homicides" title="List of Mexican states by homicides">Homicides</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_infant_mortality" title="List of Mexican states by infant mortality">Infant mortality</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_life_expectancy" title="List of Mexican states by life expectancy">Life expectancy</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_literacy_rate" title="List of Mexican states by literacy rate">Literacy rate</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Political</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Administrative_divisions_of_Mexico" title="Administrative divisions of Mexico">Capitals</a></li> 
+             <li><a href="/wiki/List_of_Mexican_state_governors" class="mw-redirect" title="List of Mexican state governors">Governors</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_date_of_statehood" title="List of Mexican states by date of statehood">Statehood</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Economy</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_Mexican_states_by_GDP" title="List of Mexican states by GDP">GDP</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_GDP_per_capita" title="List of Mexican states by GDP per capita">GDP per capita</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_poverty_rate" title="List of Mexican states by poverty rate">Poverty rate</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_unemployment" title="List of Mexican states by unemployment">Unemployment</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Coat_of_arms_of_Mexico" title="Coat of arms of Mexico">Coats of arms</a></li> 
+             <li><a href="/wiki/List_of_Mexican_flags" title="List of Mexican flags">Flags</a></li> 
+             <li><a href="/wiki/List_of_Mexican_states_by_indigenous-speaking_population" title="List of Mexican states by indigenous-speaking population">Indigenous-speaking</a></li> 
+             <li><a href="/wiki/Irreligion_in_Mexico" title="Irreligion in Mexico">Irreligion</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Mexico&amp;#124;link=Mexico_States_of_Mexico" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:States_of_Mexico" title="Template:States of Mexico"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:States_of_Mexico" title="Template talk:States of Mexico"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:States_of_Mexico&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=Mexico&amp;#124;link=Mexico_States_of_Mexico" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560"></a></span> <a class="mw-selflink selflink">States of Mexico</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Aguascalientes" title="Aguascalientes">Aguascalientes</a></li> 
+             <li><a href="/wiki/Baja_California" title="Baja California">Baja California</a></li> 
+             <li><a href="/wiki/Baja_California_Sur" title="Baja California Sur">Baja California Sur</a></li> 
+             <li><a href="/wiki/Campeche" title="Campeche">Campeche</a></li> 
+             <li><a href="/wiki/Chiapas" title="Chiapas">Chiapas</a></li> 
+             <li><a href="/wiki/Chihuahua_(state)" title="Chihuahua (state)">Chihuahua</a></li> 
+             <li><a href="/wiki/Coahuila" title="Coahuila">Coahuila</a></li> 
+             <li><a href="/wiki/Colima" title="Colima">Colima</a></li> 
+             <li><a href="/wiki/Durango" title="Durango">Durango</a></li> 
+             <li><a href="/wiki/Guanajuato" title="Guanajuato">Guanajuato</a></li> 
+             <li><a href="/wiki/Guerrero" title="Guerrero">Guerrero</a></li> 
+             <li><a href="/wiki/Hidalgo_(state)" title="Hidalgo (state)">Hidalgo</a></li> 
+             <li><a href="/wiki/Jalisco" title="Jalisco">Jalisco</a></li> 
+             <li><a href="/wiki/State_of_Mexico" title="State of Mexico">México</a></li> 
+             <li><a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a></li> 
+             <li><a href="/wiki/Michoac%C3%A1n" title="Michoacán">Michoacán</a></li> 
+             <li><a href="/wiki/Morelos" title="Morelos">Morelos</a></li> 
+             <li><a href="/wiki/Nayarit" title="Nayarit">Nayarit</a></li> 
+             <li><a href="/wiki/Nuevo_Le%C3%B3n" title="Nuevo León">Nuevo León</a></li> 
+             <li><a href="/wiki/Oaxaca" title="Oaxaca">Oaxaca</a></li> 
+             <li><a href="/wiki/Puebla" title="Puebla">Puebla</a></li> 
+             <li><a href="/wiki/Quer%C3%A9taro" title="Querétaro">Querétaro</a></li> 
+             <li><a href="/wiki/Quintana_Roo" title="Quintana Roo">Quintana Roo</a></li> 
+             <li><a href="/wiki/San_Luis_Potos%C3%AD" title="San Luis Potosí">San Luis Potosí</a></li> 
+             <li><a href="/wiki/Sinaloa" title="Sinaloa">Sinaloa</a></li> 
+             <li><a href="/wiki/Sonora" title="Sonora">Sonora</a></li> 
+             <li><a href="/wiki/Tabasco" title="Tabasco">Tabasco</a></li> 
+             <li><a href="/wiki/Tamaulipas" title="Tamaulipas">Tamaulipas</a></li> 
+             <li><a href="/wiki/Tlaxcala" title="Tlaxcala">Tlaxcala</a></li> 
+             <li><a href="/wiki/Veracruz" title="Veracruz">Veracruz</a></li> 
+             <li><a href="/wiki/Yucat%C3%A1n" title="Yucatán">Yucatán</a></li> 
+             <li><a href="/wiki/Zacatecas" title="Zacatecas">Zacatecas</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20201218235341
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.796 seconds
+Real time usage: 1.115 seconds
+Preprocessor visited node count: 4583/1000000
+Post‐expand include size: 88027/2097152 bytes
+Template argument size: 6867/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 74207/5000000 bytes
+Lua time usage: 0.424/10.000 seconds
+Lua memory usage: 19992533/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  827.594      1 -total
+ 25.19%  208.447      1 Template:Reflist
+ 23.72%  196.336      2 Template:Lang-en
+ 12.83%  106.152      5 Template:Cite_web
+  8.32%   68.890      1 Template:Short_description
+  8.11%   67.157      1 Template:Circular_reference
+  8.04%   66.536     32 Template:Convert
+  7.78%   64.384     17 Template:Cite_news
+  7.25%   60.013      1 Template:Fix
+  6.84%   56.633     32 Template:Nts
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:8196151-0!canonical and timestamp 20201218235340 and revision id 995053205. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_states_of_Mexico&amp;oldid=995053205">https://en.wikipedia.org/w/index.php?title=List_of_states_of_Mexico&amp;oldid=995053205</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Lists_of_states_of_Mexico" title="Category:Lists of states of Mexico">Lists of states of Mexico</a></li>
+       <li><a href="/wiki/Category:States_of_Mexico" title="Category:States of Mexico">States of Mexico</a></li>
+       <li><a href="/wiki/Category:First-level_administrative_country_subdivisions" title="Category:First-level administrative country subdivisions">First-level administrative country subdivisions</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li>
+       <li><a href="/wiki/Category:Articles_lacking_reliable_references_from_June_2020" title="Category:Articles lacking reliable references from June 2020">Articles lacking reliable references from June 2020</a></li>
+       <li><a href="/wiki/Category:Articles_containing_explicitly_cited_English-language_text" title="Category:Articles containing explicitly cited English-language text">Articles containing explicitly cited English-language text</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+states+of+Mexico" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+states+of+Mexico" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/List_of_states_of_Mexico" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:List_of_states_of_Mexico" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/List_of_states_of_Mexico">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=List_of_states_of_Mexico&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=List_of_states_of_Mexico&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_states_of_Mexico" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_states_of_Mexico" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=List_of_states_of_Mexico&amp;oldid=995053205" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=List_of_states_of_Mexico&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_states_of_Mexico&amp;id=995053205&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28912963" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=List_of_states_of_Mexico&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=List_of_states_of_Mexico&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Listaan_dagiti_estado_ti_Mehiko" title="Listaan dagiti estado ti Mehiko – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Appendice:Lista_de_statos_de_Mexico" title="Appendice:Lista de statos de Mexico – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28912963#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 18 December 2020, at 23:53<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_states_of_Mexico&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.796","walltime":"1.115","ppvisitednodes":{"value":4583,"limit":1000000},"postexpandincludesize":{"value":88027,"limit":2097152},"templateargumentsize":{"value":6867,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":74207,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  827.594      1 -total"," 25.19%  208.447      1 Template:Reflist"," 23.72%  196.336      2 Template:Lang-en"," 12.83%  106.152      5 Template:Cite_web","  8.32%   68.890      1 Template:Short_description","  8.11%   67.157      1 Template:Circular_reference","  8.04%   66.536     32 Template:Convert","  7.78%   64.384     17 Template:Cite_news","  7.25%   60.013      1 Template:Fix","  6.84%   56.633     32 Template:Nts"]},"scribunto":{"limitreport-timeusage":{"value":"0.424","limit":"10.000"},"limitreport-memusage":{"value":19992533,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20201218235341","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of states of Mexico","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_states_of_Mexico","sameAs":"http:\/\/www.wikidata.org\/entity\/Q28912963","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q28912963","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-11-30T03:39:12Z","dateModified":"2020-12-18T23:53:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/51\/Mexico_states_map_small.png","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1387"});});</script> 
+ </body>
+</html>

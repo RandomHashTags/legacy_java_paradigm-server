@@ -1,0 +1,1112 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Hungary - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X9pUWQpAIC0AAKtAGbwAAAAF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hungary","wgTitle":"Hungary","wgCurRevisionId":7184105,"wgRevisionId":7184105,"wgArticleId":3462,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Hungarian-language text","Articles to be expanded from December 2011","All articles to be expanded","Articles using small message boxes","Members of NATO","Hungary","European Union member states"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Hungary",
+"wgRelevantArticleId":3462,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q28"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready",
+"skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.21"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1200px-Flag_of_Hungary.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Hungary"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Hungary&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Hungary&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Hungary"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hungary rootpage-Hungary skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Hungary</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Hungary
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i lang="hu" title="Hungarian language text">Magyarország</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a>)</span>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Hungary.svg" class="image" title="Flag of Hungary"><img alt="Flag of Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/125px-Flag_of_Hungary.svg.png" decoding="async" width="125" height="63" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/188px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/250px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Hungary" title="Flag of Hungary">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Hungary.svg" class="image" title="Coat of arms of Hungary"><img alt="Coat of arms of Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Hungary.svg/50px-Coat_of_arms_of_Hungary.svg.png" decoding="async" width="50" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Hungary.svg/75px-Coat_of_arms_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Hungary.svg/100px-Coat_of_arms_of_Hungary.svg.png 2x" data-file-width="1000" data-file-height="2130"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><span lang="hu" style="font-style: normal;" title="Hungarian language text">"<a href="/wiki/Himnusz" title="Himnusz">Himnusz</a>"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a>)</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> 
+           <br> <span style="font-size:85%;">"Hymn"</span> 
+           <br>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:EU-Hungary.svg" class="image" title="Location of &nbsp;Hungary&nbsp;&nbsp;(dark green) –&nbsp;on the European continent&nbsp;&nbsp;(green &amp;&nbsp;dark grey) –&nbsp;in the European Union&nbsp;&nbsp;(green)&nbsp; —&nbsp; [Legend]"><img alt="Location of &nbsp;Hungary&nbsp;&nbsp;(dark green) –&nbsp;on the European continent&nbsp;&nbsp;(green &amp;&nbsp;dark grey) –&nbsp;in the European Union&nbsp;&nbsp;(green)&nbsp; —&nbsp; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/EU-Hungary.svg/250px-EU-Hungary.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/EU-Hungary.svg/375px-EU-Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/EU-Hungary.svg/500px-EU-Hungary.svg.png 2x" data-file-width="2045" data-file-height="1720"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Hungary</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark green</span>)</span>
+            <p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&nbsp;on the <a href="/wiki/Europe" title="Europe">European continent</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green &amp;&nbsp;dark grey</span>)<br>–&nbsp;in the <a href="/wiki/European_Union" title="European Union">European Union</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:EU-Hungary.svg" title="File:EU-Hungary.svg">Legend</a></span>]</p>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Budapest" title="Budapest">Budapest</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Hungary&amp;params=47_26_N_19_15_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">47°26′N</span> <span class="longitude">19°15′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">47.433°N 19.250°E</span><span style="display:none">﻿ / <span class="geo">47.433; 19.250</span></span></span></a></span></td>
+        </tr>
+        <tr>
+         <th scope="row">Official language</th>
+         <td><a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2011)
+          </div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>80.7% <a href="/wiki/Hungarians" class="mw-redirect" title="Hungarians">Hungarians</a></li>
+            <li>14.7% not declared</li>
+            <li>3.1% <a href="/w/index.php?title=Romani_people_in_Hungary&amp;action=edit&amp;redlink=1" class="new" title="Romani people in Hungary (not yet started)">Roma</a></li>
+            <li>1.3% <a href="/w/index.php?title=Germans_of_Hungary&amp;action=edit&amp;redlink=1" class="new" title="Germans of Hungary (not yet started)">Germans</a><sup id="cite_ref-Census2011_2-0" class="reference"><a href="#cite_note-Census2011-2">[2]</a></sup></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li style="white-space:nowrap;">76% <a href="/wiki/Christianity" title="Christianity">Christianity</a></li>
+            <li style="white-space:nowrap;">21% <a href="/wiki/Irreligion" title="Irreligion">No religion</a></li>
+            <li style="white-space:nowrap;">3% Other religions<sup id="cite_ref-Religious_Belief_in_Central_and_Eastern_Europe_3-0" class="reference"><a href="#cite_note-Religious_Belief_in_Central_and_Eastern_Europe-3">[3]</a></sup></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td><a href="/w/index.php?title=Hungarian_people&amp;action=edit&amp;redlink=1" class="new" title="Hungarian people (not yet started)">Hungarian</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><span class="nowrap"><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a><br><a href="/wiki/Constitutional_republic" title="Constitutional republic">constitutional republic</a></span></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=List_of_heads_of_state_of_Hungary&amp;action=edit&amp;redlink=1" class="new" title="List of heads of state of Hungary (not yet started)">President</a> 
+          </div></th>
+         <td><a href="/wiki/J%C3%A1nos_%C3%81der" title="János Áder">János Áder</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=List_of_Prime_Ministers_of_Hungary&amp;action=edit&amp;redlink=1" class="new" title="List of Prime Ministers of Hungary (not yet started)">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Viktor_Orb%C3%A1n" title="Viktor Orbán">Viktor Orbán</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=List_of_Speakers_of_the_National_Assembly_of_Hungary&amp;action=edit&amp;redlink=1" class="new" title="List of Speakers of the National Assembly of Hungary (not yet started)">Speaker of the National&nbsp;Assembly</a> 
+          </div></th>
+         <td><a href="/wiki/L%C3%A1szl%C3%B3_K%C3%B6v%C3%A9r" title="László Kövér">László Kövér</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/wiki/National_Assembly_(Hungary)" title="National Assembly (Hungary)">Országgyűlés</a> <i>(National Assembly)</i></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=History_of_Hungary&amp;action=edit&amp;redlink=1" class="new" title="History of Hungary (not yet started)">Foundation</a></th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Principality_of_Hungary&amp;action=edit&amp;redlink=1" class="new" title="Principality of Hungary (not yet started)">Principality of Hungary</a> 
+          </div></th>
+         <td>895<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Battle_of_Pressburg&amp;action=edit&amp;redlink=1" class="new" title="Battle of Pressburg (not yet started)">Battle of Pressburg</a> 
+          </div></th>
+         <td>4–6 July 907</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Kingdom_of_Hungary" title="Kingdom of Hungary">Christian Kingdom</a> 
+          </div></th>
+         <td>25 December 1000<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Golden_Bull_of_1222&amp;action=edit&amp;redlink=1" class="new" title="Golden Bull of 1222 (not yet started)">Golden Bull of 1222</a> 
+          </div></th>
+         <td>24 April 1222</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<span class="nowrap"><a href="/w/index.php?title=Battle_of_Moh%C3%A1cs&amp;action=edit&amp;redlink=1" class="new" title="Battle of Mohács (not yet started)">Battle of Mohács</a></span> 
+          </div></th>
+         <td>29 August 1526</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<span class="nowrap"><a href="/w/index.php?title=Battle_of_Buda_(1686)&amp;action=edit&amp;redlink=1" class="new" title="Battle of Buda (1686) (not yet started)">Liberation</a></span> of <a href="/w/index.php?title=Buda&amp;action=edit&amp;redlink=1" class="new" title="Buda (not yet started)">Buda</a> 
+          </div></th>
+         <td>2 September 1686</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<span class="nowrap"><a href="/w/index.php?title=Hungarian_Revolution_of_1848&amp;action=edit&amp;redlink=1" class="new" title="Hungarian Revolution of 1848 (not yet started)">Revolution of 1848</a></span> 
+          </div></th>
+         <td>15 March 1848</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Austro-Hungarian_Empire" class="mw-redirect" title="Austro-Hungarian Empire">Austro-Hungarian Empire</a> 
+          </div></th>
+         <td>20 March 1867</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Treaty_of_Trianon" title="Treaty of Trianon">Treaty of Trianon</a> 
+          </div></th>
+         <td>4 June 1920</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=History_of_Hungary&amp;action=edit&amp;redlink=1" class="new" title="History of Hungary (not yet started)">Third Republic</a> 
+          </div></th>
+         <td>23 October 1989</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=2004_enlargement_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="2004 enlargement of the European Union (not yet started)">Joined</a> the <a href="/wiki/European_Union" title="European Union">European Union</a> 
+          </div></th>
+         <td>1 May 2004</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>93,030<sup id="cite_ref-area_6-0" class="reference"><a href="#cite_note-area-6">[6]</a></sup>&nbsp;km<sup>2</sup> (35,920&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">108th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>0.74%</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2017 estimate
+          </div></th>
+         <td>9,797,561<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">92nd</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>105.3/km<sup>2</sup> (272.7/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">103rd</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2017&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$283.592 billion<sup id="cite_ref-imf2_8-0" class="reference"><a href="#cite_note-imf2-8">[8]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">57th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$28,909<sup id="cite_ref-imf2_8-1" class="reference"><a href="#cite_note-imf2-8">[8]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">45th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2017&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$132.034 billion<sup id="cite_ref-imf2_8-2" class="reference"><a href="#cite_note-imf2-8">[8]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">58th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$13,459<sup id="cite_ref-imf2_8-3" class="reference"><a href="#cite_note-imf2-8">[8]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">54th</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2014)</span></th>
+         <td><img alt="Positive decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/11px-Decrease_Positive.svg.png" decoding="async" title="Positive decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/17px-Decrease_Positive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/22px-Decrease_Positive.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;27.9<sup id="cite_ref-eurogini_9-0" class="reference"><a href="#cite_note-eurogini-9">[9]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">low</span></span>&nbsp;·&nbsp;<a href="/w/index.php?title=List_of_countries_by_income_equality&amp;action=edit&amp;redlink=1" class="new" title="List of countries by income equality (not yet started)">16th</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2015)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.836<sup id="cite_ref-HDI_10-0" class="reference"><a href="#cite_note-HDI-10">[10]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkgreen">very high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">43rd</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Hungarian_forint&amp;action=edit&amp;redlink=1" class="new" title="Hungarian forint (not yet started)">Forint</a> (<a href="/wiki/ISO_4217" title="ISO 4217">HUF</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Date format</th>
+         <td>yyyy/mm/dd</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=Telephone_numbers_in_Hungary&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in Hungary (not yet started)">+36</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:HU&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:HU (not yet started)">HU</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.hu" class="mw-redirect" title=".hu">.hu</a><sup>a</sup></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
+            <li value="1">Also <a href="/wiki/.eu" class="mw-redirect" title=".eu">.eu</a> as part of the European Union.</li> 
+           </ol>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="floatright">
+       <a href="/wiki/File:Europe_location_HUN.png" class="image"><img alt="Europe location HUN.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Europe_location_HUN.png/275px-Europe_location_HUN.png" decoding="async" width="275" height="206" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Europe_location_HUN.png/413px-Europe_location_HUN.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Europe_location_HUN.png/550px-Europe_location_HUN.png 2x" data-file-width="1600" data-file-height="1200"></a>
+      </div> 
+      <p><b>Hungary</b> is a <a href="/wiki/Country" title="Country">country</a> in <a href="/wiki/Central_Europe" title="Central Europe">Central Europe</a>. Its capital city is <a href="/wiki/Budapest" title="Budapest">Budapest</a>. Hungary is slightly bigger than its western neighbour <a href="/wiki/Austria" title="Austria">Austria</a> and has about 10 million inhabitants. Other countries that border Hungary are <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>, <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a>, <a href="/wiki/Romania" title="Romania">Romania</a>, <a href="/wiki/Serbia" title="Serbia">Serbia</a>, <a href="/wiki/Croatia" title="Croatia">Croatia</a> and <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>. Hungary's official language is the <a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian language</a>. It has been a member of the <a href="/wiki/European_Union" title="European Union">European Union</a> (EU) since <a href="/wiki/2004" title="2004">2004</a>. In Hungarian, the country is called <i>Magyarország</i> (literally, "Hungarian country"), or <i>Magyar Köztársaság</i> (Hungarian Republic). This is named after the Magyar tribes who came to Hungary in the late <a href="/wiki/9th_century" title="9th century">9th century</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Medieval_Hungary,_896-1526"><span class="tocnumber">1.1</span> <span class="toctext">Medieval Hungary, 896-1526</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#Between_1526-1867"><span class="tocnumber">1.2</span> <span class="toctext">Between 1526-1867</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Austria-Hungary,_1867-1918"><span class="tocnumber">1.3</span> <span class="toctext">Austria-Hungary, 1867-1918</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#Between_the_World_Wars,_1918-1946"><span class="tocnumber">1.4</span> <span class="toctext">Between the World Wars, 1918-1946</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Communist_Hungary,_1946-1989"><span class="tocnumber">1.5</span> <span class="toctext">Communist Hungary, 1946-1989</span></a></li> 
+          <li class="toclevel-2 tocsection-7"><a href="#Republic_of_Hungary,_1989_onwards"><span class="tocnumber">1.6</span> <span class="toctext">Republic of Hungary, 1989 onwards</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Demographics"><span class="tocnumber">2</span> <span class="toctext">Demographics</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Geography"><span class="tocnumber">3</span> <span class="toctext">Geography</span></a></li> 
+        <li class="toclevel-1 tocsection-10"><a href="#Related_pages"><span class="tocnumber">4</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-12"><a href="#Other_websites"><span class="tocnumber">6</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span id="Medieval_Hungary.2C_896-1526"></span><span class="mw-headline" id="Medieval_Hungary,_896-1526">Medieval Hungary, 896-1526</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Medieval Hungary, 896-1526">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=2" title="Change section: Medieval Hungary, 896-1526">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Arpadfeszty.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Arpadfeszty.jpg/250px-Arpadfeszty.jpg" decoding="async" width="250" height="174" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Arpadfeszty.jpg/375px-Arpadfeszty.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Arpadfeszty.jpg/500px-Arpadfeszty.jpg 2x" data-file-width="4386" data-file-height="3044"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Arpadfeszty.jpg" class="internal" title="Enlarge"></a>
+         </div>The arrival of the <a href="/wiki/Magyar" class="mw-redirect" title="Magyar">Magyars</a> (Hungarians) in the <a href="/w/index.php?title=Carpathian_Basin&amp;action=edit&amp;redlink=1" class="new" title="Carpathian Basin (not yet started)">Carpathian Basin</a>.
+        </div>
+       </div>
+      </div>
+      <p>The Magyars established Hungary in 896, after they had arrived there from their previous, <a href="/wiki/Eastern_Europe" title="Eastern Europe">Eastern European</a> territories. Prince <a href="/w/index.php?title=%C3%81rp%C3%A1d&amp;action=edit&amp;redlink=1" class="new" title="Árpád (not yet started)">Árpád</a> was their leader at the time; he also established the first royal house of the country, the Árpád-house. In <a href="/wiki/1000" title="1000">1000</a>, after the first king, <a href="/wiki/Saint_Stephen" title="Saint Stephen">Saint Stephen</a> had been crowned, the country became a <a href="/wiki/Kingdom" title="Kingdom">Kingdom</a>. </p>
+      <p>In <a href="/wiki/1241" title="1241">1241</a>, the <a href="/wiki/Mongol_Empire" title="Mongol Empire">Mongol Empire</a> invaded the country, causing the Hungarian king Béla IV to flee and approximately 500,000 Hungarians were killed, along with with heavy damage. In <a href="/wiki/1301" title="1301">1301</a>, the Árpád-house died out. Later on, kings from various houses ruled over Hungary. The greatest of them is Matthias Corvinus, famous for taking Austrian terrirories like Vienna, etc. and protecting the country against <a href="/wiki/Ottoman" class="mw-redirect" title="Ottoman">Ottoman</a> aggression. However, some decades after he had died (<a href="/wiki/1490" title="1490">1490</a>), the Ottoman Sultan <a href="/wiki/Suleiman_the_Magnificent" title="Suleiman the Magnificent">Suleiman the Magnificent</a> defeated the Hungarian king in the Battle of Mohács (<a href="/wiki/1526" title="1526">1526</a>). The Kingdom was cut up into three parts: the western and northern areas remained Hungary, the southern region fell under Ottoman rule, and the eastern part became an Ottoman vassal as the Principality of <a href="/wiki/Transylvania" title="Transylvania">Transylvania</a>. </p> 
+      <h3><span class="mw-headline" id="Between_1526-1867">Between 1526-1867</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Between 1526-1867">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=3" title="Change section: Between 1526-1867">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The Kingdom of Hungary became a <a href="/wiki/Habsburg" class="mw-redirect" title="Habsburg">Habsburg</a> dependency, because an agreement made in <a href="/wiki/Vienna" title="Vienna">Vienna</a> in <a href="/wiki/1515" title="1515">1515</a> said that the Habsburg family would take over the territory of the <a href="/wiki/Jagiellon_dynasty" title="Jagiellon dynasty">Jagellion</a> family in <a href="/wiki/Bohemia" title="Bohemia">Bohemia</a> and Hungary if the line of kings should die out. In <a href="/wiki/1686" title="1686">1686</a>, the Ottomans were forced to leave, and the country was reunified. Many nationalities were living in the country at this time. Along with Hungarians, there were also the ancestors of modern <a href="/wiki/Slovaks" title="Slovaks">Slovaks</a>, <a href="/wiki/Serbs" title="Serbs">Serbs</a>, and <a href="/wiki/Romanians" class="mw-redirect" title="Romanians">Romanians</a>. </p>
+      <p>In <a href="/wiki/1703" title="1703">1703</a>, Francis II Rákóczi, a Hungarian nobleman organized a revolution against the Habsburgs, as the Hungarians were not satisfied with them. However, his revolution failed in <a href="/wiki/1711" title="1711">1711</a>, and he had to go into <a href="/wiki/Exile" title="Exile">exile</a>. The next most important event is the "<a href="/w/index.php?title=Hungarian_Revolution_of_1848&amp;action=edit&amp;redlink=1" class="new" title="Hungarian Revolution of 1848 (not yet started)">Hungarian Revolution of 1848</a>", when the inhabitants of the country mutinied again. Fighting ended in <a href="/wiki/1849" title="1849">1849</a>, with Habsburg success. The leaders of the revolution were executed. </p> 
+      <h3><span id="Austria-Hungary.2C_1867-1918"></span><span class="mw-headline" id="Austria-Hungary,_1867-1918">Austria-Hungary, 1867-1918</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Austria-Hungary, 1867-1918">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=4" title="Change section: Austria-Hungary, 1867-1918">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The country tried to find the way towards consolidation: in <a href="/wiki/1867" title="1867">1867</a>, the two most important Habsburg territories, Austria and Hungary signed a treaty, and they established the <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austro-Hungarian</a> Monarchy. The new situation was feasible for both sides: the agreement brought massive economic growth. </p> 
+      <h3><span id="Between_the_World_Wars.2C_1918-1946"></span><span class="mw-headline" id="Between_the_World_Wars,_1918-1946">Between the World Wars, 1918-1946</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Between the World Wars, 1918-1946">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=5" title="Change section: Between the World Wars, 1918-1946">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In 1918 after the defeat in <a href="/wiki/World_War_I" title="World War I">World War I</a>, the Kingdom was abolished, and a republic was established, as people had enough of war. This republic was short-lived, and soon the Communists seized power (<a href="/wiki/1919" title="1919">1919</a>). Their rule was irresponsible and many people, including the peasants and the <a href="/wiki/Intelligentsia" class="mw-redirect" title="Intelligentsia">intelligentsia</a>, were tortured. The communists had to abandon the country as <a href="/wiki/Romania" title="Romania">Romanian</a> troops invaded. </p>
+      <p>In late 1919, the Hungarian forces, led by Admiral Miklós Horthy, finally occupied the capital, <a href="/wiki/Budapest" title="Budapest">Budapest</a>. In response to the communist terror, they launched the "White Terror", in which they persecuted the communists and their supporters. The kingdom was re-established but there was no king. Horthy was elected as the <a href="/wiki/Regent" title="Regent">regent</a> of the country, as the assembly decided not to recall the Habsburgs. </p>
+      <p>Hungary lost the war. According to the <a href="/wiki/Treaty_of_Trianon" title="Treaty of Trianon">Treaty of Trianon</a> (<a href="/wiki/1920" title="1920">1920</a>), Hungary lost two thirds of its territory. In the majority of these territories, non-Hungarians were the majority; however, many Hungarians also found themselves outside their country, in the nation state of <a href="/wiki/Romanians" class="mw-redirect" title="Romanians">Romanians</a> or <a href="/wiki/Slovaks" title="Slovaks">Slovaks</a>. Thus, the main political goal of the governments under Horthy was to revise this treaty, and at least, to <a href="/wiki/Irredentism" title="Irredentism">regain</a> the Hungarian-inhabited lands. </p> 
+      <h3><span id="Communist_Hungary.2C_1946-1989"></span><span class="mw-headline" id="Communist_Hungary,_1946-1989">Communist Hungary, 1946-1989</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Communist Hungary, 1946-1989">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=6" title="Change section: Communist Hungary, 1946-1989">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>After the fall of <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a>, Soviet troops occupied all of the country. So Hungary gradually became a communist satellite state of the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>. After 1948, Communist leader <a href="/w/index.php?title=M%C3%A1ty%C3%A1s_R%C3%A1kosi&amp;action=edit&amp;redlink=1" class="new" title="Mátyás Rákosi (not yet started)">Mátyás Rákosi</a> established Stalinist rule in the country. He forced collectivization and a <a href="/wiki/Planned_economy" class="mw-redirect" title="Planned economy">planned economy</a>. This led to the <a href="/w/index.php?title=1956_Hungarian_Revolution&amp;action=edit&amp;redlink=1" class="new" title="1956 Hungarian Revolution (not yet started)">1956 Hungarian Revolution</a>. Hungary withdrew from the <a href="/wiki/Warsaw_Pact" title="Warsaw Pact">Warsaw Pact</a>. But the Soviets sent in over 150,000 troops and 2,500 tanks.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Nearly a quarter of a million people left the country during the brief time that the borders were open in 1956. <a href="/w/index.php?title=J%C3%A1nos_K%C3%A1d%C3%A1r&amp;action=edit&amp;redlink=1" class="new" title="János Kádár (not yet started)">János Kádár</a> became leader of the communist party. In 1991 Soviet military presence in Hungary ended, and the transition to a market economy began. </p> 
+      <h3><span id="Republic_of_Hungary.2C_1989_onwards"></span><span class="mw-headline" id="Republic_of_Hungary,_1989_onwards">Republic of Hungary, 1989 onwards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Republic of Hungary, 1989 onwards">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=7" title="Change section: Republic of Hungary, 1989 onwards">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-notice" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31"></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section needs <a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Hungary&amp;action=edit">more information</a>. <small class="date-container"><i>(<span class="date">December 2011</span>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>Today, Hungary is a democratic republic. Elections are held every four years. </p>
+      <p>The current president of the country is <a href="/wiki/J%C3%A1nos_%C3%81der" title="János Áder">János Áder</a>, and the prime minister is <a href="/wiki/Viktor_Orb%C3%A1n" title="Viktor Orbán">Viktor Orbán</a>. Orbán was Prime Minister from 1998 to 2002, and was elected again in 2010.<sup id="cite_ref-voa_12-0" class="reference"><a href="#cite_note-voa-12">[12]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: Demographics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=8" title="Change section: Demographics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Hungarians make up the largest part of the population but there are also several other ethnic communities. The largest of these are the <a href="/wiki/Roma_people" class="mw-redirect" title="Roma people">Roma</a> and Germans. Hungarian is the most widely used language in Hungary. Ethnic communities often use their own languages as well. The majority of Hungarians are religious, mainly Roman Catholic and <a href="/wiki/Calvinist" class="mw-redirect" title="Calvinist">Calvinist</a> (in Hungarian 'református' - 'reformed'). There are <a href="/wiki/Jews" class="mw-redirect" title="Jews">Jews</a>, often in intellectual and artistic occupations, and some <a href="/wiki/Muslims" class="mw-redirect" title="Muslims">Muslims</a>. <a href="/wiki/Orthodox_Christianity" class="mw-redirect" title="Orthodox Christianity">Orthodox Christianity</a> is practised by ethnic minorities from eastern Europe. </p> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=9" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a href="/wiki/File:Kekesteto1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kekesteto1.JPG/300px-Kekesteto1.JPG" decoding="async" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kekesteto1.JPG/450px-Kekesteto1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kekesteto1.JPG/600px-Kekesteto1.JPG 2x" data-file-width="1600" data-file-height="1200"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Kekesteto1.JPG" class="internal" title="Enlarge"></a>
+         </div>The Kékestető
+        </div>
+       </div>
+      </div> 
+      <p>Hungary's highest point is <i>Kékestető</i> (1014&nbsp;m; in the northeastern part of Hungary). The River <a href="/wiki/Danube" title="Danube">Danube</a>, one of Europe's largest rivers, divides Hungary into a western and an eastern part. The region west of the Danube is called Transdanubia (<i>Dunántúl</i>). Transdanubia has a hilly landscape and many small villages and towns. The large flat area in the eastern part is the Great Plains (<i>Alföld</i>). Along the Slovakian border there are mountains. </p>
+      <p>Lake <a href="/wiki/Balaton" title="Balaton">Balaton</a>, Central Europe's largest lake can be found in Hungary. This small country has several thermal spas too. Lake Hévíz is one of the world's largest thermal lakes. Hungary, however is a landlocked country (it has no coastline). </p>
+      <p>Its biggest cities are <a href="/wiki/Budapest" title="Budapest">Budapest</a>, <a href="/wiki/Debrecen" title="Debrecen">Debrecen</a>, <a href="/wiki/Miskolc" title="Miskolc">Miskolc</a>, <a href="/wiki/Szeged" title="Szeged">Szeged</a>, <a href="/wiki/P%C3%A9cs" title="Pécs">Pécs</a>, <a href="/wiki/Gy%C5%91r" title="Győr">Győr</a>, <a href="/w/index.php?title=Ny%C3%ADregyh%C3%A1za&amp;action=edit&amp;redlink=1" class="new" title="Nyíregyháza (not yet started)">Nyíregyháza</a> and <a href="/w/index.php?title=Szolnok&amp;action=edit&amp;redlink=1" class="new" title="Szolnok (not yet started)">Szolnok</a>. Szolnok is found at the juncture of the Tisza River and the Zagyva River (stream). </p> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=10" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Hungary_at_the_Olympics" title="Hungary at the Olympics">Hungary at the Olympics</a></li> 
+       <li><a href="/wiki/Hungary_national_football_team" title="Hungary national football team">Hungary national football team</a></li> 
+       <li><a href="/wiki/List_of_rivers_of_Hungary" title="List of rivers of Hungary">List of rivers of Hungary</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=11" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://magyarnews.org/news.php?viewStory=619">"The Story Behind the Hungarian National Anthem"</a>. Jules S. Vállay<span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Story+Behind+the+Hungarian+National+Anthem&amp;rft.pub=Jules+S.+V%C3%A1llay&amp;rft_id=http%3A%2F%2Fmagyarnews.org%2Fnews.php%3FviewStory%3D619&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-Census2011-2"><span class="mw-cite-backlink"><a href="#cite_ref-Census2011_2-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ksh.hu/docs/hun/xftp/idoszaki/nepsz2011/nepsz_orsz_2011.pdf">"2011 Hungary Census Report"</a> <span class="cs1-format">(PDF)</span>. ksh.hu.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2011+Hungary+Census+Report&amp;rft.pub=ksh.hu&amp;rft_id=http%3A%2F%2Fwww.ksh.hu%2Fdocs%2Fhun%2Fxftp%2Fidoszaki%2Fnepsz2011%2Fnepsz_orsz_2011.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Religious_Belief_in_Central_and_Eastern_Europe-3"><span class="mw-cite-backlink"><a href="#cite_ref-Religious_Belief_in_Central_and_Eastern_Europe_3-0">↑</a></span> <span class="reference-text"><cite id="CITEREFANALYSIS2017" class="citation web cs1">ANALYSIS (10 May 2017). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170513130508/http://assets.pewresearch.org/wp-content/uploads/sites/11/2017/05/10104119/CEUP-FULL-REPORT.pdf">"Religious Belief and National Belonging in Central and Eastern Europe"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="https://assets.pewresearch.org/wp-content/uploads/sites/11/2017/05/10104119/CEUP-FULL-REPORT.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 13 May 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Religious+Belief+and+National+Belonging+in+Central+and+Eastern+Europe&amp;rft.date=2017-05-10&amp;rft.au=ANALYSIS&amp;rft_id=http%3A%2F%2Fassets.pewresearch.org%2Fwp-content%2Fuploads%2Fsites%2F11%2F2017%2F05%2F10104119%2FCEUP-FULL-REPORT.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/?id=igzYAAAAMAAJ"><i>Encyclopedia Americana: Heart to India</i></a>. Scholastic Library Publishing. 2006. p.&nbsp;581. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7172-0139-6" title="Special:BookSources/978-0-7172-0139-6"><bdi>978-0-7172-0139-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+Americana%3A+Heart+to+India&amp;rft.pages=581&amp;rft.pub=Scholastic+Library+Publishing.&amp;rft.date=2006&amp;rft.isbn=978-0-7172-0139-6&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DigzYAAAAMAAJ&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/?id=xV7xAAAAMAAJ"><i>Studies in Medieval and Renaissance History</i></a>. AMS Press. 1980. p.&nbsp;159.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Studies+in+Medieval+and+Renaissance+History&amp;rft.pages=159&amp;rft.pub=AMS+Press&amp;rft.date=1980&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DxV7xAAAAMAAJ&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-area-6"><span class="mw-cite-backlink"><a href="#cite_ref-area_6-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/hu.html">"Hungary"</a>. CIA The World Factbook<span class="reference-accessdate">. Retrieved <span class="nowrap">27 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hungary&amp;rft.pub=CIA+The+World+Factbook&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fhu.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ksh.hu/docs/hun/xstadat/xstadat_eves/i_wdsd001.html">"Population by type of settlement – annually"</a>. <i><a href="/w/index.php?title=Hungarian_Central_Statistical_Office&amp;action=edit&amp;redlink=1" class="new" title="Hungarian Central Statistical Office (not yet started)">Hungarian Central Statistical Office</a></i>. 24 December 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">24 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hungarian+Central+Statistical+Office&amp;rft.atitle=Population+by+type+of+settlement+%E2%80%93+annually&amp;rft.date=2015-12-24&amp;rft_id=http%3A%2F%2Fwww.ksh.hu%2Fdocs%2Fhun%2Fxstadat%2Fxstadat_eves%2Fi_wdsd001.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-imf2-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_8-0">8.0</a></sup> <sup><a href="#cite_ref-imf2_8-1">8.1</a></sup> <sup><a href="#cite_ref-imf2_8-2">8.2</a></sup> <sup><a href="#cite_ref-imf2_8-3">8.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=43&amp;pr.y=13&amp;sy=2017&amp;ey=2022&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=944&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&amp;grp=0&amp;a=">"Hungary"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">29 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hungary&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2017%2F02%2Fweodata%2Fweorept.aspx%3Fpr.x%3D43%26pr.y%3D13%26sy%3D2017%26ey%3D2022%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D944%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-eurogini-9"><span class="mw-cite-backlink"><a href="#cite_ref-eurogini_9-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di12">"Gini coefficient of equivalised disposable income (source: SILC)"</a>. Eurostat Data Explorer<span class="reference-accessdate">. Retrieved <span class="nowrap">4 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gini+coefficient+of+equivalised+disposable+income+%28source%3A+SILC%29&amp;rft.pub=Eurostat+Data+Explorer&amp;rft_id=http%3A%2F%2Fappsso.eurostat.ec.europa.eu%2Fnui%2Fshow.do%3Fdataset%3Dilc_di12&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-10"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_10-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf">"Human Development Report 2015"</a> <span class="cs1-format">(PDF)</span>. United Nations. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">14 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2015&amp;rft.pub=United+Nations&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr_2015_statistical_annex.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Findley, Carter V., and John Rothney. Twentieth Century World. sixth ed. Boston: Houghton Mifflin, 2006. 278.</span> </li> 
+         <li id="cite_note-voa-12"><span class="mw-cite-backlink"><a href="#cite_ref-voa_12-0">↑</a></span> <span class="reference-text"><cite id="CITEREFBos2010" class="citation web cs1">Bos, Stefan (29 May 2010). <a rel="nofollow" class="external text" href="http://www1.voanews.com/english/news/europe/Orban-Becomes-PM-for-Recession-Hit-Hungary-95186109.html">"Oban Become PM for Recession Hit Hungary"</a>. <i>VOA News.com</i>. Voice of America<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=VOA+News.com&amp;rft.atitle=Oban+Become+PM+for+Recession+Hit+Hungary&amp;rft.date=2010-05-29&amp;rft.aulast=Bos&amp;rft.aufirst=Stefan&amp;rft_id=http%3A%2F%2Fwww1.voanews.com%2Fenglish%2Fnews%2Feurope%2FOrban-Becomes-PM-for-Recession-Hit-Hungary-95186109.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AHungary" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hungary&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hungary&amp;action=edit&amp;section=12" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Hungary" class="extiw" title="commons:Special:Search/Hungary">Hungary</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.eulanguages.net">STELLA Hungarian</a> – free online course Hungarian for beginners (requires <a href="/wiki/Macromedia_Flash" class="mw-redirect" title="Macromedia Flash">Macromedia Flash</a>).</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/46px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></span> <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/Europe" title="Europe">Europe</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Country" title="Country">Countries</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a> – <a href="/wiki/Andorra" title="Andorra">Andorra</a> – <a href="/wiki/Austria" title="Austria">Austria</a> – <a href="/wiki/Belarus" title="Belarus">Belarus</a> – <a href="/wiki/Belgium" title="Belgium">Belgium</a> – <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a> – <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> – <a href="/wiki/Croatia" title="Croatia">Croatia</a> – <a href="/wiki/Republic_of_Cyprus" title="Republic of Cyprus">Republic of Cyprus</a><sup>1</sup> – <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a> – <a href="/wiki/Denmark" title="Denmark">Denmark</a><sup>2,4</sup> – <a href="/wiki/Estonia" title="Estonia">Estonia</a> – <a href="/wiki/Finland" title="Finland">Finland</a> – <a href="/wiki/France" title="France">France</a><sup>4</sup> – <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a><sup>1</sup> – <a href="/wiki/Germany" title="Germany">Germany</a> – <a href="/wiki/Greece" title="Greece">Greece</a> – <a class="mw-selflink selflink">Hungary</a> – <a href="/wiki/Iceland" title="Iceland">Iceland</a> – <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a> – <a href="/wiki/Italy" title="Italy">Italy</a> – <a href="/wiki/Latvia" title="Latvia">Latvia</a> – <a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a> – <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> – <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a> – <a href="/wiki/Malta" title="Malta">Malta</a> – <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a> – <a href="/wiki/Moldova" title="Moldova">Moldova</a> – <a href="/wiki/Monaco" title="Monaco">Monaco</a> – <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> – <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a><sup>4</sup> – <a href="/wiki/Norway" title="Norway">Norway</a><sup>4</sup> – <a href="/wiki/Poland" title="Poland">Poland</a> – <a href="/wiki/Portugal" title="Portugal">Portugal</a><sup>4,6</sup> – <a href="/wiki/Romania" title="Romania">Romania</a> – <a href="/wiki/Russia" title="Russia">Russia</a><sup>1</sup> – <a href="/wiki/San_Marino" title="San Marino">San Marino</a> – <a href="/wiki/Serbia" title="Serbia">Serbia</a> – <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> – <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a> – <a href="/wiki/Spain" title="Spain">Spain</a><sup>4,6</sup> – <a href="/wiki/Sweden" title="Sweden">Sweden</a> – <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> – <a href="/wiki/Turkey" title="Turkey">Turkey</a><sup>1</sup> – <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> – <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><sup>4</sup> – <a href="/wiki/Vatican_City" title="Vatican City">Vatican City</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_dependent_territories" class="mw-redirect" title="List of dependent territories">Dependencies</a></b></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a><sup>1</sup> – <a href="/wiki/Azores" title="Azores">Azores</a><sup>5</sup> – <a href="/wiki/Ceuta" title="Ceuta">Ceuta</a><sup>5, 6</sup> – <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a><sup>5</sup> – <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a><sup>5</sup> – <a href="/wiki/Greenland" title="Greenland">Greenland</a><sup>5,2</sup> – <a href="/wiki/Guernsey" title="Guernsey">Guernsey</a> – <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a> – <a href="/wiki/Jersey" title="Jersey">Jersey</a> – <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a> – <a href="/wiki/Melilla" title="Melilla">Melilla</a><sup>5,6</sup> – <a href="/wiki/Svalbard" title="Svalbard">Svalbard</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_unrecognized_countries" class="mw-redirect" title="List of unrecognized countries">Other Countries</a></b></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Abkhazia" title="Abkhazia">Abkhazia</a><sup>1,3</sup> – <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a><sup>3</sup> – <a href="/wiki/South_Ossetia" title="South Ossetia">South Ossetia</a><sup>1, 3</sup> – <a href="/wiki/Transnistria" title="Transnistria">Transnistria</a> – <a href="/wiki/Turkish_Republic_of_Northern_Cyprus" class="mw-redirect" title="Turkish Republic of Northern Cyprus">Turkish Republic of Northern Cyprus</a><sup>1,3</sup>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            1. <a href="/wiki/Transcontinental_country" title="Transcontinental country">Transcontinental country</a>/territory that can be considered both Europe and Asia 2. Territory or with territory geographically part of North America 3. Partially recognized. 4. not all dependent territories are listed 5. Territory has some form of self-rule. 6. Territory or with territory geographically part of Africa
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="European_Union_member_and_candidate_countries" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div id="European_Union_member_and_candidate_countries" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/European_Union" title="European Union">European Union</a> member and candidate countries
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Current members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Austria" title="Austria">Austria</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech&nbsp;Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/Finland" title="Finland">Finland</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Malta" title="Malta">Malta</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Sweden" title="Sweden">Sweden</a>
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Flag_of_Europe.svg" class="image"><img alt="Flag of Europe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/65px-Flag_of_Europe.svg.png" decoding="async" width="65" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/98px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/130px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Candidates</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>&nbsp;<b>·</b> <a href="/wiki/Serbia" title="Serbia">Serbia</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Potential candidates</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a>&nbsp;<b>·</b> <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Former members</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <a href="/w/index.php?title=List_of_European_Union_member_states_by_accession&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by accession (not yet started)">by accession</a>&nbsp;<b>·</b> <a href="/w/index.php?title=List_of_European_Union_member_states_by_political_system&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by political system (not yet started)">by political system</a>&nbsp;<b>·</b> <a href="/wiki/List_of_European_Union_member_states_by_population" class="mw-redirect" title="List of European Union member states by population">by population</a>&nbsp;<b>·</b> <a href="/w/index.php?title=Economy_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="Economy of the European Union (not yet started)">by GDP</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="North_Atlantic_Treaty_Organization_(NATO)" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_Atlantic_Treaty_Organisation_(NATO)" title="Template:North Atlantic Treaty Organisation (NATO)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:North_Atlantic_Treaty_Organisation_(NATO)" title="Template talk:North Atlantic Treaty Organisation (NATO)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_Atlantic_Treaty_Organisation_(NATO)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="North_Atlantic_Treaty_Organization_(NATO)" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/North_Atlantic_Treaty_Organisation" class="mw-redirect" title="North Atlantic Treaty Organisation">North Atlantic Treaty Organization (NATO)</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Member countries</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Canada" title="Canada">Canada</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Norway" title="Norway">Norway</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>&nbsp;<b>·</b> <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&nbsp;<b>·</b> <a href="/wiki/United_States" title="United States">United States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1294
+Cached time: 20201215181504
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.036 seconds
+Real time usage: 1.238 seconds
+Preprocessor visited node count: 4534/1000000
+Post‐expand include size: 127910/2097152 bytes
+Template argument size: 13024/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 37187/5000000 bytes
+Lua time usage: 0.660/10.000 seconds
+Lua memory usage: 28787542/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1107.273      1 -total
+ 74.02%  819.577      1 Template:Infobox_country
+ 73.00%  808.311      3 Template:Infobox
+ 22.46%  248.729      3 Template:ISO_3166_code
+ 19.85%  219.774      2 Template:Native_name
+ 18.64%  206.433      2 Template:Lang
+ 15.84%  175.418      1 Template:Reflist
+ 13.03%  144.308      9 Template:Cite_web
+  4.68%   51.773      1 Template:Infobox_country/imagetable
+  4.33%   47.968      1 Template:Expand_section
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:3462-0!canonical and timestamp 20201215181504 and revision id 7184105. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Hungary&amp;oldid=7184105">https://simple.wikipedia.org/w/index.php?title=Hungary&amp;oldid=7184105</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Members_of_NATO" title="Category:Members of NATO">Members of NATO</a></li>
+       <li><a href="/wiki/Category:Hungary" title="Category:Hungary">Hungary</a></li>
+       <li><a href="/wiki/Category:European_Union_member_states" title="Category:European Union member states">European Union member states</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_containing_Hungarian-language_text" title="Category:Articles containing Hungarian-language text">Articles containing Hungarian-language text</a></li>
+       <li><a href="/wiki/Category:Articles_to_be_expanded_from_December_2011" title="Category:Articles to be expanded from December 2011">Articles to be expanded from December 2011</a></li>
+       <li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li>
+       <li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hungary" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hungary" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Hungary" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Hungary" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Hungary">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Hungary&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Hungary&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Hungary&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hungary" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hungary" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Hungary&amp;oldid=7184105" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Hungary&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hungary&amp;id=7184105&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hungary">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Hungary&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Hungary&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hungary" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Hongaria" title="Hongaria – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%9C%D1%8D%D0%B6%D0%B0%D1%80%D0%B5%D0%B9" title="Мэжарей – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%A5%D1%83%D0%BD%D0%B3%D0%B0%D1%80%D0%B8%D0%B5" title="Хунгарие – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Hongarye" title="Hongarye – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Ungarn" title="Ungarn – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%88%80%E1%8A%95%E1%8C%8B%E1%88%AA" title="ሀንጋሪ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/U%C5%8Bgar" title="Uŋgar – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Ungerland" title="Ungerland – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B8%D0%B0%D1%80%D1%82%D3%99%D1%8B%D0%BB%D0%B0" title="Мадиартәыла – Abkhazian" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AC%D8%B1" title="المجر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Hongr%C3%ADa" title="Hongría – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%A1%DC%93%DC%AA" title="ܡܓܪ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D5%80%D5%B8%D6%82%D5%B6%D5%A3%D5%A1%D6%80%D5%AB%D5%A1" title="Հունգարիա – Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/Ungaria" title="Ungaria – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Hongries" title="Hongries – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Hungr%C3%ADa" title="Hungría – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Hungyria" title="Hungyria – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B6%D0%B0%D1%80" title="Мажар – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Hunkariya" title="Hunkariya – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Macar%C4%B1stan" title="Macarıstan – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%85%D8%A7%D8%AC%D8%A7%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7%D9%86" title="ماجاریستان – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B9%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0%E0%A6%BF" title="হাঙ্গেরি – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/H%C3%B4ng-g%C3%A2-l%C4%AB" title="Hông-gâ-lī – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Hongaria" title="Hongaria – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F" title="Венгрия – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D1%8B%D1%8F" title="Венгрыя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%92%D1%83%D0%B3%D0%BE%D1%80%D1%88%D1%87%D1%8B%D0%BD%D0%B0" title="Вугоршчына – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B9%E0%A4%82%E0%A4%97%E0%A4%B0%E0%A5%80" title="हंगरी – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Hungriya" title="Hungriya – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Hungary" title="Hungary – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B3%D0%B0%D1%80%D0%B8%D1%8F" title="Унгария – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Ungarn" title="Ungarn – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%A7%E0%BD%B4%E0%BD%84%E0%BC%8B%E0%BD%82%E0%BE%B7%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BC%8D" title="ཧུང་གྷ་རི། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Ma%C4%91arska" title="Mađarska – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Hungaria" title="Hungaria – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B3%D0%B0%D1%80" title="Унгар – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Hongria" title="Hongria – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%A5%D1%83%D0%BD%D0%BA%C4%83%D1%80%D0%B8" title="Хункăри – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Unggriya" title="Unggriya – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ma%C4%8Farsko" title="Maďarsko – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-ch"><a href="https://ch.wikipedia.org/wiki/Hunggria" title="Hunggria – Chamorro" lang="ch" hreflang="ch" class="interlanguage-link-target">Chamoru</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Hungr%C3%ADa" title="Hungría – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Hungary" title="Hungary – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-tum"><a href="https://tum.wikipedia.org/wiki/Hungary" title="Hungary – Tumbuka" lang="tum" hreflang="tum" class="interlanguage-link-target">ChiTumbuka</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Ungheria" title="Ungheria – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Hwngari" title="Hwngari – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Ungarn" title="Ungarn – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D9%87%D9%86%DA%AD%D8%A7%D8%B1%D9%8A%D8%A7" title="هنڭاريا – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Ung%C3%A1ra" title="Ungára – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-pdc"><a href="https://pdc.wikipedia.org/wiki/Ungarn" title="Ungarn – Pennsylvania German" lang="pdc" hreflang="pdc" class="interlanguage-link-target">Deitsch</a></li>
+       <li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://de.wikipedia.org/wiki/Ungarn" title="Ungarn – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%80%DE%A6%DE%82%DE%B0%DE%8E%DE%AD%DE%83%DE%A9" title="ހަންގޭރީ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Hungorska" title="Hungorska – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%B9%E0%A4%82%E0%A4%97%E0%A5%87%E0%A4%B0%E0%A5%80" title="हंगेरी – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Ungari" title="Ungari – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9F%CF%85%CE%B3%CE%B3%CE%B1%CF%81%CE%AF%CE%B1" title="Ουγγαρία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/Ungher%C3%AE" title="Ungherî – Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Hungary" title="Hungary – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D1%8C%D1%8F%D1%80%D0%BE%D0%BD%D1%8C_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Мадьяронь Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Hungr%C3%ADa" title="Hungría – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://eo.wikipedia.org/wiki/Hungario" title="Hungario – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Ungria" title="Ungria – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Hungaria" title="Hungaria – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Hungary" title="Hungary – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86" title="مجارستان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Hungary" title="Hungary – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Ungarn" title="Ungarn – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Hongrie" title="Hongrie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Hongarije" title="Hongarije – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Hunngariya" title="Hunngariya – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Ongjarie" title="Ongjarie – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_Ung%C3%A1ir" title="An Ungáir – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Ungaar" title="Yn Ungaar – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Ungariya" title="Ungariya – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/An_Ungair" title="An Ungair – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Hungr%C3%ADa" title="Hungría – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-inh"><a href="https://inh.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B6%D0%B0%D1%80%D1%87%D0%B5" title="Маджарче – Ingush" lang="inh" hreflang="inh" class="interlanguage-link-target">ГӀалгӀай</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Hangar%C4%A9" title="Hangarĩ – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B9%E0%AA%82%E0%AA%97%E0%AB%87%E0%AA%B0%E0%AB%80" title="હંગેરી – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8C%BF%F0%90%8C%B2%F0%90%8C%B2%F0%90%8C%B0%F0%90%8D%82%F0%90%8C%BB%F0%90%8C%B0%F0%90%8C%BD%F0%90%8C%B3" title="𐌿𐌲𐌲𐌰𐍂𐌻𐌰𐌽𐌳 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%B9%E0%A4%82%E0%A4%97%E0%A5%87%E0%A4%B0%E0%A5%80" title="हंगेरी – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Hi%C3%BBng-ng%C3%A0-li" title="Hiûng-ngà-li – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%A5%D1%83%D0%BD%D0%B3%D0%B0%D1%80%D0%BC%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Хунгармудин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%97%9D%EA%B0%80%EB%A6%AC" title="헝가리 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Hungariya" title="Hungariya – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Hunakalia" title="Hunakalia – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%B8%D6%82%D5%B6%D5%A3%D5%A1%D6%80%D5%AB%D5%A1" title="Հունգարիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%82%E0%A4%97%E0%A4%B0%E0%A5%80" title="हंगरी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Mad%C5%BAarska" title="Madźarska – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Ma%C4%91arska" title="Mađarska – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Hungaria" title="Hungaria – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Hungary" title="Hungary – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Hungaria" title="Hungaria – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%B9%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0%E0%A7%80" title="হাঙ্গেরী – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hongaria" title="Hongaria – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Hungaria" title="Hungaria – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Hungaria" title="Hungaria – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8" title="Венгри – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Ungverjaland" title="Ungverjaland – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ungheria" title="Ungheria – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%95%D7%A0%D7%92%D7%A8%D7%99%D7%94" title="הונגריה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Honggari" title="Honggari – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/H%C9%94%C5%8Birii" title="Hɔŋirii – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Ungarni" title="Ungarni – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B9%E0%B2%82%E0%B2%97%E0%B2%B0%E0%B2%BF" title="ಹಂಗರಿ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Hungrya" title="Hungrya – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B6%D0%B0%D1%80" title="Маджар – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A3%E1%83%9C%E1%83%92%E1%83%A0%E1%83%94%E1%83%97%E1%83%98" title="უნგრეთი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Mad%C5%BCarsk%C3%B4" title="Madżarskô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B6%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD" title="Мажарстан – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Hungari" title="Hungari – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Hongiriya" title="Hongiriya – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Hungaria" title="Hungaria – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B4%D1%8F%D1%80_%D0%9C%D1%83" title="Маддяр Му – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Hongrie" title="Hongrie – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Magyara" title="Magyara – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Ongri" title="Ongri – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Ongri" title="Ongri – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Macaristan" title="Macaristan – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B6%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD" title="Мажарстан – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8" title="Венгри – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Ungria" title="Ungria – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Madjaristan" title="Madjaristan – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%AE%E0%BA%BB%E0%BA%87%E0%BA%81%E0%BA%B2%E0%BA%A5%E0%BA%B5" title="ປະເທດຮົງກາລີ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Vengreja" title="Vengreja – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Hungaria" title="Hungaria – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Ung%C4%81rija" title="Ungārija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Ungarn" title="Ungarn – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F" title="Венгрия – Lezghian" lang="lez" hreflang="lez" class="interlanguage-link-target">Лезги</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Vengrija" title="Vengrija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Ungher%C3%AEa" title="Ungherîa – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Hongarie%C3%AB" title="Hongarieë – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Ungri" title="Ungri – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Magiar" title="Magiar – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Vengrii" title="Vengrii – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/madjiar" title="madjiar – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/%C3%9Cngheria" title="Üngheria – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Magyarorsz%C3%A1g" title="Magyarország – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B3%D0%B0%D1%80%D0%B8%D1%98%D0%B0" title="Унгарија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Hongaria" title="Hongaria – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B9%E0%B4%82%E0%B4%97%E0%B4%B1%E0%B4%BF" title="ഹംഗറി – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Ungerija" title="Ungerija – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/Hanekeria" title="Hanekeria – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B9%E0%A4%82%E0%A4%97%E0%A5%87%E0%A4%B0%E0%A5%80" title="हंगेरी – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A3%E1%83%9C%E1%83%92%E1%83%A0%E1%83%94%E1%83%97%E1%83%98" title="უნგრეთი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AC%D8%B1" title="المجر – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D9%85%D8%AC%D8%A7%D8%B1%D8%B3%D8%AA%D9%88%D9%86" title="مجارستون – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Hungary" title="Hungary – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/H%E1%B9%B3%CC%86ng-ng%C3%A0-l%C3%A9" title="Hṳ̆ng-ngà-lé – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D0%B5%D1%80%D0%BE%D0%BD%D1%8C_%D0%BC%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Венгеронь мастор – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B3%D0%B0%D1%80" title="Унгар – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%9F%E1%80%94%E1%80%BA%E1%80%82%E1%80%B1%E1%80%9B%E1%80%AE%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ဟန်ဂေရီနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Ungari" title="Ungari – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Hongarije" title="Hongarije – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Hongaarnlaand" title="Hongaarnlaand – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B9%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%87%E0%A4%B0%E0%A5%80" title="हङ्गेरी – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%B9%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%87%E0%A4%B0%E0%A5%80" title="हङ्गेरी – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC" title="ハンガリー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Ungaria" title="Ungaria – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B6%D0%B0%D1%80%D1%87%D0%BE%D1%8C" title="Мажарчоь – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Ungarn/fe" title="Ungarn/fe – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Hungrii" title="Hungrii – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Ungarn" title="Ungarn – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Ungarn" title="Ungarn – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Hongrie" title="Hongrie – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Hungaria" title="Hungaria – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Ongria" title="Ongria – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D0%B9" title="Венгрий – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Hangaarii" title="Hangaarii – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Mojariston" title="Mojariston – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B9%E0%A9%B0%E0%A8%97%E0%A8%B0%E0%A9%80" title="ਹੰਗਰੀ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%82%E0%A4%97%E0%A4%B0%E0%A5%80" title="हंगरी – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pag"><a href="https://pag.wikipedia.org/wiki/Hungary" title="Hungary – Pangasinan" lang="pag" hreflang="pag" class="interlanguage-link-target">Pangasinan</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DA%BE%D9%86%DA%AF%D8%B1%DB%8C" title="ھنگری – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Hongaria" title="Hongaria – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%87%D9%86%DA%AB%D8%B1%DB%8C" title="هنګری – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Onggari" title="Onggari – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D1%8C%D1%8F%D1%80%D0%BC%D1%83" title="Мадьярму – Komi-Permyak" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем Коми</a></li>
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%A0%E1%9E%BB%E1%9E%84%E1%9E%82%E1%9F%92%E1%9E%9A%E1%9E%B8" title="ប្រទេសហុងគ្រី – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Hongrie" title="Hongrie – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Ungher%C3%ACa" title="Ungherìa – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Hangari" title="Hangari – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Ungarn" title="Ungarn – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/W%C4%99gry" title="Węgry – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%9F%CF%85%CE%B3%CE%B3%CE%B1%CF%81%CE%AF%CE%B1" title="Ουγγαρία – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Hungria" title="Hungria – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Vengriya" title="Vengriya – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Macaristan" title="Macaristan – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ungaria" title="Ungaria – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Ungariya" title="Ungariya – Vlax Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani čhib</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Ungaria" title="Ungaria – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Unriya" title="Unriya – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D1%8F%D1%80%D1%8C%D1%81%D0%BA%D0%BE" title="Мадярьско – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F" title="Венгрия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F" title="Венгрия – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Hungary" title="Hungary – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Hanikeri" title="Hanikeri – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%B9%E0%A4%82%E0%A4%97%E0%A4%B0%E0%A5%80" title="हंगरी – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%A6%E1%B1%9F%E1%B1%9D%E1%B1%9C%E1%B1%AE%E1%B1%A8%E1%B1%A4" title="ᱦᱟᱝᱜᱮᱨᱤ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Ungheria" title="Ungheria – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Hungary" title="Hungary – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Ungarn" title="Ungarn – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Hungary" title="Hungary – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Hungaria" title="Hungaria – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Unghir%C3%ACa" title="Unghirìa – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%84%E0%B6%B1%E0%B7%8A%E0%B6%9C%E0%B7%9A%E0%B6%BB%E0%B7%92%E0%B6%BA%E0%B7%8F%E0%B6%B1%E0%B7%94_%E0%B7%83%E0%B6%B8%E0%B7%94%E0%B7%84%E0%B7%8F%E0%B6%AB%E0%B7%8A%E0%B6%A9%E0%B7%94%E0%B7%80" title="හන්ගේරියානු සමුහාණ්ඩුව – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%DA%BE%D9%86%DA%AF%D8%B1%D9%8A" title="ھنگري – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/IHangareyi" title="IHangareyi – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Ma%C4%8Farsko" title="Maďarsko – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Mad%C5%BEarska" title="Madžarska – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D1%AA%D0%B3%D1%80%D0%B8" title="Ѫгри – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Mad%C5%BAary" title="Madźary – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Hungary" title="Hungary – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%85%DB%95%D8%AC%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86" title="مەجارستان – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Ogarnikondre" title="Ogarnikondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D1%92%D0%B0%D1%80%D1%81%D0%BA%D0%B0" title="Мађарска – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Ma%C4%91arska" title="Mađarska – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Hungaria" title="Hungaria – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Unkari" title="Unkari – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ungern" title="Ungern – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Hungary" title="Hungary – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%87%E0%AE%B0%E0%AE%BF" title="அங்கேரி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Ungherie" title="Ungherie – Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target">Tarandíne</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9C%D0%B0%D2%97%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD" title="Маҗарстан – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%82%81%E1%81%A2%E1%80%84%E1%80%BA%E1%82%87%E1%81%B5%E1%80%B1%E1%82%87%E1%80%9B%E1%80%AE%E1%82%87" title="မိူင်းႁၢင်ႇၵေႇရီႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B9%E0%B0%82%E0%B0%97%E0%B1%87%E0%B0%B0%E0%B0%BF" title="హంగేరి – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Ungria" title="Ungria – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B5" title="ประเทศฮังการี – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9C%D0%B0%D2%B7%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%BD" title="Маҷористон – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8E%B2%E1%8F%82%E1%8E%A6%E1%8E%B5" title="ᎲᏂᎦᎵ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Macaristan" title="Macaristan – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Wengri%C3%BDa" title="Wengriýa – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-tw"><a href="https://tw.wikipedia.org/wiki/Hungary" title="Hungary – Twi" lang="tw" hreflang="tw" class="interlanguage-link-target">Twi</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F" title="Венгрия – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A3%D0%B3%D0%BE%D1%80%D1%89%D0%B8%D0%BD%D0%B0" title="Угорщина – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%85%D8%AC%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86" title="مجارستان – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%DB%8B%DB%90%D9%86%DA%AF%D8%B1%D9%89%D9%8A%DB%95" title="ۋېنگرىيە – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Yunghyazleih" title="Yunghyazleih – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Ongar%C3%ACa" title="Ongarìa – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Mad%27jaranma" title="Mad'jaranma – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Hungary" title="Hungary – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Macar%C3%A4n" title="Macarän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Ungari" title="Ungari – Võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Hongreye" title="Hongreye – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%8C%88%E7%89%99%E5%88%A9" title="匈牙利 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Hongareye" title="Hongareye – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Hungarya" title="Hungarya – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Ongiri" title="Ongiri – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%8C%88%E7%89%99%E5%88%A9" title="匈牙利 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Hungary" title="Hungary – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%90%D7%95%D7%A0%D7%92%D7%90%D7%A8%D7%9F" title="אונגארן – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/H%C3%BAng%C3%A1r%C3%AC" title="Húngárì – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%8C%88%E7%89%99%E5%88%A9" title="匈牙利 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Macar%C4%B1stan" title="Macarıstan – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Honharije" title="Honharije – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Vingr%C4%97j%C4%97" title="Vingrėjė – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8C%88%E7%89%99%E5%88%A9" title="匈牙利 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 19 November 2020, at 10:57.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Hungary&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.036","walltime":"1.238","ppvisitednodes":{"value":4534,"limit":1000000},"postexpandincludesize":{"value":127910,"limit":2097152},"templateargumentsize":{"value":13024,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":37187,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1107.273      1 -total"," 74.02%  819.577      1 Template:Infobox_country"," 73.00%  808.311      3 Template:Infobox"," 22.46%  248.729      3 Template:ISO_3166_code"," 19.85%  219.774      2 Template:Native_name"," 18.64%  206.433      2 Template:Lang"," 15.84%  175.418      1 Template:Reflist"," 13.03%  144.308      9 Template:Cite_web","  4.68%   51.773      1 Template:Infobox_country/imagetable","  4.33%   47.968      1 Template:Expand_section"]},"scribunto":{"limitreport-timeusage":{"value":"0.660","limit":"10.000"},"limitreport-memusage":{"value":28787542,"limit":52428800}},"cachereport":{"origin":"mw1294","timestamp":"20201215181504","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hungary","url":"https:\/\/simple.wikipedia.org\/wiki\/Hungary","sameAs":"http:\/\/www.wikidata.org\/entity\/Q28","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q28","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-07T03:07:53Z","dateModified":"2020-11-19T10:57:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c1\/Flag_of_Hungary.svg","headline":"sovereign state in Central Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":338,"wgHostname":"mw1324"});});</script> 
+ </body>
+</html>

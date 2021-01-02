@@ -1,0 +1,1179 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Brazil - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X97jLgpAIC8AAJeWZmEAAAAR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Brazil","wgTitle":"Brazil","wgCurRevisionId":7213840,"wgRevisionId":7213840,"wgArticleId":104,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: uses authors parameter","Articles to be updated","Articles containing Portuguese-language text","Articles with Portuguese-language sources (pt)","Pages using infobox country or infobox former country with the symbol caption or type parameters","Articles to be expanded","All articles to be expanded",
+"Articles using small message boxes","Brazil","Portuguese-speaking countries","1825 establishments in South America"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Brazil","wgRelevantArticleId":104,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q155"};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Brazil"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Brazil&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Brazil&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Brazil"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Brazil rootpage-Brazil skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Brazil</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div role="note" class="hatnote navigation-not-searchable">
+       This article is about the country. For other articles about Brazil, see <a href="/wiki/Brazil_(disambiguation)" class="mw-disambig" title="Brazil (disambiguation)">Brazil (disambiguation)</a>.
+      </div> 
+      <table class="box-Update plainlinks metadata ambox ambox-content ambox-Update" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Ambox_outdated_content.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ambox_outdated_content.svg/42px-Ambox_outdated_content.svg.png" decoding="async" width="42" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ambox_outdated_content.svg/63px-Ambox_outdated_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ambox_outdated_content.svg/84px-Ambox_outdated_content.svg.png 2x" data-file-width="620" data-file-height="620"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs to be <a href="/wiki/Category:Articles_to_be_updated" title="Category:Articles to be updated">updated</a></b>.<span class="hide-when-compact"> You can help Wikipedia by <a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Brazil&amp;action=edit">updating it</a>.</span> <small class="date-container"><i>(<span class="date">August 2009</span>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           <span style="line-height:1.33em;">Federative Republic of Brazil</span>
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <span style="line-height:1.33em;"><i lang="pt" title="Portuguese language text">República Federativa do Brasil</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>)</span></span>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Brazil.svg" class="image" title="Flag of Brazil"><img alt="Flag of Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png" decoding="async" width="125" height="88" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/188px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png 2x" data-file-width="1060" data-file-height="742"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Brazil" title="Flag of Brazil">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Brazil.svg" class="image" title="Coat of arms of Brazil"><img alt="Queen Bee Angela" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png" decoding="async" width="85" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/128px-Coat_of_arms_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/170px-Coat_of_arms_of_Brazil.svg.png 2x" data-file-width="395" data-file-height="396"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b><i>"<i lang="pt" title="Portuguese language text">Ordem e Progresso</i>"</i>
+           <br><small><span class="languageicon">(in Portuguese)</span><br>"Order and Progress"</small>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><a href="/wiki/Brazilian_National_Anthem" title="Brazilian National Anthem">Hino Nacional Brasileiro</a>
+           <br><small><span class="languageicon">(in Portuguese)</span><br>"Brazilian National Anthem"</small>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b><a href="/wiki/Seal_(emblem)" class="mw-redirect" title="Seal (emblem)">National seal</a></b>
+           <br><a href="/w/index.php?title=National_Seal_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="National Seal of Brazil (not yet started)">Selo Nacional do Brasil</a> <a href="/wiki/File:National_Seal_of_Brazil_(color).svg" class="image"><img alt="National Seal of Brazil (color).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/National_Seal_of_Brazil_%28color%29.svg/150px-National_Seal_of_Brazil_%28color%29.svg.png" decoding="async" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/National_Seal_of_Brazil_%28color%29.svg/225px-National_Seal_of_Brazil_%28color%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/National_Seal_of_Brazil_%28color%29.svg/300px-National_Seal_of_Brazil_%28color%29.svg.png 2x" data-file-width="570" data-file-height="570"></a>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Brazil_(orthographic_projection).svg" class="image"><img alt="Brazil (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/250px-Brazil_%28orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/375px-Brazil_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/500px-Brazil_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital</th>
+         <td><a href="/wiki/Bras%C3%ADlia" title="Brasília">Brasília</a><br><span style="font-size:85%;"><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Brazil&amp;params=15_47_S_47_52_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">15°47′S</span> <span class="longitude">47°52′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">15.783°S 47.867°W</span><span style="display:none">﻿ / <span class="geo">-15.783; -47.867</span></span></span></a></span></span></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">Largest city</th>
+         <td><a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">Official language <br> and</span> <a href="/wiki/National_language" title="National language">national language</a></th>
+         <td><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2010<sup id="cite_ref-raca2010_1-0" class="reference"><a href="#cite_note-raca2010-1">[1]</a></sup>)
+          </div></th>
+         <td>47.73% <a href="/w/index.php?title=White_Brazilian&amp;action=edit&amp;redlink=1" class="new" title="White Brazilian (not yet started)">White</a><br>43.13% <a href="/w/index.php?title=Pardo&amp;action=edit&amp;redlink=1" class="new" title="Pardo (not yet started)">Brown</a> (<a href="/wiki/Multiracial#Brazil" class="mw-redirect" title="Multiracial">Multiracial</a>)<br>7.61% <a href="/w/index.php?title=Black_Brazilian&amp;action=edit&amp;redlink=1" class="new" title="Black Brazilian (not yet started)">Black</a><br>1.09% <a href="/w/index.php?title=Asian_Brazilian&amp;action=edit&amp;redlink=1" class="new" title="Asian Brazilian (not yet started)">Asian</a><br>0.43% <a href="/wiki/Indigenous_peoples_in_Brazil" title="Indigenous peoples in Brazil">Amerindian</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td><a href="/wiki/Brazilian_people" class="mw-redirect" title="Brazilian people">Brazilian</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Federalism" title="Federalism">Federal</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Constitutional_republic" title="Constitutional republic">constitutional republic</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_Brazil" title="President of Brazil">President</a> 
+          </div></th>
+         <td><a href="/wiki/Jair_Bolsonaro" title="Jair Bolsonaro">Jair Bolsonaro</a> (<a href="/wiki/Social_Liberal_Party_(Brazil)" title="Social Liberal Party (Brazil)">PSL</a>)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Vice-President_of_Brazil" class="mw-redirect" title="Vice-President of Brazil">Vice President</a> 
+          </div></th>
+         <td><a href="/wiki/Hamilton_Mour%C3%A3o" title="Hamilton Mourão">Hamilton Mourão</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/List_of_Presidents_of_the_Chamber_of_Deputies_of_Brazil" class="mw-redirect" title="List of Presidents of the Chamber of Deputies of Brazil">President of the Chamber of Deputies</a> 
+          </div></th>
+         <td><a href="/wiki/Rodrigo_Maia" title="Rodrigo Maia">Rodrigo Maia</a> (<a href="/wiki/Democrats_(Brazil)" title="Democrats (Brazil)">DEM</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_the_Senate_of_Brazil" class="mw-redirect" title="President of the Senate of Brazil">President of the Senate</a> 
+          </div></th>
+         <td><a href="/wiki/Davi_Alcolumbre" title="Davi Alcolumbre">Davi Alcolumbre</a> (<a href="/wiki/Democrats_(Brazil)" title="Democrats (Brazil)">DEM</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Supreme_Federal_Court_(Brazil)#Chief_Justice" class="mw-redirect" title="Supreme Federal Court (Brazil)">Chief Justice</a> 
+          </div></th>
+         <td><a href="/wiki/Dias_Toffoli" title="Dias Toffoli">Dias Toffoli</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/wiki/National_Congress_of_Brazil" title="National Congress of Brazil">National Congress</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Upper_house" title="Upper house">Upper house</a>
+          </div></th>
+         <td><a href="/wiki/Senate_of_Brazil" class="mw-redirect" title="Senate of Brazil">Federal Senate</a></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Lower_house" title="Lower house">Lower house</a>
+          </div></th>
+         <td><a href="/w/index.php?title=Chamber_of_Deputies_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Chamber of Deputies of Brazil (not yet started)">Chamber of Deputies</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=Brazilian_Declaration_of_Independence&amp;action=edit&amp;redlink=1" class="new" title="Brazilian Declaration of Independence (not yet started)">Independence</a>&nbsp;
+          <div style="font-weight:normal;display:inline;">
+           from <a href="/wiki/Portugal" title="Portugal">Portugal</a>
+          </div></th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Empire_of_Brazil" title="Empire of Brazil">Declared</a> 
+          </div></th>
+         <td>7 September 1822</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Empire_of_Brazil" title="Empire of Brazil">Recognized</a> 
+          </div></th>
+         <td>29 August 1825</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Rep%C3%BAblica_Velha&amp;action=edit&amp;redlink=1" class="new" title="República Velha (not yet started)">Republic</a> 
+          </div></th>
+         <td>15 November 1889</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Constitution_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Constitution of Brazil (not yet started)">Current constitution</a> 
+          </div></th>
+         <td>5 October 1988</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>8,514,877&nbsp;km<sup>2</sup> (3,287,612&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">5th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>0.65</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2016&nbsp;census
+          </div></th>
+         <td>205,823,665 <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">5th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>23.6/km<sup>2</sup> (61.1/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">182nd</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2016&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$3.081 trillion<sup id="cite_ref-imf_4-0" class="reference"><a href="#cite_note-imf-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$14,800<sup id="cite_ref-imf_4-1" class="reference"><a href="#cite_note-imf-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2016&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$1.77 trillion<sup id="cite_ref-imf_4-2" class="reference"><a href="#cite_note-imf-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$10,826<sup id="cite_ref-tradingeconomics_5-0" class="reference"><a href="#cite_note-tradingeconomics-5">[5]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2014)</span></th>
+         <td>51.5<sup id="cite_ref-2010censusgini_6-0" class="reference"><a href="#cite_note-2010censusgini-6">[6]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2015)</span></th>
+         <td>0.754<sup id="cite_ref-HDI15_7-0" class="reference"><a href="#cite_note-HDI15-7">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">79th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Brazilian_real&amp;action=edit&amp;redlink=1" class="new" title="Brazilian real (not yet started)">Real</a> (R$) ([[ISO 4217|<a href="/w/index.php?title=BRL&amp;action=edit&amp;redlink=1" class="new" title="BRL (not yet started)">BRL</a>]])</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a><a href="/w/index.php?title=UTC%E2%88%9202&amp;action=edit&amp;redlink=1" class="new" title="UTC−02 (not yet started)">-2</a> to <a href="/w/index.php?title=UTC%E2%88%9205&amp;action=edit&amp;redlink=1" class="new" title="UTC−05 (not yet started)">-5</a><sup id="cite_ref-timezones_8-0" class="reference"><a href="#cite_note-timezones-8">[8]</a></sup></span> (<a href="/w/index.php?title=Time_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Time in Brazil (not yet started)">BRT</a><sup id="cite_ref-timezones_8-1" class="reference"><a href="#cite_note-timezones-8">[8]</a></sup>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a><a href="/w/index.php?title=UTC%E2%88%9202&amp;action=edit&amp;redlink=1" class="new" title="UTC−02 (not yet started)">-2</a> to <a href="/w/index.php?title=UTC%E2%88%9205&amp;action=edit&amp;redlink=1" class="new" title="UTC−05 (not yet started)">-5</a></span> (<a href="/w/index.php?title=Time_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Time in Brazil (not yet started)">BRST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Date format</th>
+         <td>dd/mm/yyyy (<a href="/wiki/Common_Era" title="Common Era">CE</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=Telephone_numbers_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in Brazil (not yet started)">+55</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/wiki/ISO_3166-2:BR" title="ISO 3166-2:BR">BR</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.br" class="mw-redirect" title=".br">.br</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Brazilian_National_Congress.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brazilian_National_Congress.jpg/220px-Brazilian_National_Congress.jpg" decoding="async" width="220" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brazilian_National_Congress.jpg/330px-Brazilian_National_Congress.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brazilian_National_Congress.jpg/440px-Brazilian_National_Congress.jpg 2x" data-file-width="2130" data-file-height="1343"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Brazilian_National_Congress.jpg" class="internal" title="Enlarge"></a>
+         </div>Brazilian National Congress
+        </div>
+       </div>
+      </div> 
+      <p><b>Brazil</b> (officially called <b>Federative Republic of Brazil</b>; how to say: <small>IPA:&nbsp;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA" class="mw-redirect" title="Help:IPA">[bɾɐˈziw]</a></span>) is a <a href="/wiki/Country" title="Country">country</a> in <a href="/wiki/South_America" title="South America">South America</a>. It is the <a href="/wiki/Earth" title="Earth">world</a>'s fifth largest country. The country has about 209 million people. The <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> of Brazil is <a href="/wiki/Bras%C3%ADlia" title="Brasília">Brasília</a>. Brazil was named after <a href="/wiki/Brazilwood" title="Brazilwood">brazilwood</a>, which is a tree that once grew very well along the Brazilian coast.<sup id="cite_ref-Fausto1999_9-0" class="reference"><a href="#cite_note-Fausto1999-9">[9]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Languages"><span class="tocnumber">2</span> <span class="toctext">Languages</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Geography"><span class="tocnumber">3</span> <span class="toctext">Geography</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#People/culture"><span class="tocnumber">4</span> <span class="toctext">People/culture</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Related_pages"><span class="tocnumber">5</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Other_websites"><span class="tocnumber">7</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brazil&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Brazil&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-notice" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31"></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section needs <a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Brazil&amp;action=edit">more information</a>.
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>The first people to come to Brazil came around 9,000&nbsp;B.C.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> That group of <a href="/wiki/Indigenous_peoples" title="Indigenous peoples">indigenous people</a> is often called the <a href="/wiki/South_America" title="South America">South American</a> <a href="/wiki/Indigenous_peoples" title="Indigenous peoples">Indians</a> and probably came from <a href="/wiki/North_America" title="North America">North America</a>. They practiced <a href="/wiki/Hunting" title="Hunting">hunting</a>, <a href="/wiki/Foraging" title="Foraging">foraging</a>, and <a href="/wiki/Farming" title="Farming">farming</a>.<sup id="cite_ref-Britannica_11-0" class="reference"><a href="#cite_note-Britannica-11">[11]</a></sup> Over thousands of years, many different indigenous peoples were living there. </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Flag_of_Brazil_(1500).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Brazil_%281500%29.png/220px-Flag_of_Brazil_%281500%29.png" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Brazil_%281500%29.png/330px-Flag_of_Brazil_%281500%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Brazil_%281500%29.png/440px-Flag_of_Brazil_%281500%29.png 2x" data-file-width="600" data-file-height="450"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Flag_of_Brazil_(1500).png" class="internal" title="Enlarge"></a>
+         </div>Flag of Brazil, 1500.
+        </div>
+       </div>
+      </div> 
+      <p><a href="/wiki/Pedro_%C3%81lvares_Cabral" title="Pedro Álvares Cabral">Pedro Álvares Cabral</a> was the first <a href="/wiki/Europe" title="Europe">European</a> to see Brazil. He saw it in 1500. He was from <a href="/wiki/Portugal" title="Portugal">Portugal</a> and the Portuguese <a href="/wiki/Kingdom" title="Kingdom">kingdom</a> claimed Brazil. Soon, Portugal <a href="/wiki/Colonization" title="Colonization">colonized</a> Brazil and created colonies all along the coastline. They began to import <a href="/wiki/Black_people" title="Black people">black</a> <a href="/wiki/Slavery" title="Slavery">slaves</a> from <a href="/wiki/Africa" title="Africa">Africa</a> and force them to work.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Because of the violence of the slave masters, many of these slaves would <a href="/wiki/Maroon_(people)" title="Maroon (people)">run away</a> into the forest and create their own communities called <a href="/w/index.php?title=Quilombos&amp;action=edit&amp;redlink=1" class="new" title="Quilombos (not yet started)">quilombos</a>. </p>
+      <p>In the late 1500s and early 1600s, the Dutch and the French tried to take land in Brazil. Dutch, French, and Portuguese started moving inland further than the <a href="/wiki/Treaty_of_Tordesillas" title="Treaty of Tordesillas">Treaty of Tordesillas</a> said they could. This caused some fights with the Spaniards (people from <a href="/wiki/Spain" title="Spain">Spain</a>) and indigenous peoples in the area.<sup id="cite_ref-Britannica_11-1" class="reference"><a href="#cite_note-Britannica-11">[11]</a></sup> </p>
+      <p>In 1822, Brazil claimed to be its own country and not a part of <a href="/wiki/Portugal" title="Portugal">Portugal</a> anymore. Soon there was <a href="/wiki/Civil_war" title="Civil war">civil war</a>. Meanwhile, the quilombos survived and Brazil was bringing in more slaves than any other country in the Americas, even though many countries were beginning to legally <a href="/wiki/Abolitionism" title="Abolitionism">abolish</a> slavery. This led to an increase in slave revolts, especially in the 1860s and 1880s, which forced the government to change the system in order to keep the country stable.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Slavery was legally abolished in 1888. </p>
+      <p>In 1889, there was a military <a href="/wiki/Coup" class="mw-redirect" title="Coup">coup</a>, and Pedro II had to leave the country.<sup id="cite_ref-Britannica_11-2" class="reference"><a href="#cite_note-Britannica-11">[11]</a></sup> In 1889, Brazil became a <a href="/wiki/Republic" title="Republic">republic</a>. The only people who could vote were people who owned land. There were some uprisings in the 1920s because some people thought the government was unfairly helping coffee growers. Brazil joined the <a href="/wiki/Allies_of_World_War_II" title="Allies of World War II">Allies</a> during <a href="/wiki/World_War_II" title="World War II">World War II</a>.<sup id="cite_ref-Britannica_11-3" class="reference"><a href="#cite_note-Britannica-11">[11]</a></sup> </p>
+      <p>During the 1960s, the <a href="/wiki/Military" title="Military">military</a> leader <a href="/w/index.php?title=Castelo_Branco&amp;action=edit&amp;redlink=1" class="new" title="Castelo Branco (not yet started)">Castelo Branco</a> overthrew the government and created a <a href="/wiki/Dictatorship" title="Dictatorship">dictatorship</a> that was supported by the <a href="/wiki/United_States" title="United States">United States</a>.<sup id="cite_ref-:0_14-0" class="reference"><a href="#cite_note-:0-14">[14]</a></sup> It was very anti-<a href="/wiki/Communist" class="mw-redirect" title="Communist">communist</a> and they <a href="/wiki/Prison" title="Prison">imprisoned</a>, <a href="/wiki/Torture" title="Torture">tortured</a>, or <a href="/wiki/Killing" title="Killing">killed</a> many people on <a href="/wiki/Left-wing" class="mw-redirect" title="Left-wing">the left</a>.<sup id="cite_ref-:0_14-1" class="reference"><a href="#cite_note-:0-14">[14]</a></sup> Since then, the country has become more <a href="/wiki/Democracy" title="Democracy">democratic</a>, but some people feel that there are still big problems in <a href="/wiki/Health" title="Health">health</a>, <a href="/wiki/Education" title="Education">education</a>, <a href="/wiki/Crime" title="Crime">crime</a>, <a href="/wiki/Poverty" title="Poverty">poverty</a> and <a href="/wiki/Discrimination" title="Discrimination">social inequality</a>. </p>
+      <p>In August 2016, then-<a href="/wiki/President" title="President">president</a> <a href="/wiki/Dilma_Rousseff" title="Dilma Rousseff">Dilma Rousseff</a> was removed from office because of <a href="/wiki/Impeachment" title="Impeachment">impeachment</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Languages">Languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brazil&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Languages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Brazil&amp;action=edit&amp;section=2" title="Change section: Languages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Most people in Brazil speak <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>. Brazil is the only country in South America that speaks Portuguese. </p>
+      <p>Some people in Brazil speak <a href="/wiki/German_language" title="German language">German</a> dialects. That came from German immigrants. 2% of Brazilians speak German as their <a href="/wiki/First_language" title="First language">first language</a>. <a href="/wiki/Yiddish" title="Yiddish">Yiddish</a> is spoken by the elders of the <a href="/wiki/Jew" title="Jew">Jewish</a> community. </p>
+      <p>Other people in Brazil speak their ancestors' languages like <a href="/wiki/Italian_language" title="Italian language">Italian</a>, <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>, <a href="/wiki/Polish_language" title="Polish language">Polish</a>, <a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a>, <a href="/wiki/French_language" title="French language">French</a>, <a href="/wiki/Russian_language" title="Russian language">Russian</a>, <a href="/wiki/Lithuanian_language" title="Lithuanian language">Lithuanian</a>, <a href="/wiki/Chinese_language" title="Chinese language">Chinese</a>, <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a> and <a href="/wiki/Korean_language" title="Korean language">Korean</a>. <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> or "Portunhol", a mix of Portuguese and Castilian (Spanish) is spoken at some of the borders. Indigenous languages as <a href="/wiki/Guarani_language" class="mw-redirect" title="Guarani language">Guarani</a> and <a href="/wiki/Aymara_language" title="Aymara language">Aymará</a> are the first languages of a small number of Brazilians. </p> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brazil&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Brazil&amp;action=edit&amp;section=3" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Brazil has the world's largest <a href="/wiki/Rainforest" title="Rainforest">rainforest</a>, the <a href="/wiki/Amazon_Rainforest" class="mw-redirect" title="Amazon Rainforest">Amazon Rainforest</a>. It makes up 40% of the country's land area. Brazil also has other types of land, including a type of <a href="/wiki/Savanna" title="Savanna">savanna</a> called <i>cerrado</i>, and a dry plant region named <i>caatinga</i>. </p>
+      <p>The most important cities are <a href="/wiki/Bras%C3%ADlia" title="Brasília">Brasília</a> (the capital), <a href="/wiki/Bel%C3%A9m_(Brazil)" class="mw-redirect" title="Belém (Brazil)">Belém</a>, <a href="/wiki/Belo_Horizonte" title="Belo Horizonte">Belo Horizonte</a>, <a href="/wiki/Curitiba" title="Curitiba">Curitiba</a>, <a href="/wiki/Florian%C3%B3polis" title="Florianópolis">Florianópolis</a>, <a href="/wiki/Fortaleza_(Brazil)" class="mw-redirect" title="Fortaleza (Brazil)">Fortaleza</a>, <a href="/wiki/Goi%C3%A2nia" title="Goiânia">Goiânia</a>, <a href="/wiki/Manaus" title="Manaus">Manaus</a>, <a href="/wiki/Porto_Alegre" title="Porto Alegre">Porto Alegre</a>, <a href="/wiki/Recife" title="Recife">Recife</a>, <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>, <a href="/wiki/Salvador,_Bahia" title="Salvador, Bahia">Salvador</a>, <a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a> (the biggest city) and <a href="/wiki/Vit%C3%B3ria_(Brazil)" class="mw-redirect" title="Vitória (Brazil)">Vitória</a>. Other cities are at <a href="/wiki/List_of_largest_cities_in_Brazil" class="mw-redirect" title="List of largest cities in Brazil">List of largest cities in Brazil</a>. </p>
+      <p>Brazil is divided into <a href="/wiki/Political_subdivisions_of_Brazil" title="Political subdivisions of Brazil">26 states</a> plus the Federal District in five regions (north, south, northeast, southeast and centre-west): </p> 
+      <ul>
+       <li><b>North</b>: Acre, Amazonas, Rondônia, Roraima, Pará, Amapá, Tocantins</li> 
+       <li><b>Northeast</b>: Maranhão, Pernambuco, Ceará, Piauí, Rio Grande do Norte, Paraíba, Alagoas, Sergipe, Bahia</li> 
+       <li><b>Centre-West</b>: Goiás, Mato grosso, Mato Grosso do Sul, Distrito Federal/ Federal District</li> 
+       <li><b>Southeast</b>: São Paulo, Rio de Janeiro, Espírito Santo, Minas Gerais</li> 
+       <li><b>South</b>: Paraná, Santa Catarina and Rio Grande do Sul</li>
+      </ul> 
+      <p>The country is the fifth largest in the world by area. It is known for its many <a href="/wiki/Rainforest" title="Rainforest">rainforests</a> and <a href="/wiki/Jungle" title="Jungle">jungles</a>. It is next to every country in South America except <a href="/wiki/Chile" title="Chile">Chile</a> and <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a>. The name Brazil comes from a tree named brazilwood. </p> 
+      <h2><span id="People.2Fculture"></span><span class="mw-headline" id="People/culture">People/culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brazil&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: People/culture">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Brazil&amp;action=edit&amp;section=4" title="Change section: People/culture">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Brazil is the largest country in South America and fifth largest in the world.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Its people are called Brazilians or Brasileiros (In Portuguese). The people include citizens of Portuguese or other European descent who mainly live in the South and Southeast, Africans, Native Americans, Arabs, Gypsies and people of Mixed ancestry. Brazil also has the largest Japanese community outside <a href="/wiki/Japan" title="Japan">Japan</a>.<sup id="cite_ref-cnn_17-0" class="reference"><a href="#cite_note-cnn-17">[17]</a></sup> Other East Asians follow the Japanese group.The Amazon River flows through Brazil, it is the 2nd longest river in the world (after the Nile).The current President of Brazil is Jair Messias Bolsonaro. Two major <a href="/wiki/Sport" title="Sport">sporting</a> events were held in Brazil recently: the <a href="/wiki/2014_FIFA_World_Cup" title="2014 FIFA World Cup">2014 FIFA World Cup</a> and the <a href="/wiki/2016_Summer_Olympics" title="2016 Summer Olympics">2016 Summer Olympics</a> in <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>. </p> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brazil&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Brazil&amp;action=edit&amp;section=5" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Civil_Police_(Brazil)" title="Civil Police (Brazil)">Civil Police (Brazil)</a></li> 
+       <li><a href="/wiki/Political_subdivisions_of_Brazil" title="Political subdivisions of Brazil">Political subdivisions of Brazil</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/br.html">CIA World Factbook</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brazil&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Brazil&amp;action=edit&amp;section=6" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-raca2010-1"><span class="mw-cite-backlink"><a href="#cite_ref-raca2010_1-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ibge.gov.br/home/estatistica/populacao/censo2010/caracteristicas_da_populacao/tabelas_pdf/tab3.pdf">Caracteristicas da População e dos Domicílios do Censo Demográfico 2010 — Cor ou raça</a></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-latin-america-37237513">"Brazil President Dilma Rousseff removed from office by Senate"</a>. BBC. 1 September 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">30 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Brazil+President+Dilma+Rousseff+removed+from+office+by+Senate&amp;rft.pub=BBC&amp;rft.date=2016-09-01&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-latin-america-37237513&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/br.html">"The World Factbook"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+World+Factbook&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fbr.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-imf-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf_4-0">4.0</a></sup> <sup><a href="#cite_ref-imf_4-1">4.1</a></sup> <sup><a href="#cite_ref-imf_4-2">4.2</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&amp;ey=2011&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=223&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=25&amp;pr.y=4">"Brazil"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Brazil&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2011%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2008%26ey%3D2011%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D223%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D%26pr.x%3D25%26pr.y%3D4&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-tradingeconomics-5"><span class="mw-cite-backlink"><a href="#cite_ref-tradingeconomics_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://tradingeconomics.com/brazil/indicators">"Brazil - Economic Indicators"</a>. TRADING ECONOMICS<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Brazil+-+Economic+Indicators&amp;rft.pub=TRADING+ECONOMICS&amp;rft_id=https%3A%2F%2Ftradingeconomics.com%2Fbrazil%2Findicators&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-2010censusgini-6"><span class="mw-cite-backlink"><a href="#cite_ref-2010censusgini_6-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ibge.gov.br/home/estatistica/populacao/censo2010/caracteristicas_da_populacao/tabelas_pdf/tab8.pdf">Caracteristicas da População e dos Domicílios do Censo Demográfico 2010 — Rendimento</a></span> </li> 
+         <li id="cite_note-HDI15-7"><span class="mw-cite-backlink"><a href="#cite_ref-HDI15_7-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nationsonline.org/oneworld/human_development.htm">"The Human Development Index 2016"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Human+Development+Index+2016&amp;rft_id=http%3A%2F%2Fwww.nationsonline.org%2Foneworld%2Fhuman_development.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-timezones-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-timezones_8-0">8.0</a></sup> <sup><a href="#cite_ref-timezones_8-1">8.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110722173247/http://pcdsh01.on.br/Fusbr.htm">"Hora Legal Brasileira"</a>. Observatório Nacional. Archived from <a rel="nofollow" class="external text" href="http://pcdsh01.on.br/Fusbr.htm">the original</a> on 2011-07-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hora+Legal+Brasileira&amp;rft.pub=Observat%C3%B3rio+Nacional&amp;rft_id=http%3A%2F%2Fpcdsh01.on.br%2FFusbr.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Fausto1999-9"><span class="mw-cite-backlink"><a href="#cite_ref-Fausto1999_9-0">↑</a></span> <span class="reference-text"><cite id="CITEREFFausto1999" class="citation book cs1">Fausto, Boris (1999). <a rel="nofollow" class="external text" href="https://books.google.com/?id=HJdaM325m8IC&amp;pg=PA9"><i>A Concise History of Brazil</i></a>. Cambridge University Press. p.&nbsp;9. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-521-56526-4" title="Special:BookSources/978-0-521-56526-4"><bdi>978-0-521-56526-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Concise+History+of+Brazil&amp;rft.pages=9&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1999&amp;rft.isbn=978-0-521-56526-4&amp;rft.aulast=Fausto&amp;rft.aufirst=Boris&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DHJdaM325m8IC%26pg%3DPA9&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite id="CITEREFFaganDurrani2015" class="citation book cs1">Fagan, Dr. Brian; Durrani, Nadia (2015). <a rel="nofollow" class="external text" href="https://books.google.com/?id=M8lwCgAAQBAJ&amp;pg=PA157"><i>People of the Earth: An Introduction to World Prehistory</i></a>. Routledge. p.&nbsp;157. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-317-34682-1" title="Special:BookSources/978-1-317-34682-1"><bdi>978-1-317-34682-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=People+of+the+Earth%3A+An+Introduction+to+World+Prehistory&amp;rft.pages=157&amp;rft.pub=Routledge&amp;rft.date=2015&amp;rft.isbn=978-1-317-34682-1&amp;rft.aulast=Fagan&amp;rft.aufirst=Dr.+Brian&amp;rft.au=Durrani%2C+Nadia&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DM8lwCgAAQBAJ%26pg%3DPA157&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Britannica-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Britannica_11-0">11.0</a></sup> <sup><a href="#cite_ref-Britannica_11-1">11.1</a></sup> <sup><a href="#cite_ref-Britannica_11-2">11.2</a></sup> <sup><a href="#cite_ref-Britannica_11-3">11.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://school.eb.com/levels/high/article/106094">"Brazil"</a>. <i>Britannica School</i>. Encyclopaedia Britannica<span class="reference-accessdate">. Retrieved <span class="nowrap">30 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Britannica+School&amp;rft.atitle=Brazil&amp;rft_id=http%3A%2F%2Fschool.eb.com%2Flevels%2Fhigh%2Farticle%2F106094&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite id="CITEREFKleinLuna2010" class="citation book cs1">Klein, Herbert S.; Luna, Francisco Vidal (2010). <a rel="nofollow" class="external text" href="https://books.google.com/books/about/Slavery_in_Brazil.html?id=4hMOMtW2R68C&amp;source=kp_book_description"><i>Slavery in Brazil</i></a>. Cambridge University Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-521-19398-6" title="Special:BookSources/978-0-521-19398-6"><bdi>978-0-521-19398-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Slavery+in+Brazil&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2010&amp;rft.isbn=978-0-521-19398-6&amp;rft.aulast=Klein&amp;rft.aufirst=Herbert+S.&amp;rft.au=Luna%2C+Francisco+Vidal&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FSlavery_in_Brazil.html%3Fid%3D4hMOMtW2R68C%26source%3Dkp_book_description&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://slaveryanditslegacies.yale.edu/news/isadora-moura-mota-slavery-and-anglo-american-abolitionism-age-emancipation">"Isadora Moura Mota on Slavery and Anglo-American Abolitionism in the Age of Emancipation"</a>. <i>Slavery and Its Legacies</i>. <a href="/wiki/Yale_University" title="Yale University">Yale University</a>. 2020-02-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-11-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Slavery+and+Its+Legacies&amp;rft.atitle=Isadora+Moura+Mota+on+Slavery+and+Anglo-American+Abolitionism+in+the+Age+of+Emancipation&amp;rft.date=2020-02-10&amp;rft_id=https%3A%2F%2Fslaveryanditslegacies.yale.edu%2Fnews%2Fisadora-moura-mota-slavery-and-anglo-american-abolitionism-age-emancipation&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-:0-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-:0_14-0">14.0</a></sup> <sup><a href="#cite_ref-:0_14-1">14.1</a></sup></span> <span class="reference-text"><cite id="CITEREFNapolitano2018" class="citation web cs1">Napolitano, Marcos (2018-04-26). <a rel="nofollow" class="external text" href="https://oxfordre.com/latinamericanhistory/view/10.1093/acrefore/9780199366439.001.0001/acrefore-9780199366439-e-413">"The Brazilian Military Regime, 1964–1985"</a>. <i>Oxford Research Encyclopedia of Latin American History</i>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1093%2Facrefore%2F9780199366439.001.0001%2Facrefore-9780199366439-e-413">10.1093/acrefore/9780199366439.001.0001/acrefore-9780199366439-e-413</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-11-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Oxford+Research+Encyclopedia+of+Latin+American+History&amp;rft.atitle=The+Brazilian+Military+Regime%2C+1964%E2%80%931985&amp;rft.date=2018-04-26&amp;rft_id=info%3Adoi%2F10.1093%2Facrefore%2F9780199366439.001.0001%2Facrefore-9780199366439-e-413&amp;rft.aulast=Napolitano&amp;rft.aufirst=Marcos&amp;rft_id=https%3A%2F%2Foxfordre.com%2Flatinamericanhistory%2Fview%2F10.1093%2Facrefore%2F9780199366439.001.0001%2Facrefore-9780199366439-e-413&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><cite class="citation web cs1">Catherine E. Shoichet and Euan McKirdy (September 1, 2016). <a rel="nofollow" class="external text" href="http://www.cnn.com/2016/08/31/americas/brazil-rousseff-impeachment-vote/index.html">"Brazil's Senate ousts Rousseff in impeachment vote"</a>. <i>CNN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 16,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN&amp;rft.atitle=Brazil%27s+Senate+ousts+Rousseff+in+impeachment+vote&amp;rft.date=2016-09-01&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2016%2F08%2F31%2Famericas%2Fbrazil-rousseff-impeachment-vote%2Findex.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: uses authors parameter (<a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.geohive.com/earth/area_top50.aspx">"The 50 largest (area) countries in the world"</a>. GeoHive<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+50+largest+%28area%29+countries+in+the+world&amp;rft.pub=GeoHive&amp;rft_id=http%3A%2F%2Fwww.geohive.com%2Fearth%2Farea_top50.aspx&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-cnn-17"><span class="mw-cite-backlink"><a href="#cite_ref-cnn_17-0">↑</a></span> <span class="reference-text"><cite id="CITEREFVeselinovic2013" class="citation news cs1">Veselinovic, Milena (July 24, 2013). <a rel="nofollow" class="external text" href="http://www.cnn.com/2013/06/11/world/brazil-japanese-community/">"Mixing sushi and samba - meet the Japanese Brazilians"</a>. CNN<span class="reference-accessdate">. Retrieved <span class="nowrap">10 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mixing+sushi+and+samba+-+meet+the+Japanese+Brazilians&amp;rft.date=2013-07-24&amp;rft.aulast=Veselinovic&amp;rft.aufirst=Milena&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2013%2F06%2F11%2Fworld%2Fbrazil-japanese-community%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABrazil" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brazil&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Brazil&amp;action=edit&amp;section=7" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> Media related to <a href="https://commons.wikimedia.org/wiki/Special:Search/Brazil" class="extiw" title="commons:Special:Search/Brazil">Brazil</a> at Wikimedia Commons</li> 
+       <li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></a> <a href="https://simple.wikivoyage.org/wiki/Brazil" class="extiw" title="voy:Brazil">Brazil</a> travel guide from Wikivoyage</li>
+      </ul> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Rio_de_Janiero_banner_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rio_de_Janiero_banner_1.jpg/220px-Rio_de_Janiero_banner_1.jpg" decoding="async" width="220" height="31" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rio_de_Janiero_banner_1.jpg/330px-Rio_de_Janiero_banner_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rio_de_Janiero_banner_1.jpg/440px-Rio_de_Janiero_banner_1.jpg 2x" data-file-width="2100" data-file-height="300"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Rio_de_Janiero_banner_1.jpg" class="internal" title="Enlarge"></a>
+         </div>Rio de Janeiro.
+        </div>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_South_America" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <div id="Countries_and_territories_of_South_America" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/South_America" title="South America">South America</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Independent</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Argentina" title="Argentina">Argentina</a>&nbsp;<b>·</b> <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Brazil</a>&nbsp;<b>·</b> <a href="/wiki/Chile" title="Chile">Chile</a>&nbsp;<b>·</b> <a href="/wiki/Colombia" title="Colombia">Colombia</a>&nbsp;<b>·</b> <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a>&nbsp;<b>·</b> <a href="/wiki/Guyana" title="Guyana">Guyana</a>&nbsp;<b>·</b> <a href="/wiki/Paraguay" title="Paraguay">Paraguay</a>&nbsp;<b>·</b> <a href="/wiki/Peru" title="Peru">Peru</a>&nbsp;<b>·</b> <a href="/wiki/Suriname" title="Suriname">Suriname</a>&nbsp;<b>·</b> <a href="/wiki/Uruguay" title="Uruguay">Uruguay</a>&nbsp;<b>·</b> <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Governed by other countries</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a>&nbsp;<b>·</b> <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a>&nbsp;<b>·</b> <a href="/wiki/South_Georgia_and_the_South_Sandwich_Islands" title="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Brazil" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/w/index.php?title=Template:Brazil&amp;action=edit&amp;redlink=1" class="new" title="Template:Brazil (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Brazil&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Brazil (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Brazil&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Brazil" style="font-size:114%;margin:0 4em">
+            <a class="mw-selflink selflink">Brazil</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">History</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Timeline_of_Brazilian_history&amp;action=edit&amp;redlink=1" class="new" title="Timeline of Brazilian history (not yet started)">Timeline of Brazilian history</a></li> 
+             <li><a href="/wiki/Indigenous_peoples_in_Brazil" title="Indigenous peoples in Brazil">Indigenous peoples</a></li> 
+             <li><a href="/w/index.php?title=Colonial_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Colonial Brazil (not yet started)">Portuguese Colony (1500–1815)</a></li> 
+             <li><a href="/w/index.php?title=United_Kingdom_of_Portugal,_Brazil_and_the_Algarves&amp;action=edit&amp;redlink=1" class="new" title="United Kingdom of Portugal, Brazil and the Algarves (not yet started)">United Kingdom (1815–1822)</a></li> 
+             <li><a href="/wiki/Empire_of_Brazil" title="Empire of Brazil">Empire (1822–1889)</a></li> 
+             <li><a href="/w/index.php?title=First_Brazilian_Republic&amp;action=edit&amp;redlink=1" class="new" title="First Brazilian Republic (not yet started)">Old Republic (1889–1930)</a></li> 
+             <li><a href="/w/index.php?title=Vargas_Era&amp;action=edit&amp;redlink=1" class="new" title="Vargas Era (not yet started)">Vargas Era (1930–1946)</a></li> 
+             <li><a href="/w/index.php?title=Second_Brazilian_Republic&amp;action=edit&amp;redlink=1" class="new" title="Second Brazilian Republic (not yet started)">Second Republic (1946–1964)</a></li> 
+             <li><a href="/w/index.php?title=Brazilian_military_government&amp;action=edit&amp;redlink=1" class="new" title="Brazilian military government (not yet started)">Military rule (1964–1985)</a></li> 
+             <li><a href="/w/index.php?title=History_of_Brazil_since_1985&amp;action=edit&amp;redlink=1" class="new" title="History of Brazil since 1985 (not yet started)">New Republic (post 1985)</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Geography</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Amazon_Basin" title="Amazon Basin">Amazon Basin</a></li> 
+             <li><a href="/w/index.php?title=Climate_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Climate of Brazil (not yet started)">Climate</a></li> 
+             <li><a href="/w/index.php?title=Coastline_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Coastline of Brazil (not yet started)">Coastline</a></li> 
+             <li><a href="/w/index.php?title=Conservation_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Conservation in Brazil (not yet started)">Conservation</a></li> 
+             <li><a href="/w/index.php?title=Environment_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Environment of Brazil (not yet started)">Environment</a></li> 
+             <li><a href="/w/index.php?title=Environmental_issues_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Environmental issues in Brazil (not yet started)">Environmental issues</a></li> 
+             <li><a href="/w/index.php?title=List_of_extreme_points_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="List of extreme points of Brazil (not yet started)">Extreme points</a></li> 
+             <li><a href="/w/index.php?title=List_of_islands_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="List of islands of Brazil (not yet started)">Islands</a></li> 
+             <li><a href="/wiki/List_of_cities_in_Brazil" title="List of cities in Brazil">Largest cities</a></li> 
+             <li><a href="/w/index.php?title=List_of_mountains_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="List of mountains in Brazil (not yet started)">Mountains</a></li> 
+             <li><a href="/wiki/Pantanal" title="Pantanal">Pantanal</a></li> 
+             <li><a href="/w/index.php?title=Protected_areas_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Protected areas of Brazil (not yet started)">Protected areas</a></li> 
+             <li><a href="/wiki/Regions_of_Brazil" title="Regions of Brazil">Regions</a></li> 
+             <li><a href="/wiki/List_of_rivers_of_Brazil" title="List of rivers of Brazil">Rivers</a></li> 
+             <li><a href="/w/index.php?title=Water_resources_management_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Water resources management in Brazil (not yet started)">Water resources</a></li> 
+             <li><a href="/w/index.php?title=Wildlife_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Wildlife of Brazil (not yet started)">Wildlife</a></li> 
+             <li><a href="/w/index.php?title=List_of_World_Heritage_Sites_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="List of World Heritage Sites in Brazil (not yet started)">World Heritage Sites</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Politics</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Administrative_divisions_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Brazil (not yet started)">Administrative divisions</a></li> 
+             <li><a href="/w/index.php?title=Constitution_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Constitution of Brazil (not yet started)">Constitution</a></li> 
+             <li><a href="/w/index.php?title=Elections_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Elections in Brazil (not yet started)">Elections</a></li> 
+             <li><a href="/w/index.php?title=Foreign_relations_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Foreign relations of Brazil (not yet started)">Foreign relations</a></li> 
+             <li><a href="/w/index.php?title=Federal_government_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Federal government of Brazil (not yet started)">Government</a></li> 
+             <li><a href="/w/index.php?title=Human_rights_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Human rights in Brazil (not yet started)">Human rights</a></li> 
+             <li><a href="/w/index.php?title=Judiciary_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Judiciary of Brazil (not yet started)">Legal system</a></li> 
+             <li><a href="/w/index.php?title=Law_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Law of Brazil (not yet started)">Law</a></li> 
+             <li><a href="/w/index.php?title=Law_enforcement_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Law enforcement in Brazil (not yet started)">Law enforcement</a></li> 
+             <li><a href="/w/index.php?title=Brazilian_Armed_Forces&amp;action=edit&amp;redlink=1" class="new" title="Brazilian Armed Forces (not yet started)">Military</a></li> 
+             <li><a href="/wiki/National_Congress_of_Brazil" title="National Congress of Brazil">National Congress</a> (<a href="/w/index.php?title=Chamber_of_Deputies_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Chamber of Deputies of Brazil (not yet started)">Chamber of Deputies</a> and <a href="/wiki/Senate_of_Brazil" class="mw-redirect" title="Senate of Brazil">Federal Senate</a>)</li> 
+             <li><a href="/w/index.php?title=List_of_political_parties_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="List of political parties in Brazil (not yet started)">Political parties</a></li> 
+             <li><a href="/wiki/President_of_Brazil" title="President of Brazil">President of the Republic</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Economy</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Agriculture_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Agriculture in Brazil (not yet started)">Agriculture</a></li> 
+             <li><a href="/w/index.php?title=Automotive_industry_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Automotive industry in Brazil (not yet started)">Car industry</a></li> 
+             <li><a href="/w/index.php?title=Central_Bank_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Central Bank of Brazil (not yet started)">Central Bank</a></li> 
+             <li><a href="/w/index.php?title=Economic_history_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Economic history of Brazil (not yet started)">Economic history</a></li> 
+             <li><a href="/w/index.php?title=Energy_policy_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Energy policy of Brazil (not yet started)">Energy</a></li> 
+             <li><a href="/w/index.php?title=List_of_exports_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="List of exports of Brazil (not yet started)">Exports</a></li> 
+             <li><a href="/w/index.php?title=Industry_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Industry in Brazil (not yet started)">Industry</a></li> 
+             <li><a href="/w/index.php?title=Mining_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Mining in Brazil (not yet started)">Mining</a></li> 
+             <li><a href="/w/index.php?title=Brazilian_real&amp;action=edit&amp;redlink=1" class="new" title="Brazilian real (not yet started)">Real <span style="font-size:85%;">(currency)</span></a></li> 
+             <li><a href="/w/index.php?title=Science_and_technology_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Science and technology in Brazil (not yet started)">Science and technology</a></li> 
+             <li><a href="/w/index.php?title=%C3%8Dndice_Bovespa&amp;action=edit&amp;redlink=1" class="new" title="Índice Bovespa (not yet started)">Stock index</a></li> 
+             <li><a href="/w/index.php?title=Telecommunications_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Telecommunications in Brazil (not yet started)">Telecommunications</a></li> 
+             <li><a href="/w/index.php?title=Tourism_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Tourism in Brazil (not yet started)">Tourism</a></li> 
+             <li><a href="/w/index.php?title=Transport_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Transport in Brazil (not yet started)">Transport</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Society</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Corruption_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Corruption in Brazil (not yet started)">Corruption</a></li> 
+             <li><a href="/wiki/Crime_in_Brazil" title="Crime in Brazil">Crime</a></li> 
+             <li><a href="/w/index.php?title=Demographics_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Demographics of Brazil (not yet started)">Demographics</a></li> 
+             <li><a href="/w/index.php?title=Education_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Education in Brazil (not yet started)">Education</a></li> 
+             <li><a href="/w/index.php?title=Health_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Health in Brazil (not yet started)">Health</a> 
+              <ul>
+               <li><a href="/w/index.php?title=Healthcare_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Healthcare in Brazil (not yet started)">Healthcare</a></li>
+              </ul></li> 
+             <li><a href="/w/index.php?title=Immigration_to_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Immigration to Brazil (not yet started)">Immigration</a></li> 
+             <li><a href="/w/index.php?title=Income_inequality_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Income inequality in Brazil (not yet started)">Income inequality</a></li> 
+             <li><a href="/w/index.php?title=Languages_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Languages of Brazil (not yet started)">Languages</a></li> 
+             <li><a href="/wiki/Brazilians" class="mw-redirect" title="Brazilians">People</a></li> 
+             <li><a href="/w/index.php?title=Religion_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Religion in Brazil (not yet started)">Religion</a></li> 
+             <li><a href="/w/index.php?title=Social_issues_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Social issues in Brazil (not yet started)">Social issues</a></li> 
+             <li><a href="/w/index.php?title=List_of_Brazilian_federative_units_by_Human_Development_Index&amp;action=edit&amp;redlink=1" class="new" title="List of Brazilian federative units by Human Development Index (not yet started)">States by HDI</a></li> 
+             <li><a href="/w/index.php?title=Unemployment_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Unemployment in Brazil (not yet started)">Unemployment</a></li> 
+             <li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Brazil (not yet started)">Water supply and sanitation</a></li> 
+             <li><a href="/w/index.php?title=Bolsa_Fam%C3%ADlia&amp;action=edit&amp;redlink=1" class="new" title="Bolsa Família (not yet started)">Welfare</a></li> 
+             <li><a href="/w/index.php?title=Youth_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Youth in Brazil (not yet started)">Youth</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Culture</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Brazilian_art&amp;action=edit&amp;redlink=1" class="new" title="Brazilian art (not yet started)">Arts</a></li> 
+             <li><a href="/w/index.php?title=History_of_Brazilian_animation&amp;action=edit&amp;redlink=1" class="new" title="History of Brazilian animation (not yet started)">Animation</a></li> 
+             <li><i><a href="/w/index.php?title=Brazilian_Carnival&amp;action=edit&amp;redlink=1" class="new" title="Brazilian Carnival (not yet started)">Carnaval</a></i></li> 
+             <li><a href="/w/index.php?title=Cinema_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Cinema of Brazil (not yet started)">Cinema</a></li> 
+             <li><a href="/w/index.php?title=Brazilian_comics&amp;action=edit&amp;redlink=1" class="new" title="Brazilian comics (not yet started)">Comics</a></li> 
+             <li><a href="/w/index.php?title=Brazilian_cuisine&amp;action=edit&amp;redlink=1" class="new" title="Brazilian cuisine (not yet started)">Cuisine</a></li> 
+             <li><a href="/w/index.php?title=Brazilian_literature&amp;action=edit&amp;redlink=1" class="new" title="Brazilian literature (not yet started)">Literature</a></li> 
+             <li><i><a href="/w/index.php?title=Malandragem&amp;action=edit&amp;redlink=1" class="new" title="Malandragem (not yet started)">Malandragem</a></i></li> 
+             <li><a href="/w/index.php?title=Music_of_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Music of Brazil (not yet started)">Music</a></li> 
+             <li><a href="/w/index.php?title=List_of_newspapers_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="List of newspapers in Brazil (not yet started)">Newspapers</a></li> 
+             <li><a href="/w/index.php?title=Brazilian_painting&amp;action=edit&amp;redlink=1" class="new" title="Brazilian painting (not yet started)">Painting</a></li> 
+             <li><a href="/w/index.php?title=Public_holidays_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Brazil (not yet started)">Public holidays</a></li> 
+             <li><a href="/w/index.php?title=Brazilian_sculpture&amp;action=edit&amp;redlink=1" class="new" title="Brazilian sculpture (not yet started)">Sculpture</a></li> 
+             <li><a href="/w/index.php?title=Brazilian_science_fiction&amp;action=edit&amp;redlink=1" class="new" title="Brazilian science fiction (not yet started)">Science fiction</a></li> 
+             <li><a href="/w/index.php?title=Sport_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Sport in Brazil (not yet started)">Sports</a></li> 
+             <li><a href="/w/index.php?title=Television_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Television in Brazil (not yet started)">Television</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20201219084909
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.072 seconds
+Real time usage: 1.271 seconds
+Preprocessor visited node count: 4610/1000000
+Post‐expand include size: 112639/2097152 bytes
+Template argument size: 12985/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 50723/5000000 bytes
+Lua time usage: 0.713/10.000 seconds
+Lua memory usage: 30190580/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1139.697      1 -total
+ 65.95%  751.686      1 Template:Infobox_country
+ 64.04%  729.808      3 Template:Infobox
+ 25.88%  294.949      3 Template:ISO_3166_code
+ 19.94%  227.302      1 Template:Reflist
+ 14.65%  167.004      1 Template:Native_name
+ 14.65%  166.970     11 Template:Cite_web
+ 14.20%  161.796      2 Template:Lang
+  3.86%   43.939      1 Template:About
+  3.69%   42.074      2 Template:Convinfobox
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:104-0!canonical and timestamp 20201219084908 and revision id 7213840. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Brazil&amp;oldid=7213840">https://simple.wikipedia.org/w/index.php?title=Brazil&amp;oldid=7213840</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Brazil" title="Category:Brazil">Brazil</a></li>
+       <li><a href="/wiki/Category:Portuguese-speaking_countries" title="Category:Portuguese-speaking countries">Portuguese-speaking countries</a></li>
+       <li><a href="/wiki/Category:1825_establishments_in_South_America" title="Category:1825 establishments in South America">1825 establishments in South America</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">CS1 maint: uses authors parameter</a></li>
+       <li><a href="/wiki/Category:Articles_to_be_updated" title="Category:Articles to be updated">Articles to be updated</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Portuguese-language_text" title="Category:Articles containing Portuguese-language text">Articles containing Portuguese-language text</a></li>
+       <li><a href="/wiki/Category:Articles_with_Portuguese-language_sources_(pt)" title="Category:Articles with Portuguese-language sources (pt)">Articles with Portuguese-language sources (pt)</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
+       <li><a href="/wiki/Category:Articles_to_be_expanded" title="Category:Articles to be expanded">Articles to be expanded</a></li>
+       <li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li>
+       <li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Brazil" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brazil" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Brazil" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Brazil" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Brazil">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Brazil&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Brazil&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Brazil&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brazil" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brazil" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Brazil&amp;oldid=7213840" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Brazil&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Brazil&amp;id=7213840&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q155" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brazil">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Brazil&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Brazil&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Brazil" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Brasil" title="Brasil – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D1%8D" title="Бразилэ – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%B5" title="Бразилие – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://af.wikipedia.org/wiki/Brasili%C3%AB" title="Brasilië – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Brazil" title="Brazil – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Brasilien" title="Brasilien – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%89%A5%E1%88%AB%E1%8B%9A%E1%88%8D" title="ብራዚል – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Brasilia" title="Brasilia – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Brasil" title="Brasil – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84" title="البرازيل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Brasil" title="Brasil – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%92%DC%AA%DC%90%DC%99%DC%9D%DC%A0" title="ܒܪܐܙܝܠ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D5%8A%D6%80%D5%A1%D5%A6%D5%AB%D5%AC" title="Պրազիլ – Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Br%C3%A8sil" title="Brèsil – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A7%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B2" title="ব্ৰাজিল – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Brasil" title="Brasil – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Pindor%C3%A1ma" title="Pindoráma – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Wrasil" title="Wrasil – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Braziliya" title="Braziliya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A8%D8%B1%D8%B2%DB%8C%D9%84" title="برزیل – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Brasil" title="Brasil – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Brazil" title="Brazil – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B2" title="ব্রাজিল – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Pa-se" title="Pa-se – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Brasil" title="Brasil – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D1%96%D0%BB%D1%96%D1%8F" title="Бразілія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D1%8B%D0%BB%D1%96%D1%8F" title="Бразылія – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BC%E0%A5%80%E0%A4%B2" title="ब्राज़ील – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Brasil" title="Brasil – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Brazil" title="Brazil – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://bg.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Brasilien" title="Brasilien – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%94%E0%BD%B4%E0%BC%8B%E0%BD%A2%E0%BD%B4%E0%BC%8B%E0%BD%9F%E0%BD%B2%E0%BD%A3%E0%BC%8D" title="པུ་རུ་ཟིལ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Brazil" title="Brazil – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Brazil" title="Brazil – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB" title="Бразил – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Brasil" title="Brasil – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8" title="Бразили – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Brasil" title="Brasil – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Braz%C3%ADlie" title="Brazílie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-ch"><a href="https://ch.wikipedia.org/wiki/Brazil" title="Brazil – Chamorro" lang="ch" hreflang="ch" class="interlanguage-link-target">Chamoru</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Brasil" title="Brasil – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Brazil" title="Brazil – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-tum"><a href="https://tum.wikipedia.org/wiki/Brazil" title="Brazil – Tumbuka" lang="tum" hreflang="tum" class="interlanguage-link-target">ChiTumbuka</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Brasile" title="Brasile – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Brasil" title="Brasil – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://da.wikipedia.org/wiki/Brasilien" title="Brasilien – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D9%84%D8%A8%D8%B1%D9%8A%D8%B2%D9%8A%D9%84" title="لبريزيل – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Brasilia" title="Brasilia – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-pdc"><a href="https://pdc.wikipedia.org/wiki/Brasilien" title="Brasilien – Pennsylvania German" lang="pdc" hreflang="pdc" class="interlanguage-link-target">Deitsch</a></li>
+       <li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://de.wikipedia.org/wiki/Brasilien" title="Brasilien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%84%DE%AA%DE%83%DE%AC%DE%92%DE%A8%DE%8D%DE%B0" title="ބުރެޒިލް – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/Kintaa%CA%BCan%C3%A9h%C3%A9_Dine%CA%BC%C3%A9_Bik%C3%A9yah" title="Kintaaʼanéhé Dineʼé Bikéyah – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Brazilska" title="Brazilska – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%B2" title="ब्राजिल – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-dz"><a href="https://dz.wikipedia.org/wiki/%E0%BD%96%E0%BD%B1%E0%BD%A2%E0%BD%B1%E0%BC%8B%E0%BD%9B%E0%BD%B2%E0%BD%A3%E0%BC%8B" title="བཱརཱ་ཛིལ་ – Dzongkha" lang="dz" hreflang="dz" class="interlanguage-link-target">ཇོང་ཁ</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Brasiilia" title="Brasiilia – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1" title="Βραζιλία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/Bra%E1%B9%A1il" title="Braṡil – Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Brazil" title="Brazil – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Бразилия Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://es.wikipedia.org/wiki/Brasil" title="Brasil – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Brazilo" title="Brazilo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Brasil" title="Brasil – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Brasil" title="Brasil – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Brazil" title="Brazil – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%B2%DB%8C%D9%84" title="برزیل – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Brazil" title="Brazil – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Brasil" title="Brasil – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Br%C3%A9sil" title="Brésil – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Brazylje" title="Brazylje – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Barazil" title="Barazil – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Bras%C3%AEl" title="Brasîl – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_Bhrasa%C3%ADl" title="An Bhrasaíl – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Vrasseel" title="Yn Vrasseel – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Braziliya" title="Braziliya – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Braisil" title="Braisil – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Brasil" title="Brasil – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-inh"><a href="https://inh.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8" title="Бразили – Ingush" lang="inh" hreflang="inh" class="interlanguage-link-target">ГӀалгӀай</a></li>
+       <li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E5%B7%B4%E8%A5%BF" title="巴西 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Brazil" title="Brazil – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-glk"><a href="https://glk.wikipedia.org/wiki/%D8%A8%D8%B1%D8%B2%D9%8A%D9%84" title="برزيل – Gilaki" lang="glk" hreflang="glk" class="interlanguage-link-target">گیلکی</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%AC%E0%AB%8D%E0%AA%B0%E0%AA%BE%E0%AA%9D%E0%AA%BF%E0%AA%B2" title="બ્રાઝિલ – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8C%B1%F0%90%8D%82%F0%90%8C%B0%F0%90%8C%B6%F0%90%8C%B9%F0%90%8C%BB" title="𐌱𐍂𐌰𐌶𐌹𐌻 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9D%E0%A5%80%E0%A4%B2" title="ब्राझील – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/P%C3%A2-s%C3%AE" title="Pâ-sî – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B8%D1%86%D3%99%D1%82%D3%99_%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%BC%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Ниицәтә Бразилмудин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9D%BC%EC%A7%88" title="브라질 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Brazil" title="Brazil – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Palakila" title="Palakila – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D6%80%D5%A1%D5%A6%D5%AB%D5%AC%D5%AB%D5%A1" title="Բրազիլիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BC%E0%A5%80%E0%A4%B2" title="ब्राज़ील – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Brazilska" title="Brazilska – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://hr.wikipedia.org/wiki/Brazil" title="Brazil – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Brazilia" title="Brazilia – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Brazil" title="Brazil – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Brasil" title="Brasil – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B2" title="ব্রাজিল – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Brasil" title="Brasil – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Brasil" title="Brasil – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Brasil" title="Brasil – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8" title="Бразили – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-xh"><a href="https://xh.wikipedia.org/wiki/Brasil" title="Brasil – Xhosa" lang="xh" hreflang="xh" class="interlanguage-link-target">IsiXhosa</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/IBrazili" title="IBrazili – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Brasil%C3%ADa" title="Brasilía – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Brasile" title="Brasile – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%96%D7%99%D7%9C" title="ברזיל – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Brasil" title="Brasil – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Piresiili" title="Piresiili – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Brazil" title="Brazil – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B3%8D%E0%B2%B0%E0%B3%86%E0%B2%9C%E0%B2%BF%E0%B2%B2%E0%B3%8D" title="ಬ್ರೆಜಿಲ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Brasil" title="Brasil – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%A0%E1%83%90%E1%83%96%E1%83%98%E1%83%9A%E1%83%98%E1%83%90" title="ბრაზილია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Brazylsk%C3%B4" title="Brazylskô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Brasil" title="Brasil – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Burezile" title="Burezile – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-rn"><a href="https://rn.wikipedia.org/wiki/Brazil" title="Brazil – Rundi" lang="rn" hreflang="rn" class="interlanguage-link-target">Kirundi</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Brazil" title="Brazil – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Brazilia" title="Brazilia – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Brasila" title="Brasila – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Brezil" title="Brezil – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Br%C3%A9zil" title="Brézil – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Brez%C3%AEl" title="Brezîl – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8" title="Бразили – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Brazili" title="Brazili – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Brasil" title="Brasil – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%9A%E0%BA%B0%E0%BB%80%E0%BA%A3%E0%BA%8A%E0%BA%B4%E0%BA%99" title="ປະເທດບະເຣຊິນ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A8%D8%B1%D8%B2%D9%8A%D9%84%D9%9B" title="برزيلٛ – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Brazileja" title="Brazileja – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Brasilia" title="Brasilia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Braz%C4%ABlija" title="Brazīlija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Brasilien" title="Brasilien – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Lezghian" lang="lez" hreflang="lez" class="interlanguage-link-target">Лезги</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Brazilija" title="Brazilija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Brax%C3%AE" title="Braxî – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Brazili%C3%AB" title="Brazilië – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Brazil" title="Brazil – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Brasil" title="Brasil – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Braziilii" title="Braziilii – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/razgu%27e" title="razgu'e – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li>
+       <li class="interlanguage-link interwiki-lg"><a href="https://lg.wikipedia.org/wiki/Brasil" title="Brasil – Ganda" lang="lg" hreflang="lg" class="interlanguage-link-target">Luganda</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Brasil" title="Brasil – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Braz%C3%ADlia" title="Brazília – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%B2" title="ब्राजिल – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB" title="Бразил – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Brezila" title="Brezila – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8D%E0%B4%B0%E0%B4%B8%E0%B5%80%E0%B5%BD" title="ബ്രസീൽ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Bra%C5%BCil" title="Brażil – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/Par%C4%ABhi" title="Parīhi – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9D%E0%A5%80%E0%A4%B2" title="ब्राझील – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%91%E1%83%A0%E1%83%90%E1%83%96%E1%83%98%E1%83%9A%E1%83%98%E1%83%90" title="ბრაზილია – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84" title="برازيل – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%A8%D8%B1%D8%B2%DB%8C%D9%84" title="برزیل – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Brazil" title="Brazil – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/Brasil" title="Brasil – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Minangkabau</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/B%C4%83-s%C4%83%CC%A4" title="Bă-să̤ – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Brasil" title="Brasil – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%B5" title="Бразилие – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB" title="Бразил – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%98%E1%80%9B%E1%80%AC%E1%80%87%E1%80%AE%E1%80%B8%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ဘရာဇီးနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Brasil" title="Brasil – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Bradir" title="Bradir – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-fj"><a href="https://fj.wikipedia.org/wiki/Brazil" title="Brazil – Fijian" lang="fj" hreflang="fj" class="interlanguage-link-target">Na Vosa Vakaviti</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Brazili%C3%AB" title="Brazilië – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Brazili%C3%AB" title="Brazilië – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%B2" title="ब्राजिल – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%B2" title="ब्राजिल – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB" title="ブラジル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Brasile" title="Brasile – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-nqo"><a href="https://nqo.wikipedia.org/wiki/%DF%93%DF%99%DF%8B%DF%96%DF%AD%DF%8C%DF%9F" title="ߓߙߋߖ߭ߌߟ – N’Ko" lang="nqo" hreflang="nqo" class="interlanguage-link-target">ߒߞߏ</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8" title="Бразили – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Brasiilien" title="Brasiilien – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Bresel" title="Bresel – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Brasil" title="Brasil – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Brasil" title="Brasil – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Br%C3%A9si" title="Brési – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Brasilia" title="Brasilia – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Brasil" title="Brasil – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%B9" title="Бразилий – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Biraazil" title="Biraazil – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Braziliya" title="Braziliya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%8D%E0%A8%B0%E0%A8%BE%E0%A8%9C%E0%A8%BC%E0%A9%80%E0%A8%B2" title="ਬ੍ਰਾਜ਼ੀਲ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%80%E0%A4%B2" title="ब्रासील – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pfl"><a href="https://pfl.wikipedia.org/wiki/Brasilien" title="Brasilien – Palatine German" lang="pfl" hreflang="pfl" class="interlanguage-link-target">Pälzisch</a></li>
+       <li class="interlanguage-link interwiki-pag"><a href="https://pag.wikipedia.org/wiki/Brazil" title="Brazil – Pangasinan" lang="pag" hreflang="pag" class="interlanguage-link-target">Pangasinan</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%B2%DB%8C%D9%84" title="برازیل – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Brazil" title="Brazil – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%B2%DB%8C%D9%84" title="برازیل – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Brazil" title="Brazil – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9F%81%E1%9E%9F%E1%9F%8A%E1%9E%B8%E1%9E%9B" title="ប្រេស៊ីល – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Br%C3%A9sil" title="Brésil – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Brasil" title="Brasil – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Brasil" title="Brasil – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Brasilien" title="Brasilien – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Brazylia" title="Brazylia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://pt.wikipedia.org/wiki/Brasil" title="Brasil – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Braziliya" title="Braziliya – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Brazil" title="Brazil – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ty"><a href="https://ty.wikipedia.org/wiki/Par%C4%ABihi" title="Parīihi – Tahitian" lang="ty" hreflang="ty" class="interlanguage-link-target">Reo tahiti</a></li>
+       <li class="interlanguage-link interwiki-ro badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://ro.wikipedia.org/wiki/Brazilia" title="Brazilia – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Brazil" title="Brazil – Vlax Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani čhib</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Brasilia" title="Brasilia – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Prasil" title="Prasil – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D1%96%D0%BB%D1%96%D1%8F" title="Бразілія – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Brazil" title="Brazil – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Pasila" title="Pasila – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%80%E0%A4%B2" title="ब्रासील – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%B5%E1%B1%BD%E1%B1%A8%E1%B1%9F%E1%B1%A1%E1%B1%A4%E1%B1%9E" title="ᱵᱽᱨᱟᱡᱤᱞ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Brasile" title="Brasile – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Brazil" title="Brazil – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Brasilien" title="Brasilien – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Brazil" title="Brazil – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Brazil" title="Brazil – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Brazili" title="Brazili – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://scn.wikipedia.org/wiki/Brasili" title="Brasili – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%83%E0%B7%93%E0%B6%BD%E0%B6%BA" title="බ්‍රසීලය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84" title="برازيل – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Braz%C3%ADlia" title="Brazília – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Brazilija" title="Brazilija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%EA%99%81%D1%97%D0%BB%D1%97%EA%99%97" title="Браꙁїлїꙗ – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Brazylijo" title="Brazylijo – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Barasiil" title="Barasiil – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A8%DB%95%DA%95%D8%A7%D8%B2%DB%8C%D9%84" title="بەڕازیل – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Brasilkondre" title="Brasilkondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB" title="Бразил – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Brazil" title="Brazil – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Brasil" title="Brasil – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Brasilia" title="Brasilia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Brasilien" title="Brasilien – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Brazil" title="Brazil – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AF%87%E0%AE%9A%E0%AE%BF%E0%AE%B2%E0%AF%8D" title="பிரேசில் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Brazil" title="Brazil – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Brasile" title="Brasile – Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target">Tarandíne</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%80%95%E1%80%9B%E1%82%83%E1%82%87%E1%81%B8%E1%80%AE%E1%80%B8" title="မိူင်းပရႃႇၸီး – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AC%E0%B1%8D%E0%B0%B0%E0%B1%86%E0%B0%9C%E0%B0%BF%E0%B0%B2%E0%B1%8D" title="బ్రెజిల్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Braz%C3%ADl" title="Brazíl – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%8B%E0%B8%B4%E0%B8%A5" title="ประเทศบราซิล – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-ti"><a href="https://ti.wikipedia.org/wiki/%E1%89%A5%E1%88%AB%E1%8B%9A%E1%88%8D" title="ብራዚል – Tigrinya" lang="ti" hreflang="ti" class="interlanguage-link-target">ትግርኛ</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8F%86%E1%8F%8F%E1%8E%B5" title="ᏆᏏᎵ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-chy"><a href="https://chy.wikipedia.org/wiki/Brazil" title="Brazil – Cheyenne" lang="chy" hreflang="chy" class="interlanguage-link-target">Tsetsêhestâhese</a></li>
+       <li class="interlanguage-link interwiki-ve"><a href="https://ve.wikipedia.org/wiki/Brazil" title="Brazil – Venda" lang="ve" hreflang="ve" class="interlanguage-link-target">Tshivenda</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Brezilya" title="Brezilya – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Brazili%C3%BDa" title="Braziliýa – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-tw"><a href="https://tw.wikipedia.org/wiki/Brasil" title="Brasil – Twi" lang="tw" hreflang="tw" class="interlanguage-link-target">Twi</a></li>
+       <li class="interlanguage-link interwiki-tyv"><a href="https://tyv.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Tuvinian" lang="tyv" hreflang="tyv" class="interlanguage-link-target">Тыва дыл</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F" title="Бразилия – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D1%96%D1%8F" title="Бразилія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%B2%DB%8C%D9%84" title="برازیل – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%B2%D9%89%D9%84%D9%89%D9%8A%DB%95" title="برازىلىيە – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Bahsih" title="Bahsih – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Braxil" title="Braxil – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Brazilii" title="Brazilii – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://vi.wikipedia.org/wiki/Brasil" title="Brasil – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Brasil%C3%A4n" title="Brasilän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Brasiilia" title="Brasiilia – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Braezi" title="Braezi – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%B7%B4%E8%A5%BF" title="巴西 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Brazili%C3%AB" title="Brazilië – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Brasil" title="Brasil – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Breesil" title="Breesil – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%B7%B4%E8%A5%BF" title="巴西 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%91%D7%A8%D7%90%D7%96%D7%99%D7%9C" title="בראזיל – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Brasil" title="Brasil – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%B7%B4%E8%A5%BF" title="巴西 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Brezilya" title="Brezilya – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Brezili%C3%AB" title="Brezilië – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Brazil%C4%97j%C4%97" title="Brazilėjė – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E8%A5%BF" title="巴西 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q155#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 14 December 2020, at 15:03.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Brazil&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.072","walltime":"1.271","ppvisitednodes":{"value":4610,"limit":1000000},"postexpandincludesize":{"value":112639,"limit":2097152},"templateargumentsize":{"value":12985,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50723,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1139.697      1 -total"," 65.95%  751.686      1 Template:Infobox_country"," 64.04%  729.808      3 Template:Infobox"," 25.88%  294.949      3 Template:ISO_3166_code"," 19.94%  227.302      1 Template:Reflist"," 14.65%  167.004      1 Template:Native_name"," 14.65%  166.970     11 Template:Cite_web"," 14.20%  161.796      2 Template:Lang","  3.86%   43.939      1 Template:About","  3.69%   42.074      2 Template:Convinfobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.713","limit":"10.000"},"limitreport-memusage":{"value":30190580,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20201219084909","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Brazil","url":"https:\/\/simple.wikipedia.org\/wiki\/Brazil","sameAs":"http:\/\/www.wikidata.org\/entity\/Q155","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q155","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-12T18:14:04Z","dateModified":"2020-12-14T15:03:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/05\/Flag_of_Brazil.svg","headline":"country in South America"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":315,"wgHostname":"mw1326"});});</script> 
+ </body>
+</html>

@@ -1,0 +1,887 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>El Salvador - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X9soPgpAAEUAAE8hCAgAAABQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"El_Salvador","wgTitle":"El Salvador","wgCurRevisionId":7180369,"wgRevisionId":7180369,"wgArticleId":10897,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Spanish-language sources (es)","Articles containing Spanish-language text","Coordinates on Wikidata","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers",
+"Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with Trove identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","El Salvador","Spanish-speaking countries","1821 establishments in North America"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"El_Salvador","wgRelevantArticleId":10897,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks"
+:"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":13.666666666666666,"lon":-89.16666666666667},"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q792"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible",
+"mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.21"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1200px-Flag_of_El_Salvador.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/El_Salvador"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=El_Salvador&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=El_Salvador&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/El_Salvador"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-El_Salvador rootpage-El_Salvador skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">El Salvador</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic of El Salvador
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i lang="es" title="Spanish language text">República de El Salvador</i>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_El_Salvador.svg" class="image" title="Flag of El Salvador"><img alt="Flag of El Salvador" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/125px-Flag_of_El_Salvador.svg.png" decoding="async" width="125" height="71" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/188px-Flag_of_El_Salvador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/250px-Flag_of_El_Salvador.svg.png 2x" data-file-width="1005" data-file-height="567"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_El_Salvador" title="Flag of El Salvador">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_El_Salvador.svg" class="image" title="Coat of arms of El Salvador"><img alt="Coat of arms of El Salvador" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Coat_of_arms_of_El_Salvador.svg/85px-Coat_of_arms_of_El_Salvador.svg.png" decoding="async" width="85" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Coat_of_arms_of_El_Salvador.svg/128px-Coat_of_arms_of_El_Salvador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Coat_of_arms_of_El_Salvador.svg/170px-Coat_of_arms_of_El_Salvador.svg.png 2x" data-file-width="600" data-file-height="571"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b><i>"Dios, Unión, Libertad"</i><span class="nowrap">&nbsp;&nbsp;</span><small><span class="languageicon">(in Spanish)</span><br>"God, Unity, Freedom"</small>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><a href="/w/index.php?title=National_Anthem_of_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="National Anthem of El Salvador (not yet started)">Himno Nacional de El Salvador</a>
+           <br>National anthem of El Salvador
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:LocationElSalvador.svg" class="image" title="Location of El Salvador"><img alt="Location of El Salvador" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/LocationElSalvador.svg/250px-LocationElSalvador.svg.png" decoding="async" width="250" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/LocationElSalvador.svg/375px-LocationElSalvador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/LocationElSalvador.svg/500px-LocationElSalvador.svg.png 2x" data-file-width="1000" data-file-height="500"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/San_Salvador" title="San Salvador">San Salvador</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=El_Salvador&amp;params=13_40__N_89_10__W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°40′N</span> <span class="longitude">89°10′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.667°N 89.167°W</span><span style="display:none">﻿ / <span class="geo">13.667; -89.167</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=El_Salvador&amp;params=13_40__N_89_10__W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°40′N</span> <span class="longitude">89°10′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.667°N 89.167°W</span><span style="display:none">﻿ / <span class="geo">13.667; -89.167</span></span></span></a></span></span></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>Mestizo: 80% <p>White: 17% </p><p>Black: 0% </p><p>Native American: 1% </p> Other: 2%</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>Salvadoran</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Federalism" title="Federalism">Federal</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Constitutional_republic" title="Constitutional republic">constitutional republic</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_El_Salvador" title="President of El Salvador">President</a> 
+          </div></th>
+         <td><a href="/wiki/Nayib_Bukele" title="Nayib Bukele">Nayib Bukele</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Vice_President_of_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="Vice President of El Salvador (not yet started)">Vice President</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=F%C3%A9lix_Ulloa&amp;action=edit&amp;redlink=1" class="new" title="Félix Ulloa (not yet started)">Félix Ulloa</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<span class="nowrap"><a href="/w/index.php?title=List_of_Presidents_of_the_Legislative_Assembly_of_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="List of Presidents of the Legislative Assembly of El Salvador (not yet started)">Speaker of the Assembly</a></span> 
+          </div></th>
+         <td><a href="/wiki/Norman_Quijano" title="Norman Quijano">Norman Quijano</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Supreme_Court_of_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of El Salvador (not yet started)">Supreme Court President</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Jos%C3%A9_Salom%C3%B3n_Padilla&amp;action=edit&amp;redlink=1" class="new" title="José Salomón Padilla (not yet started)">José Salomón Padilla</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/w/index.php?title=Legislative_Assembly_of_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="Legislative Assembly of El Salvador (not yet started)">Legislative Assembly</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from <a href="/wiki/Spain" title="Spain">Spain</a> 
+          </div></th>
+         <td>September 15, 1821</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Recognized by <a href="/wiki/Spain" title="Spain">Spain</a> 
+          </div></th>
+         <td>June 24, 1865</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from the <a href="/w/index.php?title=Greater_Republic_of_Central_America&amp;action=edit&amp;redlink=1" class="new" title="Greater Republic of Central America (not yet started)">Greater Republic of Central America</a> 
+          </div></th>
+         <td>November 13, 1898</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>21,040&nbsp;km<sup>2</sup> (8,120&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">153rd</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>1.4</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;July 2009 estimate
+          </div></th>
+         <td>6,134,000<sup id="cite_ref-UNdata_1-0" class="reference"><a href="#cite_note-UNdata-1">[1]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">99th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2009&nbsp;census
+          </div></th>
+         <td>5,744,113<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>341.5/km<sup>2</sup> (884.5/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">47th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2010&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$43.567 billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$7,429<sup id="cite_ref-imf2_3-1" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2010&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$21.700 billion<sup id="cite_ref-imf2_3-2" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$3,700<sup id="cite_ref-imf2_3-3" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2002)</span></th>
+         <td>52.4<br><span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2015)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.704<sup id="cite_ref-HDI_4-0" class="reference"><a href="#cite_note-HDI-4">[4]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">90th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/United_States_dollar" title="United States dollar">U.S. dollar</a><sup>2</sup> (<a href="/wiki/ISO_4217" title="ISO 4217">USD</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>−6</span> (<a href="/wiki/Central_Time_Zone" title="Central Time Zone">CST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td>+503<sup>1</sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:SV&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:SV (not yet started)">SV</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.sv" class="mw-redirect" title=".sv">.sv</a></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="margin-left:1em;"> 
+            <li value="1">Telephone companies (market share): Tigo (45%), Claro (25%), Movistar (24%), Digicel (5.5%), Red (0.5%).</li>
+            <li value="2">The <a href="/wiki/United_States_dollar" title="United States dollar">United States dollar</a> is the currency in use. Financial information can be expressed in U.S. Dollars and in <a href="/w/index.php?title=Salvadoran_col%C3%B3n&amp;action=edit&amp;redlink=1" class="new" title="Salvadoran colón (not yet started)">Salvadoran colón</a>, but the colón is out of circulation.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+            <li value="3">On the <a href="/w/index.php?title=Coat_of_arms_of_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="Coat of arms of El Salvador (not yet started)">Coat of Arms of El Salvador</a>, the country's name is written "Republica de El Salvador en la America Central", Meaning "Republic of El Salvador in Central America"</li> 
+           </ol>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>El Salvador</b> (<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <i lang="es">República de El Salvador</i>) is the smallest and most densely populated country in <a href="/wiki/Central_America" title="Central America">Central America</a>. The country's capital and largest city is <a href="/wiki/San_Salvador" title="San Salvador">San Salvador</a>. Other important cities are: <a href="/wiki/Santa_Ana_Department" title="Santa Ana Department">Santa Ana</a> and <a href="/wiki/Sonsonate_Department" title="Sonsonate Department">Sonsonate</a>. El Salvador borders the Pacific Ocean on the south, and the countries of <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a> to the west and <a href="/wiki/Honduras" title="Honduras">Honduras</a> to the north and east. </p>
+      <p>In 2010 El Salvador ranked in the top 10 Latin American countries in terms of <a href="/wiki/Human_Development_Index" title="Human Development Index">Human Development Index</a>. It was in the top 3 in Central America (behind <a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a> and <a href="/wiki/Panama" title="Panama">Panama</a>). Also, tropical forests and overall forests have expanded by nearly 20% from the year 1992 to 2010, making it one of the few countries experiencing <a href="/w/index.php?title=Reforestation&amp;action=edit&amp;redlink=1" class="new" title="Reforestation (not yet started)">reforestation</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
+      <p>In El Salvador there are only two seasons. The dry season starts in mid-October and it lasts until mid May. During the dry season, it hardly ever rains. The wet season starts in mid-May and ends in mid-October. In this season it rains every day. The dry season is called summer and the rainy season is called winter. </p>
+      <p>Most of the population is mestizo, a mixture of European and American people. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Flora_and_Fauna"><span class="tocnumber">3</span> <span class="toctext">Flora and Fauna</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Departments"><span class="tocnumber">4</span> <span class="toctext">Departments</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=El_Salvador&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=El_Salvador&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The civilization of El Salvador began around 1500 B.C., leaving an evidence that would be the <a href="/w/index.php?title=Tazumal&amp;action=edit&amp;redlink=1" class="new" title="Tazumal (not yet started)">Tazumal</a> Ruins and <a href="/w/index.php?title=Chalchuapa&amp;action=edit&amp;redlink=1" class="new" title="Chalchuapa (not yet started)">Chalchuapa</a> Ruins. The first habitants were Pocomanes, Lencas and Pipiles; they stayed in the middle and east zone of El Salvador until about the eleventh century. The Spaniard <a href="/w/index.php?title=Andr%C3%A9s_Ni%C3%B1o&amp;action=edit&amp;redlink=1" class="new" title="Andrés Niño (not yet started)">Andrés Niño</a> led an expedition from Central America and arrived in Meanguera Island in the <a href="/w/index.php?title=Gulf_of_Fonseca&amp;action=edit&amp;redlink=1" class="new" title="Gulf of Fonseca (not yet started)">Gulf of Fonseca</a> on May 31, 1522. That was the first Salvadoran territory visited by Spaniard men. </p>
+      <p>In June of 1524, <a href="/w/index.php?title=Pedro_de_Alvarado&amp;action=edit&amp;redlink=1" class="new" title="Pedro de Alvarado (not yet started)">Pedro de Alvarado</a> began a war of conquest against Cuzcatlán (Land of beautiful things) that was populated by native tribes of the country. During 17 days of bloody battles many natives and Spaniard men died, including the native <a href="/w/index.php?title=Atlacatl&amp;action=edit&amp;redlink=1" class="new" title="Atlacatl (not yet started)">Atlacatl</a>. Pedro de Alvarado, deterred and injured, left the battle and set off to <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a>, leaving his brother, <a href="/w/index.php?title=Gonzalo_de_Alvarado&amp;action=edit&amp;redlink=1" class="new" title="Gonzalo de Alvarado (not yet started)">Gonzalo de Alvarado</a>, to continue the conquest of Cuzcatlan. After this, their cousin, Diego de Alvardo established the San Salvador Ville on April 1525 in a site named La Bermuda, near Suchitoto City. In 1546, <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Carlos I</a> from Spain named San Salvador a city. </p>
+      <p>During the following years, the country grew under Spaniard control. In 1810 a feeling of freedom formed between the countries of Central America. On the morning of November 5th, 1811, the priest <a href="/w/index.php?title=Jos%C3%A9_Mat%C3%ADas_Delgado&amp;action=edit&amp;redlink=1" class="new" title="José Matías Delgado (not yet started)">José Matías Delgado</a> rang the bells of La Merced Church in San Salvador, calling for an uprising. After many internal conflicts, the Declaration of Independence of Central América was signed in Guatemala on September 15th, 1821. That day is the Independence day all around Central America. </p> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=El_Salvador&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=El_Salvador&amp;action=edit&amp;section=2" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>El Salvador has a total area of 21,041&nbsp;km<sup>2</sup> (8,124&nbsp;sq&nbsp;mi). As the smallest country in continental America, El Salvador is sometimes called <i>Pulgarcito de America</i> (the "<a href="/w/index.php?title=Tom_Thumb&amp;action=edit&amp;redlink=1" class="new" title="Tom Thumb (not yet started)">Tom Thumb</a> of the Americas"). The highest point in El Salvador is <a href="/w/index.php?title=Cerro_El_Pital&amp;action=edit&amp;redlink=1" class="new" title="Cerro El Pital (not yet started)">Cerro El Pital</a>, at 2,730 metres (8,957&nbsp;ft), on the border with <a href="/wiki/Honduras" title="Honduras">Honduras</a>. </p>
+      <p>El Salvador has a long history of <a href="/w/index.php?title=List_of_earthquakes_in_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="List of earthquakes in El Salvador (not yet started)">destructive earthquakes</a> and volcanic eruptions. The capital San Salvador was destroyed in 1756 and 1854, and it suffered heavy damage in the 1919, 1982, and 1986 tremors. El Salvador has over twenty volcanoes. Two of them, <a href="/w/index.php?title=San_Miguel_(volcano)&amp;action=edit&amp;redlink=1" class="new" title="San Miguel (volcano) (not yet started)">San Miguel</a> and <a href="/wiki/Izalco_(volcano)" title="Izalco (volcano)">Izalco</a>, have been active in recent years. </p>
+      <p>El Salvador has over 300 rivers. The most important is the <a href="/w/index.php?title=Lempa_River&amp;action=edit&amp;redlink=1" class="new" title="Lempa River (not yet started)">Rio Lempa</a>. Important lakes are <a href="/w/index.php?title=Lake_Ilopango&amp;action=edit&amp;redlink=1" class="new" title="Lake Ilopango (not yet started)">Lake Ilopango</a> (70&nbsp;km²) and <a href="/w/index.php?title=Lake_Coatepeque&amp;action=edit&amp;redlink=1" class="new" title="Lake Coatepeque (not yet started)">Lake Coatepeque</a> (26&nbsp;km²). </p> 
+      <h2><span class="mw-headline" id="Flora_and_Fauna">Flora and Fauna</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=El_Salvador&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Flora and Fauna">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=El_Salvador&amp;action=edit&amp;section=3" title="Change section: Flora and Fauna">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>There are eight species of sea turtles in the world. Of these six nest on the coasts of Central America, and four make their home on the Salvadoran coast: the <a href="/wiki/Leatherback_turtle" class="mw-redirect" title="Leatherback turtle">leatherback turtle</a>, the <a href="/wiki/Hawksbill_turtle" class="mw-redirect" title="Hawksbill turtle">hawksbill</a>, the <a href="/w/index.php?title=Galapagos_green_turtle&amp;action=edit&amp;redlink=1" class="new" title="Galapagos green turtle (not yet started)">Galapagos green turtle</a> and the <a href="/wiki/Olive_ridley_sea_turtle" title="Olive ridley sea turtle">olive ridley sea turtle</a>. </p>
+      <p>It is estimated that there are 500 species of birds, 1,000 species of butterflies, 400 species of orchids, 800 species of trees, and 800 species of marine fish in El Salvador. </p>
+      <p>There are 4 <a href="/wiki/National_park" title="National park">national parks</a> in El Salvador: <a href="/w/index.php?title=El_Imposible_National_Park&amp;action=edit&amp;redlink=1" class="new" title="El Imposible National Park (not yet started)">El Imposible</a>, <a href="/w/index.php?title=Los_Volcanes_National_Park&amp;action=edit&amp;redlink=1" class="new" title="Los Volcanes National Park (not yet started)">Los Volcanes</a>, <a href="/w/index.php?title=Montecristo_National_Park&amp;action=edit&amp;redlink=1" class="new" title="Montecristo National Park (not yet started)">Montecristo</a>, and <a href="/w/index.php?title=San_Diego_y_San_Felipe_Las_Barras_National_Park&amp;action=edit&amp;redlink=1" class="new" title="San Diego y San Felipe Las Barras National Park (not yet started)">San Diego y San Felipe Las Barras</a>. </p> 
+      <h2><span class="mw-headline" id="Departments">Departments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=El_Salvador&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Departments">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=El_Salvador&amp;action=edit&amp;section=4" title="Change section: Departments">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>El Salvador is divided into 14 <a href="/wiki/Departments_of_El_Salvador" title="Departments of El Salvador">departments</a> (<i>departamentos</i>). These are divided into 262 <a href="/w/index.php?title=Municipalities_of_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="Municipalities of El Salvador (not yet started)">municipalities</a> (<i>municipios</i>). </p>
+      <p>Department names and abbreviations for the 14 Salvadoran Departments: </p> 
+      <table class="wikitable center" style="line-height:140%;font-size: 90%;"> 
+       <tbody>
+        <tr> 
+         <th colspan="3" style="text-align:center;">Departments of El Salvador </th>
+        </tr> 
+        <tr> 
+         <td colspan="3" style="text-align:center;"><a href="/wiki/File:Departments_of_El_Salvador_named.svg" class="image"><img alt="Departments of El Salvador named.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Departments_of_El_Salvador_named.svg/400px-Departments_of_El_Salvador_named.svg.png" decoding="async" width="400" height="221" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Departments_of_El_Salvador_named.svg/600px-Departments_of_El_Salvador_named.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Departments_of_El_Salvador_named.svg/800px-Departments_of_El_Salvador_named.svg.png 2x" data-file-width="1088" data-file-height="600"></a> </td>
+        </tr> 
+        <tr> 
+         <td><b> Western El Salvador </b><br><a href="/wiki/Ahuachap%C3%A1n_Department" title="Ahuachapán Department">Ahuachapán</a> (<i><a href="/w/index.php?title=Ahuachap%C3%A1n&amp;action=edit&amp;redlink=1" class="new" title="Ahuachapán (not yet started)">Ahuachapán</a></i>)<br><a href="/wiki/Santa_Ana_Department" title="Santa Ana Department">Santa Ana</a> (<i><a href="/w/index.php?title=Santa_Ana,_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="Santa Ana, El Salvador (not yet started)">Santa Ana</a></i>)<br><a href="/wiki/Sonsonate_Department" title="Sonsonate Department">Sonsonate</a> (<i><a href="/w/index.php?title=Sonsonate&amp;action=edit&amp;redlink=1" class="new" title="Sonsonate (not yet started)">Sonsonate</a></i>)</td> 
+         <td><b> Central El Salvador </b><br><a href="/wiki/La_Libertad_Department,_El_Salvador" title="La Libertad Department, El Salvador">La Libertad</a> (<i><a href="/w/index.php?title=Santa_Tecla,_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="Santa Tecla, El Salvador (not yet started)">Santa Tecla</a></i>)<br><a href="/wiki/Chalatenango_Department" title="Chalatenango Department">Chalatenango</a> (<i><a href="/w/index.php?title=Chalatenango,_Chalatenango&amp;action=edit&amp;redlink=1" class="new" title="Chalatenango, Chalatenango (not yet started)">Chalatenango</a></i>)<br><a href="/wiki/Cuscatl%C3%A1n_Department" title="Cuscatlán Department">Cuscatlán</a> (<i><a href="/w/index.php?title=Cojutepeque&amp;action=edit&amp;redlink=1" class="new" title="Cojutepeque (not yet started)">Cojutepeque</a></i>)<br><a href="/wiki/San_Salvador_Department" title="San Salvador Department">San Salvador</a> (<i><a href="/wiki/San_Salvador" title="San Salvador">San Salvador</a></i>)<br><a href="/wiki/La_Paz_Department_(El_Salvador)" title="La Paz Department (El Salvador)">La Paz</a> (<i><a href="/w/index.php?title=Zacatecoluca&amp;action=edit&amp;redlink=1" class="new" title="Zacatecoluca (not yet started)">Zacatecoluca</a></i>)<br><a href="/wiki/Caba%C3%B1as_Department" title="Cabañas Department">Cabañas</a> (<i><a href="/w/index.php?title=Sensuntepeque&amp;action=edit&amp;redlink=1" class="new" title="Sensuntepeque (not yet started)">Sensuntepeque</a></i>)<br><a href="/wiki/San_Vicente_Department" title="San Vicente Department">San Vicente</a> (<i><a href="/w/index.php?title=San_Vicente,_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="San Vicente, El Salvador (not yet started)">San Vicente</a></i>)</td> 
+         <td><b> Eastern El Salvador </b><br><a href="/wiki/Usulut%C3%A1n_Department" title="Usulután Department">Usulután</a> (<i><a href="/w/index.php?title=Usulut%C3%A1n&amp;action=edit&amp;redlink=1" class="new" title="Usulután (not yet started)">Usulután</a></i>)<br><a href="/wiki/San_Miguel_Department_(El_Salvador)" title="San Miguel Department (El Salvador)">San Miguel</a> (<i><a href="/w/index.php?title=San_Miguel,_El_Salvador&amp;action=edit&amp;redlink=1" class="new" title="San Miguel, El Salvador (not yet started)">San Miguel</a></i>)<br><a href="/wiki/Moraz%C3%A1n_Department" title="Morazán Department">Morazán</a> (<i><a href="/w/index.php?title=San_Francisco_Gotera&amp;action=edit&amp;redlink=1" class="new" title="San Francisco Gotera (not yet started)">San Francisco Gotera</a></i>)<br><a href="/wiki/La_Uni%C3%B3n_Department" title="La Unión Department">La Unión</a> (<i><a href="/w/index.php?title=La_Uni%C3%B3n,_La_Uni%C3%B3n&amp;action=edit&amp;redlink=1" class="new" title="La Unión, La Unión (not yet started)">La Unión</a></i>) </td>
+        </tr> 
+        <tr> 
+         <td colspan="3"><i>Note: Departmental capitals are in parentheses.</i> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=El_Salvador&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=El_Salvador&amp;action=edit&amp;section=5" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-UNdata-1"><span class="mw-cite-backlink"><a href="#cite_ref-UNdata_1-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://data.un.org/CountryProfile.aspx?crName=El%20Salvador">"UNdata El Salvador"</a>. UN. 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UNdata+El+Salvador&amp;rft.pub=UN&amp;rft.date=2008&amp;rft_id=http%3A%2F%2Fdata.un.org%2FCountryProfile.aspx%3FcrName%3DEl%2520Salvador&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AEl+Salvador" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.censos.gob.sv/util/datos/Resultados%20VI%20Censo%20de%20Población%20V%20de%20Vivienda%202007.pdf">Gob.sv</a> <span class="languageicon">(in Spanish)</span> </span> </li> 
+         <li id="cite_note-imf2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_3-0">3.0</a></sup> <sup><a href="#cite_ref-imf2_3-1">3.1</a></sup> <sup><a href="#cite_ref-imf2_3-2">3.2</a></sup> <sup><a href="#cite_ref-imf2_3-3">3.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?pr.x=85&amp;pr.y=13&amp;sy=2008&amp;ey=2011&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=253&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"El Salvador"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=El+Salvador&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2011%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D85%26pr.y%3D13%26sy%3D2008%26ey%3D2011%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D253%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AEl+Salvador" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-4"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_4-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf">"Human Development Report 2010"</a> <span class="cs1-format">(PDF)</span>. United Nations. 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2010&amp;rft.pub=United+Nations&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fmedia%2FHDR_2010_EN_Table1.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AEl+Salvador" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070428123851/http://www.bcr.gob.sv/ingles/integracion/ley.html">"Monetary integration"</a>. Government of Ecuador. Archived from <a rel="nofollow" class="external text" href="http://www.bcr.gob.sv/ingles/integracion/ley.html">the original</a> on 28 April 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Monetary+integration&amp;rft.pub=Government+of+Ecuador&amp;rft_id=http%3A%2F%2Fwww.bcr.gob.sv%2Fingles%2Fintegracion%2Fley.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AEl+Salvador" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061116165849/http://news.nationalgeographic.com/news/2006/11/061113-forests_2.html">World's Forests Rebounding, Study Suggests</a>. News.nationalgeographic.com (2010-10-28). Retrieved on 2012-07-28.</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/El_Salvador" class="extiw" title="commons:Special:Search/El Salvador">El Salvador</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_North_America" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_America" title="Template:North America"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:North_America&amp;action=edit&amp;redlink=1" class="new" title="Template talk:North America (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_America&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_of_North_America" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/North_America" title="North America">North America</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Independent</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>&nbsp;<b>·</b> <a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a>&nbsp;<b>·</b> <a href="/wiki/Barbados" title="Barbados">Barbados</a>&nbsp;<b>·</b> <a href="/wiki/Belize" title="Belize">Belize</a>&nbsp;<b>·</b> <a href="/wiki/Canada" title="Canada">Canada</a>&nbsp;<b>·</b> <a href="/wiki/Costa_Rica" title="Costa Rica">Costa&nbsp;Rica</a>&nbsp;<b>·</b> <a href="/wiki/Cuba" title="Cuba">Cuba</a>&nbsp;<b>·</b> <a href="/wiki/Dominica" title="Dominica">Dominica</a>&nbsp;<b>·</b> <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican&nbsp;Republic</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">El&nbsp;Salvador</a>&nbsp;<b>·</b> <a href="/wiki/Grenada" title="Grenada">Grenada</a>&nbsp;<b>·</b> <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a>&nbsp;<b>·</b> <a href="/wiki/Haiti" title="Haiti">Haiti</a>&nbsp;<b>·</b> <a href="/wiki/Honduras" title="Honduras">Honduras</a>&nbsp;<b>·</b> <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>&nbsp;<b>·</b> <a href="/wiki/Mexico" title="Mexico">Mexico</a>&nbsp;<b>·</b> <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a>&nbsp;<b>·</b> <a href="/wiki/Panama" title="Panama">Panama</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint&nbsp;Kitts&nbsp;and&nbsp;Nevis</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint&nbsp;Lucia</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">Saint&nbsp;Vincent&nbsp;and&nbsp;the&nbsp;Grenadines</a>&nbsp;<b>·</b> <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad&nbsp;and&nbsp;Tobago</a>&nbsp;<b>·</b> <a href="/wiki/United_States" title="United States">United&nbsp;States</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Governed by other countries</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Anguilla" title="Anguilla">Anguilla</a>&nbsp;<b>·</b> <a href="/wiki/Aruba" title="Aruba">Aruba</a>&nbsp;<b>·</b> <a href="/wiki/Bermuda" title="Bermuda">Bermuda</a>&nbsp;<b>·</b> <a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">British&nbsp;Virgin&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/Cura%C3%A7ao" title="Curaçao">Curaçao</a>&nbsp;<b>·</b> <a href="/wiki/Greenland" title="Greenland">Greenland</a>&nbsp;<b>·</b> <a href="/wiki/Guadeloupe" title="Guadeloupe">Guadeloupe</a>&nbsp;<b>·</b> <a href="/wiki/Martinique" title="Martinique">Martinique</a>&nbsp;<b>·</b> <a href="/wiki/Montserrat" title="Montserrat">Montserrat</a>&nbsp;<b>·</b> <a href="/wiki/Navassa_Island" title="Navassa Island">Navassa&nbsp;Island</a>&nbsp;<b>·</b> <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto&nbsp;Rico</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Martin_(Netherlands)" class="mw-redirect" title="Saint Martin (Netherlands)">Saint Martin</a>&nbsp;<b>·</b> <a href="/wiki/Saint_Pierre_and_Miquelon" title="Saint Pierre and Miquelon">Saint-Pierre&nbsp;and&nbsp;Miquelon</a>&nbsp;<b>·</b> <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks&nbsp;and&nbsp;Caicos&nbsp;Islands</a>&nbsp;<b>·</b> <a href="/wiki/United_States_Virgin_Islands" title="United States Virgin Islands">U.S.&nbsp;Virgin&nbsp;Islands</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q792&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q792&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q792" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" class="mw-redirect" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX451086">XX451086</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11934436j">cb11934436j</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11934436j">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4014499-9">4014499-9</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://hls-dhs-dss.ch/fr/articles/006531">006531</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000123752529">0000 0001 2375 2529</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n79066409">n79066409</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/f2fa4bfb-97aa-3db4-8d49-cc64969ce1a7">f2fa4bfb-97aa-3db4-8d49-cc64969ce1a7</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10044746">10044746</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge130727&amp;CON_LNG=ENG">ge130727</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=000975769&amp;local_base=nlx10">000975769</a></span></span></li> 
+             <li><span class="nowrap"><a href="/w/index.php?title=Trove&amp;action=edit&amp;redlink=1" class="new" title="Trove (not yet started)">Trove</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://trove.nla.gov.au/people/1265654">1265654</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/126625611">126625611</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n79066409">lccn-n79066409</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1296
+Cached time: 20201215234713
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.996 seconds
+Real time usage: 1.173 seconds
+Preprocessor visited node count: 3761/1000000
+Post‐expand include size: 82447/2097152 bytes
+Template argument size: 10259/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 19/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14785/5000000 bytes
+Lua time usage: 0.708/10.000 seconds
+Lua memory usage: 31162397/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1065.416      1 -total
+ 76.52%  815.219      1 Template:Infobox_country
+ 74.91%  798.142      3 Template:Infobox
+ 23.82%  253.765      1 Template:Coord
+ 13.13%  139.913      1 Template:Lang
+ 11.28%  120.152      3 Template:ISO_3166_code
+ 10.60%  112.980      1 Template:Reflist
+  9.16%   97.558      4 Template:Cite_web
+  8.11%   86.458      1 Template:Authority_control
+  5.50%   58.586      1 Template:Infobox_country/imagetable
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:10897-0!canonical and timestamp 20201215234713 and revision id 7180369. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=El_Salvador&amp;oldid=7180369">https://simple.wikipedia.org/w/index.php?title=El_Salvador&amp;oldid=7180369</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:El_Salvador" title="Category:El Salvador">El Salvador</a></li>
+       <li><a href="/wiki/Category:Spanish-speaking_countries" title="Category:Spanish-speaking countries">Spanish-speaking countries</a></li>
+       <li><a href="/wiki/Category:1821_establishments_in_North_America" title="Category:1821 establishments in North America">1821 establishments in North America</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_Spanish-language_sources_(es)" title="Category:Articles with Spanish-language sources (es)">Articles with Spanish-language sources (es)</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li>
+       <li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_HDS_identifiers" title="Category:Wikipedia articles with HDS identifiers">Wikipedia articles with HDS identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_Trove_identifiers" title="Category:Wikipedia articles with Trove identifiers">Wikipedia articles with Trove identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=El+Salvador" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=El+Salvador" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/El_Salvador" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:El_Salvador" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/El_Salvador">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=El_Salvador&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=El_Salvador&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=El_Salvador&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/El_Salvador" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/El_Salvador" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=El_Salvador&amp;oldid=7180369" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=El_Salvador&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=El_Salvador&amp;id=7180369&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q792" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=El+Salvador">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=El_Salvador&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=El_Salvador&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:El_Salvador" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/%C3%88l_Salvador" title="Èl Salvador – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Салвадор – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Салвадор – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/El_Salvador" title="El Salvador – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/El_Salvador" title="El Salvador – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%A4%E1%88%8D_%E1%88%B3%E1%88%8D%E1%89%AB%E1%8B%B6%E1%88%AD" title="ኤል ሳልቫዶር – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/El_Salvador" title="El Salvador – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D9%84%D9%81%D8%A7%D8%AF%D9%88%D8%B1" title="السلفادور – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/El_Salvador" title="El Salvador – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/El_Salvador" title="El Salvador – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Salvador" title="Salvador – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/El_Salvador" title="El Salvador – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Salvador" title="Salvador – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/El_Salvador" title="El Salvador – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Salvador" title="Salvador – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%88%D8%B1" title="السالوادور – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/%C3%89l_Salvador" title="Él Salvador – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/El_Salvador" title="El Salvador – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%8F%E0%A6%B2_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%AD%E0%A6%BE%E0%A6%A6%E0%A7%8B%E0%A6%B0" title="এল সালভাদোর – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/El_Salvador" title="El Salvador – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2_%E0%A4%B8%E0%A4%B2%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%8B%E0%A4%B0" title="एल सल्वाडोर – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/El_Salvador" title="El Salvador – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Салвадор – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/El_Salvador" title="El Salvador – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%A8%E0%BD%B2%E0%BD%A3%E0%BC%8B%E0%BD%A6%E0%BD%A3%E0%BC%8B%E0%BD%9D%E0%BC%8B%E0%BD%8C%E0%BD%BC%E0%BD%A2%E0%BC%8D" title="ཨིལ་སལ་ཝ་ཌོར། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/El_Salvador" title="El Salvador – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/El_Salvador" title="El Salvador – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/El_Salvador" title="El Salvador – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Elsalbador" title="Elsalbador – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Salvador" title="Salvador – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/El_Salvador" title="El Salvador – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/El_Salvador" title="El Salvador – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/El_Salfador" title="El Salfador – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/El_Salvador" title="El Salvador – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D8%A7%D9%84%DA%A4%D8%A7%D8%AF%D9%88%D8%B1" title="الصالڤادور – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/El_Salvador" title="El Salvador – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/El_Salvador" title="El Salvador – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%87%DE%AC%DE%8D%DE%B0%DE%90%DE%AC%DE%8D%DE%B0%DE%88%DE%A6%DE%91%DE%AF%DE%83%DE%AA" title="އެލްސެލްވަޑޯރު – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/El_Salvador" title="El Salvador – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2_%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%AD%E0%A4%BE%E0%A4%A6%E0%A5%8B%E0%A4%B0" title="एल साल्भादोर – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/El_Salvador" title="El Salvador – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%95%CE%BB_%CE%A3%CE%B1%CE%BB%CE%B2%CE%B1%CE%B4%CF%8C%CF%81" title="Ελ Σαλβαδόρ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/El_Salvador" title="El Salvador – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/El_Salvador" title="El Salvador – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Salvadoro" title="Salvadoro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/El_Salvaol" title="El Salvaol – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/El_Salvador" title="El Salvador – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/El_Salvador" title="El Salvador – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%88%D8%B1" title="السالوادور – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/El_Salvador" title="El Salvador – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/El_Salvador" title="El Salvador – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Salvador" title="Salvador – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/El_Salvador" title="El Salvador – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_tSalvad%C3%B3ir" title="An tSalvadóir – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Salvador" title="Yn Salvador – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/El_Salvador" title="El Salvador – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/El_Salbhador" title="El Salbhador – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/O_Salvador" title="O Salvador – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2_%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%8B%E0%A4%B0" title="अल साल्वाडोर – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/El_Salvador" title="El Salvador – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80%D0%BC%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Салвадормудин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%97%98%EC%82%B4%EB%B0%94%EB%8F%84%EB%A5%B4" title="엘살바도르 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Salvador" title="Salvador – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%A1%D5%AC%D5%BE%D5%A1%D5%A4%D5%B8%D6%80" title="Սալվադոր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2_%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%8B%E0%A4%B0" title="अल साल्वाडोर – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/El_Salvador" title="El Salvador – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Salvador" title="Salvador – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Salvador" title="Salvador – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/El_Salvador" title="El Salvador – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%8F%E0%A6%B2_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%AD%E0%A6%BE%E0%A6%A6%E0%A6%B0" title="এল সালভাদর – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/El_Salvador" title="El Salvador – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/El_Salvador" title="El Salvador – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/El_Salvador" title="El Salvador – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/El_Salvador" title="El Salvador – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/El_Salvador" title="El Salvador – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/El_Salvador" title="El Salvador – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9C_%D7%A1%D7%9C%D7%95%D7%95%D7%93%D7%95%D7%A8" title="אל סלוודור – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/%C3%88l_Salvador" title="Èl Salvador – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Sal%C9%A9vaad%C9%94%C9%94r%C9%A9" title="Salɩvaadɔɔrɩ – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%8E%E0%B2%B2%E0%B3%8D_%E0%B2%B8%E0%B2%BE%E0%B2%B2%E0%B3%8D%E0%B2%B5%E0%B2%A1%E0%B2%BE%E0%B2%B0%E0%B3%8D" title="ಎಲ್ ಸಾಲ್ವಡಾರ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/El_Salvador" title="El Salvador – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%9A%E1%83%95%E1%83%90%E1%83%93%E1%83%9D%E1%83%A0%E1%83%98" title="სალვადორი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/El_Salvador" title="El Salvador – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Saluvadoro" title="Saluvadoro – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/El_Salvador" title="El Salvador – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Salvadora" title="Salvadora – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Salvad%C3%B2" title="Salvadò – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Salvador" title="Salvador – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/El_Salvador" title="El Salvador – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/L_Salvadour" title="L Salvadour – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/El_Salvador" title="El Salvador – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A7%D9%92%D9%84%D8%B3%D8%A7%D9%84%DA%A4%D8%A7%D8%AF%D9%88%D8%B1" title="اْلسالڤادور – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Salvatoria" title="Salvatoria – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Salvadora" title="Salvadora – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/El_Salvador" title="El Salvador – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Salvadoras" title="Salvadoras – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/El_Salvador" title="El Salvador – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/El_Salvador" title="El Salvador – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/El_Salvador" title="El Salvador – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Salvador" title="Salvador – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Sal%E2%80%99vador" title="Sal’vador – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/salbador" title="salbador – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/El_Salvador" title="El Salvador – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Salvador" title="Salvador – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%95%D0%BB_%D0%A1%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Ел Салвадор – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Salvadoro" title="Salvadoro – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%8E%E0%B5%BD_%E0%B4%B8%E0%B4%BE%E0%B5%BD%E0%B4%B5%E0%B4%A6%E0%B5%8B%E0%B5%BC" title="എൽ സാൽവദോർ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/El_Salvador" title="El Salvador – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2_%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A5%8B%E0%A4%B0" title="एल साल्वादोर – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%9A%E1%83%95%E1%83%90%E1%83%93%E1%83%9D%E1%83%A0%E1%83%98" title="სალვადორი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%81%D8%A7%D8%AF%D9%88%D8%B1" title="السالفادور – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%88%D8%B1" title="السالوادور – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/El_Salvador" title="El Salvador – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/El_Salvador" title="El Salvador – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%9A%E1%80%BA%E1%80%86%E1%80%AC%E1%80%97%E1%80%B1%E1%80%92%E1%80%AD%E1%80%AF%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="အယ်ဆာဗေဒိုနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Cozcatlan" title="Cozcatlan – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Ersarbador" title="Ersarbador – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/El_Salvador" title="El Salvador – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2_%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%AD%E0%A4%BE%E0%A4%A6%E0%A5%8B%E0%A4%B0" title="एल साल्भादोर – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2_%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%AD%E0%A4%BE%E0%A4%A6%E0%A5%8B%E0%A4%B0" title="एल साल्भादोर – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%82%B5%E3%83%AB%E3%83%90%E3%83%89%E3%83%AB" title="エルサルバドル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/El_Salvador" title="El Salvador – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/El_Salwadoor" title="El Salwadoor – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/El_Salvador" title="El Salvador – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/El_Salvador" title="El Salvador – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/El_Salvador" title="El Salvador – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/El_Salvador" title="El Salvador – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Lo_Salvador" title="Lo Salvador – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%8F%E0%AC%B2_%E0%AC%B8%E0%AC%BE%E0%AC%B2%E0%AC%AD%E0%AC%BE%E0%AC%A1%E0%AD%8B%E0%AC%B0" title="ଏଲ ସାଲଭାଡୋର – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/El_Salvaador" title="El Salvaador – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/El_Salvador" title="El Salvador – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%BE%E0%A8%B2%E0%A8%B5%E0%A8%BE%E0%A8%A6%E0%A9%8B%E0%A8%B0" title="ਸਾਲਵਾਦੋਰ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2-%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%8B%E0%A4%B0" title="एल-साल्वाडोर – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D9%84_%D8%B3%D8%A7%D9%84%D9%88%D8%A7%DA%88%D9%88%D8%B1" title="ال سالواڈور – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/El_Salvador" title="El Salvador – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/El_Salvaduor" title="El Salvaduor – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/El_Salvador" title="El Salvador – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/El_Salvador" title="El Salvador – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Salwador" title="Salwador – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/El_Salvador" title="El Salvador – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/El_Salvador" title="El Salvador – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/El_Salvador" title="El Salvador – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/El_Salvador" title="El Salvador – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Salwadur" title="Salwadur – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Салвадор – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%AD%D0%BB_%D0%A1%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Эл Салвадор – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/El_salvador" title="El salvador – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/El_Salvador" title="El Salvador – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2-%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%8B%E0%A4%B0" title="एल-साल्वाडोर – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/El_Salvador" title="El Salvador – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/El_Salvador" title="El Salvador – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Salvadori" title="Salvadori – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/El_Salvador" title="El Salvador – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%91%E0%B6%BD%E0%B7%8A_%E0%B7%83%E0%B7%90%E0%B6%BD%E0%B7%8A%E0%B7%80%E0%B6%AF%E0%B7%9D%E0%B6%BB%E0%B6%BA" title="එල් සැල්වදෝරය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A7%D9%8A%D9%84_%D8%B3%D9%8A%D9%84%D9%88%D9%8A%DA%8A%D9%88%D8%B1" title="ايل سيلويڊور – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/ISalivado" title="ISalivado – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Salv%C3%A1dor" title="Salvádor – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Salvador" title="Salvador – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Salwad%C5%AFr" title="Salwadůr – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/El_Salfador" title="El Salfador – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%8E%D9%84%D8%B3%D8%A7%D9%84%DA%A4%D8%A7%D8%AF%DB%86%D8%B1" title="ئێلسالڤادۆر – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Салвадор – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Salvador" title="Salvador – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/%C3%89l_Salvador" title="Él Salvador – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/El_Salvador" title="El Salvador – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/El_Salvador" title="El Salvador – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/El_Salvador" title="El Salvador – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%B2%E0%AF%8D_%E0%AE%9A%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AE%9F%E0%AF%8B%E0%AE%B0%E0%AF%8D" title="எல் சால்வடோர் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A2%E1%82%84%E1%82%87%E1%80%9E%E1%82%83%E1%82%87%E1%80%9D%E1%82%83%E1%82%87%E1%80%90%E1%80%B1%E1%82%83%E1%82%87" title="မိူင်းဢႄႇသႃႇဝႃႇတေႃႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%8E%E0%B0%B2%E0%B1%8D_%E0%B0%B8%E0%B0%BE%E0%B0%B2%E0%B1%8D%E0%B0%B5%E0%B0%A1%E0%B1%8B%E0%B0%B0%E0%B1%8D" title="ఎల్ సాల్వడోర్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Salvad%C3%B3r" title="Salvadór – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B8%8B%E0%B8%B1%E0%B8%A5%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="ประเทศเอลซัลวาดอร์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Салвадор – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/El_Salvador" title="El Salvador – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80" title="Сальвадор – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%DB%8C%D9%84_%D8%B3%DB%8C%D9%84%D9%88%D8%A7%DA%88%D9%88%D8%B1" title="ایل سیلواڈور – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%A6%DB%95%D9%84_%D8%B3%D8%A7%D9%84%DB%8B%D8%A7%D8%AF%D9%88%D8%B1" title="ئەل سالۋادور – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/El_Salvador" title="El Salvador – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/El_Salvador" title="El Salvador – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Sal%27vador" title="Sal'vador – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/El_Salvador" title="El Salvador – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Salvador%C3%A4n" title="Salvadorän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/El_Salvador" title="El Salvador – Võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E8%96%A9%E7%88%BE%E7%93%A6%E5%A4%9A" title="薩爾瓦多 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/El_Salvador" title="El Salvador – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Salbadoor" title="Salbadoor – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E8%96%A9%E7%88%BE%E7%93%A6%E5%A4%9A" title="薩爾瓦多 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A2%D7%9C_%D7%A1%D7%90%D7%9C%D7%95%D7%95%D7%90%D7%93%D7%90%D7%A8" title="על סאלוואדאר – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/El_Salfador" title="El Salfador – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E8%96%A9%E7%88%BE%E7%93%A6%E5%A4%9A" title="薩爾瓦多 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/El_Salvador" title="El Salvador – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/El_Salvador" title="El Salvador – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Salvaduors" title="Salvaduors – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%90%A8%E5%B0%94%E7%93%A6%E5%A4%9A" title="萨尔瓦多 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q792#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 15 November 2020, at 16:26.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=El_Salvador&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.996","walltime":"1.173","ppvisitednodes":{"value":3761,"limit":1000000},"postexpandincludesize":{"value":82447,"limit":2097152},"templateargumentsize":{"value":10259,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14785,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1065.416      1 -total"," 76.52%  815.219      1 Template:Infobox_country"," 74.91%  798.142      3 Template:Infobox"," 23.82%  253.765      1 Template:Coord"," 13.13%  139.913      1 Template:Lang"," 11.28%  120.152      3 Template:ISO_3166_code"," 10.60%  112.980      1 Template:Reflist","  9.16%   97.558      4 Template:Cite_web","  8.11%   86.458      1 Template:Authority_control","  5.50%   58.586      1 Template:Infobox_country/imagetable"]},"scribunto":{"limitreport-timeusage":{"value":"0.708","limit":"10.000"},"limitreport-memusage":{"value":31162397,"limit":52428800}},"cachereport":{"origin":"mw1296","timestamp":"20201215234713","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"El Salvador","url":"https:\/\/simple.wikipedia.org\/wiki\/El_Salvador","sameAs":"http:\/\/www.wikidata.org\/entity\/Q792","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q792","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-13T17:55:15Z","dateModified":"2020-11-15T16:26:20Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/34\/Flag_of_El_Salvador.svg","headline":"sovereign state in Central America"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":313,"wgHostname":"mw1274"});});</script> 
+ </body>
+</html>

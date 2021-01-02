@@ -1,0 +1,1127 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Norway - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lUVQpAICEAAHOMDeAAAABQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Norway","wgTitle":"Norway","wgCurRevisionId":7197028,"wgRevisionId":7197028,"wgArticleId":3460,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Norwegian-language sources (no)","CS1 maint: unrecognized language","CS1 Norwegian-language sources (no)","CS1 errors: invisible characters","CS1 errors: empty unknown parameters","CS1 errors: dates","Pages using infobox country with unknown parameters","Coordinates on Wikidata","Members of NATO","Norway",
+"Nordic countries","Current monarchies","1945 establishments in Europe"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Norway","wgRelevantArticleId":3460,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":60.38,"lon":5.34},"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q20"};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Norway"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Norway&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Norway&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Norway"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Norway rootpage-Norway skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Norway</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           <b>Kingdom of Norway</b>
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <i>Kongeriket Norge</i>&nbsp;<small>(<a href="/wiki/Bokm%C3%A5l" title="Bokmål">Bokmål</a>)</small>
+           <br><i>Kongeriket Noreg</i>&nbsp;<small>(<a href="/wiki/Nynorsk" title="Nynorsk">Nynorsk</a>)</small>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Norway.svg" class="image" title="Flag of Norway"><img alt="Flag of Norway" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/125px-Flag_of_Norway.svg.png" decoding="async" width="125" height="91" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/188px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Norway" title="Flag of Norway">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Norway.svg" class="image" title="Coat of arms of Norway"><img alt="Coat of arms of Norway" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Norway.svg/85px-Coat_of_arms_of_Norway.svg.png" decoding="async" width="85" height="152" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Norway.svg/128px-Coat_of_arms_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Norway.svg/170px-Coat_of_arms_of_Norway.svg.png 2x" data-file-width="262" data-file-height="467"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b><a href="/w/index.php?title=Royal_mottos_of_Norwegian_monarchs&amp;action=edit&amp;redlink=1" class="new" title="Royal mottos of Norwegian monarchs (not yet started)">Royal</a>: <i>Alt for Norge</i>
+           <br><small>("Everything for Norway")</small>
+           <br>1814 <a href="/w/index.php?title=Constitution_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="Constitution of Norway (not yet started)">Eidsvoll oath</a>: <i>Enig og tro til <a href="/wiki/Dovrefjell" title="Dovrefjell">Dovre</a> faller</i>
+           <br><small>("United and loyal until the mountains of Dovre crumble")</small>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b><i><a href="/wiki/Ja,_vi_elsker_dette_landet" title="Ja, vi elsker dette landet">Ja, vi elsker dette landet</a></i>
+           <br><small>("Yes, we love this country")</small>
+           <center>
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="62.249795918367" data-startoffset="0" data-mwtitle="Norway_(National_Anthem).ogg" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/f/f6/Norway_%28National_Anthem%29.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (142 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="141918">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/f6/Norway_%28National_Anthem%29.ogg/Norway_%28National_Anthem%29.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="198424">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ANorway_%28National_Anthem%29.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ANorway_%28National_Anthem%29.ogg&amp;lang=ko&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ko" label="한국어 (ko) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ANorway_%28National_Anthem%29.ogg&amp;lang=nb&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="nb" label="norsk bokmål (nb) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ANorway_%28National_Anthem%29.ogg&amp;lang=no&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="nb" label="norsk (no) subtitles" data-dir="ltr">
+             </audio>
+            </div>
+           </center>
+          </div>
+          <hr> 
+          <div style="line-height:1.2em;">
+           <b><a href="/wiki/Royal_anthem" class="mw-redirect" title="Royal anthem">Royal anthem</a>:&nbsp;</b><i><a href="/wiki/Kongesangen" title="Kongesangen">Kongesangen</a></i>
+           <br><small>("The King's Song")</small>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Europe-Norway.svg" class="image" title="Location of &nbsp;Norway&nbsp;&nbsp;(dark green) on the European continent&nbsp;&nbsp;(dark grey)&nbsp; —&nbsp; [Legend]"><img alt="Location of &nbsp;Norway&nbsp;&nbsp;(dark green) on the European continent&nbsp;&nbsp;(dark grey)&nbsp; —&nbsp; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Europe-Norway.svg/250px-Europe-Norway.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Europe-Norway.svg/375px-Europe-Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Europe-Norway.svg/500px-Europe-Norway.svg.png 2x" data-file-width="2045" data-file-height="1720"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Norway</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark green</span>)</span>
+            <p style="width:250px;font-size:11px;text-align:center;margin-top:0px;margin-bottom:0px;line-height:1.15em;">on the <a href="/wiki/Europe" title="Europe">European continent</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark grey</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:Europe-Norway.svg" title="File:Europe-Norway.svg">Legend</a></span>]</p>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Oslo" title="Oslo">Oslo</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Norway&amp;params=59_56_N_10_41_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">59°56′N</span> <span class="longitude">10°41′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">59.933°N 10.683°E</span><span style="display:none">﻿ / <span class="geo">59.933; 10.683</span></span></span></a></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a> (<a href="/wiki/Bokm%C3%A5l" title="Bokmål">Bokmål</a> and <a href="/wiki/Nynorsk" title="Nynorsk">Nynorsk</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row"><span style="font-weight:normal;">Recognised regional&nbsp;languages</span></th>
+         <td><a href="/w/index.php?title=Northern_Sami_language&amp;action=edit&amp;redlink=1" class="new" title="Northern Sami language (not yet started)">Northern Sami</a>, <a href="/w/index.php?title=Lule_Sami_language&amp;action=edit&amp;redlink=1" class="new" title="Lule Sami language (not yet started)">Lule Sami</a>, <a href="/wiki/Kven_language" title="Kven language">Kven</a> and <a href="/w/index.php?title=Southern_Sami_language&amp;action=edit&amp;redlink=1" class="new" title="Southern Sami language (not yet started)">Southern Sami</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>81% <a href="/wiki/Norwegians" class="mw-redirect" title="Norwegians">Norwegians</a>,<sup id="cite_ref-autogenerated6_1-0" class="reference"><a href="#cite_note-autogenerated6-1">[1]</a></sup> 2% <a href="/wiki/Sami_people" title="Sami people">Sami</a>,<sup id="cite_ref-autogenerated4_2-0" class="reference"><a href="#cite_note-autogenerated4-2">[2]</a></sup> 17% other<sup id="cite_ref-autogenerated6_1-1" class="reference"><a href="#cite_note-autogenerated6-1">[1]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td><a href="/wiki/Norwegians" class="mw-redirect" title="Norwegians">Norwegian</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary democracy</a> and <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Monarchy_of_Norway" title="Monarchy of Norway">King</a> 
+          </div></th>
+         <td><a href="/wiki/Harald_V_of_Norway" title="Harald V of Norway">King Harald V</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Prime_Minister_of_Norway" title="Prime Minister of Norway">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Erna_Solberg" title="Erna Solberg">Erna Solberg</a> (<a href="/w/index.php?title=Norwegian_Conservative_Party&amp;action=edit&amp;redlink=1" class="new" title="Norwegian Conservative Party (not yet started)">H</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Parliament_of_Norway" class="mw-redirect" title="Parliament of Norway">President of the Storting</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Tone_W._Tr%C3%B8en&amp;action=edit&amp;redlink=1" class="new" title="Tone W. Trøen (not yet started)">Tone W. Trøen</a> (<a href="/w/index.php?title=Norwegian_Conservative_Party&amp;action=edit&amp;redlink=1" class="new" title="Norwegian Conservative Party (not yet started)">H</a>) (2018–2021)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Supreme_Court_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Norway (not yet started)">Chief Justice</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Toril_Marie_%C3%98ie&amp;action=edit&amp;redlink=1" class="new" title="Toril Marie Øie (not yet started)">Toril Marie Øie</a> (2016)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Norwegian_parliamentary_election,_2009&amp;action=edit&amp;redlink=1" class="new" title="Norwegian parliamentary election, 2009 (not yet started)">Current coalition</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Conservative_Coalition&amp;action=edit&amp;redlink=1" class="new" title="Conservative Coalition (not yet started)">Conservative Coalition</a> (<a href="/w/index.php?title=H%C3%B8yre&amp;action=edit&amp;redlink=1" class="new" title="Høyre (not yet started)">H</a>, <a href="/w/index.php?title=Venstre&amp;action=edit&amp;redlink=1" class="new" title="Venstre (not yet started)">V</a>, <a href="/w/index.php?title=Kristelig_folkeparti&amp;action=edit&amp;redlink=1" class="new" title="Kristelig folkeparti (not yet started)">KrF</a>)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><i><a href="/wiki/Parliament_of_Norway" class="mw-redirect" title="Parliament of Norway">Stortinget</a></i> <br>&nbsp;<b>L</b> <i><a href="/w/index.php?title=Sami_Parliament_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="Sami Parliament of Norway (not yet started)">Sámediggi</a></i></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Establishment</th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Unification_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="Unification of Norway (not yet started)">Unification</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Battle_of_Hafrsfjord&amp;action=edit&amp;redlink=1" class="new" title="Battle of Hafrsfjord (not yet started)">872</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Constitution_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="Constitution of Norway (not yet started)">Constitution</a> 
+          </div></th>
+         <td>17 May 1814</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Dissolution_of_the_union_between_Norway_and_Sweden_in_1905&amp;action=edit&amp;redlink=1" class="new" title="Dissolution of the union between Norway and Sweden in 1905 (not yet started)">Dissolution</a> of <a href="/w/index.php?title=Union_between_Sweden_and_Norway&amp;action=edit&amp;redlink=1" class="new" title="Union between Sweden and Norway (not yet started)">union with Sweden</a> 
+          </div></th>
+         <td>7 June 1905</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Restoration from <a href="/w/index.php?title=Reichskommissariat_Norwegen&amp;action=edit&amp;redlink=1" class="new" title="Reichskommissariat Norwegen (not yet started)">German occupation</a> 
+          </div></th>
+         <td>8 May 1945</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>385,207<sup id="cite_ref-kart_2019_4-0" class="reference"><a href="#cite_note-kart_2019-4">[4]</a></sup>&nbsp;km<sup>2</sup> (148,729&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">67th<sup><small>1</small></sup></a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>5.7<sup><small>3</small></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2020 estimate
+          </div></th>
+         <td>5,367,580<sup id="cite_ref-ssbf_5-0" class="reference"><a href="#cite_note-ssbf-5">[5]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">120th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2001&nbsp;census
+          </div></th>
+         <td>4,858,200</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>13.93/km<sup>2</sup> (36.1/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">213th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2010&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$255.285 billion<sup id="cite_ref-imf2_6-0" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$52,012<sup id="cite_ref-imf2_6-1" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2010&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$414.462 billion<sup id="cite_ref-imf2_6-2" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$84,443<sup id="cite_ref-imf2_6-3" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2000)</span></th>
+         <td>25.8<br><span style="white-space:nowrap;"><span style="color:forestgreen">low</span></span>&nbsp;·&nbsp;<a href="/w/index.php?title=List_of_countries_by_income_equality&amp;action=edit&amp;redlink=1" class="new" title="List of countries by income equality (not yet started)">5th</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2013)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.944<sup id="cite_ref-HDI_7-0" class="reference"><a href="#cite_note-HDI-7">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkgreen">very high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">1st</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Norwegian_krone&amp;action=edit&amp;redlink=1" class="new" title="Norwegian krone (not yet started)">Norwegian krone</a> (<a href="/wiki/ISO_4217" title="ISO 4217">NOK</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Date format</th>
+         <td>dd.mm.yyyy</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=Telephone_numbers_in_Norway&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in Norway (not yet started)">47</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:NO&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:NO (not yet started)">NO</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.no" class="mw-redirect" title=".no">.no</a><sup><small>2</small></sup></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="margin-left:1em;"> 
+            <li value="1">Includes <a href="/w/index.php?title=Svalbard_and_Jan_Mayen&amp;action=edit&amp;redlink=1" class="new" title="Svalbard and Jan Mayen (not yet started)">Svalbard and Jan Mayen</a>. (Without these two areas, the area of Norway is 323,802 km<sup>2</sup>, placing it 67th in the world.<sup id="cite_ref-CIA,_List_of_states_for_area_8-0" class="reference"><a href="#cite_note-CIA,_List_of_states_for_area-8">[8]</a></sup>)</li>
+            <li value="2">Two more TLDs have been assigned, but <a href="/w/index.php?title=Wikipedia:As_of&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia:As of (not yet started)">to date</a> not used: <a href="/wiki/.sj" class="mw-redirect" title=".sj">.sj</a> for Svalbard and Jan Mayen; <a href="/wiki/.bv" class="mw-redirect" title=".bv">.bv</a> for <a href="/wiki/Bouvet_Island" title="Bouvet Island">Bouvet Island</a>.</li>
+            <li value="3">This percentage is for the mainland and also includes glaciers<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li> 
+           </ol>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Norway</b> is a <a href="/wiki/Country" title="Country">country</a> in the north of <a href="/wiki/Europe" title="Europe">Europe</a>. It is the western part of the <a href="/wiki/Scandinavia" title="Scandinavia">Scandinavian</a> <a href="/wiki/Peninsula" title="Peninsula">peninsula</a>. The <a href="/wiki/Mainland" title="Mainland">mainland</a> of Norway is surrounded by the <a href="/wiki/North_Sea" title="North Sea">North Sea</a> and <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> on the west side, and <a href="/wiki/Border" title="Border">borders</a> <a href="/wiki/Russia" title="Russia">Russia</a>, <a href="/wiki/Finland" title="Finland">Finland</a>, and <a href="/wiki/Sweden" title="Sweden">Sweden</a> to the east. The southern coast touches the <a href="/wiki/Oslofjord" title="Oslofjord">Oslofjord</a>, <a href="/wiki/Skagerrak" title="Skagerrak">Skagerrak</a>, and the <a href="/wiki/North_Sea" title="North Sea">North Sea</a>. </p>
+      <p>The Monarchy of Norway has been <a href="/wiki/Independent" class="mw-redirect" title="Independent">independent</a> since 1814. Its <a href="/wiki/Head_of_state" title="Head of state">head of state</a> is a king - <a href="/wiki/Harald_V_of_Norway" title="Harald V of Norway">Harald the 5th</a> (as of 2017). The national day is May 17, which celebrates Norway's <a href="/wiki/Constitution" title="Constitution">constitution</a> of 1814. The parliament is called <i>Stortinget</i> and its members are <a href="/wiki/Election" title="Election">elected</a> by the people every 4 years. </p>
+      <p>About 5 million people live in Norway. The <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> is the city of <a href="/wiki/Oslo" title="Oslo">Oslo</a>. </p>
+      <p><a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a> is the national language. There are two official written versions of Norwegian called <i><a href="/wiki/Bokm%C3%A5l" title="Bokmål">Bokmål</a></i> and <i><a href="/wiki/Nynorsk" title="Nynorsk">Nynorsk</a></i>. </p>
+      <p>The <a href="/w/index.php?title=Northern_Sami&amp;action=edit&amp;redlink=1" class="new" title="Northern Sami (not yet started)">Northern Sami</a> language is spoken by around 90% of those who speak one of Norway's 3 Sami languages.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Northern Sami is also an official language in a number of <a href="/wiki/Municipality" title="Municipality">municipalities</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Royal_family_since_1905"><span class="tocnumber">1.1</span> <span class="toctext">Royal family since 1905</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Government"><span class="tocnumber">2</span> <span class="toctext">Government</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#Ministry_of_Defence"><span class="tocnumber">2.1</span> <span class="toctext">Ministry of Defence</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Economy"><span class="tocnumber">3</span> <span class="toctext">Economy</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Ethnicity"><span class="tocnumber">4</span> <span class="toctext">Ethnicity</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-7"><a href="#Tourism"><span class="tocnumber">4.1</span> <span class="toctext">Tourism</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Media"><span class="tocnumber">5</span> <span class="toctext">Media</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Culture"><span class="tocnumber">6</span> <span class="toctext">Culture</span></a></li> 
+        <li class="toclevel-1 tocsection-10"><a href="#Politics"><span class="tocnumber">7</span> <span class="toctext">Politics</span></a></li> 
+        <li class="toclevel-1 tocsection-11"><a href="#Largest_cities"><span class="tocnumber">8</span> <span class="toctext">Largest cities</span></a></li> 
+        <li class="toclevel-1 tocsection-12"><a href="#Organisations_associated_with_the_Government_of_Norway"><span class="tocnumber">9</span> <span class="toctext">Organisations associated with the Government of Norway</span></a></li> 
+        <li class="toclevel-1 tocsection-13"><a href="#Related_pages"><span class="tocnumber">10</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-14"><a href="#Other_websites"><span class="tocnumber">11</span> <span class="toctext">Other websites</span></a></li> 
+        <li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The battle of Hafrsfjord (872 A.D.) resulted in small kingdoms becoming one larger kingdom, ruled by <a href="/wiki/Harald_Fairhair" title="Harald Fairhair">Harald Fairhair</a>. After the king's death, again there were smaller kingdoms, inside Norway.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> </p>
+      <p><a href="/w/index.php?title=Stockfish&amp;action=edit&amp;redlink=1" class="new" title="Stockfish (not yet started)">Stockfish</a> (or fish that has been <a href="/wiki/Freeze" class="mw-redirect" title="Freeze">freeze</a>-<a href="/w/index.php?title=Drying&amp;action=edit&amp;redlink=1" class="new" title="Drying (not yet started)">dried</a>, outside in cold weather) has been traded and <a href="/wiki/Export" title="Export">exported</a>; this happened as early as either the <a href="/wiki/9th_century" title="9th century">9th century</a>,<sup id="cite_ref-StockfishSensationQuoteYear875_13-0" class="reference"><a href="#cite_note-StockfishSensationQuoteYear875-13">[13]</a></sup> 10th century, or 11th century until 1066.<sup id="cite_ref-StockfishSensation_14-0" class="reference"><a href="#cite_note-StockfishSensation-14">[14]</a></sup> Other sources say that the exporting was happening as early as the 12th century; stockfish is one of the country's oldest [type of] <a href="/wiki/Thing" class="mw-disambig" title="Thing">things</a> to be sold for export.<sup id="cite_ref-StockfishSensation_14-1" class="reference"><a href="#cite_note-StockfishSensation-14">[14]</a></sup> </p>
+      <p>In 1349 half of the Norwegian people died, getting sick from the <a href="/wiki/Black_Death" title="Black Death">bubonic plague (or Black Death)</a>. </p>
+      <p>When <a href="/w/index.php?title=Olaf_II_of_Denmark&amp;action=edit&amp;redlink=1" class="new" title="Olaf II of Denmark (not yet started)">a Norwegian king</a> died in 1387, there was no Norwegian king until the <a href="/wiki/20th_century" title="20th century">20th century</a>. </p>
+      <p>In 1397, Denmark, Norway and Sweden began the <a href="/wiki/Kalmar_Union" title="Kalmar Union">Kalmar Union</a>. </p>
+      <p>The first [known] <a href="/wiki/Map" title="Map">map</a>, where Norway is drawn, was made in 1482.<sup id="cite_ref-FirstMapDagbladet_15-0" class="reference"><a href="#cite_note-FirstMapDagbladet-15">[15]</a></sup><sup id="cite_ref-FirstMap_16-0" class="reference"><a href="#cite_note-FirstMap-16">[16]</a></sup> </p>
+      <p>Sweden left the <a href="/wiki/Kalmar_Union" title="Kalmar Union">Kalmar Union</a> in 1523. From 1536/1537, Denmark and Norway formed a <a href="/wiki/Personal_union" title="Personal union">personal union</a> that by 1660 became the state called <a href="/w/index.php?title=Denmark%E2%80%93Norway&amp;action=edit&amp;redlink=1" class="new" title="Denmark–Norway (not yet started)">Denmark–Norway</a>; Norway was the weaker part of the union with <a href="/wiki/Denmark" title="Denmark">Denmark</a>. That union lasted until 1814,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> when the <a href="/w/index.php?title=Treaty_of_Kiel&amp;action=edit&amp;redlink=1" class="new" title="Treaty of Kiel (not yet started)">Treaty of Kiel</a> said that Norway be <a href="/wiki/Ceded" class="mw-redirect" title="Ceded">ceded</a> (or given) to Sweden; Denmark did not cede the <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a>, Iceland, and Greenland </p>
+      <p>The Norwegian <a href="/wiki/Constitution" title="Constitution">constitution</a> was written in 1814 and signed on 17th May that year. However, Denmark, on the losing side of the <a href="/wiki/Napoleon" title="Napoleon">Napoleon</a> wars, lost Norway to <a href="/wiki/Sweden" title="Sweden">Sweden</a>, on the winning side. </p>
+      <p>A <a href="/w/index.php?title=Swedish%E2%80%93Norwegian_War_(1814)&amp;action=edit&amp;redlink=1" class="new" title="Swedish–Norwegian War (1814) (not yet started)">Swedish–Norwegian War</a> started on 26 July 1814. It ended on 14 August, because of an <a href="/wiki/Agreement" title="Agreement">agreement</a>, called the <a href="/w/index.php?title=Convention_of_Moss&amp;action=edit&amp;redlink=1" class="new" title="Convention of Moss (not yet started)">Convention of Moss</a>. </p>
+      <p><b><a href="/wiki/Union_of_Sweden_and_Norway" title="Union of Sweden and Norway">The union with Sweden</a></b>: It started on 14 August 1814, when the <a href="/w/index.php?title=Convention_of_Moss&amp;action=edit&amp;redlink=1" class="new" title="Convention of Moss (not yet started)">Convention of Moss</a> <a href="https://en.wikipedia.org/wiki/Convention_of_Moss" class="extiw" title="en:Convention of Moss">(en)</a> was signed;<sup id="cite_ref-ConventionOfMoss_19-0" class="reference"><a href="#cite_note-ConventionOfMoss-19">[19]</a></sup> the union went on for 90 years. </p>
+      <p>The results of the election in 1882, led to <a href="/w/index.php?title=Parlamentarism&amp;action=edit&amp;redlink=1" class="new" title="Parlamentarism (not yet started)">parlamentarism</a> becoming part of Norway's <a href="/w/index.php?title=Political_system&amp;action=edit&amp;redlink=1" class="new" title="Political system (not yet started)">political system</a>; the votes of the "swamp men" decided the outcome of the election; they included teachers, artists and <a href="/w/index.php?title=Craftsmen&amp;action=edit&amp;redlink=1" class="new" title="Craftsmen (not yet started)">craftsmen</a> who were not poor but also did not own land; ownership of land or a contract to use land was necessary to get <a href="/w/index.php?title=Voting_right&amp;action=edit&amp;redlink=1" class="new" title="Voting right (not yet started)">voting rights</a>; the "swamp men" had bough cheap land which was nearly useless, except for getting a <a href="/wiki/Right_to_vote" class="mw-redirect" title="Right to vote">right to vote</a>.<sup id="cite_ref-SwampMenDagsavisen_20-0" class="reference"><a href="#cite_note-SwampMenDagsavisen-20">[20]</a></sup> </p>
+      <p>The right to vote in [ <a href="/wiki/National" class="mw-redirect" title="National">national</a> and <a href="/w/index.php?title=Local&amp;action=edit&amp;redlink=1" class="new" title="Local (not yet started)">local</a> ] <a href="/wiki/Election" title="Election">elections</a>, was given to the public (or the <a href="/w/index.php?title=General_public&amp;action=edit&amp;redlink=1" class="new" title="General public (not yet started)">general public</a>) in 1898.<sup id="cite_ref-SwampMen_21-0" class="reference"><a href="#cite_note-SwampMen-21">[21]</a></sup> </p>
+      <p>The end of the <b><a href="/wiki/Union_of_Sweden_and_Norway" title="Union of Sweden and Norway">Union of Sweden and Norway</a></b>, was on 7 June 1905, when Norway got its <a href="/wiki/Independence" title="Independence">independence</a>. </p>
+      <p>In 1905 <a href="/w/index.php?title=Prince_Carl_of_Denmark&amp;action=edit&amp;redlink=1" class="new" title="Prince Carl of Denmark (not yet started)">Prince Carl of Denmark</a> was elected <a href="/w/index.php?title=King_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="King of Norway (not yet started)">King of Norway</a>. His name as a king, was <a href="/w/index.php?title=Haakon_VII_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="Haakon VII of Norway (not yet started)">King Haakon VII</a>. </p>
+      <p>In <a href="/wiki/World_War_I" title="World War I">World War I</a>, Norway was neutral and served as a trading nation. </p>
+      <p>Norway tried to stay neutral in <a href="/wiki/World_War_II" title="World War II">World War II</a>, but was occupied by German forces from 9 April 1940 to 8 May 1945. </p>
+      <p>In 1952 Norway became a member of <a href="/wiki/NATO" title="NATO">NATO</a>. </p>
+      <p>Oil was found in Norway's part of the <a href="/wiki/North_Sea" title="North Sea">North Sea</a>, during the 1960s; the oil was found under the <a href="/wiki/Sea_floor" class="mw-redirect" title="Sea floor">sea floor</a>. </p> 
+      <h3><span class="mw-headline" id="Royal_family_since_1905">Royal family since 1905</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Royal family since 1905">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=2" title="Change section: Royal family since 1905">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/w/index.php?title=King_Haakon_VII&amp;action=edit&amp;redlink=1" class="new" title="King Haakon VII (not yet started)">King Haakon VII</a> was already married, before he came to Norway (in 1905). His wife, Princess Maud, became <a href="/w/index.php?title=Maud_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="Maud of Norway (not yet started)">Queen Maud</a>. Their son, Prince Alexander of Denmark, became Crown Prince Olav and followed after his father as <a href="/w/index.php?title=Olav_V_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="Olav V of Norway (not yet started)">King Olav V</a> in 1957. Olav and his wife, <a href="/w/index.php?title=Crown_Princess_M%C3%A4rtha_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="Crown Princess Märtha of Norway (not yet started)">Crown Princess Märtha</a>, had three children; Princess Ragnhild, Princess Astrid and Prince Harald (later Crown Prince Harald and in 1991 he followed his father as <a href="/wiki/Harald_V_of_Norway" title="Harald V of Norway">King Harald V</a>). </p>
+      <p>King Harald is the first king born in Norway in over 600 years. He has two children; Princess Märtha Louise and <a href="/w/index.php?title=Crown_Prince_Haakon_of_Norway&amp;action=edit&amp;redlink=1" class="new" title="Crown Prince Haakon of Norway (not yet started)">Crown Prince Haakon Magnus</a>. </p> 
+      <h2><span class="mw-headline" id="Government">Government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Government">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=3" title="Change section: Government">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Ministry_of_Defence">Ministry of Defence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Ministry of Defence">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=4" title="Change section: Ministry of Defence">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The Government has Norwegian soldiers working in <a href="/wiki/Syria" title="Syria">Syria</a> (as of 2017)<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> and <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>, together with soldiers from other countries that belong to <a href="/wiki/NATO" title="NATO">NATO</a>. </p> 
+      <h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Economy">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=5" title="Change section: Economy">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a href="/wiki/Exports" class="mw-redirect" title="Exports">Exports</a> include&nbsp;: <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, <a href="/wiki/Oil" title="Oil">oil</a>, <a href="/wiki/Hydroelectric" class="mw-redirect" title="Hydroelectric">hydroelectric</a> power, and <a href="/wiki/Fish" title="Fish">fish</a>. Other <a href="/wiki/Natural_resource" title="Natural resource">natural resources</a> are <a href="/wiki/Agriculture" class="mw-redirect" title="Agriculture">agriculture</a>, <a href="/wiki/Forest" title="Forest">forests</a>, and <a href="/wiki/Mineral" title="Mineral">minerals</a>. </p>
+      <p>The government collects much money from various sources, and has policies intended to spread this wealth among Norwegians. This spread of wealth, is done both directly and indirectly. </p> 
+      <h2><span class="mw-headline" id="Ethnicity">Ethnicity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Ethnicity">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=6" title="Change section: Ethnicity">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Most people in Norway are ethnic Norwegians. They speak a language that is related to German and English. Swedish and Danish are so close to Norwegian that most Norwegians understand them. Across Norway, many different dialects are spoken. Norwegians disagree on how to make one correct written language. Therefore, there are two standard languages, Bokmål and Nynorsk. Nynorsk is used in writing in most of the western areas and in the central mountains. Bokmål is written by most people in the rest of the country. </p>
+      <p>A native population of Norway, the <a href="/wiki/Sami_people" title="Sami people">Sami people</a>, has its home in the northern parts of the country. Their language is not at all related to Norwegian. In some parishes in the far north, they make up the majority of people. Many Sami now live outside the Sami homeland, mostly in Oslo and other big cities. Earlier, Sami people were forced to speak Norwegian in school. Now Sami is taught as the first language in school for Sami children, and Norwegian is the first foreign language. </p>
+      <p>Many immigrants have come to Norway in the last 30–40 years. They mostly live in and around Oslo, and in the other big cities. Many immigrants come from nearby countries, like Sweden, Denmark, Germany, Poland and Russia. There are also many from countries far away, such as <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>, <a href="/wiki/Somalia" title="Somalia">Somalia</a>, <a href="/wiki/Iraq" title="Iraq">Iraq</a> and <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a>. </p>
+      <p>Traditionally, all Norwegians were <a href="/wiki/Lutheranism" title="Lutheranism">Lutherans</a>, a variety of the <a href="/wiki/Protestantism" title="Protestantism">Protestant</a> faith. Still, more than 80% of Norwegians are Lutherans. Other important faiths include <a href="/wiki/Islam" title="Islam">Islam</a>, other Protestant groups and <a href="/wiki/Catholicism" title="Catholicism">Catholicism</a>. </p> 
+      <h3><span class="mw-headline" id="Tourism">Tourism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Tourism">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=7" title="Change section: Tourism">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Among tourists to Norway, more come from <a href="/wiki/Germany" title="Germany">Germany</a> than from any other country. There are also many Swedes, Danes, British, Dutch and Italians visiting Norway. The Swedes and Danes often come in winter to go skiing. The others mainly come in summer. Many people visit Norway to see the Northern Lights, also known as the 'Aurora Borealis'. </p> 
+      <h2><span class="mw-headline" id="Media">Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: Media">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=8" title="Change section: Media">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The largest national newspapers in Norway are <a href="/w/index.php?title=Verdens_Gang&amp;action=edit&amp;redlink=1" class="new" title="Verdens Gang (not yet started)">Verdens Gang</a> (VG), <a href="/w/index.php?title=Aftenposten&amp;action=edit&amp;redlink=1" class="new" title="Aftenposten (not yet started)">Aftenposten</a> and <a href="/w/index.php?title=Dagbladet&amp;action=edit&amp;redlink=1" class="new" title="Dagbladet (not yet started)">Dagbladet</a>. </p> 
+      <h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Culture">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=9" title="Change section: Culture">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Norwegian culture can be compared to English culture in the way that it is considered a bad thing to show off, as opposed to the US, where this is more acceptable. This is a big aspect of Norwegian culture, and it is related to the philosophy of <a href="/wiki/Egalitarianism" title="Egalitarianism">egalitarianism</a>. Because of this, people will understate things, for example if a Norwegian says something is good or nice, it can mean that it's really great. </p>
+      <p><a href="/w/index.php?title=Item&amp;action=edit&amp;redlink=1" class="new" title="Item (not yet started)">Items</a> from the Viking Age (in Norway), are shown in museums: One item is the <a href="/w/index.php?title=Gokstad_ship&amp;action=edit&amp;redlink=1" class="new" title="Gokstad ship (not yet started)">Gokstad ship</a>. </p>
+      <p>Museums in Norway includes <a href="/w/index.php?title=The_Ibsen_Museum&amp;action=edit&amp;redlink=1" class="new" title="The Ibsen Museum (not yet started)">The Ibsen Museum</a> - named after <a href="/wiki/Henrik_Ibsen" title="Henrik Ibsen">Henrik Ibsen</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> </p>
+      <p>The farmers' culture (<i>bondekulturen</i>) was brutal.<sup id="cite_ref-ForestKillingsOfBabies_24-0" class="reference"><a href="#cite_note-ForestKillingsOfBabies-24">[24]</a></sup> Unwanted babies were "placed in the <a href="/wiki/Forest" title="Forest">forest</a>" (<i>sette barn på skogen</i>) to die, until the <a href="/wiki/Nineteenth_century" class="mw-redirect" title="Nineteenth century">nineteenth century</a>; in the end, the [rural] police authority - consisting of individuals called <a href="/w/index.php?title=Lensmann&amp;action=edit&amp;redlink=1" class="new" title="Lensmann (not yet started)">lensmann</a> <a href="https://en.wikipedia.org/wiki/Lensmann" class="extiw" title="en:Lensmann">(en)</a> - were able to control [and stop] these <a href="/wiki/Crime" title="Crime">crimes</a>.<sup id="cite_ref-ForestKillingsOfBabies_24-1" class="reference"><a href="#cite_note-ForestKillingsOfBabies-24">[24]</a></sup> </p>
+      <p>Modern, cambered skis were invented in the Norwegian province of Telemark in the early 19th century.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: Politics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=10" title="Change section: Politics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In Norway power is shared among three branches: The justice sector, the government and the <a href="/wiki/Parliament" title="Parliament">parliament</a> (<a href="/wiki/Stortinget" class="mw-redirect" title="Stortinget">Stortinget</a>). Norway also has a king, <a href="/wiki/Harald_V_of_Norway" title="Harald V of Norway">Harald V</a>, but he does not have any real power and acts as a symbol and <a href="/wiki/Ambassador" title="Ambassador">ambassador</a>. This form of government is called a <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a>. Elections are held every four years, and the winner of the election is the party or <a href="/wiki/Coalition" title="Coalition">coalition</a> of parties that gets the most votes and seats in the parliament. After the elections are done, the winners work together to find out who the <a href="/wiki/Prime_minister" title="Prime minister">prime minister</a> should be, as well as who the other <a href="/wiki/Minister_(government)" title="Minister (government)">ministers</a> should be. </p>
+      <p>Here is a short summary of the biggest political parties in Norway, from left to right on the <a href="/wiki/Politics#Left-wing_and_right-wing_political_parties" title="Politics">political axis</a>: </p> 
+      <ul>
+       <li><a href="/wiki/Red_(Norway)" class="mw-redirect" title="Red (Norway)">Red</a> (Rødt): A <a href="/w/index.php?title=Revolutionary_socialist&amp;action=edit&amp;redlink=1" class="new" title="Revolutionary socialist (not yet started)">revolutionary socialist</a> party which works for equality of income, labour rights, a controlled economy and <a href="/wiki/Feminism" title="Feminism">feminism</a>.</li> 
+       <li><a href="/wiki/Socialist_Left_Party_(Norway)" class="mw-redirect" title="Socialist Left Party (Norway)">Socialist Left Party</a> (Sosialistisk venstreparti): The party is not very radical and is concerned with environmental issues as well as education. The party is traditionally regarded as the "teacher's party" because of their focus on learning and school. One might call SV more of a <a href="/wiki/Social_democracy" title="Social democracy">social democratic</a> party than a socialist party, since their socialist views have faded over the years. They were more radical in the 1970s and 80s.</li> 
+       <li><a href="/wiki/Norwegian_Labour_Party" title="Norwegian Labour Party">Norwegian Labour Party</a> (Arbeiderpartiet): The Labour Party is the biggest party in Norway. They work for a strong economy with many regulations on private businesses, and are traditionally the party for workers, securing labour rights and the <a href="/wiki/Welfare_state" title="Welfare state">welfare state</a>.</li> 
+       <li><a href="/w/index.php?title=Centre_Party_(Norway)&amp;action=edit&amp;redlink=1" class="new" title="Centre Party (Norway) (not yet started)">Centre Party</a> (Senterpartiet): The Centre Party used to be known as the farmer's party; they no longer use this name, but still they are mostly popular in the countryside and other rural regions, since they work for the environment and protection of Norwegian farmers. For example, raising <a href="/wiki/Tariff" title="Tariff">tariffs</a>, or putting <a href="/wiki/Tax" title="Tax">taxes</a> on <a href="/wiki/Import" title="Import">imports</a>, to make foreign food cost more so that people will buy from Norwegian farmers. This is called <a href="/wiki/Protectionism" title="Protectionism">protectionism</a>.</li> 
+       <li><a href="/w/index.php?title=Green_party&amp;action=edit&amp;redlink=1" class="new" title="Green party (not yet started)">Green Party</a> (Miljøpartiet de Grønne): The Green party works for the environment only, and has recently been gaining a lot of popularity for its radical politics. They are mostly a left-side party, but will switch sides if it helps the environment.</li> 
+       <li><a href="/w/index.php?title=Liberal_Party_(Norway)&amp;action=edit&amp;redlink=1" class="new" title="Liberal Party (Norway) (not yet started)">Liberal Party</a> (Venstre): Even though it is called Left in English, it is actually a <a href="/wiki/Social_liberal" class="mw-redirect" title="Social liberal">social liberal</a> party that belongs to the centre-right side of Norwegian politics. They work for liberal rights like <a href="/wiki/Freedom_of_speech" title="Freedom of speech">freedom of speech</a>, <a href="/wiki/Gender_equality" title="Gender equality">gender equality</a> and they are also concerned with environment. Because of this they heavily support <a href="/wiki/Public_transport" title="Public transport">public transport</a>.</li> 
+       <li>Kristelig Folkeparti: The Christian People's Party is at present more active in local than national politics.</li> 
+       <li><a href="/w/index.php?title=Conservative_Party_(Norway)&amp;action=edit&amp;redlink=1" class="new" title="Conservative Party (Norway) (not yet started)">Conservative Party</a> (Høgre): The flagship of the right side of politics, it is a conservative party and is the second biggest party in Norway. It works for a <a href="/wiki/Free_market" title="Free market">free market</a>, liberal rights and equality of opportunity. They are friendly towards private businesses and support economic growth by making taxes smaller, so that more people can start businesses.</li> 
+       <li><a href="/w/index.php?title=Progress_Party_(Norway)&amp;action=edit&amp;redlink=1" class="new" title="Progress Party (Norway) (not yet started)">Progress Party</a> (Fremskrittspartiet): The Progress Party is a right-side party. It works for stronger <a href="/wiki/Immigration" title="Immigration">immigration laws</a>, a <a href="/wiki/Capitalism" title="Capitalism">free market</a> and tough penalties for <a href="/wiki/Crime" title="Crime">crimes</a>. They also support private schools and <a href="/wiki/Tax" title="Tax">flat taxes</a>.</li>
+      </ul> 
+      <p>The Conservative Party and the Progress Party are currently working together in a <a href="/wiki/Coalition" title="Coalition">coalition</a> government, after getting elected in the 2013 elections. It's also a <a href="/w/index.php?title=Minority_government&amp;action=edit&amp;redlink=1" class="new" title="Minority government (not yet started)">minority government</a>, so it has to work together with the other parties in the parliament to make change. </p> 
+      <h2><span class="mw-headline" id="Largest_cities">Largest cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Change section: Largest cities">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=11" title="Change section: Largest cities">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The city with the most people living there (or <a href="/wiki/Inhabitant" class="mw-redirect" title="Inhabitant">inhabitants</a>) is <a href="/wiki/Oslo" title="Oslo">Oslo</a>. The city of <a href="/wiki/Bergen" title="Bergen">Bergen</a> has 251,000 people living there; the city of <a href="/wiki/Trondheim" title="Trondheim">Trondheim</a> has 172,000 people in its <a href="/wiki/Population" title="Population">population</a>. </p>
+      <p>Some claim that Bergen and Trondheim, each had their time, as Norway's capital during the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Organisations_associated_with_the_Government_of_Norway">Organisations associated with the Government of Norway</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Change section: Organisations associated with the Government of Norway">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=12" title="Change section: Organisations associated with the Government of Norway">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/NATO" title="NATO">NATO</a>&nbsp;: Norway was a founding member.</li> 
+       <li><a href="/wiki/United_Nations" title="United Nations">United Nations</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=13" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/List_of_rivers_of_Norway" title="List of rivers of Norway">List of rivers of Norway</a></li> 
+       <li><a href="/wiki/Norway_at_the_Olympics" title="Norway at the Olympics">Norway at the Olympics</a></li> 
+       <li><a href="/wiki/Norway_national_football_team" title="Norway national football team">Norway national football team</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=14" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.norway.no">Norway.no</a> – Norway's official website</li> 
+       <li><a rel="nofollow" class="external text" href="http://www.visitnorway.com">VisitNorway.com</a> – Official travel guide to Norway</li> 
+       <li><a rel="nofollow" class="external text" href="http://www.environment.no/Topics/Norway/">Environment.no</a> – State of the environment in Norway</li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Norway&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Norway&amp;action=edit&amp;section=15" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-autogenerated6-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-autogenerated6_1-0">1.0</a></sup> <sup><a href="#cite_ref-autogenerated6_1-1">1.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ssb.no/innvbef_en/tab-2011-04-28-01-en.html">"Statistics Norway – Population 1 January 2010 and 2011 and changes in 2010, by immigration category and country background. Absolute numbers"</a> (in <span class="languageicon">(in Norwegian)</span>). Ssb.no. 2010-01-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Statistics+Norway+%E2%80%93+Population+1+January+2010+and+2011+and+changes+in+2010%2C+by+immigration+category+and+country+background.+Absolute+numbers&amp;rft.pub=Ssb.no&amp;rft.date=2010-01-01&amp;rft_id=http%3A%2F%2Fwww.ssb.no%2Finnvbef_en%2Ftab-2011-04-28-01-en.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: unrecognized language (<a href="/wiki/Category:CS1_maint:_unrecognized_language" title="Category:CS1 maint: unrecognized language">link</a>)</span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-autogenerated4-2"><span class="mw-cite-backlink"><a href="#cite_ref-autogenerated4_2-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/no.html">"CIA – The World Factbook"</a>. Cia.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CIA+%E2%80%93+The+World+Factbook&amp;rft.pub=Cia.gov&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fno.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.regjeringen.no/en/the-government/solberg/id85843/">New government 24.01.2020</a></span> </li> 
+         <li id="cite_note-kart_2019-4"><span class="mw-cite-backlink"><a href="#cite_ref-kart_2019_4-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.kartverket.no/Kunnskap/Fakta-om-Norge/Arealstatistikk/Arealstatistikk-Norge/">"Arealstatistics for Norway 2019"</a>. Kartverket, mapping directory for Norway. 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Arealstatistics+for+Norway+2019&amp;rft.pub=Kartverket%2C+mapping+directory+for+Norway&amp;rft.date=2019&amp;rft_id=https%3A%2F%2Fwww.kartverket.no%2FKunnskap%2FFakta-om-Norge%2FArealstatistikk%2FArealstatistikk-Norge%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-ssbf-5"><span class="mw-cite-backlink"><a href="#cite_ref-ssbf_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ssb.no/en/befolkning/statistikker/folkemengde/aar-per-1-januar">"Population, 2020-01-01"</a> (in Norwegian). Statistics Norway. 2020-02-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Population%2C+2020-01-01&amp;rft.pub=Statistics+Norway&amp;rft.date=2020-02-27&amp;rft_id=https%3A%2F%2Fwww.ssb.no%2Fen%2Fbefolkning%2Fstatistikker%2Ffolkemengde%2Faar-per-1-januar&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-imf2-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_6-0">6.0</a></sup> <sup><a href="#cite_ref-imf2_6-1">6.1</a></sup> <sup><a href="#cite_ref-imf2_6-2">6.2</a></sup> <sup><a href="#cite_ref-imf2_6-3">6.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&amp;ey=2011&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=142&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=32&amp;pr.y=0">"Norway"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Norway&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2011%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2008%26ey%3D2011%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D142%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D%26pr.x%3D32%26pr.y%3D0&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-7"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_7-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/media/HDR_2011_EN_Summary.pdf#page=23">"Human Development Report 2011"</a> <span class="cs1-format">(PDF)</span>. United Nations. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">25 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2011&amp;rft.pub=United+Nations&amp;rft.date=2011&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fmedia%2FHDR_2011_EN_Summary.pdf%23page%3D23&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-CIA,_List_of_states_for_area-8"><span class="mw-cite-backlink"><a href="#cite_ref-CIA,_List_of_states_for_area_8-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2147.html">"The World Factbook — Central Intelligence Agency"</a>. <i>www.cia.gov</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cia.gov&amp;rft.atitle=The+World+Factbook+%E2%80%94+Central+Intelligence+Agency&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2147.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ssb.no/areal/">"Statistisk sentralbyrå: – temaside"</a> (in <span class="languageicon">(in Norwegian)</span>). Ssb.no<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Statistisk+sentralbyr%C3%A5%3A+%E2%80%93+temaside&amp;rft.pub=Ssb.no&amp;rft_id=http%3A%2F%2Fwww.ssb.no%2Fareal%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: unrecognized language (<a href="/wiki/Category:CS1_maint:_unrecognized_language" title="Category:CS1 maint: unrecognized language">link</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Anthem-10"><span class="mw-cite-backlink"><a href="#cite_ref-Anthem_10-0">↑</a></span> <span class="reference-text"><cite id="CITEREFHerven2009" class="citation web cs1">Herven, Marit (2009-05-16). <a rel="nofollow" class="external text" href="http://www.nrk.no/magasin/17_mai/1.6612321">"<span class="cs1-kern-left">"</span>Ja, vi elsker" 150 år"</a>. <i>Norsk rikskringkasting</i> (in Norwegian). NRK<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-05-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Norsk+rikskringkasting&amp;rft.atitle=%22Ja%2C+vi+elsker%22+150+%C3%A5r&amp;rft.date=2009-05-16&amp;rft.aulast=Herven&amp;rft.aufirst=Marit&amp;rft_id=http%3A%2F%2Fwww.nrk.no%2Fmagasin%2F17_mai%2F1.6612321&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite id="CITEREFDuolljá2018" class="citation web cs1">Duolljá, Svenn-Egil Knutsen (26 November 2018). <a rel="nofollow" class="external text" href="http://snl.no/nordsamisk">"nordsamisk"</a> – via Store norske leksikon.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=nordsamisk&amp;rft.date=2018-11-26&amp;rft.aulast=Duollj%C3%A1&amp;rft.aufirst=Svenn-Egil+Knutsen&amp;rft_id=http%3A%2F%2Fsnl.no%2Fnordsamisk&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a href="/w/index.php?title=Solveig_Aareskjold&amp;action=edit&amp;redlink=1" class="new" title="Solveig Aareskjold (not yet started)">Solveig Aareskjold</a>. "Sjølv då Astrid Eriksdotter blei bydd fram for sal på ein slavemarknad i Estland, gløymde ho aldri kva ho var verd. Kledd i filler, framleis dronning" [Even when Astrid Eriksdotter was offered for sale at a slave market in Estonia, she never forgot what she was worth. Dressed in rags, still a queen]. <a href="/w/index.php?title=Klassekampen&amp;action=edit&amp;redlink=1" class="new" title="Klassekampen (not yet started)">Klassekampen</a>. 2017-08-12. pages 36-7</span> </li> 
+         <li id="cite_note-StockfishSensationQuoteYear875-13"><span class="mw-cite-backlink"><a href="#cite_ref-StockfishSensationQuoteYear875_13-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.nrk.no/nordland/torrfisk-sensasjon_-_-vikinghistorien-ma-skrives-om-1.13632492">https://www.nrk.no/nordland/torrfisk-sensasjon_-_-vikinghistorien-ma-skrives-om-1.13632492</a> "I den islandske ættesagaen <a href="/w/index.php?title=Egilssoga&amp;action=edit&amp;redlink=1" class="new" title="Egilssoga (not yet started)">Egilssoga</a> fra 1200-tallet står det om Torulv Kveldulvsson, en høvding i Hålogaland. Kveldulvsson drev, ifølge sagaen, næringsvirksomhet i stor stil, blant annet eksporterte han fisk til England rundt 875. Dette har frem til i dag bare vært ubekreftede fortellinger. Nå har forskerne altså klart å finne bevis som støtter opp for mistankene om at handelen med tørrfisk kan ha startet så tidlig som sagaene forteller om."</span> </li> 
+         <li id="cite_note-StockfishSensation-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-StockfishSensation_14-0">14.0</a></sup> <sup><a href="#cite_ref-StockfishSensation_14-1">14.1</a></sup></span> <span class="reference-text"><cite id="CITEREFTveit2017" class="citation web cs1">Tveit, Josef Benoni Ness (8 August 2017). <a rel="nofollow" class="external text" href="https://www.nrk.no/nordland/torrfisk-sensasjon_-_-torskefunn-kan-endre-vikinghistorien-1.13632492">"Tørrfisk-sensasjon: – Torske­funn kan endre viking­historien"</a>. <i>NRK</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NRK&amp;rft.atitle=T%C3%B8rrfisk-sensasjon%3A+%E2%80%93+Torskefunn+kan+endre+vikinghistorien&amp;rft.date=2017-08-08&amp;rft.aulast=Tveit&amp;rft.aufirst=Josef+Benoni+Ness&amp;rft_id=https%3A%2F%2Fwww.nrk.no%2Fnordland%2Ftorrfisk-sensasjon_-_-torskefunn-kan-endre-vikinghistorien-1.13632492&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">soft hyphen character in <code class="cs1-code">|title=</code> at position 29 (<a href="/wiki/Help:CS1_errors#invisible_char" title="Help:CS1 errors">help</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-FirstMapDagbladet-15"><span class="mw-cite-backlink"><a href="#cite_ref-FirstMapDagbladet_15-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.dagbladet.no/a/68638877">"- Nå kommer denne nasjonalskatten hjem til Norge"</a>. <i>Dagbladet.no</i>. 28 August 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dagbladet.no&amp;rft.atitle=-+N%C3%A5+kommer+denne+nasjonalskatten+hjem+til+Norge&amp;rft.date=2017-08-28&amp;rft_id=https%3A%2F%2Fwww.dagbladet.no%2Fa%2F68638877&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-FirstMap-16"><span class="mw-cite-backlink"><a href="#cite_ref-FirstMap_16-0">↑</a></span> <span class="reference-text"><cite id="CITEREFauthor" class="citation web cs1">author. <a rel="nofollow" class="external text" href="https://www.klartale.no/kultur/fikk-verdifulle-kart-i-gave-1.1017066">"Fikk verdifulle kart i gave"</a>. <i>www.klartale.no</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.klartale.no&amp;rft.atitle=Fikk+verdifulle+kart+i+gave&amp;rft.au=author&amp;rft_id=https%3A%2F%2Fwww.klartale.no%2Fkultur%2Ffikk-verdifulle-kart-i-gave-1.1017066&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.worldstatesmen.org/Denmark.html">"Denmark"</a>. World Statesmen<span class="reference-accessdate">. Retrieved <span class="nowrap">January 18,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Denmark&amp;rft.pub=World+Statesmen&amp;rft_id=http%3A%2F%2Fwww.worldstatesmen.org%2FDenmark.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.worldstatesmen.org/Norway.htm">"Norway"</a>. World Statesmen<span class="reference-accessdate">. Retrieved <span class="nowrap">January 18,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Norway&amp;rft.pub=World+Statesmen&amp;rft_id=http%3A%2F%2Fwww.worldstatesmen.org%2FNorway.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-ConventionOfMoss-19"><span class="mw-cite-backlink"><a href="#cite_ref-ConventionOfMoss_19-0">↑</a></span> <span class="reference-text"><cite id="CITEREFSejersted2018" class="citation web cs1">Sejersted, Francis (8 January 2018). <a rel="nofollow" class="external text" href="http://snl.no/Mossekonvensjonen">"Mossekonvensjonen"</a> – via Store norske leksikon.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mossekonvensjonen&amp;rft.date=2018-01-08&amp;rft.aulast=Sejersted&amp;rft.aufirst=Francis&amp;rft_id=http%3A%2F%2Fsnl.no%2FMossekonvensjonen&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-SwampMenDagsavisen-20"><span class="mw-cite-backlink"><a href="#cite_ref-SwampMenDagsavisen_20-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.dagsavisen.no/oslo/stemmerettskampens-hemmelige-vapen-1.1020325">"En liten myrflekk til fem kr ga deg stemmerett, og det ble avgjørende i 1882"</a>. <i>www.dagsavisen.no</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.dagsavisen.no&amp;rft.atitle=En+liten+myrflekk+til+fem+kr+ga+deg+stemmerett%2C+og+det+ble+avgj%C3%B8rende+i+1882&amp;rft_id=https%3A%2F%2Fwww.dagsavisen.no%2Foslo%2Fstemmerettskampens-hemmelige-vapen-1.1020325&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-SwampMen-21"><span class="mw-cite-backlink"><a href="#cite_ref-SwampMen_21-0">↑</a></span> <span class="reference-text"><cite id="CITEREFMardal2017" class="citation web cs1">Mardal, Magnus A. (12 June 2017). <a rel="nofollow" class="external text" href="http://snl.no/myrmenn">"myrmenn"</a> – via Store norske leksikon.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=myrmenn&amp;rft.date=2017-06-12&amp;rft.aulast=Mardal&amp;rft.aufirst=Magnus+A.&amp;rft_id=http%3A%2F%2Fsnl.no%2Fmyrmenn&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.klassekampen.no/article/20170724/ARTICLE/170729959">"Norge i Syria"</a>. <i>Klassekampen</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Klassekampen&amp;rft.atitle=Norge+i+Syria&amp;rft_id=https%3A%2F%2Fwww.klassekampen.no%2Farticle%2F20170724%2FARTICLE%2F170729959&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ibsenmuseet.no/en">"Forside - Ibsenmuseet"</a>. <i>ibsenmuseet.no</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ibsenmuseet.no&amp;rft.atitle=Forside+-+Ibsenmuseet&amp;rft_id=https%3A%2F%2Fibsenmuseet.no%2Fen&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-ForestKillingsOfBabies-24"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ForestKillingsOfBabies_24-0">24.0</a></sup> <sup><a href="#cite_ref-ForestKillingsOfBabies_24-1">24.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.vl.no/verdidebatt/innlegg/11694976-myter-og-unoyaktigheter">"Myter og unÃ¸yaktigheter"</a>. <i>www.vl.no</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.vl.no&amp;rft.atitle=Myter+og+un%C3%83%C2%B8yaktigheter&amp;rft_id=http%3A%2F%2Fwww.vl.no%2Fverdidebatt%2Finnlegg%2F11694976-myter-og-unoyaktigheter&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.skiinghistory.org/history/short-history-skis-0">"A SHORT HISTORY OF SKIS"</a>. <i>Skiing History</i><span class="reference-accessdate">. Retrieved 2019/07/23</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Skiing+History&amp;rft.atitle=A+SHORT+HISTORY+OF+SKIS&amp;rft_id=https%3A%2F%2Fwww.skiinghistory.org%2Fhistory%2Fshort-history-skis-0&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite has empty unknown parameter: <code class="cs1-code">|dead-url=</code> (<a href="/wiki/Help:CS1_errors#param_unknown_empty" title="Help:CS1 errors">help</a>); </span><span class="cs1-visible-error error citation-comment">Check date values in: <code class="cs1-code">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">dead link<cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.trondheim.com/engelsk/touristinfo/">"Trondheim - the official website"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Trondheim+-+the+official+website&amp;rft_id=http%3A%2F%2Fwww.trondheim.com%2Fengelsk%2Ftouristinfo%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorway" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/46px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></span> <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/Europe" title="Europe">Europe</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Country" title="Country">Countries</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a> – <a href="/wiki/Andorra" title="Andorra">Andorra</a> – <a href="/wiki/Austria" title="Austria">Austria</a> – <a href="/wiki/Belarus" title="Belarus">Belarus</a> – <a href="/wiki/Belgium" title="Belgium">Belgium</a> – <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a> – <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> – <a href="/wiki/Croatia" title="Croatia">Croatia</a> – <a href="/wiki/Republic_of_Cyprus" title="Republic of Cyprus">Republic of Cyprus</a><sup>1</sup> – <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a> – <a href="/wiki/Denmark" title="Denmark">Denmark</a><sup>2,4</sup> – <a href="/wiki/Estonia" title="Estonia">Estonia</a> – <a href="/wiki/Finland" title="Finland">Finland</a> – <a href="/wiki/France" title="France">France</a><sup>4</sup> – <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a><sup>1</sup> – <a href="/wiki/Germany" title="Germany">Germany</a> – <a href="/wiki/Greece" title="Greece">Greece</a> – <a href="/wiki/Hungary" title="Hungary">Hungary</a> – <a href="/wiki/Iceland" title="Iceland">Iceland</a> – <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a> – <a href="/wiki/Italy" title="Italy">Italy</a> – <a href="/wiki/Latvia" title="Latvia">Latvia</a> – <a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a> – <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> – <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a> – <a href="/wiki/Malta" title="Malta">Malta</a> – <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a> – <a href="/wiki/Moldova" title="Moldova">Moldova</a> – <a href="/wiki/Monaco" title="Monaco">Monaco</a> – <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> – <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a><sup>4</sup> – <a class="mw-selflink selflink">Norway</a><sup>4</sup> – <a href="/wiki/Poland" title="Poland">Poland</a> – <a href="/wiki/Portugal" title="Portugal">Portugal</a><sup>4,6</sup> – <a href="/wiki/Romania" title="Romania">Romania</a> – <a href="/wiki/Russia" title="Russia">Russia</a><sup>1</sup> – <a href="/wiki/San_Marino" title="San Marino">San Marino</a> – <a href="/wiki/Serbia" title="Serbia">Serbia</a> – <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> – <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a> – <a href="/wiki/Spain" title="Spain">Spain</a><sup>4,6</sup> – <a href="/wiki/Sweden" title="Sweden">Sweden</a> – <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> – <a href="/wiki/Turkey" title="Turkey">Turkey</a><sup>1</sup> – <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> – <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><sup>4</sup> – <a href="/wiki/Vatican_City" title="Vatican City">Vatican City</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_dependent_territories" class="mw-redirect" title="List of dependent territories">Dependencies</a></b></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a><sup>1</sup> – <a href="/wiki/Azores" title="Azores">Azores</a><sup>5</sup> – <a href="/wiki/Ceuta" title="Ceuta">Ceuta</a><sup>5, 6</sup> – <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a><sup>5</sup> – <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a><sup>5</sup> – <a href="/wiki/Greenland" title="Greenland">Greenland</a><sup>5,2</sup> – <a href="/wiki/Guernsey" title="Guernsey">Guernsey</a> – <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a> – <a href="/wiki/Jersey" title="Jersey">Jersey</a> – <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a> – <a href="/wiki/Melilla" title="Melilla">Melilla</a><sup>5,6</sup> – <a href="/wiki/Svalbard" title="Svalbard">Svalbard</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_unrecognized_countries" class="mw-redirect" title="List of unrecognized countries">Other Countries</a></b></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Abkhazia" title="Abkhazia">Abkhazia</a><sup>1,3</sup> – <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a><sup>3</sup> – <a href="/wiki/South_Ossetia" title="South Ossetia">South Ossetia</a><sup>1, 3</sup> – <a href="/wiki/Transnistria" title="Transnistria">Transnistria</a> – <a href="/wiki/Turkish_Republic_of_Northern_Cyprus" class="mw-redirect" title="Turkish Republic of Northern Cyprus">Turkish Republic of Northern Cyprus</a><sup>1,3</sup>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            1. <a href="/wiki/Transcontinental_country" title="Transcontinental country">Transcontinental country</a>/territory that can be considered both Europe and Asia 2. Territory or with territory geographically part of North America 3. Partially recognized. 4. not all dependent territories are listed 5. Territory has some form of self-rule. 6. Territory or with territory geographically part of Africa
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="North_Atlantic_Treaty_Organization_(NATO)" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_Atlantic_Treaty_Organisation_(NATO)" title="Template:North Atlantic Treaty Organisation (NATO)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:North_Atlantic_Treaty_Organisation_(NATO)" title="Template talk:North Atlantic Treaty Organisation (NATO)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_Atlantic_Treaty_Organisation_(NATO)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="North_Atlantic_Treaty_Organization_(NATO)" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/North_Atlantic_Treaty_Organisation" class="mw-redirect" title="North Atlantic Treaty Organisation">North Atlantic Treaty Organization (NATO)</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Member countries</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Canada" title="Canada">Canada</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Norway</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>&nbsp;<b>·</b> <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&nbsp;<b>·</b> <a href="/wiki/United_States" title="United States">United States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Norway&amp;params=60.38_N_5.34_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">60°23′N</span> <span class="longitude">5°20′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">60.38°N 5.34°E</span><span style="display:none">﻿ / <span class="geo">60.38; 5.34</span></span></span></a></span></span></span> </p> <!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20201228030822
+Cache expiry: 3600
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.276 seconds
+Real time usage: 1.443 seconds
+Preprocessor visited node count: 4656/1000000
+Post‐expand include size: 121006/2097152 bytes
+Template argument size: 12061/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 74889/5000000 bytes
+Lua time usage: 0.895/10.000 seconds
+Lua memory usage: 21189615/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1289.698      1 -total
+ 42.48%  547.809      1 Template:Infobox_country
+ 40.01%  516.071      3 Template:Infobox
+ 29.95%  386.257      1 Template:Reflist
+ 27.96%  360.654     23 Template:Cite_web
+ 25.06%  323.148      2 Template:Coord
+ 13.89%  179.182      3 Template:ISO_3166_code
+ 12.42%  160.189      2 Template:In_lang
+  4.42%   56.993      1 Template:Infobox_country/imagetable
+  3.82%   49.330      2 Template:Convinfobox
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:3460-0!canonical and timestamp 20201228030821 and revision id 7197028. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Norway&amp;oldid=7197028">https://simple.wikipedia.org/w/index.php?title=Norway&amp;oldid=7197028</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Members_of_NATO" title="Category:Members of NATO">Members of NATO</a></li>
+       <li><a href="/wiki/Category:Norway" title="Category:Norway">Norway</a></li>
+       <li><a href="/wiki/Category:Nordic_countries" title="Category:Nordic countries">Nordic countries</a></li>
+       <li><a href="/wiki/Category:Current_monarchies" title="Category:Current monarchies">Current monarchies</a></li>
+       <li><a href="/wiki/Category:1945_establishments_in_Europe" title="Category:1945 establishments in Europe">1945 establishments in Europe</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_Norwegian-language_sources_(no)" title="Category:Articles with Norwegian-language sources (no)">Articles with Norwegian-language sources (no)</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_unrecognized_language" title="Category:CS1 maint: unrecognized language">CS1 maint: unrecognized language</a></li>
+       <li><a href="/wiki/Category:CS1_Norwegian-language_sources_(no)" title="Category:CS1 Norwegian-language sources (no)">CS1 Norwegian-language sources (no)</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_invisible_characters" title="Category:CS1 errors: invisible characters">CS1 errors: invisible characters</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_empty_unknown_parameters" title="Category:CS1 errors: empty unknown parameters">CS1 errors: empty unknown parameters</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+       <li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Norway" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Norway" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Norway" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Norway" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Norway">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Norway&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Norway&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Norway&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Norway" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Norway" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Norway&amp;oldid=7197028" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Norway&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Norway&amp;id=7197028&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q20" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Norway">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Norway&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Norway&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Norway" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Norw%C3%A8gia" title="Norwègia – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D1%83%D0%B5%D0%B3%D0%B8%D1%8D" title="Норуегиэ – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B5" title="Норвегие – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://af.wikipedia.org/wiki/Noorwe%C3%AB" title="Noorweë – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Norway" title="Norway – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Norwegen" title="Norwegen – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%96%E1%88%AD%E1%8B%8C%E1%8B%AD" title="ኖርዌይ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Taa%C5%BE%C3%A2" title="Taažâ – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Nor%C3%BEweg" title="Norþweg – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B0" title="Норвегиа – Abkhazian" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li>
+       <li class="interlanguage-link interwiki-ar badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC" title="النرويج – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Noruega" title="Noruega – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%A2%DC%98%DC%AA%DC%92%DC%9D%DC%93" title="ܢܘܪܒܝܓ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D5%86%D5%B8%D6%80%D5%BE%D5%A5%D5%AF%D5%AB%D5%A1" title="Նորվեկիա – Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/Norveghia" title="Norveghia – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Norv%C3%A8ge" title="Norvège – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://ast.wikipedia.org/wiki/Noruega" title="Noruega – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-awa"><a href="https://awa.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नार्वे – Awadhi" lang="awa" hreflang="awa" class="interlanguage-link-target">अवधी</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Noru%C3%A9ga" title="Noruéga – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Nurweka" title="Nurweka – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Norve%C3%A7" title="Norveç – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%D9%88%DA%98" title="نوروژ – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Norwegia" title="Norwegia – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Norwij" title="Norwij – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A8%E0%A6%B0%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87" title="নরওয়ে – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Norwegia" title="Norwegia – Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/N%C3%A1-ui" title="Ná-ui – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Norwegia" title="Norwegia – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B2%D0%B5%D0%B3%D1%96%D1%8F" title="Нарвегія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B2%D1%8D%D0%B3%D1%96%D1%8F" title="Нарвэгія – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नार्वे – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Norwey" title="Norwey – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Norway" title="Norway – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Norwegn" title="Norwegn – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%93%E0%BD%BC%E0%BD%A2%E0%BC%8B%E0%BD%9D%E0%BD%BA%E0%BC%8D" title="ནོར་ཝེ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Norve%C5%A1ka" title="Norveška – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Norvegia" title="Norvegia – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8" title="Норвеги – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Noruega" title="Noruega – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8" title="Норвеги – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Noruwega" title="Noruwega – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Norsko" title="Norsko – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-ch"><a href="https://ch.wikipedia.org/wiki/Norge" title="Norge – Chamorro" lang="ch" hreflang="ch" class="interlanguage-link-target">Chamoru</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Noruega" title="Noruega – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-ny"><a href="https://ny.wikipedia.org/wiki/Norge" title="Norge – Nyanja" lang="ny" hreflang="ny" class="interlanguage-link-target">Chi-Chewa</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Norway" title="Norway – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-tum"><a href="https://tum.wikipedia.org/wiki/Norway" title="Norway – Tumbuka" lang="tum" hreflang="tum" class="interlanguage-link-target">ChiTumbuka</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Nurvegia" title="Nurvegia – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Norwy" title="Norwy – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://da.wikipedia.org/wiki/Norge" title="Norge – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%88%D8%B1%DA%A4%D9%8A%D8%AC" title="النورڤيج – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Norga" title="Norga – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-pdc"><a href="https://pdc.wikipedia.org/wiki/Norwegen" title="Norwegen – Pennsylvania German" lang="pdc" hreflang="pdc" class="interlanguage-link-target">Deitsch</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Norwegen" title="Norwegen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%82%DE%AF%DE%88%DE%AD" title="ނޯވޭ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/Kingh%C4%85%CC%81%C4%85%CC%81%CA%BC_Haltsoo%C3%AD_Dine%CA%BC%C3%A9_Bik%C3%A9yah" title="Kinghą́ą́ʼ Haltsooí Dineʼé Bikéyah – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Norwegska" title="Norwegska – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नर्वे – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-dz"><a href="https://dz.wikipedia.org/wiki/%E0%BD%93%E0%BD%BC%E0%BC%8B%E0%BD%9D%E0%BD%BA%E0%BC%8B" title="ནོ་ཝེ་ – Dzongkha" lang="dz" hreflang="dz" class="interlanguage-link-target">ཇོང་ཁ</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Norra" title="Norra – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9D%CE%BF%CF%81%CE%B2%CE%B7%CE%B3%CE%AF%CE%B1" title="Νορβηγία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/Nurv%C3%A9gia" title="Nurvégia – Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Norway" title="Norway – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Норвегия Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Noruega" title="Noruega – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Norvegio" title="Norvegio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Noruega" title="Noruega – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Norvegia" title="Norvegia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Norway" title="Norway – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D8%B1%D9%88%DA%98" title="نروژ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Norway" title="Norway – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://fo.wikipedia.org/wiki/Noreg" title="Noreg – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Norv%C3%A8ge" title="Norvège – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Noarwegen" title="Noarwegen – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Norwees" title="Norwees – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Norvegje" title="Norvegje – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_Iorua" title="An Iorua – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Norlynn" title="Norlynn – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Norvegiya" title="Norvegiya – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Nirribhidh" title="Nirribhidh – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Noruega" title="Noruega – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-inh"><a href="https://inh.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B3%D0%B8%D1%87%D0%B5" title="Норгиче – Ingush" lang="inh" hreflang="inh" class="interlanguage-link-target">ГӀалгӀай</a></li>
+       <li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E6%8C%AA%E5%A8%81" title="挪威 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Now%C4%A9" title="Nowĩ – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%A8%E0%AB%8B%E0%AA%B0%E0%AB%8D%E0%AA%B5%E0%AB%87" title="નોર્વે – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8C%BD%F0%90%8C%B0%F0%90%8C%BF%F0%90%8D%82%F0%90%8C%B8%F0%90%8C%B0%F0%90%8D%85%F0%90%8C%B9%F0%90%8C%B2%F0%90%8D%83" title="𐌽𐌰𐌿𐍂𐌸𐌰𐍅𐌹𐌲𐍃 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%A8%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नॉर्वे – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/N%C3%B2-v%C3%AE" title="Nò-vî – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%BD_%D0%9D%D1%83%D1%82%D1%83%D0%B3" title="Норвегин Нутуг – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%85%B8%EB%A5%B4%EC%9B%A8%EC%9D%B4" title="노르웨이 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Norway" title="Norway – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Nolewai" title="Nolewai – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%86%D5%B8%D6%80%D5%BE%D5%A5%D5%A3%D5%AB%D5%A1" title="Նորվեգիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नॉर्वे – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Norwegska" title="Norwegska – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://hr.wikipedia.org/wiki/Norve%C5%A1ka" title="Norveška – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-gor"><a href="https://gor.wikipedia.org/wiki/Norwegia" title="Norwegia – Gorontalo" lang="gor" hreflang="gor" class="interlanguage-link-target">Bahasa Hulontalo</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Norvegia" title="Norvegia – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Norway" title="Norway – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Norwega" title="Norwega – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%A8%E0%A6%B0%E0%A7%B1%E0%A7%87" title="নরৱে – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Norwegia" title="Norwegia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Norvegia" title="Norvegia – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Norvegia" title="Norvegia – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-iu"><a href="https://iu.wikipedia.org/wiki/%E1%93%84%E1%95%90%E1%92%8B/nurgi" title="ᓄᕐᒋ/nurgi – Inuktitut" lang="iu" hreflang="iu" class="interlanguage-link-target">ᐃᓄᒃᑎᑐᑦ/inuktitut</a></li>
+       <li class="interlanguage-link interwiki-ik"><a href="https://ik.wikipedia.org/wiki/Norge" title="Norge – Inupiaq" lang="ik" hreflang="ik" class="interlanguage-link-target">Iñupiak</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8" title="Норвеги – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/INoki" title="INoki – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Noregur" title="Noregur – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Norvegia" title="Norvegia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A0%D7%95%D7%A8%D7%95%D7%95%D7%92%D7%99%D7%94" title="נורווגיה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Nurw%C3%A8gen" title="Nurwègen – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/N%C9%94%C9%94r%C9%A9v%C9%9B%C9%9Bz%C9%A9" title="Nɔɔrɩvɛɛzɩ – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Norge" title="Norge – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%A8%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%B5%E0%B3%87" title="ನಾರ್ವೇ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Norwega" title="Norwega – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%9D%E1%83%A0%E1%83%95%E1%83%94%E1%83%92%E1%83%98%E1%83%90" title="ნორვეგია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Norwesk%C3%B4" title="Norweskô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Norgagh" title="Norgagh – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Noruveje" title="Noruveje – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-rn"><a href="https://rn.wikipedia.org/wiki/Norway" title="Norway – Rundi" lang="rn" hreflang="rn" class="interlanguage-link-target">Kirundi</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Norwei" title="Norwei – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Norge" title="Norge – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Norga" title="Norga – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/N%C3%B2v%C3%A8j" title="Nòvèj – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Norv%C3%A8j" title="Norvèj – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Norw%C3%AAc" title="Norwêc – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8" title="Норвеги – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Norvegia" title="Norvegia – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Norvejia" title="Norvejia – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lbe"><a href="https://lbe.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B0%D0%B9" title="Норвай – Lak" lang="lbe" hreflang="lbe" class="interlanguage-link-target">Лакку</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%99%E0%BA%AD%E0%BA%81%E0%BB%81%E0%BA%A7%E0%BA%94" title="ປະເທດນອກແວດ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%DA%A4%DA%98" title="نورڤژ – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Norvegeja" title="Norvegeja – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Norvegia" title="Norvegia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Norv%C4%93%C4%A3ija" title="Norvēģija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Norwegen" title="Norwegen – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Lezghian" lang="lez" hreflang="lez" class="interlanguage-link-target">Лезги</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Norvegija" title="Norvegija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Norveggia" title="Norveggia – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Noorwege" title="Noorwege – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Norvej" title="Norvej – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Noria" title="Noria – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Norviegii" title="Norviegii – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/noreg" title="noreg – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li>
+       <li class="interlanguage-link interwiki-lg"><a href="https://lg.wikipedia.org/wiki/Noowe" title="Noowe – Ganda" lang="lg" hreflang="lg" class="interlanguage-link-target">Luganda</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Nurvegia" title="Nurvegia – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Norv%C3%A9gia" title="Norvégia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नार्वे – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D1%88%D0%BA%D0%B0" title="Норвешка – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/N%C3%B4rvezy" title="Nôrvezy – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B5%8B%E0%B5%BC%E0%B4%B5%E0%B5%86" title="നോർവെ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Norve%C4%A1ja" title="Norveġja – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/N%C5%8Dwei" title="Nōwei – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%A8%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नॉर्वे – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%9C%E1%83%9D%E1%83%A0%E1%83%95%E1%83%94%E1%83%92%E1%83%98%E1%83%90" title="ნორვეგია – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC" title="النرويج – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D9%86%D8%B1%D9%88%DA%98" title="نروژ – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Norway" title="Norway – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/Norwegia" title="Norwegia – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Minangkabau</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/N%C3%B2%CC%A4-%C5%ADi" title="Nò̤-ŭi – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Noruega" title="Noruega – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B5" title="Норвегие – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8" title="Норвеги – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%94%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%9D%E1%80%B1%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="နော်ဝေနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Noruega" title="Noruega – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Norwei" title="Norwei – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-fj"><a href="https://fj.wikipedia.org/wiki/Norge" title="Norge – Fijian" lang="fj" hreflang="fj" class="interlanguage-link-target">Na Vosa Vakaviti</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Noorwegen" title="Noorwegen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Noorwegen" title="Noorwegen – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-cr"><a href="https://cr.wikipedia.org/wiki/Norway" title="Norway – Cree" lang="cr" hreflang="cr" class="interlanguage-link-target">Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नर्वे – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नर्वे – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC" title="ノルウェー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Norvegia" title="Norvegia – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8" title="Норвеги – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Norweegen" title="Norweegen – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Norwaii" title="Norwaii – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://no.wikipedia.org/wiki/Norge" title="Norge – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Noreg" title="Noreg – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Norouague" title="Norouague – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Norvegia" title="Norvegia – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Norv%C3%A8gia" title="Norvègia – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B9" title="Норвегий – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%A8%E0%AC%B0%E0%AD%B1%E0%AD%87" title="ନରୱେ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Noorwey" title="Noorwey – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Norvegiya" title="Norvegiya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%A8%E0%A8%BE%E0%A8%B0%E0%A8%B5%E0%A9%87" title="ਨਾਰਵੇ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नार्वे – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pfl"><a href="https://pfl.wikipedia.org/wiki/Norwegen" title="Norwegen – Palatine German" lang="pfl" hreflang="pfl" class="interlanguage-link-target">Pälzisch</a></li>
+       <li class="interlanguage-link interwiki-pag"><a href="https://pag.wikipedia.org/wiki/Noru%C3%A9ga" title="Noruéga – Pangasinan" lang="pag" hreflang="pag" class="interlanguage-link-target">Pangasinan</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%86%D8%A7%D8%B1%D9%88%DB%92" title="ناروے – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Noruega" title="Noruega – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%86%D8%A7%D8%B1%D9%88%DB%90" title="ناروې – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Naawie" title="Naawie – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3" title="Норвег – Komi-Permyak" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем коми</a></li>
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%93%E1%9F%90%E1%9E%9A%E1%9E%9C%E1%9F%81" title="ប្រទេសន័រវេ – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Norv%C3%A8ge" title="Norvège – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Norvegia" title="Norvegia – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Nowe" title="Nowe – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Norwegen" title="Norwegen – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Norwegia" title="Norwegia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%9D%CE%BF%CF%81%CE%B2%CE%B7%CE%B3%CE%AF%CE%B1" title="Νορβηγία – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Noruega" title="Noruega – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Norvegiya" title="Norvegiya – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Norvegiya" title="Norvegiya – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ty"><a href="https://ty.wikipedia.org/wiki/Noruvetia" title="Noruvetia – Tahitian" lang="ty" hreflang="ty" class="interlanguage-link-target">Reo tahiti</a></li>
+       <li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Norweje" title="Norweje – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Norvegia" title="Norvegia – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Norvejiya" title="Norvejiya – Vlax Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani čhib</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Norvegia" title="Norvegia – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Nurwiga" title="Nurwiga – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D1%8C%D1%81%D0%BA%D0%BE" title="Норьско – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Norway" title="Norway – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Nouei" title="Nouei – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87" title="नार्वे – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/N%C3%B6rv%C3%AAzi" title="Nörvêzi – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%B1%E1%B1%9A%E1%B1%A8%E1%B1%A3%E1%B1%AE" title="ᱱᱚᱨᱣᱮ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Norv%C3%A8gia" title="Norvègia – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Norawa" title="Norawa – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Norwegen" title="Norwegen – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Norge" title="Norge – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Norge" title="Norge – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-tn"><a href="https://tn.wikipedia.org/wiki/Norway" title="Norway – Tswana" lang="tn" hreflang="tn" class="interlanguage-link-target">Setswana</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Norvegjia" title="Norvegjia – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Norveggia" title="Norveggia – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B1%E0%B7%9D%E0%B6%BB%E0%B7%8A%E0%B7%80%E0%B7%9A" title="නෝර්වේ – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%86%D8%A7%D8%B1%D9%88%D9%8A" title="ناروي – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/INoweyi" title="INoweyi – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/N%C3%B3rsko" title="Nórsko – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Norve%C5%A1ka" title="Norveška – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D1%94%D0%B3%D1%8A" title="Норєгъ – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Norwygijo" title="Norwygijo – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Norway" title="Norway – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%86%DB%95%D8%B1%D9%88%DB%8C%DA%98" title="نەرویژ – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Norvegikondre" title="Norvegikondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D1%88%D0%BA%D0%B0" title="Норвешка – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Norve%C5%A1ka" title="Norveška – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Norw%C3%A9gia" title="Norwégia – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Norja" title="Norja – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://sv.wikipedia.org/wiki/Norge" title="Norge – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Noruwega" title="Noruwega – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%8B%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%87" title="நோர்வே – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Norveggie" title="Norveggie – Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target">Tarandíne</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%81%BC%E1%80%B1%E1%82%83%E1%82%87%E1%80%9D%E1%80%B0%E1%81%BA%E1%80%BA%E1%80%B8" title="မိူင်းၼေႃႇဝူၺ်း – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%A8%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%B5%E0%B1%87" title="నార్వే – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Noruega" title="Noruega – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%A2%E0%B9%8C" title="ประเทศนอร์เวย์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-ti"><a href="https://ti.wikipedia.org/wiki/%E1%8A%96%E1%88%AD%E1%8B%88%E1%8B%AD" title="ኖርወይ – Tigrinya" lang="ti" hreflang="ti" class="interlanguage-link-target">ትግርኛ</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9D%D1%83%D1%80%D0%B2%D0%B5%D0%B6" title="Нурвеж – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-to"><a href="https://to.wikipedia.org/wiki/Noaue" title="Noaue – Tongan" lang="to" hreflang="to" class="interlanguage-link-target">Lea faka-Tonga</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8F%83%E1%8F%AA" title="ᏃᏪ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-chy"><a href="https://chy.wikipedia.org/wiki/Norway" title="Norway – Cheyenne" lang="chy" hreflang="chy" class="interlanguage-link-target">Tsetsêhestâhese</a></li>
+       <li class="interlanguage-link interwiki-ve"><a href="https://ve.wikipedia.org/wiki/Norge" title="Norge – Venda" lang="ve" hreflang="ve" class="interlanguage-link-target">Tshivenda</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Norve%C3%A7" title="Norveç – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Norwegi%C3%BDa" title="Norwegiýa – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-tw"><a href="https://tw.wikipedia.org/wiki/N%C9%94wei" title="Nɔwei – Twi" lang="tw" hreflang="tw" class="interlanguage-link-target">Twi</a></li>
+       <li class="interlanguage-link interwiki-tyv"><a href="https://tyv.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Tuvinian" lang="tyv" hreflang="tyv" class="interlanguage-link-target">Тыва дыл</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-bug"><a href="https://bug.wikipedia.org/wiki/Norge" title="Norge – Buginese" lang="bug" hreflang="bug" class="interlanguage-link-target">ᨅᨔ ᨕᨘᨁᨗ</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D1%96%D1%8F" title="Норвегія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%86%D8%A7%D8%B1%D9%88%DB%92" title="ناروے – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%DB%8B%DB%90%DA%AF%D9%89%D9%8A%DB%95" title="نورۋېگىيە – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Nozveih" title="Nozveih – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Norvexa" title="Norvexa – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Norvegii" title="Norvegii – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Na_Uy" title="Na Uy – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Norg%C3%A4n" title="Norgän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Norra" title="Norra – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Norvedje" title="Norvedje – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://zh-classical.wikipedia.org/wiki/%E6%8C%AA%E5%A8%81" title="挪威 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/N%C3%B4orweegn" title="Nôorweegn – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Noruega" title="Noruega – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Noorwees" title="Noorwees – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E6%8C%AA%E5%A8%81" title="挪威 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Norge" title="Norge – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A0%D7%90%D7%A8%D7%95%D7%95%D7%A2%D7%92%D7%99%D7%A2" title="נארוועגיע – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/N%E1%BB%8D%CC%81rw%C3%A8y" title="Nọ́rwèy – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%8C%AA%E5%A8%81" title="挪威 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Norwec" title="Norwec – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Noorwegen" title="Noorwegen – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Nuorveg%C4%97j%C4%97" title="Nuorvegėjė – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%8C%AA%E5%A8%81" title="挪威 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q20#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 1 December 2020, at 13:48.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Norway&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.276","walltime":"1.443","ppvisitednodes":{"value":4656,"limit":1000000},"postexpandincludesize":{"value":121006,"limit":2097152},"templateargumentsize":{"value":12061,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":74889,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1289.698      1 -total"," 42.48%  547.809      1 Template:Infobox_country"," 40.01%  516.071      3 Template:Infobox"," 29.95%  386.257      1 Template:Reflist"," 27.96%  360.654     23 Template:Cite_web"," 25.06%  323.148      2 Template:Coord"," 13.89%  179.182      3 Template:ISO_3166_code"," 12.42%  160.189      2 Template:In_lang","  4.42%   56.993      1 Template:Infobox_country/imagetable","  3.82%   49.330      2 Template:Convinfobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.895","limit":"10.000"},"limitreport-memusage":{"value":21189615,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20201228030822","ttl":3600,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Norway","url":"https:\/\/simple.wikipedia.org\/wiki\/Norway","sameAs":"http:\/\/www.wikidata.org\/entity\/Q20","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q20","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-07T03:07:05Z","dateModified":"2020-12-01T13:48:25Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d9\/Flag_of_Norway.svg","headline":"sovereign state in northern Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":379,"wgHostname":"mw1331"});});</script> 
+ </body>
+</html>

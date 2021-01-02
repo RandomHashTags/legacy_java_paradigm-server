@@ -1,0 +1,1273 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Tunisia - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAEJsABAZgj@AAAABN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Tunisia","wgTitle":"Tunisia","wgCurRevisionId":7219319,"wgRevisionId":7219319,"wgArticleId":7472,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","CS1 errors: chapter ignored","Articles with Arabic-language sources (ar)","Articles containing Arabic-language text","Pages using infobox country with unknown parameters","Pages using infobox country or infobox former country with the symbol caption or type parameters",
+"Articles with French-language sources (fr)","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with TDVİA identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Tunisia","Members of the Organisation of Islamic Cooperation","1956 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Tunisia",
+"wgRelevantArticleId":7472,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q948"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready",
+"skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Tunisia"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Tunisia&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Tunisia&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Tunisia"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tunisia rootpage-Tunisia skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Tunisia</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic of Tunisia
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <span lang="ar" dir="rtl" title="Arabic language text">الجمهورية التونسية</span>
+           <br><i><i lang="ar-Latn" title="Arabic-language romanization">al-Jumhūriyyah at-Tūnisiyyah</i></i>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Tunisia.svg" class="image" title="Flag of Tunisia"><img alt="Flag of Tunisia" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/125px-Flag_of_Tunisia.svg.png" decoding="async" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/188px-Flag_of_Tunisia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/250px-Flag_of_Tunisia.svg.png 2x" data-file-width="1200" data-file-height="800"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Tunisia" title="Flag of Tunisia">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Tunisia.svg" class="image" title="Coat of arms of Tunisia"><img alt="Coat of arms of Tunisia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Tunisia.svg/85px-Coat_of_arms_of_Tunisia.svg.png" decoding="async" width="85" height="134" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Tunisia.svg/128px-Coat_of_arms_of_Tunisia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Tunisia.svg/170px-Coat_of_arms_of_Tunisia.svg.png 2x" data-file-width="618" data-file-height="975"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b><span lang="ar" dir="rtl" title="Arabic language text">حرية، نظام، عدالة</span>
+           <br><i>"<i lang="ar-Latn" title="Arabic-language romanization">Ḥurriyyah, Niẓām, ‘Adālah</i>"</i>
+           <br>"Liberty, Order, Justice"<sup id="cite_ref-art4_1-0" class="reference"><a href="#cite_note-art4-1">[1]</a></sup>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b>"<a href="/w/index.php?title=Humat_al-Hima&amp;action=edit&amp;redlink=1" class="new" title="Humat al-Hima (not yet started)">Humat al-Hima</a>"
+           <br>"<i>Defenders of the Homeland</i>"
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Tunisia_(orthographic_projection).svg" class="image" title="Location of Tunisia"><img alt="Location of Tunisia" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tunisia_%28orthographic_projection%29.svg/250px-Tunisia_%28orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tunisia_%28orthographic_projection%29.svg/375px-Tunisia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tunisia_%28orthographic_projection%29.svg/500px-Tunisia_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Tunis" title="Tunis">Tunis</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/Arabic_language" title="Arabic language">Arabic</a><sup id="cite_ref-art1_2-0" class="reference"><a href="#cite_note-art1-2">[2]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>Tunisian</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary Semi-</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">Presidential</a> <a href="/wiki/Republic" title="Republic">Republic</a> <sup id="cite_ref-art1_2-1" class="reference"><a href="#cite_note-art1-2">[2]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_Tunisia" title="President of Tunisia">President</a> 
+          </div></th>
+         <td><a href="/wiki/Ka%C3%AFs_Sa%C3%AFed" title="Kaïs Saïed">Kaïs Saïed</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Head_of_state" title="Head of state">Head of Government</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Hichem_Mechichi&amp;action=edit&amp;redlink=1" class="new" title="Hichem Mechichi (not yet started)">Hichem Mechichi</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        </tr>
+        <tr class="mergedbottomrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from <a href="/wiki/French_Fourth_Republic" title="French Fourth Republic">France</a> 
+          </div></th>
+         <td>March 20, 1956</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>163,610&nbsp;km<sup>2</sup> (63,170&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">92nd</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>5.0</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Apr 2, 2017 estimate
+          </div></th>
+         <td>10,432,500<sup id="cite_ref-ins_3-0" class="reference"><a href="#cite_note-ins-3">[3]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">79th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2011&nbsp;census
+          </div></th>
+         <td>11,245,284<sup id="cite_ref-ins_3-1" class="reference"><a href="#cite_note-ins-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>63/km<sup>2</sup> (163.2/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">133rd (2005)</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2000)</span></th>
+         <td>39.8<br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2011)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.698<sup id="cite_ref-HDI_4-0" class="reference"><a href="#cite_note-HDI-4">[4]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">94th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Tunisian_dinar&amp;action=edit&amp;redlink=1" class="new" title="Tunisian dinar (not yet started)">Tunisian dinar</a> (<a href="/wiki/ISO_4217" title="ISO 4217">TND</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<i>not observed</i>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td>216</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:TN&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:TN (not yet started)">TN</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.tn" class="mw-redirect" title=".tn">.tn</a> <span lang="ar" dir="rtl" title="Arabic language text"><a href="/w/index.php?title=.%D8%AA%D9%88%D9%86%D8%B3&amp;action=edit&amp;redlink=1" class="new" title=".تونس (not yet started)">.تونس</a></span>‎<sup id="cite_ref-iana_5-0" class="reference"><a href="#cite_note-iana-5">[5]</a></sup></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Tunisia</b> (or formally, the <b>Republic of Tunisia</b>) is a <a href="/wiki/Country" title="Country">country</a> in North <a href="/wiki/Africa" title="Africa">Africa</a>. <a href="/wiki/Tunis" title="Tunis">Tunis</a> is its capital. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Before_the_Muslims"><span class="tocnumber">1.1</span> <span class="toctext">Before the Muslims</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#Beginning_of_Islam"><span class="tocnumber">1.2</span> <span class="toctext">Beginning of Islam</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#French_Occupation"><span class="tocnumber">1.3</span> <span class="toctext">French Occupation</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#World_War_II"><span class="tocnumber">1.4</span> <span class="toctext">World War II</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Independence_and_revolution"><span class="tocnumber">1.5</span> <span class="toctext">Independence and revolution</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Governorates"><span class="tocnumber">4</span> <span class="toctext">Governorates</span></a></li> 
+        <li class="toclevel-1 tocsection-10"><a href="#Cities"><span class="tocnumber">5</span> <span class="toctext">Cities</span></a></li> 
+        <li class="toclevel-1 tocsection-11"><a href="#Economy"><span class="tocnumber">6</span> <span class="toctext">Economy</span></a></li> 
+        <li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-13"><a href="#Other_websites"><span class="tocnumber">8</span> <span class="toctext">Other websites</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-14"><a href="#Government"><span class="tocnumber">8.1</span> <span class="toctext">Government</span></a></li> 
+          <li class="toclevel-2 tocsection-15"><a href="#News"><span class="tocnumber">8.2</span> <span class="toctext">News</span></a></li> 
+          <li class="toclevel-2 tocsection-16"><a href="#Overviews"><span class="tocnumber">8.3</span> <span class="toctext">Overviews</span></a></li> 
+          <li class="toclevel-2 tocsection-17"><a href="#Other"><span class="tocnumber">8.4</span> <span class="toctext">Other</span></a></li> 
+         </ul> </li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Before_the_Muslims">Before the Muslims</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Before the Muslims">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=2" title="Change section: Before the Muslims">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Since history has been recorded, there were <a href="/wiki/Berber_people" title="Berber people">Berber</a> tribes living in what is now Tunisia. Most of them built little towns and ports along the coastline so they could trade with different travellers from everywhere in the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>. Most of the travellers that used to pass by Tunisia were Phoenicians who started to settle on the Tunisian coast during the 10th Century BC. Later, in the 8th Century BC, <a href="/wiki/Carthage" title="Carthage">Carthage</a> was built by some settlers that came from <a href="/wiki/Phoenicia" title="Phoenicia">Phoenicia</a> and regions abroad. After many wars against <a href="/wiki/Greece" title="Greece">Greece</a> in 6th Century BC, <a href="/wiki/Carthage" title="Carthage">Carthage</a> dominated the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>. </p>
+      <p>During the <a href="/wiki/Second_Punic_War" title="Second Punic War">Second Punic War</a>, <a href="/wiki/Carthage" title="Carthage">Carthage</a> invaded <a href="/wiki/Italy" title="Italy">Italy</a> with an army led by <a href="/wiki/Hannibal" title="Hannibal">Hannibal</a>. The series of wars between the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a> and <a href="/wiki/Carthage" title="Carthage">Carthage</a> ended with the destruction of Carthage in the 2nd Century BC. Its territory in Africa became part of the <a href="/wiki/Africa_Province" title="Africa Province">Africa Province</a> of the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a>. </p>
+      <p>When the Roman Empire became weak, the <a href="/wiki/Vandals" title="Vandals">Vandals</a> occupied that region. This was in the 5th Century AD, and one hundred years after that, it became under the control of the Byzantine emperor Justinian. </p> 
+      <h3><span class="mw-headline" id="Beginning_of_Islam">Beginning of Islam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Beginning of Islam">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=3" title="Change section: Beginning of Islam">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In the 7th Century, it was conquered by the <a href="/wiki/Arab" class="mw-redirect" title="Arab">Arab</a> <a href="/wiki/Islam" title="Islam">Muslims</a> who built a city which they called <a href="/w/index.php?title=Kairouan&amp;action=edit&amp;redlink=1" class="new" title="Kairouan (not yet started)">Kairouan</a>. This was the first Arab Muslim city in Tunisia. Many Muslim <a href="/wiki/Dynasty" title="Dynasty">dynasties</a> (monarchies) ruled Tunisia. One of the best known dynasties was the Zirids dynasty. The <a href="/w/index.php?title=Zirids&amp;action=edit&amp;redlink=1" class="new" title="Zirids (not yet started)">Zirids</a> were <a href="/wiki/Berber_people" title="Berber people">Berber people</a> and followed the rules of the <a href="/w/index.php?title=Fatimides&amp;action=edit&amp;redlink=1" class="new" title="Fatimides (not yet started)">Fatimides</a>, a bigger dynasty in <a href="/wiki/Cairo" title="Cairo">Cairo</a>. When the <a href="/w/index.php?title=Zirids&amp;action=edit&amp;redlink=1" class="new" title="Zirids (not yet started)">Zirids</a> angered the Fatimides, the <a href="/w/index.php?title=Fatimides&amp;action=edit&amp;redlink=1" class="new" title="Fatimides (not yet started)">Fatimides</a> sent some tribes known as <a href="/wiki/Banu_Hilal" title="Banu Hilal">Banu Hilal</a> who ravaged (destroyed and vandalized) Tunisia. </p>
+      <p>After a brief occupation of Tunisia by the <a href="/wiki/Normans" title="Normans">Normans</a> of <a href="/wiki/Sicily" title="Sicily">Sicily</a> in the 12th Century, the <a href="/wiki/Almohad" title="Almohad">Almohad</a> re-conquered it. After that came the <a href="/w/index.php?title=Hafsids&amp;action=edit&amp;redlink=1" class="new" title="Hafsids (not yet started)">Hafsids</a>. In the last years of their reign, the <a href="/w/index.php?title=Hafsids&amp;action=edit&amp;redlink=1" class="new" title="Hafsids (not yet started)">Hafsids</a> became weak and <a href="/wiki/Spain" title="Spain">Spain</a> took control of many cities on the coast until they were finally occupied by the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a>. </p>
+      <p>In 1705, Tunisia became virtually independent during the <a href="/w/index.php?title=Hussein&amp;action=edit&amp;redlink=1" class="new" title="Hussein (not yet started)">Hussein</a> dynasty, but still had to follow orders from the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a>. </p> 
+      <h3><span class="mw-headline" id="French_Occupation">French Occupation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: French Occupation">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=4" title="Change section: French Occupation">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Some controversial financial decisions (money-lending) taken by the Bey in mid-1800s in an attempt to repair the country led Tunisia to become under the control of <a href="/wiki/France" title="France">France</a>. Tunisia became officially a French <a href="/wiki/Protectorate" title="Protectorate">protectorate</a> in on May 12, 1881, but with the strong opposition of the kingdom of Italy because there was a huge Italian community in Tunisia.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+      <h3><span class="mw-headline" id="World_War_II">World War II</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: World War II">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=5" title="Change section: World War II">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Important parts of the <a href="/wiki/North_African_Campaign" title="North African Campaign">North African Campaign</a> of <a href="/wiki/World_War_II" title="World War II">World War II</a> were fought in Tunisia from 1941 to 1943. </p>
+      <p>General <a href="/wiki/Erwin_Rommel" title="Erwin Rommel">Erwin Rommel</a>, the German commander in Africa, wished to defeat the Allies in Tunisia, as the Germans had done in the <a href="/wiki/Battle_of_France" title="Battle of France">Battle of France</a> when the Allies were inexperienced against the German <a href="/wiki/Blitzkrieg" title="Blitzkrieg">Blitzkrieg</a>. On February 19, 1943, Rommel launched an attack against the U.S. Forces, with his German and Italian troops, in the western area of Tunisia. That was a disaster for the United States. </p>
+      <p>After that, the Allies understood the importance of tank warfare. With better supplies than the Germans, they easily broke into the German lines in southern Tunisia on March 20, 1943. In May 11, 1943 the last German troops surrendered, followed two days later by the Italian troops. </p> 
+      <h3><span class="mw-headline" id="Independence_and_revolution">Independence and revolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Independence and revolution">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=6" title="Change section: Independence and revolution">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Tunisia became independent in 1956 with the <a href="/wiki/Muhammad_VIII_al-Amin" title="Muhammad VIII al-Amin">former Bey of Tunis</a> as King. Prime Minister <a href="/wiki/Habib_Bourguiba" title="Habib Bourguiba">Habib Bourguiba</a> became the first president in 1957 when it became a republic. Bourguiba focused on education and economic development. He was supportive of <a href="/wiki/Women%27s_rights" title="Women's rights">women's rights</a>. However, he had a cult of personality around him and most of the power in the country was held by Bourguiba. </p>
+      <p>In 1987, Bourguiba was removed from power by <a href="/wiki/Zine_El-Abidine_Ben_Ali" class="mw-redirect" title="Zine El-Abidine Ben Ali">Zine el Abidine Ben Ali</a>. Ben Ali ruled as <a href="/wiki/Dictator" title="Dictator">dictator</a> of the country until 2011, when he was overthrown in a <a href="/wiki/Revolution" title="Revolution">revolution</a>. The revolution was the first major revolution of the <a href="/wiki/Arab_Spring" title="Arab Spring">Arab Spring</a>. Tunisia began becoming more democratic, and in 2014, the country held its first free presidential election. The election was won by <a href="/wiki/Beji_Caid_Essebsi" title="Beji Caid Essebsi">Beji Caid Essebsi</a>, a <a href="/wiki/Secular" class="mw-redirect" title="Secular">secular</a>, <a href="/wiki/Liberal" class="mw-redirect" title="Liberal">liberal</a> candidate. </p> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=7" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Tunisia is in the northern part of <a href="/wiki/Africa" title="Africa">Africa</a>. The <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> joins Tunisia in the <a href="/wiki/North" title="North">north</a> and <a href="/wiki/East" title="East">east</a>; the coastline of Tunisia on the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> is about 1,300&nbsp;km. Tunisia is also bordered by <a href="/wiki/Algeria" title="Algeria">Algeria</a> to the west and <a href="/wiki/Libya" title="Libya">Libya</a> to the <a href="/w/index.php?title=South-east&amp;action=edit&amp;redlink=1" class="new" title="South-east (not yet started)">south-east</a>. </p>
+      <p>The <a href="/wiki/Sahara_Desert" class="mw-redirect" title="Sahara Desert">Sahara Desert</a> covers 40% of Tunisia. The other 60% is a fertile area. </p> 
+      <h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: Demographics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=8" title="Change section: Demographics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a href="/w/index.php?title=Standard_Arabic&amp;action=edit&amp;redlink=1" class="new" title="Standard Arabic (not yet started)">Standard Arabic</a> is the official language by the Tunisian constitution. But Tunisians speak <a href="/w/index.php?title=Tunisian_Arabic&amp;action=edit&amp;redlink=1" class="new" title="Tunisian Arabic (not yet started)">Tunisian Arabic</a>. Tunisian Arabic is a mix of many languages of people that live or lived in Tunisia. It is called <a href="/w/index.php?title=Darija&amp;action=edit&amp;redlink=1" class="new" title="Darija (not yet started)">Darija</a> or Tunsi. </p>
+      <p>A small number of people living in Tunisia still speak a <a href="/wiki/Berber_languages" title="Berber languages">Berber</a> dialect, known as Shelha. </p>
+      <p>Most people now living Tunisia are Maghrebin Arab. However, small groups of Berbers and Jews live in Tunisia. </p>
+      <p>The constitution says that <a href="/wiki/Islam" title="Islam">Islam</a> is the official state religion. It also requires the President to be <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a>. </p> 
+      <h2><span class="mw-headline" id="Governorates">Governorates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Governorates">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=9" title="Change section: Governorates">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:Tunisia_governorates_cropped.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tunisia_governorates_cropped.png/200px-Tunisia_governorates_cropped.png" decoding="async" width="200" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tunisia_governorates_cropped.png/300px-Tunisia_governorates_cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/2/22/Tunisia_governorates_cropped.png 2x" data-file-width="358" data-file-height="591"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Tunisia_governorates_cropped.png" class="internal" title="Enlarge"></a>
+         </div>Governorates of Tunisia
+        </div>
+       </div>
+      </div> 
+      <p>Tunisia is divided into 24 <a href="/wiki/Governorate" title="Governorate">governorates</a>. They are: </p> 
+      <table> 
+       <tbody>
+        <tr> 
+         <td>
+          <ol> 
+           <li> <a href="/wiki/Ariana_Governorate" title="Ariana Governorate">Ariana</a> </li>
+           <li> <a href="/wiki/B%C3%A9ja_Governorate" title="Béja Governorate">Béja</a> </li>
+           <li> <a href="/wiki/Ben_Arous_Governorate" title="Ben Arous Governorate">Ben Arous</a> </li>
+           <li> <a href="/wiki/Bizerte_Governorate" title="Bizerte Governorate">Bizerte</a> </li>
+           <li> <a href="/wiki/Gab%C3%A8s_Governorate" title="Gabès Governorate">Gabès</a> </li>
+           <li> <a href="/wiki/Gafsa_Governorate" title="Gafsa Governorate">Gafsa</a> </li>
+           <li> <a href="/wiki/Jendouba_Governorate" title="Jendouba Governorate">Jendouba</a> </li>
+           <li> <a href="/wiki/Kairouan_Governorate" title="Kairouan Governorate">Kairouan</a> </li>
+           <li> <a href="/wiki/Kasserine_Governorate" title="Kasserine Governorate">Kasserine</a> </li>
+           <li> <a href="/wiki/Kebili_Governorate" title="Kebili Governorate">Kebili</a> </li>
+           <li> <a href="/wiki/Kef_Governorate" title="Kef Governorate">Kef</a> </li>
+           <li> <a href="/wiki/Mahdia_Governorate" title="Mahdia Governorate">Mahdia</a> </li>
+          </ol> </td> 
+         <td>
+          <ol start="13"> 
+           <li> <a href="/wiki/Manouba_Governorate" title="Manouba Governorate">Manouba</a> </li>
+           <li> <a href="/wiki/Medenine_Governorate" title="Medenine Governorate">Medenine</a> </li>
+           <li> <a href="/wiki/Monastir_Governorate" title="Monastir Governorate">Monastir</a> </li>
+           <li> <a href="/wiki/Nabeul_Governorate" title="Nabeul Governorate">Nabeul</a> </li>
+           <li> <a href="/wiki/Sfax_Governorate" title="Sfax Governorate">Sfax</a> </li>
+           <li> <a href="/wiki/Sidi_Bouzid_Governorate" title="Sidi Bouzid Governorate">Sidi Bouzid</a> </li>
+           <li> <a href="/wiki/Siliana_Governorate" title="Siliana Governorate">Siliana</a> </li>
+           <li> <a href="/wiki/Sousse_Governorate" title="Sousse Governorate">Sousse</a> </li>
+           <li> <a href="/wiki/Tataouine_Governorate" title="Tataouine Governorate">Tataouine</a> </li>
+           <li> <a href="/wiki/Tozeur_Governorate" title="Tozeur Governorate">Tozeur</a> </li>
+           <li> <a href="/wiki/Tunis_Governorate" title="Tunis Governorate">Tunis</a> </li>
+           <li> <a href="/wiki/Zaghouan_Governorate" title="Zaghouan Governorate">Zaghouan</a> </li>
+          </ol> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Cities">Cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: Cities">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=10" title="Change section: Cities">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Panoramique_Avenue_Mohamed_V,_centre_de_Tunis.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Panoramique_Avenue_Mohamed_V%2C_centre_de_Tunis.jpg/250px-Panoramique_Avenue_Mohamed_V%2C_centre_de_Tunis.jpg" decoding="async" width="250" height="90" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Panoramique_Avenue_Mohamed_V%2C_centre_de_Tunis.jpg/375px-Panoramique_Avenue_Mohamed_V%2C_centre_de_Tunis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Panoramique_Avenue_Mohamed_V%2C_centre_de_Tunis.jpg/500px-Panoramique_Avenue_Mohamed_V%2C_centre_de_Tunis.jpg 2x" data-file-width="2798" data-file-height="1003"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Panoramique_Avenue_Mohamed_V,_centre_de_Tunis.jpg" class="internal" title="Enlarge"></a>
+         </div><a href="/wiki/Tunis" title="Tunis">Tunis</a>, Capital of Tunisia
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Sfaxcentre.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sfaxcentre.jpg/250px-Sfaxcentre.jpg" decoding="async" width="250" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sfaxcentre.jpg/375px-Sfaxcentre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sfaxcentre.jpg/500px-Sfaxcentre.jpg 2x" data-file-width="1596" data-file-height="1037"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Sfaxcentre.jpg" class="internal" title="Enlarge"></a>
+         </div><a href="/w/index.php?title=Sfax&amp;action=edit&amp;redlink=1" class="new" title="Sfax (not yet started)">Sfax</a> City Centre
+        </div>
+       </div>
+      </div> 
+      <p>The largest cities in Tunisia are: </p> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr> 
+         <th style="width:50px;">Nr. </th> 
+         <th style="width:150px;">City </th> 
+         <th style="width:170px;">Population </th> 
+         <th style="width:150px;">Governatorate </th>
+        </tr> 
+        <tr> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           1
+          </div> </td> 
+         <td><b><a href="/wiki/Tunis" title="Tunis">Tunis</a></b> </td> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           983,861 <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+          </div> </td> 
+         <td><a href="/wiki/Tunis_Governorate" title="Tunis Governorate">Tunis</a> </td>
+        </tr> 
+        <tr style="background:#efefef;"> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           2
+          </div> </td> 
+         <td><b><a href="/w/index.php?title=Sfax&amp;action=edit&amp;redlink=1" class="new" title="Sfax (not yet started)">Sfax</a></b> </td> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           855,256 <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+          </div> </td> 
+         <td><a href="/wiki/Sfax_Governorate" title="Sfax Governorate">Sfax</a> </td>
+        </tr> 
+        <tr> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           3
+          </div> </td> 
+         <td><b><a href="/w/index.php?title=Kairouan&amp;action=edit&amp;redlink=1" class="new" title="Kairouan (not yet started)">Kairouan</a></b> </td> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           546,209 <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+          </div> </td> 
+         <td><a href="/wiki/Kairouan_Governorate" title="Kairouan Governorate">Kairouan</a> </td>
+        </tr> 
+        <tr style="background:#efefef;"> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           4
+          </div> </td> 
+         <td><b><a href="/wiki/Sousse" title="Sousse">Sousse</a></b> </td> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           544,413 <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+          </div> </td> 
+         <td><a href="/wiki/Sousse_Governorate" title="Sousse Governorate">Sousse</a> </td>
+        </tr> 
+        <tr> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           5
+          </div> </td> 
+         <td><b><a href="/w/index.php?title=Ettadhamen-Mnihla&amp;action=edit&amp;redlink=1" class="new" title="Ettadhamen-Mnihla (not yet started)">Ettadhamen</a></b> <sup id="cite_ref-tt_11-0" class="reference"><a href="#cite_note-tt-11">[11]</a></sup> </td> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           422,246 <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+          </div> </td> 
+         <td><a href="/wiki/Ariana_Governorate" title="Ariana Governorate">Ariana</a> </td>
+        </tr> 
+        <tr style="background:#efefef;"> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           6
+          </div> </td> 
+         <td><b><a href="/wiki/Gab%C3%A8s" title="Gabès">Gabès</a></b> </td> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           342,630
+          </div> </td> 
+         <td><a href="/wiki/Gab%C3%A8s_Governorate" title="Gabès Governorate">Gabès</a> </td>
+        </tr> 
+        <tr> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           7
+          </div> </td> 
+         <td><b><a href="/w/index.php?title=Bizerte&amp;action=edit&amp;redlink=1" class="new" title="Bizerte (not yet started)">Bizerte</a></b> </td> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           114,371
+          </div> </td> 
+         <td><a href="/wiki/Bizerte_Governorate" title="Bizerte Governorate">Bizerte</a> </td>
+        </tr> 
+        <tr style="background:#efefef;"> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           8
+          </div> </td> 
+         <td><b><a href="/w/index.php?title=Aryanah&amp;action=edit&amp;redlink=1" class="new" title="Aryanah (not yet started)">Aryanah</a></b> <sup id="cite_ref-tt_11-1" class="reference"><a href="#cite_note-tt-11">[11]</a></sup> </td> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           97,687
+          </div> </td> 
+         <td><a href="/wiki/Ariana_Governorate" title="Ariana Governorate">Ariana</a> </td>
+        </tr> 
+        <tr> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           9
+          </div> </td> 
+         <td><b><a href="/w/index.php?title=Gafsa&amp;action=edit&amp;redlink=1" class="new" title="Gafsa (not yet started)">Gafsa</a></b> </td> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           84,676
+          </div> </td> 
+         <td><a href="/wiki/Gafsa_Governorate" title="Gafsa Governorate">Gafsa</a> </td>
+        </tr> 
+        <tr style="background:#efefef;"> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           10
+          </div> </td> 
+         <td><b><a href="/w/index.php?title=El_Mourouj&amp;action=edit&amp;redlink=1" class="new" title="El Mourouj (not yet started)">El Mourouj</a></b> <sup id="cite_ref-tt_11-2" class="reference"><a href="#cite_note-tt-11">[11]</a></sup> </td> 
+         <td>
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+           81,986
+          </div> </td> 
+         <td><a href="/wiki/Ben_Arous_Governorate" title="Ben Arous Governorate">Ben Arous</a> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Change section: Economy">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=11" title="Change section: Economy">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Tunisia's economy has many sectors: agriculture (fruit, vegetable oil and vegetables), tourism (when people come from other countries to visit), mining (extracting goods from under the ground), and petroleum (fuel and gas oil). The government used to control the economy, but now it has sold some public companies. This is called privatization. </p>
+      <p>Tunisia was also the first Mediterranean country to make an agreement with the European Union. This association agreement was signed on March 1, 1995. </p>
+      <p>Tunisia has plans for two <a href="/wiki/Nuclear" class="mw-disambig" title="Nuclear">nuclear</a> power stations, to be working by 2019. </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=12" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-art4-1"><span class="mw-cite-backlink"><a href="#cite_ref-art4_1-0">↑</a></span> <span class="reference-text"><cite class="citation journal cs1">"Tunisia Constitution". 1957-07-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Tunisia+Constitution&amp;rft.date=1957-07-25&amp;rft_id=http%3A%2F%2Fwww.chambre-dep.tn%2Fa_constit1.html+%3Cspan+class%3D%22languageicon%22%3E%28in+Arabic%29%3C%2Fspan%3ECategory%3AArticles+with+Arabic-language+sources+%28ar%29&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATunisia" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>); </span><span class="cs1-visible-error error citation-comment"><code class="cs1-code">|contribution=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-art1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-art1_2-0">2.0</a></sup> <sup><a href="#cite_ref-art1_2-1">2.1</a></sup></span> <span class="reference-text"><cite class="citation journal cs1">"Tunisia Constitution". 1957-07-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Tunisia+Constitution&amp;rft.date=1957-07-25&amp;rft_id=http%3A%2F%2Fwww.chambre-dep.tn%2Fa_constit1.html+%3Cspan+class%3D%22languageicon%22%3E%28in+Arabic%29%3C%2Fspan%3ECategory%3AArticles+with+Arabic-language+sources+%28ar%29&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATunisia" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>); </span><span class="cs1-visible-error error citation-comment"><code class="cs1-code">|contribution=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"> Translation by the University of Bern: <i>Tunisia is a free State, independent and sovereign; its religion is the Islam, its language is Arabic, and its form is the Republic.</i></span> </li> 
+         <li id="cite_note-ins-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ins_3-0">3.0</a></sup> <sup><a href="#cite_ref-ins_3-1">3.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ins.nat.tn/">"National Statistics Online"</a>. National Statistics Institute of Tunisia. July 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+Statistics+Online&amp;rft.pub=National+Statistics+Institute+of+Tunisia&amp;rft.date=2009-07&amp;rft_id=http%3A%2F%2Fwww.ins.nat.tn%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATunisia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"> <span class="languageicon">(in Arabic)</span></span> </li> 
+         <li id="cite_note-HDI-4"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_4-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf">"Human Development Report 2011"</a> <span class="cs1-format">(PDF)</span>. United Nations. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2011&amp;rft.pub=United+Nations&amp;rft.date=2011&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fmedia%2FHDR_2011_EN_Table1.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATunisia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-iana-5"><span class="mw-cite-backlink"><a href="#cite_ref-iana_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.iana.org/reports/2010/tunis-report-16jul2010.html">"Report on the Delegation of تونس"</a>. Internet Corporation for Assigned Names and Numbers. 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+on+the+Delegation+of+%D8%AA%D9%88%D9%86%D8%B3.&amp;rft.pub=Internet+Corporation+for+Assigned+Names+and+Numbers&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fwww.iana.org%2Freports%2F2010%2Ftunis-report-16jul2010.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATunisia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://bjuniornewblog.blogspot.com/2019/06/italians-in-colonial-french-maghreb.html">Italians in Tunisia &amp; Maghreb</a></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">3,980,500 in the metropolitan area</span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://population.mongabay.com/population/tunisia/2467454/sfax">"Mongabay.com, population of Sfax"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mongabay.com%2C+population+of+Sfax&amp;rft_id=http%3A%2F%2Fpopulation.mongabay.com%2Fpopulation%2Ftunisia%2F2467454%2Fsfax&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATunisia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://population.mongabay.com/population/tunisia/2473449/kairouan">"Mongabay.com, population of Kairouan"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mongabay.com%2C+population+of+Kairouan&amp;rft_id=http%3A%2F%2Fpopulation.mongabay.com%2Fpopulation%2Ftunisia%2F2473449%2Fkairouan&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATunisia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://population.mongabay.com/population/tunisia/2464915/sousse">"Mongabay.com, population of Sousse"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mongabay.com%2C+population+of+Sousse&amp;rft_id=http%3A%2F%2Fpopulation.mongabay.com%2Fpopulation%2Ftunisia%2F2464915%2Fsousse&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATunisia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-tt-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-tt_11-0">11.0</a></sup> <sup><a href="#cite_ref-tt_11-1">11.1</a></sup> <sup><a href="#cite_ref-tt_11-2">11.2</a></sup></span> <span class="reference-text">Part of Tunis metropolitan area</span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.fita.org/countries/tunisia.html?ma_rubrique=cadre">"FITA, population of At Tadaman"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FITA%2C+population+of+At+Tadaman&amp;rft_id=http%3A%2F%2Fwww.fita.org%2Fcountries%2Ftunisia.html%3Fma_rubrique%3Dcadre&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATunisia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=13" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="metadata plainlinks mbox-small" style="padding:0.25em 0.5em 0.5em 0.75em;border:1px solid #aaa;background:#f9f9f9;"> 
+       <tbody>
+        <tr> 
+         <td colspan="2" style="padding-bottom:0.75em;border-bottom:1px solid #aaa;text-align:center;">
+          <div style="clear:both;">
+           Find more about
+           <br><b>Tunisia</b>
+           <br>at Wikipedia's <a href="/wiki/Wikipedia:Sister_projects" title="Wikipedia:Sister projects">sister projects</a> 
+          </div> </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td style="padding-top:0.75em;"><a href="https://simple.wiktionary.org/wiki/Special:Search/Tunisia" title="Search Wiktionary"><img alt="Search Wiktionary" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/23px-Wiktionary-logo-en.svg.png" decoding="async" width="23" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/35px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/46px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089"></a> </td> 
+         <td style="padding-top:0.75em;"><a href="https://simple.wiktionary.org/wiki/Special:Search/Tunisia" class="extiw" title="wikt:Special:Search/Tunisia">Definitions</a> from Wiktionary </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://commons.wikimedia.org/wiki/Special:Search/Tunisia" title="Search Commons"><img alt="Search Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" decoding="async" width="18" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/37px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> </td> 
+         <td><a href="https://commons.wikimedia.org/wiki/Special:Search/Tunisia" class="extiw" title="commons:Special:Search/Tunisia">Media</a> from Commons </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikinews.org/wiki/Special:Search/Tunisia" title="Search Wikinews"><img alt="Search Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/25px-Wikinews-logo.svg.png" decoding="async" width="25" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/38px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415"></a> </td> 
+         <td><a href="https://en.wikinews.org/wiki/Special:Search/Tunisia" class="extiw" title="wikinews:Special:Search/Tunisia">News stories</a> from Wikinews </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikiquote.org/wiki/Special:Search/Tunisia" title="Search Wikiquote"><img alt="Search Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/21px-Wikiquote-logo.svg.png" decoding="async" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/32px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/42px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355"></a> </td> 
+         <td><a href="https://en.wikiquote.org/wiki/Special:Search/Tunisia" class="extiw" title="wikiquote:Special:Search/Tunisia">Quotations</a> from Wikiquote </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikisource.org/wiki/Special:Search/Tunisia" title="Search Wikisource"><img alt="Search Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png" decoding="async" width="24" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/36px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/48px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> </td> 
+         <td><a href="https://en.wikisource.org/wiki/Special:Search/Tunisia" class="extiw" title="wikisource:Special:Search/Tunisia">Source texts</a> from Wikisource </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikibooks.org/wiki/Special:Search/Tunisia" title="Search Wikibooks"><img alt="Search Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300"></a> </td> 
+         <td><a href="https://en.wikibooks.org/wiki/Special:Search/Tunisia" class="extiw" title="wikibooks:Special:Search/Tunisia">Textbooks</a> from Wikibooks </td>
+        </tr> 
+        <tr style="height:25px;"> 
+         <td><a href="https://en.wikiversity.org/wiki/Special:Search/Tunisia" title="Search Wikiversity"><img alt="Search Wikiversity" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/25px-Wikiversity-logo-en.svg.png" decoding="async" width="25" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/38px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/50px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900"></a> </td> 
+         <td><a href="https://en.wikiversity.org/wiki/Special:Search/Tunisia" class="extiw" title="wikiversity:Special:Search/Tunisia">Learning resources</a> from Wikiversity </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h3><span class="mw-headline" id="Government">Government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Change section: Government">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=14" title="Change section: Government">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.ministeres.tn/">Tunisia Government</a> official site <span class="languageicon">(in French)</span></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.chambre-dep.tn/">Tunisia Chamber of Deputies</a> official site <span class="languageicon">(in Arabic)</span></li>
+      </ul> 
+      <h3><span class="mw-headline" id="News">News</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Change section: News">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=15" title="Change section: News">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.north-africa.com/one.htm">The North Africa Journal</a> business news</li> 
+       <li><a rel="nofollow" class="external text" href="http://www.tunisiaonline.com/news/">Tunisia Media Online</a> government-sourced</li> 
+       <li><a rel="nofollow" class="external text" href="http://www.magharebia.com/">News and Views of the Maghreb</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://allafrica.com/tunisia/">AllAfrica.com—<i>Tunisia</i></a> news headline links</li>
+      </ul> 
+      <h3><span class="mw-headline" id="Overviews">Overviews</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="Change section: Overviews">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=16" title="Change section: Overviews">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/world/middle_east/country_profiles/791969.stm">BBC News Country Profile—<i>Tunisia</i></a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.britannica.com/nations/Tunisia">Encyclopedia Britannica, <i>Tunisia</i>—Country Page</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.arab.net/tunisia/"><i>Tunisia</i> on arab.net</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/ts.html">CIA World Factbook—<i>Tunisia</i></a></li> 
+       <li><a rel="nofollow" class="external text" href="http://dmoz.org/Regional/Africa/Tunisia/">Open Directory Project—<i>Tunisia</i></a> directory category</li> 
+       <li><a rel="nofollow" class="external text" href="http://www.magharebia.com/cocoon/awi/xhtml1/en_GB/info/">country info &amp; who's who</a></li>
+      </ul> 
+      <h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tunisia&amp;veaction=edit&amp;section=17" class="mw-editsection-visualeditor" title="Change section: Other">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Tunisia&amp;action=edit&amp;section=17" title="Change section: Other">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.tunisland.com">Tunisland The Biggest Video Website For Everything Tunisian</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.tunisia360.com">Everything about Tunisia</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.nawaat.org">Nawaat</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.yezzi.org">Tunisian online demonstration as protest against dictatorship</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.plpp.org">For the liberation of Political Prisoners in Tunisia</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.tunisiaonline.com">TunisiaOnline</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://en.jurispedia.org/index.php/Tunisia">The Tunisian law</a> from Jurispedia</li> 
+       <li><a rel="nofollow" class="external text" href="http://www.tunisiadaily.com">Tunisia Daily</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.tunisie-genealogie.com/chretiens-de-tunisie/liste-des-mariages-catholiques-1801-1948.html">List of catholic marriages in Tunisia 1801–1949</a> <span class="languageicon">(in French)</span></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.tunisia-today.com">Tunisia Today</a> <span class="languageicon">(in French)</span></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.tunisiancommunity.org/content/blogsection/1/3/">Tunisian Community Center (the Organization of Tunisian-Americans)</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://world-postcards.blogspot.com/search/label/tunisia">Tunisia Postcards</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://en.citizendium.org/wiki/Tunisia">Tunisia</a> -Citizendium</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_Africa" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
+            <a href="/w/index.php?title=List_of_sovereign_states_and_dependent_territories_in_Africa&amp;action=edit&amp;redlink=1" class="new" title="List of sovereign states and dependent territories in Africa (not yet started)">Countries and territories</a> of <a href="/wiki/Africa" title="Africa">Africa</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Entirely or mostly<br>in Africa</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Algeria" title="Algeria">Algeria</a></li> 
+                 <li><a href="/wiki/Angola" title="Angola">Angola</a></li> 
+                 <li><a href="/wiki/Benin" title="Benin">Benin</a></li> 
+                 <li><a href="/wiki/Botswana" title="Botswana">Botswana</a></li> 
+                 <li><a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a></li> 
+                 <li><a href="/wiki/Burundi" title="Burundi">Burundi</a></li> 
+                 <li><a href="/wiki/Cameroon" title="Cameroon">Cameroon</a></li> 
+                 <li><a href="/wiki/Cape_Verde" title="Cape Verde">Cape Verde</a></li> 
+                 <li><a href="/wiki/Central_African_Republic" title="Central African Republic">Central African Republic</a></li> 
+                 <li><a href="/wiki/Chad" title="Chad">Chad</a></li> 
+                 <li><a href="/wiki/Comoros" title="Comoros">Comoros</a></li> 
+                 <li><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+                 <li><a href="/wiki/Republic_of_the_Congo" title="Republic of the Congo">Republic of the Congo</a></li> 
+                 <li><a href="/wiki/Djibouti" title="Djibouti">Djibouti</a></li> 
+                 <li><a href="/wiki/Egypt" title="Egypt">Egypt</a></li> 
+                 <li><a href="/wiki/Equatorial_Guinea" title="Equatorial Guinea">Equatorial Guinea</a></li> 
+                 <li><a href="/wiki/Eritrea" title="Eritrea">Eritrea</a></li> 
+                 <li><a href="/wiki/Eswatini" title="Eswatini">Eswatini</a></li> 
+                 <li><a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a></li> 
+                 <li><a href="/wiki/Gabon" title="Gabon">Gabon</a></li> 
+                 <li><a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a></li> 
+                 <li><a href="/wiki/Ghana" title="Ghana">Ghana</a></li> 
+                 <li><a href="/wiki/Guinea" title="Guinea">Guinea</a></li> 
+                 <li><a href="/wiki/Guinea-Bissau" title="Guinea-Bissau">Guinea-Bissau</a></li> 
+                 <li><a href="/wiki/Ivory_Coast" title="Ivory Coast">Ivory Coast</a></li> 
+                 <li><a href="/wiki/Kenya" title="Kenya">Kenya</a></li> 
+                 <li><a href="/wiki/Lesotho" title="Lesotho">Lesotho</a></li> 
+                 <li><a href="/wiki/Liberia" title="Liberia">Liberia</a></li> 
+                 <li><a href="/wiki/Libya" title="Libya">Libya</a></li> 
+                 <li><a href="/wiki/Madagascar" title="Madagascar">Madagascar</a></li> 
+                 <li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li> 
+                 <li><a href="/wiki/Mali" title="Mali">Mali</a></li> 
+                 <li><a href="/wiki/Mauritania" title="Mauritania">Mauritania</a></li> 
+                 <li><a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></li> 
+                 <li><a href="/wiki/Morocco" title="Morocco">Morocco</a></li> 
+                 <li><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a></li> 
+                 <li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li> 
+                 <li><a href="/wiki/Niger" title="Niger">Niger</a></li> 
+                 <li><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></li> 
+                 <li><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a></li> 
+                 <li><a href="/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+                 <li><a href="/wiki/Senegal" title="Senegal">Senegal</a></li> 
+                 <li><a href="/wiki/Seychelles" title="Seychelles">Seychelles</a></li> 
+                 <li><a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></li> 
+                 <li><a href="/wiki/Somalia" title="Somalia">Somalia</a></li> 
+                 <li><a href="/wiki/South_Africa" title="South Africa">South Africa</a></li> 
+                 <li><a href="/wiki/South_Sudan" title="South Sudan">South Sudan</a></li> 
+                 <li><a href="/wiki/Sudan" title="Sudan">Sudan</a></li> 
+                 <li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li> 
+                 <li><a href="/wiki/Togo" title="Togo">Togo</a></li> 
+                 <li><a class="mw-selflink selflink">Tunisia</a></li> 
+                 <li><a href="/wiki/Uganda" title="Uganda">Uganda</a></li> 
+                 <li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li> 
+                 <li><a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Partly<br>in Africa</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/France" title="France">France</a> 
+                  <ul>
+                   <li><a href="/wiki/Mayotte" title="Mayotte">Mayotte</a></li> 
+                   <li><a href="/wiki/R%C3%A9union" title="Réunion">Réunion</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Italy" title="Italy">Italy</a> 
+                  <ul>
+                   <li><a href="/w/index.php?title=Pantelleria&amp;action=edit&amp;redlink=1" class="new" title="Pantelleria (not yet started)">Pantelleria</a></li> 
+                   <li><a href="/wiki/Pelagie_Islands" title="Pelagie Islands">Pelagie Islands</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Portugal" title="Portugal">Portugal</a> 
+                  <ul>
+                   <li><a href="/wiki/Madeira" class="mw-redirect" title="Madeira">Madeira</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Spain" title="Spain">Spain</a> 
+                  <ul>
+                   <li><a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a></li> 
+                   <li><a href="/wiki/Ceuta" title="Ceuta">Ceuta</a></li> 
+                   <li><a href="/wiki/Melilla" title="Melilla">Melilla</a></li> 
+                   <li><a href="/w/index.php?title=Plazas_de_soberan%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Plazas de soberanía (not yet started)">Plazas de soberanía</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Yemen" title="Yemen">Yemen</a> 
+                  <ul>
+                   <li><a href="/wiki/Socotra" title="Socotra">Socotra</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px;padding:0 1.0em 0 0.5em;">
+           <div>
+            <a href="/wiki/File:Africa_(orthographic_projection).svg" class="image" title="Orthographic projection of Africa"><img alt="Orthographic projection of Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/120px-Africa_%28orthographic_projection%29.svg.png" decoding="async" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/180px-Africa_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/240px-Africa_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/w/index.php?title=Territory_(subdivision)&amp;action=edit&amp;redlink=1" class="new" title="Territory (subdivision) (not yet started)">Territories</a> 
+            <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">and</span>
+            <br><a href="/wiki/Dependent_territory" title="Dependent territory">dependencies</a>
+           </div></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Scattered_Islands_in_the_Indian_Ocean" title="Scattered Islands in the Indian Ocean">Îles Éparses</a> 
+              <ul>
+               <li><span style="font-size:90%;">France</span></li>
+              </ul></li> 
+             <li><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</a> 
+              <ul>
+               <li><span style="font-size:90%;">UK</span></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with limited<br>recognition</a>
+           </div></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Sahrawi_Arab_Democratic_Republic" title="Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Somaliland" title="Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <sup><small>1</small></sup> <a href="/wiki/Territorial_dispute" class="mw-redirect" title="Territorial dispute">Unclear sovereignty</a>.
+            <br>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q948&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q948&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q948" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/Bibsys" title="Bibsys">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/2035287">2035287</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11865659f">cb11865659f</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11865659f">(data)</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4061206-5">4061206-5</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://hls-dhs-dss.ch/fr/articles/003472">003472</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000121102127">0000 0001 2110 2127</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n79065220">n79065220</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/area/58955071-67c1-3491-8dec-48d28f824bda">58955071-67c1-3491-8dec-48d28f824bda</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10035673">10035673</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00573914">00573914</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge128596&amp;CON_LNG=ENG">ge128596</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35557955">35557955</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=000975714&amp;local_base=nlx10">000975714</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/159965">159965</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/026402491">026402491</a></span></span></li> 
+             <li><span class="nowrap"><a href="https://www.wikidata.org/wiki/Q21527102" class="extiw" title="d:Q21527102">TDVİA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://islamansiklopedisi.org.tr/tunus">tunus</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/151897393">151897393</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n79065220">lccn-n79065220</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1307
+Cached time: 20201225185946
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.128 seconds
+Real time usage: 1.307 seconds
+Preprocessor visited node count: 4234/1000000
+Post‐expand include size: 82364/2097152 bytes
+Template argument size: 5882/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 23/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 30216/5000000 bytes
+Lua time usage: 0.796/10.000 seconds
+Lua memory usage: 31047759/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1165.367      1 -total
+ 54.69%  637.283      1 Template:Infobox_country
+ 54.11%  630.617      3 Template:Infobox
+ 25.00%  291.285      1 Template:Authority_control
+ 18.79%  218.938      3 Template:ISO_3166_code
+ 13.56%  158.030      1 Template:Reflist
+ 12.95%  150.928      2 Template:Lang
+  9.91%  115.462      2 Template:Cite_journal
+  4.53%   52.839      1 Template:Africa
+  4.12%   48.000      2 Template:Navbox
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:7472-0!canonical and timestamp 20201225185946 and revision id 7219319. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Tunisia&amp;oldid=7219319">https://simple.wikipedia.org/w/index.php?title=Tunisia&amp;oldid=7219319</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Tunisia" title="Category:Tunisia">Tunisia</a></li>
+       <li><a href="/wiki/Category:Members_of_the_Organisation_of_Islamic_Cooperation" title="Category:Members of the Organisation of Islamic Cooperation">Members of the Organisation of Islamic Cooperation</a></li>
+       <li><a href="/wiki/Category:1956_establishments_in_Africa" title="Category:1956 establishments in Africa">1956 establishments in Africa</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_chapter_ignored" title="Category:CS1 errors: chapter ignored">CS1 errors: chapter ignored</a></li>
+       <li><a href="/wiki/Category:Articles_with_Arabic-language_sources_(ar)" title="Category:Articles with Arabic-language sources (ar)">Articles with Arabic-language sources (ar)</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
+       <li><a href="/wiki/Category:Articles_with_French-language_sources_(fr)" title="Category:Articles with French-language sources (fr)">Articles with French-language sources (fr)</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_HDS_identifiers" title="Category:Wikipedia articles with HDS identifiers">Wikipedia articles with HDS identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_TDV%C4%B0A_identifiers" title="Category:Wikipedia articles with TDVİA identifiers">Wikipedia articles with TDVİA identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat_identifiers" title="Category:Wikipedia articles with WorldCat identifiers">Wikipedia articles with WorldCat identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tunisia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tunisia" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Tunisia" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Tunisia&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (not yet started) [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Tunisia">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Tunisia&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Tunisia&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Tunisia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tunisia" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tunisia" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Tunisia&amp;oldid=7219319" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Tunisia&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tunisia&amp;id=7219319&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q948" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tunisia">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Tunisia&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Tunisia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Tunisia" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Tunisia" title="Tunisia – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Tunisi%C3%AB" title="Tunisië – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Tunisia" title="Tunisia – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Tunesien" title="Tunesien – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%89%B1%E1%8A%92%E1%8B%9A%E1%8B%AB" title="ቱኒዚያ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Tunisia" title="Tunisia – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Tunisia" title="Tunisia – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3" title="تونس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Tunicia" title="Tunicia – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%AC%DC%98%DC%A2%DC%A3_(%DC%90%DC%AC%DC%AA%DC%90)" title="ܬܘܢܣ (ܐܬܪܐ) – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D4%B9%D5%B8%D6%82%D5%B6%D5%B8%D6%82%D5%A6" title="Թունուզ – Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Tunisie" title="Tunisie – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Tunicia" title="Tunicia – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Tun%C3%ADsia" title="Tunísia – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Tunis" title="Tunis – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%DB%8C%D8%B3" title="تونیس – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Tunisia" title="Tunisia – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Tunizi" title="Tunizi – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A6%BF%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="তিউনিসিয়া – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Tunisia" title="Tunisia – Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Tunisia" title="Tunisia – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D1%96%D1%81" title="Туніс – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D1%96%D1%81" title="Туніс – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A5%80%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="ट्यूनीशिया – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Tunisya" title="Tunisya – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%8F%E0%BD%B4%E0%BC%8B%E0%BD%93%E0%BD%B2%E0%BC%8B%E0%BD%A4%E0%BD%B2%E0%BC%8B%E0%BD%A1%E0%BC%8D" title="ཏུ་ནི་ཤི་ཡ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Tunis" title="Tunis – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Tunizia" title="Tunizia – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Tun%C3%ADsia" title="Tunísia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Tunisia" title="Tunisia – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Tunisko" title="Tunisko – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/T%C3%BAnez" title="Túnez – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Tunisia" title="Tunisia – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Tiwnisia" title="Tiwnisia – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Tunesien" title="Tunesien – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3" title="تونس – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Tunisia" title="Tunisia – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tunesien" title="Tunesien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%8C%DE%AB%DE%82%DE%A8%DE%90%DE%B0" title="ތޫނިސް – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Tuneziska" title="Tuneziska – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="ट्युनिसिया – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Tuneesia" title="Tuneesia – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A4%CF%85%CE%BD%CE%B7%CF%83%CE%AF%CE%B1" title="Τυνησία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/T%C3%BCni%E1%B9%A1ia" title="Tüniṡia – Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Tunisia" title="Tunisia – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/T%C3%BAnez" title="Túnez – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Tunizio" title="Tunizio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/T%C3%BAnis" title="Túnis – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Tunisia" title="Tunisia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Tunisia" title="Tunisia – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3" title="تونس – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Tunisia" title="Tunisia – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Tunesia" title="Tunesia – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://fr.wikipedia.org/wiki/Tunisie" title="Tunisie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Tuneezje" title="Tuneezje – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_T%C3%BAin%C3%A9is" title="An Túinéis – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Yn_Tooneesh" title="Yn Tooneesh – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Tunis" title="Tunis – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Tuinisia" title="Tuinisia – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Tunisia" title="Tunisia – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Tunisia" title="Tunisia – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%9F%E0%AB%8D%E0%AA%AF%E0%AB%81%E0%AA%A8%E0%AA%BF%E0%AA%B6%E0%AA%BF%E0%AA%AF%E0%AA%BE" title="ટ્યુનિશિયા – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="ट्युनिशिया – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Tunisia" title="Tunisia – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8A%80%EB%8B%88%EC%A7%80" title="튀니지 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Tunisiya" title="Tunisiya – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Tunisia" title="Tunisia – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B9%D5%B8%D6%82%D5%B6%D5%AB%D5%BD" title="Թունիս – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A5%82%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A5%80%E0%A4%AF%E0%A4%BE" title="तूनिसीया – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Tuneziska" title="Tuneziska – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://hr.wikipedia.org/wiki/Tunis" title="Tunis – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-gor"><a href="https://gor.wikipedia.org/wiki/Tunisia" title="Tunisia – Gorontalo" lang="gor" hreflang="gor" class="interlanguage-link-target">Bahasa Hulontalo</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Tunizia" title="Tunizia – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Tunisia" title="Tunisia – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Tunisia" title="Tunisia – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%A4%E0%A6%BF%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="তিউনিসিয়া – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Tunisia" title="Tunisia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Tunisia" title="Tunisia – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Tunisia" title="Tunisia – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/ITunisia" title="ITunisia – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/T%C3%BAnis" title="Túnis – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Tunisia" title="Tunisia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%A0%D7%99%D7%A1%D7%99%D7%94" title="תוניסיה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Tunisia" title="Tunisia – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Tuniizii" title="Tuniizii – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%9F%E0%B3%81%E0%B2%A8%E0%B3%80%E0%B2%B6%E0%B2%BF%E0%B2%AF" title="ಟುನೀಶಿಯ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Tunisia" title="Tunisia – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A2%E1%83%A3%E1%83%9C%E1%83%98%E1%83%A1%E1%83%98" title="ტუნისი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Tunezj%C3%B4" title="Tunezjô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Tunisi" title="Tunisi – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Tunisiya" title="Tunisiya – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Tunisia" title="Tunisia – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Tunisia" title="Tunisia – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Tunusa" title="Tunusa – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Tinizi" title="Tinizi – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Tinizi" title="Tinizi – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/T%C3%BBnis" title="Tûnis – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Tunisia" title="Tunisia – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Tunesia" title="Tunesia – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Tunesia" title="Tunesia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Tunisija" title="Tunisija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Tunesien" title="Tunesien – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Lezghian" lang="lez" hreflang="lez" class="interlanguage-link-target">Лезги</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Tunisas" title="Tunisas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Tunixia" title="Tunixia – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Tunesi%C3%AB" title="Tunesië – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Tunisia" title="Tunisia – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Tunis" title="Tunis – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Tunisu" title="Tunisu – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/tunis" title="tunis – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li>
+       <li class="interlanguage-link interwiki-lg"><a href="https://lg.wikipedia.org/wiki/Tunisia" title="Tunisia – Ganda" lang="lg" hreflang="lg" class="interlanguage-link-target">Luganda</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/T%C3%BCnisia" title="Tünisia – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Tun%C3%A9zia" title="Tunézia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Tonizia" title="Tonizia – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B5%81%E0%B4%A3%E0%B5%80%E0%B4%B7%E0%B5%8D%E0%B4%AF" title="ടുണീഷ്യ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Tune%C5%BCija" title="Tuneżija – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="ट्युनिसिया – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A2%E1%83%A3%E1%83%9C%E1%83%98%E1%83%A1%E1%83%98" title="ტუნისი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3" title="تونس – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3" title="تونس – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Tunisia" title="Tunisia – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Tunisia" title="Tunisia – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%90%E1%80%B0%E1%80%94%E1%80%AE%E1%80%B8%E1%80%9B%E1%80%BE%E1%80%AC%E1%80%B8%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="တူနီးရှားနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Tunez" title="Tunez – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Tunisia" title="Tunisia – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Tunesi%C3%AB" title="Tunesië – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="ट्युनिसिया – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="ट्युनिसिया – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%8B%E3%82%B8%E3%82%A2" title="チュニジア – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Tuneesien" title="Tuneesien – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Tunisia" title="Tunisia – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Tunisia" title="Tunisia – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Tunisia" title="Tunisia – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Tunisia" title="Tunisia – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Tunisia" title="Tunisia – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%9F%E0%AD%8D%E0%AD%9F%E0%AD%81%E0%AC%A8%E0%AC%BF%E0%AC%B8%E0%AC%BF%E0%AC%86" title="ଟ୍ୟୁନିସିଆ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Tuniisiyaa" title="Tuniisiyaa – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Tunis" title="Tunis – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%9F%E0%A9%81%E0%A8%A8%E0%A9%80%E0%A8%B8%E0%A8%BC%E0%A9%80%E0%A8%86" title="ਟੁਨੀਸ਼ੀਆ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="टुनिशिया – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3" title="تونس – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Tunesia" title="Tunesia – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3" title="تونس – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Tunisia" title="Tunisia – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Tunisie" title="Tunisie – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Tunis%C3%ACa" title="Tunisìa – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Tunesien" title="Tunesien – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Tunezja" title="Tunezja – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%A4%CF%85%CE%BD%CE%B7%CF%83%CE%AF%CE%B1%CE%BD" title="Τυνησίαν – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Tun%C3%ADsia" title="Tunísia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Tunis" title="Tunis – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Tunis" title="Tunis – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Tunisia" title="Tunisia – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Tunesia" title="Tunesia – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Tunisya" title="Tunisya – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Tunisia" title="Tunisia – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Tunisia" title="Tunisia – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%9F%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="टुनिशिया – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/Tuniz%C3%AFi" title="Tunizïi – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Tunisia" title="Tunisia – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Tunisie" title="Tunisie – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Tunesien" title="Tunesien – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Tunisia" title="Tunisia – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Tunisia" title="Tunisia – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Tunizia" title="Tunizia – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Tunis%C3%ACa" title="Tunisìa – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%A7%E0%B7%92%E0%B6%BA%E0%B7%94%E0%B6%B1%E0%B7%93%E0%B7%83%E0%B7%92%E0%B6%BA%E0%B7%8F%E0%B7%80" title="ටියුනීසියාව – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%AA%D9%8A%D9%88%D9%86%D8%B3" title="تيونس – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/IThunisiya" title="IThunisiya – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Tunisko" title="Tunisko – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Tunizija" title="Tunizija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/T%C5%AFnezyjo" title="Tůnezyjo – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Tunisiya" title="Tunisiya – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%AA%D9%88%D9%88%D9%86%D8%B3" title="توونس – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Tunis" title="Tunis – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Tunisia" title="Tunisia – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Tunisia" title="Tunisia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tunisien" title="Tunisien – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Tunisia" title="Tunisia – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%82%E0%AE%A9%E0%AE%BF%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BE" title="தூனிசியா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Tunes" title="Tunes – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%9F%E0%B1%8D%E0%B0%AF%E0%B1%81%E0%B0%A8%E0%B1%80%E0%B0%B7%E0%B0%BF%E0%B0%AF%E0%B0%BE" title="ట్యునీషియా – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2" title="ประเทศตูนิเซีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-ti"><a href="https://ti.wikipedia.org/wiki/%E1%89%B1%E1%8A%92%E1%8B%A2%E1%8B%AB" title="ቱኒዢያ – Tigrinya" lang="ti" hreflang="ti" class="interlanguage-link-target">ትግርኛ</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81" title="Тунис – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Tunus" title="Tunus – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Tunis" title="Tunis – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-tw"><a href="https://tw.wikipedia.org/wiki/Tunisia" title="Tunisia – Twi" lang="tw" hreflang="tw" class="interlanguage-link-target">Twi</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D0%B8%D1%81_(%D0%BA%D1%83%D0%BD)" title="Тунис (кун) – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-bug"><a href="https://bug.wikipedia.org/wiki/Tounes" title="Tounes – Buginese" lang="bug" hreflang="bug" class="interlanguage-link-target">ᨅᨔ ᨕᨘᨁᨗ</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BD%D1%96%D1%81" title="Туніс – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://ur.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%B3" title="تونس – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%AA%DB%87%D9%86%D9%89%D8%B3" title="تۇنىس – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Tunisia" title="Tunisia – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Tunixia" title="Tunixia – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Tunis" title="Tunis – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Tunisia" title="Tunisia – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/T%C3%BCnis%C3%A4n" title="Tünisän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Tuneesi%C3%A4" title="Tuneesiä – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Tunizeye" title="Tunizeye – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E7%AA%81%E5%B0%BC%E6%96%AF" title="突尼斯 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Tunisia" title="Tunisia – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Tiniisi" title="Tiniisi – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E7%AA%81%E5%B0%BC%E6%96%AF" title="突尼斯 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Tunisia" title="Tunisia – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%98%D7%95%D7%A0%D7%99%D7%A1%D7%99%D7%A2" title="טוניסיע – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/T%C3%B9n%C3%ADs%C3%AD%C3%A0" title="Tùnísíà – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%AA%81%E5%B0%BC%E8%A5%BF%E4%BA%9E" title="突尼西亞 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Tun%C4%B1s" title="Tunıs – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Tunesi%C3%AB" title="Tunesië – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Ton%C4%97sos" title="Tonėsos – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%AA%81%E5%B0%BC%E8%A5%BF%E4%BA%9E" title="突尼西亞 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q948#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 19 December 2020, at 10:58.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Tunisia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.128","walltime":"1.307","ppvisitednodes":{"value":4234,"limit":1000000},"postexpandincludesize":{"value":82364,"limit":2097152},"templateargumentsize":{"value":5882,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30216,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1165.367      1 -total"," 54.69%  637.283      1 Template:Infobox_country"," 54.11%  630.617      3 Template:Infobox"," 25.00%  291.285      1 Template:Authority_control"," 18.79%  218.938      3 Template:ISO_3166_code"," 13.56%  158.030      1 Template:Reflist"," 12.95%  150.928      2 Template:Lang","  9.91%  115.462      2 Template:Cite_journal","  4.53%   52.839      1 Template:Africa","  4.12%   48.000      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.796","limit":"10.000"},"limitreport-memusage":{"value":31047759,"limit":52428800}},"cachereport":{"origin":"mw1307","timestamp":"20201225185946","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tunisia","url":"https:\/\/simple.wikipedia.org\/wiki\/Tunisia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q948","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q948","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-21T04:55:30Z","dateModified":"2020-12-19T10:58:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/ce\/Flag_of_Tunisia.svg","headline":"sovereign state in Northern Africa"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":221,"wgHostname":"mw1397"});});</script> 
+ </body>
+</html>

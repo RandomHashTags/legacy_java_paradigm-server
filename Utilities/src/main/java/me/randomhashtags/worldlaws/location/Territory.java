@@ -3,14 +3,15 @@ package me.randomhashtags.worldlaws.location;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.NotNull;
 import me.randomhashtags.worldlaws.PopulationEstimate;
+import org.json.JSONObject;
 
+import java.util.Collection;
 import java.util.HashMap;
 
 public interface Territory extends Jsoupable {
     HashMap<String, Territory> ABBREVIATIONS = new HashMap<>();
     HashMap<String, Territory> NAMES = new HashMap<>();
 
-    Country getCountry();
     String getBackendID();
     String getName();
     String getAbbreviation();
@@ -22,7 +23,6 @@ public interface Territory extends Jsoupable {
         final PopulationEstimate estimate = getPopulationEstimate();
         final String flagURL = getFlagURL();
         return "{" +
-                "\"country\":\"" + getCountry().name() + "\"," +
                 "\"backendID\":\"" + getBackendID() + "\"," +
                 "\"name\":\"" + getName() + "\"," +
                 "\"abbreviation\":\"" + getAbbreviation() + "\"," +
@@ -32,7 +32,36 @@ public interface Territory extends Jsoupable {
                 "}";
     }
 
-    static Territory valueOfAbbreviation(@NotNull String abbreviation, @NotNull Territory[] territories) {
+    static Territory fromJSON(JSONObject json) {
+        return new Territory() {
+            @Override
+            public String getBackendID() {
+                return json.getString("backendID");
+            }
+            @Override
+            public String getName() {
+                return json.getString("name");
+            }
+            @Override
+            public String getAbbreviation() {
+                return json.getString("abbreviation");
+            }
+            @Override
+            public String getFlagURL() {
+                return json.getString("flagURL");
+            }
+            @Override
+            public PopulationEstimate getPopulationEstimate() {
+                return null;
+            }
+            @Override
+            public String getGovernmentURL() {
+                return json.getString("governmentURL");
+            }
+        };
+    }
+
+    static Territory valueOfAbbreviation(@NotNull String abbreviation, @NotNull Collection<Territory> territories) {
         abbreviation = abbreviation.toLowerCase();
         if(ABBREVIATIONS.containsKey(abbreviation)) {
             return ABBREVIATIONS.get(abbreviation);
@@ -47,7 +76,7 @@ public interface Territory extends Jsoupable {
             return null;
         }
     }
-    static Territory valueOfName(@NotNull String name, @NotNull Territory[] territories) {
+    static Territory valueOfName(@NotNull String name, @NotNull Collection<Territory> territories) {
         name = name.toLowerCase();
         if(NAMES.containsKey(name)) {
             return NAMES.get(name);

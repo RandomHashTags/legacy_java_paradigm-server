@@ -8,20 +8,39 @@ public interface DataValues {
     String HTTP_SUCCESS_200 = "HTTP/1.1 200 OK\r\nContent-Type: application/json\r\nCharset: " + ENCODING.displayName() + "\r\n\r\n";
     String HTTP_ERROR_404 = "HTTP/1.1 404 ERROR\r\nContent-Type: application/json\r\nCharset: " + ENCODING.displayName() + "\r\n\r\nStop trying to connect, ya turd.";
 
-    int WL_PROXY_PORT = 10461;
+    int WL_PROXY_PORT = 0;
 
-    int WL_USA_PORT = getPort(1);
-    int WL_CANADA_PORT = getPort(2);
-    int WL_UK_PORT = getPort(3);
+    int WL_COUNTRIES_PORT = getPort(1);
+    int WL_FEEDBACK_PORT = getPort(2);
+    int WL_LAWS_PORT = getPort(3);
+    int WL_NEWS_PORT = getPort(4);
+    int WL_TECHNOLOGY_PORT = getPort(5);
+    int WL_STATUS_PORT = getPort(6);
+    int WL_UPCOMING_EVENTS_PORT = getPort(7);
+    int WL_WEATHER_PORT = getPort(8);
 
-    String WL_USA_SERVER_IP = getLocalIP(WL_USA_PORT);
-    String WL_CANADA_SERVER_IP = getLocalIP(WL_CANADA_PORT);
-    String WL_UK_SERVER_IP = getLocalIP(WL_UK_PORT);
+    String WL_COUNTRIES_SERVER_IP = getLocalIP(WL_COUNTRIES_PORT);
+    String WL_FEEDBACK_SERVER_IP = getLocalIP(WL_FEEDBACK_PORT);
+    String WL_LAWS_SERVER_IP = getLocalIP(WL_LAWS_PORT);
+    String WL_NEWS_SERVER_IP = getLocalIP(WL_NEWS_PORT);
+    String WL_STATUS_SERVER_IP = getLocalIP(WL_STATUS_PORT);
+    String WL_TECHNOLOGY_SERVER_IP = getLocalIP(WL_TECHNOLOGY_PORT);
+    String WL_UPCOMING_EVENTS_SERVER_IP = getLocalIP(WL_UPCOMING_EVENTS_PORT);
+    String WL_WEATHER_SERVER_IP = getLocalIP(WL_WEATHER_PORT);
 
-    private static String getLocalIP(int port) {
+    private static String getLocalIP(int port)  {
         return "http://localhost:" + port;
     }
     private static int getPort(int offset) {
         return WL_PROXY_PORT + offset;
     }
+
+    int TWITCH_REQUEST_LIMIT = 100;
+    String TWITCH_CLIENT_ID = "***REMOVED***";
+    String TWITCH_ACCESS_TOKEN = "***REMOVED***";
+
+    int YOUTUBE_REQUEST_LIMIT = 49;
+    String YOUTUBE_KEY = "***REMOVED***";
+    String YOUTUBE_KEY_IDENTIFIER = "***REMOVED***";
+    String YOUTUBE_KEY_VALUE = "***REMOVED***";
 }

@@ -1,0 +1,989 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>North Macedonia - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X97jLQpAICIAALOw1pYAAAAQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"North_Macedonia","wgTitle":"North Macedonia","wgCurRevisionId":7218150,"wgRevisionId":7218150,"wgArticleId":22242,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","CS1 errors: empty unknown parameters","Articles containing Macedonian-language text","Pages using infobox country with unknown parameters","Members of NATO","North Macedonia","European Union candidate states"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"North_Macedonia","wgRelevantArticleId":22242,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Republic_of_Macedonia","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/North_Macedonia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q221"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1200px-Flag_of_North_Macedonia.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/North_Macedonia"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=North_Macedonia&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=North_Macedonia&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/North_Macedonia"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-North_Macedonia rootpage-North_Macedonia skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">North Macedonia</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Republic_of_Macedonia&amp;redirect=no" class="mw-redirect" title="Republic of Macedonia">Republic of Macedonia</a>)</span>
+    </div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic of North Macedonia
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <span lang="mk" title="Macedonian language text">Република Северна Македонија</span>
+           <br><i><i lang="mk-Latn" title="Macedonian-language romanization">Republika Severna Makedonija</i></i>
+           <br>Republika e Maqedonisë së Veriut
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_North_Macedonia.svg" class="image" title="Flag of the Republic of North Macedonia"><img alt="Flag of the Republic of North Macedonia" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/125px-Flag_of_North_Macedonia.svg.png" decoding="async" width="125" height="63" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/188px-Flag_of_North_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/250px-Flag_of_North_Macedonia.svg.png 2x" data-file-width="1200" data-file-height="600"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Flag
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_North_Macedonia.svg" class="image" title="Coat of arms of the Republic of North Macedonia"><img alt="Coat of arms of the Republic of North Macedonia" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Coat_of_arms_of_North_Macedonia.svg/85px-Coat_of_arms_of_North_Macedonia.svg.png" decoding="async" width="85" height="91" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Coat_of_arms_of_North_Macedonia.svg/128px-Coat_of_arms_of_North_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Coat_of_arms_of_North_Macedonia.svg/170px-Coat_of_arms_of_North_Macedonia.svg.png 2x" data-file-width="744" data-file-height="799"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b>
+           <br><a href="/w/index.php?title=Denes_nad_Makedonija&amp;action=edit&amp;redlink=1" class="new" title="Denes nad Makedonija (not yet started)">Денес над Македонија<br><i>Denes nad Makedonija</i></a>
+           <br><span style="font-size:85%;"><i>Today over Macedonia</i></span>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Europe-Republic_of_North_Macedonia.svg" class="image" title="Location of &nbsp;North Macedonia&nbsp;&nbsp;(green) on the European continent&nbsp;&nbsp;(dark grey)&nbsp; —&nbsp; [Legend]"><img alt="Location of &nbsp;North Macedonia&nbsp;&nbsp;(green) on the European continent&nbsp;&nbsp;(dark grey)&nbsp; —&nbsp; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Europe-Republic_of_North_Macedonia.svg/250px-Europe-Republic_of_North_Macedonia.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Europe-Republic_of_North_Macedonia.svg/375px-Europe-Republic_of_North_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Europe-Republic_of_North_Macedonia.svg/500px-Europe-Republic_of_North_Macedonia.svg.png 2x" data-file-width="2045" data-file-height="1720"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">North Macedonia</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green</span>)</span>
+            <p style="width:250px;font-size:11px;text-align:center;margin-top:0px;margin-bottom:0px;line-height:1.15em;">on the <a href="/wiki/Europe" title="Europe">European continent</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark grey</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:Location_Macedonia_Europe.png" title="File:Location Macedonia Europe.png">Legend</a></span>]</p>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Skopje" title="Skopje">Skopje</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=North_Macedonia&amp;params=42_0_N_21_26_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°0′N</span> <span class="longitude">21°26′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.000°N 21.433°E</span><span style="display:none">﻿ / <span class="geo">42.000; 21.433</span></span></span></a></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td><a href="/wiki/Macedonian_language" title="Macedonian language">Macedonian•Albanian</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-language_2-0" class="reference"><a href="#cite_note-language-2">[2]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">Regional languages</span><sup id="cite_ref-CIA_3-0" class="reference"><a href="#cite_note-CIA-3">[3]</a></sup></th>
+         <td>
+          <div class="hlist hlist-separated">
+           <ul>
+            <li><a href="/wiki/Albanian_language" title="Albanian language">Albanian</a></li>
+            <li><a href="/wiki/Turkish_language" title="Turkish language">Turkish</a></li>
+            <li><a href="/w/index.php?title=Roma_language&amp;action=edit&amp;redlink=1" class="new" title="Roma language (not yet started)">Roma</a></li>
+            <li><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></li>
+            <li><a href="/wiki/Bosnian_language" title="Bosnian language">Bosnian</a></li>
+            <li><a href="/wiki/Aromanian_language" title="Aromanian language">Aromanian</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2002)
+          </div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><b>64.2% <a href="/w/index.php?title=Macedonians_(ethnic_group)&amp;action=edit&amp;redlink=1" class="new" title="Macedonians (ethnic group) (not yet started)">Macedonians</a></b></li>
+            <li>25.2% <a href="/w/index.php?title=Albanians_in_North_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Albanians in North Macedonia (not yet started)">Albanians</a></li>
+            <li>3.9% <a href="/w/index.php?title=Turks_in_North_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Turks in North Macedonia (not yet started)">Turks</a></li>
+            <li>2.7% <a href="/w/index.php?title=Romani_in_North_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Romani in North Macedonia (not yet started)">Romani</a></li>
+            <li>1.8% <a href="/w/index.php?title=Serbs_in_North_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Serbs in North Macedonia (not yet started)">Serbs</a></li>
+            <li><span class="nowrap">2.2% other&nbsp;/ unspecified</span></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td><a href="/w/index.php?title=Macedonians_(ethnic_group)&amp;action=edit&amp;redlink=1" class="new" title="Macedonians (ethnic group) (not yet started)">Macedonian</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Parliamentary_republic" title="Parliamentary republic">Parliamentary republic</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_North_Macedonia" title="President of North Macedonia">President</a> 
+          </div></th>
+         <td><a href="/wiki/Stevo_Pendarovski" title="Stevo Pendarovski">Stevo Pendarovski</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Prime_Minister_of_North_Macedonia" title="Prime Minister of North Macedonia">Prime Minister</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Zoran_Zaev&amp;action=edit&amp;redlink=1" class="new" title="Zoran Zaev (not yet started)">Zoran Zaev</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=List_of_Speakers_of_the_Assembly_of_the_Republic_of_North_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="List of Speakers of the Assembly of the Republic of North Macedonia (not yet started)">Speaker of the Parliament</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Talat_Xhaferi&amp;action=edit&amp;redlink=1" class="new" title="Talat Xhaferi (not yet started)">Talat Xhaferi</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/w/index.php?title=Assembly_of_North_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Assembly of North Macedonia (not yet started)">Assembly</a></td>
+        </tr>
+        <tr>
+         <th colspan="2" style="text-align:center;text-align:left;">Independence&nbsp;
+          <div style="font-weight:normal;display:inline;">
+           from <a href="/wiki/Yugoslavia" title="Yugoslavia">Yugoslavia</a>
+          </div></th>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>25,713&nbsp;km<sup>2</sup> (9,928&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">148th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>1.9</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2011<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> estimate
+          </div></th>
+         <td>2,058,539 (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">146th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2002&nbsp;census
+          </div></th>
+         <td>2,022,547</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>80.1/km<sup>2</sup> (207.5/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">122nd</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2012&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td><span class="nowrap">$22.147 billion<sup id="cite_ref-imf2_5-0" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></span></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$10,718<sup id="cite_ref-imf2_5-1" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2012&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td><span class="nowrap">$10.198 billion<sup id="cite_ref-imf2_5-2" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></span></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$4,935<sup id="cite_ref-imf2_5-3" class="reference"><a href="#cite_note-imf2-5">[5]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2008)</span></th>
+         <td>44.2<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2011)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.728<sup id="cite_ref-HDI_7-0" class="reference"><a href="#cite_note-HDI-7">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">78th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/Macedonian_denar" title="Macedonian denar">Macedonian denar</a> (<a href="/wiki/ISO_4217" title="ISO 4217">MKD</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=Telephone_numbers_in_North_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in North Macedonia (not yet started)">+389</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:MK&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:MK (not yet started)">MK</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.mk" class="mw-redirect" title=".mk">.mk</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>North Macedonia</b> (<a href="/wiki/Macedonian_language" title="Macedonian language">Macedonian</a>: Северна Македонија - Severna Makedonija) officially the <b>Republic of North Macedonia</b> (<a href="/wiki/Macedonian_language" title="Macedonian language">Macedonian</a>: <i>Република Северна Македонија</i> - <i>Republika Severna Makedonija</i> (<a href="/wiki/Albanian_language" title="Albanian language">Albanian</a>: Republika e Maqedonisë së Veriut <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>) is a country located on the <a href="/wiki/Balkans" title="Balkans">Balkan peninsula</a> and in <a href="/wiki/Southeastern_Europe" class="mw-redirect" title="Southeastern Europe">Southeastern Europe</a>. North Macedonia borders <a href="/wiki/Serbia" title="Serbia">Serbia</a> to the north, <a href="/wiki/Albania" title="Albania">Albania</a> to the west, <a href="/wiki/Greece" title="Greece">Greece</a> to the south, and <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> to the east. The country's <a href="/wiki/Currency" title="Currency">currency</a> is the <a href="/wiki/Macedonian_denar" title="Macedonian denar">Macedonian denar</a> (MKD). </p>
+      <p>The capital and largest city is <a href="/wiki/Skopje" title="Skopje">Skopje</a>, with more than 500,000 residents. It has many smaller cities. Some important ones are <a href="/wiki/Bitola" title="Bitola">Bitola</a>, <a href="/w/index.php?title=Prilep&amp;action=edit&amp;redlink=1" class="new" title="Prilep (not yet started)">Prilep</a>, <a href="/w/index.php?title=Tetovo&amp;action=edit&amp;redlink=1" class="new" title="Tetovo (not yet started)">Tetovo</a>, <a href="/w/index.php?title=Kumanovo&amp;action=edit&amp;redlink=1" class="new" title="Kumanovo (not yet started)">Kumanovo</a>, <a href="/w/index.php?title=Ohrid&amp;action=edit&amp;redlink=1" class="new" title="Ohrid (not yet started)">Ohrid</a>, <a href="/w/index.php?title=Veles&amp;action=edit&amp;redlink=1" class="new" title="Veles (not yet started)">Veles</a>, <a href="/w/index.php?title=Stip&amp;action=edit&amp;redlink=1" class="new" title="Stip (not yet started)">Stip</a>, and <a href="/w/index.php?title=Strumica&amp;action=edit&amp;redlink=1" class="new" title="Strumica (not yet started)">Strumica</a>. </p>
+      <p>North Macedonia is often called <i>a land of lakes and mountains</i>. There are more than 50 large lakes and sixteen mountains higher than 2000 meters above <a href="/wiki/Sea_level" title="Sea level">sea level</a>. </p>
+      <p>North Macedonia is a member of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> and <a href="/wiki/World_Trade_Organization" title="World Trade Organization">World Trade Organization</a> (WTO). It joined <a href="/wiki/NATO" title="NATO">NATO</a> on 27 March 2020. Since December 2005, it is a candidate for joining the <a href="/wiki/European_Union" title="European Union">European Union</a>. <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p>
+      <p>The language spoken by the majority of the population is <a href="/wiki/Macedonian" class="mw-redirect mw-disambig" title="Macedonian">Macedonian</a>. Albanian is also spoken by the Albanian minority (25%) living in the country. North Macedonia has two official languages, Macedonian and Albanian (since 2019). </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Earliest_Residents"><span class="tocnumber">1.1</span> <span class="toctext">Earliest Residents</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#Alexander_the_Great's_Empire"><span class="tocnumber">1.2</span> <span class="toctext">Alexander the Great's Empire</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Roman_Rule"><span class="tocnumber">1.3</span> <span class="toctext">Roman Rule</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#Byzantine_Rule"><span class="tocnumber">1.4</span> <span class="toctext">Byzantine Rule</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Ottoman_Rule"><span class="tocnumber">1.5</span> <span class="toctext">Ottoman Rule</span></a></li> 
+          <li class="toclevel-2 tocsection-7"><a href="#Yugoslav_Rule"><span class="tocnumber">1.6</span> <span class="toctext">Yugoslav Rule</span></a></li> 
+          <li class="toclevel-2 tocsection-8"><a href="#Present_Day"><span class="tocnumber">1.7</span> <span class="toctext">Present Day</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Politics"><span class="tocnumber">2</span> <span class="toctext">Politics</span></a></li> 
+        <li class="toclevel-1 tocsection-10"><a href="#Related_pages"><span class="tocnumber">3</span> <span class="toctext">Related pages</span></a></li> 
+        <li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>What is now North Macedonia used to be a state called Socialist Republic of Macedonia in the southeastern part of the country of <a href="/wiki/Yugoslavia" title="Yugoslavia">Yugoslavia</a>. When that country broke up in 1991, North Macedonia became independent. </p>
+      <p>In past centuries the territory which today is the Republic of North Macedonia was ruled by many different states and empires. </p> 
+      <h3><span class="mw-headline" id="Earliest_Residents">Earliest Residents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Earliest Residents">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=2" title="Change section: Earliest Residents">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>People have been living in North Macedonia for over 1000 years. The first people that lived in Macedonia were the <a href="/wiki/Neolithic" title="Neolithic">Neolithic</a> people. They lived in Macedonia from 7000 to 3500 BCE. From 1000 to 1 BCE, Dacians, Thracians, Illyrians, Celts, and Greeks inhabited Northern Macedonia. <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </p> 
+      <h3><span id="Alexander_the_Great.27s_Empire"></span><span class="mw-headline" id="Alexander_the_Great's_Empire">Alexander the Great's Empire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Alexander the Great's Empire">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=3" title="Change section: Alexander the Great's Empire">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Until the Romans invaded Macedonia, Macedonia was just hundreds of small, independent, <a href="/wiki/City-state" title="City-state">city-states</a>. One example of a city state is <a href="/wiki/Illyria" title="Illyria">Illyria</a>. They sometimes merged together, but not often. One city-state that grew over time was the kingdom of <a href="/wiki/Macedonia_(ancient_kingdom)" title="Macedonia (ancient kingdom)">Macedon.</a> The kingdom of Macedon is best known for <a href="/wiki/Alexander_the_Great" title="Alexander the Great">Alexander the Great.</a> He invaded and controlled the <a href="/wiki/Middle_East" title="Middle East">Middle East</a> (excluding <a href="/wiki/Arabian_Peninsula" title="Arabian Peninsula">Arabia</a>),<a href="/wiki/Turkey" title="Turkey">Turkey</a>, <a href="/wiki/Greece" title="Greece">Greece</a>, <a href="/wiki/Egypt" title="Egypt">Egypt</a>, <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>, <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>, and the <a href="/wiki/Gujarat" title="Gujarat">Gujarat</a> state of India.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> However, when Alexander died in 323 BCE, at the age of 33, he lost his vast empire. The empire was divided into 5 countries, Lysimachia (Macedon), Cassander (Northern Greece), the Antigonid Empire (Turkey, Syria, Lebanon, Israel, Southern Greece), the Ptolemaic Empire (Egypt), and the Seleucid Empire (Iraq, Iran, Afghanistan).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Roman_Rule">Roman Rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Roman Rule">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=4" title="Change section: Roman Rule">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Towards the end of the 3rd century BCE, the Romans invaded the <a href="/wiki/Balkan_Peninsula" class="mw-redirect" title="Balkan Peninsula">Balkan peninsula</a>. Illyria was taken over in 9 CE. The North and East of Macedonia were taken over by the Roman Empire in the year 29 CE. They became the Roman province of Moesia. Starting in the 3rd century CE, the borders of Macedonia were being attacked by the Goths, Huns, Bulgars, Avars, and others. In 395 AD, the Roman Empire split in two. They were the Western Roman Empire and the Eastern Roman Empire (<a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine Empire</a>). </p> 
+      <h3><span class="mw-headline" id="Byzantine_Rule"><a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine</a> Rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Byzantine Rule">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=5" title="Change section: Byzantine Rule">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Although, Macedonia was part of the Byzantine Empire, there was little Byzantine influence. In the mid-6th century, <a href="/wiki/Slavic_peoples" title="Slavic peoples">Slavic</a> tribes started to settle in Macedonia. From the 7th century to the 13th century, Byzantine Macedonia was governed by local princes and kings, allied with the Byzantine Empire. In the 9th century, the Byzantine Empire brought <a href="/wiki/Christianity" title="Christianity">Christianity</a> to Macedonia. The people who brought Christianity to Macedonia were saints Cyril and Methodius. Their goal was to bring Christianity and the <a href="/wiki/Cyrillic_alphabet" title="Cyrillic alphabet">Cyrillic alphabet</a> to Slavs in Europe. </p> 
+      <h3><span class="mw-headline" id="Ottoman_Rule"><a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> Rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Ottoman Rule">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=6" title="Change section: Ottoman Rule">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The Ottoman Empire was originally a small city-state in Turkey. The city-state grew, and it invaded <a href="/wiki/Edirne" title="Edirne">Adrianople</a> in 1354. From there, it expanded and took over Turkey. <a href="/wiki/Constantinople" title="Constantinople">Constantinople</a>, the capital of the Byzantine Empire, did not get invaded by the Ottomans until 1453. After the Battle of the Maritsa River, the Ottomans conquered southern Serbia and Macedonia. Macedonia was under Ottoman Rule until 1913.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Yugoslav_Rule"><a href="/wiki/Yugoslavia" title="Yugoslavia">Yugoslav</a> Rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Yugoslav Rule">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=7" title="Change section: Yugoslav Rule">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>After the Ottoman Empire dissolved, Macedonia became a part of the newly formed country Yugoslavia. From 1914 to 1941, Yugoslavia was a monarchy. During WW2, the Axis Powers took over Yugoslavia. Macedonia was taken over by Bulgaria. The Axis powers left Yugoslavia after WW2.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> After WW2, Yugoslavia became a communist state. <a href="/wiki/Josip_Broz_Tito" title="Josip Broz Tito">Josip Broz Tito</a> was the leader of Yugoslavia from 1944 to 1980. In 8 September 1991, Macedonia became an independent state.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Present_Day">Present Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: Present Day">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=8" title="Change section: Present Day">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>During the <a href="/wiki/Yugoslav_Wars" title="Yugoslav Wars">Yugoslav Wars</a>, Macedonia was mostly peaceful. However in 2001, fighting broke out between ethnic Albanians and Macedonians. The fighting ended with the Ohrid Agreement. </p>
+      <p>Greece and the Republic of North Macedonia were arguing over the name Macedonia. The United Nations calls the Republic of North Macedonia, "<b>the Former Yugoslav Republic of Macedonia</b>" <b>(FYROM)</b> (Macedonian: <i>Поранешна Југословенска Република Македонија - ПЈРМ</i> - <i>Poranešna Jugoslovenska Republika Makedonija -PJRM</i>). The north and northeast part of Greece has been called Macedonia for ages and officially since 1912, just like <a href="/wiki/Kent" title="Kent">Kent</a>, the southeast county of England, has been called Kent for a long time. 'FYROM' is also used by NATO and many other international organisations. But, many countries now call the country 'Republic of Macedonia'. The United Kingdom, for example, uses Republic of Macedonia in the diplomatic list.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> </p>
+      <p>On 17 June 2018, North Macedonia and Greece agreed to the Prespa agreement<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> which would see the country change its name to the <b>Republic of North Macedonia</b>. The government started completing the constitutional change needed to change the country's name, which was completed on 12 February 2019. </p> 
+      <h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Politics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=9" title="Change section: Politics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Macedonia is a democratic country with a <a href="/wiki/Parliament" title="Parliament">parliament</a>. </p> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=10" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/List_of_rivers_of_North_Macedonia" title="List of rivers of North Macedonia">List of rivers of North Macedonia</a></li> 
+       <li><a href="/wiki/Macedonia" class="mw-disambig" title="Macedonia">Macedonia</a></li> 
+       <li><a href="/wiki/North_Macedonia_at_the_Olympics" title="North Macedonia at the Olympics">North Macedonia at the Olympics</a></li> 
+       <li><a href="/wiki/Macedonia_national_football_team" class="mw-redirect" title="Macedonia national football team">North Macedonia national football team</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=North_Macedonia&amp;action=edit&amp;section=11" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>"The Macedonian language, written using its Cyrillic alphabet, is the official language in the Republic of Macedonia."</i>, <a rel="nofollow" class="external text" href="http://www.constitution.org/cons/macedoni.txt">Article 7 of the Constitution of the Republic of Macedonia</a></span> </li> 
+         <li id="cite_note-language-2"><span class="mw-cite-backlink"><a href="#cite_ref-language_2-0">↑</a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://macedoniaonline.eu/content/view/2507/1/">"Languages Law passed in Parliament"</a>. <i>macedoniaonline.eu</i>. 26 July 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2008</span>. <q>Using the <a href="/w/index.php?title=Badinter_Committee&amp;action=edit&amp;redlink=1" class="new" title="Badinter Committee (not yet started)">Badenter</a> principles, the Parliament had passed the use of languages law that will touch all ethnicities in Macedonia. The law doesn't allow for use of Albanian or any other minority language as a second official language on Macedonia's territory.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=macedoniaonline.eu&amp;rft.atitle=Languages+Law+passed+in+Parliament&amp;rft.date=2008-07-26&amp;rft_id=http%3A%2F%2Fmacedoniaonline.eu%2Fcontent%2Fview%2F2507%2F1%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-CIA-3"><span class="mw-cite-backlink"><a href="#cite_ref-CIA_3-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html#mk">"Regional Languages of Macedonia"</a>. <a href="/wiki/CIA_World_Factbook" class="mw-redirect" title="CIA World Factbook">CIA World Factbook</a>. 2002 census.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Regional+Languages+of+Macedonia&amp;rft.pub=CIA+World+Factbook&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2098.html%23mk&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Check date values in: <code class="cs1-code">|year=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.stat.gov.mk/OblastOpsto_en.aspx?id=2">Population</a> from the State Statistical Office.</span> </li> 
+         <li id="cite_note-imf2-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_5-0">5.0</a></sup> <sup><a href="#cite_ref-imf2_5-1">5.1</a></sup> <sup><a href="#cite_ref-imf2_5-2">5.2</a></sup> <sup><a href="#cite_ref-imf2_5-3">5.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2012/02/weodata/weorept.aspx?pr.x=2&amp;pr.y=17&amp;sy=2008&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=962&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Report for Selected Country"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+for+Selected+Country&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F02%2Fweodata%2Fweorept.aspx%3Fpr.x%3D2%26pr.y%3D17%26sy%3D2008%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D962%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">"CIA – The World Factbook – Field Listing&nbsp;:: Distribution of family income – Gini index"</a>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CIA+%E2%80%93+The+World+Factbook+%E2%80%93+Field+Listing+%3A%3A+Distribution+of+family+income+%E2%80%93+Gini+index&amp;rft.pub=Central+Intelligence+Agency&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2172.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-7"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_7-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf">"Human Development Report 2010"</a> <span class="cs1-format">(PDF)</span>. United Nations. 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2010&amp;rft.pub=United+Nations&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fmedia%2FHDR_2010_EN_Table1.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.theguardian.com/world/2019/feb/12/nato-flag-raised-ahead-of-north-macedonias-prospective-accession">https://www.theguardian.com/world/2019/feb/12/nato-flag-raised-ahead-of-north-macedonias-prospective-accession</a></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ekathimerini.com/237628/article/ekathimerini/news/fyrom-is-officially-renamed-north-macedonia">http://www.ekathimerini.com/237628/article/ekathimerini/news/fyrom-is-officially-renamed-north-macedonia</a></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.rferl.org/a/after-years-of-delay-north-macedonia-albania-get-ok-to-begin-eu-accession-talks/30507053.html">https://www.rferl.org/a/after-years-of-delay-north-macedonia-albania-get-ok-to-begin-eu-accession-talks/30507053.html</a></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.britannica.com/place/North-Macedonia">"North Macedonia - History"</a>. <i>Encyclopedia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclopedia+Britannica&amp;rft.atitle=North+Macedonia+-+History&amp;rft_id=https%3A%2F%2Fwww.britannica.com%2Fplace%2FNorth-Macedonia&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite class="citation journal cs1"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Macedonia_(ancient_kingdom)&amp;oldid=991296118">"Macedonia (ancient kingdom)"</a>. <i>Wikipedia</i>. 2020-11-29.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wikipedia&amp;rft.atitle=Macedonia+%28ancient+kingdom%29&amp;rft.date=2020-11-29&amp;rft_id=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DMacedonia_%28ancient_kingdom%29%26oldid%3D991296118&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.britannica.com/biography/Alexander-the-Great">"Alexander the Great | Biography, Empire, Death, &amp; Facts"</a>. <i>Encyclopedia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclopedia+Britannica&amp;rft.atitle=Alexander+the+Great+%7C+Biography%2C+Empire%2C+Death%2C+%26+Facts&amp;rft_id=https%3A%2F%2Fwww.britannica.com%2Fbiography%2FAlexander-the-Great&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.britannica.com/place/North-Macedonia">"North Macedonia - History"</a>. <i>Encyclopedia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclopedia+Britannica&amp;rft.atitle=North+Macedonia+-+History&amp;rft_id=https%3A%2F%2Fwww.britannica.com%2Fplace%2FNorth-Macedonia&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><cite class="citation journal cs1"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=World_War_II_in_Yugoslavia&amp;oldid=991963909">"World War II in Yugoslavia"</a>. <i>Wikipedia</i>. 2020-12-02.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wikipedia&amp;rft.atitle=World+War+II+in+Yugoslavia&amp;rft.date=2020-12-02&amp;rft_id=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DWorld_War_II_in_Yugoslavia%26oldid%3D991963909&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.britannica.com/place/Yugoslavia-former-federated-nation-1929-2003">"Yugoslavia | History, Map, Flag, Breakup, &amp; Facts"</a>. <i>Encyclopedia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclopedia+Britannica&amp;rft.atitle=Yugoslavia+%7C+History%2C+Map%2C+Flag%2C+Breakup%2C+%26+Facts&amp;rft_id=https%3A%2F%2Fwww.britannica.com%2Fplace%2FYugoslavia-former-federated-nation-1929-2003&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.fco.gov.uk/servlet/Front?pagename=OpenMarket/Xcelerate/ShowPage&amp;c=Page&amp;cid=1007029396086&amp;a=KDiplomaticList&amp;aid=1013618543435.">"Foreign Embassies in the UK"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Foreign+Embassies+in+the+UK&amp;rft_id=http%3A%2F%2Fwww.fco.gov.uk%2Fservlet%2FFront%3Fpagename%3DOpenMarket%2FXcelerate%2FShowPage%26c%3DPage%26cid%3D1007029396086%26a%3DKDiplomaticList%26aid%3D1013618543435.&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite has empty unknown parameter: <code class="cs1-code">|1=</code> (<a href="/wiki/Help:CS1_errors#param_unknown_empty" title="Help:CS1 errors">help</a>)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.aljazeera.com/news/2018/06/greece-macedonia-sign-agreement-change-180617074429644.html">"Greece and Macedonia sign agreement on name change,| Macedonia News | Al Jazeera"</a>. <i>www.aljazeera.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.aljazeera.com&amp;rft.atitle=Greece+and+Macedonia+sign+agreement+on+name+change%2C%7C+Macedonia+News+%7C+Al+Jazeera&amp;rft_id=https%3A%2F%2Fwww.aljazeera.com%2Fnews%2F2018%2F06%2Fgreece-macedonia-sign-agreement-change-180617074429644.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><cite id="CITEREFKitsantonis2018" class="citation news cs1">Kitsantonis, Niki (2018-06-17). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2018/06/17/world/europe/greece-macedonia-name-dispute.html">"Macedonia and Greece Sign Historic Deal on Name Change"</a>. <i>The New York Times</i>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-4331">0362-4331</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Macedonia+and+Greece+Sign+Historic+Deal+on+Name+Change&amp;rft.date=2018-06-17&amp;rft.issn=0362-4331&amp;rft.aulast=Kitsantonis&amp;rft.aufirst=Niki&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2018%2F06%2F17%2Fworld%2Feurope%2Fgreece-macedonia-name-dispute.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANorth+Macedonia" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/46px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></span> <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/Europe" title="Europe">Europe</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Country" title="Country">Countries</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a> – <a href="/wiki/Andorra" title="Andorra">Andorra</a> – <a href="/wiki/Austria" title="Austria">Austria</a> – <a href="/wiki/Belarus" title="Belarus">Belarus</a> – <a href="/wiki/Belgium" title="Belgium">Belgium</a> – <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a> – <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> – <a href="/wiki/Croatia" title="Croatia">Croatia</a> – <a href="/wiki/Republic_of_Cyprus" title="Republic of Cyprus">Republic of Cyprus</a><sup>1</sup> – <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a> – <a href="/wiki/Denmark" title="Denmark">Denmark</a><sup>2,4</sup> – <a href="/wiki/Estonia" title="Estonia">Estonia</a> – <a href="/wiki/Finland" title="Finland">Finland</a> – <a href="/wiki/France" title="France">France</a><sup>4</sup> – <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a><sup>1</sup> – <a href="/wiki/Germany" title="Germany">Germany</a> – <a href="/wiki/Greece" title="Greece">Greece</a> – <a href="/wiki/Hungary" title="Hungary">Hungary</a> – <a href="/wiki/Iceland" title="Iceland">Iceland</a> – <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a> – <a href="/wiki/Italy" title="Italy">Italy</a> – <a href="/wiki/Latvia" title="Latvia">Latvia</a> – <a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a> – <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> – <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a> – <a href="/wiki/Malta" title="Malta">Malta</a> – <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a> – <a href="/wiki/Moldova" title="Moldova">Moldova</a> – <a href="/wiki/Monaco" title="Monaco">Monaco</a> – <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> – <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a><sup>4</sup> – <a href="/wiki/Norway" title="Norway">Norway</a><sup>4</sup> – <a href="/wiki/Poland" title="Poland">Poland</a> – <a href="/wiki/Portugal" title="Portugal">Portugal</a><sup>4,6</sup> – <a href="/wiki/Romania" title="Romania">Romania</a> – <a href="/wiki/Russia" title="Russia">Russia</a><sup>1</sup> – <a href="/wiki/San_Marino" title="San Marino">San Marino</a> – <a href="/wiki/Serbia" title="Serbia">Serbia</a> – <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> – <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a> – <a href="/wiki/Spain" title="Spain">Spain</a><sup>4,6</sup> – <a href="/wiki/Sweden" title="Sweden">Sweden</a> – <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> – <a href="/wiki/Turkey" title="Turkey">Turkey</a><sup>1</sup> – <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> – <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><sup>4</sup> – <a href="/wiki/Vatican_City" title="Vatican City">Vatican City</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_dependent_territories" class="mw-redirect" title="List of dependent territories">Dependencies</a></b></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a><sup>1</sup> – <a href="/wiki/Azores" title="Azores">Azores</a><sup>5</sup> – <a href="/wiki/Ceuta" title="Ceuta">Ceuta</a><sup>5, 6</sup> – <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a><sup>5</sup> – <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a><sup>5</sup> – <a href="/wiki/Greenland" title="Greenland">Greenland</a><sup>5,2</sup> – <a href="/wiki/Guernsey" title="Guernsey">Guernsey</a> – <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a> – <a href="/wiki/Jersey" title="Jersey">Jersey</a> – <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a> – <a href="/wiki/Melilla" title="Melilla">Melilla</a><sup>5,6</sup> – <a href="/wiki/Svalbard" title="Svalbard">Svalbard</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_unrecognized_countries" class="mw-redirect" title="List of unrecognized countries">Other Countries</a></b></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Abkhazia" title="Abkhazia">Abkhazia</a><sup>1,3</sup> – <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a><sup>3</sup> – <a href="/wiki/South_Ossetia" title="South Ossetia">South Ossetia</a><sup>1, 3</sup> – <a href="/wiki/Transnistria" title="Transnistria">Transnistria</a> – <a href="/wiki/Turkish_Republic_of_Northern_Cyprus" class="mw-redirect" title="Turkish Republic of Northern Cyprus">Turkish Republic of Northern Cyprus</a><sup>1,3</sup>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            1. <a href="/wiki/Transcontinental_country" title="Transcontinental country">Transcontinental country</a>/territory that can be considered both Europe and Asia 2. Territory or with territory geographically part of North America 3. Partially recognized. 4. not all dependent territories are listed 5. Territory has some form of self-rule. 6. Territory or with territory geographically part of Africa
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="European_Union_member_and_candidate_countries" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div id="European_Union_member_and_candidate_countries" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/European_Union" title="European Union">European Union</a> member and candidate countries
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Current members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Austria" title="Austria">Austria</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech&nbsp;Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/Finland" title="Finland">Finland</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Malta" title="Malta">Malta</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Sweden" title="Sweden">Sweden</a>
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Flag_of_Europe.svg" class="image"><img alt="Flag of Europe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/65px-Flag_of_Europe.svg.png" decoding="async" width="65" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/98px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/130px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Candidates</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>&nbsp;<b>·</b> <a href="/wiki/Serbia" title="Serbia">Serbia</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Potential candidates</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a>&nbsp;<b>·</b> <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Former members</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <a href="/w/index.php?title=List_of_European_Union_member_states_by_accession&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by accession (not yet started)">by accession</a>&nbsp;<b>·</b> <a href="/w/index.php?title=List_of_European_Union_member_states_by_political_system&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by political system (not yet started)">by political system</a>&nbsp;<b>·</b> <a href="/wiki/List_of_European_Union_member_states_by_population" class="mw-redirect" title="List of European Union member states by population">by population</a>&nbsp;<b>·</b> <a href="/w/index.php?title=Economy_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="Economy of the European Union (not yet started)">by GDP</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="North_Atlantic_Treaty_Organization_(NATO)" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_Atlantic_Treaty_Organisation_(NATO)" title="Template:North Atlantic Treaty Organisation (NATO)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:North_Atlantic_Treaty_Organisation_(NATO)" title="Template talk:North Atlantic Treaty Organisation (NATO)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_Atlantic_Treaty_Organisation_(NATO)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="North_Atlantic_Treaty_Organization_(NATO)" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/North_Atlantic_Treaty_Organisation" class="mw-redirect" title="North Atlantic Treaty Organisation">North Atlantic Treaty Organization (NATO)</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Member countries</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Canada" title="Canada">Canada</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Norway" title="Norway">Norway</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>&nbsp;<b>·</b> <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&nbsp;<b>·</b> <a href="/wiki/United_States" title="United States">United States</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1359
+Cached time: 20201218110547
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.716 seconds
+Real time usage: 0.896 seconds
+Preprocessor visited node count: 4003/1000000
+Post‐expand include size: 109302/2097152 bytes
+Template argument size: 10817/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 48616/5000000 bytes
+Lua time usage: 0.399/10.000 seconds
+Lua memory usage: 24574140/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  799.618      1 -total
+ 67.17%  537.115      1 Template:Infobox_country
+ 64.34%  514.481      2 Template:Infobox
+ 25.12%  200.839      1 Template:Reflist
+ 22.03%  176.172      1 Template:Lang
+ 14.37%  114.909      2 Template:Cite_news
+  6.45%   51.566      2 Template:Convinfobox
+  6.06%   48.420      2 Template:Convinfobox/prisec2
+  5.63%   45.039      3 Template:Navbox
+  5.37%   42.975      2 Template:Convert
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:22242-0!canonical and timestamp 20201218110546 and revision id 7218150. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=North_Macedonia&amp;oldid=7218150">https://simple.wikipedia.org/w/index.php?title=North_Macedonia&amp;oldid=7218150</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Members_of_NATO" title="Category:Members of NATO">Members of NATO</a></li>
+       <li><a href="/wiki/Category:North_Macedonia" title="Category:North Macedonia">North Macedonia</a></li>
+       <li><a href="/wiki/Category:European_Union_candidate_states" title="Category:European Union candidate states">European Union candidate states</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li>
+       <li><a href="/wiki/Category:CS1_errors:_empty_unknown_parameters" title="Category:CS1 errors: empty unknown parameters">CS1 errors: empty unknown parameters</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Macedonian-language_text" title="Category:Articles containing Macedonian-language text">Articles containing Macedonian-language text</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=North+Macedonia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=North+Macedonia" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/North_Macedonia" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:North_Macedonia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/North_Macedonia">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=North_Macedonia&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=North_Macedonia&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=North_Macedonia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/North_Macedonia" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/North_Macedonia" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=North_Macedonia&amp;oldid=7218150" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=North_Macedonia&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=North_Macedonia&amp;id=7218150&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q221" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=North+Macedonia">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=North_Macedonia&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=North_Macedonia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:North_Macedonia" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Mak%C3%A8donia_Utara" title="Makèdonia Utara – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D1%8D_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8D" title="Республикэ Македониэ – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%98%D1%88%D1%8A%D1%85%D1%8A%D1%8D%D1%80%D1%8D_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D0%B5" title="Ишъхъэрэ Македоние – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://af.wikipedia.org/wiki/Noord-Masedoni%C3%AB" title="Noord-Masedonië – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Republic_of_Macedonia" title="Republic of Macedonia – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Nordmazedonien" title="Nordmazedonien – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%88%B5%E1%88%9C%E1%8A%95_%E1%88%98%E1%89%84%E1%8B%B6%E1%8A%95%E1%8B%AB" title="ስሜን መቄዶንያ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Tave-Makedonia" title="Tave-Makedonia – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Nor%C3%BEm%C3%A6cedonia_Cynew%C4%ABse" title="Norþmæcedonia Cynewīse – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%90%D2%A9%D0%B0%D0%B4%D0%B0%D1%82%D3%99%D0%B8_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D0%B0" title="Аҩадатәи Македониа – Abkhazian" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%AF%D9%88%D9%86%D9%8A%D8%A7_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9" title="مقدونيا الشمالية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Macedonia_d%27o_Norte" title="Macedonia d'o Norte – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%93%DC%AA%DC%92%DC%9D_%DC%A1%DC%A9%DC%95%DC%98%DC%A2%DC%9D%DC%90" title="ܓܪܒܝ ܡܩܕܘܢܝܐ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/Machedonia_di_Nord" title="Machedonia di Nord – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Mac%C3%A8dou%C3%A8na_de_Bise" title="Macèdouèna de Bise – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Macedonia_del_Norte" title="Macedonia del Norte – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-awa"><a href="https://awa.wikipedia.org/wiki/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0_%E0%A4%AE%E0%A5%88%E0%A4%B8%E0%A4%BF%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="उत्तर मैसिडोनिया – Awadhi" lang="awa" hreflang="awa" class="interlanguage-link-target">अवधी</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Yvate_Masend%C3%B3%C3%B1a" title="Yvate Masendóña – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Республика Македония – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C5%9Eimali_Makedoniya" title="Şimali Makedoniya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B4%D9%88%D9%85%D8%A7%D9%84%DB%8C_%D9%85%D9%82%D8%AF%D9%88%D9%86%DB%8C%D9%87" title="شومالی مقدونیه – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Mak%C3%A9donia_Kal%C3%A9r" title="Makédonia Kalér – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0_%E0%A6%AE%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A7%8B%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="উত্তর মেসিডোনিয়া – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Pak_Macedonia" title="Pak Macedonia – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A2%D3%A9%D0%BD%D1%8C%D1%8F%D2%A1_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Төньяҡ Македония – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D1%9E%D0%BD%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%96%D1%8F" title="Паўночная Македонія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9F%D0%B0%D1%9E%D0%BD%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%96%D1%8F" title="Паўночная Македонія – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AE%E0%A5%87%E0%A4%B8%E0%A5%80%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="मेसीडोनिया – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Norteng_Masedonya" title="Norteng Masedonya – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Not_Macedonia" title="Not Macedonia – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Северна Македония – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Noadmazedonien" title="Noadmazedonien – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%98%E0%BC%8B%E0%BD%A6%E0%BD%BA%E0%BC%8B%E0%BD%8C%E0%BD%BC%E0%BC%8B%E0%BD%93%E0%BD%B2%E0%BD%A1%E0%BC%8D_(%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A3%E0%BC%8B%E0%BD%81%E0%BD%96%E0%BC%8D)" title="མ་སེ་ཌོ་ནིཡ། (རྒྱལ་ཁབ།) – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Sjeverna_Makedonija" title="Sjeverna Makedonija – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Makedonia_an_Norzh" title="Makedonia an Norzh – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B9%D1%82%D0%BE_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8" title="Хойто Македони – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Maced%C3%B2nia_del_Nord" title="Macedònia del Nord – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Македони Республики – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Republika_sa_Amihanan_Makedoniya" title="Republika sa Amihanan Makedoniya – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Severn%C3%AD_Makedonie" title="Severní Makedonie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Macedonia_del_Norte" title="Macedonia del Norte – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Macedonia" title="Macedonia – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Macedonia_di_u_Nordu" title="Macedonia di u Nordu – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Gogledd_Macedonia" title="Gogledd Macedonia – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Nordmakedonien" title="Nordmakedonien – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D9%85%D9%82%D8%AF%D9%88%D9%86%D9%8A%D8%A7_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9" title="مقدونيا الشمالية – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Davvi-Makedonia" title="Davvi-Makedonia – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Nordmazedonien" title="Nordmazedonien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%89%DE%AC%DE%90%DE%AC%DE%91%DE%AF%DE%82%DE%A8%DE%87%DE%A7" title="މެސެޑޯނިއާ – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/P%C3%B3dpo%C5%82nocna_Makedo%C5%84ska" title="Pódpołnocna Makedońska – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%87%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="म्यासेडोनिया – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/P%C3%B5hja-Makedoonia" title="Põhja-Makedoonia – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CF%8C%CF%81%CE%B5%CE%B9%CE%B1_%CE%9C%CE%B1%CE%BA%CE%B5%CE%B4%CE%BF%CE%BD%CE%AF%CE%B1" title="Βόρεια Μακεδονία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/North_Macedonia" title="North Macedonia – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D0%B5%D0%B2%D0%B5%D1%91%D0%BD%D0%BA%D1%81%D0%BE%D0%BD%D1%8C_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Пелевеёнксонь Македония Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Macedonia_del_Norte" title="Macedonia del Norte – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Nord-Makedonio" title="Nord-Makedonio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Maced%C3%B3nia_del_Norti" title="Macedónia del Norti – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ipar_Mazedoniako_Errepublika" title="Ipar Mazedoniako Errepublika – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/North_Macedonia" title="North Macedonia – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%82%D8%AF%D9%88%D9%86%DB%8C%D9%87_%D8%B4%D9%85%D8%A7%D9%84%DB%8C" title="مقدونیه شمالی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Republic_of_Macedonia" title="Republic of Macedonia – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/L%C3%BD%C3%B0veldi%C3%B0_Maked%C3%B3nia" title="Lýðveldið Makedónia – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://fr.wikipedia.org/wiki/Mac%C3%A9doine_du_Nord" title="Macédoine du Nord – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Noard-Masedoanje" title="Noard-Masedoanje – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Masedoniya" title="Masedoniya – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Republiche_di_Macedonie" title="Republiche di Macedonie – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_Mhacad%C3%B3in_Thuaidh" title="An Mhacadóin Thuaidh – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Pobblaght_y_Vassadoan_Hwoaie" title="Pobblaght y Vassadoan Hwoaie – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Poyraz_Makedoniya" title="Poyraz Makedoniya – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Masadoinia" title="Masadoinia – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Macedonia_do_Norte" title="Macedonia do Norte – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%AE%E0%AB%87%E0%AA%B8%E0%AB%87%E0%AA%A1%E0%AB%8B%E0%AA%A8%E0%AA%BF%E0%AA%AF%E0%AA%BE" title="મેસેડોનિયા – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8C%BC%F0%90%8C%B0%F0%90%8C%BA%F0%90%8C%B0%F0%90%8C%B9%F0%90%8C%B3%F0%90%8D%89%F0%90%8C%BD%F0%90%8C%BE%F0%90%8C%B0" title="𐌼𐌰𐌺𐌰𐌹𐌳𐍉𐌽𐌾𐌰 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0_%E0%A4%AE%E0%A5%85%E0%A4%B8%E0%A4%BF%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="उत्तर मॅसिडोनिया – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Pet_Macedonia" title="Pet Macedonia – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%B8%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Масидин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%81%EB%A7%88%EC%BC%80%EB%8F%84%EB%8B%88%EC%95%84" title="북마케도니아 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Masadoiniya_ta_Arewa" title="Masadoiniya ta Arewa – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Repupalika_o_%E2%80%98%C4%80kau_Masedonia" title="Repupalika o ‘Ākau Masedonia – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%B5%D5%B8%D6%82%D5%BD%D5%AB%D5%BD%D5%A1%D5%B5%D5%AB%D5%B6_%D5%84%D5%A1%D5%AF%D5%A5%D5%A4%D5%B8%D5%B6%D5%AB%D5%A1" title="Հյուսիսային Մակեդոնիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0_%E0%A4%AE%E0%A5%88%E0%A4%B8%E0%A4%BF%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="उत्तर मैसिडोनिया – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Sewjerna_Makedonska" title="Sewjerna Makedonska – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Sjeverna_Makedonija" title="Sjeverna Makedonija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Norda_Macedonia" title="Norda Macedonia – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Macedonia" title="Macedonia – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Amianan_a_Macedonia" title="Amianan a Macedonia – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A7%8B%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="মেসিডোনিয়া – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Makedonia_Utara" title="Makedonia Utara – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Macedonia_del_Nord" title="Macedonia del Nord – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Nord-Macedonia" title="Nord-Macedonia – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%A6%C3%A6%D0%B3%D0%B0%D1%82_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8" title="Цæгат Македони – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/INyakatho_Masedoniya" title="INyakatho Masedoniya – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Nor%C3%B0ur-Maked%C3%B3n%C3%ADa" title="Norður-Makedónía – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Macedonia_del_Nord" title="Macedonia del Nord – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A7%D7%93%D7%95%D7%A0%D7%99%D7%94_%D7%94%D7%A6%D7%A4%D7%95%D7%A0%D7%99%D7%AA" title="מקדוניה הצפונית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/R%C3%A9publik_Mak%C3%A9donia_Lor" title="Républik Makédonia Lor – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Makedonia_Avannarleq" title="Makedonia Avannarleq – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%89%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%B0_%E0%B2%AE%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%B8%E0%B3%86%E0%B2%A1%E0%B3%8A%E0%B2%A8%E0%B2%BF%E0%B2%AF" title="ಉತ್ತರ ಮ್ಯಾಸೆಡೊನಿಯ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Pangulung_Makedonia" title="Pangulung Makedonia – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BC%D0%B0%D0%BB_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Шимал Македония – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A9%E1%83%A0%E1%83%93%E1%83%98%E1%83%9A%E1%83%9D%E1%83%94%E1%83%97%E1%83%98_%E1%83%9B%E1%83%90%E1%83%99%E1%83%94%E1%83%93%E1%83%9D%E1%83%9C%E1%83%98%E1%83%90" title="ჩრდილოეთი მაკედონია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Nordow%C3%B4_Macedoni%C3%B4" title="Nordowô Macedoniô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D1%82%D2%AF%D1%81%D1%82%D1%96%D0%BA_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Солтүстік Македония – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Repoblek_Makedoni" title="Repoblek Makedoni – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Masedoniya_ya_Ruguru" title="Masedoniya ya Ruguru – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Jamhuri_ya_Masedonia_Kaskazini" title="Jamhuri ya Masedonia Kaskazini – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Македония Республика – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Makedonia" title="Makedonia – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Makedonia" title="Makedonia – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Repiblik_d_Masedoni" title="Repiblik d Masedoni – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Mas%C3%A9dwann_(p%C3%A9yi)" title="Masédwann (péyi) – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Makedonyaya_Bakur" title="Makedonyaya Bakur – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A2%D2%AF%D0%BD%D0%B4%D2%AF%D0%BA_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Түндүк Македония – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Macedonia_dl_Nord" title="Macedonia dl Nord – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Makedonia" title="Makedonia – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%A1%E0%BA%B2%E0%BB%80%E0%BA%8A%E0%BA%94%E0%BA%A7%E0%BA%99%E0%BB%80%E0%BB%9C%E0%BA%B7%E0%BA%AD" title="ປະເທດມາເຊດວນເໜືອ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D9%85%D9%B1%D9%82%D8%AF%DB%8A%D9%86%DB%8C%D9%B1" title="مٱقدۊنیٱ – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Z%C4%ABme%C4%BCmakedoneja" title="Zīmeļmakedoneja – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Macedonia_Septentrionalis" title="Macedonia Septentrionalis – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Zieme%C4%BCma%C4%B7edonija" title="Ziemeļmaķedonija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Nordmazedonien" title="Nordmazedonien – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/%C5%A0iaur%C4%97s_Makedonija" title="Šiaurės Makedonija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Ma%C3%A7ed%C3%B2nia_do_N%C3%B2rd" title="Maçedònia do Nòrd – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Noord-Macedoni%C3%AB" title="Noord-Macedonië – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Masedoni_ya_Nola" title="Masedoni ya Nola – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Macedonia_Norde" title="Macedonia Norde – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Pohjas-Makedounii" title="Pohjas-Makedounii – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Macedonia_del_Nord" title="Macedonia del Nord – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/%C3%89szak-Maced%C3%B3nia" title="Észak-Macedónia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%87%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="म्यासेडोनिया – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0" title="Македонија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Mased%C3%B4nia_Avaratra" title="Masedônia Avaratra – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%AC%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D_%E0%B4%93%E0%B4%AB%E0%B5%8D_%E0%B4%AE%E0%B4%BE%E0%B4%B8%E0%B4%BF%E0%B4%A1%E0%B5%8B%E0%B4%A3%E0%B4%BF%E0%B4%AF" title="റിപ്പബ്ലിക് ഓഫ് മാസിഡോണിയ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Repubblika_tal-Ma%C4%8Bedonja_ta%27_Fuq" title="Repubblika tal-Maċedonja ta' Fuq – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/Maker%C5%8Dnia" title="Makerōnia – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AE%E0%A5%85%E0%A4%B8%E0%A4%BF%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="मॅसिडोनिया – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%9D%E1%83%9D%E1%83%A0%E1%83%A3%E1%83%94_%E1%83%9B%E1%83%90%E1%83%99%E1%83%94%E1%83%93%E1%83%9D%E1%83%9C%E1%83%98%E1%83%90" title="ოორუე მაკედონია – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%85%D9%82%D8%AF%D9%88%D9%86%D9%8A%D8%A7_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D9%87" title="مقدونيا الشماليه – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%B4%D9%85%D8%A7%D9%84%DB%8C_%D9%85%D9%82%D8%AF%D9%88%D9%86%DB%8C%D9%87" title="شمالی مقدونیه – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Makedonia_Utara" title="Makedonia Utara – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/B%C3%A1e%CC%A4k_M%C4%81-g%C3%AC-d%C3%B3ng" title="Báe̤k Mā-gì-dóng – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Maced%C3%B3nia_de_l_Norte" title="Macedónia de l Norte – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D0%B5" title="Македоние – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B0%D1%80%D0%B4_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD" title="Умард Македон – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%99%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%99%E1%80%80%E1%80%BA%E1%80%85%E1%80%AE%E1%80%92%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%94%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="မြောက်မက်စီဒိုးနီးယားနိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Macedonia_Mictl%C4%81mpa" title="Macedonia Mictlāmpa – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Matedoniya" title="Matedoniya – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Noord-Macedoni%C3%AB" title="Noord-Macedonië – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Noordmacedonie" title="Noordmacedonie – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0_%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%87%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="उत्तर म्यासेडोनिया – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%87%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="म्यासेडोनिया – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://ja.wikipedia.org/wiki/%E5%8C%97%E3%83%9E%E3%82%B1%E3%83%89%E3%83%8B%E3%82%A2" title="北マケドニア – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9A%D1%8A%D0%B8%D0%BB%D0%B1%D0%B0%D1%81%D0%B5%D0%B4%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8" title="Къилбаседа Македони – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Nuurd-Matsedoonien" title="Nuurd-Matsedoonien – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/North_Masedoenya" title="North Masedoenya – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Nord-Makedonia" title="Nord-Makedonia – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Nord-Makedonia" title="Nord-Makedonia – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Republike_de_Makedonia" title="Republike de Makedonia – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Maced%C3%B2nia" title="Macedònia – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%99%D3%B1%D0%B4%D0%B2%D0%B5%D0%BB_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D0%B9" title="Йӱдвел Македоний – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Maqedooniyaa" title="Maqedooniyaa – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Shimoliy_Makedoniya" title="Shimoliy Makedoniya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AE%E0%A8%95%E0%A8%A6%E0%A9%82%E0%A8%A8%E0%A9%80%E0%A8%86_%E0%A8%97%E0%A8%A3%E0%A8%B0%E0%A8%BE%E0%A8%9C" title="ਮਕਦੂਨੀਆ ਗਣਰਾਜ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%87%E0%A4%B8%E0%A5%87%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="मेसेडोनिया – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pag"><a href="https://pag.wikipedia.org/wiki/Masedoniya" title="Masedoniya – Pangasinan" lang="pag" hreflang="pag" class="interlanguage-link-target">Pangasinan</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%85%D9%82%D8%AF%D9%88%D9%86%DB%8C%D8%A7" title="مقدونیا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Nort_Macedonia" title="Nort Macedonia – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%B4%D9%85%D8%A7%D9%84%D9%8A_%D9%85%D9%82%D8%AF%D9%88%D9%86%DB%8C%D9%87" title="شمالي مقدونیه – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Ripoblik_a_Masiduonia" title="Ripoblik a Masiduonia – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%9E%D0%B9%D0%B2%D1%8B%D0%B2_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Ойвыв Македония – Komi-Permyak" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем коми</a></li>
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%98%E1%9F%89%E1%9E%B6%E1%9E%9F%E1%9F%81%E1%9E%8A%E1%9E%BC%E1%9E%93%E1%9E%B6%E1%9E%81%E1%9E%B6%E1%9E%84%E1%9E%8F%E1%9F%92%E1%9E%94%E1%9E%BC%E1%9E%84" title="ម៉ាសេដូនាខាងត្បូង – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Mach%C3%A9do%C3%A8ne_(pa%C3%AFs)" title="Machédoène (païs) – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Maced%C3%B2nia_d%C3%ABl_N%C3%B2rd" title="Macedònia dël Nòrd – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Republic_of_Macedonia" title="Republic of Macedonia – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Noordmakedonien" title="Noordmakedonien – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Macedonia_P%C3%B3%C5%82nocna" title="Macedonia Północna – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%92%CF%8C%CF%81%CE%B5%CE%B9%CE%B1_%CE%9C%CE%B1%CE%BA%CE%B5%CE%B4%CE%BF%CE%BD%CE%AF%CE%B1" title="Βόρεια Μακεδονία – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Maced%C3%B3nia_do_Norte" title="Macedónia do Norte – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Makedoniya" title="Makedoniya – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/%C5%9Eimaliy_Makedoniya" title="Şimaliy Makedoniya – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Macedonia_de_Nord" title="Macedonia de Nord – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Nordutni_Makedoniya" title="Nordutni Makedoniya – Vlax Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani čhib</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Macedonia_dal_Nord" title="Macedonia dal Nord – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Chinchay_Masitunya" title="Chinchay Masitunya – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%A1%D1%A3%D0%B2%D0%B5%D1%80%D0%BD%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Сѣверна Македония – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Северная Македония – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D0%B0" title="Македония Республиката – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Macedonia" title="Macedonia – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Ripapelika_o_Maketonia" title="Ripapelika o Maketonia – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AE%E0%A5%87%E0%A4%B8%E0%A5%87%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="मेसेडोनिया – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%AE%E1%B1%9B%E1%B1%9A%E1%B1%A2_%E1%B1%A2%E1%B1%AE%E1%B1%A5%E1%B1%A4%E1%B1%B0%E1%B1%B3%E1%B1%B1%E1%B1%A4%E1%B1%AD%E1%B1%9F" title="ᱮᱛᱚᱢ ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Matzed%C3%B2nia_de_su_Norte" title="Matzedònia de su Norte – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/North_Macedonie" title="North Macedonie – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Noudmakedonien" title="Noudmakedonien – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Maqedonia_e_Veriut" title="Maqedonia e Veriut – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Rip%C3%B9bblica_di_Macidonia" title="Ripùbblica di Macidonia – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B8%E0%B7%90%E0%B7%83%E0%B7%92%E0%B6%A9%E0%B7%9D%E0%B6%B1%E0%B7%92%E0%B6%BA%E0%B7%8F_%E0%B6%A2%E0%B6%B1%E0%B6%BB%E0%B6%A2%E0%B6%BA" title="මැසිඩෝනියා ජනරජය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/IMakhedoniya_leseNyakatfo" title="IMakhedoniya leseNyakatfo – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Severn%C3%A9_Maced%C3%B3nsko" title="Severné Macedónsko – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Severna_Makedonija" title="Severna Makedonija – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%A1%D1%A3%D0%B2%D1%94%D1%80%D1%8C%D0%BD%D0%B0_%D0%9C%D0%B0%D0%BA%D1%94%D0%B4%D0%BE%D0%BD%D1%97%EA%99%97" title="Сѣвєрьна Макєдонїꙗ – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/P%C5%AF%C5%82nocno_Maced%C5%AF%C5%84ijo" title="Půłnocno Macedůńijo – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Jamhuriyada_Masedonia" title="Jamhuriyada Masedonia – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%85%DB%95%D9%82%D8%AF%D9%88%D9%88%D9%86%DB%8C%D8%A7%DB%8C_%D8%A8%D8%A7%DA%A9%D9%88%D9%88%D8%B1" title="مەقدوونیای باکوور – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Masedoniyakondre" title="Masedoniyakondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0" title="Северна Македонија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Severna_Makedonija" title="Severna Makedonija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Mak%C3%A9donia_Kal%C3%A9r" title="Makédonia Kalér – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://fi.wikipedia.org/wiki/Pohjois-Makedonia" title="Pohjois-Makedonia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Nordmakedonien" title="Nordmakedonien – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Hilagang_Macedonia" title="Hilagang Macedonia – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%AE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%86%E0%AE%A4%E0%AF%8B%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%BE" title="வடக்கு மக்கெதோனியா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Repubbleche_de_Macidonie" title="Repubbleche de Macidonie – Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target">Tarandíne</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D3%A9%D0%BD%D1%8C%D1%8F%D0%BA_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Төньяк Македония – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%82%84%E1%82%87%E1%81%B6%E1%80%B1%E1%82%87%E1%80%90%E1%80%B0%E1%80%9D%E1%80%BA%E1%80%B8%E1%81%BC%E1%80%AE%E1%80%B8%E1%80%9A%E1%82%83%E1%80%B8%E1%82%81%E1%80%BD%E1%80%84%E1%80%BA%E1%82%87" title="မႄႇၶေႇတူဝ်းၼီးယႃးႁွင်ႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%89%E0%B0%A4%E0%B1%8D%E0%B0%A4%E0%B0%B0_%E0%B0%AE%E0%B1%87%E0%B0%B8%E0%B0%BF%E0%B0%A1%E0%B1%8B%E0%B0%A8%E0%B0%BF%E0%B0%AF%E0%B0%BE" title="ఉత్తర మేసిడోనియా – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Mased%C3%B3nia_Norte" title="Masedónia Norte – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%A1%E0%B8%B2%E0%B8%8B%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2" title="ประเทศนอร์ทมาซิโดเนีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9C%D0%B0%D2%9B%D0%B4%D1%83%D0%BD%D0%B8%D1%8F%D0%B8_%D0%A8%D0%B8%D0%BC%D0%BE%D0%BB%D3%A3" title="Мақдунияи Шимолӣ – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8F%8D%E1%8E%A6%E1%8F%9A%E1%8E%A9_%E1%8E%BE%E1%8E%BF_%E1%8E%B9%E1%8F%8F%E1%8F%99%E1%8F%82%E1%8E%A2%E1%8E%A0" title="ᏍᎦᏚᎩ ᎾᎿ ᎹᏏᏙᏂᎢᎠ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kuzey_Makedonya" title="Kuzey Makedonya – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Demirgazyk_Makedoni%C3%BDa" title="Demirgazyk Makedoniýa – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%A3%D0%B9%D0%BF%D0%B0%D0%BB_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Уйпал Македония – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B2%D0%BD%D1%96%D1%87%D0%BD%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%96%D1%8F" title="Північна Македонія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B4%D9%85%D8%A7%D9%84%DB%8C_%D9%85%D9%82%D8%AF%D9%88%D9%86%DB%8C%DB%81" title="شمالی مقدونیہ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D9%85%D8%A7%D9%83%DB%90%D8%AF%D9%88%D9%86%D9%89%D9%8A%DB%95" title="ماكېدونىيە – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Baek_Macedonia" title="Baek Macedonia – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Mased%C3%B2nia_del_Nord" title="Masedònia del Nord – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Pohjoi%C5%BEmakedonii" title="Pohjoižmakedonii – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/B%E1%BA%AFc_Macedonia" title="Bắc Macedonia – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Nol%C3%BCda-Makedoniy%C3%A4n" title="Nolüda-Makedoniyän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/P%C3%B5h%27a_Mak%C3%B5doonia" title="Põh'a Makõdoonia – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%8C%97%E9%A6%AC%E5%85%B6%E9%A0%93" title="北馬其頓 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Noord-Macedoni%C3%AB" title="Noord-Macedonië – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Norte_nga_Macedonia" title="Norte nga Macedonia – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/R%C3%A9ewum_Maseduwaan" title="Réewum Maseduwaan – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%8C%97%E9%A9%AC%E5%85%B6%E9%A1%BF" title="北马其顿 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Republic_of_Macedonia" title="Republic of Macedonia – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A6%D7%A4%D7%95%D7%9F-%D7%9E%D7%90%D7%A7%D7%A2%D7%93%D7%90%D7%A0%D7%99%D7%A2" title="צפון-מאקעדאניע – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Mas%E1%BA%B9d%C3%B3n%C3%AD%C3%A0_%C3%80r%C3%ADw%C3%A1" title="Masẹdóníà Àríwá – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%8C%97%E9%A6%AC%E5%85%B6%E9%A0%93" title="北馬其頓 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Cumhuriyet%C3%AA_Makedonyay_Z%C4%B1mey" title="Cumhuriyetê Makedonyay Zımey – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/No%C3%B4rd-Macedoni%C3%AB" title="Noôrd-Macedonië – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/%C5%A0iaur%C4%97s_Makeduon%C4%97j%C4%97" title="Šiaurės Makeduonėjė – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8C%97%E9%A6%AC%E5%85%B6%E9%A0%93" title="北馬其頓 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q221#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 18 December 2020, at 11:05.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=North_Macedonia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.716","walltime":"0.896","ppvisitednodes":{"value":4003,"limit":1000000},"postexpandincludesize":{"value":109302,"limit":2097152},"templateargumentsize":{"value":10817,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48616,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  799.618      1 -total"," 67.17%  537.115      1 Template:Infobox_country"," 64.34%  514.481      2 Template:Infobox"," 25.12%  200.839      1 Template:Reflist"," 22.03%  176.172      1 Template:Lang"," 14.37%  114.909      2 Template:Cite_news","  6.45%   51.566      2 Template:Convinfobox","  6.06%   48.420      2 Template:Convinfobox/prisec2","  5.63%   45.039      3 Template:Navbox","  5.37%   42.975      2 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.399","limit":"10.000"},"limitreport-memusage":{"value":24574140,"limit":52428800}},"cachereport":{"origin":"mw1359","timestamp":"20201218110547","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"North Macedonia","url":"https:\/\/simple.wikipedia.org\/wiki\/North_Macedonia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q221","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q221","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-02-24T22:06:28Z","dateModified":"2020-12-18T11:05:41Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/79\/Flag_of_North_Macedonia.svg","headline":"sovereign state in southeastern Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":352,"wgHostname":"mw1332"});});</script> 
+ </body>
+</html>

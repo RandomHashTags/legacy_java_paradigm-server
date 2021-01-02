@@ -1,0 +1,1155 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Finland - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@VDvApAADoAAJK24wsAAACQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Finland","wgTitle":"Finland","wgCurRevisionId":7225869,"wgRevisionId":7225869,"wgArticleId":292,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Finnish-language text","Articles containing Swedish-language text","Articles containing explicitly cited English-language text","Finland","European Union member states","Nordic countries","1917 establishments in Europe"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Finland","wgRelevantArticleId":292,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q33"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles"
+:"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1200px-Flag_of_Finland.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Finland"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Finland&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Finland&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Finland"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Finland rootpage-Finland skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Finland</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic of Finland
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <div class="plainlist">
+            <ul>
+             <li style="font-size:88%;"><i lang="fi" title="Finnish language text">Suomen tasavalta</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Finnish_language" title="Finnish language">Finnish</a>)</span></li>
+             <li style="font-size:88%;"><i lang="sv" title="Swedish language text">Republiken Finland</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>)</span></li>
+            </ul>
+           </div>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Finland.svg" class="image" title="Flag of Finland"><img alt="Flag of Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/125px-Flag_of_Finland.svg.png" decoding="async" width="125" height="76" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/188px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/250px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Finland" title="Flag of Finland">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Finland.svg" class="image" title="Coat of arms of Finland"><img alt="Coat of arms of Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Coat_of_arms_of_Finland.svg/85px-Coat_of_arms_of_Finland.svg.png" decoding="async" width="85" height="106" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Coat_of_arms_of_Finland.svg/128px-Coat_of_arms_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Coat_of_arms_of_Finland.svg/170px-Coat_of_arms_of_Finland.svg.png 2x" data-file-width="800" data-file-height="1000"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b>
+           <br><i lang="fi" title="Finnish language text"><a href="/wiki/Maamme" title="Maamme">Maamme</a></i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(Finnish)</span>
+           <br><i lang="sv" title="Swedish language text"><a href="/wiki/Maamme#Vårt_land" title="Maamme">Vårt land</a></i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(Swedish)</span>
+           <br>(English: <span lang="en">"Our Land"</span>) 
+           <center>
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="46.393469387755" data-startoffset="0" data-mwtitle="United_States_Navy_Band_-_Maamme.ogg" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/6/61/United_States_Navy_Band_-_Maamme.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (140 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="139559">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/6/61/United_States_Navy_Band_-_Maamme.ogg/United_States_Navy_Band_-_Maamme.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="200104">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=de&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="de" label="Deutsch (de) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=et&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="et" label="eesti (et) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=fi&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="fi" label="suomi (fi) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=fr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="fr" label="français (fr) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=ja&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ja" label="日本語 (ja) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=ko&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ko" label="한국어 (ko) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=pl&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="pl" label="polski (pl) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=ru&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ru" label="русский (ru) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=sv&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="sv" label="svenska (sv) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&amp;lang=zh-hant&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="zh-Hant" label="中文（繁體）‎ (zh-hant) subtitles" data-dir="ltr">
+             </audio>
+            </div>
+           </center>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:EU-Finland.svg" class="image" title="Location of &nbsp;Finland&nbsp;&nbsp;(dark green) –&nbsp;on the European continent&nbsp;&nbsp;(green &amp;&nbsp;dark grey) –&nbsp;in the European Union&nbsp;&nbsp;(green)&nbsp; —&nbsp; [Legend]"><img alt="Location of &nbsp;Finland&nbsp;&nbsp;(dark green) –&nbsp;on the European continent&nbsp;&nbsp;(green &amp;&nbsp;dark grey) –&nbsp;in the European Union&nbsp;&nbsp;(green)&nbsp; —&nbsp; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/EU-Finland.svg/250px-EU-Finland.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/EU-Finland.svg/375px-EU-Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/EU-Finland.svg/500px-EU-Finland.svg.png 2x" data-file-width="2045" data-file-height="1720"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Finland</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark green</span>)</span>
+            <p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&nbsp;on the <a href="/wiki/Europe" title="Europe">European continent</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green &amp;&nbsp;dark grey</span>)<br>–&nbsp;in the <a href="/wiki/European_Union" title="European Union">European Union</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:EU-Finland.svg" title="File:EU-Finland.svg">Legend</a></span>]</p>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/wiki/Helsinki" title="Helsinki">Helsinki</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Finland&amp;params=60_10_N_24_56_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">60°10′N</span> <span class="longitude">24°56′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">60.167°N 24.933°E</span><span style="display:none">﻿ / <span class="geo">60.167; 24.933</span></span></span></a></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><a href="/wiki/Finnish_language" title="Finnish language">Finnish</a></li>
+            <li><a href="/wiki/Swedish_language" title="Swedish language">Swedish</a></li>
+            <li>Sami dialects (regional)</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><a href="/w/index.php?title=Evangelical_Lutheran_Church_of_Finland&amp;action=edit&amp;redlink=1" class="new" title="Evangelical Lutheran Church of Finland (not yet started)">Evangelical&nbsp;Lutheran Church</a></li>
+            <li><a href="/w/index.php?title=Finnish_Orthodox_Church&amp;action=edit&amp;redlink=1" class="new" title="Finnish Orthodox Church (not yet started)">Orthodox Church</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>
+          <div class="hlist hlist-separated">
+           <ul>
+            <li><a href="/wiki/Finns" class="mw-redirect" title="Finns">Finnish</a></li>
+            <li><a href="/wiki/Finns" class="mw-redirect" title="Finns">Finn</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a> <a href="/wiki/Republic" title="Republic">republic</a><sup id="cite_ref-Parliamentary_1-0" class="reference"><a href="#cite_note-Parliamentary-1">[1]</a></sup></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_Finland" title="President of Finland">President</a> 
+          </div></th>
+         <td><a href="/wiki/Sauli_Niinist%C3%B6" title="Sauli Niinistö">Sauli Niinistö</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Prime_Minister_of_Finland" title="Prime Minister of Finland">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Sanna_Marin" title="Sanna Marin">Sanna Marin</a></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><i><a href="/wiki/Parliament_of_Finland" title="Parliament of Finland">Eduskunta</a></i></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=History_of_Finland&amp;action=edit&amp;redlink=1" class="new" title="History of Finland (not yet started)">Formation</a></th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Grand_Duchy_of_Finland&amp;action=edit&amp;redlink=1" class="new" title="Grand Duchy of Finland (not yet started)">Autonomy</a>
+           <br><span style="font-size:85%;">within <a href="/wiki/Russian_Empire" title="Russian Empire">Russia</a></span> 
+          </div></th>
+         <td>29 March 1809</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Finnish_Declaration_of_Independence&amp;action=edit&amp;redlink=1" class="new" title="Finnish Declaration of Independence (not yet started)">Independence</a>
+           <br><span class="nowrap"><span style="font-size:85%;">from <a href="/wiki/Russian_Soviet_Federative_Socialist_Republic" title="Russian Soviet Federative Socialist Republic">Russia</a></span></span> 
+          </div></th>
+         <td>6 December 1917</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=1995_enlargement_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="1995 enlargement of the European Union (not yet started)">Joined</a> the <a href="/wiki/European_Union" title="European Union">European Union</a> 
+          </div></th>
+         <td>1 January 1995</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>338,424&nbsp;km<sup>2</sup> (130,666&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">64th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>10</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;August 2017 estimate
+          </div></th>
+         <td>5,509,717 <img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">114th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2016 official
+          </div></th>
+         <td>5,503,297<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>16/km<sup>2</sup> (41.4/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">213rd</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2018&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$255.976 billion<sup id="cite_ref-imf3_4-0" class="reference"><a href="#cite_note-imf3-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$46,342<sup id="cite_ref-imf3_4-1" class="reference"><a href="#cite_note-imf3-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2018&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$289.557 billion<sup id="cite_ref-imf3_4-2" class="reference"><a href="#cite_note-imf3-4">[4]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$52,422<sup id="cite_ref-imf3_4-3" class="reference"><a href="#cite_note-imf3-4">[4]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2014)</span></th>
+         <td>25.6<sup id="cite_ref-eurogini_5-0" class="reference"><a href="#cite_note-eurogini-5">[5]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">low</span></span>&nbsp;·&nbsp;<a href="/w/index.php?title=List_of_countries_by_income_equality&amp;action=edit&amp;redlink=1" class="new" title="List of countries by income equality (not yet started)">6th</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2015)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.895<sup id="cite_ref-HDI_6-0" class="reference"><a href="#cite_note-HDI-6">[6]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkgreen">very high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">23rd</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/Euro" title="Euro">Euro</a> (<a href="/wiki/Euro_sign" title="Euro sign">€</a>) (<a href="/wiki/ISO_4217" title="ISO 4217">EUR</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Eastern_European_Time" title="Eastern European Time">EET</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3</span> (<a href="/wiki/Eastern_European_Summer_Time" title="Eastern European Summer Time">EEST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Date format</th>
+         <td>dd.mm.yyyy</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=Telephone_numbers_in_Finland&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in Finland (not yet started)">+358</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:FI&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:FI (not yet started)">FI</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.fi" class="mw-redirect" title=".fi">.fi</a><sup>a</sup></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
+            <li value="1">The <a href="/wiki/.eu" class="mw-redirect" title=".eu">.eu</a> domain is also used, as it is shared with other <a href="/wiki/European_Union" title="European Union">European Union</a> member states.</li> 
+           </ol>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:242px;">
+        <a href="/wiki/File:Europe_location_FIN.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Europe_location_FIN.png/240px-Europe_location_FIN.png" decoding="async" width="240" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Europe_location_FIN.png/360px-Europe_location_FIN.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Europe_location_FIN.png/480px-Europe_location_FIN.png 2x" data-file-width="1600" data-file-height="1200"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Europe_location_FIN.png" class="internal" title="Enlarge"></a>
+         </div>Finland on a map of Europe
+        </div>
+       </div>
+      </div> 
+      <p><b>Finland</b> (<a href="/wiki/Finnish_language" title="Finnish language">Finnish</a>: <i>Suomi</i>) is a <a href="/wiki/Country" title="Country">country</a> in Northern <a href="/wiki/Europe" title="Europe">Europe</a> and is a member state of the <a href="/wiki/European_Union" title="European Union">European Union</a>. Finland is one of the <a href="/wiki/Nordic_countries" title="Nordic countries">Nordic countries</a> and is also part of <a href="/wiki/Fennoscandia" title="Fennoscandia">Fennoscandia</a>. Finland is located between the 60th and 70th latitudes North. Its neighbours are <a href="/wiki/Sweden" title="Sweden">Sweden</a> to the west, <a href="/wiki/Norway" title="Norway">Norway</a> to the north, <a href="/wiki/Russia" title="Russia">Russia</a> to the east and <a href="/wiki/Estonia" title="Estonia">Estonia</a> to the south, beyond the sea called <a href="/wiki/Gulf_of_Finland" title="Gulf of Finland">Gulf of Finland</a>. Most of western and southern coast is on the shore of the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a>. </p>
+      <p>The <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> of Finland is <a href="/wiki/Helsinki" title="Helsinki">Helsinki</a>; the second largest city is <a href="/wiki/Tampere" title="Tampere">Tampere</a>. The official <a href="/wiki/Currency" title="Currency">currency</a> of the country is the <a href="/wiki/Euro" title="Euro">euro</a> (EUR); before 2002 it was the <a href="/wiki/Markka" class="mw-redirect" title="Markka">markka</a>, the Finnish mark (FIM). The <a href="/wiki/President" title="President">president</a> of Finland is <a href="/wiki/Sauli_Niinist%C3%B6" title="Sauli Niinistö">Sauli Niinistö</a>. 5.5 million people live in Finland. <a href="/wiki/Finnish_language" title="Finnish language">Finnish</a> and <a href="/wiki/Swedish_language" title="Swedish language">Swedish</a> both are the official <a href="/wiki/Language" title="***REMOVED***">languages</a> of Finland; the most spoken languages is Finnish, mother tongue of about 90% of the population. Swedish is spoken by the Swedish speaking minority of Finland, called the <a href="/w/index.php?title=Finnish_Swede&amp;action=edit&amp;redlink=1" class="new" title="Finnish Swede (not yet started)">Finnish Swedes</a>, who make up 5% of the total population. Finland became <a href="/wiki/Independence" title="Independence">independent</a> of <a href="/wiki/Russian_Empire" title="Russian Empire">Russia</a> on 6 December 1917. </p>
+      <p>The most important cities and towns in Finland are <a href="/wiki/Helsinki" title="Helsinki">Helsinki</a>, <a href="/wiki/Espoo" title="Espoo">Espoo</a>, <a href="/wiki/Tampere" title="Tampere">Tampere</a>, <a href="/wiki/Vantaa" title="Vantaa">Vantaa</a>, <a href="/wiki/Turku" title="Turku">Turku</a>, <a href="/wiki/Oulu" title="Oulu">Oulu</a>, <a href="/wiki/Lahti" title="Lahti">Lahti</a>, <a href="/wiki/Kuopio" title="Kuopio">Kuopio</a>, <a href="/wiki/Jyv%C3%A4skyl%C3%A4" title="Jyväskylä">Jyväskylä</a> and <a href="/wiki/Pori" title="Pori">Pori</a>. </p>
+      <p>Finland is a highly industrialised <a href="/wiki/First_World" title="First World">First World</a> country. The most important Finnish industrial products are <a href="/wiki/Paper" title="Paper">paper</a>, and <a href="/wiki/Steel" title="Steel">steel</a> products such as machines and electronics. <a href="/wiki/Nokia" title="Nokia">Nokia</a> (the mobile company) is originally a company of Finland, named after a small town called <a href="/wiki/Nokia,_Finland" title="Nokia, Finland">Nokia</a>. </p>
+      <p>Finland has been top of the list of least corrupt countries on the <a href="/wiki/Corruption_Perceptions_Index" title="Corruption Perceptions Index">Corruption Perceptions Index</a> more times than any other country. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#People_and_culture"><span class="tocnumber">1</span> <span class="toctext">People and culture</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Nature_and_weather"><span class="tocnumber">2</span> <span class="toctext">Nature and weather</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#After_independence"><span class="tocnumber">3.1</span> <span class="toctext">After independence</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Economy"><span class="tocnumber">4</span> <span class="toctext">Economy</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Elections"><span class="tocnumber">5</span> <span class="toctext">Elections</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Famous_Finnish_people"><span class="tocnumber">6</span> <span class="toctext">Famous Finnish people</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Other_websites"><span class="tocnumber">8</span> <span class="toctext">Other websites</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="People_and_culture">People and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Finland&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: People and culture">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Finland&amp;action=edit&amp;section=1" title="Change section: People and culture">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The people of Finland are called Finns. Most Finns speak <a href="/wiki/Finnish_language" title="Finnish language">Finnish</a> as their mother tongue. About six percent of Finns have the <a href="/wiki/Swedish_language" title="Swedish language">Swedish language</a> as their mother tongue. They live mostly in the western part of Finland and on <a href="/wiki/%C3%85land" class="mw-redirect" title="Åland">Åland</a> (Finnish Ahvenanmaa) </p>
+      <p>Finns also study mandatory English and Swedish in school. Most Finns work either in services (that is: shops, banks, offices or businesses) or in factories. Finns often like <a href="/wiki/Sauna" title="Sauna">saunas</a> and <a href="/wiki/Nature" title="Nature">nature</a>. Many Finnish families have <a href="/w/index.php?title=Summer_cottage&amp;action=edit&amp;redlink=1" class="new" title="Summer cottage (not yet started)">summer cottages</a>, small houses where they go to relax on their summer holidays. The most important <a href="/wiki/Festival" title="Festival">festivals</a> that Finnish people celebrate are <a href="/w/index.php?title=Midsummer&amp;action=edit&amp;redlink=1" class="new" title="Midsummer (not yet started)">Midsummer</a> and <a href="/wiki/Christmas" title="Christmas">Christmas</a>. </p>
+      <p>The most popular sports in Finland are <a href="/wiki/Ice_hockey" title="Ice hockey">ice hockey</a>, <a href="/wiki/Skiing" title="Skiing">skiing</a>, <a href="/wiki/Track_and_field" class="mw-redirect" title="Track and field">track and field</a> and <a href="/wiki/Association_football" title="Association football">association football</a> (soccer). Finns have also won events in <a href="/wiki/Swimming" title="Swimming">swimming</a>, <a href="/wiki/Motor_sports" title="Motor sports">motor sports</a> and <a href="/wiki/Gymnastics" title="Gymnastics">gymnastics</a>. </p>
+      <p>There is a group of a few thousand <a href="/wiki/Sami_people" title="Sami people">Samis</a> (also called Lapps) in the most northern part of Finland, called <a href="/wiki/Lapland" title="Lapland">Lapland</a>. Most of the Samis live in <a href="/wiki/Norway" title="Norway">Norway</a> and <a href="/wiki/Sweden" title="Sweden">Sweden</a>. Many Sami people farm <a href="/wiki/Reindeer" title="Reindeer">reindeers</a>. Originally, Samis were <a href="/w/index.php?title=Hunter-gatherers&amp;action=edit&amp;redlink=1" class="new" title="Hunter-gatherers (not yet started)">hunter-gatherers</a>. In the past the Sami were <a href="/wiki/Nomad" class="mw-redirect" title="Nomad">nomads</a>, but nowadays they live in regular houses. </p>
+      <p>Very few people in Finland are from other countries. In 2016 about 4% of residents were born in another country.<sup id="cite_ref-gsi_7-0" class="reference"><a href="#cite_note-gsi-7">[7]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Nature_and_weather">Nature and weather</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Finland&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Nature and weather">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Finland&amp;action=edit&amp;section=2" title="Change section: Nature and weather">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Koli_hill_view.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Koli_hill_view.jpg/250px-Koli_hill_view.jpg" decoding="async" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Koli_hill_view.jpg/375px-Koli_hill_view.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Koli_hill_view.jpg/500px-Koli_hill_view.jpg 2x" data-file-width="2048" data-file-height="1536"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Koli_hill_view.jpg" class="internal" title="Enlarge"></a>
+         </div>This picture is from <a href="/w/index.php?title=Koli&amp;action=edit&amp;redlink=1" class="new" title="Koli (not yet started)">Koli</a>, <a href="/wiki/North_Karelia" title="North Karelia">North Karelia</a>
+        </div>
+       </div>
+      </div> 
+      <p>Most of Finland is covered by pine <a href="/wiki/Forest" title="Forest">forest</a>. The <a href="/wiki/Swan" title="Swan">swan</a>, which was considered holy long ago, is the national bird of Finland. Wood is the most important natural resource of Finland. It is estimated that up to one-third of all wood resources of the <a href="/wiki/European_Union" title="European Union">European Union</a> are in Finland. </p>
+      <p>The national animal of Finland is the <a href="/wiki/Brown_bear" title="Brown bear">brown bear</a>. The largest animal is the <a href="/wiki/Elk" class="mw-redirect" title="Elk">elk</a>, a type of moose, which is a member of the deer family. </p>
+      <p>There are hundreds of rivers and thousands of fresh water lakes. <a href="/wiki/Fishing" title="Fishing">Fishing</a> is a popular <a href="/wiki/Sport" title="Sport">sport</a>. It is estimated there are almost 180,000 lakes in Finland. </p>
+      <p>Many islands in the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a> belong to Finland, too. Thousands of islands are part of the <a href="/wiki/%C3%85land" class="mw-redirect" title="Åland">Åland</a> <a href="/wiki/Archipelago" title="Archipelago">archipelago</a>. Tourists from all over the world come to see the fells and the <a href="/wiki/Northern_lights" class="mw-redirect" title="Northern lights">northern lights</a> in <a href="/wiki/Lapland" title="Lapland">Lapland</a>. </p>
+      <p>The highest mountain of Finland is Halti, which is 1328 meters high. The largest lake is Saimaa, 4,400 square kilometres. The longest river of Finland is Tornionjoki. The largest river (by watershed) is Kemijoki, 552 kilometres long. </p>
+      <p>The weather in Finland varies widely by season. Summer usually lasts from May to early September, and temperatures can reach up to +35&nbsp;°C. Autumns are dark and rainy. Winter snow usually begins to fall in Helsinki in early December (in Lapland it can fall as early as October) and in the winter the temperature can drop to -30&nbsp;°C. Winter usually lasts to mid-March, when the snow melts in Helsinki (in Lapland the snow usually doesn't melt until early May), and Spring lasts till late May. Spring can be erratic, and the weather can change from frost to sunshine within a matter of days. The famed <a href="/wiki/Northern_Lights" class="mw-redirect" title="Northern Lights">Northern Lights</a> are common in Lapland. </p> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Finland&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Finland&amp;action=edit&amp;section=3" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>People first came to Finland 10,000 years ago. That was just after an <a href="/wiki/Ice_age" title="Ice age">ice age</a>, after a glacier that covered the ground had receded. </p>
+      <p>Some think the first people in Finland already spoke a language similar to the <a href="/wiki/Finnish_language" title="Finnish language">Finnish language</a> that is spoken today. It is known that an early form of the Finnish language was spoken in Finland in the <a href="/wiki/Iron_Age" title="Iron Age">Iron Age</a>. (The Iron Age in Finland was 2,500–800 years ago). </p>
+      <p>The first residents in Finland hunted animals, as "<a href="/wiki/Hunter-gatherer" title="Hunter-gatherer">hunter-gatherers</a>". Some people started to <a href="/wiki/Agriculture" class="mw-redirect" title="Agriculture">farm</a> crops about 5,200 years ago. Farming slowly became more and more popular and became the major way of life until the modern age. </p> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:Vasarakirves.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vasarakirves.jpg/200px-Vasarakirves.jpg" decoding="async" width="200" height="75" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vasarakirves.jpg/300px-Vasarakirves.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vasarakirves.jpg/400px-Vasarakirves.jpg 2x" data-file-width="1419" data-file-height="534"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Vasarakirves.jpg" class="internal" title="Enlarge"></a>
+         </div>Stone <a href="/wiki/Axe" title="Axe">axe</a> from Finland.
+        </div>
+       </div>
+      </div> 
+      <p>The ancient Finns were <a href="/wiki/Paganism" title="Paganism">pagans</a>. The most important god of the Finnish pantheon was <a href="/wiki/Ukko" title="Ukko">Ukko</a>. He was a god of <a href="/wiki/Sky" title="Sky">sky</a> and <a href="/wiki/Thunder" title="Thunder">thunder</a>, much like <a href="/wiki/Odin" title="Odin">Odin</a>, another Scandinavian god-king. These powers were common among the pagan god kings in pantheons ranging from the Finnish Ukko, to the Scandinavian/Germanic/Saxon <a href="/wiki/Odin" title="Odin">Odin</a>, all the way east to <a href="/wiki/Zeus" title="Zeus">Zeus</a> of the Greeks and Jupiter of the Romans. </p>
+      <p>Around a thousand years ago, when most of Europe was adopting Christianity, Finland also began following Christianity. During the <a href="/wiki/Reformation" class="mw-redirect" title="Reformation">Reformation</a> of Christianity in the 16th century, most Finns became <a href="/wiki/Protestant" class="mw-redirect" title="Protestant">Protestants</a>. Some pagan practices still remain amongst the now Christian Finns, such as <a href="/wiki/Bear_worship" title="Bear worship">bear worship</a>. </p>
+      <p>From the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> Finland was a part of <a href="/wiki/Sweden" title="Sweden">Sweden</a>. Then, in the year <a href="/wiki/1809" title="1809">1809</a>, <a href="/wiki/Russia" title="Russia">Russia</a> took Finland from Sweden. Finland was a part of Russia, but after a short period of time it became <a href="/wiki/Autonomy" title="Autonomy">autonomous</a>. The Finns essentially controlled Finland, though the Tsar was in control officially. Finns could create their own laws and had their own currency, (called the <i><a href="/wiki/Markka" class="mw-redirect" title="Markka">markka</a></i>), their own <a href="/wiki/Stamp" class="mw-redirect" title="Stamp">stamps</a> and own <a href="/wiki/Custom" title="Custom">customs</a>. However, Finland did not have its own <a href="/wiki/Army" title="Army">army</a>. </p>
+      <p>During the <a href="/w/index.php?title=1905_Russian_Revolution&amp;action=edit&amp;redlink=1" class="new" title="1905 Russian Revolution (not yet started)">1905 Russian Revolution</a>, in the <a href="/w/index.php?title=Grand_Duchy_of_Finland&amp;action=edit&amp;redlink=1" class="new" title="Grand Duchy of Finland (not yet started)">Grand Duchy of Finland</a>: the <a href="/w/index.php?title=Social_Democratic_Party_of_Finland&amp;action=edit&amp;redlink=1" class="new" title="Social Democratic Party of Finland (not yet started)">Social Democrats</a> organised the <a href="/w/index.php?title=General_strike&amp;action=edit&amp;redlink=1" class="new" title="General strike (not yet started)">general strike</a> of 1905 (12–19 November&nbsp;[<a href="/wiki/Old_Style_and_New_Style_dates" title="Old Style and New Style dates">O.S.</a> 30 October&nbsp;– 6 November]). The <a href="/w/index.php?title=Red_Guards_(Finland)&amp;action=edit&amp;redlink=1" class="new" title="Red Guards (Finland) (not yet started)">Red Guards</a> were formed. On 12 August&nbsp;[<a href="/wiki/Old_Style_and_New_Style_dates" title="Old Style and New Style dates">O.S.</a> 30 July]&nbsp;1906, Russian artillerymen and military engineers <a href="/w/index.php?title=Sveaborg_Rebellion&amp;action=edit&amp;redlink=1" class="new" title="Sveaborg Rebellion (not yet started)">rose to rebellion</a> in the fortress of <a href="/w/index.php?title=Sveaborg&amp;action=edit&amp;redlink=1" class="new" title="Sveaborg (not yet started)">Sveaborg</a> (later called <a href="/wiki/Suomenlinna" title="Suomenlinna">Suomenlinna</a>), Helsinki. The Finnish Red Guards supported the <a href="/w/index.php?title=Sveaborg_Rebellion&amp;action=edit&amp;redlink=1" class="new" title="Sveaborg Rebellion (not yet started)">Sveaborg Rebellion</a> with a general strike, but the mutiny was quelled by loyal troops and ships of the <a href="/w/index.php?title=Baltic_Fleet&amp;action=edit&amp;redlink=1" class="new" title="Baltic Fleet (not yet started)">Baltic Fleet</a> within 60 hours. </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:262px;">
+        <a href="/wiki/File:Demonstration_Pietarsaari_1905.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Demonstration_Pietarsaari_1905.jpg/260px-Demonstration_Pietarsaari_1905.jpg" decoding="async" width="260" height="202" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Demonstration_Pietarsaari_1905.jpg/390px-Demonstration_Pietarsaari_1905.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Demonstration_Pietarsaari_1905.jpg/520px-Demonstration_Pietarsaari_1905.jpg 2x" data-file-width="1000" data-file-height="775"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Demonstration_Pietarsaari_1905.jpg" class="internal" title="Enlarge"></a>
+         </div>A <a href="/wiki/Demonstration" title="Demonstration">demonstration</a> in 1905 - in <a href="/wiki/Jakobstad" title="Jakobstad">Jakobstad</a>
+        </div>
+       </div>
+      </div> 
+      <h3><span class="mw-headline" id="After_independence">After independence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Finland&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: After independence">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Finland&amp;action=edit&amp;section=4" title="Change section: After independence">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>On 6 December 1917, Finland became independent, which meant that it no longer was a part of Russia. There was a <a href="/wiki/October_Revolution" title="October Revolution">communist revolution</a> in Russia and after 1922 Russia was a part of the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>. There were <a href="/wiki/Communism" title="Communism">communists</a> in Finland too, who tried to create a revolution in Finland This attempt at revolution caused the <a href="/w/index.php?title=Finnish_civil_war&amp;action=edit&amp;redlink=1" class="new" title="Finnish civil war (not yet started)">Finnish civil war</a>. The communists lost the civil war, and Finland did not change its old capitalist system </p>
+      <p><a href="/wiki/Stalin" class="mw-redirect" title="Stalin">Stalin</a>, who was the leader of the Soviet Union, did not like having a <a href="/wiki/Capitalism" title="Capitalism">capitalist</a> country as its neighbour. Stalin wanted Finland to become a <a href="/wiki/Communism" title="Communism">communist</a> state and be a part of the Soviet Union. The leaders of Finland refused: they wanted to stay independent. The Soviet Union sent many troops across the eastern border of Finland to try to make Finland join them, which resulted in the <a href="/wiki/Winter_War" title="Winter War">Winter War</a>. The Soviet Union eventually won, and took most of <a href="/wiki/Karelia" title="Karelia">Karelia</a> and other parts of Finland. </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Finnish_soldiers_during_the_Winter_War.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finnish_soldiers_during_the_Winter_War.jpg/250px-Finnish_soldiers_during_the_Winter_War.jpg" decoding="async" width="250" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finnish_soldiers_during_the_Winter_War.jpg/375px-Finnish_soldiers_during_the_Winter_War.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Finnish_soldiers_during_the_Winter_War.jpg/500px-Finnish_soldiers_during_the_Winter_War.jpg 2x" data-file-width="860" data-file-height="575"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Finnish_soldiers_during_the_Winter_War.jpg" class="internal" title="Enlarge"></a>
+         </div>Finnish soldiers at the time of war
+        </div>
+       </div>
+      </div> 
+      <p><a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a> was the dictator of Germany, and he wanted to invade the Soviet Union. Finland wanted to retrieve the areas that it had lost, so they joined the German invasion, which started with <a href="/wiki/Operation_Barbarossa" title="Operation Barbarossa">Operation Barbarossa</a> in 1941. The Finnish part of the <a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">Second World War</a> is called the <a href="/wiki/Continuation_War" title="Continuation War">Continuation War</a> in Finland. However, Finland was not a <a href="/wiki/Fascism" title="Fascism">fascist</a> or an <a href="/wiki/Antisemitism" title="Antisemitism">antisemitic</a> country. Finns were interested in freedom rather than dictatorship. </p>
+      <p>While Germany was losing the war, Finland had already progressed into the Soviet Union in order to regain the areas lost in the previous peace. Finland wanted to end the war with the Soviet Union, which resulted in peace. Once again Finland had to give up the areas they had conquered. This time, the peace with the Soviet Union made Finland and Germany enemies. Finns fought the Germans, and Germans retreated to <a href="/wiki/Norway" title="Norway">Norway</a>, burning down all of Lapland behind them. This is called the <a href="/w/index.php?title=Lapland_War&amp;action=edit&amp;redlink=1" class="new" title="Lapland War (not yet started)">Lapland War</a>. Finland remained independent. </p>
+      <p>After the war, many factories were built in Finland. Many people moved from farms to cities. At that time, big factories manufactured products like <a href="/wiki/Paper" title="Paper">paper</a> and <a href="/wiki/Steel" title="Steel">steel</a>. More and more people worked in more advanced jobs, like <a href="/wiki/High_technology" class="mw-redirect" title="High technology">high technology</a>. Also, many people went to universities to get a good education. Finland was one of the first countries where most people had <a href="/wiki/Internet" title="Internet">Internet</a> connections and mobile phones. A well-known company that makes <a href="/wiki/Mobile_phone" title="Mobile phone">mobile phones</a>, <a href="/wiki/Nokia" title="Nokia">Nokia</a>, is from Finland. </p>
+      <p>Finland joined the <a href="/wiki/European_Union" title="European Union">European Union</a> in 1995. The Finnish currency was changed to the <a href="/wiki/Euro" title="Euro">euro</a> in 2002. </p> 
+      <h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Finland&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Economy">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Finland&amp;action=edit&amp;section=5" title="Change section: Economy">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Finland has a mixed economy. <a href="/wiki/Free_market" title="Free market">Free market</a> controls most of production and sales of goods, but public sector is involved in services. In 2013, taxes were 44% of gross national product. This is 4th largest in Europe, after Denmark, France and Belgium.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p>
+      <p>In 2014 services were 70% of the gross national product.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
+      <p>The largest company in 2014 was oil refinery <a href="/w/index.php?title=Neste_Oil&amp;action=edit&amp;redlink=1" class="new" title="Neste Oil (not yet started)">Neste Oil</a>. The second largest was <a href="/wiki/Nokia" title="Nokia">Nokia</a>. Two forest industries <a href="/wiki/Stora_Enso" title="Stora Enso">Stora Enso</a> and <a href="/w/index.php?title=UPM-Kymmene&amp;action=edit&amp;redlink=1" class="new" title="UPM-Kymmene (not yet started)">UPM-Kymmene</a>, were numbers three and four. Number five was <a href="/w/index.php?title=Kesko&amp;action=edit&amp;redlink=1" class="new" title="Kesko (not yet started)">Kesko</a> which sells everyday goods in K-supermarkets.<sup id="cite_ref-TE500_10-0" class="reference"><a href="#cite_note-TE500-10">[10]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Elections">Elections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Finland&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Elections">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Finland&amp;action=edit&amp;section=6" title="Change section: Elections">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a href="/wiki/Election" title="Election">Elections</a> are <a href="/wiki/Organize" class="mw-redirect" title="Organize">organized</a> to select 200 <a href="https://simple.wiktionary.org/wiki/member" class="extiw" title="wikt:member">members</a> to the <a href="/wiki/Parliament" title="Parliament">Parliament</a> of Finland. Also selected are the <a href="/wiki/President" title="President">president</a> of Finland, members of <a href="/w/index.php?title=Town_council&amp;action=edit&amp;redlink=1" class="new" title="Town council (not yet started)">town</a> and <a href="/wiki/City_council" title="City council">city councils</a> and Finnish members to the <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a>. The <a href="/wiki/Election" title="Election">elections</a> are <a href="/wiki/Secret" class="mw-redirect" title="Secret">secret</a> and direct. People <a href="/wiki/Vote" class="mw-redirect" title="Vote">vote</a> directly for the person they want to be elected. In presidential elections votes are only cast for a person, not for a <a href="/wiki/Political_party" title="Political party">political party</a>. All the other elections are <a href="/wiki/Proportional_representation" title="Proportional representation">proportional</a>. The system is a combination of voting for individuals and parties.<sup id="cite_ref-CP_11-0" class="reference"><a href="#cite_note-CP-11">[11]</a></sup> The right to vote is universal and equal. In general elections everybody has one vote. </p> 
+      <h2><span class="mw-headline" id="Famous_Finnish_people">Famous Finnish people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Finland&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Famous Finnish people">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Finland&amp;action=edit&amp;section=7" title="Change section: Famous Finnish people">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Alvar_Aalto" class="mw-redirect" title="Alvar Aalto">Alvar Aalto</a>, architect</li> 
+       <li><a href="/w/index.php?title=Markku_Alen&amp;action=edit&amp;redlink=1" class="new" title="Markku Alen (not yet started)">Markku Alen</a>, 1978 World Rally Champion</li> 
+       <li><a href="/w/index.php?title=Valtteri_Bottas&amp;action=edit&amp;redlink=1" class="new" title="Valtteri Bottas (not yet started)">Valtteri Bottas</a>, current Formula One driver</li> 
+       <li><a href="/w/index.php?title=The_Dudesons&amp;action=edit&amp;redlink=1" class="new" title="The Dudesons (not yet started)">The Dudesons</a>, also known as <a href="/w/index.php?title=Duudsonit&amp;action=edit&amp;redlink=1" class="new" title="Duudsonit (not yet started)">Duudsonit</a>, a four-man stunt group with several TV shows and a movie. Close friends with the <a href="/wiki/Jackass" class="mw-redirect" title="Jackass">Jackass</a> crew</li> 
+       <li><a href="/wiki/Akseli_Gallen-Kallela" title="Akseli Gallen-Kallela">Akseli Gallen-Kallela</a>, artist</li> 
+       <li><a href="/w/index.php?title=Marcus_Gronholm&amp;action=edit&amp;redlink=1" class="new" title="Marcus Gronholm (not yet started)">Marcus Gronholm</a>, 2000/02 World Rally Champion</li> 
+       <li><a href="/wiki/Mika_H%C3%A4kkinen" title="Mika Häkkinen">Mika Häkkinen</a>, 1998 and 1999 Formula One World Champion</li> 
+       <li><a href="/wiki/Tarja_Halonen" title="Tarja Halonen">Tarja Halonen</a>, former President of Finland</li> 
+       <li><a href="/w/index.php?title=Tuomas_Holopainen&amp;action=edit&amp;redlink=1" class="new" title="Tuomas Holopainen (not yet started)">Tuomas Holopainen</a>, founder of the internationally famous band <a href="/wiki/Nightwish" title="Nightwish">Nightwish</a></li> 
+       <li><a href="/wiki/Sami_Hyypi%C3%A4" title="Sami Hyypiä">Sami Hyypiä</a>, football coach; 2005 UEFA Champions League winner</li> 
+       <li><a href="/w/index.php?title=Juha_Kankkunen&amp;action=edit&amp;redlink=1" class="new" title="Juha Kankkunen (not yet started)">Juha Kankkunen</a>, 1986/87/91/93 World Rally Champion</li> 
+       <li><a href="/wiki/Urho_Kekkonen" title="Urho Kekkonen">Urho Kekkonen</a>, former President of Finland during the cold war</li> 
+       <li><a href="/wiki/Jari_Kurri" title="Jari Kurri">Jari Kurri</a>, 5 time Stanley Cup Winner, NHL Hall Of Famer</li> 
+       <li><a href="/wiki/Eino_Leino" title="Eino Leino">Eino Leino</a>, poet</li> 
+       <li><a href="/wiki/Elias_L%C3%B6nnrot" title="Elias Lönnrot">Elias Lönnrot</a>, compiler of National epic <a href="/wiki/Kalevala" title="Kalevala">Kalevala</a></li> 
+       <li><a href="/wiki/Jari_Litmanen" title="Jari Litmanen">Jari Litmanen</a>, footballer; 1995 <a href="/wiki/UEFA_Champions_League" title="UEFA Champions League">UEFA Champions League</a> winner</li> 
+       <li><a href="/w/index.php?title=Tommi_Makinen&amp;action=edit&amp;redlink=1" class="new" title="Tommi Makinen (not yet started)">Tommi Makinen</a>, 1996-99 World Rally Champion</li> 
+       <li><a href="/wiki/Carl_Gustaf_Emil_Mannerheim" title="Carl Gustaf Emil Mannerheim">Carl Gustaf Emil Mannerheim</a>, a president and military commander</li> 
+       <li><a href="/w/index.php?title=Karita_Mattila&amp;action=edit&amp;redlink=1" class="new" title="Karita Mattila (not yet started)">Karita Mattila</a>, world famous opera singer, winner of the first Cardiff singer of the world competition</li> 
+       <li><a href="/w/index.php?title=Hannu_Mikkola&amp;action=edit&amp;redlink=1" class="new" title="Hannu Mikkola (not yet started)">Hannu Mikkola</a>, 1983 World Rally Champion</li> 
+       <li><a href="/wiki/Paavo_Nurmi" title="Paavo Nurmi">Paavo Nurmi</a>, famous Olympic long distance runner</li> 
+       <li><a href="/wiki/Kimi_R%C3%A4ikk%C3%B6nen" title="Kimi Räikkönen">Kimi Räikkönen</a>, 2007 Formula One World Champion</li> 
+       <li><a href="/wiki/Keke_Rosberg" title="Keke Rosberg">Keke Rosberg</a>, 1982 Formula One World Champion</li> 
+       <li><a href="/w/index.php?title=Timo_Salonen&amp;action=edit&amp;redlink=1" class="new" title="Timo Salonen (not yet started)">Timo Salonen</a>, 1985 World Rally Champion</li> 
+       <li><a href="/w/index.php?title=Timo_Sarpaneva&amp;action=edit&amp;redlink=1" class="new" title="Timo Sarpaneva (not yet started)">Timo Sarpaneva</a>, famous designer mainly in glass</li> 
+       <li><a href="/wiki/Teemu_Selanne" class="mw-redirect" title="Teemu Selanne">Teemu Selanne</a>, 2007 Stanley Cup Winner</li> 
+       <li><a href="/wiki/Jean_Sibelius" title="Jean Sibelius">Jean Sibelius</a>, the most important Finnish composer</li> 
+       <li><a href="/wiki/Lauri_T%C3%B6rni" title="Lauri Törni">Lauri Törni</a>, later known as Larry Thorne, a winner of the <a href="/w/index.php?title=Mannerheim_Cross&amp;action=edit&amp;redlink=1" class="new" title="Mannerheim Cross (not yet started)">Mannerheim Cross</a> during the <a href="/wiki/Continuation_War" title="Continuation War">Continuation War</a></li> 
+       <li><a href="/wiki/Linus_Torvalds" title="Linus Torvalds">Linus Torvalds</a>, the creator of <a href="/wiki/Linux" title="Linux">Linux</a></li> 
+       <li><a href="/wiki/Tarja_Turunen" title="Tarja Turunen">Tarja Turunen</a>, former member of the internationally famous band <a href="/wiki/Nightwish" title="Nightwish">Nightwish</a></li> 
+       <li><a href="/wiki/Ville_Valo" title="Ville Valo">Ville Valo</a>, Lead Singer songwriter of <a href="/w/index.php?title=HIM_(Finnish_band)&amp;action=edit&amp;redlink=1" class="new" title="HIM (Finnish band) (not yet started)">HIM</a></li> 
+       <li><a href="/w/index.php?title=Ari_Vatanen&amp;action=edit&amp;redlink=1" class="new" title="Ari Vatanen (not yet started)">Ari Vatanen</a>, 1981 World Rally Champion</li> 
+       <li><a href="/w/index.php?title=Tapio_Wirkkala&amp;action=edit&amp;redlink=1" class="new" title="Tapio Wirkkala (not yet started)">Tapio Wirkkala</a>, designer and artist</li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Finland&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Finland&amp;action=edit&amp;section=8" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-Parliamentary-1"><span class="mw-cite-backlink"><a href="#cite_ref-Parliamentary_1-0">↑</a></span> <span class="reference-text">Formerly a semi-presidential republic, it's now a parliamentary republic according to David Arter, First Chair of Politics at Aberdeen University, who in his "Scandinavian Politics Today" (Manchester University Press, revised 2008), quotes Jaakko Nousiainen in "From semi-presidentialism to parliamentary government" in Scandinavian Political Studies 24 (2) p95–109 as follows: "There are hardly any grounds for the epithet 'semi-presidential'." Arter's own conclusions are only slightly more nuanced: "The adoption of a new constitution on 1 March 2000 meant that Finland was no longer a case of semi-presidential government other than in the minimalist sense of a situation where a popularly elected fixed-term president exists alongside a prime minister and cabinet who are responsible to parliament (Elgie 2004: 317)". According to the Finnish Constitution, the president has no possibility to rule the government without the ministerial approval, and does not have the power to dissolve the parliament under his or her own desire. Finland is actually represented by its prime minister, and not by its president, in the Council of the Heads of State and Government of the European Union. The 2012 constitution reduced the powers of the president even further.</span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.stat.fi/til/vamuu/2017/08/vamuu_2017_08_2017-09-21_tie_001_en.html">"Finland's preliminary population figure 5,509,717 at the end of August"</a>. <i>Tilastokeskus.fi</i>. Statistics Finland<span class="reference-accessdate">. Retrieved <span class="nowrap">24 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Tilastokeskus.fi&amp;rft.atitle=Finland%27s+preliminary+population+figure+5%2C509%2C717+at+the+end+of+August&amp;rft_id=http%3A%2F%2Fwww.stat.fi%2Ftil%2Fvamuu%2F2017%2F08%2Fvamuu_2017_08_2017-09-21_tie_001_en.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AFinland" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://tilastokeskus.fi/til/vaerak/2016/vaerak_2016_2017-03-29_tie_001_en.html">"Finland's population was 5,503,297 at the turn of the year"</a>. <i>Tilastokeskus.fi</i>. Statistics Finland<span class="reference-accessdate">. Retrieved <span class="nowrap">17 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Tilastokeskus.fi&amp;rft.atitle=Finland%27s+population+was+5%2C503%2C297+at+the+turn+of+the+year&amp;rft_id=http%3A%2F%2Ftilastokeskus.fi%2Ftil%2Fvaerak%2F2016%2Fvaerak_2016_2017-03-29_tie_001_en.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AFinland" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-imf3-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf3_4-0">4.0</a></sup> <sup><a href="#cite_ref-imf3_4-1">4.1</a></sup> <sup><a href="#cite_ref-imf3_4-2">4.2</a></sup> <sup><a href="#cite_ref-imf3_4-3">4.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?sy=2018&amp;ey=2018&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;pr1.x=66&amp;pr1.y=12&amp;c=172&amp;s=NGDP_RPCH%2CNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&amp;grp=0&amp;a=">"Report for Selected Countries and Subjects"</a>. IMF. 17 April 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">9 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+for+Selected+Countries+and+Subjects&amp;rft.pub=IMF&amp;rft.date=2018-04-17&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2018%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2018%26ey%3D2018%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26pr1.x%3D66%26pr1.y%3D12%26c%3D172%26s%3DNGDP_RPCH%252CNGDPD%252CPPPGDP%252CNGDPDPC%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AFinland" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-eurogini-5"><span class="mw-cite-backlink"><a href="#cite_ref-eurogini_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di12">"Gini coefficient of equivalised disposable income (source: SILC)"</a>. Eurostat Data Explorer<span class="reference-accessdate">. Retrieved <span class="nowrap">5 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gini+coefficient+of+equivalised+disposable+income+%28source%3A+SILC%29&amp;rft.pub=Eurostat+Data+Explorer&amp;rft_id=http%3A%2F%2Fappsso.eurostat.ec.europa.eu%2Fnui%2Fshow.do%3Fdataset%3Dilc_di12&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AFinland" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-6"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_6-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf">"2015 Human Development Report"</a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">14 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2015+Human+Development+Report&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr_2015_statistical_annex.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AFinland" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-gsi-7"><span class="mw-cite-backlink"><a href="#cite_ref-gsi_7-0">↑</a></span> <span class="reference-text"><cite id="CITEREFBunikowski2016" class="citation web cs1">Bunikowski, Dawid (March 6, 2016). <a rel="nofollow" class="external text" href="https://www.gatestoneinstitute.org/7559/finland-migrant-crisis">"Finland's Immigration Crisis"</a>. Gatestone Institute<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Finland%27s+Immigration+Crisis&amp;rft.pub=Gatestone+Institute&amp;rft.date=2016-03-06&amp;rft.aulast=Bunikowski&amp;rft.aufirst=Dawid&amp;rft_id=https%3A%2F%2Fwww.gatestoneinstitute.org%2F7559%2Ffinland-migrant-crisis&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AFinland" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.stat.fi/tup/suoluk/suoluk_valtiontalous.html">Valtion talous</a> National Statistics</span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.stat.fi/tup/suoluk/suoluk_kansantalous.html">Kansantalous</a> National Statistics</span> </li> 
+         <li id="cite_note-TE500-10"><span class="mw-cite-backlink"><a href="#cite_ref-TE500_10-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.talouselama.fi/uutiset/suuryhtiot-puristivat-vahemmasta-liikevaihdosta-enemman-voittoa-3365520">Talouselämä 500, kymmenen suurinta</a> Talouselämä 27.2.2016</span> </li> 
+         <li id="cite_note-CP-11"><span class="mw-cite-backlink"><a href="#cite_ref-CP_11-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.vaalit.fi/en/index/generalinformation/centralprinciplesofholdingelections.html">"Central Principles of Holding Elections"</a>. <i>Elections website</i>. Ministry of Justice<span class="reference-accessdate">. Retrieved <span class="nowrap">6 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Elections+website&amp;rft.atitle=Central+Principles+of+Holding+Elections&amp;rft_id=http%3A%2F%2Fwww.vaalit.fi%2Fen%2Findex%2Fgeneralinformation%2Fcentralprinciplesofholdingelections.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AFinland" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Finland&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Finland&amp;action=edit&amp;section=9" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://virtual.finland.fi/History">History</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.finlandlive.info">Finland Travel Community - Discussion Forum (English)</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://en.citizendium.org/wiki/Finland">Finland</a> -Citizendium</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/46px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></span> <a href="/wiki/Country" title="Country">Countries</a> and territories of <a href="/wiki/Europe" title="Europe">Europe</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Country" title="Country">Countries</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a> – <a href="/wiki/Andorra" title="Andorra">Andorra</a> – <a href="/wiki/Austria" title="Austria">Austria</a> – <a href="/wiki/Belarus" title="Belarus">Belarus</a> – <a href="/wiki/Belgium" title="Belgium">Belgium</a> – <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a> – <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> – <a href="/wiki/Croatia" title="Croatia">Croatia</a> – <a href="/wiki/Republic_of_Cyprus" title="Republic of Cyprus">Republic of Cyprus</a><sup>1</sup> – <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a> – <a href="/wiki/Denmark" title="Denmark">Denmark</a><sup>2,4</sup> – <a href="/wiki/Estonia" title="Estonia">Estonia</a> – <a class="mw-selflink selflink">Finland</a> – <a href="/wiki/France" title="France">France</a><sup>4</sup> – <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a><sup>1</sup> – <a href="/wiki/Germany" title="Germany">Germany</a> – <a href="/wiki/Greece" title="Greece">Greece</a> – <a href="/wiki/Hungary" title="Hungary">Hungary</a> – <a href="/wiki/Iceland" title="Iceland">Iceland</a> – <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a> – <a href="/wiki/Italy" title="Italy">Italy</a> – <a href="/wiki/Latvia" title="Latvia">Latvia</a> – <a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a> – <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> – <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a> – <a href="/wiki/Malta" title="Malta">Malta</a> – <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a> – <a href="/wiki/Moldova" title="Moldova">Moldova</a> – <a href="/wiki/Monaco" title="Monaco">Monaco</a> – <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> – <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a><sup>4</sup> – <a href="/wiki/Norway" title="Norway">Norway</a><sup>4</sup> – <a href="/wiki/Poland" title="Poland">Poland</a> – <a href="/wiki/Portugal" title="Portugal">Portugal</a><sup>4,6</sup> – <a href="/wiki/Romania" title="Romania">Romania</a> – <a href="/wiki/Russia" title="Russia">Russia</a><sup>1</sup> – <a href="/wiki/San_Marino" title="San Marino">San Marino</a> – <a href="/wiki/Serbia" title="Serbia">Serbia</a> – <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> – <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a> – <a href="/wiki/Spain" title="Spain">Spain</a><sup>4,6</sup> – <a href="/wiki/Sweden" title="Sweden">Sweden</a> – <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> – <a href="/wiki/Turkey" title="Turkey">Turkey</a><sup>1</sup> – <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> – <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><sup>4</sup> – <a href="/wiki/Vatican_City" title="Vatican City">Vatican City</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_dependent_territories" class="mw-redirect" title="List of dependent territories">Dependencies</a></b></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a><sup>1</sup> – <a href="/wiki/Azores" title="Azores">Azores</a><sup>5</sup> – <a href="/wiki/Ceuta" title="Ceuta">Ceuta</a><sup>5, 6</sup> – <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a><sup>5</sup> – <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a><sup>5</sup> – <a href="/wiki/Greenland" title="Greenland">Greenland</a><sup>5,2</sup> – <a href="/wiki/Guernsey" title="Guernsey">Guernsey</a> – <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a> – <a href="/wiki/Jersey" title="Jersey">Jersey</a> – <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a> – <a href="/wiki/Melilla" title="Melilla">Melilla</a><sup>5,6</sup> – <a href="/wiki/Svalbard" title="Svalbard">Svalbard</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/List_of_unrecognized_countries" class="mw-redirect" title="List of unrecognized countries">Other Countries</a></b></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Abkhazia" title="Abkhazia">Abkhazia</a><sup>1,3</sup> – <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a><sup>3</sup> – <a href="/wiki/South_Ossetia" title="South Ossetia">South Ossetia</a><sup>1, 3</sup> – <a href="/wiki/Transnistria" title="Transnistria">Transnistria</a> – <a href="/wiki/Turkish_Republic_of_Northern_Cyprus" class="mw-redirect" title="Turkish Republic of Northern Cyprus">Turkish Republic of Northern Cyprus</a><sup>1,3</sup>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            1. <a href="/wiki/Transcontinental_country" title="Transcontinental country">Transcontinental country</a>/territory that can be considered both Europe and Asia 2. Territory or with territory geographically part of North America 3. Partially recognized. 4. not all dependent territories are listed 5. Territory has some form of self-rule. 6. Territory or with territory geographically part of Africa
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="European_Union_member_and_candidate_countries" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <div id="European_Union_member_and_candidate_countries" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/European_Union" title="European Union">European Union</a> member and candidate countries
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Current members</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Austria" title="Austria">Austria</a>&nbsp;<b>·</b> <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<b>·</b> <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>&nbsp;<b>·</b> <a href="/wiki/Croatia" title="Croatia">Croatia</a>&nbsp;<b>·</b> <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>&nbsp;<b>·</b> <a href="/wiki/Czech_Republic" title="Czech Republic">Czech&nbsp;Republic</a>&nbsp;<b>·</b> <a href="/wiki/Denmark" title="Denmark">Denmark</a>&nbsp;<b>·</b> <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<b>·</b> <a class="mw-selflink selflink">Finland</a>&nbsp;<b>·</b> <a href="/wiki/France" title="France">France</a>&nbsp;<b>·</b> <a href="/wiki/Germany" title="Germany">Germany</a>&nbsp;<b>·</b> <a href="/wiki/Greece" title="Greece">Greece</a>&nbsp;<b>·</b> <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>&nbsp;<b>·</b> <a href="/wiki/Italy" title="Italy">Italy</a>&nbsp;<b>·</b> <a href="/wiki/Latvia" title="Latvia">Latvia</a>&nbsp;<b>·</b> <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<b>·</b> <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>&nbsp;<b>·</b> <a href="/wiki/Malta" title="Malta">Malta</a>&nbsp;<b>·</b> <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>&nbsp;<b>·</b> <a href="/wiki/Poland" title="Poland">Poland</a>&nbsp;<b>·</b> <a href="/wiki/Portugal" title="Portugal">Portugal</a>&nbsp;<b>·</b> <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;<b>·</b> <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>&nbsp;<b>·</b> <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;<b>·</b> <a href="/wiki/Spain" title="Spain">Spain</a>&nbsp;<b>·</b> <a href="/wiki/Sweden" title="Sweden">Sweden</a>
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Flag_of_Europe.svg" class="image"><img alt="Flag of Europe.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/65px-Flag_of_Europe.svg.png" decoding="async" width="65" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/98px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/130px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Candidates</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Iceland" title="Iceland">Iceland</a>&nbsp;<b>·</b> <a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Macedonia</a>&nbsp;<b>·</b> <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>&nbsp;<b>·</b> <a href="/wiki/Serbia" title="Serbia">Serbia</a>&nbsp;<b>·</b> <a href="/wiki/Turkey" title="Turkey">Turkey</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Potential candidates</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/Albania" title="Albania">Albania</a>&nbsp;<b>·</b> <a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a>&nbsp;<b>·</b> <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Former members</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div>
+            <a href="/w/index.php?title=List_of_European_Union_member_states_by_accession&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by accession (not yet started)">by accession</a>&nbsp;<b>·</b> <a href="/w/index.php?title=List_of_European_Union_member_states_by_political_system&amp;action=edit&amp;redlink=1" class="new" title="List of European Union member states by political system (not yet started)">by political system</a>&nbsp;<b>·</b> <a href="/wiki/List_of_European_Union_member_states_by_population" class="mw-redirect" title="List of European Union member states by population">by population</a>&nbsp;<b>·</b> <a href="/w/index.php?title=Economy_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="Economy of the European Union (not yet started)">by GDP</a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/finland" class="extiw" title="commons:finland">finland</a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> <!-- 
+NewPP limit report
+Parsed by mw1277
+Cached time: 20201224170740
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.772 seconds
+Real time usage: 0.929 seconds
+Preprocessor visited node count: 4450/1000000
+Post‐expand include size: 104128/2097152 bytes
+Template argument size: 14934/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 26269/5000000 bytes
+Lua time usage: 0.434/10.000 seconds
+Lua memory usage: 25008838/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  792.426      1 -total
+ 73.06%  578.920      1 Template:Infobox_country
+ 71.45%  566.167      3 Template:Infobox
+ 24.35%  192.993      3 Template:Unbulleted_list
+ 23.07%  182.777      4 Template:Native_name
+ 21.64%  171.505      4 Template:Lang
+ 19.07%  151.106      1 Template:Reflist
+ 17.24%  136.590      7 Template:Cite_web
+ 10.39%   82.326      3 Template:ISO_3166_code
+  5.74%   45.512      1 Template:Infobox_country/imagetable
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:292-0!canonical and timestamp 20201224170739 and revision id 7225869. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Finland&amp;oldid=7225869">https://simple.wikipedia.org/w/index.php?title=Finland&amp;oldid=7225869</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Finland" title="Category:Finland">Finland</a></li>
+       <li><a href="/wiki/Category:European_Union_member_states" title="Category:European Union member states">European Union member states</a></li>
+       <li><a href="/wiki/Category:Nordic_countries" title="Category:Nordic countries">Nordic countries</a></li>
+       <li><a href="/wiki/Category:1917_establishments_in_Europe" title="Category:1917 establishments in Europe">1917 establishments in Europe</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_containing_Finnish-language_text" title="Category:Articles containing Finnish-language text">Articles containing Finnish-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Swedish-language_text" title="Category:Articles containing Swedish-language text">Articles containing Swedish-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_explicitly_cited_English-language_text" title="Category:Articles containing explicitly cited English-language text">Articles containing explicitly cited English-language text</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Finland" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Finland" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Finland" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Finland" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Finland">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Finland&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Finland&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Finland&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Finland" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Finland" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Finland&amp;oldid=7225869" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Finland&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Finland&amp;id=7225869&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q33" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Finland">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Finland&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Finland&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Finland" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Finlandia" title="Finlandia – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li>
+       <li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8D%D0%BD%D0%B4" title="Финлэнд – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li>
+       <li class="interlanguage-link interwiki-ady"><a href="https://ady.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4" title="Финланд – Adyghe" lang="ady" hreflang="ady" class="interlanguage-link-target">Адыгабзэ</a></li>
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Finland" title="Finland – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ak"><a href="https://ak.wikipedia.org/wiki/Finland" title="Finland – Akan" lang="ak" hreflang="ak" class="interlanguage-link-target">Akan</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Finnland" title="Finnland – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8D%8A%E1%8A%95%E1%88%8B%E1%8A%95%E1%8B%B5" title="ፊንላንድ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Suom%C3%A2" title="Suomâ – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Finnland" title="Finnland – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ab"><a href="https://ab.wikipedia.org/wiki/%D0%A1%D1%83%D0%BE%D0%BC%D0%B8" title="Суоми – Abkhazian" lang="ab" hreflang="ab" class="interlanguage-link-target">Аҧсшәа</a></li>
+       <li class="interlanguage-link interwiki-ar badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://ar.wikipedia.org/wiki/%D9%81%D9%86%D9%84%D9%86%D8%AF%D8%A7" title="فنلندا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Finlandia" title="Finlandia – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li>
+       <li class="interlanguage-link interwiki-arc"><a href="https://arc.wikipedia.org/wiki/%DC%A6%DC%9D%DC%A2%DC%A0%DC%A2%DC%95" title="ܦܝܢܠܢܕ – Aramaic" lang="arc" hreflang="arc" class="interlanguage-link-target">ܐܪܡܝܐ</a></li>
+       <li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D5%96%D5%AB%D5%B6%D5%AC%D5%A1%D5%B6%D5%BF%D5%A1" title="Ֆինլանտա – Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li>
+       <li class="interlanguage-link interwiki-roa-rup"><a href="https://roa-rup.wikipedia.org/wiki/Finlanda" title="Finlanda – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a></li>
+       <li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Finlanda" title="Finlanda – Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li>
+       <li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A6%B2%E0%A7%87%E0%A6%A3%E0%A7%8D%E0%A6%A1" title="ফিনলেণ্ড – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Finlandia" title="Finlandia – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-atj"><a href="https://atj.wikipedia.org/wiki/Finlande" title="Finlande – Atikamekw" lang="atj" hreflang="atj" class="interlanguage-link-target">Atikamekw</a></li>
+       <li class="interlanguage-link interwiki-awa"><a href="https://awa.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BC%E0%A4%BF%E0%A4%A8%E0%A4%B2%E0%A5%88%E0%A4%A3%E0%A5%8D%E0%A4%A1" title="फ़िनलैण्ड – Awadhi" lang="awa" hreflang="awa" class="interlanguage-link-target">अवधी</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/H%C4%A9l%C3%A1ndia" title="Hĩlándia – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li>
+       <li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Phini_suyu" title="Phini suyu – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Finlandiya" title="Finlandiya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF" title="فنلاند – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Finlandia" title="Finlandia – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Finland" title="Finland – Bambara" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1" title="ফিনল্যান্ড – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Pinglandia" title="Pinglandia – Banjar" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Hun-l%C3%A2n" title="Hun-lân – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-map-bms"><a href="https://map-bms.wikipedia.org/wiki/Finlandia" title="Finlandia – Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target">Basa Banyumasan</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A4%D1%96%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%8B%D1%8F" title="Фінляндыя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A4%D1%96%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%8B%D1%8F" title="Фінляндыя – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BF%E0%A4%A8%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1" title="फिनलैंड – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Finlandya" title="Finlandya – Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li>
+       <li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Finland" title="Finland – Bislama" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" title="Финландия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Finnland" title="Finnland – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>
+       <li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%A7%E0%BE%A5%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%A3%E0%BD%93%E0%BC%8D" title="ཧྥིན་ལན། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Finska" title="Finska – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Finland" title="Finland – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-bxr"><a href="https://bxr.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4" title="Финланд – Russia Buriat" lang="bxr" hreflang="bxr" class="interlanguage-link-target">Буряад</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Finl%C3%A0ndia" title="Finlàndia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8" title="Финлянди – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Finland" title="Finland – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Finsko" title="Finsko – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-ch"><a href="https://ch.wikipedia.org/wiki/Finlandia" title="Finlandia – Chamorro" lang="ch" hreflang="ch" class="interlanguage-link-target">Chamoru</a></li>
+       <li class="interlanguage-link interwiki-cbk-zam"><a href="https://cbk-zam.wikipedia.org/wiki/Finlandia" title="Finlandia – Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target">Chavacano de Zamboanga</a></li>
+       <li class="interlanguage-link interwiki-ny"><a href="https://ny.wikipedia.org/wiki/Finland" title="Finland – Nyanja" lang="ny" hreflang="ny" class="interlanguage-link-target">Chi-Chewa</a></li>
+       <li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Finland" title="Finland – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li>
+       <li class="interlanguage-link interwiki-tum"><a href="https://tum.wikipedia.org/wiki/Finland" title="Finland – Tumbuka" lang="tum" hreflang="tum" class="interlanguage-link-target">ChiTumbuka</a></li>
+       <li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Finlandia" title="Finlandia – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Y_Ffindir" title="Y Ffindir – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-da badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://da.wikipedia.org/wiki/Finland" title="Finland – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-ary"><a href="https://ary.wikipedia.org/wiki/%D9%81%D9%8A%D9%86%D9%84%D8%A7%D9%86%D8%AF%D8%A7" title="فينلاندا – Moroccan Arabic" lang="ary" hreflang="ary" class="interlanguage-link-target">الدارجة</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Suopma" title="Suopma – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-pdc"><a href="https://pdc.wikipedia.org/wiki/Finland" title="Finland – Pennsylvania German" lang="pdc" hreflang="pdc" class="interlanguage-link-target">Deitsch</a></li>
+       <li class="interlanguage-link interwiki-de badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://de.wikipedia.org/wiki/Finnland" title="Finnland – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%8A%DE%A8%DE%82%DE%B0%DE%8D%DE%AD%DE%82%DE%B0%DE%91%DE%AA" title="ފިންލޭންޑު – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/Nahodits%CA%BC%C7%AB%CA%BC%C5%82%C3%A1n%C3%AD_Dine%CA%BC%C3%A9_Bik%C3%A9yah" title="Nahoditsʼǫʼłání Dineʼé Bikéyah – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Finska" title="Finska – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-dty"><a href="https://dty.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BF%E0%A4%A8%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1" title="फिनल्याण्ड – Doteli" lang="dty" hreflang="dty" class="interlanguage-link-target">डोटेली</a></li>
+       <li class="interlanguage-link interwiki-dz"><a href="https://dz.wikipedia.org/wiki/%E0%BD%95%E0%BD%B2%E0%BD%93%E0%BC%8B%E0%BD%A3%E0%BD%BA%E0%BD%93%E0%BD%8C%E0%BC%8B" title="ཕིན་ལེནཌ་ – Dzongkha" lang="dz" hreflang="dz" class="interlanguage-link-target">ཇོང་ཁ</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Soome" title="Soome – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A6%CE%B9%CE%BD%CE%BB%CE%B1%CE%BD%CE%B4%CE%AF%CE%B1" title="Φινλανδία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/Finl%C3%A0ndia" title="Finlàndia – Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Finland" title="Finland – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-myv"><a href="https://myv.wikipedia.org/wiki/%D0%A1%D1%83%D0%BE%D0%BC%D0%B8_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Суоми Мастор – Erzya" lang="myv" hreflang="myv" class="interlanguage-link-target">Эрзянь</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Finlandia" title="Finlandia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Finnlando" title="Finnlando – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Finl%C3%A1ndia" title="Finlándia – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Finlandia" title="Finlandia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Finland" title="Finland – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF" title="فنلاند – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Finland" title="Finland – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li>
+       <li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Finnland" title="Finnland – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Finlande" title="Finlande – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Finl%C3%A2n" title="Finlân – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ff"><a href="https://ff.wikipedia.org/wiki/Finland" title="Finland – Fulah" lang="ff" hreflang="ff" class="interlanguage-link-target">Fulfulde</a></li>
+       <li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Finlandie" title="Finlandie – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/An_Fhionlainn" title="An Fhionlainn – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Finnlynn" title="Finnlynn – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li>
+       <li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Finlandiya" title="Finlandiya – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Su%C3%B2maidh" title="Suòmaidh – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Finlandia" title="Finlandia – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-inh"><a href="https://inh.wikipedia.org/wiki/%D0%A1%D1%83%D0%BE%D0%BC%D0%B8%D0%B9_%D0%BC%D0%BE%D1%85%D0%BA" title="Суомий мохк – Ingush" lang="inh" hreflang="inh" class="interlanguage-link-target">ГӀалгӀай</a></li>
+       <li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E8%8A%AC%E8%98%AD" title="芬蘭 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li>
+       <li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Binirandi" title="Binirandi – Kikuyu" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li>
+       <li class="interlanguage-link interwiki-glk"><a href="https://glk.wikipedia.org/wiki/%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF" title="فنلاند – Gilaki" lang="glk" hreflang="glk" class="interlanguage-link-target">گیلکی</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%AB%E0%AA%BF%E0%AA%A8%E0%AA%B2%E0%AB%85%E0%AA%A8%E0%AB%8D%E0%AA%A1" title="ફિનલૅન્ડ – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-got"><a href="https://got.wikipedia.org/wiki/%F0%90%8D%86%F0%90%8C%B9%F0%90%8C%BD%F0%90%8C%BD%F0%90%8C%B0%F0%90%8C%B7%F0%90%8C%B0%F0%90%8C%B9%F0%90%8C%B8%F0%90%8C%B9" title="𐍆𐌹𐌽𐌽𐌰𐌷𐌰𐌹𐌸𐌹 – Gothic" lang="got" hreflang="got" class="interlanguage-link-target">𐌲𐌿𐍄𐌹𐍃𐌺</a></li>
+       <li class="interlanguage-link interwiki-gom"><a href="https://gom.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BF%E0%A4%A8%E0%A4%B2%E0%A5%85%E0%A4%82%E0%A4%A1" title="फिनलॅंड – Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target">गोंयची कोंकणी / Gõychi Konknni</a></li>
+       <li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/F%C3%BBn-l%C3%A0n" title="Fûn-làn – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD" title="Финляндин Орн – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%95%80%EB%9E%80%EB%93%9C" title="핀란드 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Finland" title="Finland – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Pinilana" title="Pinilana – Hawaiian" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%96%D5%AB%D5%B6%D5%AC%D5%A1%D5%B6%D5%A4%D5%AB%D5%A1" title="Ֆինլանդիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BC%E0%A4%BF%E0%A4%A8%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1" title="फ़िनलैंड – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Finska" title="Finska – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Finska" title="Finska – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-gor"><a href="https://gor.wikipedia.org/wiki/Finlandia" title="Finlandia – Gorontalo" lang="gor" hreflang="gor" class="interlanguage-link-target">Bahasa Hulontalo</a></li>
+       <li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Finlando" title="Finlando – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li>
+       <li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Finland" title="Finland – Igbo" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li>
+       <li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Pinlandia" title="Pinlandia – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li>
+       <li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1" title="ফিনল্যান্ড – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Finlandia" title="Finlandia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Finlandia" title="Finlandia – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Finland" title="Finland – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-iu"><a href="https://iu.wikipedia.org/wiki/%E1%90%83%E1%93%90%E1%93%9A%E1%93%90%E1%91%A6" title="ᐃᓐᓚᓐᑦ – Inuktitut" lang="iu" hreflang="iu" class="interlanguage-link-target">ᐃᓄᒃᑎᑐᑦ/inuktitut</a></li>
+       <li class="interlanguage-link interwiki-ik"><a href="https://ik.wikipedia.org/wiki/Finland" title="Finland – Inupiaq" lang="ik" hreflang="ik" class="interlanguage-link-target">Iñupiak</a></li>
+       <li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8" title="Финлянди – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li>
+       <li class="interlanguage-link interwiki-xh"><a href="https://xh.wikipedia.org/wiki/IFinland" title="IFinland – Xhosa" lang="xh" hreflang="xh" class="interlanguage-link-target">IsiXhosa</a></li>
+       <li class="interlanguage-link interwiki-zu"><a href="https://zu.wikipedia.org/wiki/IFinlandi" title="IFinlandi – Zulu" lang="zu" hreflang="zu" class="interlanguage-link-target">IsiZulu</a></li>
+       <li class="interlanguage-link interwiki-is badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://is.wikipedia.org/wiki/Finnland" title="Finnland – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Finlandia" title="Finlandia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%A0%D7%9C%D7%A0%D7%93" title="פינלנד – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Finlan" title="Finlan – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/F%C9%9B%C9%9Bland%C9%A9" title="Fɛɛlandɩ – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
+       <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Finlandi" title="Finlandi – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AB%E0%B2%BF%E0%B2%A8%E0%B3%8D%E2%80%8D%E0%B2%B2%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%82%E0%B2%A1%E0%B3%8D" title="ಫಿನ್‍ಲ್ಯಾಂಡ್ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Pinlandya" title="Pinlandya – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%98%E1%83%9C%E1%83%94%E1%83%97%E1%83%98" title="ფინეთი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-ks"><a href="https://ks.wikipedia.org/wiki/%D9%81%D9%86%D9%86%D8%B4" title="فننش – Kashmiri" lang="ks" hreflang="ks" class="interlanguage-link-target">कॉशुर / کٲشُر</a></li>
+       <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Fi%C5%84sk%C3%B4" title="Fińskô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Pow_Finn" title="Pow Finn – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li>
+       <li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Finilande" title="Finilande – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li>
+       <li class="interlanguage-link interwiki-rn"><a href="https://rn.wikipedia.org/wiki/Finilande" title="Finilande – Rundi" lang="rn" hreflang="rn" class="interlanguage-link-target">Kirundi</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Ufini" title="Ufini – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-kv"><a href="https://kv.wikipedia.org/wiki/%D0%A1%D1%83%D0%BE%D0%BC%D0%B8_%D0%9C%D1%83" title="Суоми Му – Komi" lang="kv" hreflang="kv" class="interlanguage-link-target">Коми</a></li>
+       <li class="interlanguage-link interwiki-kg"><a href="https://kg.wikipedia.org/wiki/Finlandi" title="Finlandi – Kongo" lang="kg" hreflang="kg" class="interlanguage-link-target">Kongo</a></li>
+       <li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Suomia" title="Suomia – Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li>
+       <li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Fenlann" title="Fenlann – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>
+       <li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Fenlann" title="Fenlann – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li>
+       <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/F%C3%AEnlenda" title="Fînlenda – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8" title="Финлянди – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
+       <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Finlandia" title="Finlandia – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
+       <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Finlandia" title="Finlandia – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lbe"><a href="https://lbe.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8" title="Пинлянди – Lak" lang="lbe" hreflang="lbe" class="interlanguage-link-target">Лакку</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%9F%E0%BA%B4%E0%BA%99%E0%BB%81%E0%BA%A5%E0%BA%99%E0%BA%94%E0%BB%8C" title="ປະເທດຟິນແລນດ໌ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
+       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF" title="فنلاند – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
+       <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Suomeja" title="Suomeja – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Finnia" title="Finnia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Somija" title="Somija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Finnland" title="Finnland – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Lezghian" lang="lez" hreflang="lez" class="interlanguage-link-target">Лезги</a></li>
+       <li class="interlanguage-link interwiki-lt badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://lt.wikipedia.org/wiki/Suomija" title="Suomija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lij"><a href="https://lij.wikipedia.org/wiki/Finlandia" title="Finlandia – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a></li>
+       <li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Finland" title="Finland – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li>
+       <li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Finilanda" title="Finilanda – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Suomi" title="Suomi – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Suomi" title="Suomi – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li>
+       <li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/gugdrsu,omi" title="gugdrsu,omi – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li>
+       <li class="interlanguage-link interwiki-lg"><a href="https://lg.wikipedia.org/wiki/Finilandi" title="Finilandi – Ganda" lang="lg" hreflang="lg" class="interlanguage-link-target">Luganda</a></li>
+       <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Finlandia" title="Finlandia – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Finnorsz%C3%A1g" title="Finnország – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BF%E0%A4%A8%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A1" title="फिनल्यान्ड – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D1%81%D0%BA%D0%B0" title="Финска – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Finlandy" title="Finlandy – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B4%BF%E0%B5%BB%E0%B4%B2%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%8D" title="ഫിൻലാന്റ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Finlandja" title="Finlandja – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
+       <li class="interlanguage-link interwiki-mi"><a href="https://mi.wikipedia.org/wiki/Whinirana" title="Whinirana – Maori" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BF%E0%A4%A8%E0%A4%B2%E0%A4%82%E0%A4%A1" title="फिनलंड – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A4%E1%83%98%E1%83%9C%E1%83%94%E1%83%97%E1%83%98" title="ფინეთი – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%81%D9%8A%D9%86%D9%84%D8%A7%D9%86%D8%AF%D8%A7" title="فينلاندا – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li>
+       <li class="interlanguage-link interwiki-mnw"><a href="https://mnw.wikipedia.org/wiki/%E1%80%9D%E1%80%BE%E1%80%B1%E1%80%94%E1%80%BA%E1%80%9C%E1%80%AC%E1%80%94%E1%80%BA" title="ဝှေန်လာန် – Mon" lang="mnw" hreflang="mnw" class="interlanguage-link-target">ဘာသာ မန်</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF" title="فنلاند – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Finland" title="Finland – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/Finlandia" title="Finlandia – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Minangkabau</a></li>
+       <li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/H%C5%ADng-l%C3%A0ng" title="Hŭng-làng – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Finl%C3%A1ndia" title="Finlándia – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-mdf"><a href="https://mdf.wikipedia.org/wiki/%D0%A1%D1%83%D0%BE%D0%BC%D0%B8_%D0%BC%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Суоми мастор – Moksha" lang="mdf" hreflang="mdf" class="interlanguage-link-target">Мокшень</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4" title="Финланд – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%96%E1%80%84%E1%80%BA%E1%80%9C%E1%80%94%E1%80%BA%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ဖင်လန်နိုင်ငံ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Finlandia" title="Finlandia – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li>
+       <li class="interlanguage-link interwiki-na"><a href="https://na.wikipedia.org/wiki/Pinrand" title="Pinrand – Nauru" lang="na" hreflang="na" class="interlanguage-link-target">Dorerin Naoero</a></li>
+       <li class="interlanguage-link interwiki-fj"><a href="https://fj.wikipedia.org/wiki/Finiladi" title="Finiladi – Fijian" lang="fj" hreflang="fj" class="interlanguage-link-target">Na Vosa Vakaviti</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Finland" title="Finland – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Finlaand" title="Finlaand – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li>
+       <li class="interlanguage-link interwiki-cr"><a href="https://cr.wikipedia.org/wiki/%E1%90%83%E1%93%87%E1%90%A3%E1%90%9F" title="ᐃᓇᐣᐟ – Cree" lang="cr" hreflang="cr" class="interlanguage-link-target">Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BF%E0%A4%A8%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A1" title="फिनल्यान्ड – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BF%E0%A4%A8%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A1" title="फिनल्यान्ड – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89" title="フィンランド – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Finlandia" title="Finlandia – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-nqo"><a href="https://nqo.wikipedia.org/wiki/%DF%9D%DF%8D%DF%B2%DF%9F%DF%8A%DF%B2%DF%98" title="ߝߍ߲ߟߊ߲ߘ – N’Ko" lang="nqo" hreflang="nqo" class="interlanguage-link-target">ߒߞߏ</a></li>
+       <li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8" title="Финлянди – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li>
+       <li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Finl%C3%B6nj" title="Finlönj – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li>
+       <li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Finland" title="Finland – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Finland" title="Finland – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Finland" title="Finland – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/F%C3%AEnlande" title="Fînlande – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Finlande" title="Finlande – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Finl%C3%A0ndia" title="Finlàndia – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D0%B9" title="Финляндий – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%AB%E0%AC%BF%E0%AC%A8%E0%AC%B2%E0%AD%8D%E0%AD%9F%E0%AC%BE%E0%AC%A3%E0%AD%8D%E0%AC%A1" title="ଫିନଲ୍ୟାଣ୍ଡ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Fiinlaandi" title="Fiinlaandi – Oromo" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Finlandiya" title="Finlandiya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AB%E0%A8%BC%E0%A8%BF%E0%A8%A8%E0%A8%B2%E0%A9%88%E0%A8%82%E0%A8%A1" title="ਫ਼ਿਨਲੈਂਡ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pi"><a href="https://pi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1" title="फिन्लैंड – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">पालि</a></li>
+       <li class="interlanguage-link interwiki-pfl"><a href="https://pfl.wikipedia.org/wiki/Finnland" title="Finnland – Palatine German" lang="pfl" hreflang="pfl" class="interlanguage-link-target">Pälzisch</a></li>
+       <li class="interlanguage-link interwiki-pag"><a href="https://pag.wikipedia.org/wiki/Finlande" title="Finlande – Pangasinan" lang="pag" hreflang="pag" class="interlanguage-link-target">Pangasinan</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%81%D9%86%D9%84%DB%8C%D9%86%DA%88" title="فنلینڈ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Finlandia" title="Finlandia – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li>
+       <li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%81%DB%8C%D9%86%D9%84%D9%86%DA%89" title="فینلنډ – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Finlan" title="Finlan – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%A1%D1%83%D0%BE%D0%BC%D0%B8" title="Суоми – Komi-Permyak" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем коми</a></li>
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%91%E1%9F%81%E1%9E%9F%E1%9E%A0%E1%9F%92%E1%9E%9C%E1%9E%B6%E1%9F%86%E1%9E%84%E1%9E%A1%E1%9E%84%E1%9F%8B" title="ប្រទេសហ្វាំងឡង់ – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Finlinde" title="Finlinde – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Finlandia" title="Finlandia – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Pinlan" title="Pinlan – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Finnland" title="Finnland – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Finlandia" title="Finlandia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pnt"><a href="https://pnt.wikipedia.org/wiki/%CE%A6%CE%B9%CE%BD%CE%BB%CE%B1%CE%BD%CE%B4%CE%AF%CE%B1" title="Φινλανδία – Pontic" lang="pnt" hreflang="pnt" class="interlanguage-link-target">Ποντιακά</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Finl%C3%A2ndia" title="Finlândia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Finlyandiya" title="Finlyandiya – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li>
+       <li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Finlandiya" title="Finlandiya – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li>
+       <li class="interlanguage-link interwiki-ty"><a href="https://ty.wikipedia.org/wiki/Finerati" title="Finerati – Tahitian" lang="ty" hreflang="ty" class="interlanguage-link-target">Reo tahiti</a></li>
+       <li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Finnland" title="Finnland – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Finlanda" title="Finlanda – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Finland" title="Finland – Vlax Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani čhib</a></li>
+       <li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Finlanda" title="Finlanda – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Phinsuyu" title="Phinsuyu – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%A4%D1%96%D0%BD%D1%8C%D1%81%D0%BA%D0%BE" title="Фіньско – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Finland" title="Finland – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Finelani" title="Finelani – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1" title="फिन्लैंड – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/F%C3%ABl%C3%A2nde" title="Fëlânde – Sango" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li>
+       <li class="interlanguage-link interwiki-sat"><a href="https://sat.wikipedia.org/wiki/%E1%B1%AF%E1%B1%B7%E1%B1%A4%E1%B1%B1%E1%B1%9E%E1%B1%9F%E1%B1%B8%E1%B1%B0" title="ᱯᱷᱤᱱᱞᱟᱸᱰ – Santali" lang="sat" hreflang="sat" class="interlanguage-link-target">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+       <li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Finl%C3%A0ndia" title="Finlàndia – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Finland" title="Finland – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Finlound" title="Finlound – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li>
+       <li class="interlanguage-link interwiki-st"><a href="https://st.wikipedia.org/wiki/Finland" title="Finland – Southern Sotho" lang="st" hreflang="st" class="interlanguage-link-target">Sesotho</a></li>
+       <li class="interlanguage-link interwiki-nso"><a href="https://nso.wikipedia.org/wiki/Finland" title="Finland – Northern Sotho" lang="nso" hreflang="nso" class="interlanguage-link-target">Sesotho sa Leboa</a></li>
+       <li class="interlanguage-link interwiki-tn"><a href="https://tn.wikipedia.org/wiki/Finland" title="Finland – Tswana" lang="tn" hreflang="tn" class="interlanguage-link-target">Setswana</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Finlanda" title="Finlanda – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Finlandia" title="Finlandia – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%86%E0%B7%92%E0%B6%B1%E0%B7%8A%E0%B6%BD%E0%B6%B1%E0%B7%8A%E0%B6%AD%E0%B6%BA" title="ෆින්ලන්තය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%81%D9%86%D9%84%D9%8A%D9%86%DA%8A" title="فنلينڊ – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ss"><a href="https://ss.wikipedia.org/wiki/IFini" title="IFini – Swati" lang="ss" hreflang="ss" class="interlanguage-link-target">SiSwati</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/F%C3%ADnsko" title="Fínsko – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Finska" title="Finska – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%A1%D0%BE%D1%83%D0%BC%D1%8C" title="Соумь – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+       <li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Finlandyjo" title="Finlandyjo – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li>
+       <li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Finland" title="Finland – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%81%DB%8C%D9%86%D9%84%D8%A7%D9%86%D8%AF" title="فینلاند – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Finkondre" title="Finkondre – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D1%81%D0%BA%D0%B0" title="Финска – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Finska" title="Finska – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Finlandia" title="Finlandia – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Suomi" title="Suomi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Finland" title="Finland – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Pinlandiya" title="Pinlandiya – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%B2%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81" title="பின்லாந்து – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Finland" title="Finland – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-roa-tara"><a href="https://roa-tara.wikipedia.org/wiki/Finlandie" title="Finlandie – Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target">Tarandíne</a></li>
+       <li class="interlanguage-link interwiki-tt badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://tt.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-shn"><a href="https://shn.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%B0%E1%80%84%E1%80%BA%E1%80%B8%E1%81%BE%E1%80%AD%E1%81%BC%E1%80%BA%E1%82%87%E1%80%9C%E1%82%85%E1%81%BC%E1%80%BA%E1%82%87" title="မိူင်းၾိၼ်ႇလႅၼ်ႇ – Shan" lang="shn" hreflang="shn" class="interlanguage-link-target">ၽႃႇသႃႇတႆး </a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AB%E0%B0%BF%E0%B0%A8%E0%B1%8D%E2%80%8C%E0%B0%B2%E0%B0%BE%E0%B0%82%E0%B0%A1%E0%B1%8D" title="ఫిన్‌లాండ్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Finl%C3%A1ndia" title="Finlándia – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li>
+       <li class="interlanguage-link interwiki-th badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9F%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C" title="ประเทศฟินแลนด์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-ti"><a href="https://ti.wikipedia.org/wiki/%E1%8D%8A%E1%8A%95%E1%88%8B%E1%8A%95%E1%8B%B5" title="ፊንላንድ – Tigrinya" lang="ti" hreflang="ti" class="interlanguage-link-target">ትግርኛ</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4" title="Финланд – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-to"><a href="https://to.wikipedia.org/wiki/Finilani" title="Finilani – Tongan" lang="to" hreflang="to" class="interlanguage-link-target">Lea faka-Tonga</a></li>
+       <li class="interlanguage-link interwiki-chr"><a href="https://chr.wikipedia.org/wiki/%E1%8F%AB%E1%8F%82%E1%8E%A6%E1%8F%99%E1%8E%AF" title="ᏫᏂᎦᏙᎯ – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li>
+       <li class="interlanguage-link interwiki-chy"><a href="https://chy.wikipedia.org/wiki/Finland" title="Finland – Cheyenne" lang="chy" hreflang="chy" class="interlanguage-link-target">Tsetsêhestâhese</a></li>
+       <li class="interlanguage-link interwiki-ve"><a href="https://ve.wikipedia.org/wiki/Finland" title="Finland – Venda" lang="ve" hreflang="ve" class="interlanguage-link-target">Tshivenda</a></li>
+       <li class="interlanguage-link interwiki-tcy"><a href="https://tcy.wikipedia.org/wiki/%E0%B2%AB%E0%B2%BF%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%BF%E0%B2%B6%E0%B3%8D" title="ಫಿನ್ನಿಶ್ – Tulu" lang="tcy" hreflang="tcy" class="interlanguage-link-target">ತುಳು</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Finlandiya" title="Finlandiya – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Finlandi%C3%BDa" title="Finlandiýa – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li>
+       <li class="interlanguage-link interwiki-tw"><a href="https://tw.wikipedia.org/wiki/Finland" title="Finland – Twi" lang="tw" hreflang="tw" class="interlanguage-link-target">Twi</a></li>
+       <li class="interlanguage-link interwiki-tyv"><a href="https://tyv.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Tuvinian" lang="tyv" hreflang="tyv" class="interlanguage-link-target">Тыва дыл</a></li>
+       <li class="interlanguage-link interwiki-din"><a href="https://din.wikipedia.org/wiki/Pinl%C9%9Bn" title="Pinlɛn – Dinka" lang="din" hreflang="din" class="interlanguage-link-target">Thuɔŋjäŋ</a></li>
+       <li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li>
+       <li class="interlanguage-link interwiki-bug"><a href="https://bug.wikipedia.org/wiki/Finland" title="Finland – Buginese" lang="bug" hreflang="bug" class="interlanguage-link-target">ᨅᨔ ᨕᨘᨁᨗ</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D1%96%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%96%D1%8F" title="Фінляндія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%81%D9%86_%D9%84%DB%8C%D9%86%DA%88" title="فن لینڈ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D9%81%D9%89%D9%86%D9%84%D8%A7%D9%86%D8%AF%D9%89%D9%8A%DB%95" title="فىنلاندىيە – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Fwnhlanz" title="Fwnhlanz – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Finl%C3%A0ndia" title="Finlàndia – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Suomenma" title="Suomenma – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ph%E1%BA%A7n_Lan" title="Phần Lan – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Suomiy%C3%A4n" title="Suomiyän – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Soom%C3%B5" title="Soomõ – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Finlande" title="Finlande – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh-classical badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://zh-classical.wikipedia.org/wiki/%E8%8A%AC%E8%98%AD" title="芬蘭 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Finland" title="Finland – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Finlandya" title="Finlandya – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Finlaand" title="Finlaand – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E8%8A%AC%E5%85%B0" title="芬兰 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-ts"><a href="https://ts.wikipedia.org/wiki/Finland" title="Finland – Tsonga" lang="ts" hreflang="ts" class="interlanguage-link-target">Xitsonga</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A4%D7%99%D7%A0%D7%9C%D7%90%D7%A0%D7%93" title="פינלאנד – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/F%C3%ADnl%C3%A1nd%C3%AC" title="Fínlándì – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E8%8A%AC%E8%98%AD" title="芬蘭 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Finlanda" title="Finlanda – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>
+       <li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Finland" title="Finland – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li>
+       <li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Suom%C4%97j%C4%97" title="Suomėjė – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8A%AC%E5%85%B0" title="芬兰 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+       <li class="interlanguage-link interwiki-mad"><a href="https://mad.wikipedia.org/wiki/Finlandia" title="Finlandia – Madurese" lang="mad" hreflang="mad" class="interlanguage-link-target">Madhurâ</a></li>
+       <li class="interlanguage-link interwiki-skr"><a href="https://skr.wikipedia.org/wiki/%D9%81%D9%86%D9%84%DB%8C%D9%86%DA%88" title="فنلینڈ – Saraiki" lang="skr" hreflang="skr" class="interlanguage-link-target">سرائیکی</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q33#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 24 December 2020, at 17:07.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Finland&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.772","walltime":"0.929","ppvisitednodes":{"value":4450,"limit":1000000},"postexpandincludesize":{"value":104128,"limit":2097152},"templateargumentsize":{"value":14934,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26269,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  792.426      1 -total"," 73.06%  578.920      1 Template:Infobox_country"," 71.45%  566.167      3 Template:Infobox"," 24.35%  192.993      3 Template:Unbulleted_list"," 23.07%  182.777      4 Template:Native_name"," 21.64%  171.505      4 Template:Lang"," 19.07%  151.106      1 Template:Reflist"," 17.24%  136.590      7 Template:Cite_web"," 10.39%   82.326      3 Template:ISO_3166_code","  5.74%   45.512      1 Template:Infobox_country/imagetable"]},"scribunto":{"limitreport-timeusage":{"value":"0.434","limit":"10.000"},"limitreport-memusage":{"value":25008838,"limit":52428800}},"cachereport":{"origin":"mw1277","timestamp":"20201224170740","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Finland","url":"https:\/\/simple.wikipedia.org\/wiki\/Finland","sameAs":"http:\/\/www.wikidata.org\/entity\/Q33","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q33","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-12T18:48:15Z","dateModified":"2020-12-24T17:07:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bc\/Flag_of_Finland.svg","headline":"sovereign state in northern Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":355,"wgHostname":"mw1263"});});</script> 
+ </body>
+</html>

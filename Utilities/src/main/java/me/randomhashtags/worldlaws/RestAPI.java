@@ -6,10 +6,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-import static java.lang.System.out;
+import java.util.logging.Level;
 
 public interface RestAPI {
     HashMap<String, String> CONTENT_HEADERS = new HashMap<>() {{
@@ -28,7 +25,6 @@ public interface RestAPI {
 
     default void request(String targetURL, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
         HttpURLConnection connection = null;
-
         try {
             final StringBuilder target = new StringBuilder(targetURL);
             int i = 0;
@@ -63,17 +59,19 @@ public interface RestAPI {
             if(responseCode >= 200 && responseCode < 400) {
                 is = connection.getInputStream();
             } else {
-                out.println("\nRestAPI ERROR!");
-                out.println("Diagnoses = response code < 200 || response code >= 400");
-                out.println("responseCode=" + responseCode);
-                out.println("targeturl=" + targeturl);
-                out.println("headerFields=" + connection.getHeaderFields().toString());
+                final StringBuilder builder = new StringBuilder("RestAPI ERROR!");
+                builder.append("\nDiagnoses = response code < 200 || response code >= 400");
+                builder.append("\nresponseCode=").append(responseCode);
+                builder.append("\ntargeturl=").append(targeturl);
+                builder.append("\nheaderFields=").append(connection.getHeaderFields().toString());
                 try {
-                    out.println("requestProperties=" + connection.getRequestProperties().toString());
+                    final String string = connection.getRequestProperties().toString();
+                    builder.append("\nrequestProperties=").append(string);
                 } catch (Exception ignored) {
                 }
-                out.println("headers=" + (headers != null ? headers.toString() : "null"));
-                out.println("errorStream=" + connection.getErrorStream());
+                builder.append("\nheaders=").append(headers != null ? headers.toString() : "null");
+                builder.append("\nerrorStream=").append(connection.getErrorStream());
+                WLLogger.log(Level.WARNING, builder.toString());
                 return;
             }
             final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
@@ -85,7 +83,9 @@ public interface RestAPI {
             reader.close();
             handler.handle(response.toString());
         } catch (Exception e) {
-            out.println("[REST API] ERROR - \"(" + e.getStackTrace()[0].getClassName() + ") " + e.getMessage() + "\" with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
+            if(!targetURL.startsWith("http://localhost")) {
+                WLLogger.log(Level.WARNING, "[REST API] ERROR - \"(" + e.getStackTrace()[0].getClassName() + ") " + e.getMessage() + "\" with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
+            }
             handler.handle(null);
         } finally {
             if(connection != null) {

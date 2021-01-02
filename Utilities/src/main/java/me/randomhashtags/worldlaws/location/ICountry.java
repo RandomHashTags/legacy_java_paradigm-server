@@ -1,5 +1,8 @@
 package me.randomhashtags.worldlaws.location;
 
+import me.randomhashtags.worldlaws.CompletionHandler;
+
 public interface ICountry {
-    Country getCountry();
+    CountryBackendID getCountryBackendID();
+    void getResponse(String value, CompletionHandler handler);
 }

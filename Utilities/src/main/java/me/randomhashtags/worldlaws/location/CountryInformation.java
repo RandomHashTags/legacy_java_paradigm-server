@@ -4,8 +4,13 @@ import java.util.HashMap;
 
 public final class CountryInformation {
 
-    private HashMap<CountryInfo, String> info;
+    private final HashMap<CountryInfo, String> info;
     private String json;
+
+    public CountryInformation(HashMap<CountryInfo, String> info) {
+        this.info = info == null ? new HashMap<>() : info;
+        updateJSON();
+    }
 
     public HashMap<CountryInfo, String> getInfo() {
         return info;
@@ -16,9 +21,9 @@ public final class CountryInformation {
     private void updateJSON() {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
-        for(CountryInfo info : info.keySet()) {
-            final String value = this.info.get(info);
-            builder.append(isFirst ? "" : ",\"" + info.name().toLowerCase() + "\":\"").append(value).append("\"");
+        for(CountryInfo information : info.keySet()) {
+            final String value = info.get(information);
+            builder.append(isFirst ? "" : ",").append("\"").append(information.name().toLowerCase()).append("\":").append(value);
             isFirst = false;
         }
         builder.append("}");

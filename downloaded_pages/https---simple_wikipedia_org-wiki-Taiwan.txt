@@ -1,0 +1,953 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Taiwan - Simple English Wikipedia, the free encyclopedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@ItJQpAICsAABg@nPIAAACF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Taiwan","wgTitle":"Taiwan","wgCurRevisionId":7218874,"wgRevisionId":7218874,"wgArticleId":833,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages needing to be simplified from November 2011","All pages that need simplifying","Pages to merge","Articles containing Chinese-language text","Coordinates on Wikidata","Pages using infobox country or infobox former country with the symbol caption or type parameters","Commons category link from Wikidata","Taiwan"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Taiwan","wgRelevantArticleId":833,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":25.066666666666666,"lon":121.51666666666667},"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q22502"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":
+"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Taiwan"> 
+  <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Taiwan&amp;action=edit"> 
+  <link rel="edit" title="change this page" href="/w/index.php?title=Taiwan&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//simple.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://simple.wikipedia.org/wiki/Taiwan"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Taiwan rootpage-Taiwan skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Taiwan</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Simple English Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-Complex plainlinks metadata ambox ambox-content" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           The <a href="/wiki/English_language" title="English language">English</a> used in this article or section <b>may not be easy for everybody to understand</b>.<span class="hide-when-compact"> You can help Wikipedia by reading <a href="/wiki/Wikipedia:How_to_write_Simple_English_pages" title="Wikipedia:How to write Simple English pages">Wikipedia:How to write Simple English pages</a>, then simplifying the article.</span> <small class="date-container"><i>(<span class="date">November 2011</span>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="box-Mergefrom plainlinks metadata ambox ambox-move" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/50px-Mergefrom.svg.png" decoding="async" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/75px-Mergefrom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/100px-Mergefrom.svg.png 2x" data-file-width="50" data-file-height="20">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           It has been suggested that the text on <i><a href="/wiki/Republic_of_China" title="Republic of China">Republic of China</a></i> be <a href="/wiki/Wikipedia:Merging_and_moving_pages" title="Wikipedia:Merging and moving pages">merged into (added to)</a> this article. (<a href="/wiki/Talk:Taiwan" title="Talk:Taiwan">Discuss</a>)<small><i> Proposed since March 2020.</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
+       <tbody>
+        <tr>
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic of China
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <span lang="zh-TW" title="Chinese language text">中華民國</span>
+           <br><i>Zhōnghuá Mínguó</i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[a]</a></sup>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_the_Republic_of_China.svg" class="image" title="Flag of Taiwan"><img alt="A red flag, with a small blue rectangle in the top left hand corner on which sits a white sun composed of a circle surrounded by 12 rays." src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/125px-Flag_of_the_Republic_of_China.svg.png" decoding="async" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/188px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/250px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Taiwan" class="mw-redirect" title="Flag of Taiwan">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:National_Emblem_of_the_Republic_of_China.svg" class="image" title="Emblem of Taiwan"><img alt="A blue circular emblem on which sits a white sun composed of a circle surrounded by 12 rays." src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/National_Emblem_of_the_Republic_of_China.svg/85px-National_Emblem_of_the_Republic_of_China.svg.png" decoding="async" width="85" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/National_Emblem_of_the_Republic_of_China.svg/128px-National_Emblem_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/National_Emblem_of_the_Republic_of_China.svg/170px-National_Emblem_of_the_Republic_of_China.svg.png 2x" data-file-width="600" data-file-height="600"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Emblem
+            </div> 
+           </div> 
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b>"<a href="/wiki/National_Anthem_of_the_Republic_of_China" title="National Anthem of the Republic of China">National Anthem of the Republic of China</a>"
+           <br>《中華民國國歌》 
+           <br>
+           <br>"<a href="/w/index.php?title=National_Flag_Anthem&amp;action=edit&amp;redlink=1" class="new" title="National Flag Anthem (not yet started)">National Flag Anthem</a>"
+           <br>《中華民國國旗歌》
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:LocationTaiwan.svg" class="image" title="Depicting the Free area of the Republic of China"><img alt="A map depicting the location of the Republic of China in East Asia and in the World." src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/LocationTaiwan.svg/250px-LocationTaiwan.svg.png" decoding="async" width="250" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/LocationTaiwan.svg/375px-LocationTaiwan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/LocationTaiwan.svg/500px-LocationTaiwan.svg.png 2x" data-file-width="1000" data-file-height="500"></a>
+          <div style="position:relative;top:0.3em;">
+           Depicting the Free area of the Republic of China
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Capital</th>
+         <td><a href="/wiki/Taipei" title="Taipei">Taipei</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Taiwan&amp;params=25_04_N_121_31_E_region:TW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">25°04′N</span> <span class="longitude">121°31′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">25.067°N 121.517°E</span><span style="display:none">﻿ / <span class="geo">25.067; 121.517</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Taiwan&amp;params=25_04_N_121_31_E_region:TW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">25°04′N</span> <span class="longitude">121°31′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">25.067°N 121.517°E</span><span style="display:none">﻿ / <span class="geo">25.067; 121.517</span></span></span></a></span></span></span><sup id="cite_ref-capital_2-0" class="reference"><a href="#cite_note-capital-2">[1]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">Largest city</th>
+         <td><a href="/wiki/New_Taipei_City" title="New Taipei City">New Taipei City</a></td>
+        </tr>
+        <tr>
+         <th scope="row">National languages</th>
+         <td>Formosan languages <br> Hakka <br> Hokkien <br> Mandarin <br> Matsu <br> Taiwan Sign Language</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>98% <a href="/wiki/Han_Chinese" title="Han Chinese">Han</a><sup id="cite_ref-cia-factbook_3-0" class="reference"><a href="#cite_note-cia-factbook-3">[2]</a></sup><br> 
+          <ul style="list-style: none;"> 
+           <li>70% <a href="/wiki/Hokkien" title="Hokkien">Hokkien</a></li> 
+           <li>14% <a href="/wiki/Hakka_people" title="Hakka people">Hakka</a></li> 
+           <li>14% <a href="/w/index.php?title=Waishengren&amp;action=edit&amp;redlink=1" class="new" title="Waishengren (not yet started)">Mainlanders</a> </li> 
+          </ul> 2% <a href="/w/index.php?title=Taiwanese_aborigines&amp;action=edit&amp;redlink=1" class="new" title="Taiwanese aborigines (not yet started)">Taiwanese aborigines</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[b]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td><a href="/wiki/Taiwanese_people" class="mw-redirect" title="Taiwanese people">Taiwanese</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[4]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[5]</a></sup> or <a href="/wiki/Chinese_people" title="Chinese people">Chinese</a> or both</td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Semi-presidential_system" title="Semi-presidential system">semi-presidential</a> <a href="/wiki/Republic" title="Republic">republic</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_the_Republic_of_China" title="President of the Republic of China">President</a> 
+          </div></th>
+         <td><a href="/wiki/Tsai_Ing-wen" title="Tsai Ing-wen">Tsai Ing-wen</a> <span style="font-size:85%;">(DPP)</span></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Vice_President_of_the_Republic_of_China&amp;action=edit&amp;redlink=1" class="new" title="Vice President of the Republic of China (not yet started)">Vice President</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Chen_Chien-jen&amp;action=edit&amp;redlink=1" class="new" title="Chen Chien-jen (not yet started)">Chen Chien-jen</a> <span style="font-size:85%;">(Independent)</span></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Premier_of_the_Republic_of_China" title="Premier of the Republic of China">Premier</a> 
+          </div></th>
+         <td><a href="/wiki/William_Lai" title="William Lai">William Lai</a> <span style="font-size:85%;">(DPP)</span></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=President_of_the_Legislative_Yuan&amp;action=edit&amp;redlink=1" class="new" title="President of the Legislative Yuan (not yet started)">President of the Legislative Yuan</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Su_Chia-chyuan&amp;action=edit&amp;redlink=1" class="new" title="Su Chia-chyuan (not yet started)">Su Chia-chyuan</a> <span style="font-size:85%;">(DPP)</span></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=President_of_the_Judicial_Yuan&amp;action=edit&amp;redlink=1" class="new" title="President of the Judicial Yuan (not yet started)">President of the Judicial Yuan</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Hsu_Tzong-li&amp;action=edit&amp;redlink=1" class="new" title="Hsu Tzong-li (not yet started)">Hsu Tzong-li</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=President_of_the_Control_Yuan&amp;action=edit&amp;redlink=1" class="new" title="President of the Control Yuan (not yet started)">President of the Control Yuan</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Chang_Po-ya&amp;action=edit&amp;redlink=1" class="new" title="Chang Po-ya (not yet started)">Chang Po-ya</a> <span style="font-size:85%;">(NPSU)</span></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=President_of_the_Examination_Yuan&amp;action=edit&amp;redlink=1" class="new" title="President of the Examination Yuan (not yet started)">President of the Examination Yuan</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Wu_Jin-lin&amp;action=edit&amp;redlink=1" class="new" title="Wu Jin-lin (not yet started)">Wu Jin-lin</a> <span style="font-size:85%;">(KMT)</span></td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/wiki/Legislative_Yuan" title="Legislative Yuan">Legislative Yuan</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Republic_of_China" title="Republic of China">Establishment</a>&nbsp;
+          <div style="font-weight:normal;display:inline;">
+           <a href="/wiki/Xinhai_Revolution" title="Xinhai Revolution">Xinhai Revolution</a>
+          </div></th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Wuchang_Uprising&amp;action=edit&amp;redlink=1" class="new" title="Wuchang Uprising (not yet started)">Wuchang Uprising</a> 
+          </div></th>
+         <td>10 October 1911</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Provisional_Government_of_the_Republic_of_China&amp;action=edit&amp;redlink=1" class="new" title="Provisional Government of the Republic of China (not yet started)">Republic established</a> 
+          </div></th>
+         <td>1 January 1912</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Constitution_of_the_Republic_of_China&amp;action=edit&amp;redlink=1" class="new" title="Constitution of the Republic of China (not yet started)">Constitution</a> 
+          </div></th>
+         <td>25 December 1947</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Geography_of_Taiwan" title="Geography of Taiwan">Area </a></th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>36,193<sup id="cite_ref-taiwan-popstat_8-0" class="reference"><a href="#cite_note-taiwan-popstat-8">[6]</a></sup>&nbsp;km<sup>2</sup> (13,974&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">136th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>10.34</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2012 estimate
+          </div></th>
+         <td>23,261,747<sup id="cite_ref-taiwan-popstat_8-1" class="reference"><a href="#cite_note-taiwan-popstat-8">[6]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">50th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>642/km<sup>2</sup> (1,662.8/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">17th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$876.035 billion<sup id="cite_ref-imf2_9-0" class="reference"><a href="#cite_note-imf2-9">[7]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">19th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$49,827<sup id="cite_ref-imf2_9-1" class="reference"><a href="#cite_note-imf2-9">[7]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">19th</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2011&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$466.832 billion<sup id="cite_ref-imf2_9-2" class="reference"><a href="#cite_note-imf2-9">[7]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">26th</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td>$20,100<sup id="cite_ref-imf2_9-3" class="reference"><a href="#cite_note-imf2-9">[7]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">39th</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2010)</span></th>
+         <td>34.2<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2010)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.868<sup id="cite_ref-HDI-1_11-0" class="reference"><a href="#cite_note-HDI-1-11">[c]</a></sup><sup id="cite_ref-HDI-2_12-0" class="reference"><a href="#cite_note-HDI-2-12">[9]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkgreen">very high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">18th</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/New_Taiwan_dollar" title="New Taiwan dollar">New Taiwan dollar</a> (NT$) (<a href="/wiki/ISO_4217" title="ISO 4217">TWD</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a><a href="/wiki/UTC%2B8" class="mw-redirect" title="UTC+8">+8</a></span> (<a href="/w/index.php?title=Chungyuan_Standard_Time&amp;action=edit&amp;redlink=1" class="new" title="Chungyuan Standard Time (not yet started)">CST</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a><a href="/wiki/UTC%2B8" class="mw-redirect" title="UTC+8">+8</a></span> (not observed)</td>
+        </tr>
+        <tr>
+         <th scope="row">Date format</th>
+         <td>yyyy-mm-dd <br> yyyy年m月d日 <br> (<a href="/wiki/Common_Era" title="Common Era">CE</a>; <a href="/wiki/Chinese_calendar" title="Chinese calendar">CE+2697</a>) <i>or</i> <a href="/wiki/Minguo_calendar" title="Minguo calendar">民國yy年m月d日</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td>right</td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=%2B886&amp;action=edit&amp;redlink=1" class="new" title="+886 (not yet started)">+886</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:TW&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:TW (not yet started)">TW</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/wiki/.tw" class="mw-redirect" title=".tw">.tw</a>, <a href="/w/index.php?title=.%E5%8F%B0%E7%81%A3&amp;action=edit&amp;redlink=1" class="new" title=".台灣 (not yet started)">.台灣</a>, <a href="/w/index.php?title=.%E5%8F%B0%E6%B9%BE&amp;action=edit&amp;redlink=1" class="new" title=".台湾 (not yet started)">.台湾</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[10]</a></sup></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <div class="reflist" style="list-style-type: lower-alpha;"> 
+            <div class="mw-references-wrap">
+             <ol class="references"> 
+              <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">See <a href="/w/index.php?title=Names_of_the_Republic_of_China&amp;action=edit&amp;redlink=1" class="new" title="Names of the Republic of China (not yet started)">Names of the Republic of China</a>.</span> </li> 
+              <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Taiwanese aborigines are officially categorised into <a href="/w/index.php?title=List_of_ethnic_groups_in_Taiwan&amp;action=edit&amp;redlink=1" class="new" title="List of ethnic groups in Taiwan (not yet started)">14 separate ethnic groups</a> by the Republic of China.</span> </li> 
+              <li id="cite_note-HDI-1-11"><span class="mw-cite-backlink"><a href="#cite_ref-HDI-1_11-0">↑</a></span> <span class="reference-text">The UN has not calculated an HDI for the ROC, which is not a member nation. The ROC government calculated its HDI for 2010 to be 0.868, which would rank it 18th among countries.</span> </li> 
+             </ol>
+            </div>
+           </div>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Taiwan</b>, officially the <b>Republic of China</b> (<b>ROC</b>; Chinese: 中華民國; pinyin: Zhōnghuá Mínguó), is a region and country in East Asia. It is the nationalist government of China since its settlement in 1949. It is called the <b><a href="/wiki/Republic_of_China" title="Republic of China">Republic of China</a> (ROC)</b> (also called <i>Taiwan</i>) which is a special region comprising the island of Taiwan and nearby islands (<a href="/wiki/Pescadores" class="mw-redirect" title="Pescadores">Pescadores</a> islands and parts of <a href="/wiki/Fujian" title="Fujian">Fujian</a>). The ROC government led by Chinese Nationalist (<a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a> abbreviated as KMT) moved to Taiwan after the Communist army took over the capital of Beijing. Currently, the ROC government governs <a href="/wiki/Taipei" title="Taipei">Taipei</a>, the capital of Taiwan. Taiwan is southeast of the <a href="/wiki/People%27s_Republic_of_China" title="People's Republic of China">People's Republic of China</a>'s mainland, south of <a href="/wiki/Japan" title="Japan">Japan</a>, and north of the <a href="/wiki/Philippines" title="Philippines">Philippines</a>. </p>
+      <p>Taiwan has also been called <b>Formosa</b>, a Portuguese name which means "beautiful" in <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>. </p>
+      <p>The largest cities in Taiwan are the <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a>, <a href="/wiki/Taipei" title="Taipei">Taipei</a>, and the port city of <a href="/wiki/Kaohsiung" class="mw-redirect" title="Kaohsiung">Kaohsiung</a>. </p>
+      <p>Most people living in Taiwan (sometimes called Taiwanese) are <a href="/wiki/Han" class="mw-redirect" title="Han">Han</a>. Taiwan has three large Han groups. They speak different <a href="/wiki/Dialect" title="Dialect">dialects</a> of Chinese and their ancestors came from different places: the Southern Fujianese (from China's <a href="/wiki/Fujian" title="Fujian">Fujian Province</a>), the <a href="/wiki/Hakka_people" title="Hakka people">Hakka</a> (from China), and Mainlanders (from <a href="/wiki/Mainland_China" title="Mainland China">Mainland China</a> after 1948). </p>
+      <p>There are also <a href="/w/index.php?title=Taiwanese_Aborigines&amp;action=edit&amp;redlink=1" class="new" title="Taiwanese Aborigines (not yet started)">Taiwanese Aborigines</a> who have lived in Taiwan before the Han came to live there. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Status_of_Taiwan"><span class="tocnumber">2</span> <span class="toctext">Status of Taiwan</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Geography"><span class="tocnumber">3</span> <span class="toctext">Geography</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#Cities"><span class="tocnumber">3.1</span> <span class="toctext">Cities</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Related_pages"><span class="tocnumber">5</span> <span class="toctext">Related pages</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taiwan&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Taiwan&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>In 1517, A discovery ship of <a href="/wiki/Portugal" title="Portugal">Portuguese</a> saw this island and names it "Ilha Formosa", or "Beautiful Island" in <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>.</li>
+      </ul> 
+      <ul>
+       <li>17th century: From 1624 until 1661 <a href="/wiki/Dutch_(people)" class="mw-redirect" title="Dutch (people)">Dutch</a> colonize the southern part of Formosa and established a colonial administration in <a href="/wiki/Fort_Zeelandia" class="mw-redirect" title="Fort Zeelandia">Fort Zeelandia</a>, and the <a href="/wiki/Spain" title="Spain">Spanish</a> colonize the north and established a colonial administration in Fuerte Santo Domingo or <a href="/w/index.php?title=Fort_Santo_Domingo&amp;action=edit&amp;redlink=1" class="new" title="Fort Santo Domingo (not yet started)">Fort Santo Domingo</a>. The Dutch eventually defeated the <a href="/wiki/Spaniard" class="mw-redirect" title="Spaniard">Spaniards</a> and took full control of Formosa. A Chinese general named <a href="/wiki/Koxinga" title="Koxinga">Koxinga</a>, defeated the Dutch at the <a href="/wiki/Siege_of_Fort_Zeelandia" title="Siege of Fort Zeelandia">Siege of Fort Zeelandia</a>.</li> 
+       <li>1860: Taiwan becomes a <a href="/w/index.php?title=Treaty_port&amp;action=edit&amp;redlink=1" class="new" title="Treaty port (not yet started)">treaty port</a> following the <a href="/w/index.php?title=Treaty_of_Tientsin&amp;action=edit&amp;redlink=1" class="new" title="Treaty of Tientsin (not yet started)">Treaty of Tientsin</a>, opening the island to contact with the world.</li> 
+       <li>1874: <a href="/wiki/Japan" title="Japan">Japan</a> invaded southern Taiwan, seemingly to "punish" the aborigines there for the murder of ship-wrecked Okinawan fishermen in 1871, but actually to establish a colony. Japanese forces withdraw later in the year after the <a href="/w/index.php?title=Meiji&amp;action=edit&amp;redlink=1" class="new" title="Meiji (not yet started)">Meiji</a> and <a href="/w/index.php?title=Qing&amp;action=edit&amp;redlink=1" class="new" title="Qing (not yet started)">Qing</a> empires nearly went to war.</li> 
+       <li>1884-1885: Taiwan is blockaded by French navy during the <a href="/w/index.php?title=Sino-Franco&amp;action=edit&amp;redlink=1" class="new" title="Sino-Franco (not yet started)">Sino-Franco</a> War.</li> 
+       <li>1895: Qing China lost the <a href="/wiki/First_Sino-Japanese_War" title="First Sino-Japanese War">First Sino-Japanese War</a> and gave Taiwan to <a href="/wiki/Japan" title="Japan">Japan</a> permanently.</li> 
+       <li>1945: Japan lost in <a href="/wiki/World_War_II" title="World War II">World War II</a> to U.S. and gave up Taiwan permanently.</li> 
+       <li>1946: U.S. accepts millions refugees and soldiers from China to Taiwan and U.S. President installs <a href="/wiki/The_Republic_of_China" class="mw-redirect" title="The Republic of China">The Republic of China</a> to govern Taiwan and to fight China and <a href="/wiki/Communism" title="Communism">communism</a>.</li> 
+       <li>1947: Taiwanese widely protest <a href="/wiki/Government" title="Government">governmental</a> <a href="/wiki/Corruption" title="Corruption">corruption</a> under the Nationalists. <a href="/wiki/Chiang_Kai-shek" title="Chiang Kai-shek">Chiang Kai-shek</a> sends in the army to restore order, killing tens of thousands. Some Taiwanese began the <a href="/w/index.php?title=Taiwan_independence_movement&amp;action=edit&amp;redlink=1" class="new" title="Taiwan independence movement (not yet started)">Taiwan independence movement</a>.</li> 
+       <li>1949: 
+        <ul>
+         <li><a href="/wiki/Chinese_Civil_War" title="Chinese Civil War">Chinese Civil War</a> between the <a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a> (KMT) party and the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> (CCP).</li> 
+         <li>The Nationalists (KMT) lose the war, and escape to the island of Taiwan. They set up <a href="/wiki/Taipei" title="Taipei">Taipei</a> as the temporary capital of Republic of China (ROC).</li> 
+         <li>The Communist Party of China (CCP) establishes Beijing as the capital of The <a href="/wiki/People%27s_Republic_of_China" title="People's Republic of China">People's Republic of China</a> (PRC).</li>
+        </ul></li> 
+       <li>1951: Japan signs the <a href="/w/index.php?title=Treaty_of_San_Francisco&amp;action=edit&amp;redlink=1" class="new" title="Treaty of San Francisco (not yet started)">Treaty of San Francisco</a> (1951) with U.S.</li> 
+       <li>1979: The KMT government jails many <a href="/wiki/Democracy" title="Democracy">democracy</a> activists who opposed it (<a href="/w/index.php?title=Kaohsiung_Incident&amp;action=edit&amp;redlink=1" class="new" title="Kaohsiung Incident (not yet started)">Kaohsiung Incident</a>).</li> 
+       <li>1986: The <a href="/wiki/Democratic_Progressive_Party" title="Democratic Progressive Party">Democratic Progressive Party</a> (DPP) is formed; it is the first party to form in the ROC other than the KMT. It remains illegal for the first year, but the KMT government does not try to ban it.</li> 
+       <li>1987: The KMT government lifts the <a href="/wiki/Martial_law" title="Martial law">martial law</a> after almost 40 years.</li> 
+       <li>1988: <a href="/wiki/Lee_Teng-hui" title="Lee Teng-hui">Lee Teng-hui</a> (KMT) became <a href="/wiki/President_of_the_Republic_of_China" title="President of the Republic of China">president</a> after <a href="/wiki/Chiang_Ching-kuo" title="Chiang Ching-kuo">Chiang Ching-kuo</a> is dead.</li> 
+       <li>1995: Lee Teng-hui (KMT) became the first president elected by people.</li> 
+       <li>2000: <a href="/w/index.php?title=Li_Shui-bian&amp;action=edit&amp;redlink=1" class="new" title="Li Shui-bian (not yet started)">Li Shui-bian</a> (DPP) became president.</li> 
+       <li>2000: <a href="/wiki/Chen_Shui-bian" title="Chen Shui-bian">Chen Shui-bian</a> (DPP) became president.</li> 
+       <li>2004: Chen Shui-bian is re-elected after a controversial assassination attempt, in which many KMT-supporters believed, was staged by Chen. However, after unwillingness to cooperate about his medical records the investigation was inconclusive.</li> 
+       <li>2008: Former president Chen Sui-bian and his wife are arrested for corruption and money laundering.</li> 
+       <li>2008: <a href="/wiki/Ma_Ying-jeou" title="Ma Ying-jeou">Ma Ying-jeou</a> (KMT) was elected as the president of the Republic of China and thus creating a change of political parties for the second time.</li> 
+       <li>2009: Kaohsiung hosts the 2009 World Games.</li> 
+       <li>2016: <a href="/wiki/Tsai_Ing-wen" title="Tsai Ing-wen">Tsai Ing-wen</a> (DPP) was elected as the first female president of Taiwan.</li> 
+       <li>2019: <a href="/wiki/Same_sex_marriage" class="mw-redirect" title="Same sex marriage">same sex marriage</a> was legalized<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[11]</a></sup></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Status_of_Taiwan">Status of Taiwan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taiwan&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Status of Taiwan">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Taiwan&amp;action=edit&amp;section=2" title="Change section: Status of Taiwan">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>There are two <a href="/wiki/China" title="China">Chinese</a> governments in the world: The <a href="/wiki/People%27s_Republic_of_China" title="People's Republic of China">People's Republic of China</a> (PRC) and the <a href="/wiki/Republic_of_China" title="Republic of China">Republic of China</a> (ROC). Today, in reality, the PRC government controls mainland China, and the ROC government governs Taiwan. The ROC government governed most of China mainland from 1911 to 1949, before losing control of China mainland to the PRC. </p>
+      <p>Today, people who live in Taiwan have different ideas. Although many Taiwanese think there is no freedom in China, there are still some Taiwanese who want to be united again with China. The majority of the people in Taiwan want to keep everything like it is now. </p>
+      <p>Today most countries of the world recognize the People's Republic of China as China. Even though Taiwan is not recognized by the UN as a sovereign nation,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup> most countries still have close economic and cultural relations with Taiwan. So, both sides are not making any big changes from the political <a href="/w/index.php?title=Status_quo&amp;action=edit&amp;redlink=1" class="new" title="Status quo (not yet started)">status quo</a>. This policy was expressed in a 1992 <a href="/wiki/Consensus" title="Consensus">Consensus</a> among some leaders of both sides. </p>
+      <p>In <a href="/wiki/March" title="March">March</a> 2004, China's government passed a law called the Anti-<a href="/wiki/Secession" title="Secession">Secession</a> Law. The law requires the Chinese <a href="/wiki/Military" title="Military">military</a> to <a href="/wiki/Invade" class="mw-redirect" title="Invade">invade</a> Taiwan immediately if they declare <a href="/wiki/Independence" title="Independence">independence</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[13]</a></sup> The law shows China's <a href="https://simple.wiktionary.org/wiki/concern" class="extiw" title="wikt:concern">concern</a> over a growing move towards independence by the government of Taiwan.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[14]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taiwan&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Taiwan&amp;action=edit&amp;section=3" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:172px;">
+        <a href="/wiki/File:Taiwan_NASA_Terra_MODIS_23791.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Taiwan_NASA_Terra_MODIS_23791.jpg/170px-Taiwan_NASA_Terra_MODIS_23791.jpg" decoding="async" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Taiwan_NASA_Terra_MODIS_23791.jpg/255px-Taiwan_NASA_Terra_MODIS_23791.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Taiwan_NASA_Terra_MODIS_23791.jpg/340px-Taiwan_NASA_Terra_MODIS_23791.jpg 2x" data-file-width="1200" data-file-height="1600"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Taiwan_NASA_Terra_MODIS_23791.jpg" class="internal" title="Enlarge"></a>
+         </div>Taiwan is mostly mountainous in the east, with gently sloping plains in the west. The <a href="/wiki/Penghu_Islands" class="mw-redirect" title="Penghu Islands">Penghu Islands</a> are west of the main island.
+        </div>
+       </div>
+      </div> 
+      <p>The island of Taiwan is about 180 kilometers off the southeastern coast of China. It is across the <a href="/wiki/Taiwan_Strait" title="Taiwan Strait">Taiwan Strait</a>. It has an area of 35,883&nbsp;km<sup>2</sup> (13,855&nbsp;sq&nbsp;mi).<sup id="cite_ref-taiwan-popstat_8-2" class="reference"><a href="#cite_note-taiwan-popstat-8">[6]</a></sup> The <a href="/wiki/East_China_Sea" title="East China Sea">East China Sea</a> is to the north, the <a href="/wiki/Philippine_Sea" title="Philippine Sea">Philippine Sea</a> to the east, the <a href="/w/index.php?title=Luzon_Strait&amp;action=edit&amp;redlink=1" class="new" title="Luzon Strait (not yet started)">Luzon Strait</a> directly to the south and the <a href="/wiki/South_China_Sea" title="South China Sea">South China Sea</a> to the southwest.<sup id="cite_ref-yb:geography_18-0" class="reference"><a href="#cite_note-yb:geography-18">[15]</a></sup> </p>
+      <p>Taiwan's highest point is <a href="/w/index.php?title=Yu_Shan&amp;action=edit&amp;redlink=1" class="new" title="Yu Shan (not yet started)">Yu Shan</a> (Jade Mountain). It is 3,952 meters high (12,966&nbsp;ft). There are five other peaks over 3,500 meters. </p>
+      <p>The <a href="/wiki/Penghu_Islands" class="mw-redirect" title="Penghu Islands">Penghu Islands</a> are 50&nbsp;km (31.1&nbsp;mi) west of the main island. They have an area of 126.9&nbsp;km<sup>2</sup> (49.0&nbsp;sq&nbsp;mi). More distant islands controlled by the Republic of China are the <a href="/wiki/Kinmen" title="Kinmen">Kinmen</a>, <a href="/w/index.php?title=Wuchiu&amp;action=edit&amp;redlink=1" class="new" title="Wuchiu (not yet started)">Wuchiu</a> and <a href="/wiki/Matsu_Islands" title="Matsu Islands">Matsu Islands</a> off the coast of <a href="/wiki/Fujian" title="Fujian">Fujian</a>. They have a total area of 180.5&nbsp;km<sup>2</sup> (69.7&nbsp;sq&nbsp;mi). The <a href="/w/index.php?title=Pratas_Islands&amp;action=edit&amp;redlink=1" class="new" title="Pratas Islands (not yet started)">Pratas Islands</a> and <a href="/w/index.php?title=Taiping_Island&amp;action=edit&amp;redlink=1" class="new" title="Taiping Island (not yet started)">Taiping Island</a> in the South China Sea have a total area of 2.9&nbsp;km<sup>2</sup> (1.1&nbsp;sq&nbsp;mi). They have no permanent inhabitants.<sup id="cite_ref-taiwan-popstat_8-3" class="reference"><a href="#cite_note-taiwan-popstat-8">[6]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Cities">Cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taiwan&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Cities">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Taiwan&amp;action=edit&amp;section=4" title="Change section: Cities">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Taipei,_Taiwan_CBD_Skyline.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Taipei%2C_Taiwan_CBD_Skyline.jpg/220px-Taipei%2C_Taiwan_CBD_Skyline.jpg" decoding="async" width="220" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Taipei%2C_Taiwan_CBD_Skyline.jpg/330px-Taipei%2C_Taiwan_CBD_Skyline.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Taipei%2C_Taiwan_CBD_Skyline.jpg/440px-Taipei%2C_Taiwan_CBD_Skyline.jpg 2x" data-file-width="1801" data-file-height="1402"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Taipei,_Taiwan_CBD_Skyline.jpg" class="internal" title="Enlarge"></a>
+         </div><a href="/wiki/Taipei_City" class="mw-redirect" title="Taipei City">Taipei City</a>, the capital of Taiwan.
+        </div>
+       </div>
+      </div> 
+      <p>The largest cities in Taiwan are: </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Rank</th> 
+         <th>Division name</th> 
+         <th>Chinese name</th> 
+         <th>Type</th> 
+         <th>Population </th>
+        </tr> 
+        <tr align="center"> 
+         <td>1</td> 
+         <td align="left"><a href="/wiki/New_Taipei_City" title="New Taipei City">New Taipei City</a></td> 
+         <td>新北市</td> 
+         <td><a href="/w/index.php?title=Special_municipality_(Republic_of_China)&amp;action=edit&amp;redlink=1" class="new" title="Special municipality (Republic of China) (not yet started)">Special municipality</a></td> 
+         <td align="right">3,903,745 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>2</td> 
+         <td align="left"><a href="/wiki/Kaohsiung_City" title="Kaohsiung City">Kaohsiung City</a></td> 
+         <td>高雄市</td> 
+         <td><a href="/w/index.php?title=Special_municipality_(Republic_of_China)&amp;action=edit&amp;redlink=1" class="new" title="Special municipality (Republic of China) (not yet started)">Special municipality</a></td> 
+         <td align="right">2,772,461 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>3</td> 
+         <td align="left"><a href="/wiki/Taichung_City" title="Taichung City">Taichung City</a></td> 
+         <td>臺中市 (台中市)</td> 
+         <td><a href="/w/index.php?title=Special_municipality_(Republic_of_China)&amp;action=edit&amp;redlink=1" class="new" title="Special municipality (Republic of China) (not yet started)">Special municipality</a></td> 
+         <td align="right">2,655,456 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>4</td> 
+         <td align="left"><a href="/wiki/Taipei_City" class="mw-redirect" title="Taipei City">Taipei City</a></td> 
+         <td>臺北市 (台北市)</td> 
+         <td><a href="/w/index.php?title=Special_municipality_(Republic_of_China)&amp;action=edit&amp;redlink=1" class="new" title="Special municipality (Republic of China) (not yet started)">Special municipality</a></td> 
+         <td align="right">2,635,766 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>5</td> 
+         <td align="left"><a href="/wiki/Taoyuan_City" title="Taoyuan City">Taoyuan City</a></td> 
+         <td>桃園市</td> 
+         <td><a href="/w/index.php?title=Special_municipality_(Republic_of_China)&amp;action=edit&amp;redlink=1" class="new" title="Special municipality (Republic of China) (not yet started)">Special municipality</a> </td> 
+         <td align="right">2,163,728 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>6</td> 
+         <td align="left"><a href="/wiki/Tainan_City" class="mw-redirect" title="Tainan City">Tainan City</a></td> 
+         <td>臺南市 (台南市)</td> 
+         <td><a href="/w/index.php?title=Special_municipality_(Republic_of_China)&amp;action=edit&amp;redlink=1" class="new" title="Special municipality (Republic of China) (not yet started)">Special municipality</a></td> 
+         <td align="right">1,874,724 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>7</td> 
+         <td align="left"><a href="/wiki/Hsinchu_City" class="mw-redirect" title="Hsinchu City">Hsinchu City</a></td> 
+         <td>新竹市</td> 
+         <td><a href="/w/index.php?title=Provincial_city_(Republic_of_China)&amp;action=edit&amp;redlink=1" class="new" title="Provincial city (Republic of China) (not yet started)">Provincial city</a></td> 
+         <td align="right">417,335 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>8</td> 
+         <td align="left"><a href="/wiki/Keelung_City" title="Keelung City">Keelung City</a></td> 
+         <td>基隆市</td> 
+         <td><a href="/w/index.php?title=Provincial_city_(Republic_of_China)&amp;action=edit&amp;redlink=1" class="new" title="Provincial city (Republic of China) (not yet started)">Provincial city</a></td> 
+         <td align="right">381,770 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>9</td> 
+         <td align="left"><a href="/wiki/Chiayi_City" title="Chiayi City">Chiayi City</a></td> 
+         <td>嘉義市</td> 
+         <td><a href="/w/index.php?title=Provincial_city_(Republic_of_China)&amp;action=edit&amp;redlink=1" class="new" title="Provincial city (Republic of China) (not yet started)">Provincial city</a></td> 
+         <td align="right">272,128 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>10</td> 
+         <td align="left"><a href="/w/index.php?title=Changhua_City&amp;action=edit&amp;redlink=1" class="new" title="Changhua City (not yet started)">Changhua City</a></td> 
+         <td>彰化市</td> 
+         <td><a href="/w/index.php?title=County-controlled_city&amp;action=edit&amp;redlink=1" class="new" title="County-controlled city (not yet started)">County-controlled city</a></td> 
+         <td align="right">236,447 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>11</td> 
+         <td align="left"><a href="/w/index.php?title=Pingtung_City&amp;action=edit&amp;redlink=1" class="new" title="Pingtung City (not yet started)">Pingtung City</a></td> 
+         <td>屏東市</td> 
+         <td><a href="/w/index.php?title=County-controlled_city&amp;action=edit&amp;redlink=1" class="new" title="County-controlled city (not yet started)">County-controlled city</a></td> 
+         <td align="right">210,275 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>12</td> 
+         <td align="left"><a href="/w/index.php?title=Zhubei_City&amp;action=edit&amp;redlink=1" class="new" title="Zhubei City (not yet started)">Zhubei City</a></td> 
+         <td>竹北市</td> 
+         <td><a href="/w/index.php?title=County-controlled_city&amp;action=edit&amp;redlink=1" class="new" title="County-controlled city (not yet started)">County-controlled city</a></td> 
+         <td align="right">144,234 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>13</td> 
+         <td align="left"><a href="/w/index.php?title=Hualien_City&amp;action=edit&amp;redlink=1" class="new" title="Hualien City (not yet started)">Hualien City</a></td> 
+         <td>花蓮市</td> 
+         <td><a href="/w/index.php?title=County-controlled_city&amp;action=edit&amp;redlink=1" class="new" title="County-controlled city (not yet started)">County-controlled city</a></td> 
+         <td align="right">108,938 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>14</td> 
+         <td align="left"><a href="/w/index.php?title=Taitung_City&amp;action=edit&amp;redlink=1" class="new" title="Taitung City (not yet started)">Taitung City</a></td> 
+         <td>臺東市</td> 
+         <td><a href="/w/index.php?title=County-controlled_city&amp;action=edit&amp;redlink=1" class="new" title="County-controlled city (not yet started)">County-controlled city</a></td> 
+         <td align="right">108,648 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>15</td> 
+         <td align="left"><a href="/w/index.php?title=Douliu_City&amp;action=edit&amp;redlink=1" class="new" title="Douliu City (not yet started)">Douliu City</a></td> 
+         <td>斗六市</td> 
+         <td><a href="/w/index.php?title=County-controlled_city&amp;action=edit&amp;redlink=1" class="new" title="County-controlled city (not yet started)">County-controlled city</a></td> 
+         <td align="right">107,012 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>16</td> 
+         <td align="left"><a href="/w/index.php?title=Nantou_City&amp;action=edit&amp;redlink=1" class="new" title="Nantou City (not yet started)">Nantou City</a></td> 
+         <td>南投市</td> 
+         <td><a href="/w/index.php?title=County-controlled_city&amp;action=edit&amp;redlink=1" class="new" title="County-controlled city (not yet started)">County-controlled city</a></td> 
+         <td align="right">104,069 </td>
+        </tr> 
+        <tr align="center"> 
+         <td>17</td> 
+         <td align="left"><a href="/w/index.php?title=Magong&amp;action=edit&amp;redlink=1" class="new" title="Magong (not yet started)">Magong</a></td> 
+         <td>馬公市</td> 
+         <td><a href="/w/index.php?title=County-controlled_city&amp;action=edit&amp;redlink=1" class="new" title="County-controlled city (not yet started)">County-controlled city</a></td> 
+         <td align="right">104,069 </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taiwan&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Taiwan&amp;action=edit&amp;section=5" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-capital-2"><span class="mw-cite-backlink"><a href="#cite_ref-capital_2-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/2004/P045.htm">"Yearbook 2004"</a>. Government Information Office of the Republic of China. 2004. <q>Taipei is the capital of the ROC</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yearbook+2004&amp;rft.pub=Government+Information+Office+of+the+Republic+of+China&amp;rft.date=2004&amp;rft_id=http%3A%2F%2Fwww.gio.gov.tw%2Ftaiwan-website%2F5-gp%2Fyearbook%2F2004%2FP045.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-cia-factbook-3"><span class="mw-cite-backlink"><a href="#cite_ref-cia-factbook_3-0">↑</a></span> <span class="reference-text"><a href="/wiki/CIA_World_Factbook" class="mw-redirect" title="CIA World Factbook">CIA World Factbook</a> information about <a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/tw.html">Taiwan</a>, United States <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a>.</span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20041215030432/http://www.gio.gov.tw/taiwan-website/5-gp/relief/help_41.htm">"The ROC's Humanitarian Relief Program for Afghan Refugees"</a>. Gio.gov.tw. 2001-12-11. Archived from <a rel="nofollow" class="external text" href="http://www.gio.gov.tw/taiwan-website/5-gp/relief/help_41.htm">the original</a> on 15 December 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+ROC%27s+Humanitarian+Relief+Program+for+Afghan+Refugees&amp;rft.pub=Gio.gov.tw&amp;rft.date=2001-12-11&amp;rft_id=http%3A%2F%2Fwww.gio.gov.tw%2Ftaiwan-website%2F5-gp%2Frelief%2Fhelp_41.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gio.gov.tw/taiwan-website/4-oa/20051111/2005111101.html">"Taiwanese health official invited to observe bird-flu conference"</a>. Gio.gov.tw. 2005-11-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Taiwanese+health+official+invited+to+observe+bird-flu+conference&amp;rft.pub=Gio.gov.tw&amp;rft.date=2005-11-11&amp;rft_id=http%3A%2F%2Fwww.gio.gov.tw%2Ftaiwan-website%2F4-oa%2F20051111%2F2005111101.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://geography.about.com/library/weekly/aa030900a.htm">"Demonyms&nbsp;– Names of Nationalities"</a>. Geography.about.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Demonyms+%E2%80%93+Names+of+Nationalities&amp;rft.pub=Geography.about.com&amp;rft_id=http%3A%2F%2Fgeography.about.com%2Flibrary%2Fweekly%2Faa030900a.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-taiwan-popstat-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-taiwan-popstat_8-0">6.0</a></sup> <sup><a href="#cite_ref-taiwan-popstat_8-1">6.1</a></sup> <sup><a href="#cite_ref-taiwan-popstat_8-2">6.2</a></sup> <sup><a href="#cite_ref-taiwan-popstat_8-3">6.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://sowf.moi.gov.tw/stat/month/m1-01.xls">"Number of Villages, Neighborhoods, Households and Resident Population"</a>. MOI Statistical Information Service<span class="reference-accessdate">. Retrieved <span class="nowrap">15 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Number+of+Villages%2C+Neighborhoods%2C+Households+and+Resident+Population&amp;rft.pub=MOI+Statistical+Information+Service&amp;rft_id=http%3A%2F%2Fsowf.moi.gov.tw%2Fstat%2Fmonth%2Fm1-01.xls&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-imf2-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_9-0">7.0</a></sup> <sup><a href="#cite_ref-imf2_9-1">7.1</a></sup> <sup><a href="#cite_ref-imf2_9-2">7.2</a></sup> <sup><a href="#cite_ref-imf2_9-3">7.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?sy=2011&amp;ey=2017&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=528&amp;s=NGDP%2CNGDPD%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&amp;grp=0&amp;a=&amp;pr.x=55&amp;pr.y=14">"Republic of China (Taiwan)"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Republic+of+China+%28Taiwan%29&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2011%26ey%3D2017%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D528%26s%3DNGDP%252CNGDPD%252CNGDPPC%252CNGDPDPC%252CPPPGDP%252CPPPPC%26grp%3D0%26a%3D%26pr.x%3D55%26pr.y%3D14&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://win.dgbas.gov.tw/fies/doc/result/99/a11/Year04.xls">"Table 4. Percentage Share of Disposable Income by Quintile Group of Households and Income Inequality Indices"</a>. <a rel="nofollow" class="external text" href="http://eng.stat.gov.tw/ct.asp?xItem=3417&amp;CtNode=1596&amp;mp=5"><i>Report on The Survey of Family Income and Expenditure</i></a>. Taipei, Taiwan: Directorate General of Budget, Accounting and Statistics. 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Table+4.+Percentage+Share+of+Disposable+Income+by+Quintile+Group+of+Households+and+Income+Inequality+Indices&amp;rft.btitle=Report+on+The+Survey+of+Family+Income+and+Expenditure&amp;rft.place=Taipei%2C+Taiwan&amp;rft.pub=Directorate+General+of+Budget%2C+Accounting+and+Statistics&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fwin.dgbas.gov.tw%2Ffies%2Fdoc%2Fresult%2F99%2Fa11%2FYear04.xls&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-HDI-2-12"><span class="mw-cite-backlink"><a href="#cite_ref-HDI-2_12-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.dgbas.gov.tw/public/Attachment/11715383471.doc">http://www.dgbas.gov.tw/public/Attachment/11715383471.doc</a></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://brussels38.icann.org/meetings/brussels2010/transcript-board-25jun10-en.txt">"ICANN Board Meeting Minutes"</a>. ICANN. 25 June 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ICANN+Board+Meeting+Minutes&amp;rft.pub=ICANN&amp;rft.date=2010-06-25&amp;rft_id=http%3A%2F%2Fbrussels38.icann.org%2Fmeetings%2Fbrussels2010%2Ftranscript-board-25jun10-en.txt&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a class="external free" href="https://en.wikinews.org/wiki/Taiwan%27s_legislature_first_in_Asia_to_legalize_same-sex_marriage">https://en.wikinews.org/wiki/Taiwan%27s_legislature_first_in_Asia_to_legalize_same-sex_marriage</a></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><cite id="CITEREFSigrid_Winkler2012" class="citation web cs1">Sigrid Winkler (June 2012). <a rel="nofollow" class="external text" href="http://www.brookings.edu/research/opinions/2012/06/20-taiwan-un-winkler">"Taiwan's UN Dilemma: To Be or Not To Be"</a>. The Brookings Institution<span class="reference-accessdate">. Retrieved <span class="nowrap">26 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Taiwan%27s+UN+Dilemma%3A+To+Be+or+Not+To+Be&amp;rft.pub=The+Brookings+Institution&amp;rft.date=2012-06&amp;rft.au=Sigrid+Winkler&amp;rft_id=http%3A%2F%2Fwww.brookings.edu%2Fresearch%2Fopinions%2F2012%2F06%2F20-taiwan-un-winkler&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><cite id="CITEREFJohn_J._Tkacik,_Jr." class="citation web cs1">John J. Tkacik, Jr. <a rel="nofollow" class="external text" href="http://www.heritage.org/research/reports/2004/12/chinas-new-anti-secession-law-escalates-tensions-in-the-taiwan-strait">"China's New "Anti-Secession Law" Escalates Tensions in the TaiwanStrait"</a>. The Heritage Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">26 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=China%27s+New+%22Anti-Secession+Law%22+Escalates+Tensions+in+the+TaiwanStrait&amp;rft.pub=The+Heritage+Foundation&amp;rft.au=John+J.+Tkacik%2C+Jr.&amp;rft_id=http%3A%2F%2Fwww.heritage.org%2Fresearch%2Freports%2F2004%2F12%2Fchinas-new-anti-secession-law-escalates-tensions-in-the-taiwan-strait&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">Zou Keyuan, 'Governing the Taiwan Issue in Accordance with Law: An Essay on China's Anti-Secession Law', <i>Chinese Journal of International Law</i>, Vol. 4, No. 2 (2005), p. 455</span> </li> 
+         <li id="cite_note-yb:geography-18"><span class="mw-cite-backlink"><a href="#cite_ref-yb:geography_18-0">↑</a></span> <span class="reference-text"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/docs/ch01.pdf">"Chapter 1: Geography"</a> <span class="cs1-format">(PDF)</span>. <a rel="nofollow" class="external text" href="http://www.gio.gov.tw/taiwan-website/5-gp/yearbook/"><i>The Republic of China Yearbook</i></a>. Government Information Office, Republic of China (Taiwan). 2011. pp.&nbsp;13–25.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+1%3A+Geography&amp;rft.btitle=The+Republic+of+China+Yearbook&amp;rft.pages=13-25&amp;rft.pub=Government+Information+Office%2C+Republic+of+China+%28Taiwan%29&amp;rft.date=2011&amp;rft_id=http%3A%2F%2Fwww.gio.gov.tw%2Ftaiwan-website%2F5-gp%2Fyearbook%2Fdocs%2Fch01.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATaiwan" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Taiwan&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Taiwan&amp;action=edit&amp;section=6" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Taiwan_Island" class="extiw" title="commons:Category:Taiwan Island"><span style="">Taiwan Island</span></a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <table role="presentation" class="metadata mbox-small plainlinks" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></td> 
+         <td class="mbox-text plainlist">Wikivoyage has a travel guide about: <i><b><a href="https://en.wikivoyage.org/wiki/Taiwan" class="extiw" title="wikivoyage:Taiwan">Taiwan</a></b></i></td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a href="/wiki/Political_status_of_Taiwan" title="Political status of Taiwan">Political status of Taiwan</a></li>
+      </ul> <!-- 
+NewPP limit report
+Parsed by mw1299
+Cached time: 20201220140113
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.796 seconds
+Real time usage: 1.025 seconds
+Preprocessor visited node count: 4515/1000000
+Post‐expand include size: 89318/2097152 bytes
+Template argument size: 21742/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 38620/5000000 bytes
+Lua time usage: 0.482/10.000 seconds
+Lua memory usage: 28399286/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  925.549      1 -total
+ 67.87%  628.193      1 Template:Infobox_country
+ 65.40%  605.327      3 Template:Infobox
+ 18.67%  172.794      3 Template:ISO_3166_code
+ 16.23%  150.226      2 Template:Reflist
+ 15.07%  139.477      1 Template:Lang
+ 11.82%  109.384      9 Template:Cite_web
+  7.30%   67.563      1 Template:Commonscat
+  7.00%   64.777      1 Template:Simp
+  5.60%   51.791      1 Template:Commons
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:833-0!canonical and timestamp 20201220140113 and revision id 7218874. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Taiwan&amp;oldid=7218874">https://simple.wikipedia.org/w/index.php?title=Taiwan&amp;oldid=7218874</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Taiwan" title="Category:Taiwan">Taiwan</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Pages_needing_to_be_simplified_from_November_2011" title="Category:Pages needing to be simplified from November 2011">Pages needing to be simplified from November 2011</a></li>
+       <li><a href="/wiki/Category:All_pages_that_need_simplifying" title="Category:All pages that need simplifying">All pages that need simplifying</a></li>
+       <li><a href="/wiki/Category:Pages_to_merge" title="Category:Pages to merge">Pages to merge</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Chinese-language_text" title="Category:Articles containing Chinese-language text">Articles containing Chinese-language text</a></li>
+       <li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li>
+       <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about changes from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Taiwan" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Taiwan" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Taiwan" title="View the content page [c]" accesskey="c">Page</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Taiwan" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Taiwan">Read</a></li>
+        <li id="ca-ve-edit"><a href="/w/index.php?title=Taiwan&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Change</a></li>
+        <li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Taiwan&amp;action=edit" title="You can change this page. Please use the preview button before saving. [e]" accesskey="e">Change source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Taiwan&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Simple_start" title="About the project, what you can do, where to find things">Simple start</a></li>
+       <li id="n-Simple-talk"><a href="/wiki/Wikipedia:Simple_talk">Simple talk</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of new changes in the wiki. [r]" accesskey="r">New changes</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Show any page [x]" accesskey="x">Show any page</a></li>
+       <li id="n-help"><a href="/wiki/Help:Contents" title="The place to get help">Help</a></li>
+       <li id="n-contactpage"><a href="//simple.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_simple.wikipedia.org&amp;uselang=en" title="Support us">Give to Wikipedia</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Taiwan" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Taiwan" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Taiwan&amp;oldid=7218874" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Taiwan&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Taiwan&amp;id=7218874&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q22502" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Taiwan">Make a book</a></li>
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Taiwan&amp;action=show-download-screen">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Taiwan&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Page for printing</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Taiwan_Island" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>In other languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Taiwan_(eiland)" title="Taiwan (eiland) – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Taiwan_(%C4%ABeg)" title="Taiwan (īeg) – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86_(%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9)" title="تايوان (جزيرة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Taiw%C3%A1n" title="Taiwán – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Ypa%27%C5%A9_Taiu%C3%A3" title="Ypa'ũ Taiuã – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Tayvan" title="Tayvan – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/T%C3%A2i-o%C3%A2n" title="Tâi-oân – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C_(%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%B0%D1%9E)" title="Тайвань (востраў) – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD_(%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2)" title="Тайван (остров) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Enez_Taiwan" title="Enez Taiwan – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Taiwan" title="Taiwan – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Taiwan" title="Taiwan – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Tchaj-wan_(ostrov)" title="Tchaj-wan (ostrov) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Taiwan_(%C3%B8)" title="Taiwan (ø) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://de.wikipedia.org/wiki/Taiwan_(Insel)" title="Taiwan (Insel) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%93%DE%A6%DE%87%DE%A8%DE%88%DE%A7%DE%82%DE%B0" title="ޓައިވާން – Divehi" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li>
+       <li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Taiwan" title="Taiwan – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Taiwani_saar" title="Taiwani saar – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Taiwan_(island)" title="Taiwan (island) – English" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Isla_de_Taiw%C3%A1n" title="Isla de Taiwán – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Taiwan_(uhartea)" title="Taiwan (uhartea) – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%DB%8C%D9%88%D8%A7%D9%86_(%D8%AC%D8%B2%DB%8C%D8%B1%D9%87)" title="تایوان (جزیره) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ta%C3%AFwan_(%C3%AEle)" title="Taïwan (île) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Taidh-Bh%C3%A0n_(eilean)" title="Taidh-Bhàn (eilean) – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Illa_de_Taiw%C3%A1n" title="Illa de Taiwán – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E8%87%BA%E7%81%A3" title="臺灣 – Gan Chinese" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li>
+       <li class="interlanguage-link interwiki-hak badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://hak.wikipedia.org/wiki/Th%C3%B2i-v%C3%A2n" title="Thòi-vân – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li>
+       <li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD_%D0%B0%D1%80%D0%BB" title="Тайван арл – Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Хальмг</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%83%80%EC%9D%B4%EC%99%84" title="타이완 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Jamhuriyar_Sin" title="Jamhuriyar Sin – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B9%D5%A1%D5%B5%D5%BE%D5%A1%D5%B6_(%D5%AF%D5%B2%D5%A6%D5%AB)" title="Թայվան (կղզի) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A4%BE%E0%A4%A8" title="ताइवान – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Taiwan" title="Taiwan – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Taiwan" title="Taiwan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Taiwan_(insula)" title="Taiwan (insula) – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li>
+       <li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Taiwan_(Insul)" title="Taiwan (Insul) – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Isola_di_Formosa" title="Isola di Formosa – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%98%D7%90%D7%99%D7%95%D7%95%D7%90%D7%9F_(%D7%90%D7%99)" title="טאיוואן (אי) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Taiwan" title="Taiwan – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C_%D0%B0%D1%80%D0%B0%D0%BB%D1%8B" title="Тайвань аралы – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Formosa" title="Formosa – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Taiv%C4%81na_(sala)" title="Taivāna (sala) – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Tajvan_(sziget)" title="Tajvan (sziget) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%A4%E0%A5%88%E0%A4%B5%E0%A4%BE%E0%A4%A8_(%E0%A4%AC%E0%A5%87%E0%A4%9F)" title="तैवान (बेट) – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Pulau_Taiwan" title="Pulau Taiwan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-cdo badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://cdo.wikipedia.org/wiki/D%C3%A0i-u%C4%83ng" title="Dài-uăng – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C_%D0%B0%D1%80%D0%B0%D0%BB" title="Тайвань арал – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%91%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%9D%E1%80%99%E1%80%BA" title="ထိုင်ဝမ် – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-fj"><a href="https://fj.wikipedia.org/wiki/Taiwan" title="Taiwan – Fijian" lang="fj" hreflang="fj" class="interlanguage-link-target">Na Vosa Vakaviti</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Formosa_(Taiwan)" title="Formosa (Taiwan) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE" title="台湾 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Taiwan_(%C3%B8y)" title="Taiwan (øy) – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Taiwan" title="Taiwan – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Tayvan_(orol)" title="Tayvan (orol) – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Taiwan" title="Taiwan – Jamaican Creole English" lang="jam" hreflang="jam" class="interlanguage-link-target">Patois</a></li>
+       <li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Ta%C3%AFwan_(%C3%AEle)" title="Taïwan (île) – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li>
+       <li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Taiwan" title="Taiwan – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Tajwan_(wyspa)" title="Tajwan (wyspa) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ilha_Formosa" title="Ilha Formosa – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Taiwan_(insul%C4%83)" title="Taiwan (insulă) – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Taywan" title="Taywan – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C" title="Тайвань – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%B1%D0%B0%D0%B0%D0%BD" title="Тайбаан – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-szy"><a href="https://szy.wikipedia.org/wiki/Taywan" title="Taywan – Sakizaya" lang="szy" hreflang="szy" class="interlanguage-link-target">Sakizaya</a></li>
+       <li class="interlanguage-link interwiki-sm"><a href="https://sm.wikipedia.org/wiki/Tailani" title="Tailani – Samoan" lang="sm" hreflang="sm" class="interlanguage-link-target">Gagana Samoa</a></li>
+       <li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Taiwan" title="Taiwan – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Taiwan_(ostrov)" title="Taiwan (ostrov) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Tajvan_(otok)" title="Tajvan (otok) – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A2%D0%B0%D1%98%D0%B2%D0%B0%D0%BD_(%D0%BE%D1%81%D1%82%D1%80%D0%B2%D0%BE)" title="Тајван (острво) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Tajvan_(otok)" title="Tajvan (otok) – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Taiwan" title="Taiwan – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Taiwan_(saari)" title="Taiwan (saari) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Taiwan_(%C3%B6)" title="Taiwan (ö) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C" title="Тайвань – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%84%E0%B8%95%E0%B9%89%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%99" title="ภูมิศาสตร์ไต้หวัน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Tayvan_(ada)" title="Tayvan (ada) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C" title="Тайвань – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Daizvanh" title="Daizvanh – Zhuang" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Taiwan_(ixo%C5%82a)" title="Taiwan (ixoła) – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Taivan%27_(sar%27)" title="Taivan' (sar') – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/%C4%90%C3%A0i_Loan_(%C4%91%E1%BA%A3o)" title="Đài Loan (đảo) – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-zh-classical badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://zh-classical.wikipedia.org/wiki/%E8%87%BA%E7%81%A3" title="臺灣 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li>
+       <li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Taiwan" title="Taiwan – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E8%87%BA%E7%81%A3" title="臺灣 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%98%D7%99%D7%99%D7%95%D7%95%D7%90%D7%9F_%D7%90%D7%99%D7%A0%D7%96%D7%9C" title="טייוואן אינזל – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E8%87%BA%E7%81%A3" title="臺灣 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3" title="臺灣 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q22502#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Change links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last changed on 19 December 2020, at 01:07.</li> 
+    <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-mobileview"><a href="//simple.m.wikipedia.org/w/index.php?title=Taiwan&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/simple.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.796","walltime":"1.025","ppvisitednodes":{"value":4515,"limit":1000000},"postexpandincludesize":{"value":89318,"limit":2097152},"templateargumentsize":{"value":21742,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38620,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  925.549      1 -total"," 67.87%  628.193      1 Template:Infobox_country"," 65.40%  605.327      3 Template:Infobox"," 18.67%  172.794      3 Template:ISO_3166_code"," 16.23%  150.226      2 Template:Reflist"," 15.07%  139.477      1 Template:Lang"," 11.82%  109.384      9 Template:Cite_web","  7.30%   67.563      1 Template:Commonscat","  7.00%   64.777      1 Template:Simp","  5.60%   51.791      1 Template:Commons"]},"scribunto":{"limitreport-timeusage":{"value":"0.482","limit":"10.000"},"limitreport-memusage":{"value":28399286,"limit":52428800}},"cachereport":{"origin":"mw1299","timestamp":"20201220140113","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Taiwan","url":"https:\/\/simple.wikipedia.org\/wiki\/Taiwan","sameAs":"http:\/\/www.wikidata.org\/entity\/Q22502","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q22502","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-10-21T03:20:18Z","dateModified":"2020-12-19T01:07:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/72\/Flag_of_the_Republic_of_China.svg","headline":"island in East Asia; main island of the Republic of China, also known as Taiwan"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":173,"wgHostname":"mw1322"});});</script> 
+ </body>
+</html>
