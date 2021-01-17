@@ -3,19 +3,15 @@ package me.randomhashtags.worldlaws.info.legal;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.info.CountryInfoValue;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.service.CountryService;
-import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
-import java.util.logging.Level;
 
-public enum LegalityDrinkingAge implements CountryService {
+public enum LegalityDrinkingAge implements CountryLegalityService {
     INSTANCE;
 
     private HashMap<String, String> countries;
@@ -26,45 +22,21 @@ public enum LegalityDrinkingAge implements CountryService {
     }
 
     @Override
-    public void getValue(String countryBackendID, CompletionHandler handler) {
-        if(countries != null) {
-            final String value = getValue(countryBackendID);
-            handler.handle(value);
-        } else {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    final String value = getValue(countryBackendID);
-                    handler.handle(value);
-                }
-            });
-        }
-    }
-    private String getValue(String countryBackendID) {
-        final String value = countries.getOrDefault(countryBackendID, "null");
-        if(value.equals("null")) {
-            WLLogger.log(Level.WARNING, "LegalityDrinkingAge - missing for country \"" + countryBackendID + "\"!");
-        }
-        return value;
+    public HashMap<String, String> getCountries() {
+        return countries;
     }
 
-    private void refresh(CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
+    public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Legal_drinking_age";
-        final Document doc = getDocument(url);
-        if(doc != null) {
-            final String title = getInfo().getTitle();
-            final Elements tables = doc.select("div.mw-parser-output table.wikitable");
-            final EventSources sources = new EventSources(new EventSource("Wikipedia: Legal drinking age", url));
-            load(title, sources, tables.get(0), false); // Africa
-            load(title, sources, tables.get(1), false); // Americas
-            load(title, sources, tables.get(2), false); // Asia
-            load(title, sources, tables.get(3), true); // Europe
-            load(title, sources, tables.get(4), false); // Oceania
-            WLLogger.log(Level.INFO, "LegalityDrinkingAge - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
-            handler.handle(null);
+        final Elements tables = getDocumentElements(url, "div.mw-parser-output table.wikitable");
+        final String title = getInfo().getTitle();
+        final EventSource source = new EventSource("Wikipedia: Legal drinking age", url);
+        final EventSources sources = new EventSources(source);
+        for(int i = 0; i < 5; i++) {
+            load(title, sources, tables.get(i), i == 3);
         }
+        handler.handle(null);
     }
     private void load(String title, EventSources sources, Element table, boolean propertyBased) {
         final Elements trs = table.select("tbody tr");
@@ -97,7 +69,7 @@ public enum LegalityDrinkingAge implements CountryService {
                 }
                 final CountryInfoValue purchasingAge = new CountryInfoValue("Purchasing Age", purchasingAgeText, null);
 
-                final CountryInfoKey info = new CountryInfoKey(title, notes, sources, drinkingAge, purchasingAge);
+                final CountryInfoKey info = new CountryInfoKey(title, notes, -1, sources, drinkingAge, purchasingAge);
                 countries.put(country, info.toString());
             }
         }

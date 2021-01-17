@@ -56,12 +56,11 @@ public enum SpaceX implements USAEventController {
         preEvents = new HashMap<>();
         events = new HashMap<>();
         final String url = "https://api.spacexdata.com/v4/launches/upcoming";
-        requestJSON(url, RequestMethod.GET, new CompletionHandler() {
+        requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
+            public void handleJSONArray(JSONArray array) {
                 final UpcomingEventType type = getType();
                 final StringBuilder builder = new StringBuilder("[");
-                final JSONArray array = new JSONArray(object.toString());
                 final EventSource source = new EventSource("SpaceX GitHub", "https://github.com/r-spacex/SpaceX-API");
                 final EventSources sources = new EventSources(source);
                 final Object last = array.get(array.length()-1);
@@ -111,9 +110,9 @@ public enum SpaceX implements USAEventController {
             handler.handle(launchpads.get(id));
         } else {
             final String launchpadURL = "https://api.spacexdata.com/v4/launchpads/" + id;
-            requestJSON(launchpadURL, RequestMethod.GET, new CompletionHandler() {
+            requestJSONObject(launchpadURL, RequestMethod.GET, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleJSONObject(JSONObject object) {
                     final String string = object.toString();
                     launchpads.put(id, string);
                     handler.handle(string);

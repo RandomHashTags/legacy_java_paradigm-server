@@ -3,17 +3,17 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Sahrawi Arab Democratic Republic - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHQpAMNIAA2yEQIQAAAAA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Sahrawi_Arab_Democratic_Republic","wgTitle":"Sahrawi Arab Democratic Republic","wgCurRevisionId":7175276,"wgRevisionId":7175276,"wgArticleId":37854,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Arabic-language text","Articles containing Spanish-language text","Geography stubs","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers",
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X-43bApAEKAAAwR2OooAAAAL","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Sahrawi_Arab_Democratic_Republic","wgTitle":"Sahrawi Arab Democratic Republic","wgCurRevisionId":7175276,"wgRevisionId":7175276,"wgArticleId":37854,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Arabic-language text","Articles containing Spanish-language text","Geography stubs","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers",
 "Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Unrecognized countries","Dependent territories","Western Sahara"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Sahrawi_Arab_Democratic_Republic","wgRelevantArticleId":37854,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,
-"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q40362"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
-"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q40362"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.25"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -101,9 +101,9 @@
           <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
@@ -285,36 +285,36 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1381
-Cached time: 20201213003727
+Parsed by mw1274
+Cached time: 20210112164421
 Cache expiry: 2592000
 Dynamic content: false
 Complications: []
-CPU time usage: 0.305 seconds
-Real time usage: 0.403 seconds
+CPU time usage: 0.296 seconds
+Real time usage: 0.371 seconds
 Preprocessor visited node count: 333/1000000
-Post‐expand include size: 26059/2097152 bytes
+Post‐expand include size: 25645/2097152 bytes
 Template argument size: 432/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 6/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 1527/5000000 bytes
-Lua time usage: 0.195/10.000 seconds
-Lua memory usage: 16187648/52428800 bytes
+Lua time usage: 0.189/10.000 seconds
+Lua memory usage: 16189620/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  355.792      1 -total
- 54.29%  193.161      1 Template:Lang-ar
- 21.24%   75.553      1 Template:Africa
- 20.00%   71.161      2 Template:Navbox
- 17.02%   60.554      1 Template:Authority_control
-  5.32%   18.922      2 Template:Longitem
-  4.40%   15.647      1 Template:Nobold
-  3.62%   12.878      1 Template:Reflist
-  2.12%    7.540      1 Template:Portal-inline
-  1.84%    6.564      2 Template:Smaller
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:37854-0!canonical and timestamp 20201213003727 and revision id 7175276. Serialized with JSON.
+100.00%  311.749      1 -total
+ 50.94%  158.801      1 Template:Lang-ar
+ 21.53%   67.114      1 Template:Africa
+ 20.61%   64.243      2 Template:Navbox
+ 20.06%   62.546      1 Template:Authority_control
+  5.14%   16.011      2 Template:Longitem
+  4.23%   13.192      1 Template:Nobold
+  3.47%   10.806      1 Template:Reflist
+  2.02%    6.290      1 Template:Portal-inline
+  1.78%    5.544      1 Template:Geo-stub
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:37854-0!canonical and timestamp 20210112164421 and revision id 7175276. Serialized with JSON.
  --> 
      </div>
      <noscript>
@@ -481,6 +481,7 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Rep%C3%BAblica_%C3%81rabe_Sa%E1%B8%A5ariana_Democr%C3%A1tica" title="República Árabe Saḥariana Democrática – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
        <li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Tavakuairet%C3%A3_Sa%C3%A1ragua_%C3%81rave_Jekopytyjoj%C3%A1va" title="Tavakuairetã Saáragua Árave Jekopytyjojáva – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li>
        <li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B5%D8%AD%D8%B1%D8%A7_%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA%DB%8C%DA%A9_%D8%B9%D8%B1%D8%A8_%D8%AC%D9%88%D9%85%D9%87%D9%88%D8%B1%DB%8C%D8%AA%DB%8C" title="صحرا دموکراتیک عرب جومهوریتی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%89%E0%A6%87_%E0%A6%86%E0%A6%B0%E0%A6%AC_%E0%A6%97%E0%A6%A3%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0" title="সাহরাউই আরব গণতান্ত্রিক প্রজাতন্ত্র – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
        <li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Sahrawi_A-la-pek_B%C3%AEn-ch%C3%BA_Ki%C5%8Dng-h%C3%B4-kok" title="Sahrawi A-la-pek Bîn-chú Kiōng-hô-kok – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li>
        <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A1%D0%B0%D1%85%D0%B0%D1%80%D0%B0_%D2%92%D3%99%D1%80%D3%99%D0%BF_%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D0%BA_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D2%BB%D1%8B" title="Сахара Ғәрәп Демократик Республикаһы – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
        <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%B0%D1%85%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D1%8D%D0%BC%D0%B0%D0%BA%D1%80%D0%B0%D1%82%D1%8B%D1%87%D0%BD%D0%B0%D1%8F_%D0%A0%D1%8D%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B0" title="Сахарская Арабская Дэмакратычная Рэспубліка – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
@@ -602,8 +603,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.305","walltime":"0.403","ppvisitednodes":{"value":333,"limit":1000000},"postexpandincludesize":{"value":26059,"limit":2097152},"templateargumentsize":{"value":432,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1527,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  355.792      1 -total"," 54.29%  193.161      1 Template:Lang-ar"," 21.24%   75.553      1 Template:Africa"," 20.00%   71.161      2 Template:Navbox"," 17.02%   60.554      1 Template:Authority_control","  5.32%   18.922      2 Template:Longitem","  4.40%   15.647      1 Template:Nobold","  3.62%   12.878      1 Template:Reflist","  2.12%    7.540      1 Template:Portal-inline","  1.84%    6.564      2 Template:Smaller"]},"scribunto":{"limitreport-timeusage":{"value":"0.195","limit":"10.000"},"limitreport-memusage":{"value":16187648,"limit":52428800}},"cachereport":{"origin":"mw1381","timestamp":"20201213003727","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.371","ppvisitednodes":{"value":333,"limit":1000000},"postexpandincludesize":{"value":25645,"limit":2097152},"templateargumentsize":{"value":432,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1527,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  311.749      1 -total"," 50.94%  158.801      1 Template:Lang-ar"," 21.53%   67.114      1 Template:Africa"," 20.61%   64.243      2 Template:Navbox"," 20.06%   62.546      1 Template:Authority_control","  5.14%   16.011      2 Template:Longitem","  4.23%   13.192      1 Template:Nobold","  3.47%   10.806      1 Template:Reflist","  2.02%    6.290      1 Template:Portal-inline","  1.78%    5.544      1 Template:Geo-stub"]},"scribunto":{"limitreport-timeusage":{"value":"0.189","limit":"10.000"},"limitreport-memusage":{"value":16189620,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20210112164421","ttl":2592000,"transientcontent":false}}});});</script> 
   <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sahrawi Arab Democratic Republic","url":"https:\/\/simple.wikipedia.org\/wiki\/Sahrawi_Arab_Democratic_Republic","sameAs":"http:\/\/www.wikidata.org\/entity\/Q40362","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q40362","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-09-29T13:39:23Z","dateModified":"2020-11-10T07:43:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bf\/Western_sahara_walls_moroccan.png","headline":"partially recognised state of Western Sahara"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":180,"wgHostname":"mw1368"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":180,"wgHostname":"mw1399"});});</script> 
  </body>
 </html>

@@ -1,17 +1,17 @@
 package me.randomhashtags.worldlaws.location;
 
 public final class Location {
-    private final float longitude, latitude;
+    private final double longitude, latitude;
 
-    public Location(float latitude, float longitude) {
+    public Location(double latitude, double longitude) {
         this.latitude = latitude;
         this.longitude = longitude;
     }
 
-    public float getLatitude() {
+    public double getLatitude() {
         return latitude;
     }
-    public float getLongitude() {
+    public double getLongitude() {
         return longitude;
     }
 

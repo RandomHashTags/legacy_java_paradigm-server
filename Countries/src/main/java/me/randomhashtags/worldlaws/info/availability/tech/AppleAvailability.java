@@ -6,7 +6,7 @@ import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityCategory;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.service.CountryService;
+import me.randomhashtags.worldlaws.info.service.CountryService;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -15,8 +15,17 @@ import java.util.logging.Level;
 
 public interface AppleAvailability extends CountryService {
 
-    Elements ELEMENTS = Jsoupable.getStaticDocument("https://en.wikipedia.org/wiki/Apple_Media_Services").select("div.mw-parser-output table.wikitable").get(0).select("tbody tr");
+    Elements ELEMENTS = Jsoupable.getStaticDocumentElements("https://en.wikipedia.org/wiki/Apple_Media_Services", "div.mw-parser-output table.wikitable", 0).select("tbody tr");
     HashMap<CountryInfo, HashMap<String, String>> COUNTRIES = new HashMap<>();
+
+    @Override
+    default HashMap<String, String> getCountries() {
+        return null;
+    }
+
+    @Override
+    default void refresh(CompletionHandler handler) {
+    }
 
     default void getAppleValue(String countryBackendID, CompletionHandler handler) {
         final CountryInfo info = getInfo();

@@ -3,17 +3,17 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>San Marino - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@VDvApAAEEAAES8hzEAAACH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"San_Marino","wgTitle":"San Marino","wgCurRevisionId":7095404,"wgRevisionId":7095404,"wgArticleId":6240,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles containing Italian-language text","Articles containing Latin-language text","Pages using infobox country or infobox former country with the symbol caption or type parameters","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers",
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VQpAEKAAAYmr4cEAAAAO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"San_Marino","wgTitle":"San Marino","wgCurRevisionId":7266394,"wgRevisionId":7266394,"wgArticleId":6240,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles containing Italian-language text","Articles containing Latin-language text","Pages using infobox country or infobox former country with the symbol caption or type parameters","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers",
 "Wikipedia articles with HDS identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLG identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","San Marino","Italian-speaking countries"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"San_Marino","wgRelevantArticleId":6240,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en",
-"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q238"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform",
-"mw.TMHGalleryHook.js","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q238"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site",
+"mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -121,11 +121,12 @@
         </tr>
         <tr>
          <th scope="row">Capital</th>
-         <td><a href="/wiki/City_of_San_Marino" class="mw-redirect" title="City of San Marino">San Marino</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=San_Marino&amp;params=43_56_N_12_26_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°56′N</span> <span class="longitude">12°26′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.933°N 12.433°E</span><span style="display:none">﻿ / <span class="geo">43.933; 12.433</span></span></span></a></span></td>
+         <td><a href="/wiki/City_of_San_Marino" class="mw-redirect" title="City of San Marino">San Marino</a><br><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=San_Marino&amp;params=43_56_N_12_26_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°56′N</span> <span class="longitude">12°26′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.933°N 12.433°E</span><span style="display:none">﻿ / <span class="geo">43.933; 12.433</span></span></span></a></span></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">Largest settlement</th>
-         <td><a href="/wiki/Dogana" title="Dogana">Dogana</a><br><span style="font-size:85%;"><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=San_Marino&amp;params=43_58_52.57_N_12_29_22.2_E_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°58′52.57″N</span> <span class="longitude">12°29′22.2″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.9812694°N 12.489500°E</span><span style="display:none">﻿ / <span class="geo">43.9812694; 12.489500</span></span></span></a></span></span></td>
+         <td><a href="/wiki/Dogana" title="Dogana">Dogana</a><br><span style="font-size:85%;">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263774"><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=San_Marino&amp;params=43_58_52.57_N_12_29_22.2_E_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°58′52.57″N</span> <span class="longitude">12°29′22.2″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.9812694°N 12.489500°E</span><span style="display:none">﻿ / <span class="geo">43.9812694; 12.489500</span></span></span></a></span></span></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Official&nbsp;languages</th>
@@ -152,7 +153,7 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;<a href="/wiki/Captains_Regent" title="Captains Regent">Captains Regent</a> 
           </div></th>
-         <td><a href="/wiki/Alessandro_Mancini" title="Alessandro Mancini">Alessandro Mancini</a><br><a href="/w/index.php?title=Grazia_Zafferani&amp;action=edit&amp;redlink=1" class="new" title="Grazia Zafferani (not yet started)">Grazia Zafferani</a></td>
+         <td><a href="/w/index.php?title=Alessandro_Cardelli&amp;action=edit&amp;redlink=1" class="new" title="Alessandro Cardelli (not yet started)">Alessandro Cardelli</a><br><a href="/w/index.php?title=Mirko_Dolcini&amp;action=edit&amp;redlink=1" class="new" title="Mirko Dolcini (not yet started)">Mirko Dolcini</a></td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
@@ -207,9 +208,9 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2018 estimate
+           •&nbsp;2020 estimate
           </div></th>
-         <td>33,344<sup id="cite_ref-cia_1-3" class="reference"><a href="#cite_note-cia-1">[1]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">221st</a>)</td>
+         <td>34,232<sup id="cite_ref-cia_1-3" class="reference"><a href="#cite_note-cia-1">[1]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">221st</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
@@ -574,12 +575,13 @@
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap">
         <ol class="references"> 
-         <li id="cite_note-cia-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-cia_1-0">1.0</a></sup> <sup><a href="#cite_ref-cia_1-1">1.1</a></sup> <sup><a href="#cite_ref-cia_1-2">1.2</a></sup> <sup><a href="#cite_ref-cia_1-3">1.3</a></sup> <sup><a href="#cite_ref-cia_1-4">1.4</a></sup></span> <span class="reference-text"><a href="/wiki/CIA_World_Factbook" class="mw-redirect" title="CIA World Factbook">CIA World Factbook</a> information about <a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/sm.html">San Marino</a></span> </li> 
-         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gov.sm/articoli/San-Marino-%C3%A8/San-Marino-%C3%A8.html">"San Marino è"</a>. <i>GOV.SM</i>. Repubblica di San Marino<span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GOV.SM&amp;rft.atitle=San+Marino+%C3%A8&amp;rft_id=https%3A%2F%2Fwww.gov.sm%2Farticoli%2FSan-Marino-%25C3%25A8%2FSan-Marino-%25C3%25A8.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASan+Marino" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-cia-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-cia_1-0">1.0</a></sup> <sup><a href="#cite_ref-cia_1-1">1.1</a></sup> <sup><a href="#cite_ref-cia_1-2">1.2</a></sup> <sup><a href="#cite_ref-cia_1-3">1.3</a></sup> <sup><a href="#cite_ref-cia_1-4">1.4</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/sm.html">"San Marino"</a>. <i><a href="/wiki/The_World_Factbook" title="The World Factbook">The World Factbook</a></i>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=San+Marino&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fsm.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASan+Marino" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gov.sm/articoli/San-Marino-%C3%A8/San-Marino-%C3%A8.html">"San Marino è"</a>. <i>GOV.SM</i>. Repubblica di San Marino<span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GOV.SM&amp;rft.atitle=San+Marino+%C3%A8&amp;rft_id=https%3A%2F%2Fwww.gov.sm%2Farticoli%2FSan-Marino-%25C3%25A8%2FSan-Marino-%25C3%25A8.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASan+Marino" class="Z3988"></span></span> </li> 
          <li id="cite_note-imf-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf_3-0">3.0</a></sup> <sup><a href="#cite_ref-imf_3-1">3.1</a></sup> <sup><a href="#cite_ref-imf_3-2">3.2</a></sup> <sup><a href="#cite_ref-imf_3-3">3.3</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?sy=2017&amp;ey=2017&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=135&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&amp;grp=0&amp;a=&amp;pr.x=79&amp;pr.y=15">San Marino</a>. Imf.org.</span> </li> 
          <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unescap.org/pdd/publications/workingpaper/wp_09_02.pdf">Filling Gaps in the Human Development Index</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111005100501/http://www.unescap.org/pdd/publications/workingpaper/wp_09_02.pdf">Archived</a> 5 October 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, United Nations ESCAP, February 2009</span> </li> 
-         <li id="cite_note-unece-5"><span class="mw-cite-backlink"><a href="#cite_ref-unece_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.unece.org/stats/profiles2009/san_marino.pdf">"San Marino"</a> <span class="cs1-format">(PDF)</span>. <i>UNECE Statistics Programme</i>. <a href="/w/index.php?title=UNECE&amp;action=edit&amp;redlink=1" class="new" title="UNECE (not yet started)">UNECE</a>. 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UNECE+Statistics+Programme&amp;rft.atitle=San+Marino&amp;rft.date=2009&amp;rft_id=http%3A%2F%2Fwww.unece.org%2Fstats%2Fprofiles2009%2Fsan_marino.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASan+Marino" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-unece-5"><span class="mw-cite-backlink"><a href="#cite_ref-unece_5-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.unece.org/stats/profiles2009/san_marino.pdf">"San Marino"</a> <span class="cs1-format">(PDF)</span>. <i>UNECE Statistics Programme</i>. <a href="/w/index.php?title=UNECE&amp;action=edit&amp;redlink=1" class="new" title="UNECE (not yet started)">UNECE</a>. 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UNECE+Statistics+Programme&amp;rft.atitle=San+Marino&amp;rft.date=2009&amp;rft_id=http%3A%2F%2Fwww.unece.org%2Fstats%2Fprofiles2009%2Fsan_marino.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASan+Marino" class="Z3988"></span></span> </li> 
         </ol>
        </div>
       </div> 
@@ -590,9 +592,9 @@
           <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
@@ -657,43 +659,43 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1296
-Cached time: 20201220202422
+Parsed by mw1392
+Cached time: 20210113235735
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.032 seconds
-Real time usage: 1.195 seconds
-Preprocessor visited node count: 3953/1000000
-Post‐expand include size: 85799/2097152 bytes
-Template argument size: 18323/2097152 bytes
+CPU time usage: 0.900 seconds
+Real time usage: 1.084 seconds
+Preprocessor visited node count: 3983/1000000
+Post‐expand include size: 87626/2097152 bytes
+Template argument size: 18779/2097152 bytes
 Highest expansion depth: 18/40
 Expensive parser function count: 18/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 10217/5000000 bytes
-Lua time usage: 0.720/10.000 seconds
-Lua memory usage: 28994130/52428800 bytes
+Unstrip post‐expand size: 13222/5000000 bytes
+Lua time usage: 0.606/10.000 seconds
+Lua memory usage: 29302413/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1095.062      1 -total
- 64.96%  711.403      1 Template:Infobox_country
- 63.87%  699.469      3 Template:Infobox
- 24.43%  267.475      3 Template:ISO_3166_code
- 17.18%  188.108      1 Template:Native_name
- 15.71%  172.022      2 Template:Lang
- 15.30%  167.509      1 Template:Authority_control
- 10.18%  111.463      1 Template:Reflist
-  7.89%   86.347      2 Template:Cite_web
-  3.84%   42.036      1 Template:Other_uses
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:6240-0!canonical and timestamp 20201220202422 and revision id 7095404. Serialized with JSON.
+100.00%  958.548      1 -total
+ 64.95%  622.588      1 Template:Infobox_country
+ 62.60%  600.099      3 Template:Infobox
+ 19.83%  190.101      3 Template:ISO_3166_code
+ 16.02%  153.525      1 Template:Authority_control
+ 15.75%  150.986      1 Template:Native_name
+ 15.23%  146.022      2 Template:Lang
+ 12.97%  124.282      1 Template:Reflist
+ 10.44%  100.108      3 Template:Cite_web
+ 10.10%   96.801      1 Template:CIA_World_Factbook_link
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:6240-0!canonical and timestamp 20210113235736 and revision id 7266394. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=San_Marino&amp;oldid=7095404">https://simple.wikipedia.org/w/index.php?title=San_Marino&amp;oldid=7095404</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=San_Marino&amp;oldid=7266394">https://simple.wikipedia.org/w/index.php?title=San_Marino&amp;oldid=7266394</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -798,9 +800,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -824,9 +826,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/San_Marino" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=San_Marino&amp;oldid=7095404" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=San_Marino&amp;oldid=7266394" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=San_Marino&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=San_Marino&amp;id=7095404&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=San_Marino&amp;id=7266394&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q238" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -989,7 +991,7 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/San_Marin" title="San Marin – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li>
        <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/San_Marino" title="San Marino – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
        <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%B8%E0%A5%88%E0%A4%A8_%E0%A4%AE%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A5%8B" title="सैन मरीनो – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
-       <li class="interlanguage-link interwiki-mk badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE" title="Сан Марино – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-mk badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE" title="Сан Марино – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
        <li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/San_Marino" title="San Marino – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li>
        <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%BE%E0%B5%BB_%E0%B4%AE%E0%B4%B0%E0%B5%80%E0%B4%A8%E0%B5%8B" title="സാൻ മരീനോ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
        <li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/San_Marino" title="San Marino – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li>
@@ -1109,7 +1111,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 3 September 2020, at 13:59.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 13 January 2021, at 23:57.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1127,8 +1129,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.032","walltime":"1.195","ppvisitednodes":{"value":3953,"limit":1000000},"postexpandincludesize":{"value":85799,"limit":2097152},"templateargumentsize":{"value":18323,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10217,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1095.062      1 -total"," 64.96%  711.403      1 Template:Infobox_country"," 63.87%  699.469      3 Template:Infobox"," 24.43%  267.475      3 Template:ISO_3166_code"," 17.18%  188.108      1 Template:Native_name"," 15.71%  172.022      2 Template:Lang"," 15.30%  167.509      1 Template:Authority_control"," 10.18%  111.463      1 Template:Reflist","  7.89%   86.347      2 Template:Cite_web","  3.84%   42.036      1 Template:Other_uses"]},"scribunto":{"limitreport-timeusage":{"value":"0.720","limit":"10.000"},"limitreport-memusage":{"value":28994130,"limit":52428800}},"cachereport":{"origin":"mw1296","timestamp":"20201220202422","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"San Marino","url":"https:\/\/simple.wikipedia.org\/wiki\/San_Marino","sameAs":"http:\/\/www.wikidata.org\/entity\/Q238","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q238","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-12T10:09:19Z","dateModified":"2020-09-03T13:59:54Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b1\/Flag_of_San_Marino.svg","headline":"sovereign state in Southern Europe, enclaved within Italy"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":350,"wgHostname":"mw1270"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.900","walltime":"1.084","ppvisitednodes":{"value":3983,"limit":1000000},"postexpandincludesize":{"value":87626,"limit":2097152},"templateargumentsize":{"value":18779,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13222,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  958.548      1 -total"," 64.95%  622.588      1 Template:Infobox_country"," 62.60%  600.099      3 Template:Infobox"," 19.83%  190.101      3 Template:ISO_3166_code"," 16.02%  153.525      1 Template:Authority_control"," 15.75%  150.986      1 Template:Native_name"," 15.23%  146.022      2 Template:Lang"," 12.97%  124.282      1 Template:Reflist"," 10.44%  100.108      3 Template:Cite_web"," 10.10%   96.801      1 Template:CIA_World_Factbook_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.606","limit":"10.000"},"limitreport-memusage":{"value":29302413,"limit":52428800}},"cachereport":{"origin":"mw1392","timestamp":"20210113235735","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"San Marino","url":"https:\/\/simple.wikipedia.org\/wiki\/San_Marino","sameAs":"http:\/\/www.wikidata.org\/entity\/Q238","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q238","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-12T10:09:19Z","dateModified":"2021-01-13T23:57:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b1\/Flag_of_San_Marino.svg","headline":"sovereign state in Southern Europe, enclaved within Italy"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":184,"wgHostname":"mw1399"});});</script> 
  </body>
 </html>

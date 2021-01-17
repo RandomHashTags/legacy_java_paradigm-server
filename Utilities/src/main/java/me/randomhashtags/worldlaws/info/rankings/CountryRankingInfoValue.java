@@ -26,8 +26,8 @@ public final class CountryRankingInfoValue {
         this.value = value;
         this.valueType = valueType;
         this.isEstimate = isEstimate;
-        this.description = description;
-        this.suffix = suffix;
+        this.description = LocalServer.fixEscapeValues(description);
+        this.suffix = LocalServer.fixEscapeValues(suffix);
         this.sources = sources;
     }
 
@@ -87,8 +87,8 @@ public final class CountryRankingInfoValue {
                 "\"value\":" + value + "," +
                 "\"valueType\":\"" + valueType.name() + "\"," +
                 "\"isEstimate\":" + isEstimate + "," +
-                "\"description\":\"" + LocalServer.fixEscapeValues(description) + "\"," +
-                "\"suffix\":\"" + LocalServer.fixEscapeValues(suffix) + "\"," +
+                "\"description\":\"" + description + "\"," +
+                "\"suffix\":\"" + suffix + "\"," +
                 "\"otherValues\":" + otherValues + "," +
                 "\"sources\":" + sources.toString() +
                 "}";

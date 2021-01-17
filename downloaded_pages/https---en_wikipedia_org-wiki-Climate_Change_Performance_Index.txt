@@ -1,944 +1,314 @@
-<!doctype html>
-<html class="client-nojs" lang="en" dir="ltr"> 
- <head> 
-  <meta charset="UTF-8"> 
-  <title>Climate Change Performance Index - Wikipedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@pb4ApAAEEAAGrUaw4AAAEC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Climate_Change_Performance_Index","wgTitle":"Climate Change Performance Index","wgCurRevisionId":979611458,"wgRevisionId":979611458,"wgArticleId":37514747,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Climate change organizations","Environmental indices"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Climate_Change_Performance_Index","wgRelevantArticleId":37514747,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,
-"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q391581"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready",
-"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-});});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
-  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
-  <meta name="ResourceLoaderDynamicStyles" content=""> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
-  <meta name="referrer" content="origin"> 
-  <meta name="referrer" content="origin-when-crossorigin"> 
-  <meta name="referrer" content="origin-when-cross-origin"> 
-  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Climate_Change_Performance_Index.svg/1200px-Climate_Change_Performance_Index.svg.png"> 
-  <link rel="preconnect" href="//upload.wikimedia.org"> 
-  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Climate_Change_Performance_Index"> 
-  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=edit"> 
-  <link rel="edit" title="Edit this page" href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=edit"> 
-  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
-  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
-  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
-  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
-  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
-  <link rel="canonical" href="https://en.wikipedia.org/wiki/Climate_Change_Performance_Index"> 
-  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
-  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
- </head> 
- <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Climate_Change_Performance_Index rootpage-Climate_Change_Performance_Index skin-vector action-view skin-vector-legacy">
-  <div id="mw-page-base" class="noprint"></div> 
-  <div id="mw-head-base" class="noprint"></div> 
-  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
-   <div id="siteNotice" class="mw-body-content">
-    <!-- CentralNotice -->
-   </div> 
-   <div class="mw-indicators mw-body-content"> 
-   </div> 
-   <h1 id="firstHeading" class="firstHeading" lang="en">Climate Change Performance Index</h1> 
-   <div id="bodyContent" class="mw-body-content"> 
-    <div id="siteSub" class="noprint">
-     From Wikipedia, the free encyclopedia
-    </div> 
-    <div id="contentSub"></div> 
-    <div id="contentSub2"></div> 
-    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
-    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
-     <div class="mw-parser-output">
-      <div class="thumb tright">
-       <div class="thumbinner" style="width:332px;">
-        <a href="/wiki/File:Climate_Change_Performance_Index.svg" class="image"><img alt="Climate Change Performance Index.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Climate_Change_Performance_Index.svg/330px-Climate_Change_Performance_Index.svg.png" decoding="async" width="330" height="242" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Climate_Change_Performance_Index.svg/495px-Climate_Change_Performance_Index.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Climate_Change_Performance_Index.svg/660px-Climate_Change_Performance_Index.svg.png 2x" data-file-width="960" data-file-height="704"></a> 
-        <div class="thumbcaption">
-         <div class="magnify">
-          <a href="/wiki/File:Climate_Change_Performance_Index.svg" class="internal" title="Enlarge"></a>
-         </div>
-        </div>
-       </div>
-      </div> 
-      <p>The <b>Climate Change Performance Index (CCPI)</b> is a scoring system designed by the <a href="/wiki/Germany" title="Germany">German</a> environmental and development organisation <a href="/wiki/Germanwatch" title="Germanwatch">Germanwatch</a> e.V. to enhance transparency in international climate politics. On the basis of standardised criteria, the index evaluates and compares the climate protection performance of 57 countries and the <a href="/wiki/European_Union" title="European Union">European Union (EU)</a> (Status 2020), which are together responsible for more than 90% of global greenhouse gas (GHG) emissions. The Climate Change Performance Index was first published in 2005 and an updated version is presented at the <a href="/wiki/United_Nations_Climate_Change_conference" title="United Nations Climate Change conference">UN Climate Change Conference</a> annually. Germanwatch publishes the index in cooperation with the <a href="/w/index.php?title=NewClimate_Institute&amp;action=edit&amp;redlink=1" class="new" title="NewClimate Institute (page does not exist)">NewClimate Institute</a> and <a href="/wiki/Climate_Action_Network" title="Climate Action Network">Climate Action Network</a> International and with financial support from <a href="/w/index.php?title=Barthel_Foundation&amp;action=edit&amp;redlink=1" class="new" title="Barthel Foundation (page does not exist)">Barthel Foundation</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The most important results are available in German, English, French and Spanish. </p> 
-      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
-       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
-       <div class="toctitle" lang="en" dir="ltr">
-        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
-       </div> 
-       <ul> 
-        <li class="toclevel-1 tocsection-1"><a href="#Methodology"><span class="tocnumber">1</span> <span class="toctext">Methodology</span></a></li> 
-        <li class="toclevel-1 tocsection-2"><a href="#Results"><span class="tocnumber">2</span> <span class="toctext">Results</span></a> 
-         <ul> 
-          <li class="toclevel-2 tocsection-3"><a href="#2019_results"><span class="tocnumber">2.1</span> <span class="toctext">2019 results</span></a></li> 
-          <li class="toclevel-2 tocsection-4"><a href="#2020_results"><span class="tocnumber">2.2</span> <span class="toctext">2020 results</span></a></li> 
-         </ul> </li> 
-        <li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a></li> 
-        <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
-       </ul> 
-      </div> 
-      <h2><span class="mw-headline" id="Methodology">Methodology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=edit&amp;section=1" title="Edit section: Methodology">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <p>In 2017, the underlying <a href="/wiki/Methodology" title="Methodology">methodology</a> of the CCPI was revised and adapted to the new climate policy framework of the <a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a> from 2015. The CCPI was extended in order to include the measurement of a country’s progress towards the <a href="/wiki/Nationally_Determined_Contributions" class="mw-redirect" title="Nationally Determined Contributions">Nationally Determined Contributions</a> (NDCs) and the country’s 2030 targets. The national performances are assessed based on 14 indicators in the following four categories: </p>
-      <p>1. <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">GHG emissions</a> (weighting 40%) </p>
-      <p>2. <a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a> (weighting 20%) </p>
-      <p>3. <a href="/wiki/Energy_consumption" title="Energy consumption">Energy use</a> (weighting 20%) </p>
-      <p>4. <a href="/wiki/Politics_of_global_warming" class="mw-redirect" title="Politics of global warming">Climate policy</a> (weighting 20%) </p>
-      <p>The three categories “GHG emissions”, “Renewable energy” and “Energy use” are each defined by four equally weighted indicators: 1) current level, 2) recent developments (5-year trend), 3) 2°C compatibility of the current performance and 4) 2°C compatibility of 2030 target. These twelve indicators are complemented by two indicators, measuring the country's performance regarding its national climate policy framework and implementation as well as regarding international climate <a href="/wiki/Diplomacy" title="Diplomacy">diplomacy</a> in the category "Climate Policy". The data for the “Climate policy” category is assessed annually in a comprehensive <a href="/wiki/Research" title="Research">research</a> study. Its basis is the performance rating by climate change experts from <a href="/wiki/Non-governmental_organization" title="Non-governmental organization">non-governmental organisations</a>, <a href="/wiki/University" title="University">universities</a> and <a href="/wiki/Think_tank" title="Think tank">think tanks</a> within the countries that are evaluated. In a questionnaire, they give a rating on the most important measures of their governments. The results are rated as <i>very high</i>, <i>high</i>, <i>medium</i>, <i>low</i> or <i>very low</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
-      <h2><span class="mw-headline" id="Results">Results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=edit&amp;section=2" title="Edit section: Results">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <p>The most recent results illustrate the main regional differences in climate protection efforts and performance within the 57 evaluated countries and the EU. According to the CCPI, none of the countries has yet achieved a performance across all indicators that can be qualified as <i>very high</i>, because no country fulfills the requirements to limit global warming to well below 2°C, as agreed in the Paris Agreement. This is why the first three places in the final ranking remain unoccupied. In the index for 2020, <a href="/wiki/Sweden" title="Sweden">Sweden</a> led the ranking, followed by <a href="/wiki/Denmark" title="Denmark">Denmark</a> and <a href="/wiki/Morocco" title="Morocco">Morocco</a>. The last three ranks were taken by the <a href="/wiki/United_States" title="United States">United States of America</a>, <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a> and <a href="/wiki/Chinese_Taipei" title="Chinese Taipei">Chinese Taipei</a>. </p> 
-      <h3><span class="mw-headline" id="2019_results">2019 results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=edit&amp;section=3" title="Edit section: 2019 results">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
-      <table class="wikitable sortable"> 
-       <tbody>
-        <tr> 
-         <th>Rank</th> 
-         <th>Country</th> 
-         <th>Score </th>
-        </tr> 
-        <tr> 
-         <td>1</td> 
-         <td>-</td> 
-         <td>- </td>
-        </tr> 
-        <tr> 
-         <td>2</td> 
-         <td>-</td> 
-         <td>- </td>
-        </tr> 
-        <tr> 
-         <td>3</td> 
-         <td>-</td> 
-         <td>- </td>
-        </tr> 
-        <tr> 
-         <td>4</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000">&nbsp;</span><a href="/wiki/Sweden" title="Sweden">Sweden</a></td> 
-         <td>76.28 </td>
-        </tr> 
-        <tr> 
-         <td>5</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Morocco" title="Morocco">Morocco</a></td> 
-         <td>70.48 </td>
-        </tr> 
-        <tr> 
-         <td>6</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/35px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/46px-Flag_of_Lithuania.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Lithuania" title="Lithuania">Lithuania</a></td> 
-         <td>70.47 </td>
-        </tr> 
-        <tr> 
-         <td>7</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/35px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/46px-Flag_of_Latvia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Latvia" title="Latvia">Latvia</a></td> 
-         <td>68.31 </td>
-        </tr> 
-        <tr> 
-         <td>8</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td> 
-         <td>65.92 </td>
-        </tr> 
-        <tr> 
-         <td>9</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512">&nbsp;&nbsp;</span><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></td> 
-         <td>65.42 </td>
-        </tr> 
-        <tr> 
-         <td>10</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/35px-Flag_of_Malta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/45px-Flag_of_Malta.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Malta" title="Malta">Malta</a></td> 
-         <td>65.06 </td>
-        </tr> 
-        <tr> 
-         <td>11</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;</span><a href="/wiki/India" title="India">India</a></td> 
-         <td>62.93 </td>
-        </tr> 
-        <tr> 
-         <td>12</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span><a href="/wiki/Norway" title="Norway">Norway</a></td> 
-         <td>62.80 </td>
-        </tr> 
-        <tr> 
-         <td>13</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100">&nbsp;</span><a href="/wiki/Finland" title="Finland">Finland</a></td> 
-         <td>62.61 </td>
-        </tr> 
-        <tr> 
-         <td>14</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Croatia" title="Croatia">Croatia</a></td> 
-         <td>62.39 </td>
-        </tr> 
-        <tr> 
-         <td>15</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387">&nbsp;</span><a href="/wiki/Denmark" title="Denmark">Denmark</a></td> 
-         <td>61.96 </td>
-        </tr> 
-        <tr> 
-         <td>16</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540">&nbsp;</span><a href="/wiki/European_Union" title="European Union">European Union</a> (28)</td> 
-         <td>60.65 </td>
-        </tr> 
-        <tr> 
-         <td>17</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Portugal" title="Portugal">Portugal</a></td> 
-         <td>60.54 </td>
-        </tr> 
-        <tr> 
-         <td>18</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></td> 
-         <td>60.09 </td>
-        </tr> 
-        <tr> 
-         <td>19</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/35px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/46px-Flag_of_Luxembourg.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a></td> 
-         <td>59.92 </td>
-        </tr> 
-        <tr> 
-         <td>20</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Romania" title="Romania">Romania</a></td> 
-         <td>59.42 </td>
-        </tr> 
-        <tr> 
-         <td>21</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/France" title="France">France</a></td> 
-         <td>59.30 </td>
-        </tr> 
-        <tr> 
-         <td>22</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td> 
-         <td>59.29 </td>
-        </tr> 
-        <tr> 
-         <td>23</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span><a href="/wiki/Italy" title="Italy">Italy</a></td> 
-         <td>58.69 </td>
-        </tr> 
-        <tr> 
-         <td>24</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Egypt" title="Egypt">Egypt</a></td> 
-         <td>57.49 </td>
-        </tr> 
-        <tr> 
-         <td>25</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560">&nbsp;</span><a href="/wiki/Mexico" title="Mexico">Mexico</a></td> 
-         <td>56.82 </td>
-        </tr> 
-        <tr> 
-         <td>26</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/35px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/45px-Flag_of_Slovakia.svg.png 2x" data-file-width="512" data-file-height="341">&nbsp;</span><a href="/wiki/Slovakia" title="Slovakia">Slovak Republic</a></td> 
-         <td>56.61 </td>
-        </tr> 
-        <tr> 
-         <td>27</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Germany" title="Germany">Germany</a></td> 
-         <td>55.18 </td>
-        </tr> 
-        <tr> 
-         <td>28</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td> 
-         <td>54.11 </td>
-        </tr> 
-        <tr> 
-         <td>29</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450">&nbsp;</span><a href="/wiki/Belarus" title="Belarus">Belarus</a></td> 
-         <td>53.31 </td>
-        </tr> 
-        <tr> 
-         <td>30</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Greece" title="Greece">Greece</a></td> 
-         <td>50.86 </td>
-        </tr> 
-        <tr> 
-         <td>31</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Belgium" title="Belgium">Belgium</a></td> 
-         <td>50.63 </td>
-        </tr> 
-        <tr> 
-         <td>32</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></td> 
-         <td>49.73 </td>
-        </tr> 
-        <tr> 
-         <td>33</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/China" title="China">China</a></td> 
-         <td>49.60 </td>
-        </tr> 
-        <tr> 
-         <td>34</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500">&nbsp;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a></td> 
-         <td>49.01 </td>
-        </tr> 
-        <tr> 
-         <td>35</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500">&nbsp;</span><a href="/wiki/Spain" title="Spain">Spain</a></td> 
-         <td>48.97 </td>
-        </tr> 
-        <tr> 
-         <td>36</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Austria" title="Austria">Austria</a></td> 
-         <td>48.78 </td>
-        </tr> 
-        <tr> 
-         <td>37</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Thailand" title="Thailand">Thailand</a></td> 
-         <td>48.71 </td>
-        </tr> 
-        <tr> 
-         <td>38</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/45px-Flag_of_Indonesia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a></td> 
-         <td>48.68 </td>
-        </tr> 
-        <tr> 
-         <td>39</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td> 
-         <td>48.25 </td>
-        </tr> 
-        <tr> 
-         <td>40</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td> 
-         <td>48.11 </td>
-        </tr> 
-        <tr> 
-         <td>41</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800">&nbsp;</span><a href="/wiki/Poland" title="Poland">Poland</a></td> 
-         <td>47.59 </td>
-        </tr> 
-        <tr> 
-         <td>42</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Hungary" title="Hungary">Hungary</a></td> 
-         <td>46.79 </td>
-        </tr> 
-        <tr> 
-         <td>43</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/35px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/46px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Slovenia" title="Slovenia">Slovenia</a></td> 
-         <td>44.90 </td>
-        </tr> 
-        <tr> 
-         <td>44</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></td> 
-         <td>44.61 </td>
-        </tr> 
-        <tr> 
-         <td>45</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/35px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/46px-Flag_of_Estonia.svg.png 2x" data-file-width="990" data-file-height="630">&nbsp;</span><a href="/wiki/Estonia" title="Estonia">Estonia</a></td> 
-         <td>44.37 </td>
-        </tr> 
-        <tr> 
-         <td>46</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/35px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/45px-Flag_of_Cyprus.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></td> 
-         <td>44.34 </td>
-        </tr> 
-        <tr> 
-         <td>47</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/35px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/45px-Flag_of_Algeria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Algeria" title="Algeria">Algeria</a></td> 
-         <td>42.10 </td>
-        </tr> 
-        <tr> 
-         <td>48</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a></td> 
-         <td>40.84 </td>
-        </tr> 
-        <tr> 
-         <td>49</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Japan" title="Japan">Japan</a></td> 
-         <td>40.63 </td>
-        </tr> 
-        <tr> 
-         <td>50</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td> 
-         <td>40.22 </td>
-        </tr> 
-        <tr> 
-         <td>51</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/35px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/46px-Flag_of_Malaysia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></td> 
-         <td>38.08 </td>
-        </tr> 
-        <tr> 
-         <td>52</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Russia" title="Russia">Russia</a></td> 
-         <td>37.59 </td>
-        </tr> 
-        <tr> 
-         <td>53</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/35px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/46px-Flag_of_Kazakhstan.svg.png 2x" data-file-width="1000" data-file-height="500">&nbsp;</span><a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a></td> 
-         <td>36.47 </td>
-        </tr> 
-        <tr> 
-         <td>54</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Canada" title="Canada">Canada</a></td> 
-         <td>34.26 </td>
-        </tr> 
-        <tr> 
-         <td>55</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640">&nbsp;</span><a href="/wiki/Australia" title="Australia">Australia</a></td> 
-         <td>31.27 </td>
-        </tr> 
-        <tr> 
-         <td>56</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/23px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/35px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/45px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Chinese_Taipei" title="Chinese Taipei">Chinese Taipei</a></td> 
-         <td>28.80 </td>
-        </tr> 
-        <tr> 
-         <td>57</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Korea_%281899%29.svg/23px-Flag_of_Korea_%281899%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Korea_%281899%29.svg/35px-Flag_of_Korea_%281899%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Korea_%281899%29.svg/45px-Flag_of_Korea_%281899%29.svg.png 2x" data-file-width="850" data-file-height="567">&nbsp;</span><a href="/wiki/Korea" title="Korea">Korea</a></td> 
-         <td>28.53 </td>
-        </tr> 
-        <tr> 
-         <td>58</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360">&nbsp;</span><a href="/wiki/Iran" title="Iran">Iran</a></td> 
-         <td>23.94 </td>
-        </tr> 
-        <tr> 
-         <td>59</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span><a href="/wiki/United_States" title="United States">United States</a></td> 
-         <td>18.82 </td>
-        </tr> 
-        <tr> 
-         <td>60</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a></td> 
-         <td>8.82 </td>
-        </tr> 
-       </tbody>
-      </table> 
-      <h3><span class="mw-headline" id="2020_results">2020 results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=edit&amp;section=4" title="Edit section: 2020 results">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
-      <table class="wikitable sortable"> 
-       <tbody>
-        <tr> 
-         <th>Rank</th> 
-         <th>Country</th> 
-         <th>Score </th>
-        </tr> 
-        <tr> 
-         <td>1</td> 
-         <td>-</td> 
-         <td>- </td>
-        </tr> 
-        <tr> 
-         <td>2</td> 
-         <td>-</td> 
-         <td>- </td>
-        </tr> 
-        <tr> 
-         <td>3</td> 
-         <td>-</td> 
-         <td>- </td>
-        </tr> 
-        <tr> 
-         <td>4</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000">&nbsp;</span><a href="/wiki/Sweden" title="Sweden">Sweden</a></td> 
-         <td>75.77 </td>
-        </tr> 
-        <tr> 
-         <td>5</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387">&nbsp;</span><a href="/wiki/Denmark" title="Denmark">Denmark</a></td> 
-         <td>71.14 </td>
-        </tr> 
-        <tr> 
-         <td>6</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Morocco" title="Morocco">Morocco</a></td> 
-         <td>70.63 </td>
-        </tr> 
-        <tr> 
-         <td>7</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td> 
-         <td>69.80 </td>
-        </tr> 
-        <tr> 
-         <td>8</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/35px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/46px-Flag_of_Lithuania.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Lithuania" title="Lithuania">Lithuania</a></td> 
-         <td>66.22 </td>
-        </tr> 
-        <tr> 
-         <td>9</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;</span><a href="/wiki/India" title="India">India</a></td> 
-         <td>66.02 </td>
-        </tr> 
-        <tr> 
-         <td>10</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100">&nbsp;</span><a href="/wiki/Finland" title="Finland">Finland</a></td> 
-         <td>63.25 </td>
-        </tr> 
-        <tr> 
-         <td>11</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span><a href="/wiki/Chile" title="Chile">Chile</a></td> 
-         <td>62.88 </td>
-        </tr> 
-        <tr> 
-         <td>12</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span><a href="/wiki/Norway" title="Norway">Norway</a></td> 
-         <td>61.14 </td>
-        </tr> 
-        <tr> 
-         <td>13</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/35px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/46px-Flag_of_Luxembourg.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a></td> 
-         <td>60.91 </td>
-        </tr> 
-        <tr> 
-         <td>14</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/35px-Flag_of_Malta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/45px-Flag_of_Malta.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Malta" title="Malta">Malta</a></td> 
-         <td>60.60 </td>
-        </tr> 
-        <tr> 
-         <td>15</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/35px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/46px-Flag_of_Latvia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Latvia" title="Latvia">Latvia</a></td> 
-         <td>60.75 </td>
-        </tr> 
-        <tr> 
-         <td>16</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512">&nbsp;&nbsp;</span><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></td> 
-         <td>60.61 </td>
-        </tr> 
-        <tr> 
-         <td>17</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></td> 
-         <td>60.60 </td>
-        </tr> 
-        <tr> 
-         <td>18</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/France" title="France">France</a></td> 
-         <td>57.90 </td>
-        </tr> 
-        <tr> 
-         <td>19</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Egypt" title="Egypt">Egypt</a></td> 
-         <td>57.53 </td>
-        </tr> 
-        <tr> 
-         <td>20</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Croatia" title="Croatia">Croatia</a></td> 
-         <td>56.97 </td>
-        </tr> 
-        <tr> 
-         <td>21</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td> 
-         <td>55.82 </td>
-        </tr> 
-        <tr> 
-         <td>22</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540">&nbsp;</span><a href="/wiki/European_Union" title="European Union">European Union</a> (28)</td> 
-         <td>55.82 </td>
-        </tr> 
-        <tr> 
-         <td>23</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Germany" title="Germany">Germany</a></td> 
-         <td>55.78 </td>
-        </tr> 
-        <tr> 
-         <td>24</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Romania" title="Romania">Romania</a></td> 
-         <td>54.85 </td>
-        </tr> 
-        <tr> 
-         <td>25</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Portugal" title="Portugal">Portugal</a></td> 
-         <td>54.10 </td>
-        </tr> 
-        <tr> 
-         <td>26</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span><a href="/wiki/Italy" title="Italy">Italy</a></td> 
-         <td>53.92 </td>
-        </tr> 
-        <tr> 
-         <td>27</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/35px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/45px-Flag_of_Slovakia.svg.png 2x" data-file-width="512" data-file-height="341">&nbsp;</span><a href="/wiki/Slovakia" title="Slovakia">Slovak Republic</a></td> 
-         <td>52.69 </td>
-        </tr> 
-        <tr> 
-         <td>28</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Greece" title="Greece">Greece</a></td> 
-         <td>52.59 </td>
-        </tr> 
-        <tr> 
-         <td>29</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td> 
-         <td>50.89 </td>
-        </tr> 
-        <tr> 
-         <td>30</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/China" title="China">China</a></td> 
-         <td>48.16 </td>
-        </tr> 
-        <tr> 
-         <td>31</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/35px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/46px-Flag_of_Estonia.svg.png 2x" data-file-width="990" data-file-height="630">&nbsp;</span><a href="/wiki/Estonia" title="Estonia">Estonia</a></td> 
-         <td>48.05 </td>
-        </tr> 
-        <tr> 
-         <td>32</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560">&nbsp;</span><a href="/wiki/Mexico" title="Mexico">Mexico</a></td> 
-         <td>47.01 </td>
-        </tr> 
-        <tr> 
-         <td>33</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Thailand" title="Thailand">Thailand</a></td> 
-         <td>46.76 </td>
-        </tr> 
-        <tr> 
-         <td>34</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500">&nbsp;</span><a href="/wiki/Spain" title="Spain">Spain</a></td> 
-         <td>46.03 </td>
-        </tr> 
-        <tr> 
-         <td>35</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Belgium" title="Belgium">Belgium</a></td> 
-         <td>45.73 </td>
-        </tr> 
-        <tr> 
-         <td>36</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td> 
-         <td>45.67 </td>
-        </tr> 
-        <tr> 
-         <td>37</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></td> 
-         <td>45.67 </td>
-        </tr> 
-        <tr> 
-         <td>38</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Austria" title="Austria">Austria</a></td> 
-         <td>44.74 </td>
-        </tr> 
-        <tr> 
-         <td>39</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/45px-Flag_of_Indonesia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a></td> 
-         <td>44.65 </td>
-        </tr> 
-        <tr> 
-         <td>40</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450">&nbsp;</span><a href="/wiki/Belarus" title="Belarus">Belarus</a></td> 
-         <td>44.18 </td>
-        </tr> 
-        <tr> 
-         <td>41</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a></td> 
-         <td>44.04 </td>
-        </tr> 
-        <tr> 
-         <td>42</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500">&nbsp;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a></td> 
-         <td>43.77 </td>
-        </tr> 
-        <tr> 
-         <td>43</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></td> 
-         <td>42.93 </td>
-        </tr> 
-        <tr> 
-         <td>44</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/35px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/46px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Slovenia" title="Slovenia">Slovenia</a></td> 
-         <td>41.91 </td>
-        </tr> 
-        <tr> 
-         <td>45</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/35px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/45px-Flag_of_Cyprus.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></td> 
-         <td>41.66 </td>
-        </tr> 
-        <tr> 
-         <td>46</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/35px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/45px-Flag_of_Algeria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Algeria" title="Algeria">Algeria</a></td> 
-         <td>41.45 </td>
-        </tr> 
-        <tr> 
-         <td>47</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Hungary" title="Hungary">Hungary</a></td> 
-         <td>41.17 </td>
-        </tr> 
-        <tr> 
-         <td>48</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td> 
-         <td>40.76 </td>
-        </tr> 
-        <tr> 
-         <td>49</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td> 
-         <td>40.12 </td>
-        </tr> 
-        <tr> 
-         <td>50</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800">&nbsp;</span><a href="/wiki/Poland" title="Poland">Poland</a></td> 
-         <td>39.98 </td>
-        </tr> 
-        <tr> 
-         <td>51</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Japan" title="Japan">Japan</a></td> 
-         <td>39.03 </td>
-        </tr> 
-        <tr> 
-         <td>52</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Russia" title="Russia">Russia</a></td> 
-         <td>37.85 </td>
-        </tr> 
-        <tr> 
-         <td>53</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/35px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/46px-Flag_of_Malaysia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></td> 
-         <td>34.21 </td>
-        </tr> 
-        <tr> 
-         <td>54</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/35px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/46px-Flag_of_Kazakhstan.svg.png 2x" data-file-width="1000" data-file-height="500">&nbsp;</span><a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a></td> 
-         <td>33.39 </td>
-        </tr> 
-        <tr> 
-         <td>55</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Canada" title="Canada">Canada</a></td> 
-         <td>31.01 </td>
-        </tr> 
-        <tr> 
-         <td>56</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640">&nbsp;</span><a href="/wiki/Australia" title="Australia">Australia</a></td> 
-         <td>30.75 </td>
-        </tr> 
-        <tr> 
-         <td>57</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360">&nbsp;</span><a href="/wiki/Iran" title="Iran">Iran</a></td> 
-         <td>28.41 </td>
-        </tr> 
-        <tr> 
-         <td>58</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Korea_%281899%29.svg/23px-Flag_of_Korea_%281899%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Korea_%281899%29.svg/35px-Flag_of_Korea_%281899%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Korea_%281899%29.svg/45px-Flag_of_Korea_%281899%29.svg.png 2x" data-file-width="850" data-file-height="567">&nbsp;</span><a href="/wiki/Korea" title="Korea">Korea</a></td> 
-         <td>26.75 </td>
-        </tr> 
-        <tr> 
-         <td>59</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/23px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/35px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/45px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Chinese_Taipei" title="Chinese Taipei">Chinese Taipei</a></td> 
-         <td>23.33 </td>
-        </tr> 
-        <tr> 
-         <td>60</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a></td> 
-         <td>23.03 </td>
-        </tr> 
-        <tr> 
-         <td>61</td> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span><a href="/wiki/United_States" title="United States">United States</a></td> 
-         <td>18.60 </td>
-        </tr>
-       </tbody>
-      </table> 
-      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <ul>
-       <li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.climate-change-performance-index.org/">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q391581#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></li> 
-       <li><a rel="nofollow" class="external text" href="https://www.climate-change-performance-index.org/the-climate-change-performance-index-2020">The Climate Change Performance Index 2020</a>(english version)</li> 
-       <li><a rel="nofollow" class="external text" href="https://www.climate-change-performance-index.org/methodology">Background and Methodology</a> (English version only)</li> 
-       <li><a rel="nofollow" class="external text" href="https://www.climate-change-performance-index.org/klimaschutz-index-wichtigsten-ergebnisse-2020">Klimaschutz-Index: Die wichtigsten Ergebnisse 2020</a>(german version)</li> 
-       <li><a rel="nofollow" class="external text" href="https://www.climate-change-performance-index.org/principaux-resultats-de-lindice-de-performance-climatique-ipc-2020">Principaux résultats de l'Indice de Performance Climatique (IPC) 2020</a> (french version)</li> 
-       <li><a rel="nofollow" class="external text" href="https://www.climate-change-performance-index.org/los-principales-resultados-del-indice-de-desempeno-frente-al-cambio-climatico-idcc-2020">Los principales resultados del Indice de Desempeño frente al Cambio Climático (IDCC) 2020</a> (spanish version)</li>
-      </ul> 
-      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <div class="reflist" style="list-style-type: decimal;"> 
-       <div class="mw-references-wrap">
-        <ol class="references"> 
-         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFBurckHagenHöhneNascimento2019" class="citation web cs1">Burck, Jan; Hagen, Ursula; <a href="/wiki/Niklas_H%C3%B6hne" title="Niklas Höhne">Höhne, Niklas</a>; Nascimento, Leonardo; Bals, Christoph (10 December 2019). <a rel="nofollow" class="external text" href="https://www.climate-change-performance-index.org/sites/default/files/documents/ccpi-2020-results-the_climate_change_performance_index.pdf">"The Climate Change Performance Index 2020"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Germanwatch" title="Germanwatch">Germanwatch</a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Climate+Change+Performance+Index+2020&amp;rft.pub=Germanwatch&amp;rft.date=2019-12-10&amp;rft.aulast=Burck&amp;rft.aufirst=Jan&amp;rft.au=Hagen%2C+Ursula&amp;rft.au=H%C3%B6hne%2C+Niklas&amp;rft.au=Nascimento%2C+Leonardo&amp;rft.au=Bals%2C+Christoph&amp;rft_id=https%3A%2F%2Fwww.climate-change-performance-index.org%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2Fccpi-2020-results-the_climate_change_performance_index.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClimate+Change+Performance+Index" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFBurckHagenBalsHelling2019" class="citation web cs1">Burck, Jan; Hagen, Ursula; Bals, Christoph; Helling, Violeta; <a href="/wiki/Niklas_H%C3%B6hne" title="Niklas Höhne">Höhne, Niklas</a>; Nascimento, Leonardo (10 December 2019). <a rel="nofollow" class="external text" href="https://www.climate-change-performance-index.org/sites/default/files/documents/ccpi_2020_background_and_methodology.pdf">"Background and Methodology"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Germanwatch" title="Germanwatch">Germanwatch</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 January</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Background+and+Methodology&amp;rft.pub=Germanwatch&amp;rft.date=2019-12-10&amp;rft.aulast=Burck&amp;rft.aufirst=Jan&amp;rft.au=Hagen%2C+Ursula&amp;rft.au=Bals%2C+Christoph&amp;rft.au=Helling%2C+Violeta&amp;rft.au=H%C3%B6hne%2C+Niklas&amp;rft.au=Nascimento%2C+Leonardo&amp;rft_id=https%3A%2F%2Fwww.climate-change-performance-index.org%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2Fccpi_2020_background_and_methodology.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClimate+Change+Performance+Index" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-        </ol>
-       </div>
-      </div> <!-- 
-NewPP limit report
-Parsed by mw1325
-Cached time: 20201206235431
-Cache expiry: 2592000
-Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.508 seconds
-Real time usage: 0.710 seconds
-Preprocessor visited node count: 9464/1000000
-Post‐expand include size: 49479/2097152 bytes
-Template argument size: 14087/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 0/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 7104/5000000 bytes
-Lua time usage: 0.094/10.000 seconds
-Lua memory usage: 2579055/52428800 bytes
-Number of Wikibase entities loaded: 1/400
---> <!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  488.889      1 -total
- 65.18%  318.666    115 Template:Flag
- 23.65%  115.600      1 Template:Reflist
- 21.48%  105.022      2 Template:Cite_web
- 17.95%   87.748    115 Template:Flag/core
-  9.17%   44.808      1 Template:Official_website
-  3.32%   16.246      2 Template:Country_data_Slovak_Republic
-  2.38%   11.619      2 Template:Country_data_Iran
-  2.30%   11.263      2 Template:Country_data_Malaysia
-  1.53%    7.466      2 Template:Country_data_Ireland
---> <!-- Saved in parser cache with key enwiki:pcache:idhash:37514747-0!canonical and timestamp 20201206235430 and revision id 979611458. Serialized with JSON.
- --> 
-     </div>
-     <noscript>
-      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
-     </noscript> 
-     <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Climate_Change_Performance_Index&amp;oldid=979611458">https://en.wikipedia.org/w/index.php?title=Climate_Change_Performance_Index&amp;oldid=979611458</a>"
-     </div>
-    </div> 
-    <div id="catlinks" class="catlinks" data-mw="interface">
-     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
-      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
-      <ul>
-       <li><a href="/wiki/Category:Climate_change_organizations" title="Category:Climate change organizations">Climate change organizations</a></li>
-       <li><a href="/wiki/Category:Environmental_indices" title="Category:Environmental indices">Environmental indices</a></li>
-      </ul>
-     </div>
-    </div> 
-   </div> 
-  </div> 
-  <div id="mw-data-after-content"> 
-   <div class="read-more-container"></div> 
-  </div> 
-  <div id="mw-navigation"> 
-   <h2>Navigation menu</h2> 
-   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
-     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="pt-anonuserpage">Not logged in</li>
-       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
-       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
-       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Climate+Change+Performance+Index" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
-       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Climate+Change+Performance+Index" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
-      </ul> 
-     </div> 
-    </nav> 
-    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
-      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list">
-        <li id="ca-nstab-main" class="selected"><a href="/wiki/Climate_Change_Performance_Index" title="View the content page [c]" accesskey="c">Article</a></li>
-        <li id="ca-talk"><a href="/wiki/Talk:Climate_Change_Performance_Index" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
-       </ul> 
-      </div> 
-     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
-      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
-      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list"></ul> 
-      </div> 
-     </nav> 
-    </div> 
-    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
-      <h3 id="p-views-label"> <span>Views</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list">
-        <li id="ca-view" class="selected"><a href="/wiki/Climate_Change_Performance_Index">Read</a></li>
-        <li id="ca-edit"><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
-        <li id="ca-history"><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
-       </ul> 
-      </div> 
-     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
-      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
-      <h3 id="p-cactions-label"> <span>More</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list"></ul> 
-      </div> 
-     </nav> 
-     <div id="p-search" role="search"> 
-      <h3> <label for="searchInput">Search</label> </h3> 
-      <form action="/w/index.php" id="searchform"> 
-       <div id="simpleSearch" data-search-loc="header-navigation"> 
-        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
-        <input type="hidden" name="title" value="Special:Search"> 
-        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
-        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
-       </div> 
-      </form> 
-     </div> 
-    </div> 
-   </div> 
-   <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
-    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
-     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
-       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
-       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
-       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
-       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
-     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
-       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
-       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
-       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
-     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Climate_Change_Performance_Index" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Climate_Change_Performance_Index" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
-       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;oldid=979611458" title="Permanent link to this revision of this page">Permanent link</a></li>
-       <li id="t-info"><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Climate_Change_Performance_Index&amp;id=979611458&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
-       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q391581" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
-     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Climate_Change_Performance_Index&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
-       <li id="t-print"><a href="/w/index.php?title=Climate_Change_Performance_Index&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
-     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%A4%D8%B4%D8%B1_%D8%A3%D8%AF%D8%A7%D8%A1_%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1_%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A" title="مؤشر أداء التغير المناخي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
-       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Klimaschutz-Index" title="Klimaschutz-Index – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
-       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Climate_Change_Performance_Index" title="Climate Change Performance Index – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
-       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D1%8B_%D1%81_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%D0%BA%D0%BB%D0%B8%D0%BC%D0%B0%D1%82%D0%B0" title="Индекс эффективности борьбы с изменением климата – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
-      </ul> 
-      <div class="after-portlet after-portlet-lang">
-       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q391581#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
-      </div> 
-     </div> 
-    </nav> 
-   </div> 
-  </div> 
-  <footer id="footer" class="mw-footer" role="contentinfo"> 
-   <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last edited on 21 September 2020, at 18:37<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
-    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
-   </ul> 
-   <ul id="footer-places"> 
-    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
-    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
-    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
-    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
-    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Climate_Change_Performance_Index&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
-    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
-    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
-    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
-   </ul> 
-   <ul id="footer-icons" class="noprint"> 
-    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
-    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
-   </ul> 
-   <div style="clear: both;"></div> 
-  </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.508","walltime":"0.710","ppvisitednodes":{"value":9464,"limit":1000000},"postexpandincludesize":{"value":49479,"limit":2097152},"templateargumentsize":{"value":14087,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7104,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  488.889      1 -total"," 65.18%  318.666    115 Template:Flag"," 23.65%  115.600      1 Template:Reflist"," 21.48%  105.022      2 Template:Cite_web"," 17.95%   87.748    115 Template:Flag/core","  9.17%   44.808      1 Template:Official_website","  3.32%   16.246      2 Template:Country_data_Slovak_Republic","  2.38%   11.619      2 Template:Country_data_Iran","  2.30%   11.263      2 Template:Country_data_Malaysia","  1.53%    7.466      2 Template:Country_data_Ireland"]},"scribunto":{"limitreport-timeusage":{"value":"0.094","limit":"10.000"},"limitreport-memusage":{"value":2579055,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20201206235431","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Climate Change Performance Index","url":"https:\/\/en.wikipedia.org\/wiki\/Climate_Change_Performance_Index","sameAs":"http:\/\/www.wikidata.org\/entity\/Q391581","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q391581","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-11-01T17:55:19Z","dateModified":"2020-09-21T18:37:49Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/54\/Climate_Change_Performance_Index.svg","headline":"ranking of countries according to climate protection efforts"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":150,"wgHostname":"mw1270"});});</script> 
- </body>
-</html>
+<table class="wikitable sortable"> 
+ <tbody>
+  <tr> 
+   <th>Rank</th> 
+   <th>Country</th> 
+   <th>Score </th>
+  </tr> 
+  <tr> 
+   <td>1</td> 
+   <td>-</td> 
+   <td>- </td>
+  </tr> 
+  <tr> 
+   <td>2</td> 
+   <td>-</td> 
+   <td>- </td>
+  </tr> 
+  <tr> 
+   <td>3</td> 
+   <td>-</td> 
+   <td>- </td>
+  </tr> 
+  <tr> 
+   <td>4</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000">&nbsp;</span><a href="/wiki/Sweden" title="Sweden">Sweden</a></td> 
+   <td>75.77 </td>
+  </tr> 
+  <tr> 
+   <td>5</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387">&nbsp;</span><a href="/wiki/Denmark" title="Denmark">Denmark</a></td> 
+   <td>71.14 </td>
+  </tr> 
+  <tr> 
+   <td>6</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Morocco" title="Morocco">Morocco</a></td> 
+   <td>70.63 </td>
+  </tr> 
+  <tr> 
+   <td>7</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td> 
+   <td>69.80 </td>
+  </tr> 
+  <tr> 
+   <td>8</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/35px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/46px-Flag_of_Lithuania.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Lithuania" title="Lithuania">Lithuania</a></td> 
+   <td>66.22 </td>
+  </tr> 
+  <tr> 
+   <td>9</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;</span><a href="/wiki/India" title="India">India</a></td> 
+   <td>66.02 </td>
+  </tr> 
+  <tr> 
+   <td>10</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100">&nbsp;</span><a href="/wiki/Finland" title="Finland">Finland</a></td> 
+   <td>63.25 </td>
+  </tr> 
+  <tr> 
+   <td>11</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span><a href="/wiki/Chile" title="Chile">Chile</a></td> 
+   <td>62.88 </td>
+  </tr> 
+  <tr> 
+   <td>12</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span><a href="/wiki/Norway" title="Norway">Norway</a></td> 
+   <td>61.14 </td>
+  </tr> 
+  <tr> 
+   <td>13</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/35px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/46px-Flag_of_Luxembourg.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a></td> 
+   <td>60.91 </td>
+  </tr> 
+  <tr> 
+   <td>14</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/35px-Flag_of_Malta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/45px-Flag_of_Malta.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Malta" title="Malta">Malta</a></td> 
+   <td>60.60 </td>
+  </tr> 
+  <tr> 
+   <td>15</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/35px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/46px-Flag_of_Latvia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Latvia" title="Latvia">Latvia</a></td> 
+   <td>60.75 </td>
+  </tr> 
+  <tr> 
+   <td>16</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512">&nbsp;&nbsp;</span><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></td> 
+   <td>60.61 </td>
+  </tr> 
+  <tr> 
+   <td>17</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></td> 
+   <td>60.60 </td>
+  </tr> 
+  <tr> 
+   <td>18</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/France" title="France">France</a></td> 
+   <td>57.90 </td>
+  </tr> 
+  <tr> 
+   <td>19</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Egypt" title="Egypt">Egypt</a></td> 
+   <td>57.53 </td>
+  </tr> 
+  <tr> 
+   <td>20</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Croatia" title="Croatia">Croatia</a></td> 
+   <td>56.97 </td>
+  </tr> 
+  <tr> 
+   <td>21</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td> 
+   <td>55.82 </td>
+  </tr> 
+  <tr> 
+   <td>22</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540">&nbsp;</span><a href="/wiki/European_Union" title="European Union">European Union</a> (28)</td> 
+   <td>55.82 </td>
+  </tr> 
+  <tr> 
+   <td>23</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Germany" title="Germany">Germany</a></td> 
+   <td>55.78 </td>
+  </tr> 
+  <tr> 
+   <td>24</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Romania" title="Romania">Romania</a></td> 
+   <td>54.85 </td>
+  </tr> 
+  <tr> 
+   <td>25</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Portugal" title="Portugal">Portugal</a></td> 
+   <td>54.10 </td>
+  </tr> 
+  <tr> 
+   <td>26</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span><a href="/wiki/Italy" title="Italy">Italy</a></td> 
+   <td>53.92 </td>
+  </tr> 
+  <tr> 
+   <td>27</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/35px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/45px-Flag_of_Slovakia.svg.png 2x" data-file-width="512" data-file-height="341">&nbsp;</span><a href="/wiki/Slovakia" title="Slovakia">Slovak Republic</a></td> 
+   <td>52.69 </td>
+  </tr> 
+  <tr> 
+   <td>28</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Greece" title="Greece">Greece</a></td> 
+   <td>52.59 </td>
+  </tr> 
+  <tr> 
+   <td>29</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td> 
+   <td>50.89 </td>
+  </tr> 
+  <tr> 
+   <td>30</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/China" title="China">China</a></td> 
+   <td>48.16 </td>
+  </tr> 
+  <tr> 
+   <td>31</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/35px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/46px-Flag_of_Estonia.svg.png 2x" data-file-width="990" data-file-height="630">&nbsp;</span><a href="/wiki/Estonia" title="Estonia">Estonia</a></td> 
+   <td>48.05 </td>
+  </tr> 
+  <tr> 
+   <td>32</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560">&nbsp;</span><a href="/wiki/Mexico" title="Mexico">Mexico</a></td> 
+   <td>47.01 </td>
+  </tr> 
+  <tr> 
+   <td>33</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Thailand" title="Thailand">Thailand</a></td> 
+   <td>46.76 </td>
+  </tr> 
+  <tr> 
+   <td>34</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500">&nbsp;</span><a href="/wiki/Spain" title="Spain">Spain</a></td> 
+   <td>46.03 </td>
+  </tr> 
+  <tr> 
+   <td>35</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Belgium" title="Belgium">Belgium</a></td> 
+   <td>45.73 </td>
+  </tr> 
+  <tr> 
+   <td>36</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td> 
+   <td>45.67 </td>
+  </tr> 
+  <tr> 
+   <td>37</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></td> 
+   <td>45.67 </td>
+  </tr> 
+  <tr> 
+   <td>38</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Austria" title="Austria">Austria</a></td> 
+   <td>44.74 </td>
+  </tr> 
+  <tr> 
+   <td>39</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/45px-Flag_of_Indonesia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a></td> 
+   <td>44.65 </td>
+  </tr> 
+  <tr> 
+   <td>40</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450">&nbsp;</span><a href="/wiki/Belarus" title="Belarus">Belarus</a></td> 
+   <td>44.18 </td>
+  </tr> 
+  <tr> 
+   <td>41</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a></td> 
+   <td>44.04 </td>
+  </tr> 
+  <tr> 
+   <td>42</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500">&nbsp;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a></td> 
+   <td>43.77 </td>
+  </tr> 
+  <tr> 
+   <td>43</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></td> 
+   <td>42.93 </td>
+  </tr> 
+  <tr> 
+   <td>44</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/35px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/46px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Slovenia" title="Slovenia">Slovenia</a></td> 
+   <td>41.91 </td>
+  </tr> 
+  <tr> 
+   <td>45</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/35px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/45px-Flag_of_Cyprus.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></td> 
+   <td>41.66 </td>
+  </tr> 
+  <tr> 
+   <td>46</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/35px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/45px-Flag_of_Algeria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Algeria" title="Algeria">Algeria</a></td> 
+   <td>41.45 </td>
+  </tr> 
+  <tr> 
+   <td>47</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Hungary" title="Hungary">Hungary</a></td> 
+   <td>41.17 </td>
+  </tr> 
+  <tr> 
+   <td>48</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td> 
+   <td>40.76 </td>
+  </tr> 
+  <tr> 
+   <td>49</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td> 
+   <td>40.12 </td>
+  </tr> 
+  <tr> 
+   <td>50</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800">&nbsp;</span><a href="/wiki/Poland" title="Poland">Poland</a></td> 
+   <td>39.98 </td>
+  </tr> 
+  <tr> 
+   <td>51</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Japan" title="Japan">Japan</a></td> 
+   <td>39.03 </td>
+  </tr> 
+  <tr> 
+   <td>52</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Russia" title="Russia">Russia</a></td> 
+   <td>37.85 </td>
+  </tr> 
+  <tr> 
+   <td>53</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/35px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/46px-Flag_of_Malaysia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></td> 
+   <td>34.21 </td>
+  </tr> 
+  <tr> 
+   <td>54</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/35px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/46px-Flag_of_Kazakhstan.svg.png 2x" data-file-width="1000" data-file-height="500">&nbsp;</span><a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a></td> 
+   <td>33.39 </td>
+  </tr> 
+  <tr> 
+   <td>55</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Canada" title="Canada">Canada</a></td> 
+   <td>31.01 </td>
+  </tr> 
+  <tr> 
+   <td>56</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640">&nbsp;</span><a href="/wiki/Australia" title="Australia">Australia</a></td> 
+   <td>30.75 </td>
+  </tr> 
+  <tr> 
+   <td>57</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360">&nbsp;</span><a href="/wiki/Iran" title="Iran">Iran</a></td> 
+   <td>28.41 </td>
+  </tr> 
+  <tr> 
+   <td>58</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Korea_%281899%29.svg/23px-Flag_of_Korea_%281899%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Korea_%281899%29.svg/35px-Flag_of_Korea_%281899%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Korea_%281899%29.svg/45px-Flag_of_Korea_%281899%29.svg.png 2x" data-file-width="850" data-file-height="567">&nbsp;</span><a href="/wiki/Korea" title="Korea">Korea</a></td> 
+   <td>26.75 </td>
+  </tr> 
+  <tr> 
+   <td>59</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/23px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/35px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/45px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Chinese_Taipei" title="Chinese Taipei">Chinese Taipei</a></td> 
+   <td>23.33 </td>
+  </tr> 
+  <tr> 
+   <td>60</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a></td> 
+   <td>23.03 </td>
+  </tr> 
+  <tr> 
+   <td>61</td> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span><a href="/wiki/United_States" title="United States">United States</a></td> 
+   <td>18.60 </td>
+  </tr>
+ </tbody>
+</table>

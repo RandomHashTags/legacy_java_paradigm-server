@@ -3,16 +3,16 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Monaco - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@VDvApAICMAAHfkv-cAAADX","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Monaco","wgTitle":"Monaco","wgCurRevisionId":6959957,"wgRevisionId":6959957,"wgArticleId":7963,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Monaco","Italian-speaking countries","French-speaking countries","Current monarchies"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Monaco","wgRelevantArticleId":7963,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],
-"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q235"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
-"ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VApAMOIAAeanbTUAAABE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Monaco","wgTitle":"Monaco","wgCurRevisionId":6959957,"wgRevisionId":6959957,"wgArticleId":7963,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Monaco","Italian-speaking countries","French-speaking countries","Current monarchies"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Monaco","wgRelevantArticleId":7963,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],
+"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q235"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready",
+"wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -94,9 +94,9 @@
           <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
@@ -141,9 +141,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:European_capitals" title="Template:European capitals"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:European_capitals" title="Template talk:European capitals"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:European_capitals&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:European_capitals" title="Template:European capitals"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:European_capitals" title="Template talk:European capitals"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:European_capitals&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Capitals_of_Europe" style="font-size:114%;margin:0 4em">
@@ -163,7 +163,7 @@
              Other European countries
             </div> 
             <div> 
-             <p><span class="nowrap"><a href="/wiki/Andorra_la_Vella" title="Andorra la Vella">Andorra la Vella</a>, <i><a href="/wiki/Andorra" title="Andorra">Andorra</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Ankara" title="Ankara">Ankara</a>, <i><a href="/wiki/Turkey" title="Turkey">Turkey</a></i><sup><small>1</small></sup></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Belgrade" title="Belgrade">Belgrade</a>, <i><a href="/wiki/Serbia" title="Serbia">Serbia</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Bern" title="Bern">Bern</a>, <i><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Chi%C5%9Fin%C4%83u" class="mw-redirect" title="Chişinău">Chişinău</a>, <i><a href="/wiki/Moldova" title="Moldova">Moldova</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Kiev" title="Kiev">Kyiv</a>, <i><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/London" title="London">London</a>, <i><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Minsk" title="Minsk">Minsk</a>, <i><a href="/wiki/Belarus" title="Belarus">Belarus</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a class="mw-selflink selflink">Monaco-Ville</a>, <i><a class="mw-selflink selflink">Monaco</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Moscow" title="Moscow">Moscow</a>, <i><a href="/wiki/Russia" title="Russia">Russia</a></i><sup><small>1</small></sup></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Oslo" title="Oslo">Oslo</a>, <i><a href="/wiki/Norway" title="Norway">Norway</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Podgorica" title="Podgorica">Podgorica</a>, <i><a href="/wiki/Montenegro" title="Montenegro">Montenegro</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Reykjav%C3%ADk" title="Reykjavík">Reykjavík</a>, <i><a href="/wiki/Iceland" title="Iceland">Iceland</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/San_Marino_City" title="San Marino City">San Marino</a>, <i><a href="/wiki/San_Marino" title="San Marino">San Marino</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Sarajevo" title="Sarajevo">Sarajevo</a>, <i><a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia Herzegovina</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Skopje" title="Skopje">Skopje</a>, <i><a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Republic of Macedonia</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Tbilisi" title="Tbilisi">Tbilisi</a>, <i><a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a></i><sup><small>1</small></sup></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Tirana" title="Tirana">Tirana</a>, <i><a href="/wiki/Albania" title="Albania">Albania</a></i></span>&nbsp;<b>·</b> </p> <span class="nowrap"><a href="/wiki/Vaduz" title="Vaduz">Vaduz</a>, <i><a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a></i></span>&nbsp;<b>·</b> 
+             <p><span class="nowrap"><a href="/wiki/Andorra_la_Vella" title="Andorra la Vella">Andorra la Vella</a>, <i><a href="/wiki/Andorra" title="Andorra">Andorra</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Ankara" title="Ankara">Ankara</a>, <i><a href="/wiki/Turkey" title="Turkey">Turkey</a></i><sup><small>1</small></sup></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Belgrade" title="Belgrade">Belgrade</a>, <i><a href="/wiki/Serbia" title="Serbia">Serbia</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Bern" title="Bern">Bern</a>, <i><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Chi%C5%9Fin%C4%83u" class="mw-redirect" title="Chişinău">Chişinău</a>, <i><a href="/wiki/Moldova" title="Moldova">Moldova</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Kiev" class="mw-redirect" title="Kiev">Kyiv</a>, <i><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/London" title="London">London</a>, <i><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Minsk" title="Minsk">Minsk</a>, <i><a href="/wiki/Belarus" title="Belarus">Belarus</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a class="mw-selflink selflink">Monaco-Ville</a>, <i><a class="mw-selflink selflink">Monaco</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Moscow" title="Moscow">Moscow</a>, <i><a href="/wiki/Russia" title="Russia">Russia</a></i><sup><small>1</small></sup></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Oslo" title="Oslo">Oslo</a>, <i><a href="/wiki/Norway" title="Norway">Norway</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Podgorica" title="Podgorica">Podgorica</a>, <i><a href="/wiki/Montenegro" title="Montenegro">Montenegro</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Reykjav%C3%ADk" title="Reykjavík">Reykjavík</a>, <i><a href="/wiki/Iceland" title="Iceland">Iceland</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/San_Marino_City" title="San Marino City">San Marino</a>, <i><a href="/wiki/San_Marino" title="San Marino">San Marino</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Sarajevo" title="Sarajevo">Sarajevo</a>, <i><a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia Herzegovina</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Skopje" title="Skopje">Skopje</a>, <i><a href="/wiki/Republic_of_Macedonia" class="mw-redirect" title="Republic of Macedonia">Republic of Macedonia</a></i></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Tbilisi" title="Tbilisi">Tbilisi</a>, <i><a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a></i><sup><small>1</small></sup></span>&nbsp;<b>·</b> <span class="nowrap"><a href="/wiki/Tirana" title="Tirana">Tirana</a>, <i><a href="/wiki/Albania" title="Albania">Albania</a></i></span>&nbsp;<b>·</b> </p> <span class="nowrap"><a href="/wiki/Vaduz" title="Vaduz">Vaduz</a>, <i><a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a></i></span>&nbsp;<b>·</b> 
             </div> 
             <div style="background: #eef; text-align: left">
              <b>NOTES:</b><small> 1. Country part of both Europe and Asia</small>
@@ -174,33 +174,33 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1338
-Cached time: 20201221092128
+Parsed by mw1307
+Cached time: 20210112162253
 Cache expiry: 2592000
 Dynamic content: false
 Complications: []
 CPU time usage: 0.148 seconds
 Real time usage: 0.181 seconds
 Preprocessor visited node count: 381/1000000
-Post‐expand include size: 33885/2097152 bytes
+Post‐expand include size: 33057/2097152 bytes
 Template argument size: 1575/2097152 bytes
 Highest expansion depth: 7/40
 Expensive parser function count: 0/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 2040/5000000 bytes
-Lua time usage: 0.032/10.000 seconds
-Lua memory usage: 780170/52428800 bytes
+Lua time usage: 0.033/10.000 seconds
+Lua memory usage: 780458/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  101.646      1 -total
- 92.06%   93.578      2 Template:Navbox
- 75.78%   77.028      1 Template:Europe
- 24.05%   24.446      1 Template:European_capitals
-  4.44%    4.512     46 Template:Nowrap
-  3.26%    3.311     45 Template:·
-  2.52%    2.562      1 Template:Flagicon_image
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:7963-0!canonical and timestamp 20201221092129 and revision id 6959957. Serialized with JSON.
+100.00%  102.959      1 -total
+ 92.92%   95.665      2 Template:Navbox
+ 71.42%   73.530      1 Template:Europe
+ 28.43%   29.275      1 Template:European_capitals
+  9.68%    9.966     46 Template:Nowrap
+  3.57%    3.676     45 Template:·
+  3.09%    3.183      1 Template:Flagicon_image
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:7963-0!canonical and timestamp 20210112162253 and revision id 6959957. Serialized with JSON.
  --> 
      </div>
      <noscript>
@@ -292,9 +292,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -445,7 +445,7 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Monakoo" title="Monakoo – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
        <li class="interlanguage-link interwiki-kl"><a href="https://kl.wikipedia.org/wiki/Monaco" title="Monaco – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a></li>
        <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B3%8A%E0%B2%A8%E0%B2%BE%E0%B2%95%E0%B3%8A" title="ಮೊನಾಕೊ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
-       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Monako" title="Monako – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Monaku" title="Monaku – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
        <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D0%BA%D0%BE" title="Монако – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
        <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%90%E1%83%99%E1%83%9D" title="მონაკო – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
        <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/M%C3%B2nak%C3%B2" title="Mònakò – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
@@ -620,8 +620,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.181","ppvisitednodes":{"value":381,"limit":1000000},"postexpandincludesize":{"value":33885,"limit":2097152},"templateargumentsize":{"value":1575,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2040,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  101.646      1 -total"," 92.06%   93.578      2 Template:Navbox"," 75.78%   77.028      1 Template:Europe"," 24.05%   24.446      1 Template:European_capitals","  4.44%    4.512     46 Template:Nowrap","  3.26%    3.311     45 Template:·","  2.52%    2.562      1 Template:Flagicon_image"]},"scribunto":{"limitreport-timeusage":{"value":"0.032","limit":"10.000"},"limitreport-memusage":{"value":780170,"limit":52428800}},"cachereport":{"origin":"mw1338","timestamp":"20201221092128","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.181","ppvisitednodes":{"value":381,"limit":1000000},"postexpandincludesize":{"value":33057,"limit":2097152},"templateargumentsize":{"value":1575,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2040,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  102.959      1 -total"," 92.92%   95.665      2 Template:Navbox"," 71.42%   73.530      1 Template:Europe"," 28.43%   29.275      1 Template:European_capitals","  9.68%    9.966     46 Template:Nowrap","  3.57%    3.676     45 Template:·","  3.09%    3.183      1 Template:Flagicon_image"]},"scribunto":{"limitreport-timeusage":{"value":"0.033","limit":"10.000"},"limitreport-memusage":{"value":780458,"limit":52428800}},"cachereport":{"origin":"mw1307","timestamp":"20210112162253","ttl":2592000,"transientcontent":false}}});});</script> 
   <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Monaco","url":"https:\/\/simple.wikipedia.org\/wiki\/Monaco","sameAs":"http:\/\/www.wikidata.org\/entity\/Q235","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q235","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-02-08T21:39:33Z","dateModified":"2020-05-27T11:10:27Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3f\/Europe_location_MCO.png","headline":"sovereign city-state on the French Riviera"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":270,"wgHostname":"mw1333"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":190,"wgHostname":"mw1384"});});</script> 
  </body>
 </html>

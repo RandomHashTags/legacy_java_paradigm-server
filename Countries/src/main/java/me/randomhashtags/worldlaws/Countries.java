@@ -1,27 +1,30 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.elections.Election;
 import me.randomhashtags.worldlaws.info.*;
+import me.randomhashtags.worldlaws.info.agriculture.*;
 import me.randomhashtags.worldlaws.info.availability.tech.*;
 import me.randomhashtags.worldlaws.info.legal.*;
 import me.randomhashtags.worldlaws.info.list.Flyover;
 import me.randomhashtags.worldlaws.info.rankings.*;
+import me.randomhashtags.worldlaws.info.NationalAnimals;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import me.randomhashtags.worldlaws.location.CustomCountry;
 import me.randomhashtags.worldlaws.location.Territories;
-import me.randomhashtags.worldlaws.service.CountryService;
-import me.randomhashtags.worldlaws.service.CountryServices;
-import me.randomhashtags.worldlaws.service.TravelBriefing;
+import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.info.service.CountryServices;
+import me.randomhashtags.worldlaws.info.service.TravelBriefing;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.*;
 import java.util.logging.Level;
+import java.util.stream.Collectors;
 
 // https://simple.wikipedia.org/wiki/List_of_countries
 // https://en.wikipedia.org/wiki/Lists_by_country
-public final class Countries implements DataValues, Jsoupable {
+public final class Countries implements DataValues, Jsoupable, RestAPI {
 
     private String filters, json;
     private HashMap<String, CustomCountry> countriesMap;
@@ -31,16 +34,43 @@ public final class Countries implements DataValues, Jsoupable {
     }
 
     private void init() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     private void test() {
-        Elections.INSTANCE.getResponse("unitedstates", new CompletionHandler() {
+        SocialProgressIndex.INSTANCE.getValue("unitedstates", new CompletionHandler() {
             @Override
             public void handle(Object object) {
-                WLLogger.log(Level.INFO, "Countries;test;Elections;unitedstates=" + object.toString());
+                WLLogger.log(Level.INFO, "Countries;test;SocialProgressIndex;unitedstates=" + object.toString());
             }
+        });
+    }
+
+    private void testBandwidth() {
+        final String uuid = "***REMOVED***";
+        final HashMap<String, String> headers = new HashMap<>() {{
+            put("Content-Type", "application/json");
+            put("Charset", "UTF-8");
+            put("***REMOVED***", "***REMOVED***");
+            put("***REMOVED***", uuid);
+        }};
+        final HashSet<Integer> test = new HashSet<>();
+        for(int i = 1; i <= 5000; i++) {
+            test.add(i);
+        }
+        test.stream().parallel().forEach(integer -> {
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    requestJSONObject("http://localhost:0/countries/all", RequestMethod.GET, headers, new CompletionHandler() {
+                        @Override
+                        public void handleJSONObject(JSONObject object) {
+                            WLLogger.log(Level.INFO, "" + integer);
+                        }
+                    });
+                }
+            }).start();
         });
     }
 
@@ -51,12 +81,11 @@ public final class Countries implements DataValues, Jsoupable {
     }
 
     private void loadServices() {
-        final List<CountryService> listServices = Arrays.asList(
-                Flyover.INSTANCE
-        );
-        CountryServices.SERVICES.addAll(listServices);
+        final HashSet<CountryService> services = new HashSet<>();
 
-        final List<CountryService> availabilityServices = Arrays.asList(
+        services.add(Flyover.INSTANCE);
+
+        services.addAll(Arrays.asList(
                 AppleCarPlay.INSTANCE,
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_PAY),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ONE),
@@ -94,26 +123,42 @@ public final class Countries implements DataValues, Jsoupable {
                 XboxLive.INSTANCE,
                 YouTubePremium.INSTANCE,
                 YouTubeTV.INSTANCE
-        );
-        CountryServices.SERVICES.addAll(availabilityServices);
+        ));
 
-        final List<CountryService> governmentServices = Arrays.asList(
-                SystemOfGovernment.INSTANCE
-        );
-        CountryServices.SERVICES.addAll(governmentServices);
+        services.addAll(Arrays.asList(
+                ProductionFoodApple.INSTANCE,
+                ProductionFoodApricot.INSTANCE,
+                ProductionFoodAvocado.INSTANCE,
+                ProductionFoodCherry.INSTANCE,
+                ProductionFoodCoconut.INSTANCE,
+                ProductionFoodCucumber.INSTANCE,
+                ProductionFoodGarlic.INSTANCE,
+                ProductionFoodGrape.INSTANCE,
+                ProductionFoodPapaya.INSTANCE,
+                ProductionFoodPear.INSTANCE,
+                ProductionFoodPineapple.INSTANCE,
+                ProductionFoodPlum.INSTANCE,
+                ProductionFoodPotato.INSTANCE,
+                ProductionFoodSoybean.INSTANCE,
+                ProductionFoodTomato.INSTANCE
+        ));
 
-        final List<CountryService> nationalServices = Arrays.asList(
+        services.addAll(Arrays.asList(
+                NationalAnimals.INSTANCE,
                 NationalCapitals.INSTANCE
-        );
-        CountryServices.SERVICES.addAll(nationalServices);
+        ));
 
-        final List<CountryService> infoServices = Arrays.asList(
+        services.addAll(Arrays.asList(
+                AgeStructure.INSTANCE,
                 BloodTypeDistribution.INSTANCE,
-                HealthCareSystems.INSTANCE
-        );
-        CountryServices.SERVICES.addAll(infoServices);
+                HealthCareSystem.INSTANCE,
+                MilitaryEnlistmentAge.INSTANCE,
+                MinimumDrivingAge.INSTANCE,
+                SystemOfGovernment.INSTANCE,
+                VotingAge.INSTANCE
+        ));
 
-        final List<CountryService> legalityServices = Arrays.asList(
+        services.addAll(Arrays.asList(
                 LegalityAbortion.INSTANCE,
                 LegalityBitcoin.INSTANCE,
                 LegalityCannabis.INSTANCE,
@@ -125,17 +170,17 @@ public final class Countries implements DataValues, Jsoupable {
                 LegalityDrugPsilocybinMushrooms.INSTANCE,
                 LegalityDrugPsychoactiveCactus.INSTANCE,
                 LegalityDrugSalviaDivinorum.INSTANCE,
+                LegalityIncest.INSTANCE,
                 LegalityMaritalRape.INSTANCE,
-                LegalityPornography.INSTANCE
-        );
-        CountryServices.SERVICES.addAll(legalityServices);
+                LegalityPornography.INSTANCE,
+                LegalityProstitution.INSTANCE
+        ));
 
-        final List<CountryService> services = Arrays.asList(
+        services.addAll(Arrays.asList(
                 TravelBriefing.INSTANCE
-        );
-        CountryServices.SERVICES.addAll(services);
+        ));
 
-        final List<CountryRankingService> rankingServices = Arrays.asList(
+        services.addAll(Arrays.asList(
                 AdultHIVRate.INSTANCE,
                 CannabisUse.INSTANCE,
                 CivilianFirearms.INSTANCE,
@@ -164,12 +209,16 @@ public final class Countries implements DataValues, Jsoupable {
                 Population.INSTANCE,
                 PressFreedomIndex.INSTANCE,
                 QualityOfLifeIndex.INSTANCE,
+                QualityOfNationalityIndex.INSTANCE,
                 SocialProgressIndex.INSTANCE,
                 SuicideRate.INSTANCE,
-                UnemploymentRate.INSTANCE
+                UnemploymentRate.INSTANCE,
                 //DebtCurrent.INSTANCE
-        );
-        CountryRankingServices.SERVICES.addAll(rankingServices);
+                WorldGivingIndex.INSTANCE,
+                WorldHappinessReport.INSTANCE
+        ));
+
+        CountryServices.SERVICES.addAll(services);
     }
 
     private void startServer() {
@@ -190,19 +239,16 @@ public final class Countries implements DataValues, Jsoupable {
 
     private void loadCountries() {
         countriesMap = new HashMap<>();
-        final Document doc = getDocument("https://simple.wikipedia.org/wiki/List_of_countries");
-        if(doc != null) {
-            final Elements table = doc.select("table.sortable tbody tr");
-            for(int i = 1; i <= 2; i++) {
-                table.remove(0);
-            }
-            table.removeIf(row -> row.select("td").get(0).select("b a[href]").size() == 0);
-            for(Element row : table) {
-                final Elements tds = row.select("td");
-                final Element nameElement = tds.get(0).select("b a[href]").get(0);
-                final String tag = nameElement.text(), targetURL = "https://simple.wikipedia.org" + nameElement.attr("href");
-                new Thread(() -> createCountry(tag, targetURL)).start();
-            }
+        final Elements table = getDocumentElements("https://simple.wikipedia.org/wiki/List_of_countries", "table.sortable tbody tr");
+        for(int i = 1; i <= 2; i++) {
+            table.remove(0);
+        }
+        table.removeIf(row -> row.select("td").get(0).select("b a[href]").size() == 0);
+        for(Element row : table) {
+            final Elements tds = row.select("td");
+            final Element nameElement = tds.get(0).select("b a[href]").get(0);
+            final String tag = nameElement.text(), targetURL = "https://simple.wikipedia.org" + nameElement.attr("href");
+            new Thread(() -> createCountry(tag, targetURL)).start();
         }
         checkForMissingValues();
     }
@@ -211,10 +257,10 @@ public final class Countries implements DataValues, Jsoupable {
         new Timer().schedule(new TimerTask() {
             @Override
             public void run() {
-                final StringBuilder builder = new StringBuilder("");
+                final StringBuilder builder = new StringBuilder();
                 boolean isFirst = true;
-                for(String key : countriesMap.keySet()) {
-                    final CustomCountry country = countriesMap.get(key);
+                for(Map.Entry<String, CustomCountry> entry : countriesMap.entrySet()) {
+                    final CustomCountry country = entry.getValue();
                     if(country.getFlagEmoji() == null) {
                         builder.append(isFirst ? "" : ", ").append("(").append(country.getShortName()).append(", ").append(country.getName()).append(")");
                         isFirst = false;
@@ -236,15 +282,9 @@ public final class Countries implements DataValues, Jsoupable {
             if(values.length == 1) {
                 handler.handle(country.toString());
             } else {
-                final Territories territories;
                 switch (values[1]) {
                     case "debt":
                         DebtCurrent.INSTANCE.getValue(key, handler);
-                        break;
-                    case "territories":
-                        territories = country.getTerritories();
-                        final String json = territories != null ? territories.getTerritoriesJSONArray() : "[]";
-                        handler.handle(json);
                         break;
                     case "information":
                         country.getInformation(handler);
@@ -263,15 +303,6 @@ public final class Countries implements DataValues, Jsoupable {
             }
         } else {
             switch (key) {
-                case "compare":
-                    final StringBuilder builder = new StringBuilder("{");
-                    final String[] countries = values[1].split("\\+");
-                    for(String targetCountry : countries) {
-                        final CustomCountry target = valueOfBackendID(targetCountry);
-                    }
-                    builder.append("}");
-                    handler.handle(builder.toString());
-                    break;
                 case "elections":
                     Elections.INSTANCE.getResponse("", handler);
                     break;
@@ -285,6 +316,28 @@ public final class Countries implements DataValues, Jsoupable {
                     handler.handle(getJSON());
                     break;
             }
+        }
+    }
+
+    private void getHolidaysResponse(String value, CompletionHandler handler) {
+        switch (value) {
+            case "all":
+                Holidays.INSTANCE.getAllHolidays(handler);
+                break;
+            case "near":
+                Holidays.INSTANCE.getNearHolidays(handler);
+                break;
+            default:
+                WLUtilities.getCustomCountry(value, new CompletionHandler() {
+                    @Override
+                    public void handle(Object object) {
+                        if(object != null) {
+                            final CustomCountry country = (CustomCountry) object;
+                            Holidays.INSTANCE.getHolidaysFor(country, handler);
+                        }
+                    }
+                });
+                break;
         }
     }
 
@@ -303,7 +356,8 @@ public final class Countries implements DataValues, Jsoupable {
         if(filters == null) {
             final StringBuilder builder = new StringBuilder("[");
             boolean isFirst = true;
-            for(CountryRankingService service : CountryRankingServices.SERVICES) {
+            final Collection<CountryService> services = CountryRankingServices.getRankingsServices().collect(Collectors.toList());
+            for(CountryService service : services) {
                 final CountryInfo info = service.getInfo();
                 final String name = info.name(), backendID = name.toLowerCase().replace("_", "");
                 final CountryFilter filter = new CountryFilter(backendID, name.replace("_", " "));

@@ -3,17 +3,17 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Zambia - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@ioYQpAMNQAAGlTlWsAAAAI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Zambia","wgTitle":"Zambia","wgCurRevisionId":7017665,"wgRevisionId":7017665,"wgArticleId":15643,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: invisible characters","CS1 errors: missing periodical","Pages needing to be simplified from December 2011","All pages that need simplifying","Pages using infobox country with unknown parameters","All articles with unsourced statements","Articles with unsourced statements from November 2007",
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VApAADsAAHoWc94AAADS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Zambia","wgTitle":"Zambia","wgCurRevisionId":7266329,"wgRevisionId":7266329,"wgArticleId":15643,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages needing to be simplified from December 2011","All pages that need simplifying","Pages using collapsible list with both background and text-align in titlestyle","All articles with unsourced statements","Articles with unsourced statements from November 2007","Commons link is defined as the pagename",
 "Commons category link from Wikidata","Zambia","Least developed countries","1964 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Zambia","wgRelevantArticleId":15643,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q953"};RLSTATE={"ext.globalCssJs.user.styles":
-"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP",
-"ext.centralNotice.startUp"];</script> 
+"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -96,24 +96,36 @@
         <tr>
          <td colspan="2" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Motto:&nbsp;</b>One Zambia, One Nation
+           <b>Motto:&nbsp;</b>
+           <br>"One Zambia, One Nation"
           </div></td>
         </tr>
         <tr>
          <td colspan="2" class="anthem" style="text-align:center">
           <div style="line-height:1.2em;">
            <b>Anthem:&nbsp;</b>"<a href="/wiki/Stand_and_Sing_of_Zambia,_Proud_and_Free" title="Stand and Sing of Zambia, Proud and Free">Stand and Sing of Zambia, Proud and Free</a>"
+           <br>
+           <div style="padding-top:0.5em; text-align:center;">
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="112.61678004535" data-startoffset="0" data-mwtitle="Zambian_national_anthem.oga" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/f6/Zambian_national_anthem.oga/Zambian_national_anthem.oga.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="140152">
+              <source src="//upload.wikimedia.org/wikipedia/commons/f/f6/Zambian_national_anthem.oga" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (337 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="336851">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AZambian_national_anthem.oga&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AZambian_national_anthem.oga&amp;lang=zh-hant&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="zh-Hant" label="中文（繁體）‎ (zh-hant) subtitles" data-dir="ltr">
+             </audio>
+            </div>
+           </div>
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Zambia_(orthographic_projection).svg" class="image"><img alt="Zambia (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zambia_%28orthographic_projection%29.svg/250px-Zambia_%28orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zambia_%28orthographic_projection%29.svg/375px-Zambia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zambia_%28orthographic_projection%29.svg/500px-Zambia_%28orthographic_projection%29.svg.png 2x" data-file-width="553" data-file-height="553"></a></td>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Zambia_(orthographic_projection).svg" class="image" title="Location of Zambia"><img alt="Location of Zambia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zambia_%28orthographic_projection%29.svg/250px-Zambia_%28orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zambia_%28orthographic_projection%29.svg/375px-Zambia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zambia_%28orthographic_projection%29.svg/500px-Zambia_%28orthographic_projection%29.svg.png 2x" data-file-width="553" data-file-height="553"></a></td>
         </tr>
         <tr>
          <th scope="row">Capital<br>
           <div style="font-weight:normal">
            and largest city
           </div></th>
-         <td><a href="/wiki/Lusaka" title="Lusaka">Lusaka</a></td>
+         <td><a href="/wiki/Lusaka" title="Lusaka">Lusaka</a><br><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Zambia&amp;params=15_25_S_28_17_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">15°25′S</span> <span class="longitude">28°17′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">15.417°S 28.283°E</span><span style="display:none">﻿ / <span class="geo">-15.417; 28.283</span></span></span></a></span></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Official&nbsp;languages</th>
@@ -121,7 +133,101 @@
         </tr>
         <tr class="mergedrow">
          <th scope="row"><span style="font-weight:normal;">Recognised regional&nbsp;languages</span></th>
-         <td><a href="/w/index.php?title=Chewa_language&amp;action=edit&amp;redlink=1" class="new" title="Chewa language (not yet started)">Chewa</a>, <a href="/w/index.php?title=Bemba_language&amp;action=edit&amp;redlink=1" class="new" title="Bemba language (not yet started)">Bemba</a>, <a href="/w/index.php?title=Lunda_language&amp;action=edit&amp;redlink=1" class="new" title="Lunda language (not yet started)">Lunda</a>, <a href="/w/index.php?title=Tonga_language_(Zambia)&amp;action=edit&amp;redlink=1" class="new" title="Tonga language (Zambia) (not yet started)">Tonga</a>, <a href="/wiki/Lozi_language" title="Lozi language">Lozi</a>, <a href="/w/index.php?title=Luvale_language&amp;action=edit&amp;redlink=1" class="new" title="Luvale language (not yet started)">Luvale</a>, <a href="/w/index.php?title=Kaonde&amp;action=edit&amp;redlink=1" class="new" title="Kaonde (not yet started)">Kaonde</a>, <a href="/w/index.php?title=Nyanja&amp;action=edit&amp;redlink=1" class="new" title="Nyanja (not yet started)">Nyanja</a></td>
+         <td>
+          <div class="NavFrame collapsed" style="border: none; padding: 0;"> 
+           <div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:transparent;text-align:left;font-weight:normal;">
+            List
+           </div> 
+           <ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left;border-top:1px solid #aaa; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+            <li style="line-height: inherit; margin: 0"> 33.5% <a href="/w/index.php?title=Bemba_language&amp;action=edit&amp;redlink=1" class="new" title="Bemba language (not yet started)">Bemba</a> </li>
+            <li style="line-height: inherit; margin: 0"> 14.8% <a href="/w/index.php?title=Nyanja_language&amp;action=edit&amp;redlink=1" class="new" title="Nyanja language (not yet started)">Nyanja</a> </li>
+            <li style="line-height: inherit; margin: 0"> 11.4% <a href="/w/index.php?title=Tonga_language_(Zambia_and_Zimbabwe)&amp;action=edit&amp;redlink=1" class="new" title="Tonga language (Zambia and Zimbabwe) (not yet started)">Tonga</a> </li>
+            <li style="line-height: inherit; margin: 0"> 5.5% <a href="/wiki/Lozi_language" title="Lozi language">Lozi</a> </li>
+            <li style="line-height: inherit; margin: 0"> 4.5% <a href="/w/index.php?title=Chewa_language&amp;action=edit&amp;redlink=1" class="new" title="Chewa language (not yet started)">Chewa</a> </li>
+            <li style="line-height: inherit; margin: 0"> 3.0% <a href="/w/index.php?title=Nsenga_language&amp;action=edit&amp;redlink=1" class="new" title="Nsenga language (not yet started)">Nsenga</a> </li>
+            <li style="line-height: inherit; margin: 0"> 2.6% <a href="/w/index.php?title=Tumbuka_language&amp;action=edit&amp;redlink=1" class="new" title="Tumbuka language (not yet started)">Tumbuka</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.9% <a href="/w/index.php?title=Lunda_language&amp;action=edit&amp;redlink=1" class="new" title="Lunda language (not yet started)">Lunda</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.9% <a href="/w/index.php?title=Kaonde_language&amp;action=edit&amp;redlink=1" class="new" title="Kaonde language (not yet started)">Kaonde</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.8% <a href="/w/index.php?title=Lala-Bisa_language&amp;action=edit&amp;redlink=1" class="new" title="Lala-Bisa language (not yet started)">Lala</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.8% <a href="/w/index.php?title=Lamba_language&amp;action=edit&amp;redlink=1" class="new" title="Lamba language (not yet started)">Lamba</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.7% <a href="/wiki/English_language" title="English language">English</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.5% <a href="/w/index.php?title=Luvale_language&amp;action=edit&amp;redlink=1" class="new" title="Luvale language (not yet started)">Luvale</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.3% <a href="/w/index.php?title=Mambwe_language&amp;action=edit&amp;redlink=1" class="new" title="Mambwe language (not yet started)">Mambwe</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.2% <a href="/w/index.php?title=Lenje_language&amp;action=edit&amp;redlink=1" class="new" title="Lenje language (not yet started)">Lenje</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.2% <a href="/w/index.php?title=Namwanga_language&amp;action=edit&amp;redlink=1" class="new" title="Namwanga language (not yet started)">Namwanga</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.0% Bisa </li>
+            <li style="line-height: inherit; margin: 0"> 0.9% Ushi </li>
+            <li style="line-height: inherit; margin: 0"> 0.7% <a href="/w/index.php?title=Ila_language&amp;action=edit&amp;redlink=1" class="new" title="Ila language (not yet started)">Ila</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.7% <a href="/w/index.php?title=Mbunda_language&amp;action=edit&amp;redlink=1" class="new" title="Mbunda language (not yet started)">Mbunda</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.7% <a href="/w/index.php?title=Ngoni_language&amp;action=edit&amp;redlink=1" class="new" title="Ngoni language (not yet started)">Ngoni</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.7% <a href="/w/index.php?title=Tumbuka-Senga_language&amp;action=edit&amp;redlink=1" class="new" title="Tumbuka-Senga language (not yet started)">Senga</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.6% <a href="/w/index.php?title=Lungu_language&amp;action=edit&amp;redlink=1" class="new" title="Lungu language (not yet started)">Lungu</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.5% Toka-Leya </li>
+            <li style="line-height: inherit; margin: 0"> 4.7% Others </li>
+           </ul> 
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2010<sup id="cite_ref-ZMBCSO2016_1-0" class="reference"><a href="#cite_note-ZMBCSO2016-1">[1]</a></sup>)
+          </div></th>
+         <td>
+          <div class="NavFrame collapsed" style="border: none; padding: 0;"> 
+           <div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:transparent;text-align:left;font-weight:normal;">
+            List
+           </div> 
+           <ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left;border-top:1px solid #aaa; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+            <li style="line-height: inherit; margin: 0"> 21.0% <a href="/w/index.php?title=Bemba_people&amp;action=edit&amp;redlink=1" class="new" title="Bemba people (not yet started)">Bemba</a> </li>
+            <li style="line-height: inherit; margin: 0"> 13.6% <a href="/w/index.php?title=Tonga_people_of_Zambia_and_Zimbabwe&amp;action=edit&amp;redlink=1" class="new" title="Tonga people of Zambia and Zimbabwe (not yet started)">Tonga</a> </li>
+            <li style="line-height: inherit; margin: 0"> 7.4% <a href="/w/index.php?title=Chewa_people&amp;action=edit&amp;redlink=1" class="new" title="Chewa people (not yet started)">Chewa</a> </li>
+            <li style="line-height: inherit; margin: 0"> 5.7% <a href="/wiki/Lozi_people" title="Lozi people">Lozi</a> </li>
+            <li style="line-height: inherit; margin: 0"> 5.3% <a href="/w/index.php?title=Nsenga_people&amp;action=edit&amp;redlink=1" class="new" title="Nsenga people (not yet started)">Nsenga</a> </li>
+            <li style="line-height: inherit; margin: 0"> 4.4% <a href="/w/index.php?title=Tumbuka_people&amp;action=edit&amp;redlink=1" class="new" title="Tumbuka people (not yet started)">Tumbuka</a> </li>
+            <li style="line-height: inherit; margin: 0"> 4.0% <a href="/w/index.php?title=Ngoni_people&amp;action=edit&amp;redlink=1" class="new" title="Ngoni people (not yet started)">Ngoni</a> </li>
+            <li style="line-height: inherit; margin: 0"> 3.1% Lala </li>
+            <li style="line-height: inherit; margin: 0"> 2.9% Kaonde </li>
+            <li style="line-height: inherit; margin: 0"> 2.8% Namwanga </li>
+            <li style="line-height: inherit; margin: 0"> 2.6% <a href="/w/index.php?title=Lunda_people&amp;action=edit&amp;redlink=1" class="new" title="Lunda people (not yet started)">Lunda (Northern)</a> </li>
+            <li style="line-height: inherit; margin: 0"> 2.5% <a href="/w/index.php?title=Mambwe_people&amp;action=edit&amp;redlink=1" class="new" title="Mambwe people (not yet started)">Mambwe</a> </li>
+            <li style="line-height: inherit; margin: 0"> 2.2% Luvale </li>
+            <li style="line-height: inherit; margin: 0"> 2.1% <a href="/w/index.php?title=Lamba_people&amp;action=edit&amp;redlink=1" class="new" title="Lamba people (not yet started)">Lamba</a> </li>
+            <li style="line-height: inherit; margin: 0"> 1.9% Ushi </li>
+            <li style="line-height: inherit; margin: 0"> 1.6% Bisa </li>
+            <li style="line-height: inherit; margin: 0"> 1.6% Lenje </li>
+            <li style="line-height: inherit; margin: 0"> 1.2% <a href="/w/index.php?title=Mbunda_people&amp;action=edit&amp;redlink=1" class="new" title="Mbunda people (not yet started)">Mbunda</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.9% <a href="/w/index.php?title=Lunda_people&amp;action=edit&amp;redlink=1" class="new" title="Lunda people (not yet started)">Lunda (Luapula)</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.9% <a href="/w/index.php?title=Senga_people&amp;action=edit&amp;redlink=1" class="new" title="Senga people (not yet started)">Senga</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.8% <a href="/w/index.php?title=Ila_people&amp;action=edit&amp;redlink=1" class="new" title="Ila people (not yet started)">Ila</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.8% <a href="/w/index.php?title=Lungu_people&amp;action=edit&amp;redlink=1" class="new" title="Lungu people (not yet started)">Lungu</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.7% <a href="/w/index.php?title=Tabwa&amp;action=edit&amp;redlink=1" class="new" title="Tabwa (not yet started)">Tabwa</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.7% Soli </li>
+            <li style="line-height: inherit; margin: 0"> 0.7% <a href="/w/index.php?title=Kunda_people&amp;action=edit&amp;redlink=1" class="new" title="Kunda people (not yet started)">Kunda</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.6% Ngumbo </li>
+            <li style="line-height: inherit; margin: 0"> 0.5% Chishinga </li>
+            <li style="line-height: inherit; margin: 0"> 0.5% <a href="/w/index.php?title=Chokwe_people&amp;action=edit&amp;redlink=1" class="new" title="Chokwe people (not yet started)">Chokwe</a> </li>
+            <li style="line-height: inherit; margin: 0"> 0.5% <a href="/w/index.php?title=Nkoya_people&amp;action=edit&amp;redlink=1" class="new" title="Nkoya people (not yet started)">Nkoya</a> </li>
+            <li style="line-height: inherit; margin: 0"> 5.4% Other ethnics </li>
+            <li style="line-height: inherit; margin: 0"> 0.8% Major racial </li>
+            <li style="line-height: inherit; margin: 0"> 0.4% Unclassified </li>
+           </ul> 
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;">
+            (2010)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+          </div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li style="white-space:nowrap;">95.5% <a href="/wiki/Christianity" title="Christianity">Christianity</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[a]</a></sup></li>
+            <li style="white-space:nowrap;">–75.3% <a href="/wiki/Protestantism" title="Protestantism">Protestantism</a></li>
+            <li style="white-space:nowrap;">–20.2% Other <a href="/wiki/Christians" class="mw-redirect" title="Christians">Christian</a></li>
+            <li style="white-space:nowrap;">2.7% <a href="/w/index.php?title=Religion_in_Zambia&amp;action=edit&amp;redlink=1" class="new" title="Religion in Zambia (not yet started)">Others</a></li>
+            <li style="white-space:nowrap;">1.8% <a href="/wiki/Irreligion" title="Irreligion">No religion</a></li>
+           </ul>
+          </div></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
@@ -129,7 +235,7 @@
         </tr>
         <tr>
          <th scope="row">Government</th>
-         <td><a href="/wiki/Republic" title="Republic">Republic</a></td>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Republic" title="Republic">constitutional republic</a></td>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -137,32 +243,98 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/List_of_Presidents_of_Zambia" class="mw-redirect" title="List of Presidents of Zambia">President</a> 
+           •&nbsp;<a href="/wiki/President_of_Zambia" title="President of Zambia">President</a> 
           </div></th>
          <td><a href="/wiki/Edgar_Lungu" title="Edgar Lungu">Edgar Lungu</a></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/w/index.php?title=List_of_Vice_Presidents_of_Zambia&amp;action=edit&amp;redlink=1" class="new" title="List of Vice Presidents of Zambia (not yet started)">Vice President</a> 
+           •&nbsp;<a href="/w/index.php?title=Vice-President_of_Zambia&amp;action=edit&amp;redlink=1" class="new" title="Vice-President of Zambia (not yet started)">Vice President</a> 
           </div></th>
          <td><a href="/wiki/Inonge_Wina" title="Inonge Wina">Inonge Wina</a></td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
         </tr>
-        <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/w/index.php?title=National_Assembly_(Zambia)&amp;action=edit&amp;redlink=1" class="new" title="National Assembly (Zambia) (not yet started)">National Assembly</a></td>
         </tr>
-        <tr class="mergedbottomrow">
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=History_of_Zambia&amp;action=edit&amp;redlink=1" class="new" title="History of Zambia (not yet started)">Independence</a>&nbsp;
+          <div style="font-weight:normal;display:inline;">
+           from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+          </div></th>
+        </tr>
+        <tr>
+         <th scope="row">History</th>
+         <td>&nbsp;</td>
+        </tr>
+        <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> 
+           •&nbsp;<a href="/w/index.php?title=North-Western_Rhodesia&amp;action=edit&amp;redlink=1" class="new" title="North-Western Rhodesia (not yet started)">North-Western Rhodesia</a> 
+          </div></th>
+         <td>27 June 1890</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Barotziland-North-Western_Rhodesia&amp;action=edit&amp;redlink=1" class="new" title="Barotziland-North-Western Rhodesia (not yet started)">Barotziland-North-Western Rhodesia</a> 
+          </div></th>
+         <td>28 November 1899</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=North-Eastern_Rhodesia&amp;action=edit&amp;redlink=1" class="new" title="North-Eastern Rhodesia (not yet started)">North-Eastern Rhodesia</a> 
+          </div></th>
+         <td>29 January 1900</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Northern_Rhodesia" title="Northern Rhodesia">Amalgamation of Northern Rhodesia</a> 
+          </div></th>
+         <td>17 August 1911</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Federation_of_Rhodesia_and_Nyasaland&amp;action=edit&amp;redlink=1" class="new" title="Federation of Rhodesia and Nyasaland (not yet started)">Federation of Rhodesia and Nyasaland</a> 
+          </div></th>
+         <td>1 August 1953</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Zambia_Independence_Act_1964&amp;action=edit&amp;redlink=1" class="new" title="Zambia Independence Act 1964 (not yet started)">Republic of Zambia</a> 
           </div></th>
          <td>24 October 1964</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Constitution_of_Zambia&amp;action=edit&amp;redlink=1" class="new" title="Constitution of Zambia (not yet started)">Current constitution</a> 
+          </div></th>
+         <td>5 January 2016</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Established 
+          </div></th>
+         <td>1964</td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
@@ -175,7 +347,7 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>752,618&nbsp;km<sup>2</sup> (290,587&nbsp;sq&nbsp;mi)<sup id="cite_ref-area_1-0" class="reference"><a href="#cite_note-area-1">[1]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">39th</a>)</td>
+         <td>752,618&nbsp;km<sup>2</sup> (290,587&nbsp;sq&nbsp;mi)<sup id="cite_ref-area_4-0" class="reference"><a href="#cite_note-area-4">[3]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">38th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
@@ -190,23 +362,23 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2020 estimate
+           •&nbsp;2016 estimate
           </div></th>
-         <td>18,383,955<sup id="cite_ref-unpop_2-0" class="reference"><a href="#cite_note-unpop-2">[2]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">65th</a>)</td>
+         <td>16,591,390<sup id="cite_ref-UN_WPP_5-0" class="reference"><a href="#cite_note-UN_WPP-5">[4]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">65th</a>)</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2020&nbsp;census
+           •&nbsp;<a href="/w/index.php?title=2010_Zambian_census&amp;action=edit&amp;redlink=1" class="new" title="2010 Zambian census (not yet started)">2010</a>&nbsp;census
           </div></th>
-         <td>18,383,955<sup id="cite_ref-censubibpibjnii_3-0" class="reference"><a href="#cite_note-censubibpibjnii-3">[3]</a></sup></td>
+         <td>13,092,666<sup id="cite_ref-censubibpibjnii_6-0" class="reference"><a href="#cite_note-censubibpibjnii-6">[5]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Density
           </div></th>
-         <td>25/km<sup>2</sup> (64.7/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">65</a>)</td>
+         <td>17.2/km<sup>2</sup> (44.5/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">191st</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
@@ -217,14 +389,14 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$75,857 billion<sup id="cite_ref-imf2_4-0" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup></td>
+         <td>$75.857 billion<sup id="cite_ref-imf2_7-0" class="reference"><a href="#cite_note-imf2-7">[6]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$1,541<sup id="cite_ref-imf2_4-1" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup></td>
+         <td>$4,148<sup id="cite_ref-imf2_7-1" class="reference"><a href="#cite_note-imf2-7">[6]</a></sup></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
@@ -235,45 +407,38 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$23,946billion<sup id="cite_ref-imf2_4-2" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup></td>
+         <td>$23.946 billion<sup id="cite_ref-imf2_7-2" class="reference"><a href="#cite_note-imf2-7">[6]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$4,148<sup id="cite_ref-imf2_4-3" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup></td>
+         <td>$1,307<sup id="cite_ref-imf2_7-3" class="reference"><a href="#cite_note-imf2-7">[6]</a></sup></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2019)</span></th>
-         <td>49.5<br><span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2015)</span></th>
+         <td>57.1<sup id="cite_ref-wb-gini_8-0" class="reference"><a href="#cite_note-wb-gini-8">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2019)</span></th>
-         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.591<br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">143rd</a></td>
+         <td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.584<sup id="cite_ref-UNHDR_9-0" class="reference"><a href="#cite_note-UNHDR-9">[8]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">146th</a></td>
         </tr>
         <tr>
          <th scope="row">Currency</th>
          <td><a href="/w/index.php?title=Zambian_kwacha&amp;action=edit&amp;redlink=1" class="new" title="Zambian kwacha (not yet started)">Zambian kwacha</a> (<a href="/wiki/ISO_4217" title="ISO 4217">ZMW</a>)</td>
         </tr>
-        <tr class="mergedtoprow">
+        <tr>
          <th scope="row">Time zone</th>
          <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Central_Africa_Time" title="Central Africa Time">CAT</a>)</td>
         </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
-          </div></th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<i>not observed</i>)</td>
-        </tr>
         <tr>
          <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
-         <td>left</td>
+         <td><a href="/wiki/Right-_and_left-hand_traffic" class="mw-redirect" title="Right- and left-hand traffic">left</a></td>
         </tr>
         <tr>
          <th scope="row">Calling code</th>
-         <td>260</td>
+         <td><a href="/w/index.php?title=%2B260&amp;action=edit&amp;redlink=1" class="new" title="+260 (not yet started)">+260</a></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
@@ -473,6 +638,29 @@
        <li><a href="/wiki/Zambia_national_football_team" title="Zambia national football team">Zambia national football team</a></li>
       </ul> 
       <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zambia&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Zambia&amp;action=edit&amp;section=6" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-ZMBCSO2016-1"><span class="mw-cite-backlink"><a href="#cite_ref-ZMBCSO2016_1-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.zamstats.gov.zm/phocadownload/2010_Census/2010%20Census%20of%20Population%20National%20Analytical%20Report.pdf">Census of Population and Housing National Analytical Report 2010</a> Central Statistical Office, Zambia</span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cia.gov/library/publications/the-world-factbook/geos/print_za.html">https://www.cia.gov/library/publications/the-world-factbook/geos/print_za.html</a></span> </li> 
+         <li id="cite_note-area-4"><span class="mw-cite-backlink"><a href="#cite_ref-area_4-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFUnited_Nations_Statistics_Division" class="citation web cs1">United Nations Statistics Division. <a rel="nofollow" class="external text" href="http://unstats.un.org/unsd/demographic/products/dyb/DYB2004/Table03.pdf">"Population by sex, rate of population increase, surface area and density"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">9 November</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Population+by+sex%2C+rate+of+population+increase%2C+surface+area+and+density&amp;rft.au=United+Nations+Statistics+Division&amp;rft_id=http%3A%2F%2Funstats.un.org%2Funsd%2Fdemographic%2Fproducts%2Fdyb%2FDYB2004%2FTable03.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AZambia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UN_WPP-5"><span class="mw-cite-backlink"><a href="#cite_ref-UN_WPP_5-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://esa.un.org/unpd/wpp/DataQuery/">"World Population Prospects: The 2017 Revision"</a>. <i>ESA.UN.org</i> (custom data acquired via website). <a href="/w/index.php?title=United_Nations_Department_of_Economic_and_Social_Affairs&amp;action=edit&amp;redlink=1" class="new" title="United Nations Department of Economic and Social Affairs (not yet started)">United Nations Department of Economic and Social Affairs</a>, Population Division<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ESA.UN.org&amp;rft.atitle=World+Population+Prospects%3A+The+2017+Revision&amp;rft_id=https%3A%2F%2Fesa.un.org%2Funpd%2Fwpp%2FDataQuery%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AZambia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-censubibpibjnii-6"><span class="mw-cite-backlink"><a href="#cite_ref-censubibpibjnii_6-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFCentral_Statistical_Office,_Government_of_Zambia" class="citation web cs1">Central Statistical Office, Government of Zambia. <a rel="nofollow" class="external text" href="http://www.zamstats.gov.zm/phocadownload/2010_Census/2010%20Census%20of%20Population%20National%20Analytical%20Report.pdf">"2010 Census Population Summaries"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">6 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2010+Census+Population+Summaries&amp;rft.au=Central+Statistical+Office%2C+Government+of+Zambia&amp;rft_id=http%3A%2F%2Fwww.zamstats.gov.zm%2Fphocadownload%2F2010_Census%2F2010%2520Census%2520of%2520Population%2520National%2520Analytical%2520Report.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AZambia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-imf2-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_7-0">6.0</a></sup> <sup><a href="#cite_ref-imf2_7-1">6.1</a></sup> <sup><a href="#cite_ref-imf2_7-2">6.2</a></sup> <sup><a href="#cite_ref-imf2_7-3">6.3</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imf.org/external/datamapper/PPPGDP@WEO/OEMDC/ADVEC/WEOWORLD/ZMB">"Zambia"</a>. International Monetary Fund.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zambia&amp;rft.pub=International+Monetary+Fund&amp;rft_id=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fdatamapper%2FPPPGDP%40WEO%2FOEMDC%2FADVEC%2FWEOWORLD%2FZMB&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AZambia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-wb-gini-8"><span class="mw-cite-backlink"><a href="#cite_ref-wb-gini_8-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://data.worldbank.org/indicator/SI.POV.GINI/">"Gini Index"</a>. World Bank<span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gini+Index&amp;rft.pub=World+Bank&amp;rft_id=http%3A%2F%2Fdata.worldbank.org%2Findicator%2FSI.POV.GINI%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AZambia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UNHDR-9"><span class="mw-cite-backlink"><a href="#cite_ref-UNHDR_9-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr2020.pdf"><i>Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene</i></a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 15 December 2020. pp.&nbsp;343–346. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-92-1-126442-5" title="Special:BookSources/978-92-1-126442-5"><bdi>978-92-1-126442-5</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Human+Development+Report+2020+The+Next+Frontier%3A+Human+Development+and+the+Anthropocene&amp;rft.pages=343-346&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2020-12-15&amp;rft.isbn=978-92-1-126442-5&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr2020.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AZambia" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <p><b>Notes</b> </p> 
+      <ol class="references"> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Official faith according to constitution</span> </li> 
+      </ol> 
       <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
        <tbody>
         <tr> 
@@ -481,18 +669,6 @@
         </tr> 
        </tbody>
       </table> 
-      <div class="reflist" style="list-style-type: decimal;"> 
-       <div class="mw-references-wrap">
-        <ol class="references"> 
-         <li id="cite_note-area-1"><span class="mw-cite-backlink"><a href="#cite_ref-area_1-0">↑</a></span> <span class="reference-text"><cite id="CITEREFUnited_Nations_Statistics_Division" class="citation web cs1">United Nations Statistics Division. <a rel="nofollow" class="external text" href="http://unstats.un.org/unsd/demographic/products/dyb/DYB2004/Table03.pdf">"Population by sex, rate of population increase, surface area and density"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Population+by+sex%2C+rate+of+population+increase%2C+surface+area+and+density&amp;rft.au=United+Nations+Statistics+Division&amp;rft_id=http%3A%2F%2Funstats.un.org%2Funsd%2Fdemographic%2Fproducts%2Fdyb%2FDYB2004%2FTable03.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AZambia" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-unpop-2"><span class="mw-cite-backlink"><a href="#cite_ref-unpop_2-0">↑</a></span> <span class="reference-text"><cite id="CITEREFDepartment_of_Economic_and_Social_Affairs_Population_Division2009" class="citation journal cs1">Department of Economic and Social Affairs Population Division (2009). <a rel="nofollow" class="external text" href="http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf">"World Population Prospects, Table A.1"</a> <span class="cs1-format">(PDF)</span>. 2008 revision. United Nations<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=World+Population+Prospects%2C+Table+A.1&amp;rft.date=2009&amp;rft.au=Department+of+Economic+and+Social+Affairs+Population+Division&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fesa%2Fpopulation%2Fpublications%2Fwpp2008%2Fwpp2008_text_tables.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AZambia" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">line feed character in <code class="cs1-code">|author=</code> at position 42 (<a href="/wiki/Help:CS1_errors#invisible_char" title="Help:CS1 errors">help</a>); </span><span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-censubibpibjnii-3"><span class="mw-cite-backlink"><a href="#cite_ref-censubibpibjnii_3-0">↑</a></span> <span class="reference-text">{{cite web|url=<a rel="nofollow" class="external free" href="http://www.zamstats.gov.zm/media/chapter_3_population_comp._size_and_growth-_final.pdf%7Ctitle=Population">http://www.zamstats.gov.zm/media/chapter_3_population_comp._size_and_growth-_final.pdf%7Ctitle=Population</a> size, growth and composition|http//www.worldometers.info/world-population/Zambia-population/</span> </li> 
-         <li id="cite_note-imf2-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_4-0">4.0</a></sup> <sup><a href="#cite_ref-imf2_4-1">4.1</a></sup> <sup><a href="#cite_ref-imf2_4-2">4.2</a></sup> <sup><a href="#cite_ref-imf2_4-3">4.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&amp;ey=2010&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=754&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=47&amp;pr.y=15">"Zambia"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zambia&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2010%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2007%26ey%3D2010%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D754%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D%26pr.x%3D47%26pr.y%3D15&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AZambia" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-        </ol>
-       </div>
-      </div> 
       <div role="navigation" class="navbox" aria-labelledby="Countries_and_territories_of_Africa" style="padding:3px">
        <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
         <tbody>
@@ -500,9 +676,9 @@
           <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
@@ -670,9 +846,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Members_of_the_Commonwealth_of_Nations" style="font-size:114%;margin:0 4em">
@@ -812,43 +988,43 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1355
-Cached time: 20201216162144
+Parsed by mw1267
+Cached time: 20210114000516
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.932 seconds
-Real time usage: 1.144 seconds
-Preprocessor visited node count: 3939/1000000
-Post‐expand include size: 82407/2097152 bytes
-Template argument size: 5375/2097152 bytes
+CPU time usage: 1.176 seconds
+Real time usage: 1.485 seconds
+Preprocessor visited node count: 4590/1000000
+Post‐expand include size: 135886/2097152 bytes
+Template argument size: 14516/2097152 bytes
 Highest expansion depth: 18/40
 Expensive parser function count: 9/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 13502/5000000 bytes
-Lua time usage: 0.591/10.000 seconds
-Lua memory usage: 6573855/52428800 bytes
+Unstrip post‐expand size: 22705/5000000 bytes
+Lua time usage: 0.689/10.000 seconds
+Lua memory usage: 7726931/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1005.050      1 -total
- 46.13%  463.648      1 Template:Infobox_country
- 44.16%  443.871      3 Template:Infobox
- 23.15%  232.627      3 Template:ISO_3166_code
- 21.24%  213.481      1 Template:Commonscat
- 19.72%  198.214      1 Template:Commons
- 19.48%  195.789      1 Template:Sister_project
- 19.16%  192.587      1 Template:Side_box
- 18.41%  185.005      2 Template:If_then_show
- 12.77%  128.375      1 Template:Reflist
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:15643-0!canonical and timestamp 20201216162143 and revision id 7017665. Serialized with JSON.
+100.00% 1242.778      1 -total
+ 54.62%  678.825      1 Template:Infobox_country
+ 54.18%  673.398      4 Template:Infobox
+ 22.68%  281.824      3 Template:ISO_3166_code
+ 15.88%  197.362      1 Template:Commonscat
+ 14.42%  179.240      1 Template:Commons
+ 14.16%  176.021      1 Template:Sister_project
+ 13.81%  171.586      1 Template:Side_box
+ 12.44%  154.589      2 Template:If_then_show
+ 12.19%  151.467      1 Template:Reflist
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:15643-0!canonical and timestamp 20210114000515 and revision id 7266329. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Zambia&amp;oldid=7017665">https://simple.wikipedia.org/w/index.php?title=Zambia&amp;oldid=7017665</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Zambia&amp;oldid=7266329">https://simple.wikipedia.org/w/index.php?title=Zambia&amp;oldid=7266329</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -863,13 +1039,12 @@ Transclusion expansion time report (%,ms,calls,template)
      <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
       Hidden categories: 
       <ul>
-       <li><a href="/wiki/Category:CS1_errors:_invisible_characters" title="Category:CS1 errors: invisible characters">CS1 errors: invisible characters</a></li>
-       <li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li>
        <li><a href="/wiki/Category:Pages_needing_to_be_simplified_from_December_2011" title="Category:Pages needing to be simplified from December 2011">Pages needing to be simplified from December 2011</a></li>
        <li><a href="/wiki/Category:All_pages_that_need_simplifying" title="Category:All pages that need simplifying">All pages that need simplifying</a></li>
-       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+       <li><a href="/wiki/Category:Pages_using_collapsible_list_with_both_background_and_text-align_in_titlestyle" title="Category:Pages using collapsible list with both background and text-align in titlestyle">Pages using collapsible list with both background and text-align in titlestyle</a></li>
        <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
        <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2007" title="Category:Articles with unsourced statements from November 2007">Articles with unsourced statements from November 2007</a></li>
+       <li><a href="/wiki/Category:Commons_link_is_defined_as_the_pagename" title="Category:Commons link is defined as the pagename">Commons link is defined as the pagename</a></li>
        <li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li>
       </ul>
      </div>
@@ -945,9 +1120,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -971,9 +1146,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Zambia" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Zambia&amp;oldid=7017665" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Zambia&amp;oldid=7266329" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Zambia&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Zambia&amp;id=7017665&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Zambia&amp;id=7266329&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q953" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -1232,7 +1407,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 4 July 2020, at 07:23.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 13 January 2021, at 23:37.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1250,8 +1425,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.932","walltime":"1.144","ppvisitednodes":{"value":3939,"limit":1000000},"postexpandincludesize":{"value":82407,"limit":2097152},"templateargumentsize":{"value":5375,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13502,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1005.050      1 -total"," 46.13%  463.648      1 Template:Infobox_country"," 44.16%  443.871      3 Template:Infobox"," 23.15%  232.627      3 Template:ISO_3166_code"," 21.24%  213.481      1 Template:Commonscat"," 19.72%  198.214      1 Template:Commons"," 19.48%  195.789      1 Template:Sister_project"," 19.16%  192.587      1 Template:Side_box"," 18.41%  185.005      2 Template:If_then_show"," 12.77%  128.375      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.591","limit":"10.000"},"limitreport-memusage":{"value":6573855,"limit":52428800}},"cachereport":{"origin":"mw1355","timestamp":"20201216162144","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Zambia","url":"https:\/\/simple.wikipedia.org\/wiki\/Zambia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q953","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q953","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-31T08:48:31Z","dateModified":"2020-07-04T07:23:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/06\/Flag_of_Zambia.svg","headline":"sovereign state in Southern Africa"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":271,"wgHostname":"mw1370"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.176","walltime":"1.485","ppvisitednodes":{"value":4590,"limit":1000000},"postexpandincludesize":{"value":135886,"limit":2097152},"templateargumentsize":{"value":14516,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22705,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1242.778      1 -total"," 54.62%  678.825      1 Template:Infobox_country"," 54.18%  673.398      4 Template:Infobox"," 22.68%  281.824      3 Template:ISO_3166_code"," 15.88%  197.362      1 Template:Commonscat"," 14.42%  179.240      1 Template:Commons"," 14.16%  176.021      1 Template:Sister_project"," 13.81%  171.586      1 Template:Side_box"," 12.44%  154.589      2 Template:If_then_show"," 12.19%  151.467      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.689","limit":"10.000"},"limitreport-memusage":{"value":7726931,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20210114000516","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Zambia","url":"https:\/\/simple.wikipedia.org\/wiki\/Zambia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q953","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q953","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-31T08:48:31Z","dateModified":"2021-01-13T23:37:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/06\/Flag_of_Zambia.svg","headline":"sovereign state in Southern Africa"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":194,"wgHostname":"mw1264"});});</script> 
  </body>
 </html>

@@ -3,17 +3,17 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Somaliland - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@VDvQpAML8AAGvswVkAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Somaliland","wgTitle":"Somaliland","wgCurRevisionId":7171192,"wgRevisionId":7171192,"wgArticleId":19870,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Somali-language text","Articles containing Arabic-language text","Lang and lang-xx template errors","Pages using infobox country with unknown parameters","Pages using infobox country or infobox former country with the symbol caption or type parameters","Commons category link from Wikidata",
-"Geography stubs","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NKC identifiers","Somaliland","States of Somalia"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Somaliland","wgRelevantArticleId":19870,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":
-"Q34754"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
-"ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VQpAMM8AAXh3-WAAAAEG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Somaliland","wgTitle":"Somaliland","wgCurRevisionId":7266317,"wgRevisionId":7266317,"wgArticleId":19870,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles containing Somali-language text","Articles containing Arabic-language text","Pages using infobox country or infobox former country with the symbol caption or type parameters","Commons link is defined as the pagename","Commons category link from Wikidata","Geography stubs",
+"Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NKC identifiers","Somaliland","States of Somalia"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Somaliland","wgRelevantArticleId":19870,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q34754"};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks"
+,"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -61,8 +61,7 @@
            Republic of Somaliland
           </div><br>
           <div style="padding-top:0.25em; font-weight:normal;">
-           <span style="font-size:90%;"><i lang="so" title="Somali language text">Jamhuuriyadda Somaliland</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Somali_language" title="Somali language">Somali</a>)</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><br><span lang="ar" style="font-style: normal;" title="Arabic language text"><span style="position: relative; top: 0.1em;"><big>جمهورية أرض الصومال</big></span></span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Arabic_language" title="Arabic language">Arabic</a>)</span><br><span style="font-size:90%;"><i><i lang="ar-Latn" title="Arabic-language romanization">Jumhūrīyat Arḍ aṣ-Ṣūmāl</i></i></span></span>
-           <br>Republic of Somaliland<sup id="cite_ref-Hassig_2-0" class="reference"><a href="#cite_note-Hassig-2">[2]</a></sup>
+           <span style="font-size:90%;"><i lang="so" title="Somali language text">Jamhuriyadda Somaliland</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Somali_language" title="Somali language">Somali</a>)</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><br><span lang="ar" style="font-style: normal;" title="Arabic language text"><span style="position: relative; top: 0.1em;"><big>جمهورية أرض الصومال</big></span></span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Arabic_language" title="Arabic language">Arabic</a>)</span><br><span style="font-size:90%;"><i><i lang="ar-Latn" title="Arabic-language romanization">Jumhūrīyat Arḍ aṣ-Ṣūmāl</i></i></span></span>
           </div></th>
         </tr>
         <tr>
@@ -99,37 +98,51 @@
          <td colspan="2" class="anthem" style="text-align:center">
           <div style="line-height:1.2em;">
            <b>Anthem:&nbsp;</b>
-           <br>[<i><a href="/w/index.php?title=Samo_ku_waar&amp;action=edit&amp;redlink=1" class="new" title="Samo ku waar (not yet started)">Samo ku waar</a></i>] <span style="font-size: 100%; font-style: normal;" class="error">Error: {{Lang}}: text has italic markup (<a href="/wiki/Category:Lang_and_lang-xx_template_errors" title="Category:Lang and lang-xx template errors">help</a>)</span>
+           <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+            "<i lang="so" title="Somali language text"><a href="/w/index.php?title=Samo_ku_waar&amp;action=edit&amp;redlink=1" class="new" title="Samo ku waar (not yet started)">Samo ku waar</a></i>"
+           </div><span style="font-size:85%;">حياة طويلة مع السلام</span>
            <br><span style="font-size:85%;"><i>Long life with peace</i></span>
+           <br>
+           <div style="display:inline-block;margin-top:0.4em;">
+            <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+             <div class="mediaContainer" style="width:220px">
+              <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="175.24099773243" data-startoffset="0" data-mwtitle="Samo_ku_waar_(Somaliland_anthem).ogg" data-mwprovider="wikimediacommons">
+               <source src="//upload.wikimedia.org/wikipedia/commons/c/c4/Samo_ku_waar_%28Somaliland_anthem%29.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (118 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="118279">
+               <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Samo_ku_waar_%28Somaliland_anthem%29.ogg/Samo_ku_waar_%28Somaliland_anthem%29.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="180680">
+              </audio>
+             </div>
+            </div>
+           </div>
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Somaliland_(orthographic_projection).svg" class="image" title="Location of Somaliland."><img alt="Location of Somaliland." src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Somaliland_%28orthographic_projection%29.svg/250px-Somaliland_%28orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Somaliland_%28orthographic_projection%29.svg/375px-Somaliland_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Somaliland_%28orthographic_projection%29.svg/500px-Somaliland_%28orthographic_projection%29.svg.png 2x" data-file-width="553" data-file-height="553"></a>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Somaliland_(orthographic_projection).svg" class="image" title="Controlled territory (dark green) and territory claimed but not controlled (light green)"><img alt="Controlled territory (dark green) and territory claimed but not controlled (light green)" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Somaliland_%28orthographic_projection%29.svg/250px-Somaliland_%28orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Somaliland_%28orthographic_projection%29.svg/375px-Somaliland_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Somaliland_%28orthographic_projection%29.svg/500px-Somaliland_%28orthographic_projection%29.svg.png 2x" data-file-width="553" data-file-height="553"></a>
           <div style="position:relative;top:0.3em;">
-           Location of Somaliland.
+           Controlled territory (dark green) and territory claimed but not controlled (light green)
           </div></td>
         </tr>
         <tr>
-         <th scope="row">Capital</th>
-         <td><a href="/w/index.php?title=Hargeisa&amp;action=edit&amp;redlink=1" class="new" title="Hargeisa (not yet started)">Hargeisa</a></td>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><a href="/w/index.php?title=Hargeisa&amp;action=edit&amp;redlink=1" class="new" title="Hargeisa (not yet started)">Hargeisa</a><br><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Somaliland&amp;params=9_33_N_44_03_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">9°33′N</span> <span class="longitude">44°03′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">9.550°N 44.050°E</span><span style="display:none">﻿ / <span class="geo">9.550; 44.050</span></span></span></a></span></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Official&nbsp;languages</th>
-         <td>
-          <div class="plainlist">
-           <ul>
-            <li><a href="/wiki/Somali_language" title="Somali language">Somali</a></li>
-            <li><span class="nowrap"><a href="/wiki/Arabic_language" title="Arabic language">Arabic</a> <span style="font-size:85%;">(second language)</span></span></li>
-           </ul>
-          </div></td>
+         <td><a href="/wiki/Somali_language" title="Somali language">Somali</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Second language</th>
+         <td><a href="/wiki/Arabic" class="mw-disambig" title="Arabic">Arabic</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <a href="/wiki/English_language" title="English language">English</a></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
-         <td>Somali<br>Somalilander</td>
+         <td><a href="/w/index.php?title=Demographics_of_Somalia&amp;action=edit&amp;redlink=1" class="new" title="Demographics of Somalia (not yet started)">Somali</a>;<sup id="cite_ref-Pdllwcpaz_3-0" class="reference"><a href="#cite_note-Pdllwcpaz-3">[3]</a></sup> <br><a href="/w/index.php?title=Somalilander&amp;action=edit&amp;redlink=1" class="new" title="Somalilander (not yet started)">Somalilander</a></td>
         </tr>
         <tr>
          <th scope="row">Government</th>
-         <td><a href="/wiki/Constitutional_republic" title="Constitutional republic">Constitutional</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Republic" title="Republic">republic</a></td>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Republic" title="Republic">republic</a></td>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -139,21 +152,28 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;<a href="/w/index.php?title=President_of_Somaliland&amp;action=edit&amp;redlink=1" class="new" title="President of Somaliland (not yet started)">President</a> 
           </div></th>
-         <td><a href="/w/index.php?title=Muse_Bihi_Abdi&amp;action=edit&amp;redlink=1" class="new" title="Muse Bihi Abdi (not yet started)">Muse Bihi Abdi</a></td>
+         <td><span class="nowrap"><a href="/w/index.php?title=Muse_Bihi_Abdi&amp;action=edit&amp;redlink=1" class="new" title="Muse Bihi Abdi (not yet started)">Muse Bihi Abdi</a></span></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Vice-President 
+           •&nbsp;<a href="/w/index.php?title=Vice_President_of_Somaliland&amp;action=edit&amp;redlink=1" class="new" title="Vice President of Somaliland (not yet started)">Vice President</a> 
           </div></th>
          <td><a href="/w/index.php?title=Abdirahman_Saylici&amp;action=edit&amp;redlink=1" class="new" title="Abdirahman Saylici (not yet started)">Abdirahman Saylici</a></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Speaker of the House 
+           •&nbsp;<a href="/w/index.php?title=House_of_Representatives_(Somaliland)&amp;action=edit&amp;redlink=1" class="new" title="House of Representatives (Somaliland) (not yet started)">Speaker of the House</a> 
           </div></th>
-         <td><a href="/w/index.php?title=Baashe_Mohamed_Farah&amp;action=edit&amp;redlink=1" class="new" title="Baashe Mohamed Farah (not yet started)">Baashe Mohamed Farah</a></td>
+         <td><a href="/w/index.php?title=Bashe_Mohamed_Farah&amp;action=edit&amp;redlink=1" class="new" title="Bashe Mohamed Farah (not yet started)">Bashe Mohamed Farah</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Chief_Justice_of_Somaliland&amp;action=edit&amp;redlink=1" class="new" title="Chief Justice of Somaliland (not yet started)">Chief Justice</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Adan_Haji_Ali&amp;action=edit&amp;redlink=1" class="new" title="Adan Haji Ali (not yet started)">Adan Haji Ali</a></td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
@@ -177,7 +197,7 @@
          <td><a href="/w/index.php?title=House_of_Representatives_of_Somaliland&amp;action=edit&amp;redlink=1" class="new" title="House of Representatives of Somaliland (not yet started)">House of Representatives</a></td>
         </tr>
         <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a>&nbsp;
+         <th colspan="2" style="text-align:center;text-align:left;">Unrecognised independence&nbsp;
           <div style="font-weight:normal;display:inline;">
            from <a href="/wiki/Somalia" title="Somalia">Somalia</a>
           </div></th>
@@ -188,16 +208,30 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Proclaimed 
+           •&nbsp;Establishment of <a href="/w/index.php?title=British_Somaliland&amp;action=edit&amp;redlink=1" class="new" title="British Somaliland (not yet started)">British Somaliland</a> 
           </div></th>
-         <td>18 May 1991</td>
+         <td>1884</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Recognition 
+           •&nbsp;Independence of the <a href="/w/index.php?title=State_of_Somaliland&amp;action=edit&amp;redlink=1" class="new" title="State of Somaliland (not yet started)">State of Somaliland</a> 
           </div></th>
-         <td><a href="/w/index.php?title=Diplomatic_recognition&amp;action=edit&amp;redlink=1" class="new" title="Diplomatic recognition (not yet started)">Unrecognized</a><sup id="cite_ref-NYT_3-0" class="reference"><a href="#cite_note-NYT-3">[3]</a></sup><sup id="cite_ref-Tukpmorttsep_4-0" class="reference"><a href="#cite_note-Tukpmorttsep-4">[4]</a></sup></td>
+         <td>26 June 1960</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Somali_Republic&amp;action=edit&amp;redlink=1" class="new" title="Somali Republic (not yet started)">Union</a> with the <a href="/w/index.php?title=Trust_Territory_of_Somaliland&amp;action=edit&amp;redlink=1" class="new" title="Trust Territory of Somaliland (not yet started)">Trust Territory of Somaliland</a> 
+          </div></th>
+         <td>1 July 1960</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Somaliland_Declaration_of_Independence&amp;action=edit&amp;redlink=1" class="new" title="Somaliland Declaration of Independence (not yet started)">Declaration of independence</a> 
+          </div></th>
+         <td>18 May 1991</td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
@@ -210,7 +244,7 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>137,600&nbsp;km<sup>2</sup> (53,100&nbsp;sq&nbsp;mi)</td>
+         <td>176,120<sup id="cite_ref-auto_4-0" class="reference"><a href="#cite_note-auto-4">[4]</a></sup>&nbsp;km<sup>2</sup> (68,000&nbsp;sq&nbsp;mi)</td>
         </tr>
         <tr class="mergedtoprow">
          <th colspan="2" style="text-align:center;text-align:left;">Population</th>
@@ -218,9 +252,9 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2008 estimate
+           •&nbsp;2013 estimate
           </div></th>
-         <td>3,500,000</td>
+         <td>4.5 million<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
@@ -229,20 +263,31 @@
           </div></th>
          <td>25/km<sup>2</sup> (64.7/sq&nbsp;mi)</td>
         </tr>
-        <tr>
-         <th scope="row">Currency</th>
-         <td><a href="/w/index.php?title=Somaliland_shilling&amp;action=edit&amp;redlink=1" class="new" title="Somaliland shilling (not yet started)">Somaliland shilling</a><sup>a</sup> (<a href="/wiki/ISO_4217" title="ISO 4217">SLSH</a>)</td>
-        </tr>
         <tr class="mergedtoprow">
-         <th scope="row">Time zone</th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3</span> (<a href="/w/index.php?title=East_African_Time&amp;action=edit&amp;redlink=1" class="new" title="East African Time (not yet started)">EAT</a>)</td>
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2019&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>$2.5 billion<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+           •&nbsp;Per capita
           </div></th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3</span> (not observed)</td>
+         <td>$950<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/w/index.php?title=Somaliland_shilling&amp;action=edit&amp;redlink=1" class="new" title="Somaliland shilling (not yet started)">Somaliland shilling</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+3</span> (<a href="/wiki/East_Africa_Time" title="East Africa Time">EAT</a>)</td>
         </tr>
         <tr>
          <th scope="row">Date format</th>
@@ -254,33 +299,16 @@
         </tr>
         <tr>
          <th scope="row">Calling code</th>
-         <td><a href="/w/index.php?title=%2B252&amp;action=edit&amp;redlink=1" class="new" title="+252 (not yet started)">+252</a> <span style="font-size:85%;">(Somalia)</span></td>
-        </tr>
-        <tr>
-         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
-         <td><a href="/wiki/.so" class="mw-redirect" title=".so">.so</a></td>
-        </tr>
-        <tr>
-         <td colspan="2" style="text-align:center">
-          <div style="text-align:left;margin-left:auto; margin-right:auto;">
-           <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
-            <li value="1">Currency only valid for regional use.</li> 
-           </ol>
-          </div></td>
-        </tr>
-        <tr>
-         <td colspan="2" style="text-align:center">
-          <div style="text-align:left;margin-left:auto; margin-right:auto;">
-           Rankings unavailable as Somaliland is <a href="/w/index.php?title=Diplomatic_recognition&amp;action=edit&amp;redlink=1" class="new" title="Diplomatic recognition (not yet started)">unrecognised</a>.
-          </div></td>
+         <td><a href="/w/index.php?title=%2B252&amp;action=edit&amp;redlink=1" class="new" title="+252 (not yet started)">+252</a> <small>(Somalia)</small></td>
         </tr>
        </tbody>
       </table> 
-      <p><b>Somaliland</b> (officially called the <b>Republic of Somaliland</b>) is a country in middle-east <a href="/wiki/Africa" title="Africa">Africa</a>. It <a href="https://simple.wiktionary.org/wiki/border" class="extiw" title="wikt:border">borders</a> <a href="/wiki/Djibouti" title="Djibouti">Djibouti</a> to the west, the <a href="/wiki/Federal_Republic_of_Ethiopia" class="mw-redirect" title="Federal Republic of Ethiopia">Federal Republic of Ethiopia</a> to the south and <a href="/wiki/Somalia" title="Somalia">Somalia</a> to the east.<sup id="cite_ref-Profile_5-0" class="reference"><a href="#cite_note-Profile-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
-      <p>The area used to be the Somali area which was part of the British empire along with <a href="/wiki/Jubaland" title="Jubaland">Jubaland</a>, which was called <a href="/wiki/Trans-juba" class="mw-redirect" title="Trans-juba">Trans-juba</a>. It was called the British Somali Coast Protectorate before 26 June 1960. That year it united with Somalia called the "Somali Republic".<sup id="cite_ref-PDF_7-0" class="reference"><a href="#cite_note-PDF-7">[7]</a></sup> In May of <a href="/wiki/1991" title="1991">1991</a>, after a war, Somaliland regained independence. </p>
-      <p>Currently, Somaliland is an <a href="/wiki/Unrecognized_state" class="mw-redirect" title="Unrecognized state">unrecognized state</a>. This means that no country with membership in the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> or <a href="https://simple.wiktionary.org/wiki/international" class="extiw" title="wikt:international">international</a> organization views Somaliland as an independent country.<sup id="cite_ref-NYT_3-1" class="reference"><a href="#cite_note-NYT-3">[3]</a></sup> Instead, they wrongly mistake Somaliland as a part of Somalia. </p>
-      <p>Somaliland has a republican government with free elections. The capital is <a href="/w/index.php?title=Hargeisa&amp;action=edit&amp;redlink=1" class="new" title="Hargeisa (not yet started)">Hargeisa</a>. Berbera is a beautiful city on the coast. </p>
-      <p>People from Somaliland are often criticized for their country having declared independence from Somalia and working as an independent state. However, the country is much more peaceful than Somalia, has its own functioning market economy, and is not burdened with high tax rates, unlike other African countries. Some Dhulbahante people in the east have rejected joining Somaliland. These Dhulbahante created their own movement called <a href="/wiki/Khatumo_State" title="Khatumo State">Khatumo State</a> which is now defunct after most of them reunited with Somaliland </p> 
+      <p><b>Somaliland</b> (<a href="/wiki/Somali_language" title="Somali language">Somali</a>: <i lang="so">Somaliland</i>; <a href="/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl">صوماليلاند</span>‎ <i><i lang="ar-Latn" title="Arabic-language romanization">Ṣūmālīlānd</i></i>, <span lang="ar" dir="rtl" title="Arabic language text">أرض الصومال</span>‎ <i><i lang="ar-Latn" title="Arabic-language romanization">Arḍ aṣ-Ṣūmāl</i></i>), officially the <b>Republic of Somaliland</b> (<a href="/wiki/Somali_language" title="Somali language">Somali</a>: <i lang="so">Jamhuuriyadda Somaliland</i>, <a href="/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl">جمهورية صوماليلاند</span>‎ <i>Jumhūrīyat Ṣūmālīlānd</i>), is an <a href="/wiki/Unrecognized_state" class="mw-redirect" title="Unrecognized state">unrecorgnized state</a>, which the international community considers part of <a href="/wiki/Somalia" title="Somalia">Somalia</a>. The territory covers the former <a href="/wiki/Protectorate" title="Protectorate">protectorate</a> <a href="/w/index.php?title=British_Somaliland&amp;action=edit&amp;redlink=1" class="new" title="British Somaliland (not yet started)">British Somaliland</a>. De facto, the territory is independent from the rest of Somalia. It <a href="https://simple.wiktionary.org/wiki/border" class="extiw" title="wikt:border">borders</a> <a href="/wiki/Djibouti" title="Djibouti">Djibouti</a> to the west, the <a href="/wiki/Federal_Republic_of_Ethiopia" class="mw-redirect" title="Federal Republic of Ethiopia">Federal Republic of Ethiopia</a> to the south and <a href="/wiki/Somalia" title="Somalia">Somalia</a> to the east.<sup id="cite_ref-Profile_8-0" class="reference"><a href="#cite_note-Profile-8">[8]</a></sup> </p>
+      <p><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
+      <p>The area used to be the Somali area which was part of the British empire along with <a href="/wiki/Jubaland" title="Jubaland">Jubaland</a>, which was called <a href="/wiki/Trans-juba" class="mw-redirect" title="Trans-juba">Trans-juba</a>. It was called the British Somali Coast Protectorate before 26 June 1960. That year it united with Somalia called the "Somali Republic".<sup id="cite_ref-PDF_10-0" class="reference"><a href="#cite_note-PDF-10">[10]</a></sup> In May of <a href="/wiki/1991" title="1991">1991</a>, after a war, Somaliland regained independence. </p>
+      <p>Currently, Somaliland is an <a href="/wiki/Unrecognized_state" class="mw-redirect" title="Unrecognized state">unrecognized state</a>. This means that no country with membership in the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> or <a href="https://simple.wiktionary.org/wiki/international" class="extiw" title="wikt:international">international</a> organization views Somaliland as an independent country.<sup id="cite_ref-NYT_11-0" class="reference"><a href="#cite_note-NYT-11">[11]</a></sup> Instead, they see Somaliland as a part of Somalia. </p>
+      <p>Somaliland has a republican government with free elections. The capital is <a href="/w/index.php?title=Hargeisa&amp;action=edit&amp;redlink=1" class="new" title="Hargeisa (not yet started)">Hargeisa</a>. Berbera is a beautiful city on the coast. Aboput 55% of the people of Somalilands are <a href="/wiki/Nomads" class="mw-redirect" title="Nomads">nomads</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Most Somalis are <a href="/wiki/Sunni_Islam" title="Sunni Islam">Sunni</a> <a href="/wiki/Muslims" class="mw-redirect" title="Muslims">Muslims</a>. Some people are part of <a href="/wiki/Sufism" title="Sufism">Sufi</a> orders. </p>
+      <p>A territory in the west, called <a href="/wiki/Khatumo_State" title="Khatumo State">Khatumo State</a> has been disputed between Somaliland and <a href="/wiki/Puntland" title="Puntland">Puntland</a>. </p> 
       <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
        <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
        <div class="toctitle" lang="en" dir="ltr">
@@ -298,25 +326,36 @@
       </div> 
       <h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somaliland&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: Demographics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Somaliland&amp;action=edit&amp;section=1" title="Change section: Demographics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <h3><span class="mw-headline" id="***REMOVED***">Language</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somaliland&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Language">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Somaliland&amp;action=edit&amp;section=2" title="Change section: Language">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
-      <p>Most people in Somaliland speak Somali and Arabic. Article 6 of the Constitution of 2001 says the official language of Somaliland is Somali,<sup id="cite_ref-PDF_7-1" class="reference"><a href="#cite_note-PDF-7">[7]</a></sup> but Arabic is a <a href="https://simple.wiktionary.org/wiki/mandatory" class="extiw" title="wikt:mandatory">mandatory</a> subject in school. English is also spoken and taught in schools. </p>
+      <p>Most people in Somaliland speak Somali and Arabic. Article 6 of the Constitution of 2001 says the official language of Somaliland is Somali,<sup id="cite_ref-PDF_10-1" class="reference"><a href="#cite_note-PDF-10">[10]</a></sup> but Arabic is a <a href="https://simple.wiktionary.org/wiki/mandatory" class="extiw" title="wikt:mandatory">mandatory</a> subject in school. English is also spoken and taught in schools. </p>
       <p>The main Somali <a href="/wiki/Dialect" title="Dialect">dialect</a> is Standard Somali. Standard Somali is spoken in most of Somalia and in countries that border it. Standard Somali is used by almost all of the media in the Somaliland region. </p> 
       <h3><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somaliland&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Religion">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Somaliland&amp;action=edit&amp;section=3" title="Change section: Religion">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
-      <p>Almost all Somalilanders are <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslims</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> This is because <a href="/wiki/Islam" title="Islam">Islam</a> is the state religion, and practicing a religion other than Islam is against the law.<sup id="cite_ref-PDF_7-2" class="reference"><a href="#cite_note-PDF-7">[7]</a></sup> Small amounts of non-Islamic <a href="https://simple.wiktionary.org/wiki/tradition" class="extiw" title="wikt:tradition">traditions</a> exist in Somaliland, but Islam is very important to the Somali sense of national identity. </p> 
+      <p>Almost all Somalilanders are <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslims</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> This is because <a href="/wiki/Islam" title="Islam">Islam</a> is the state religion, and practicing a religion other than Islam is against the law.<sup id="cite_ref-PDF_10-2" class="reference"><a href="#cite_note-PDF-10">[10]</a></sup> Small amounts of non-Islamic <a href="https://simple.wiktionary.org/wiki/tradition" class="extiw" title="wikt:tradition">traditions</a> exist in Somaliland, but Islam is very important to the Somali sense of national identity. </p> 
       <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somaliland&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Somaliland&amp;action=edit&amp;section=4" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <div class="reflist" style="list-style-type: decimal;"> 
-       <div class="mw-references-wrap">
+       <div class="mw-references-wrap mw-references-columns">
         <ol class="references"> 
-         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Name used in <a rel="nofollow" class="external text" href="http://www.somalilandlaw.com/Somaliland_Constitution/body_somaliland_constitution.htm#Heading">The Constitution of the Republic of Somaliland</a> and in <a rel="nofollow" class="external text" href="http://www.somalilandlaw.com/Faafinta_Rasmiga_JSL_S1_Cad_1aad_2012.pdf">Somaliland Official Gazette</a></span> </li> 
-         <li id="cite_note-Hassig-2"><span class="mw-cite-backlink"><a href="#cite_ref-Hassig_2-0">↑</a></span> <span class="reference-text">Susan M. Hassig, Zawiah Abdul Latif, <i>Somalia</i>, (Marshall Cavendish: 2007), p.10.</span> </li> 
-         <li id="cite_note-NYT-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-NYT_3-0">3.0</a></sup> <sup><a href="#cite_ref-NYT_3-1">3.1</a></sup></span> <span class="reference-text"><cite id="CITEREFLacey2006" class="citation news cs1">Lacey, Marc (5 June 2006). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2006/06/05/world/africa/05somaliland.html?scp=1&amp;sq=The%20Signs%20Say%20Somaliland,%20but%20the%20World%20Says%20Somalia&amp;st=cse">"The Signs Say Somaliland, but the World Says Somalia"</a>. The New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">25 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Signs+Say+Somaliland%2C+but+the+World+Says+Somalia&amp;rft.date=2006-06-05&amp;rft.aulast=Lacey&amp;rft.aufirst=Marc&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2006%2F06%2F05%2Fworld%2Fafrica%2F05somaliland.html%3Fscp%3D1%26sq%3DThe%2520Signs%2520Say%2520Somaliland%2C%2520but%2520the%2520World%2520Says%2520Somalia%26st%3Dcse&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-Tukpmorttsep-4"><span class="mw-cite-backlink"><a href="#cite_ref-Tukpmorttsep_4-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.somalilandtimes.net/sl/2006/270/3.shtml">The UK Prime Minister's Office Reply To The "Somaliland E-Petition"</a></span> </li> 
-         <li id="cite_note-Profile-5"><span class="mw-cite-backlink"><a href="#cite_ref-Profile_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.somalilandgov.com/cprofile.htm">"Somaliland Official Website"</a>. somalilandgov.com<span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Somaliland+Official+Website&amp;rft.pub=somalilandgov.com&amp;rft_id=http%3A%2F%2Fwww.somalilandgov.com%2Fcprofile.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Hoehne, Markus Virgil. "The rupture of territoriality and the diminishing relevance of cross‐cutting ties in Somalia after 1990." Development and Change 47.6 (2016): 1379-1411.</span> </li> 
-         <li id="cite_note-PDF-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PDF_7-0">7.0</a></sup> <sup><a href="#cite_ref-PDF_7-1">7.1</a></sup> <sup><a href="#cite_ref-PDF_7-2">7.2</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.chr.up.ac.za/undp/domestic/docs/c_Somaliland.pdf">"THE CONSTITUTION OF THE REPUBLIC OF SOMALILAND"</a> <span class="cs1-format">(PDF)</span>. International relations and security network. 31 May 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=THE+CONSTITUTION+OF+THE+REPUBLIC+OF+SOMALILAND&amp;rft.pub=International+relations+and+security+network&amp;rft.date=2001-05-31&amp;rft_id=http%3A%2F%2Fwww.chr.up.ac.za%2Fundp%2Fdomestic%2Fdocs%2Fc_Somaliland.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.state.gov/r/pa/ei/bgn/2863.htm">"Background Note: Somalia"</a>. U.S Department of State<span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Background+Note%3A+Somalia&amp;rft.pub=U.S+Department+of+State&amp;rft_id=http%3A%2F%2Fwww.state.gov%2Fr%2Fpa%2Fei%2Fbgn%2F2863.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Name used in <a rel="nofollow" class="external text" href="http://www.somalilandlaw.com/Somaliland_Constitution/body_somaliland_constitution.htm#Heading">The Constitution of the Republic of Somaliland</a> and in <a rel="nofollow" class="external text" href="http://www.somalilandlaw.com/Faafinta_Rasmiga_JSL_S1_Cad_1aad_2012.pdf">Somaliland Official Gazette</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160420033000/http://somalilandlaw.com/Faafinta_Rasmiga_JSL_S1_Cad_1aad_2012.pdf">Archived</a> 20 April 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFwebsite" class="citation web cs1">website, Somallilandlaw.com – an independent non-for-profit. <a rel="nofollow" class="external text" href="http://www.somalilandlaw.com/body_somaliland_constitution.htm">"Somaliland Constitution"</a>. <i>www.somalilandlaw.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.somalilandlaw.com&amp;rft.atitle=Somaliland+Constitution&amp;rft.aulast=website&amp;rft.aufirst=Somallilandlaw.com+%E2%80%93+an+independent+non-for-profit&amp;rft_id=http%3A%2F%2Fwww.somalilandlaw.com%2Fbody_somaliland_constitution.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Pdllwcpaz-3"><span class="mw-cite-backlink"><a href="#cite_ref-Pdllwcpaz_3-0">↑</a></span> <span class="reference-text">Paul Dickson, <i>Labels for locals: what to call people from Abilene to Zimbabwe</i>, (Merriam-Webster: 1997), p.175.</span> </li> 
+         <li id="cite_note-auto-4"><span class="mw-cite-backlink"><a href="#cite_ref-auto_4-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFLansford2015" class="citation book cs1">Lansford, Tom (2015-03-24). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=yNGfBwAAQBAJ&amp;pg=PT5625"><i>Political Handbook of the World 2015</i></a>. CQ Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781483371559" title="Special:BookSources/9781483371559"><bdi>9781483371559</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Political+Handbook+of+the+World+2015&amp;rft.pub=CQ+Press&amp;rft.date=2015-03-24&amp;rft.isbn=9781483371559&amp;rft.aulast=Lansford&amp;rft.aufirst=Tom&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DyNGfBwAAQBAJ%26pg%3DPT5625&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://unpo.org/members/7916">"UNPO: Somaliland"</a>. <i>unpo.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-01-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=unpo.org&amp;rft.atitle=UNPO%3A+Somaliland&amp;rft_id=https%3A%2F%2Funpo.org%2Fmembers%2F7916&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation journal cs1">"The Somaliland Health and Demographic Survey 2020". <i>Central Statistics Department, Ministry of Planning and National Development, Somaliland Government</i>: 35.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Central+Statistics+Department%2C+Ministry+of+Planning+and+National+Development%2C+Somaliland+Government&amp;rft.atitle=The+Somaliland+Health+and+Demographic+Survey+2020&amp;rft.pages=35&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.busiweek.com/somaliland-economic-growth-on-the-rise/">"Somaliland economic growth on the rise"</a>. <i>East African Business Week</i>. 2020-02-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-01-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=East+African+Business+Week&amp;rft.atitle=Somaliland+economic+growth+on+the+rise&amp;rft.date=2020-02-20&amp;rft_id=https%3A%2F%2Fwww.busiweek.com%2Fsomaliland-economic-growth-on-the-rise%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Profile-8"><span class="mw-cite-backlink"><a href="#cite_ref-Profile_8-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.somalilandgov.com/cprofile.htm">"Somaliland Official Website"</a>. somalilandgov.com<span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Somaliland+Official+Website&amp;rft.pub=somalilandgov.com&amp;rft_id=http%3A%2F%2Fwww.somalilandgov.com%2Fcprofile.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Hoehne, Markus Virgil. "The rupture of territoriality and the diminishing relevance of cross‐cutting ties in Somalia after 1990." Development and Change 47.6 (2016): 1379-1411.</span> </li> 
+         <li id="cite_note-PDF-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PDF_10-0">10.0</a></sup> <sup><a href="#cite_ref-PDF_10-1">10.1</a></sup> <sup><a href="#cite_ref-PDF_10-2">10.2</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120227110751/http://www.chr.up.ac.za/undp/domestic/docs/c_Somaliland.pdf">"THE CONSTITUTION OF THE REPUBLIC OF SOMALILAND"</a> <span class="cs1-format">(PDF)</span>. International relations and security network. 31 May 2001. Archived from <a rel="nofollow" class="external text" href="http://www.chr.up.ac.za/undp/domestic/docs/c_Somaliland.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 27 February 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=THE+CONSTITUTION+OF+THE+REPUBLIC+OF+SOMALILAND&amp;rft.pub=International+relations+and+security+network&amp;rft.date=2001-05-31&amp;rft_id=http%3A%2F%2Fwww.chr.up.ac.za%2Fundp%2Fdomestic%2Fdocs%2Fc_Somaliland.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span></span> </li> 
+         <li id="cite_note-NYT-11"><span class="mw-cite-backlink"><a href="#cite_ref-NYT_11-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFLacey2006" class="citation news cs1">Lacey, Marc (5 June 2006). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2006/06/05/world/africa/05somaliland.html?scp=1&amp;sq=The%20Signs%20Say%20Somaliland,%20but%20the%20World%20Says%20Somalia&amp;st=cse">"The Signs Say Somaliland, but the World Says Somalia"</a>. The New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">25 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Signs+Say+Somaliland%2C+but+the+World+Says+Somalia&amp;rft.date=2006-06-05&amp;rft.aulast=Lacey&amp;rft.aufirst=Marc&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2006%2F06%2F05%2Fworld%2Fafrica%2F05somaliland.html%3Fscp%3D1%26sq%3DThe%2520Signs%2520Say%2520Somaliland%2C%2520but%2520the%2520World%2520Says%2520Somalia%26st%3Dcse&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://somalilandgov.com/country-profile/">"Our Country – Somaliland Official Government Website"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-12-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Our+Country+%E2%80%93+Somaliland+Official+Government+Website&amp;rft_id=https%3A%2F%2Fsomalilandgov.com%2Fcountry-profile%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.state.gov/r/pa/ei/bgn/2863.htm">"Background Note: Somalia"</a>. U.S Department of State<span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Background+Note%3A+Somalia&amp;rft.pub=U.S+Department+of+State&amp;rft_id=http%3A%2F%2Fwww.state.gov%2Fr%2Fpa%2Fei%2Fbgn%2F2863.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASomaliland" class="Z3988"></span></span> </li> 
         </ol>
        </div>
       </div> 
@@ -340,9 +379,9 @@
           <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
@@ -523,43 +562,43 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1305
-Cached time: 20201223083125
+Parsed by mw1311
+Cached time: 20210114004022
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.752 seconds
-Real time usage: 0.955 seconds
-Preprocessor visited node count: 3910/1000000
-Post‐expand include size: 80002/2097152 bytes
-Template argument size: 12898/2097152 bytes
+CPU time usage: 0.864 seconds
+Real time usage: 1.073 seconds
+Preprocessor visited node count: 4254/1000000
+Post‐expand include size: 99949/2097152 bytes
+Template argument size: 16439/2097152 bytes
 Highest expansion depth: 18/40
 Expensive parser function count: 8/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 15788/5000000 bytes
-Lua time usage: 0.468/10.000 seconds
-Lua memory usage: 25359421/52428800 bytes
+Unstrip post‐expand size: 33434/5000000 bytes
+Lua time usage: 0.507/10.000 seconds
+Lua memory usage: 28674372/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  883.483      1 -total
- 60.60%  535.384      1 Template:Infobox_country
- 59.73%  527.673      3 Template:Infobox
- 23.85%  210.689      4 Template:Smaller
- 23.52%  207.806      4 Template:Resize
- 21.88%  193.295      2 Template:Native_name
- 19.64%  173.473      4 Template:Lang
- 13.21%  116.702      1 Template:Reflist
- 10.61%   93.776      1 Template:ISO_3166_code
- 10.22%   90.334      1 Template:Cite_news
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:19870-0!canonical and timestamp 20201223083125 and revision id 7171192. Serialized with JSON.
+100.00%  961.581      1 -total
+ 60.13%  578.163      1 Template:Infobox_country
+ 59.30%  570.177      3 Template:Infobox
+ 20.07%  192.966      4 Template:Smaller
+ 19.76%  189.963      4 Template:Resize
+ 18.38%  176.778      2 Template:Native_name
+ 17.94%  172.539      5 Template:Lang
+ 16.50%  158.628      1 Template:Reflist
+ 12.38%  119.006      1 Template:ISO_3166_code
+ 10.30%   99.029      7 Template:Cite_web
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:19870-0!canonical and timestamp 20210114004022 and revision id 7266317. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Somaliland&amp;oldid=7171192">https://simple.wikipedia.org/w/index.php?title=Somaliland&amp;oldid=7171192</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Somaliland&amp;oldid=7266317">https://simple.wikipedia.org/w/index.php?title=Somaliland&amp;oldid=7266317</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -573,11 +612,11 @@ Transclusion expansion time report (%,ms,calls,template)
      <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
       Hidden categories: 
       <ul>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
        <li><a href="/wiki/Category:Articles_containing_Somali-language_text" title="Category:Articles containing Somali-language text">Articles containing Somali-language text</a></li>
        <li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li>
-       <li><a href="/wiki/Category:Lang_and_lang-xx_template_errors" title="Category:Lang and lang-xx template errors">Lang and lang-xx template errors</a></li>
-       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
        <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
+       <li><a href="/wiki/Category:Commons_link_is_defined_as_the_pagename" title="Category:Commons link is defined as the pagename">Commons link is defined as the pagename</a></li>
        <li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li>
        <li><a href="/wiki/Category:Geography_stubs" title="Category:Geography stubs">Geography stubs</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_area_identifiers" title="Category:Wikipedia articles with MusicBrainz area identifiers">Wikipedia articles with MusicBrainz area identifiers</a></li>
@@ -611,7 +650,7 @@ Transclusion expansion time report (%,ms,calls,template)
       <div class="vector-menu-content"> 
        <ul class="vector-menu-content-list">
         <li id="ca-nstab-main" class="selected"><a href="/wiki/Somaliland" title="View the content page [c]" accesskey="c">Page</a></li>
-        <li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Somaliland&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (not yet started) [t]" accesskey="t">Talk</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Somaliland" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
        </ul> 
       </div> 
      </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
@@ -656,9 +695,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -682,9 +721,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Somaliland" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Somaliland&amp;oldid=7171192" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Somaliland&amp;oldid=7266317" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Somaliland&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Somaliland&amp;id=7171192&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Somaliland&amp;id=7266317&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q34754" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -842,7 +881,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 6 November 2020, at 11:28.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 13 January 2021, at 23:27.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -860,8 +899,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.752","walltime":"0.955","ppvisitednodes":{"value":3910,"limit":1000000},"postexpandincludesize":{"value":80002,"limit":2097152},"templateargumentsize":{"value":12898,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15788,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  883.483      1 -total"," 60.60%  535.384      1 Template:Infobox_country"," 59.73%  527.673      3 Template:Infobox"," 23.85%  210.689      4 Template:Smaller"," 23.52%  207.806      4 Template:Resize"," 21.88%  193.295      2 Template:Native_name"," 19.64%  173.473      4 Template:Lang"," 13.21%  116.702      1 Template:Reflist"," 10.61%   93.776      1 Template:ISO_3166_code"," 10.22%   90.334      1 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.468","limit":"10.000"},"limitreport-memusage":{"value":25359421,"limit":52428800}},"cachereport":{"origin":"mw1305","timestamp":"20201223083125","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Somaliland","url":"https:\/\/simple.wikipedia.org\/wiki\/Somaliland","sameAs":"http:\/\/www.wikidata.org\/entity\/Q34754","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q34754","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-22T02:25:19Z","dateModified":"2020-11-06T11:28:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4d\/Flag_of_Somaliland.svg","headline":"Autonomous region located in east Africa"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":197,"wgHostname":"mw1349"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.864","walltime":"1.073","ppvisitednodes":{"value":4254,"limit":1000000},"postexpandincludesize":{"value":99949,"limit":2097152},"templateargumentsize":{"value":16439,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33434,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  961.581      1 -total"," 60.13%  578.163      1 Template:Infobox_country"," 59.30%  570.177      3 Template:Infobox"," 20.07%  192.966      4 Template:Smaller"," 19.76%  189.963      4 Template:Resize"," 18.38%  176.778      2 Template:Native_name"," 17.94%  172.539      5 Template:Lang"," 16.50%  158.628      1 Template:Reflist"," 12.38%  119.006      1 Template:ISO_3166_code"," 10.30%   99.029      7 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.507","limit":"10.000"},"limitreport-memusage":{"value":28674372,"limit":52428800}},"cachereport":{"origin":"mw1311","timestamp":"20210114004022","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Somaliland","url":"https:\/\/simple.wikipedia.org\/wiki\/Somaliland","sameAs":"http:\/\/www.wikidata.org\/entity\/Q34754","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q34754","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-22T02:25:19Z","dateModified":"2021-01-13T23:27:20Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4d\/Flag_of_Somaliland.svg","headline":"Self-declared country in Horn of Africa, internationally considered to be part of Somalia."}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":187,"wgHostname":"mw1365"});});</script> 
  </body>
 </html>

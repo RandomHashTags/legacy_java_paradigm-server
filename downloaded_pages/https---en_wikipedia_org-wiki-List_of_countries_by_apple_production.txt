@@ -1,0 +1,1549 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>List of countries by apple production - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X-ITvgpAAMEAAZh9uHcAAADR","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_countries_by_apple_production","wgTitle":"List of countries by apple production","wgCurRevisionId":995990850,"wgRevisionId":995990850,"wgArticleId":18226484,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Apple production","Agriculture by country","Lists of countries by production"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"List_of_countries_by_apple_production","wgRelevantArticleId":18226484,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q4437055"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Appleoutput.png/1200px-Appleoutput.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/List_of_countries_by_apple_production"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_countries_by_apple_production"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_countries_by_apple_production rootpage-List_of_countries_by_apple_production skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">List of countries by apple production</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:502px;">
+        <a href="/wiki/File:Countries_by_apple_production_in_2016.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Countries_by_apple_production_in_2016.png/500px-Countries_by_apple_production_in_2016.png" decoding="async" width="500" height="236" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Countries_by_apple_production_in_2016.png/750px-Countries_by_apple_production_in_2016.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Countries_by_apple_production_in_2016.png/1000px-Countries_by_apple_production_in_2016.png 2x" data-file-width="6114" data-file-height="2885"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Countries_by_apple_production_in_2016.png" class="internal" title="Enlarge"></a>
+         </div>Countries by apple production in 2016
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:452px;">
+        <a href="/wiki/File:2005apple.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2005apple.svg/450px-2005apple.svg.png" decoding="async" width="450" height="213" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2005apple.svg/675px-2005apple.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2005apple.svg/900px-2005apple.svg.png 2x" data-file-width="1166" data-file-height="552"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:2005apple.svg" class="internal" title="Enlarge"></a>
+         </div>A map of apple output in 2005.
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:452px;">
+        <a href="/wiki/File:Appleoutput.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Appleoutput.png/450px-Appleoutput.png" decoding="async" width="450" height="270" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Appleoutput.png/675px-Appleoutput.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Appleoutput.png/900px-Appleoutput.png 2x" data-file-width="1600" data-file-height="960"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Appleoutput.png" class="internal" title="Enlarge"></a>
+         </div>A map of world apple producing regions in 2000.
+        </div>
+       </div>
+      </div> 
+      <p>This is a <b>list of countries by <a href="/wiki/Apple" title="Apple">apple</a> production</b> in 2016 and 2017, based on data from the <a href="/wiki/Food_and_Agriculture_Organization_Corporate_Statistical_Database" title="Food and Agriculture Organization Corporate Statistical Database">Food and Agriculture Organization Corporate Statistical Database</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The estimated total world production of </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#List_of_countries_by_production_quantity"><span class="tocnumber">1</span> <span class="toctext">List of countries by production quantity</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#>1,000,000_tonnes"><span class="tocnumber">1.1</span> <span class="toctext">&gt;1,000,000 tonnes</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#100,000–1,000,000_tonnes"><span class="tocnumber">1.2</span> <span class="toctext">100,000–1,000,000 tonnes</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#50,000–100,000_tonnes"><span class="tocnumber">1.3</span> <span class="toctext">50,000–100,000 tonnes</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#10,000–50,000_tonnes"><span class="tocnumber">1.4</span> <span class="toctext">10,000–50,000 tonnes</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#1,000–10,000_tonnes"><span class="tocnumber">1.5</span> <span class="toctext">1,000–10,000 tonnes</span></a></li> 
+          <li class="toclevel-2 tocsection-7"><a href="#<1,000_tonnes"><span class="tocnumber">1.6</span> <span class="toctext">&lt;1,000 tonnes</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-8"><a href="#List_of_countries_by_area_harvested_for_apples"><span class="tocnumber">2</span> <span class="toctext">List of countries by area harvested for apples</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li> 
+        <li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="List_of_countries_by_production_quantity">List of countries by production quantity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=1" title="Edit section: List of countries by production quantity">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span id=".3E1.2C000.2C000_tonnes"></span><span class="mw-headline" id=">1,000,000_tonnes">&gt;1,000,000 tonnes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=2" title="Edit section: >1,000,000 tonnes">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr bgcolor="#ececec"> 
+         <th data-sort-type="number">Rank</th> 
+         <th>Country/Region</th> 
+         <th data-sort-type="number">2017</th> 
+         <th data-sort-type="number">2016 </th>
+        </tr> 
+        <tr> 
+         <td>–</td> 
+         <td><i><span class="flagicon" style="padding-left:25px;">&nbsp;</span>World</i></td> 
+         <td align="left">83,139,326</td> 
+         <td align="left">85,204,410 </td>
+        </tr> 
+        <tr> 
+         <td>1</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/China" title="China">China</a></td> 
+         <td align="left">41,390,000</td> 
+         <td align="left">40,393,000 </td>
+        </tr> 
+        <tr> 
+         <td>2</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span><a href="/wiki/United_States" title="United States">United States</a></td> 
+         <td align="left">5,173,670</td> 
+         <td align="left">5,160,750 </td>
+        </tr> 
+        <tr> 
+         <td>3</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td> 
+         <td align="left">3,032,164</td> 
+         <td align="left">2,925,828 </td>
+        </tr> 
+        <tr> 
+         <td>4</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800">&nbsp;</span><a href="/wiki/Poland" title="Poland">Poland</a></td> 
+         <td align="left">2,441,393</td> 
+         <td align="left">3,604,271 </td>
+        </tr> 
+        <tr> 
+         <td>5</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;</span><a href="/wiki/India" title="India">India</a></td> 
+         <td align="left">2,265,000</td> 
+         <td align="left">2,521,000 </td>
+        </tr> 
+        <tr> 
+         <td>6</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360">&nbsp;</span><a href="/wiki/Iran" title="Iran">Iran</a></td> 
+         <td align="left">2,096,749</td> 
+         <td align="left">2,470,028 </td>
+        </tr> 
+        <tr> 
+         <td>7</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span><a href="/wiki/Italy" title="Italy">Italy</a></td> 
+         <td align="left">1,921,272</td> 
+         <td align="left">2,455,616 </td>
+        </tr> 
+        <tr> 
+         <td>8</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span><a href="/wiki/Chile" title="Chile">Chile</a></td> 
+         <td align="left">1,766,210</td> 
+         <td align="left">1,743,172 </td>
+        </tr> 
+        <tr> 
+         <td>9</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/France" title="France">France</a></td> 
+         <td align="left">1,710,755</td> 
+         <td align="left">1,819,762 </td>
+        </tr> 
+        <tr> 
+         <td>10</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Russia" title="Russia">Russia</a></td> 
+         <td align="left">1,639,421</td> 
+         <td align="left">1,843,544 </td>
+        </tr> 
+        <tr> 
+         <td>11</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td> 
+         <td align="left">1,300,943</td> 
+         <td align="left">1,049,251 </td>
+        </tr> 
+        <tr> 
+         <td>12</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></td> 
+         <td align="left">1,076,180</td> 
+         <td align="left">1,099,240 </td>
+        </tr> 
+        <tr> 
+         <td>13</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/35px-Flag_of_Uzbekistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/46px-Flag_of_Uzbekistan.svg.png 2x" data-file-width="1000" data-file-height="500">&nbsp;</span><a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a></td> 
+         <td align="left">1,028,796</td> 
+         <td align="left">1,033,598 </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h3><span id="100.2C000.E2.80.931.2C000.2C000_tonnes"></span><span class="mw-headline" id="100,000–1,000,000_tonnes">100,000–1,000,000 tonnes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=3" title="Edit section: 100,000–1,000,000 tonnes">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr bgcolor="#ececec"> 
+         <th data-sort-type="number">Rank</th> 
+         <th>Country/Region</th> 
+         <th data-sort-type="number">2017</th> 
+         <th data-sort-type="number">2016 </th>
+        </tr> 
+        <tr> 
+         <td>14</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500">&nbsp;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a></td> 
+         <td align="left">994,710</td> 
+         <td align="left">967,847 </td>
+        </tr> 
+        <tr> 
+         <td>15</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td> 
+         <td align="left">924,375</td> 
+         <td align="left">913,471 </td>
+        </tr> 
+        <tr> 
+         <td>16</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Morocco" title="Morocco">Morocco</a></td> 
+         <td align="left">820,547</td> 
+         <td align="left">406,379 </td>
+        </tr> 
+        <tr> 
+         <td>17</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Egypt" title="Egypt">Egypt</a></td> 
+         <td align="left">798,574</td> 
+         <td align="left">754,846 </td>
+        </tr> 
+        <tr> 
+         <td>18</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/35px-Flag_of_North_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/46px-Flag_of_North_Korea.svg.png 2x" data-file-width="1600" data-file-height="800">&nbsp;</span><a href="/wiki/North_Korea" title="North Korea">North Korea</a></td> 
+         <td align="left">782,143</td> 
+         <td align="left">778,622 </td>
+        </tr> 
+        <tr> 
+         <td>19</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Japan" title="Japan">Japan</a></td> 
+         <td align="left">735,200</td> 
+         <td align="left">765,000 </td>
+        </tr> 
+        <tr> 
+         <td>20</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560">&nbsp;</span><a href="/wiki/Mexico" title="Mexico">Mexico</a></td> 
+         <td align="left">714,149</td> 
+         <td align="left">716,931 </td>
+        </tr> 
+        <tr> 
+         <td>21</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Germany" title="Germany">Germany</a></td> 
+         <td align="left">596,666</td> 
+         <td align="left">1,032,913 </td>
+        </tr> 
+        <tr> 
+         <td>22</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500">&nbsp;</span><a href="/wiki/Spain" title="Spain">Spain</a></td> 
+         <td align="left">587,034</td> 
+         <td align="left">621,164 </td>
+        </tr> 
+        <tr> 
+         <td>23</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/South_Korea" title="South Korea">South Korea</a></td> 
+         <td align="left">542,040</td> 
+         <td align="left">576,369 </td>
+        </tr> 
+        <tr> 
+         <td>24</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/35px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/45px-Flag_of_Algeria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Algeria" title="Algeria">Algeria</a></td> 
+         <td align="left">494,239</td> 
+         <td align="left">500,855 </td>
+        </tr> 
+        <tr> 
+         <td>25</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/35px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/45px-Flag_of_Pakistan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></td> 
+         <td align="left">488,102</td> 
+         <td align="left">589,171 </td>
+        </tr> 
+        <tr> 
+         <td>26</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Hungary" title="Hungary">Hungary</a></td> 
+         <td align="left">459,612</td> 
+         <td align="left">497,108 </td>
+        </tr> 
+        <tr> 
+         <td>27</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></td> 
+         <td align="left">454,091</td> 
+         <td align="left">450,842 </td>
+        </tr> 
+        <tr> 
+         <td>28</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td> 
+         <td align="left">446,400</td> 
+         <td align="left">481,100 </td>
+        </tr> 
+        <tr> 
+         <td>29</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/35px-Flag_of_Serbia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/45px-Flag_of_Serbia.svg.png 2x" data-file-width="945" data-file-height="630">&nbsp;</span><a href="/wiki/Serbia" title="Serbia">Serbia</a></td> 
+         <td align="left">378,644</td> 
+         <td align="left">400,473 </td>
+        </tr> 
+        <tr> 
+         <td>30</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/35px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/45px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Syria" title="Syria">Syria</a></td> 
+         <td align="left">353,534</td> 
+         <td align="left">352,905 </td>
+        </tr> 
+        <tr> 
+         <td>31</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Canada" title="Canada">Canada</a></td> 
+         <td align="left">345,568</td> 
+         <td align="left">408,404 </td>
+        </tr> 
+        <tr> 
+         <td>32</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Romania" title="Romania">Romania</a></td> 
+         <td align="left">339,570</td> 
+         <td align="left">467,259 </td>
+        </tr> 
+        <tr> 
+         <td>33</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Portugal" title="Portugal">Portugal</a></td> 
+         <td align="left">329,371</td> 
+         <td align="left">241,611 </td>
+        </tr> 
+        <tr> 
+         <td>34</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450">&nbsp;</span><a href="/wiki/Belarus" title="Belarus">Belarus</a></td> 
+         <td align="left">317,078</td> 
+         <td align="left">508,816 </td>
+        </tr> 
+        <tr> 
+         <td>35</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640">&nbsp;</span><a href="/wiki/Australia" title="Australia">Australia</a></td> 
+         <td align="left">313,730</td> 
+         <td align="left">308,298 </td>
+        </tr> 
+        <tr> 
+         <td>36</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/35px-Flag_of_Moldova.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/46px-Flag_of_Moldova.svg.png 2x" data-file-width="1800" data-file-height="900">&nbsp;</span><a href="/wiki/Moldova" title="Moldova">Moldova</a></td> 
+         <td align="left">303,155</td> 
+         <td align="left">411,768 </td>
+        </tr> 
+        <tr> 
+         <td>37</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Greece" title="Greece">Greece</a></td> 
+         <td align="left">282,300</td> 
+         <td align="left">291,750 </td>
+        </tr> 
+        <tr> 
+         <td>38</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/35px-Flag_of_Azerbaijan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/46px-Flag_of_Azerbaijan.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Azerbaijan" title="Azerbaijan">Azerbaijan</a></td> 
+         <td align="left">275,093</td> 
+         <td align="left">254,296 </td>
+        </tr> 
+        <tr> 
+         <td>39</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/23px-Flag_of_Tajikistan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/35px-Flag_of_Tajikistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/46px-Flag_of_Tajikistan.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Tajikistan" title="Tajikistan">Tajikistan</a></td> 
+         <td align="left">230,443</td> 
+         <td align="left">220,949 </td>
+        </tr> 
+        <tr> 
+         <td>40</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td> 
+         <td align="left">227,000</td> 
+         <td align="left">317,000 </td>
+        </tr> 
+        <tr> 
+         <td>41</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512">&nbsp;&nbsp;</span><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></td> 
+         <td align="left">225,622</td> 
+         <td align="left">227,300 </td>
+        </tr> 
+        <tr> 
+         <td>42</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Austria" title="Austria">Austria</a></td> 
+         <td align="left">185,244</td> 
+         <td align="left">101,667 </td>
+        </tr> 
+        <tr> 
+         <td>43</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/35px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/46px-Flag_of_Kazakhstan.svg.png 2x" data-file-width="1000" data-file-height="500">&nbsp;</span><a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a></td> 
+         <td align="left">181,057</td> 
+         <td align="left">188,099 </td>
+        </tr> 
+        <tr> 
+         <td>44</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/23px-Flag_of_Afghanistan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/35px-Flag_of_Afghanistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/45px-Flag_of_Afghanistan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a></td> 
+         <td align="left">175,000</td> 
+         <td align="left">140,903 </td>
+        </tr> 
+        <tr> 
+         <td>45</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/35px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/45px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Peru" title="Peru">Peru</a></td> 
+         <td align="left">149,787</td> 
+         <td align="left">158,098 </td>
+        </tr> 
+        <tr> 
+         <td>46</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/23px-Flag_of_Kyrgyzstan.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/35px-Flag_of_Kyrgyzstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/46px-Flag_of_Kyrgyzstan.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Kyrgyzstan" title="Kyrgyzstan">Kyrgyzstan</a></td> 
+         <td align="left">147,593</td> 
+         <td align="left">135,374 </td>
+        </tr> 
+        <tr> 
+         <td>47</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/35px-Flag_of_Lebanon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/45px-Flag_of_Lebanon.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Lebanon" title="Lebanon">Lebanon</a></td> 
+         <td align="left">123,770</td> 
+         <td align="left">124,449 </td>
+        </tr> 
+        <tr> 
+         <td>48</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/35px-Flag_of_Tunisia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/45px-Flag_of_Tunisia.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Tunisia" title="Tunisia">Tunisia</a></td> 
+         <td align="left">122,834</td> 
+         <td align="left">126,000 </td>
+        </tr> 
+        <tr> 
+         <td>49</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/35px-Flag_of_Armenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/46px-Flag_of_Armenia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Armenia" title="Armenia">Armenia</a></td> 
+         <td align="left">116,051</td> 
+         <td align="left">62,574 </td>
+        </tr> 
+        <tr> 
+         <td>50</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span><a href="/wiki/Israel" title="Israel">Israel</a></td> 
+         <td align="left">113,000</td> 
+         <td align="left">100,000 </td>
+        </tr> 
+        <tr> 
+         <td>51</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></td> 
+         <td align="left">105,280</td> 
+         <td align="left">124,997 </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h3><span id="50.2C000.E2.80.93100.2C000_tonnes"></span><span class="mw-headline" id="50,000–100,000_tonnes">50,000–100,000 tonnes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=4" title="Edit section: 50,000–100,000 tonnes">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr bgcolor="#ececec"> 
+         <th data-sort-type="number">Rank</th> 
+         <th>Country/Region</th> 
+         <th data-sort-type="number">2017</th> 
+         <th data-sort-type="number">2016 </th>
+        </tr> 
+        <tr> 
+         <td>52</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/32px-Flag_of_Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/42px-Flag_of_Albania.svg.png 2x" data-file-width="980" data-file-height="700">&nbsp;</span><a href="/wiki/Albania" title="Albania">Albania</a></td> 
+         <td align="left">96,338</td> 
+         <td align="left">101,532 </td>
+        </tr> 
+        <tr> 
+         <td>53</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/23px-Flag_of_Turkmenistan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/35px-Flag_of_Turkmenistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/45px-Flag_of_Turkmenistan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Turkmenistan" title="Turkmenistan">Turkmenistan</a></td> 
+         <td align="left">95,879</td> 
+         <td align="left">91,935 </td>
+        </tr> 
+        <tr> 
+         <td>54</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/35px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/46px-Flag_of_Lithuania.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Lithuania" title="Lithuania">Lithuania</a></td> 
+         <td align="left">87,367</td> 
+         <td align="left">65,579 </td>
+        </tr> 
+        <tr> 
+         <td>55</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Belgium" title="Belgium">Belgium</a></td> 
+         <td align="left">86,236</td> 
+         <td align="left">238,244 </td>
+        </tr> 
+        <tr> 
+         <td>56</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/35px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/46px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Slovenia" title="Slovenia">Slovenia</a></td> 
+         <td align="left">80,000</td> 
+         <td align="left">59,573 </td>
+        </tr> 
+        <tr> 
+         <td>57</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Croatia" title="Croatia">Croatia</a></td> 
+         <td align="left">56,570</td> 
+         <td align="left">44,781 </td>
+        </tr> 
+        <tr> 
+         <td>58</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/35px-Flag_of_El_Salvador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/46px-Flag_of_El_Salvador.svg.png 2x" data-file-width="1005" data-file-height="567">&nbsp;</span><a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a></td> 
+         <td align="left">56,230</td> 
+         <td align="left">51,751 </td>
+        </tr> 
+        <tr> 
+         <td>59</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/23px-Flag_of_Jordan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/35px-Flag_of_Jordan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/46px-Flag_of_Jordan.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Jordan" title="Jordan">Jordan</a></td> 
+         <td align="left">52,696</td> 
+         <td align="left">55,197 </td>
+        </tr> 
+        <tr> 
+         <td>60</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/35px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/46px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x" data-file-width="800" data-file-height="400">&nbsp;</span><a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a></td> 
+         <td align="left">52,252</td> 
+         <td align="left">69,062 </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h3><span id="10.2C000.E2.80.9350.2C000_tonnes"></span><span class="mw-headline" id="10,000–50,000_tonnes">10,000–50,000 tonnes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=5" title="Edit section: 10,000–50,000 tonnes">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr bgcolor="#ececec"> 
+         <th data-sort-type="number">Rank</th> 
+         <th>Country/Region</th> 
+         <th data-sort-type="number">2017</th> 
+         <th data-sort-type="number">2016 </th>
+        </tr> 
+        <tr> 
+         <td>61</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/35px-Flag_of_Iraq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/45px-Flag_of_Iraq.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Iraq" title="Iraq">Iraq</a></td> 
+         <td align="left">47,626</td> 
+         <td align="left">44,495 </td>
+        </tr> 
+        <tr> 
+         <td>62</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" data-file-width="945" data-file-height="630">&nbsp;</span><a href="/wiki/Uruguay" title="Uruguay">Uruguay</a></td> 
+         <td align="left">45,128</td> 
+         <td align="left">37,675 </td>
+        </tr> 
+        <tr> 
+         <td>63</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td> 
+         <td align="left">44,927</td> 
+         <td align="left">44,755 </td>
+        </tr> 
+        <tr> 
+         <td>64</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/23px-Flag_of_North_Macedonia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/35px-Flag_of_North_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/46px-Flag_of_North_Macedonia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/North_Macedonia" title="North Macedonia">Macedonia</a></td> 
+         <td align="left">43,366</td> 
+         <td align="left">101,088 </td>
+        </tr> 
+        <tr> 
+         <td>65</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/35px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/45px-Flag_of_Slovakia.svg.png 2x" data-file-width="512" data-file-height="341">&nbsp;</span><a href="/wiki/Slovakia" title="Slovakia">Slovakia</a></td> 
+         <td align="left">32,478</td> 
+         <td align="left">20,722 </td>
+        </tr> 
+        <tr> 
+         <td>66</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/35px-Flag_of_Guatemala.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/46px-Flag_of_Guatemala.svg.png 2x" data-file-width="960" data-file-height="600">&nbsp;</span><a href="/wiki/Guatemala" title="Guatemala">Guatemala</a></td> 
+         <td align="left">25,109</td> 
+         <td align="left">26,499 </td>
+        </tr> 
+        <tr> 
+         <td>67</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000">&nbsp;</span><a href="/wiki/Sweden" title="Sweden">Sweden</a></td> 
+         <td align="left">22,130</td> 
+         <td align="left">26,280 </td>
+        </tr> 
+        <tr> 
+         <td>68</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a></td> 
+         <td align="left">21,400</td> 
+         <td align="left">21,800 </td>
+        </tr> 
+        <tr> 
+         <td>69</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387">&nbsp;</span><a href="/wiki/Denmark" title="Denmark">Denmark</a></td> 
+         <td align="left">20,496</td> 
+         <td align="left">36,470 </td>
+        </tr> 
+        <tr> 
+         <td>70</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png" decoding="async" width="16" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/25px-Flag_of_Nepal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/33px-Flag_of_Nepal.svg.png 2x" data-file-width="726" data-file-height="885">&nbsp;&nbsp;&nbsp;</span><a href="/wiki/Nepal" title="Nepal">Nepal</a></td> 
+         <td align="left">19,850</td> 
+         <td align="left">41,011 </td>
+        </tr> 
+        <tr> 
+         <td>71</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/35px-Flag_of_Georgia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/45px-Flag_of_Georgia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a></td> 
+         <td align="left">19,700</td> 
+         <td align="left">65,200 </td>
+        </tr> 
+        <tr> 
+         <td>72</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/23px-Flag_of_Yemen.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/35px-Flag_of_Yemen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/45px-Flag_of_Yemen.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Yemen" title="Yemen">Yemen</a></td> 
+         <td align="left">17,550</td> 
+         <td align="left">17,362 </td>
+        </tr> 
+        <tr> 
+         <td>73</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/23px-Flag_of_Libya.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/35px-Flag_of_Libya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/46px-Flag_of_Libya.svg.png 2x" data-file-width="960" data-file-height="480">&nbsp;</span><a href="/wiki/Libya" title="Libya">Libya</a></td> 
+         <td align="left">15,106</td> 
+         <td align="left">15,801 </td>
+        </tr> 
+        <tr> 
+         <td>74</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span><a href="/wiki/Norway" title="Norway">Norway</a></td> 
+         <td align="left">12,664</td> 
+         <td align="left">12,356 </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h3><span id="1.2C000.E2.80.9310.2C000_tonnes"></span><span class="mw-headline" id="1,000–10,000_tonnes">1,000–10,000 tonnes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=6" title="Edit section: 1,000–10,000 tonnes">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr bgcolor="#ececec"> 
+         <th data-sort-type="number">Rank</th> 
+         <th>Country/Region</th> 
+         <th data-sort-type="number">2017</th> 
+         <th data-sort-type="number">2016 </th>
+        </tr> 
+        <tr> 
+         <td>75</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/23px-Flag_of_Bhutan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/35px-Flag_of_Bhutan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/45px-Flag_of_Bhutan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Bhutan" title="Bhutan">Bhutan</a></td> 
+         <td align="left">8,039</td> 
+         <td align="left">6,587 </td>
+        </tr> 
+        <tr> 
+         <td>76</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/35px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/46px-Flag_of_Latvia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Latvia" title="Latvia">Latvia</a></td> 
+         <td align="left">7,464</td> 
+         <td align="left">9,854 </td>
+        </tr> 
+        <tr> 
+         <td>77</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/35px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/45px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960">&nbsp;</span><a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td> 
+         <td align="left">7,283</td> 
+         <td align="left">7,432 </td>
+        </tr> 
+        <tr> 
+         <td>78</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/35px-Flag_of_Madagascar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/45px-Flag_of_Madagascar.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Madagascar" title="Madagascar">Madagascar</a></td> 
+         <td align="left">7,126</td> 
+         <td align="left">7,104 </td>
+        </tr> 
+        <tr> 
+         <td>79</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/23px-Flag_of_Zimbabwe.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/35px-Flag_of_Zimbabwe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/46px-Flag_of_Zimbabwe.svg.png 2x" data-file-width="1260" data-file-height="630">&nbsp;</span><a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a></td> 
+         <td align="left">6,779</td> 
+         <td align="left">6,760 </td>
+        </tr> 
+        <tr> 
+         <td>80</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100">&nbsp;</span><a href="/wiki/Finland" title="Finland">Finland</a></td> 
+         <td align="left">6,758</td> 
+         <td align="left">6,401 </td>
+        </tr> 
+        <tr> 
+         <td>81</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/35px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/45px-Flag_of_Cyprus.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></td> 
+         <td align="left">4,067</td> 
+         <td align="left">4,200 </td>
+        </tr> 
+        <tr> 
+         <td>82</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/35px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/46px-Flag_of_Estonia.svg.png 2x" data-file-width="990" data-file-height="630">&nbsp;</span><a href="/wiki/Estonia" title="Estonia">Estonia</a></td> 
+         <td align="left">3,648</td> 
+         <td align="left">5,497 </td>
+        </tr> 
+        <tr> 
+         <td>83</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/35px-Flag_of_Malawi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/45px-Flag_of_Malawi.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Malawi" title="Malawi">Malawi</a></td> 
+         <td align="left">3,447</td> 
+         <td align="left">3,313 </td>
+        </tr> 
+        <tr> 
+         <td>84</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/22px-Flag_of_Bolivia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/34px-Flag_of_Bolivia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/44px-Flag_of_Bolivia.svg.png 2x" data-file-width="1100" data-file-height="750">&nbsp;</span><a href="/wiki/Bolivia" title="Bolivia">Bolivia</a></td> 
+         <td align="left">2,580</td> 
+         <td align="left">2,578 </td>
+        </tr> 
+        <tr> 
+         <td>85</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Colombia" title="Colombia">Colombia</a></td> 
+         <td align="left">1,970</td> 
+         <td align="left">2,259 </td>
+        </tr> 
+        <tr> 
+         <td>86</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/35px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/45px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Taiwan" title="Taiwan">Taiwan</a></td> 
+         <td align="left">1,500</td> 
+         <td align="left">1,483 </td>
+        </tr> 
+        <tr> 
+         <td>87</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/35px-Flag_of_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/46px-Flag_of_Montenegro.svg.png 2x" data-file-width="640" data-file-height="320">&nbsp;</span><a href="/wiki/Montenegro" title="Montenegro">Montenegro</a></td> 
+         <td align="left">1,350</td> 
+         <td align="left">1,640 </td>
+        </tr> 
+        <tr> 
+         <td>88</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/35px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/45px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></td> 
+         <td align="left">1,087</td> 
+         <td align="left">1,046 </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h3><span id=".3C1.2C000_tonnes"></span><span class="mw-headline" id="<1,000_tonnes">&lt;1,000 tonnes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=7" title="Edit section: <1,000 tonnes">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr bgcolor="#ececec"> 
+         <th data-sort-type="number">Rank</th> 
+         <th>Country/Region</th> 
+         <th data-sort-type="number">2017</th> 
+         <th data-sort-type="number">2016 </th>
+        </tr> 
+        <tr> 
+         <td>89</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/35px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/46px-Flag_of_Luxembourg.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a></td> 
+         <td align="left">983</td> 
+         <td align="left">1,510 </td>
+        </tr> 
+        <tr> 
+         <td>90</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/23px-Flag_of_Palestine.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/35px-Flag_of_Palestine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/46px-Flag_of_Palestine.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/State_of_Palestine" title="State of Palestine">Palestine</a></td> 
+         <td align="left">893</td> 
+         <td align="left">892 </td>
+        </tr> 
+        <tr> 
+         <td>91</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/35px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/46px-Flag_of_Paraguay.svg.png 2x" data-file-width="1200" data-file-height="660">&nbsp;</span><a href="/wiki/Paraguay" title="Paraguay">Paraguay</a></td> 
+         <td align="left">688</td> 
+         <td align="left">688 </td>
+        </tr> 
+        <tr> 
+         <td>92</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/35px-Flag_of_Kenya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/45px-Flag_of_Kenya.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Kenya" title="Kenya">Kenya</a></td> 
+         <td align="left">674</td> 
+         <td align="left">623 </td>
+        </tr> 
+        <tr> 
+         <td>93</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/35px-Flag_of_Grenada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/46px-Flag_of_Grenada.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Grenada" title="Grenada">Grenada</a></td> 
+         <td align="left">467</td> 
+         <td align="left">447 </td>
+        </tr> 
+        <tr> 
+         <td>94</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/35px-Flag_of_Honduras.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/46px-Flag_of_Honduras.svg.png 2x" data-file-width="1260" data-file-height="630">&nbsp;</span><a href="/wiki/Honduras" title="Honduras">Honduras</a></td> 
+         <td align="left">184</td> 
+         <td align="left">183 </td>
+        </tr> 
+        <tr> 
+         <td>95</td> 
+         <td><i><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/R%C3%A9union" title="Réunion">Réunion</a></i></td> 
+         <td align="left">62</td> 
+         <td align="left">63 </td>
+        </tr> 
+        <tr> 
+         <td>96</td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/35px-Flag_of_Malta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/45px-Flag_of_Malta.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Malta" title="Malta">Malta</a></td> 
+         <td align="left">21</td> 
+         <td align="left">17 </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="List_of_countries_by_area_harvested_for_apples">List of countries by area harvested for apples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=8" title="Edit section: List of countries by area harvested for apples">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>This is a list of the top ten countries by area harvested for apples in <a href="/wiki/Hectares" class="mw-redirect" title="Hectares">hectares</a> (ha). The total area harvested in the world for apples was 4,933,841 hectares in 2017, down 6.8% from 5,293,340 hectares in 2016.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr> 
+         <th data-sort-type="number">Rank</th> 
+         <th>Country</th> 
+         <th data-sort-type="number">2017</th> 
+         <th data-sort-type="number">2016 </th>
+        </tr> 
+        <tr> 
+         <td>1 </td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/China" title="China">China</a> </td> 
+         <td>2,220,430 </td> 
+         <td>2,380,256 </td>
+        </tr> 
+        <tr> 
+         <td>2 </td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;</span><a href="/wiki/India" title="India">India</a> </td> 
+         <td>305,000 </td> 
+         <td>277,000 </td>
+        </tr> 
+        <tr> 
+         <td>3 </td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Russia" title="Russia">Russia</a> </td> 
+         <td>188,251 </td> 
+         <td>214,449 </td>
+        </tr> 
+        <tr> 
+         <td>4 </td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800">&nbsp;</span><a href="/wiki/Poland" title="Poland">Poland</a> </td> 
+         <td>176,352 </td> 
+         <td>177,203 </td>
+        </tr> 
+        <tr> 
+         <td>5 </td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a> </td> 
+         <td>175,357 </td> 
+         <td>173,394 </td>
+        </tr> 
+        <tr> 
+         <td>6 </td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span><a href="/wiki/United_States" title="United States">United States</a> </td> 
+         <td>130,710 </td> 
+         <td>131,160 </td>
+        </tr> 
+        <tr> 
+         <td>7 </td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360">&nbsp;</span><a href="/wiki/Iran" title="Iran">Iran</a> </td> 
+         <td>119,528 </td> 
+         <td>151,645 </td>
+        </tr> 
+        <tr> 
+         <td>8 </td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/35px-Flag_of_Uzbekistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/46px-Flag_of_Uzbekistan.svg.png 2x" data-file-width="1000" data-file-height="500">&nbsp;</span><a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a> </td> 
+         <td>94,517 </td> 
+         <td>95,405 </td>
+        </tr> 
+        <tr> 
+         <td>9 </td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> </td> 
+         <td>91,200 </td> 
+         <td>91,600 </td>
+        </tr> 
+        <tr> 
+         <td>10 </td> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/35px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/45px-Flag_of_Pakistan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> </td> 
+         <td>78,302 </td> 
+         <td>90,607 </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+      </div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.fao.org/faostat/en/#data/QC/">"Crops"</a>. <i>FAOSTAT</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FAOSTAT&amp;rft.atitle=Crops&amp;rft_id=http%3A%2F%2Fwww.fao.org%2Ffaostat%2Fen%2F%23data%2FQC%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+countries+by+apple+production" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style> Countries - Select All; Regions - World + (Total); Elements - Production Quantity; Items - Apples; Years - 2017 + 2016</span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.fao.org/faostat/en/#data/QC/">"Crops"</a>. <i>FAOSTAT</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FAOSTAT&amp;rft.atitle=Crops&amp;rft_id=http%3A%2F%2Fwww.fao.org%2Ffaostat%2Fen%2F%23data%2FQC%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+countries+by+apple+production" class="Z3988"></span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"> Countries - Select All; Regions - World + (Total); Elements - Area harvested; Items - Apples; Years - 2017 + 2016</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.indexmundi.com/agriculture/?commodity=apples&amp;graph=production">Fresh apples, production by country (sourced from the USDA)</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Lists_of_countries_by_agricultural_output_rankings" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Agriculture_country_lists" title="Template:Agriculture country lists"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Agriculture_country_lists" title="Template talk:Agriculture country lists"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Agriculture_country_lists&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Lists_of_countries_by_agricultural_output_rankings" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">Lists of countries</a> by <a href="/wiki/List_of_largest_producing_countries_of_agricultural_commodities" title="List of largest producing countries of agricultural commodities">agricultural output</a> <a href="/wiki/List_of_international_rankings" title="List of international rankings">rankings</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cereal" title="Cereal">Cereals</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_countries_by_barley_production" title="List of countries by barley production">Barley</a></li> 
+             <li><a href="/wiki/Buckwheat#Production" title="Buckwheat">Buckwheat</a></li> 
+             <li><a href="/wiki/Maize#Production" title="Maize">Maize</a></li> 
+             <li><a href="/wiki/Millet#Production" title="Millet">Millet</a></li> 
+             <li><a href="/wiki/Oat#Cultivation" title="Oat">Oat</a></li> 
+             <li><a href="/wiki/Rice#Production_and_commerce" title="Rice">Rice</a></li> 
+             <li><a href="/wiki/Rye#Production_and_consumption_statistics" title="Rye">Rye</a></li> 
+             <li><a href="/wiki/Commercial_sorghum#Cultivation_and_uses" title="Commercial sorghum">Sorghum</a></li> 
+             <li><a href="/wiki/Triticale#Conventional_breeding_approaches" title="Triticale">Triticale</a></li> 
+             <li><a href="/wiki/International_wheat_production_statistics" title="International wheat production statistics">Wheat</a> 
+              <ul>
+               <li><a href="/wiki/List_of_countries_by_wheat_exports" title="List of countries by wheat exports">exports</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fruit" title="Fruit">Fruit</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a class="mw-selflink selflink">Apple</a></li> 
+             <li><a href="/wiki/List_of_countries_by_apricot_production" title="List of countries by apricot production">Apricot</a></li> 
+             <li><a href="/wiki/List_of_countries_by_avocado_production" title="List of countries by avocado production">Avocado</a></li> 
+             <li><a href="/wiki/Banana#Production_and_export" title="Banana">Banana</a></li> 
+             <li><a href="/wiki/List_of_countries_by_cherry_production" title="List of countries by cherry production">Cherry</a></li> 
+             <li><a href="/wiki/Citrus_production" title="Citrus production">Citrus</a> 
+              <ul>
+               <li><a href="/wiki/Orange_(fruit)#Production" title="Orange (fruit)">Orange</a></li>
+              </ul></li> 
+             <li><a href="/wiki/List_of_countries_by_coconut_production" title="List of countries by coconut production">Coconut</a></li> 
+             <li><a href="/wiki/List_of_countries_by_cucumber_production" title="List of countries by cucumber production">Cucumber</a></li> 
+             <li><a href="/wiki/List_of_countries_by_eggplant_production" title="List of countries by eggplant production">Eggplant</a></li> 
+             <li><a href="/wiki/List_of_countries_by_grape_production" title="List of countries by grape production">Grape</a></li> 
+             <li><a href="/wiki/Lemon#Production" title="Lemon">Lemon</a></li> 
+             <li><a href="/wiki/Lime_(fruit)#Production" title="Lime (fruit)">Lime</a></li> 
+             <li><a href="/wiki/Mango#Cultivation" title="Mango">Mango</a></li> 
+             <li><a href="/wiki/List_of_countries_by_papaya_production" title="List of countries by papaya production">Papaya</a></li> 
+             <li><a href="/wiki/List_of_countries_by_pear_production" title="List of countries by pear production">Pear</a></li> 
+             <li><a href="/wiki/List_of_countries_by_plum_production" title="List of countries by plum production">Plum</a></li> 
+             <li><a href="/wiki/List_of_countries_by_pineapple_production" title="List of countries by pineapple production">Pineapple</a></li> 
+             <li><a href="/wiki/Raspberry#Production" title="Raspberry">Raspberry</a></li> 
+             <li><a href="/wiki/List_of_countries_by_tomato_production" title="List of countries by tomato production">Tomato</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vegetable" title="Vegetable">Vegetables</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_countries_by_artichoke_production" title="List of countries by artichoke production">Artichoke</a></li> 
+             <li><a href="/wiki/Carrot#Production" title="Carrot">Carrot</a></li> 
+             <li><a href="/wiki/List_of_countries_by_garlic_production" title="List of countries by garlic production">Garlic</a></li> 
+             <li><a href="/wiki/List_of_countries_by_onion_production" class="mw-redirect" title="List of countries by onion production">Onion</a></li> 
+             <li><a href="/wiki/List_of_countries_by_potato_production" title="List of countries by potato production">Potato</a></li> 
+             <li><a href="/wiki/Rapeseed#Production" title="Rapeseed">Rapeseed</a></li> 
+             <li><a href="/wiki/List_of_countries_by_soybean_production" title="List of countries by soybean production">Soybean</a></li> 
+             <li><a href="/wiki/Carrot#Production" title="Carrot">Turnip</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Theobroma_cacao#Cultivation" title="Theobroma cacao">Cacao</a></li> 
+             <li><a href="/wiki/Cassava" title="Cassava">Cassava</a></li> 
+             <li><a href="/wiki/List_of_countries_by_coffee_production" title="List of countries by coffee production">Coffee</a></li> 
+             <li><a href="/wiki/Cotton#Leading_producer_countries" title="Cotton">Cotton</a></li> 
+             <li><a href="/wiki/Fishing_industry_by_country" title="Fishing industry by country">Fish</a></li> 
+             <li><a href="/wiki/Milk#Production_worldwide" title="Milk">Milk</a></li> 
+             <li><a href="/wiki/Sugar_beet#Production_statistics" title="Sugar beet">Sugar beet</a></li> 
+             <li><a href="/wiki/Sugarcane#Production" title="Sugarcane">Sugar cane</a></li> 
+             <li><a href="/wiki/Sunflower_seed#Cultivation" title="Sunflower seed">Sunflower seed</a></li> 
+             <li><a href="/wiki/Tea#Production" title="Tea">Tea</a></li> 
+             <li><a href="/wiki/Tobacco_industry#Production_by_country_or_region" title="Tobacco industry">Tobacco</a></li> 
+             <li><a href="/wiki/List_of_wine-producing_countries" class="mw-redirect" title="List of wine-producing countries">Wine</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_countries_by_irrigated_land_area" title="List of countries by irrigated land area">Irrigation</a></li> 
+             <li><a href="/wiki/Land_use_statistics_by_country" title="Land use statistics by country">Land use</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            <div class="hlist" style="text-align:center"> 
+             <ul>
+              <li><a href="/wiki/List_of_international_rankings" title="List of international rankings">List of international rankings</a></li> 
+              <li><a href="/wiki/List_of_top_international_rankings_by_country" title="List of top international rankings by country">List of top international rankings by country</a></li> 
+              <li><a href="/wiki/Lists_by_country" title="Lists by country">Lists by country</a></li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Apples" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3" style="background:name;">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Apples" title="Template:Apples"><abbr title="View this template" style=";background:name;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Apples" title="Template talk:Apples"><abbr title="Discuss this template" style=";background:name;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Apples&amp;action=edit"><abbr title="Edit this template" style=";background:name;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Apples" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Apple" title="Apple">Apples</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div id="*_List_of_apple_cultivars_**_Japanese"> 
+            <ul>
+             <li><a href="/wiki/List_of_apple_cultivars" title="List of apple cultivars">List of apple cultivars</a> 
+              <ul>
+               <li><a href="/wiki/List_of_Japanese_apple_cultivars" title="List of Japanese apple cultivars">Japanese</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Species</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Apple" title="Apple"><i>Malus pumila</i></a></li> 
+             <li><i><a href="/wiki/Malus_niedzwetzkyana" title="Malus niedzwetzkyana">Malus niedzwetzkyana</a></i></li> 
+             <li><i><a href="/wiki/Malus_sieversii" title="Malus sieversii">Malus sieversii</a></i></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Apples.jpg" class="image" title="Apples"><img alt="Apples" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Apples.jpg/100px-Apples.jpg" decoding="async" width="100" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Apples.jpg/150px-Apples.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Apples.jpg/200px-Apples.jpg 2x" data-file-width="1800" data-file-height="2700"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Table_apple" title="Table apple">Table apples</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Adams_Pearmain" title="Adams Pearmain">Adams Pearmain</a></li> 
+             <li><a href="/wiki/Aia_Ilu" title="Aia Ilu">Aia Ilu</a></li> 
+             <li><a href="/wiki/Airlie_Red_Flesh" title="Airlie Red Flesh">Airlie Red Flesh</a></li> 
+             <li><a href="/wiki/Akane_(apple)" title="Akane (apple)">Akane</a></li> 
+             <li><a href="/wiki/%C3%85ker%C3%B6" title="Åkerö">Åkerö</a></li> 
+             <li><a href="/wiki/Alkmene_(apple)" title="Alkmene (apple)">Alkmene</a></li> 
+             <li><a href="/wiki/Allington_Pippin" title="Allington Pippin">Allington Pippin</a></li> 
+             <li><a href="/wiki/Ambrosia_(apple)" title="Ambrosia (apple)">Ambrosia</a></li> 
+             <li><a href="/wiki/Anna_(apple)" title="Anna (apple)">Anna</a></li> 
+             <li><a href="/wiki/Annurca" title="Annurca">Annurca</a></li> 
+             <li><a href="/wiki/Ariane_(apple)" title="Ariane (apple)">Ariane</a></li> 
+             <li><a href="/wiki/Arkansas_Black" title="Arkansas Black">Arkansas Black</a></li> 
+             <li><a href="/wiki/Ashmead%27s_Kernel" title="Ashmead's Kernel">Ashmead's Kernel</a></li> 
+             <li><a href="/wiki/Aurora_Golden_Gala" title="Aurora Golden Gala">Aurora Golden Gala</a></li> 
+             <li><a href="/wiki/Autumn_Bough" title="Autumn Bough">Autumn Bough</a></li> 
+             <li><a href="/wiki/Autumn_Glory" title="Autumn Glory">Autumn Glory</a></li> 
+             <li><a href="/wiki/Baldwin_(apple)" title="Baldwin (apple)">Baldwin</a></li> 
+             <li><a href="/wiki/Beacon_(apple)" title="Beacon (apple)">Beacon</a></li> 
+             <li><a href="/wiki/Beauty_of_Bath" title="Beauty of Bath">Beauty of Bath</a></li> 
+             <li><a href="/wiki/Belle_de_Boskoop" title="Belle de Boskoop">Belle de Boskoop</a></li> 
+             <li><a href="/wiki/Bellflower_apple" title="Bellflower apple">Bellflower</a></li> 
+             <li><a href="/wiki/Ben_Davis_(apple)" title="Ben Davis (apple)">Ben Davis</a></li> 
+             <li><a href="/wiki/Birgit_Bonnier" title="Birgit Bonnier">Birgit Bonnier</a></li> 
+             <li><a href="/wiki/Braeburn" title="Braeburn">Braeburn</a></li> 
+             <li><a href="/wiki/Brina" title="Brina">Brina</a></li> 
+             <li><a href="/wiki/Cameo_(apple)" title="Cameo (apple)">Cameo</a></li> 
+             <li><a href="/wiki/Champion_(apple)" title="Champion (apple)">Champion</a></li> 
+             <li><a href="/wiki/Civni_apple" title="Civni apple">Civni (Rubens)</a></li> 
+             <li><a href="/wiki/Claygate_Pearmain" title="Claygate Pearmain">Claygate Pearmain</a></li> 
+             <li><a href="/wiki/Clivia_(apple)" title="Clivia (apple)">Clivia</a></li> 
+             <li><a href="/wiki/Cornish_Aromatic" title="Cornish Aromatic">Cornish Aromatic</a></li> 
+             <li><a href="/wiki/Cornish_Gilliflower" title="Cornish Gilliflower">Cornish Gilliflower</a></li> 
+             <li><a href="/wiki/Cortland_(apple)" title="Cortland (apple)">Cortland</a></li> 
+             <li><a href="/wiki/Cosmic_Crisp" title="Cosmic Crisp">Cosmic Crisp</a></li> 
+             <li><a href="/wiki/Court_Pendu_Plat" title="Court Pendu Plat">Court Pendu Plat</a></li> 
+             <li><a href="/wiki/Cox%27s_Orange_Pippin" title="Cox's Orange Pippin">Cox's Orange Pippin</a></li> 
+             <li><a href="/wiki/Crimson_Gold_(apple)" title="Crimson Gold (apple)">Crimson Gold</a></li> 
+             <li><a href="/wiki/Cripps_Red" title="Cripps Red">Cripps Red</a></li> 
+             <li><a href="/wiki/Cripps_Pink" title="Cripps Pink">Cripps Pink (Pink Lady)</a></li> 
+             <li><a href="/wiki/Delbard_Jubil%C3%A9e" title="Delbard Jubilée">Delbard Jubilée</a></li> 
+             <li><a href="/wiki/Delbarestivale" title="Delbarestivale">Delbarestivale</a></li> 
+             <li><a href="/wiki/Delrouval" title="Delrouval">Delrouval</a></li> 
+             <li><a href="/wiki/Discovery_(apple)" title="Discovery (apple)">Discovery</a></li> 
+             <li><a href="/wiki/Dorsett_Golden" title="Dorsett Golden">Dorsett Golden</a></li> 
+             <li><a href="/wiki/Dougherty_(apple)" title="Dougherty (apple)">Dougherty</a></li> 
+             <li><a href="/wiki/Duchess_of_Oldenburg_(apple)" title="Duchess of Oldenburg (apple)">Duchess of Oldenburg</a></li> 
+             <li><a href="/wiki/Dumelow%27s_Seedling" title="Dumelow's Seedling">Dumelow's Seedling</a></li> 
+             <li><a href="/wiki/Egremont_Russet" title="Egremont Russet">Egremont Russet</a></li> 
+             <li><a href="/wiki/Ellison%27s_Orange" title="Ellison's Orange">Ellison's Orange</a></li> 
+             <li><a href="/wiki/Elstar" title="Elstar">Elstar</a></li> 
+             <li><a href="/wiki/Empire_(apple)" title="Empire (apple)">Empire</a></li> 
+             <li><a href="/wiki/Enterprise_(apple)" title="Enterprise (apple)">Enterprise</a></li> 
+             <li><a href="/wiki/Envy_(apple)" title="Envy (apple)">Envy</a></li> 
+             <li><a href="/wiki/Esopus_Spitzenburg" title="Esopus Spitzenburg">Esopus Spitzenburg</a></li> 
+             <li><a href="/wiki/Eva_(apple)" title="Eva (apple)">Eva</a></li> 
+             <li><a href="/wiki/EverCrisp" title="EverCrisp">EverCrisp</a></li> 
+             <li><a href="/wiki/Fiesta_(apple)" title="Fiesta (apple)">Fiesta</a></li> 
+             <li><a href="/wiki/Filippa_(apple)" title="Filippa (apple)">Filippa</a></li> 
+             <li><a href="/wiki/Flamenco_(apple)" title="Flamenco (apple)">Flamenco</a></li> 
+             <li><a href="/wiki/Florina_(apple)" title="Florina (apple)">Florina</a></li> 
+             <li><a href="/wiki/Fuji_(apple)" title="Fuji (apple)">Fuji</a></li> 
+             <li><a href="/wiki/Gala_(apple)" title="Gala (apple)">Gala</a></li> 
+             <li><a href="/wiki/Gascoyne%27s_Scarlet" title="Gascoyne's Scarlet">Gascoyne's Scarlet</a></li> 
+             <li><a href="/wiki/Geheimrat_Dr._Oldenburg" title="Geheimrat Dr. Oldenburg">Geheimrat Dr. Oldenburg</a></li> 
+             <li><a href="/wiki/Ginger_Gold" title="Ginger Gold">Ginger Gold</a></li> 
+             <li><a href="/wiki/Golden_Delicious" title="Golden Delicious">Golden Delicious</a></li> 
+             <li><a href="/wiki/Golden_Orange_(apple)" title="Golden Orange (apple)">Golden Orange</a></li> 
+             <li><a href="/wiki/Goldspur" title="Goldspur">Goldspur</a></li> 
+             <li><a href="/wiki/Granny_Smith" title="Granny Smith">Granny Smith</a></li> 
+             <li><a href="/wiki/Gravenstein" title="Gravenstein">Gravenstein</a></li> 
+             <li><a href="/wiki/Grimes_Golden" title="Grimes Golden">Grimes Golden</a></li> 
+             <li><a href="/wiki/Haralson_(apple)" title="Haralson (apple)">Haralson</a></li> 
+             <li><a href="/wiki/Honeycrisp" title="Honeycrisp">Honeycrisp</a></li> 
+             <li><a href="/wiki/Honeygold" title="Honeygold">Honeygold</a></li> 
+             <li><a href="/wiki/Idared" title="Idared">Idared</a></li> 
+             <li><a href="/wiki/Ingrid_Marie" title="Ingrid Marie">Ingrid Marie</a></li> 
+             <li><a href="/wiki/James_Grieve_(apple)" title="James Grieve (apple)">James Grieve</a></li> 
+             <li><a href="/wiki/Jazz_(apple)" title="Jazz (apple)">Jazz</a></li> 
+             <li><a href="/wiki/Jersey_Black" title="Jersey Black">Jersey Black</a></li> 
+             <li><a href="/wiki/Jonadel" title="Jonadel">Jonadel</a></li> 
+             <li><a href="/wiki/Jonagold" title="Jonagold">Jonagold</a></li> 
+             <li><a href="/wiki/Jonathan_(apple)" title="Jonathan (apple)">Jonathan</a></li> 
+             <li><a href="/wiki/Jubilee_apple" title="Jubilee apple">Jubilee</a></li> 
+             <li><a href="/wiki/Julieta_(apple)" title="Julieta (apple)">Julieta</a></li> 
+             <li><a href="/wiki/Jupiter_(apple)" title="Jupiter (apple)">Jupiter</a></li> 
+             <li><a href="/wiki/Kanzi_(apple)" title="Kanzi (apple)">Kanzi</a></li> 
+             <li><a href="/wiki/Karmijn_de_Sonnaville" title="Karmijn de Sonnaville">Karmijn de Sonnaville</a></li> 
+             <li><a href="/wiki/King_of_the_Pippins" title="King of the Pippins">King of the Pippins</a></li> 
+             <li><a href="/wiki/Knobby_Russet" title="Knobby Russet">Knobby Russet</a></li> 
+             <li><a href="/wiki/Lady_Alice_(apple)" title="Lady Alice (apple)">Lady Alice</a></li> 
+             <li><a href="/wiki/Laxton%27s_Superb" title="Laxton's Superb">Laxton's Superb</a></li> 
+             <li><a href="/wiki/Liberty_(apple)" title="Liberty (apple)">Liberty</a></li> 
+             <li><a href="/wiki/Liveland_Raspberry_apple" title="Liveland Raspberry apple">Liveland Raspberry</a></li> 
+             <li><a href="/wiki/Lodi_(apple)" title="Lodi (apple)">Lodi</a></li> 
+             <li><a href="/wiki/Lord_Lambourne_(apple)" title="Lord Lambourne (apple)">Lord Lambourne</a></li> 
+             <li><a href="/wiki/Lucombe%27s_Seedling" title="Lucombe's Seedling">Lucombe's Seedling</a></li> 
+             <li><a href="/wiki/Macoun_apple" title="Macoun apple">Macoun</a></li> 
+             <li><a href="/wiki/McIntosh_(apple)" title="McIntosh (apple)">McIntosh</a></li> 
+             <li><a href="/wiki/Melba_(apple)" title="Melba (apple)">Melba</a></li> 
+             <li><a href="/wiki/Melrose_(apple)" title="Melrose (apple)">Melrose</a></li> 
+             <li><a href="/wiki/Mutsu_(apple)" title="Mutsu (apple)">Mutsu</a></li> 
+             <li><a href="/wiki/Newtown_Pippin" title="Newtown Pippin">Newtown Pippin</a></li> 
+             <li><a href="/wiki/Nicola_(apple)" title="Nicola (apple)">Nicola</a></li> 
+             <li><a href="/wiki/Opal_(apple)" title="Opal (apple)">Opal</a></li> 
+             <li><a href="/wiki/Sciros" title="Sciros">Sciros (Pacific Rose)</a></li> 
+             <li><a href="/wiki/Pam%27s_Delight" title="Pam's Delight">Pam's Delight</a></li> 
+             <li><a href="/wiki/Papirovka" title="Papirovka">Papirovka</a></li> 
+             <li><a href="/wiki/Paula_Red" title="Paula Red">Paula Red</a></li> 
+             <li><a href="/wiki/Pink_Pearl_(apple)" title="Pink Pearl (apple)">Pink Pearl</a></li> 
+             <li><a href="/wiki/Pinova" title="Pinova">Pinova</a></li> 
+             <li><a href="/wiki/Prima_apple" title="Prima apple">Prima</a></li> 
+             <li><a href="/wiki/Pristine_apple" title="Pristine apple">Pristine</a></li> 
+             <li><a href="/wiki/Rajka_(apple)" title="Rajka (apple)">Rajka</a></li> 
+             <li><a href="/wiki/Ralls_Janet" title="Ralls Janet">Ralls Janet</a></li> 
+             <li><a href="/wiki/Rambo_apple" title="Rambo apple">Rambo</a></li> 
+             <li><a href="/wiki/Red_Astrachan" title="Red Astrachan">Red Astrachan</a></li> 
+             <li><a href="/wiki/Red_Delicious" title="Red Delicious">Red Delicious</a></li> 
+             <li><a href="/wiki/Red_Pineapple_(apple)" title="Red Pineapple (apple)">Red Pineapple</a></li> 
+             <li><a href="/wiki/Redlove_apples" title="Redlove apples">Redlove apples</a></li> 
+             <li><a href="/wiki/Rhode_Island_Greening" title="Rhode Island Greening">Rhode Island Greening</a></li> 
+             <li><a href="/wiki/Ribston_Pippin" title="Ribston Pippin">Ribston Pippin</a></li> 
+             <li><a href="/wiki/Rome_apple" title="Rome apple">Rome</a></li> 
+             <li><a href="/wiki/Roxbury_Russet" title="Roxbury Russet">Roxbury Russet</a></li> 
+             <li><a href="/wiki/Sandow_(apple)" title="Sandow (apple)">Sandow</a></li> 
+             <li><a href="/wiki/Sansa_apple" title="Sansa apple">Sansa</a></li> 
+             <li><a href="/wiki/Sekai_Ichi" title="Sekai Ichi">Sekai Ichi</a></li> 
+             <li><a href="/wiki/Spartan_(apple)" title="Spartan (apple)">Spartan</a></li> 
+             <li><a href="/wiki/Splendour_(apple)" title="Splendour (apple)">Splendour</a></li> 
+             <li><a href="/wiki/Star_of_Devon" title="Star of Devon">Star of Devon</a></li> 
+             <li><a href="/wiki/Stayman_(apple)" title="Stayman (apple)">Stayman</a></li> 
+             <li><a href="/wiki/Sturmer_Pippin" title="Sturmer Pippin">Sturmer Pippin</a></li> 
+             <li><a href="/wiki/Summerfree" title="Summerfree">Summerfree</a></li> 
+             <li><a href="/wiki/Cripps_Red" title="Cripps Red">Sundowner</a></li> 
+             <li><a href="/wiki/Sunset_(apple)" title="Sunset (apple)">Sunset</a></li> 
+             <li><a href="/wiki/Suntan_(apple)" title="Suntan (apple)">Suntan</a></li> 
+             <li><a href="/wiki/SweeTango" title="SweeTango">SweeTango</a></li> 
+             <li><a href="/wiki/Taliaferro_(apple)" title="Taliaferro (apple)">Taliaferro</a></li> 
+             <li><a href="/wiki/Tartu_Rose" title="Tartu Rose">Tartu Rose</a></li> 
+             <li><a href="/wiki/Tentation" title="Tentation">Tentation</a></li> 
+             <li><a href="/wiki/Tompkins_King" title="Tompkins King">Tompkins King</a></li> 
+             <li><a href="/wiki/Topaz_(apple)" title="Topaz (apple)">Topaz</a></li> 
+             <li><a href="/wiki/Wealthy_(apple)" title="Wealthy (apple)">Wealthy</a></li> 
+             <li><a href="/wiki/Winesap" title="Winesap">Winesap</a></li> 
+             <li><a href="/wiki/Winston_(apple)" title="Winston (apple)">Winston</a></li> 
+             <li><a href="/wiki/Worcester_Pearmain" title="Worcester Pearmain">Worcester Pearmain</a></li> 
+             <li><a href="/wiki/Wyken_Pippin" title="Wyken Pippin">Wyken Pippin</a></li> 
+             <li><a href="/wiki/York_Imperial" title="York Imperial">York Imperial</a></li> 
+             <li><a href="/wiki/Zestar_apple" title="Zestar apple">Zestar</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cooking_apple" title="Cooking apple">Cooking apples</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Antonovka" title="Antonovka">Antonovka</a></li> 
+             <li><a href="/wiki/Bismarck_(apple)" title="Bismarck (apple)">Bismarck</a></li> 
+             <li><a href="/wiki/Blenheim_Orange" title="Blenheim Orange">Blenheim Orange</a></li> 
+             <li><a href="/wiki/Bramley_apple" title="Bramley apple">Bramley</a></li> 
+             <li><a href="/wiki/Calville_Blanc_d%27hiver" title="Calville Blanc d'hiver">Calville Blanc d'hiver</a></li> 
+             <li><a href="/wiki/Campanino" title="Campanino">Campanino</a></li> 
+             <li><a href="/wiki/Chelmsford_Wonder" title="Chelmsford Wonder">Chelmsford Wonder</a></li> 
+             <li><a href="/wiki/Costard_(apple)" title="Costard (apple)">Costard</a></li> 
+             <li><a href="/wiki/Creston_(apple)" title="Creston (apple)">Creston</a></li> 
+             <li><a href="/wiki/Crimson_Bramley" title="Crimson Bramley">Crimson Bramley</a></li> 
+             <li><a href="/wiki/Flower_of_Kent" title="Flower of Kent">Flower of Kent</a></li> 
+             <li><a href="/wiki/Golden_Noble" title="Golden Noble">Golden Noble</a></li> 
+             <li><a href="/wiki/Granny_Smith" title="Granny Smith">Granny Smith</a></li> 
+             <li><a href="/wiki/Grenadier_(apple)" title="Grenadier (apple)">Grenadier</a></li> 
+             <li><a href="/wiki/King_Byerd" title="King Byerd">King Byerd</a></li> 
+             <li><a href="/wiki/Manks_Codlin" title="Manks Codlin">Manks Codlin</a></li> 
+             <li><a href="/wiki/Newton_Wonder" title="Newton Wonder">Newton Wonder</a></li> 
+             <li><a href="/wiki/Norfolk_Biffin" title="Norfolk Biffin">Norfolk Biffin</a></li> 
+             <li><a href="/wiki/Northern_Spy" title="Northern Spy">Northern Spy</a></li> 
+             <li><a href="/wiki/Reinette_du_Canada" title="Reinette du Canada">Reinette du Canada</a></li> 
+             <li><a href="/wiki/Upton_Pyne_apple" title="Upton Pyne apple">Upton Pyne</a></li> 
+             <li><a href="/wiki/White_Transparent" title="White Transparent">White Transparent</a></li> 
+             <li><a href="/wiki/Wolf_River_(apple)" title="Wolf River (apple)">Wolf River</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cider_apple" title="Cider apple">Cider apples</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Brown_Snout" title="Brown Snout">Brown Snout</a></li> 
+             <li><a href="/wiki/Cap_of_Liberty_(apple)" title="Cap of Liberty (apple)">Cap of Liberty</a></li> 
+             <li><a href="/wiki/Chisel_Jersey" title="Chisel Jersey">Chisel Jersey</a></li> 
+             <li><a href="/wiki/Coccagee" title="Coccagee">Coccagee</a></li> 
+             <li><a href="/wiki/Crimson_King_(apple)" title="Crimson King (apple)">Crimson King</a></li> 
+             <li><a href="/wiki/Dabinett" title="Dabinett">Dabinett</a></li> 
+             <li><a href="/wiki/Dufflin_(apple)" title="Dufflin (apple)">Dufflin</a></li> 
+             <li><a href="/wiki/Ellis_Bitter" title="Ellis Bitter">Ellis Bitter</a></li> 
+             <li><a href="/wiki/Foxwhelp" title="Foxwhelp">Foxwhelp</a></li> 
+             <li><a href="/wiki/Golden_Russet" title="Golden Russet">Golden Russet</a></li> 
+             <li><a href="/wiki/Golden_Spire" title="Golden Spire">Golden Spire</a></li> 
+             <li><a href="/wiki/Hangdown_(apple)" title="Hangdown (apple)">Hangdown</a></li> 
+             <li><a href="/wiki/Harrison_Cider_Apple" title="Harrison Cider Apple">Harrison Cider</a></li> 
+             <li><a href="/wiki/Kingston_Black" title="Kingston Black">Kingston Black</a></li> 
+             <li><a href="/wiki/Major_(cider_apple)" title="Major (cider apple)">Major</a></li> 
+             <li><a href="/wiki/Michelin_(apple)" title="Michelin (apple)">Michelin</a></li> 
+             <li><a href="/wiki/Poveshon" title="Poveshon">Poveshon</a></li> 
+             <li><a href="/wiki/Redstreak" title="Redstreak">Redstreak</a></li> 
+             <li><a href="/wiki/Slack-ma-Girdle" title="Slack-ma-Girdle">Slack-ma-Girdle</a></li> 
+             <li><a href="/wiki/Styre" title="Styre">Styre</a></li> 
+             <li><a href="/wiki/Tom_Putt_(apple)" class="mw-redirect" title="Tom Putt (apple)">Tom Putt</a></li> 
+             <li><a href="/wiki/Woodcock_(apple)" title="Woodcock (apple)">Woodcock</a></li> 
+             <li><a href="/wiki/Yarlington_Mill" title="Yarlington Mill">Yarlington Mill</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ornamental_plant" title="Ornamental plant">Ornamental apple</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Flamenco_(apple)" title="Flamenco (apple)">Flamenco</a></li> 
+             <li><a href="/wiki/Goldspur" title="Goldspur">Goldspur</a></li> 
+             <li><a href="/wiki/Wijcik_McIntosh" title="Wijcik McIntosh">Wijcik McIntosh</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_apple_dishes" title="List of apple dishes">Apple products</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Apfelwein" title="Apfelwein">Apfelwein</a></li> 
+             <li><a href="/wiki/Apple_butter" title="Apple butter">Apple butter</a></li> 
+             <li><a href="/wiki/Apple_cake" title="Apple cake">Apple cake</a></li> 
+             <li><a href="/wiki/Apple_chip" title="Apple chip">Apple chip</a></li> 
+             <li><a href="/wiki/Apple_cider" title="Apple cider">Apple cider</a></li> 
+             <li><a href="/wiki/Apple_cider_vinegar" title="Apple cider vinegar">Apple cider vinegar</a></li> 
+             <li><a href="/wiki/Apple_crisp" title="Apple crisp">Apple crisp</a></li> 
+             <li><a href="/wiki/Apple_juice" title="Apple juice">Apple juice</a></li> 
+             <li><a href="/wiki/Apple_pie" title="Apple pie">Apple pie</a></li> 
+             <li><a href="/wiki/Apple_sauce" title="Apple sauce">Apple sauce</a></li> 
+             <li><a href="/wiki/Apple_seed_oil" title="Apple seed oil">Apple seed oil</a></li> 
+             <li><a href="/wiki/Apple_strudel" title="Apple strudel">Apple strudel</a></li> 
+             <li><a href="/wiki/Applejack_(drink)" title="Applejack (drink)">Applejack</a></li> 
+             <li><a href="/wiki/Baked_apple" class="mw-redirect" title="Baked apple">Baked apple</a></li> 
+             <li><a href="/wiki/Calvados" title="Calvados">Calvados</a></li> 
+             <li><a href="/wiki/Candy_apple" title="Candy apple">Candy apple</a></li> 
+             <li><a href="/wiki/Caramel_apple" title="Caramel apple">Caramel apple</a></li> 
+             <li><a href="/wiki/Cider" title="Cider">Cider</a></li> 
+             <li><a href="/wiki/Himmel_und_Erde" title="Himmel und Erde">Himmel und Erde</a></li> 
+             <li><a href="/wiki/Ice_cider" title="Ice cider">Ice cider</a></li> 
+             <li><a href="/wiki/Jewish_apple_cake" title="Jewish apple cake">Jewish apple cake</a></li> 
+             <li><a href="/wiki/Pectin" title="Pectin">Pectin</a></li> 
+             <li><a href="/wiki/Pommeau" title="Pommeau">Pommeau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Agriculture</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Apple_picking" class="mw-redirect" title="Apple picking">Apple picking</a></li> 
+             <li><a href="/wiki/Apple_scab" title="Apple scab">Apple scab</a></li> 
+             <li><a href="/wiki/Applecrab" title="Applecrab">Applecrab</a></li> 
+             <li><a href="/wiki/Arctic_Apples" title="Arctic Apples">Arctic Apples</a></li> 
+             <li><a href="/wiki/Fruit_tree_pruning" title="Fruit tree pruning">Fruit tree pruning</a></li> 
+             <li><i><a href="/wiki/Gymnosporangium_juniperi-virginianae" title="Gymnosporangium juniperi-virginianae">Gymnosporangium juniperi-virginianae</a></i></li> 
+             <li><a href="/wiki/Johnny_Appleseed" title="Johnny Appleseed">Johnny Appleseed</a></li> 
+             <li><a href="/wiki/Malling_series" title="Malling series">Malling series</a></li> 
+             <li><i><a href="/wiki/Malus" title="Malus">Malus</a></i></li> 
+             <li><a href="/wiki/Pearmain" title="Pearmain">Pearmain</a></li> 
+             <li><a href="/wiki/Fruit_tree_pollination#Apples" title="Fruit tree pollination">Pollination</a></li> 
+             <li><a href="/wiki/Pome" title="Pome">Pome</a></li> 
+             <li><a href="/wiki/PRI_disease_resistant_apple_breeding_program" title="PRI disease resistant apple breeding program">PRI disease resistant apple breeding program</a></li> 
+             <li><a href="/wiki/Reinette" title="Reinette">Reinette</a></li> 
+             <li><a href="/wiki/Russet_apple" title="Russet apple">Russeting</a></li> 
+             <li><a href="/wiki/US_Apple_Association" title="US Apple Association">US Apple Association</a></li> 
+             <li>Lists 
+              <ul>
+               <li><a class="mw-selflink selflink">Countries by apple production</a></li> 
+               <li><a href="/wiki/List_of_apple_diseases" title="List of apple diseases">Apple diseases</a></li> 
+               <li><a href="/wiki/List_of_Lepidoptera_that_feed_on_Malus" title="List of Lepidoptera that feed on Malus">Lepidoptera that feed on <i>Malus</i></a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="3">
+           <div> 
+            <ul>
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Apples" title="Category:Apples">Apples</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Apple_cultivars" title="Category:Apple cultivars">Cultivars</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Apple_production" title="Category:Apple production">Production</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1411
+Cached time: 20210102055704
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.604 seconds
+Real time usage: 0.955 seconds
+Preprocessor visited node count: 8820/1000000
+Post‐expand include size: 89122/2097152 bytes
+Template argument size: 13293/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8134/5000000 bytes
+Lua time usage: 0.109/10.000 seconds
+Lua memory usage: 3252506/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  627.136      1 -total
+ 62.72%  393.320    106 Template:Flag
+ 14.83%   93.014      2 Template:Reflist
+ 13.56%   85.024      2 Template:Cite_web
+ 12.89%   80.842    106 Template:Flag/core
+ 10.98%   68.887      1 Template:Short_description
+  7.96%   49.939      2 Template:Navbox
+  6.23%   39.093      1 Template:Agriculture_country_lists
+  6.19%   38.818      1 Template:Pagetype
+  2.89%   18.152      1 Template:Apples
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:18226484-0!canonical and timestamp 20210102055703 and revision id 995990850. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_countries_by_apple_production&amp;oldid=995990850">https://en.wikipedia.org/w/index.php?title=List_of_countries_by_apple_production&amp;oldid=995990850</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Apple_production" title="Category:Apple production">Apple production</a></li>
+       <li><a href="/wiki/Category:Agriculture_by_country" title="Category:Agriculture by country">Agriculture by country</a></li>
+       <li><a href="/wiki/Category:Lists_of_countries_by_production" title="Category:Lists of countries by production">Lists of countries by production</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+countries+by+apple+production" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+countries+by+apple+production" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/List_of_countries_by_apple_production" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:List_of_countries_by_apple_production" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/List_of_countries_by_apple_production">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_countries_by_apple_production" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_countries_by_apple_production" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;oldid=995990850" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_countries_by_apple_production&amp;id=995990850&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4437055" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=List_of_countries_by_apple_production&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=List_of_countries_by_apple_production&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%AD%D8%B3%D8%A8_%D8%A5%D9%86%D8%AA%D8%A7%D8%AC_%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%AD" title="قائمة الدول حسب إنتاج التفاح – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7_%D8%A8%D8%B1_%D9%BE%D8%A7%DB%8C%D9%87_%D8%AA%D9%88%D9%84%DB%8C%D8%AF_%D8%B3%DB%8C%D8%A8" title="فهرست کشورها بر پایه تولید سیب – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%82%98%EB%9D%BC%EB%B3%84_%EC%82%AC%EA%B3%BC_%EC%83%9D%EC%82%B0%EB%9F%89_%EB%AA%A9%EB%A1%9D" title="나라별 사과 생산량 목록 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B5%D6%80%D5%AF%D6%80%D5%B6%D5%A5%D6%80%D5%AB_%D6%81%D5%A1%D5%B6%D5%AF_%D5%A8%D5%BD%D5%BF_%D5%AD%D5%B6%D5%B1%D5%B8%D6%80%D5%AB_%D5%A1%D6%80%D5%BF%D5%A1%D5%A4%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6" title="Երկրների ցանկ ըստ խնձորի արտադրության – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Daftar_negara_menurut_produksi_apel" title="Daftar negara menurut produksi apel – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Olma_yetishtirish_bo%CA%BByicha_davlatlar_ro%CA%BByxati" title="Olma yetishtirish boʻyicha davlatlar roʻyxati – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Lista_kraj%C3%B3w_najwi%C4%99kszych_producent%C3%B3w_jab%C5%82ek" title="Lista krajów największych producentów jabłek – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D1%80%D0%B0%D0%BD,_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D1%85_%D1%8F%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8" title="Список стран, производящих яблоки – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B3%E0%AF%8D_%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AF%88%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%B2%E0%AF%8D_%E0%AE%85%E0%AE%9F%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" title="ஆப்பிள் விளைச்சல் அடிப்படையில் நாடுகளின் பட்டியல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9C%E0%B8%A5%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%A5" title="รายชื่อประเทศเรียงตามผลผลิตแอปเปิล – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C3%9Clkelere_g%C3%B6re_elma_%C3%BCretimi_s%C4%B1ralamas%C4%B1" title="Ülkelere göre elma üretimi sıralaması – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D1%80%D0%B0%D1%97%D0%BD_%D0%B7%D0%B0_%D0%B2%D0%B8%D1%80%D0%BE%D0%B1%D0%BD%D0%B8%D1%86%D1%82%D0%B2%D0%BE%D0%BC_%D1%8F%D0%B1%D0%BB%D1%83%D0%BA" title="Список країн за виробництвом яблук – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%81%DB%81%D8%B1%D8%B3%D8%AA_%D9%85%D9%85%D8%A7%D9%84%DA%A9_%D8%A8%D9%84%D8%AD%D8%A7%D8%B8_%D9%BE%DB%8C%D8%AF%D8%A7%D9%88%D8%A7%D8%B1_%D8%B3%DB%8C%D8%A8" title="فہرست ممالک بلحاظ پیداوار سیب – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%90%84%E5%9B%BD%E8%8B%B9%E6%9E%9C%E4%BA%A7%E9%87%8F%E5%88%97%E8%A1%A8" title="各国苹果产量列表 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4437055#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 23 December 2020, at 23:20<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_countries_by_apple_production&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.604","walltime":"0.955","ppvisitednodes":{"value":8820,"limit":1000000},"postexpandincludesize":{"value":89122,"limit":2097152},"templateargumentsize":{"value":13293,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8134,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  627.136      1 -total"," 62.72%  393.320    106 Template:Flag"," 14.83%   93.014      2 Template:Reflist"," 13.56%   85.024      2 Template:Cite_web"," 12.89%   80.842    106 Template:Flag/core"," 10.98%   68.887      1 Template:Short_description","  7.96%   49.939      2 Template:Navbox","  6.23%   39.093      1 Template:Agriculture_country_lists","  6.19%   38.818      1 Template:Pagetype","  2.89%   18.152      1 Template:Apples"]},"scribunto":{"limitreport-timeusage":{"value":"0.109","limit":"10.000"},"limitreport-memusage":{"value":3252506,"limit":52428800}},"cachereport":{"origin":"mw1411","timestamp":"20210102055704","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of countries by apple production","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_countries_by_apple_production","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4437055","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4437055","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-07-01T14:27:37Z","dateModified":"2020-12-23T23:20:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2c\/Appleoutput.png","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":136,"wgHostname":"mw1389"});});</script> 
+ </body>
+</html>

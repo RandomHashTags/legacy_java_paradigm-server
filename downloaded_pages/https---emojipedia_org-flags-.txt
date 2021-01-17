@@ -97,7 +97,7 @@ googletag.enableServices();
    </div> 
   </header> 
   <div class="sponsor">
-   <p><a href="/christmas/" title="🎅 Christmas Emoji List"><span class="emoji">🎅</span> <span class="emoji">❄️</span> <span class="emoji">🎁</span> <span class="emoji">🦌</span> <span class="emoji">⛄</span> <span class="emoji">👪</span> <span class="emoji">🎄</span></a></p>
+   <p><a href="http://emojiwrap.com/"><span class="emoji">💌</span>&nbsp;Subscribe for the latest emoji news</a></p>
   </div> 
   <div class="ad-header"> 
    <div id="ldb"> 
@@ -426,28 +426,28 @@ googletag.enableServices();
     <div class="block"> 
      <h2>Most Popular</h2> 
      <ul> 
-      <li><a href="/christmas-tree/"><span class="emoji">🎄</span> Christmas Tree</a></li> 
-      <li><a href="/santa-claus/"><span class="emoji">🎅</span> Santa Claus</a></li> 
       <li><a href="/red-heart/"><span class="emoji">❤️</span> Red Heart</a></li> 
       <li><a href="/pleading-face/"><span class="emoji">🥺</span> Pleading Face</a></li> 
-      <li><a href="/smiling-face-with-hearts/"><span class="emoji">🥰</span> Smiling Face with Hearts</a></li> 
       <li><a href="/sparkles/"><span class="emoji">✨</span> Sparkles</a></li> 
       <li><a href="/face-with-tears-of-joy/"><span class="emoji">😂</span> Face with Tears of Joy</a></li> 
-      <li><a href="/wrapped-gift/"><span class="emoji">🎁</span> Wrapped Gift</a></li> 
-      <li><a href="/clown-face/"><span class="emoji">🤡</span> Clown Face</a></li> 
+      <li><a href="/smiling-face-with-smiling-eyes/"><span class="emoji">😊</span> Smiling Face with Smiling Eyes</a></li> 
+      <li><a href="/fire/"><span class="emoji">🔥</span> Fire</a></li> 
+      <li><a href="/smiling-face-with-hearts/"><span class="emoji">🥰</span> Smiling Face with Hearts</a></li> 
+      <li><a href="/smiling-face-with-tear/"><span class="emoji">🥲</span> Smiling Face with Tear</a></li> 
+      <li><a href="/smiling-face-with-heart-eyes/"><span class="emoji">😍</span> Smiling Face with Heart-Eyes</a></li> 
      </ul> 
     </div> 
     <div class="block"> 
      <h2>Latest News</h2> 
      <ul> 
+      <li><a href="https://blog.emojipedia.org/google-emoji-13-1-changelog/"><span class="emoji">😮‍💨</span> Google Emoji 13.1 Changelog</a></li> 
+      <li><a href="https://blog.emojipedia.org/emoji-trends-that-defined-2020/"><span class="emoji">😭</span> Emoji Trends That Defined 2020</a></li> 
       <li><a href="https://blog.emojipedia.org/every-christmas-emoji/"><span class="emoji">🎄</span> Every Christmas Emoji</a></li> 
       <li><a href="https://blog.emojipedia.org/meet-the-new-chair-of-the-unicode-emoji-subcommittee/"><span class="emoji">🗓</span> New Chair of the Unicode Emoji Subcommittee</a></li> 
       <li><a href="https://blog.emojipedia.org/whatsapp-2-20-206-24-emoji-changelog/"><span class="emoji">📲</span> WhatsApp 2.20.206.24 Emoji Changelog </a></li> 
       <li><a href="https://blog.emojipedia.org/who-is-mx-claus/"><span class="emoji">🧑‍🎄</span> Who is Mx Claus?</a></li> 
       <li><a href="https://blog.emojipedia.org/ios-14-2-emoji-changelog/"><span class="emoji">🥲</span> iOS 14.2 Emoji Changelog</a></li> 
       <li><a href="https://blog.emojipedia.org/mask-wearing-emoji-now-smiles/"><span class="emoji">😷</span> Mask Wearing Emoji Now Smiles</a></li> 
-      <li><a href="https://blog.emojipedia.org/first-look-new-emojis-in-ios-14-2/"><span class="emoji">✨</span> First Look: New Emojis in iOS 14.2</a></li> 
-      <li><a href="https://blog.emojipedia.org/217-new-emojis-in-final-list-for-2021/"><span class="emoji">🆕</span> 217 New Emojis In Final List For 2021 </a></li> 
      </ul> 
     </div> 
     <div class="block"> 
@@ -628,7 +628,7 @@ googletag.enableServices();
     <p>Follow Emojipedia on <a href="https://twitter.com/emojipedia" rel="me">Twitter</a>, <a href="https://www.facebook.com/Emojipedia/" rel="me">Facebook</a>, <a href="https://www.instagram.com/emojipedia/" rel="me">Instagram</a>, <a href="https://tiktok.com/@emojipediaofficial">TikTok</a>&nbsp;or <a href="http://micro.blog/emojipedia" rel="me">Micro.blog</a>.</p> 
    </div> 
   </footer> 
-  <script type="text/javascript" src="/static/js/jquery.min.8b5faaa7bef8.js" charset="utf-8"></script> 
+  <script type="text/javascript" src="/static/js/jquery.min.199ca9aef27b.js" charset="utf-8"></script> 
   <script type="text/javascript" src="/static/js/site.cc90b96205fb.js" charset="utf-8"></script> 
   <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

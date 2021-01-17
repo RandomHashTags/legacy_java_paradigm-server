@@ -1,11 +1,7 @@
 package me.randomhashtags.worldlaws.event.entertainment;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.EventController;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.event.EventDate;
-import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.event.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.event.UpcomingEventType;
 import me.randomhashtags.worldlaws.location.CountryBackendID;
@@ -13,7 +9,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.time.LocalDate;
 import java.time.Month;
 import java.util.*;
 import java.util.logging.Level;
@@ -42,7 +37,7 @@ public enum VideoGames implements EventController {
         if(json != null) {
             handler.handle(json);
         } else {
-            final int thisYear = LocalDate.now().getYear();
+            final int thisYear = WLUtilities.getTodayYear();
             final long time = System.currentTimeMillis();
             MAX_COMPLETED_HANDLERS = 0;
             preEvents = new HashMap<>();
@@ -149,7 +144,8 @@ public enum VideoGames implements EventController {
                                 final String targetURL = url + hrefs.get(0).attr("href");
                                 final Document doc = getDocument(targetURL);
                                 if(doc != null) {
-                                    sources.addSource(new EventSource("Wikipedia: " + title, targetURL));
+                                    final EventSource videoGameSource = new EventSource("Wikipedia: " + title, targetURL);
+                                    sources.addSource(videoGameSource);
                                     addExternalLinks(doc, sources);
 
                                     final Elements infobox = doc.select("table.infobox tbody tr");
@@ -159,8 +155,10 @@ public enum VideoGames implements EventController {
                                     paragraphs.removeIf(p -> p.className().equals("mw-empty-elt"));
                                     desc = paragraphs.get(0).text();
                                 }
+                            } else {
+                                desc = "Information about this video game is currently unknown.";
                             }
-                            final VideoGameEvent event = new VideoGameEvent(date, title, hasHref ? desc : "Information about this video game is currently unknown.", coverArtURL, platforms, sources);
+                            final VideoGameEvent event = new VideoGameEvent(date, title, desc, coverArtURL, platforms, sources);
                             final String identifier = getEventIdentifier(date, title);
                             events.put(identifier, event.toJSON());
                             addVideoGame(event);
@@ -193,7 +191,8 @@ public enum VideoGames implements EventController {
             for(Element test : ul.select("li")) {
                 final String text = test.text();
                 for(Element externalLink : test.select("a.external")) {
-                    sources.addSource(new EventSource(text, externalLink.attr("href")));
+                    final EventSource source = new EventSource(text, externalLink.attr("href"));
+                    sources.addSource(source);
                 }
             }
         }

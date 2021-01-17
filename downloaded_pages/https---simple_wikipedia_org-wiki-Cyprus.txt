@@ -3,16 +3,16 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Cyprus - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAAL0AAPya96AAAABH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cyprus","wgTitle":"Cyprus","wgCurRevisionId":6750298,"wgRevisionId":6750298,"wgArticleId":233998,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link from Wikidata","Cyprus","Phoenician colonies"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Cyprus","wgRelevantArticleId":233998,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":
-!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q644636"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges"
-:"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VApAAMEAA1uRlg4AAACU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cyprus","wgTitle":"Cyprus","wgCurRevisionId":6750298,"wgRevisionId":6750298,"wgArticleId":233998,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link from Wikidata","Commons link is locally defined","Cyprus","Phoenician colonies"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Cyprus","wgRelevantArticleId":233998,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q644636"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
+"ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -82,9 +82,9 @@
           <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Middle_East" title="Template:Middle East"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Middle_East" title="Template talk:Middle East"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Middle_East&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Middle_East" title="Template:Middle East"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Middle_East" title="Template talk:Middle East"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Middle_East&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Middle_East" style="font-size:114%;margin:0 4em">
@@ -123,36 +123,36 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1273
-Cached time: 20201209224934
+Parsed by mw1320
+Cached time: 20210113201201
 Cache expiry: 2592000
 Dynamic content: false
 Complications: []
-CPU time usage: 0.124 seconds
-Real time usage: 0.193 seconds
-Preprocessor visited node count: 309/1000000
-Post‐expand include size: 26865/2097152 bytes
-Template argument size: 282/2097152 bytes
-Highest expansion depth: 16/40
+CPU time usage: 0.112 seconds
+Real time usage: 0.167 seconds
+Preprocessor visited node count: 321/1000000
+Post‐expand include size: 26791/2097152 bytes
+Template argument size: 326/2097152 bytes
+Highest expansion depth: 17/40
 Expensive parser function count: 0/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 1020/5000000 bytes
-Lua time usage: 0.062/10.000 seconds
-Lua memory usage: 1348124/52428800 bytes
+Lua time usage: 0.052/10.000 seconds
+Lua memory usage: 1445821/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  158.244      1 -total
- 60.06%   95.034      1 Template:Commonscat
- 50.24%   79.504      1 Template:Commons
- 49.89%   78.953      2 Template:Navbox
- 48.68%   77.036      1 Template:Sister_project
- 46.45%   73.498      1 Template:Side_box
- 39.88%   63.113      1 Template:Middle_East
- 32.70%   51.745      2 Template:If_then_show
-  3.75%    5.932     33 Template:·w
-  1.62%    2.571      2 Template:Nowrap_begin
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:233998-0!canonical and timestamp 20201209224934 and revision id 6750298. Serialized with JSON.
+100.00%  136.731      1 -total
+ 59.23%   80.987      1 Template:Commonscat
+ 50.33%   68.813      2 Template:Navbox
+ 49.95%   68.292      1 Template:Commons
+ 48.34%   66.097      1 Template:Sister_project
+ 46.58%   63.692      1 Template:Side_box
+ 40.69%   55.637      1 Template:Middle_East
+ 27.50%   37.603      2 Template:If_then_show
+  3.83%    5.234     33 Template:·w
+  2.06%    2.815      6 Template:Smallsup
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:233998-0!canonical and timestamp 20210113201201 and revision id 6750298. Serialized with JSON.
  --> 
      </div>
      <noscript>
@@ -166,6 +166,7 @@ Transclusion expansion time report (%,ms,calls,template)
      <div id="mw-normal-catlinks" class="mw-normal-catlinks">
       <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
       <ul>
+       <li><a href="/wiki/Category:Commons_link_is_locally_defined" title="Category:Commons link is locally defined">Commons link is locally defined</a></li>
        <li><a href="/wiki/Category:Cyprus" title="Category:Cyprus">Cyprus</a></li>
        <li><a href="/wiki/Category:Phoenician_colonies" title="Category:Phoenician colonies">Phoenician colonies</a></li>
       </ul>
@@ -248,9 +249,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -375,8 +376,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.124","walltime":"0.193","ppvisitednodes":{"value":309,"limit":1000000},"postexpandincludesize":{"value":26865,"limit":2097152},"templateargumentsize":{"value":282,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1020,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  158.244      1 -total"," 60.06%   95.034      1 Template:Commonscat"," 50.24%   79.504      1 Template:Commons"," 49.89%   78.953      2 Template:Navbox"," 48.68%   77.036      1 Template:Sister_project"," 46.45%   73.498      1 Template:Side_box"," 39.88%   63.113      1 Template:Middle_East"," 32.70%   51.745      2 Template:If_then_show","  3.75%    5.932     33 Template:·w","  1.62%    2.571      2 Template:Nowrap_begin"]},"scribunto":{"limitreport-timeusage":{"value":"0.062","limit":"10.000"},"limitreport-memusage":{"value":1348124,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20201209224934","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.167","ppvisitednodes":{"value":321,"limit":1000000},"postexpandincludesize":{"value":26791,"limit":2097152},"templateargumentsize":{"value":326,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1020,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  136.731      1 -total"," 59.23%   80.987      1 Template:Commonscat"," 50.33%   68.813      2 Template:Navbox"," 49.95%   68.292      1 Template:Commons"," 48.34%   66.097      1 Template:Sister_project"," 46.58%   63.692      1 Template:Side_box"," 40.69%   55.637      1 Template:Middle_East"," 27.50%   37.603      2 Template:If_then_show","  3.83%    5.234     33 Template:·w","  2.06%    2.815      6 Template:Smallsup"]},"scribunto":{"limitreport-timeusage":{"value":"0.052","limit":"10.000"},"limitreport-memusage":{"value":1445821,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20210113201201","ttl":2592000,"transientcontent":false}}});});</script> 
   <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cyprus","url":"https:\/\/simple.wikipedia.org\/wiki\/Cyprus","sameAs":"http:\/\/www.wikidata.org\/entity\/Q644636","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q644636","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-03-21T19:41:15Z","dateModified":"2019-12-17T10:45:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/03\/NCyprus_districts_named.png","headline":"island in the Eastern Basin of the Mediterranean Sea"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1385"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134,"wgHostname":"mw1389"});});</script> 
  </body>
 </html>

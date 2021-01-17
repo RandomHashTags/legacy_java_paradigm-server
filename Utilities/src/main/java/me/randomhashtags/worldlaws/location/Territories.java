@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.location;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.PopulationEstimate;
 import me.randomhashtags.worldlaws.WLLogger;
-import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -11,6 +10,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.logging.Level;
 
+// https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country
 public enum Territories implements Jsoupable {
     AFGHANISTAN("https://en.wikipedia.org/wiki/Provinces_of_Afghanistan"),
     ALBANIA("https://en.wikipedia.org/wiki/Counties_of_Albania"),
@@ -80,9 +80,9 @@ public enum Territories implements Jsoupable {
     ZIMBABWE("https://en.wikipedia.org/wiki/Provinces_of_Zimbabwe")
     ;
 
-    private static final Territories[] TERRITORIES = Territories.values();
-    private static HashMap<String, Territory> ABBREVIATIONS = new HashMap<>();
-    private String backendID, wikipageURL, territoriesJSONArray;
+    private static final HashMap<String, Territory> ABBREVIATIONS = new HashMap<>();
+    private final String backendID, wikipageURL;
+    private String territoriesJSONArray;
     private HashSet<Territory> territories;
 
     Territories(String wikipageURL) {
@@ -154,24 +154,21 @@ public enum Territories implements Jsoupable {
     private void loadTerritories() {
         final long started = System.currentTimeMillis();
         final StringBuilder builder = new StringBuilder("[");
-        final Document doc = getDocument(wikipageURL);
-        if(doc != null) {
-            boolean isFirst = true;
-            final String tableClassName = getTableClassName();
-            final Elements territories = doc.select("table." + tableClassName);
-            for(int tableIndex : getTableIndexes()) {
-                final Element first = territories.get(tableIndex);
-                final Elements states = first.select("tbody tr");
-                removeUnnecessaryElements(states);
-                for(Element state : states) {
-                    final Elements head = state.select("th"), rows = state.select("td");
-                    final String name = getName(head, rows);
-                    final String abbreviation = getAbbreviation(head, rows);
-                    final String flagURL = getFlagURL(name);
-                    final Territory territory = createTerritory(name, abbreviation, flagURL);
-                    builder.append(isFirst ? "" : ",").append(territory.toJSON());
-                    isFirst = false;
-                }
+        boolean isFirst = true;
+        final String tableClassName = getTableClassName();
+        final Elements territories = getDocumentElements(wikipageURL, "table." + tableClassName);
+        for(int tableIndex : getTableIndexes()) {
+            final Element first = territories.get(tableIndex);
+            final Elements states = first.select("tbody tr");
+            removeUnnecessaryElements(states);
+            for(Element state : states) {
+                final Elements head = state.select("th"), rows = state.select("td");
+                final String name = getName(head, rows);
+                final String abbreviation = getAbbreviation(head, rows);
+                final String flagURL = getFlagURL(name);
+                final Territory territory = createTerritory(name, abbreviation, flagURL);
+                builder.append(isFirst ? "" : ",").append(territory.toJSON());
+                isFirst = false;
             }
         }
         builder.append("]");
@@ -389,7 +386,7 @@ public enum Territories implements Jsoupable {
     }
 
     public static Territories valueOfBackendID(String backendID) {
-        for(Territories territory : TERRITORIES) {
+        for(Territories territory : values()) {
             if(territory.getBackendID().equalsIgnoreCase(backendID)) {
                 return territory;
             }

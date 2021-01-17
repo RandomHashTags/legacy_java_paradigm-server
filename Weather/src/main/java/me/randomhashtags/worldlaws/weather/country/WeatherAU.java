@@ -27,12 +27,8 @@ public enum WeatherAU implements WeatherController {
     }
 
     @Override
-    public void getAlertEvents(CompletionHandler handler) {
-        if(alertEvents != null) {
-            handler.handle(alertEvents);
-        } else {
-            refreshAlerts(handler);
-        }
+    public String getAlertEvents() {
+        return alertEvents;
     }
 
     @Override

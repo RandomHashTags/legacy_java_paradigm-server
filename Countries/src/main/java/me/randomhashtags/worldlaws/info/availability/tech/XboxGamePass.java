@@ -1,19 +1,16 @@
 package me.randomhashtags.worldlaws.info.availability.tech;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityCategory;
+import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.service.CountryService;
 
 import java.util.HashMap;
-import java.util.logging.Level;
 
-public enum XboxGamePass implements CountryService {
+public enum XboxGamePass implements CountryAvailabilityService {
     INSTANCE;
 
-    private HashMap<String, String> availabilities;
+    private HashMap<String, String> countries;
 
     @Override
     public CountryInfo getInfo() {
@@ -21,32 +18,21 @@ public enum XboxGamePass implements CountryService {
     }
 
     @Override
-    public void getValue(String countryBackendID, CompletionHandler handler) {
-        if(availabilities != null) {
-            handler.handle(getValue(countryBackendID));
-        } else {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    handler.handle(getValue(countryBackendID));
-                }
-            });
-        }
+    public CountryAvailabilityCategory getCategory() {
+        return CountryAvailabilityCategory.ENTERTAINMENT_GAMING;
     }
 
-    private String getValue(String countryBackendID) {
-        if(!availabilities.containsKey(countryBackendID)) {
-            availabilities.put(countryBackendID, new CountryAvailability(getInfo().getTitle(), false, CountryAvailabilityCategory.ENTERTAINMENT_GAMING).toString());
-        }
-        return availabilities.get(countryBackendID);
+    @Override
+    public HashMap<String, String> getCountries() {
+        return countries;
     }
 
-    private void refresh(CompletionHandler handler) {
+    @Override
+    public void refresh(CompletionHandler handler) {
         // https://en.wikipedia.org/wiki/Xbox_Game_Pass
-        final long started = System.currentTimeMillis();
-        availabilities = new HashMap<>();
-        final String title = getInfo().getTitle(), value = new CountryAvailability(title, true, CountryAvailabilityCategory.ENTERTAINMENT_GAMING).toString();
-        final String[] countries = {
+        countries = new HashMap<>();
+        final String value = getAvailability(true);
+        final String[] array = {
                 "argentina",
                 "australia",
                 "austria",
@@ -89,10 +75,9 @@ public enum XboxGamePass implements CountryService {
                 "unitedkingdom",
                 "unitedstates",
         };
-        for(String country : countries) {
-            availabilities.put(country, value);
+        for(String country : array) {
+            countries.put(country, value);
         }
-        WLLogger.log(Level.INFO, "XboxGamePass - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
         handler.handle(null);
     }
 }

@@ -1,15 +1,12 @@
 package me.randomhashtags.worldlaws.earthquakes;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.RestAPI;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.location.Location;
 import me.randomhashtags.worldlaws.location.Territories;
 import me.randomhashtags.worldlaws.location.Territory;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.time.LocalDate;
 import java.time.Month;
 import java.time.Year;
 import java.util.*;
@@ -19,12 +16,14 @@ public enum Earthquakes implements RestAPI {
     INSTANCE;
 
     private final String yearsJSON;
-    private static final HashMap<Integer, String> YEARS = new HashMap<>();
-    private static final HashMap<Integer, HashMap<Month, String>> MONTHS = new HashMap<>();
-    private static final HashMap<Integer, HashMap<Integer, HashMap<String, String>>> TERRITORIES = new HashMap<>();
-    private int COMPLETED_HANDLERS;
+    private final HashMap<Integer, String> years;
+    private final HashMap<Integer, HashMap<Month, String>> months;
+    private final HashMap<Integer, HashMap<Integer, HashMap<String, String>>> territories;
 
     Earthquakes() {
+        years = new HashMap<>();
+        months = new HashMap<>();
+        territories = new HashMap<>();
         final Set<Integer> listOfYears = new HashSet<>();
         listOfYears.addAll(Arrays.asList(
                 1638,
@@ -56,7 +55,7 @@ public enum Earthquakes implements RestAPI {
                 1836,
                 1838
         ));
-        final int year = LocalDate.now().getYear();
+        final int year = WLUtilities.getTodayYear();
         for(int i = 1840; i <= year; i++) {
             if(i != 1842 && i != 1846 && i != 1849 && i != 1854) {
                 listOfYears.add(i);
@@ -69,16 +68,16 @@ public enum Earthquakes implements RestAPI {
         return yearsJSON;
     }
     public void getEarthquakeCounts(int year, CompletionHandler handler) {
-        if(YEARS.containsKey(year)) {
-            handler.handle(YEARS.get(year));
+        if(years.containsKey(year)) {
+            handler.handle(years.get(year));
         } else {
             refreshEarthquakeCount(year, handler);
         }
     }
     public void getEarthquakes(int year, int monthValue, CompletionHandler handler) {
         final Month month = Month.of(monthValue);
-        if(MONTHS.containsKey(year) && MONTHS.get(year).containsKey(month)) {
-            handler.handle(MONTHS.get(year).get(month));
+        if(months.containsKey(year) && months.get(year).containsKey(month)) {
+            handler.handle(months.get(year).get(month));
         } else {
             refreshEarthquakes(year, month, handler);
         }
@@ -99,52 +98,44 @@ public enum Earthquakes implements RestAPI {
         }
     }
     private String getEarthquakesForTerritory(int year, int monthValue, String territory) {
-        return TERRITORIES.containsKey(year) && TERRITORIES.get(year).containsKey(monthValue) ? TERRITORIES.get(year).get(monthValue).getOrDefault(territory, null) : null;
+        return territories.containsKey(year) && territories.get(year).containsKey(monthValue) ? territories.get(year).get(monthValue).getOrDefault(territory, null) : null;
     }
 
     private void refreshEarthquakeCount(int year, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        YEARS.put(year, "[]");
-        COMPLETED_HANDLERS = 0;
+        years.put(year, "[]");
         final HashSet<String> jsons = new HashSet<>();
-        for(Month month : Month.values()) {
-            new Thread(() -> refreshEarthquakeCount(year, month, new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    if(object != null) {
-                        jsons.add(object.toString());
-                    }
-                    completedHandler();
-                    if(getCompletedHandlers() == 12) {
-                        final StringBuilder builder = new StringBuilder("[");
-                        boolean isFirst = true;
-                        for(String json : jsons) {
-                            builder.append(isFirst ? "" : ",").append(json);
-                            isFirst = false;
-                        }
-                        builder.append("]");
-                        final String string = builder.toString();
-                        YEARS.put(year, string);
-                        WLLogger.log(Level.INFO, "Earthquakes - refreshed " + year + "'s earthquake count (took " + (System.currentTimeMillis()-started) + "ms)");
-                        handler.handle(string);
-                    }
+        loadNew(started, year, jsons, handler);
+    }
+    private void loadNew(long started, int year, HashSet<String> jsons, CompletionHandler handler) {
+        Arrays.asList(Month.values()).parallelStream().forEach(month -> refreshEarthquakeCount(year, month, new CompletionHandler() {
+            @Override
+            public void handle(Object object) {
+                if(object != null) {
+                    jsons.add(object.toString());
                 }
-            })).start();
-        }
-    }
-    private synchronized void completedHandler() {
-        COMPLETED_HANDLERS += 1;
-    }
-    private synchronized int getCompletedHandlers() {
-        return COMPLETED_HANDLERS;
+                if(jsons.size() == 12) {
+                    final StringBuilder builder = new StringBuilder("[");
+                    boolean isFirst = true;
+                    for(String json : jsons) {
+                        builder.append(isFirst ? "" : ",").append(json);
+                        isFirst = false;
+                    }
+                    builder.append("]");
+                    final String string = builder.toString();
+                    years.put(year, string);
+                    WLLogger.log(Level.INFO, "Earthquakes - refreshed " + year + "'s earthquake count (took " + (System.currentTimeMillis()-started) + "ms)");
+                    handler.handle(string);
+                }
+            }
+        }));
     }
     private void refreshEarthquakeCount(int year, Month month, CompletionHandler handler) {
         final int maxDay = month.length(Year.isLeap(year)), monthValue = month.getValue();
         final String url = "https://earthquake.usgs.gov/fdsnws/event/1/count?format=geojson&starttime=" + year + "-" + monthValue + "-01&endtime=" + year + "-" + monthValue + "-" + maxDay;
-        requestJSON(url, RequestMethod.GET, new CompletionHandler() {
+        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONObject json = new JSONObject(object.toString());
+            public void handleJSONObject(JSONObject json) {
                 final int totalEarthquakes = json.getInt("count");
                 if(totalEarthquakes == 0) {
                     handler.handle(null);
@@ -161,31 +152,35 @@ public enum Earthquakes implements RestAPI {
     private void refreshEarthquakes(int year, Month month, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final int maxDay = month.length(Year.isLeap(year)), monthValue = month.getValue();
-        if(!MONTHS.containsKey(year)) {
-            MONTHS.put(year, new HashMap<>());
+        if(!months.containsKey(year)) {
+            months.put(year, new HashMap<>());
         }
-        MONTHS.get(year).put(month, "[]");
-        if(!TERRITORIES.containsKey(year)) {
-            TERRITORIES.put(year, new HashMap<>());
+        months.get(year).put(month, "[]");
+        if(!territories.containsKey(year)) {
+            territories.put(year, new HashMap<>());
         }
         final String url = "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=" + year + "-" + monthValue + "-01&endtime=" + year + "-" + monthValue + "-" + maxDay;
-        requestJSON(url, RequestMethod.GET, new CompletionHandler() {
+        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONObject jsonobject = new JSONObject(object.toString());
+            public void handleJSONObject(JSONObject jsonobject) {
                 final JSONArray array = jsonobject.getJSONArray("features");
                 final HashMap<String, HashSet<Earthquake>> earthquakes = new HashMap<>();
+
                 for(Object obj : array) {
                     final JSONObject json = (JSONObject) obj;
-                    final JSONObject properties = json.getJSONObject("properties");
+                    final JSONObject properties = json.getJSONObject("properties"), geometry = json.getJSONObject("geometry");
                     final String cause = properties.getString("type").toUpperCase();
                     final Object mag = properties.get("mag");
                     final String magnitude = mag != null ? mag.toString() : "0";
                     final String url = properties.getString("url"), place = properties.getString("place");
                     final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
                     //final String detailsURL = properties.getString("detail");
+                    final JSONArray coordinates = geometry.getJSONArray("coordinates");
+                    final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
+                    final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
+                    final Location location = new Location(latitude, longitude);
 
-                    final Earthquake earthquake = new Earthquake(cause, magnitude, place, time, lastUpdated, 0, url);
+                    final Earthquake earthquake = new Earthquake(cause, magnitude, place, time, lastUpdated, 0, location, url);
                     final String territory = earthquake.getTerritory();
                     if(!earthquakes.containsKey(territory)) {
                         earthquakes.put(territory, new HashSet<>());
@@ -203,7 +198,7 @@ public enum Earthquakes implements RestAPI {
                     territoryMap.put(name.replace(" ", ""), value);
                     allEarthquakes.addAll(values);
                 }
-                TERRITORIES.get(year).put(monthValue, territoryMap);
+                territories.get(year).put(monthValue, territoryMap);
                 setupEarthquakeTerritoryJSON(started, year, month, allEarthquakes, handler);
             }
         });
@@ -224,7 +219,7 @@ public enum Earthquakes implements RestAPI {
         }
         builder.append("]");
         final String string = builder.toString();
-        MONTHS.get(year).put(month, string);
+        months.get(year).put(month, string);
         WLLogger.log(Level.INFO, "Earthquakes - refreshed " + year + "'s " + month.name() + " earthquakes (took " + (System.currentTimeMillis()-started) + "ms)");
         handler.handle(string);
     }

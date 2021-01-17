@@ -50,10 +50,9 @@ public enum CurrencyExchange implements RestAPI {
     private void refreshCurrencyExchange(int year, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final String url = "https://www.transparency.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=record_date,country,currency,exchange_rate&filter=record_calendar_year:eq:" + year + "&sort=-record_date&page[size]=200";
-        requestJSON(url, RequestMethod.GET, new CompletionHandler() {
+        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONObject json = new JSONObject(object.toString());
+            public void handleJSONObject(JSONObject json) {
                 final JSONArray data = json.getJSONArray("data");
                 final JSONObject first = data.getJSONObject(0);
                 final int month = Integer.parseInt(first.getString("record_date").split("-")[1]);

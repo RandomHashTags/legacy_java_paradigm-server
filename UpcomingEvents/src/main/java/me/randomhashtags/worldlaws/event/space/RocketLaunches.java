@@ -56,13 +56,12 @@ public enum RocketLaunches implements EventController {
         final long started = System.currentTimeMillis();
         preEvents = new HashMap<>();
         events = new HashMap<>();
-        requestJSON("https://ll.thespacedevs.com/2.0.0/launch/upcoming/?format=json&limit=50&mode=detailed&offset=0", RequestMethod.GET, new CompletionHandler() {
+        requestJSONObject("https://ll.thespacedevs.com/2.0.0/launch/upcoming/?format=json&limit=50&mode=detailed&offset=0", RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
+            public void handleJSONObject(JSONObject json) {
                 final StringBuilder builder = new StringBuilder("[");
                 boolean isFirst = true;
 
-                final JSONObject json = new JSONObject(object.toString());
                 final JSONArray launches = json.getJSONArray("results");
                 final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
                 for(Object obj : launches) {

@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.weather.country;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.RequestMethod;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.location.CountryBackendID;
 import me.randomhashtags.worldlaws.location.Territory;
 import me.randomhashtags.worldlaws.weather.WeatherAlert;
@@ -30,12 +33,8 @@ public enum WeatherUS implements WeatherController {
     }
 
     @Override
-    public void getAlertEvents(CompletionHandler handler) {
-        if(alertEvents != null) {
-            handler.handle(alertEvents);
-        } else {
-            refreshAlerts(handler);
-        }
+    public String getAlertEvents() {
+        return alertEvents;
     }
 
     @Override
@@ -60,10 +59,9 @@ public enum WeatherUS implements WeatherController {
         WLUtilities.getCountryTerritories(getCountryBackendID().getValue(), new CompletionHandler() {
             @Override
             public void handleCountryTerritories(HashSet<Territory> territories) {
-                requestJSON(url, RequestMethod.GET, new CompletionHandler() {
+                requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
                     @Override
-                    public void handle(Object object) {
-                        final JSONObject json = new JSONObject(object.toString());
+                    public void handleJSONObject(JSONObject json) {
                         final JSONArray array = json.getJSONArray("features");
                         final HashMap<String, WeatherEvent> events = new HashMap<>();
                         final HashMap<String, List<WeatherAlert>> eventAlertsMap = new HashMap<>();
@@ -72,9 +70,10 @@ public enum WeatherUS implements WeatherController {
                             final JSONObject jsonAlert = (JSONObject) obj;
                             final JSONObject properties = jsonAlert.getJSONObject("properties");
                             final String[] senderName = properties.getString("senderName").split(" ");
-                            final String territoryAbbreviation = senderName[senderName.length-1];
+                            final int senderNameLength = senderName.length;
+                            final String territoryAbbreviation = senderName[senderNameLength-1];
                             final Territory abbreviation = Territory.valueOfAbbreviation(territoryAbbreviation, territories), name = Territory.valueOfName(territoryAbbreviation, territories);
-                            final Territory usterritory = abbreviation != null ? abbreviation : name != null ? name : Territory.valueOfName(senderName[senderName.length-2] + " " + territoryAbbreviation, territories);
+                            final Territory usterritory = abbreviation != null ? abbreviation : name != null ? name : Territory.valueOfName(senderName[senderNameLength-2] + " " + territoryAbbreviation, territories);
                             final String territory = usterritory != null ? usterritory.getName() : "Unknown";
                             final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
                             final String certainty = properties.getString("certainty");
@@ -176,12 +175,13 @@ public enum WeatherUS implements WeatherController {
                             for(Map.Entry<String, HashMap<String, StringBuilder>> maps : territoryEventAlertBuilders.entrySet()) {
                                 final String territory = maps.getKey();
                                 final HashMap<String, StringBuilder> builders = maps.getValue();
-                                for(String eventAlertKey : builders.keySet()) {
-                                    final String string = builders.get(eventAlertKey).append("]").toString();
+                                for(Map.Entry<String, StringBuilder> builder : builders.entrySet()) {
+                                    final String eventAlertKey = builder.getKey();
+                                    final String value = builder.getValue().append("]").toString();
                                     if(!territoryEventAlerts.containsKey(territory)) {
                                         territoryEventAlerts.put(territory, new HashMap<>());
                                     }
-                                    territoryEventAlerts.get(territory).put(eventAlertKey, string);
+                                    territoryEventAlerts.get(territory).put(eventAlertKey, value);
                                 }
                             }
 

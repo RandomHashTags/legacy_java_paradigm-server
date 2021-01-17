@@ -3,17 +3,17 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Burkina Faso - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X97jLgpAIC8AAJeWZmAAAAAT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Burkina_Faso","wgTitle":"Burkina Faso","wgCurRevisionId":7056898,"wgRevisionId":7056898,"wgArticleId":19175,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: URL–wikilink conflict","CS1 French-language sources (fr)","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers",
-"Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with RERO identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with TDVİA identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Burkina Faso","Least developed countries","Members of the Organisation of Islamic Cooperation","1960 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Burkina_Faso","wgRelevantArticleId":19175,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
-"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q965"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
-"ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VQpAICwAAL9RSwQAAADE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Burkina_Faso","wgTitle":"Burkina Faso","wgCurRevisionId":7266315,"wgRevisionId":7266315,"wgArticleId":19175,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Webarchive template wayback links","Articles containing French-language text","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers",
+"Wikipedia articles with HDS identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with RERO identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with TDVİA identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Burkina Faso","Least developed countries","Members of the Organisation of Islamic Cooperation","1960 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Burkina_Faso","wgRelevantArticleId":19175,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],
+"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q965"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -82,22 +82,35 @@
         <tr>
          <td colspan="2" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Motto:&nbsp;</b><i>"Unité-Progrès-Justice"</i>
-           <br><i>("Unity, Progress, Justice")</i>
+           <b>Motto:&nbsp;</b><span lang="fr" style="font-style: normal;" title="French language text">"Unité–Progrès–Justice"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/French_language" title="French language">French</a>)</span>
+           <br><span style="font-size:85%;">"Unity–Progress–Justice"</span>
           </div></td>
         </tr>
         <tr>
          <td colspan="2" class="anthem" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Anthem:&nbsp;</b><i><a href="/w/index.php?title=Une_Seule_Nuit&amp;action=edit&amp;redlink=1" class="new" title="Une Seule Nuit (not yet started)">Une Seule Nuit</a></i><span class="nowrap">&nbsp;&nbsp;</span><small>(French)<br><i>One Single Night</i> – Thomas Sankara<i></i></small>
+           <b>Anthem:&nbsp;</b><span class="nowrap"><i lang="fr" title="French language text"><a href="/w/index.php?title=Une_Seule_Nuit&amp;action=edit&amp;redlink=1" class="new" title="Une Seule Nuit (not yet started)">Une Seule Nuit</a> / Ditanyè</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(French)</span><br><span style="font-size:85%;"><i>One Single Night / Hymn of Victory</i></span></span>
+           <br>
+           <center>
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="107.19637188209" data-startoffset="0" data-mwtitle="Hymne_National_du_Burkina_Faso.ogg" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/Hymne_National_du_Burkina_Faso.ogg/Hymne_National_du_Burkina_Faso.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="209064">
+              <source src="//upload.wikimedia.org/wikipedia/commons/7/7e/Hymne_National_du_Burkina_Faso.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (385 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="384906">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymne_National_du_Burkina_Faso.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHymne_National_du_Burkina_Faso.ogg&amp;lang=fr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="fr" label="français (fr) subtitles" data-dir="ltr">
+             </audio>
+            </div>
+           </center>
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Location_Burkina_Faso_AU_Africa.svg" class="image" title="Location of &nbsp;Burkina Faso&nbsp;&nbsp;(dark blue) –&nbsp;in Africa&nbsp;&nbsp;(light blue &amp;&nbsp;dark grey) –&nbsp;in the African Union&nbsp;&nbsp;(light blue)&nbsp; —&nbsp; [Legend]"><img alt="Location of &nbsp;Burkina Faso&nbsp;&nbsp;(dark blue) –&nbsp;in Africa&nbsp;&nbsp;(light blue &amp;&nbsp;dark grey) –&nbsp;in the African Union&nbsp;&nbsp;(light blue)&nbsp; —&nbsp; [Legend]" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Burkina_Faso_AU_Africa.svg/250px-Location_Burkina_Faso_AU_Africa.svg.png" decoding="async" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Burkina_Faso_AU_Africa.svg/375px-Location_Burkina_Faso_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Burkina_Faso_AU_Africa.svg/500px-Location_Burkina_Faso_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300"></a>
-          <div style="position:relative;top:0.3em;">
-           <div style="text-align:center;font-size:11px;line-height:1.15em;">
-            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Burkina Faso</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
-            <p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&nbsp;in <a href="/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">light blue &amp;&nbsp;dark grey</span>)<br>–&nbsp;in the <a href="/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">light blue</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:Location_Burkina_Faso_AU_Africa.svg" title="File:Location Burkina Faso AU Africa.svg">Legend</a></span>]</p>
+         <td colspan="2" style="text-align:center">
+          <div class="switcher-container">
+           <div>
+            <a href="/wiki/File:Burkina_Faso_(orthographic_projection).svg" class="image"><img alt="Burkina Faso (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burkina_Faso_%28orthographic_projection%29.svg/220px-Burkina_Faso_%28orthographic_projection%29.svg.png" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burkina_Faso_%28orthographic_projection%29.svg/330px-Burkina_Faso_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burkina_Faso_%28orthographic_projection%29.svg/440px-Burkina_Faso_%28orthographic_projection%29.svg.png 2x" data-file-width="553" data-file-height="553"></a><span class="switcher-label" style="display:none" data-switcher-default="">Show globe</span>
+           </div>
+           <div>
+            <a href="/wiki/File:Location_Burkina_Faso_AU_Africa.svg" class="image"><img alt="Location Burkina Faso AU Africa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Burkina_Faso_AU_Africa.svg/250px-Location_Burkina_Faso_AU_Africa.svg.png" decoding="async" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Burkina_Faso_AU_Africa.svg/375px-Location_Burkina_Faso_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Burkina_Faso_AU_Africa.svg/500px-Location_Burkina_Faso_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300"></a><span class="switcher-label" style="display:none">Show map of Africa</span>
            </div>
           </div></td>
         </tr>
@@ -106,23 +119,65 @@
           <div style="font-weight:normal">
            and largest city
           </div></th>
-         <td><a href="/wiki/Ouagadougou" title="Ouagadougou">Ouagadougou</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Burkina_Faso&amp;params=12_20_N_1_40_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">12°20′N</span> <span class="longitude">1°40′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">12.333°N 1.667°W</span><span style="display:none">﻿ / <span class="geo">12.333; -1.667</span></span></span></a></span></td>
+         <td><a href="/wiki/Ouagadougou" title="Ouagadougou">Ouagadougou</a><br><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Burkina_Faso&amp;params=12_22_N_1_32_W_type:city_region:BF"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">12°22′N</span> <span class="longitude">1°32′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">12.367°N 1.533°W</span><span style="display:none">﻿ / <span class="geo">12.367; -1.533</span></span></span></a></span></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Official&nbsp;languages</th>
          <td><a href="/wiki/French_language" title="French language">French</a></td>
         </tr>
         <tr class="mergedrow">
-         <th scope="row"><span style="font-weight:normal;">Recognised regional&nbsp;languages</span></th>
-         <td><a href="/w/index.php?title=M%C3%B2or%C3%A9_language&amp;action=edit&amp;redlink=1" class="new" title="Mòoré language (not yet started)">Mòoré</a>, <a href="/w/index.php?title=Dioula_language&amp;action=edit&amp;redlink=1" class="new" title="Dioula language (not yet started)">Dioula</a> (<a href="/wiki/Bambara_language" title="Bambara language">Bambara</a>)</td>
+         <th scope="row"><span style="font-weight:normal;">Recognised national&nbsp;languages</span></th>
+         <td><a href="/w/index.php?title=M%C3%B2or%C3%A9_language&amp;action=edit&amp;redlink=1" class="new" title="Mòoré language (not yet started)">Mòoré</a><br> <a href="/w/index.php?title=Fula_language&amp;action=edit&amp;redlink=1" class="new" title="Fula language (not yet started)">Fula</a><br><a href="/w/index.php?title=Dioula_language&amp;action=edit&amp;redlink=1" class="new" title="Dioula language (not yet started)">Dioula</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
+          <div style="font-weight:normal;display:inline;">
+            (2010 est.)<sup id="cite_ref-CIAFactbook2019uv_2-0" class="reference"><a href="#cite_note-CIAFactbook2019uv-2">[2]</a></sup>
+          </div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>52% <a href="/w/index.php?title=Mossi_people&amp;action=edit&amp;redlink=1" class="new" title="Mossi people (not yet started)">Mossi</a></li>
+            <li>8.4% <a href="/w/index.php?title=Fula_people&amp;action=edit&amp;redlink=1" class="new" title="Fula people (not yet started)">Fula</a></li>
+            <li>2.4% <a href="/w/index.php?title=Lobi_people&amp;action=edit&amp;redlink=1" class="new" title="Lobi people (not yet started)">Lobi</a></li>
+            <li>4.9% <a href="/w/index.php?title=Bobo_people&amp;action=edit&amp;redlink=1" class="new" title="Bobo people (not yet started)">Bobo</a></li>
+            <li>0.8% <a href="/w/index.php?title=Dyula_people&amp;action=edit&amp;redlink=1" class="new" title="Dyula people (not yet started)">Dioula</a></li>
+            <li>4.5% <a href="/w/index.php?title=Senufo_people&amp;action=edit&amp;redlink=1" class="new" title="Senufo people (not yet started)">Senufo</a></li>
+            <li>4.6% <a href="/w/index.php?title=Gurunsi&amp;action=edit&amp;redlink=1" class="new" title="Gurunsi (not yet started)">Gurunsi</a></li>
+            <li>7% <a href="/w/index.php?title=Gurma_people&amp;action=edit&amp;redlink=1" class="new" title="Gurma people (not yet started)">Gurma</a></li>
+            <li>1.9% <a href="/wiki/Tuareg_people" title="Tuareg people">Tuareg</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;">
+            (2006)
+          </div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>60.5% <a href="/wiki/Islam" title="Islam">Islam</a></li>
+            <li>23.2% <a href="/wiki/Christianity" title="Christianity">Christianity</a></li>
+            <li>15.3% <a href="/w/index.php?title=Traditional_African_religions&amp;action=edit&amp;redlink=1" class="new" title="Traditional African religions (not yet started)">Indigenous beliefs</a></li>
+            <li>1.0% <a href="/w/index.php?title=Irreligious&amp;action=edit&amp;redlink=1" class="new" title="Irreligious (not yet started)">Irreligious</a> and others</li>
+           </ul>
+          </div></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
-         <td>Burkinabé (also Burkinabè and Burkinabe)</td>
+         <td>
+          <div class="hlist hlist-separated">
+           <ul>
+            <li>Burkinabé</li>
+            <li>Burkinabè</li>
+            <li>Burkinese</li>
+           </ul>
+          </div></td>
         </tr>
         <tr>
          <th scope="row">Government</th>
-         <td><a href="/wiki/Semi-presidential_system" title="Semi-presidential system">Semi-presidential</a> republic</td>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Semi-presidential_system" title="Semi-presidential system">semi-presidential</a> <a href="/wiki/Republic" title="Republic">constitutional republic</a></td>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -130,25 +185,36 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/President_of_Burkina_Faso" class="mw-redirect" title="President of Burkina Faso">President</a> 
+           •&nbsp;<a href="/wiki/List_of_heads_of_state_of_Burkina_Faso" title="List of heads of state of Burkina Faso">President</a> 
           </div></th>
-         <td><a href="/wiki/Roch_Marc_Christian_Kabor%C3%A9" title="Roch Marc Christian Kaboré">Roch Marc Christian Kaboré</a><sup id="cite_ref-BBC_1-0" class="reference"><a href="#cite_note-BBC-1">[1]</a></sup></td>
+         <td><a href="/wiki/Roch_Marc_Christian_Kabor%C3%A9" title="Roch Marc Christian Kaboré">Roch Marc Christian Kaboré</a></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/List_of_Prime_Ministers_of_Burkina_Faso" title="List of Prime Ministers of Burkina Faso">Prime Minister</a> 
+           •&nbsp;<a href="/w/index.php?title=List_of_heads_of_government_of_Burkina_Faso&amp;action=edit&amp;redlink=1" class="new" title="List of heads of government of Burkina Faso (not yet started)">Prime Minister</a> 
           </div></th>
-         <td><a href="/wiki/Paul_Kaba_Thieba" title="Paul Kaba Thieba">Paul Kaba Thieba</a></td>
+         <td><a href="/w/index.php?title=Christophe_Joseph_Marie_Dabir%C3%A9&amp;action=edit&amp;redlink=1" class="new" title="Christophe Joseph Marie Dabiré (not yet started)">Christophe Joseph Marie Dabiré</a></td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
         </tr>
-        <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/w/index.php?title=National_Assembly_of_Burkina_Faso&amp;action=edit&amp;redlink=1" class="new" title="National Assembly of Burkina Faso (not yet started)">National Assembly</a></td>
         </tr>
-        <tr class="mergedbottomrow">
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Independence</th>
+        </tr>
+        <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Republic_of_Upper_Volta" title="Republic of Upper Volta">Republic of Upper Volta</a> proclaimed 
+          </div></th>
+         <td>11 December 1958</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
@@ -183,9 +249,9 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2010 estimate
+           •&nbsp;2020 estimate
           </div></th>
-         <td>15,730,977<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">64th</a>)</td>
+         <td>21,510,181<sup id="cite_ref-The_World_Factbook_3-0" class="reference"><a href="#cite_note-The_World_Factbook-3">[3]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">58th</a>)</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
@@ -199,66 +265,59 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Density
           </div></th>
-         <td>57.4/km<sup>2</sup> (148.7/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">145th</a>)</td>
+         <td>64/km<sup>2</sup> (165.8/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">137th</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
-         <td>2010&nbsp;estimate</td>
+         <td>2020&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$19.992&nbsp;billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$45.339&nbsp;billion</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$1,360<sup id="cite_ref-imf2_3-1" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$2,207<sup id="cite_ref-imf.org_4-0" class="reference"><a href="#cite_note-imf.org-4">[4]</a></sup></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
-         <td>2010&nbsp;estimate</td>
+         <td>2020&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$8.781&nbsp;billion<sup id="cite_ref-imf2_3-2" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$16.226&nbsp;billion</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$597<sup id="cite_ref-imf2_3-3" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$792<sup id="cite_ref-imf.org_4-1" class="reference"><a href="#cite_note-imf.org-4">[4]</a></sup></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2007)</span></th>
-         <td>39.5<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2020)</span></th>
+         <td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" decoding="async" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;38.9<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2007)</span></th>
-         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.389<br><span style="white-space:nowrap;"><span style="color:red">low</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">177th</a></td>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2019)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.452<sup id="cite_ref-UNHDR_6-0" class="reference"><a href="#cite_note-UNHDR-6">[6]</a></sup><br><span style="white-space:nowrap;"><span style="color:red">low</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">182nd</a></td>
         </tr>
         <tr>
          <th scope="row">Currency</th>
-         <td><a href="/w/index.php?title=West_African_CFA_franc&amp;action=edit&amp;redlink=1" class="new" title="West African CFA franc (not yet started)">West African CFA franc</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> (<a href="/wiki/ISO_4217" title="ISO 4217">XOF</a>)</td>
+         <td><a href="/w/index.php?title=West_African_CFA_franc&amp;action=edit&amp;redlink=1" class="new" title="West African CFA franc (not yet started)">West African CFA franc</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> (<a href="/wiki/ISO_4217" title="ISO 4217">XOF</a>)</td>
         </tr>
         <tr>
          <th scope="row">Time zone</th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+0</span></td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
-          </div></th>
-         <td>not observed</td>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a> </span> (<a href="/wiki/GMT" class="mw-redirect" title="GMT">GMT</a>)</td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
@@ -266,7 +325,7 @@
         </tr>
         <tr>
          <th scope="row">Calling code</th>
-         <td>226</td>
+         <td><a href="/w/index.php?title=%2B226&amp;action=edit&amp;redlink=1" class="new" title="+226 (not yet started)">+226</a></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
@@ -279,9 +338,7 @@
         <tr>
          <td colspan="2" style="text-align:center">
           <div style="text-align:left;margin-left:auto; margin-right:auto;">
-           <ol style="margin-left:1em;"> 
-            <li value="1">The data here is an estimation for the year 2005 produced by the International Monetary Fund in April 2005.</li> 
-           </ol>
+           The data here is an estimation for the year 2005 produced by the International Monetary Fund in April 2005.
           </div></td>
         </tr>
        </tbody>
@@ -305,11 +362,11 @@
        </ul> 
       </div> 
       <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <p>People have lived in the area of Burkina Faso for thousands of years. At first, they were <a href="/wiki/Hunter-gatherer" title="Hunter-gatherer">hunter-gatherers</a>, <a href="/wiki/Hunting" title="Hunting">hunting</a> animals and collecting <a href="/wiki/Fruit" title="Fruit">fruits</a> and <a href="/wiki/Vegetable" title="Vegetable">vegetables</a>.<sup id="cite_ref-POA_6-0" class="reference"><a href="#cite_note-POA-6">[6]</a></sup> Later they became <a href="/wiki/Farmer" title="Farmer">farmers</a>. People called the <a href="/wiki/Mossi" title="Mossi">Mossi</a> arrived between the 11th and 13th centuries.<sup id="cite_ref-POA_6-1" class="reference"><a href="#cite_note-POA-6">[6]</a></sup> They ruled the area until the end of the 19th century. In 1896 <a href="/wiki/France" title="France">France</a> beat the Mossi kingdom and became the <a href="/wiki/Colonialism" title="Colonialism">colonial</a> rulers of Burkina Faso. After <a href="/wiki/World_War_I" title="World War I">World War I</a>, the country was called <a href="/wiki/Upper_Volta" title="Upper Volta">Upper Volta</a>. </p>
-      <p>In 1960, Upper Volta became independent from France. The first <a href="/wiki/President" title="President">president</a> of the new country was <a href="/wiki/Maurice_Yam%C3%A9ogo" title="Maurice Yaméogo">Maurice Yaméogo</a>. After he became the president, Yaméogo banned other <a href="/wiki/Political_party" title="Political party">political parties</a>. For several years the people of Upper Volta were very unhappy with the government and in 1966 the <a href="/wiki/Military" title="Military">military</a> took over in a military <a href="/wiki/Coup_d%27%C3%A9tat" title="Coup d'état">coup</a>. In 1983 the government was taken over again by military men called <a href="/wiki/Thomas_Sankara" title="Thomas Sankara">Thomas Sankara</a> and <a href="/wiki/Blaise_Compaor%C3%A9" title="Blaise Compaoré">Blaise Compaoré</a>. Sankara became president. In 1984, he changed the name of the country to Burkina Faso. It means "land of honest people".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p>
+      <p>People have lived in the area of Burkina Faso for thousands of years. At first, they were <a href="/wiki/Hunter-gatherer" title="Hunter-gatherer">hunter-gatherers</a>, <a href="/wiki/Hunting" title="Hunting">hunting</a> animals and collecting <a href="/wiki/Fruit" title="Fruit">fruits</a> and <a href="/wiki/Vegetable" title="Vegetable">vegetables</a>.<sup id="cite_ref-POA_8-0" class="reference"><a href="#cite_note-POA-8">[8]</a></sup> Later they became <a href="/wiki/Farmer" title="Farmer">farmers</a>. People called the <a href="/wiki/Mossi" title="Mossi">Mossi</a> arrived between the 11th and 13th centuries.<sup id="cite_ref-POA_8-1" class="reference"><a href="#cite_note-POA-8">[8]</a></sup> They ruled the area until the end of the 19th century. In 1896 <a href="/wiki/France" title="France">France</a> beat the Mossi kingdom and became the <a href="/wiki/Colonialism" title="Colonialism">colonial</a> rulers of Burkina Faso. After <a href="/wiki/World_War_I" title="World War I">World War I</a>, the country was called <a href="/wiki/Upper_Volta" title="Upper Volta">Upper Volta</a>. </p>
+      <p>In 1960, Upper Volta became independent from France. The first <a href="/wiki/President" title="President">president</a> of the new country was <a href="/wiki/Maurice_Yam%C3%A9ogo" title="Maurice Yaméogo">Maurice Yaméogo</a>. After he became the president, Yaméogo banned other <a href="/wiki/Political_party" title="Political party">political parties</a>. For several years the people of Upper Volta were very unhappy with the government and in 1966 the <a href="/wiki/Military" title="Military">military</a> took over in a military <a href="/wiki/Coup_d%27%C3%A9tat" title="Coup d'état">coup</a>. In 1983 the government was taken over again by military men called <a href="/wiki/Thomas_Sankara" title="Thomas Sankara">Thomas Sankara</a> and <a href="/wiki/Blaise_Compaor%C3%A9" title="Blaise Compaoré">Blaise Compaoré</a>. Sankara became president. In 1984, he changed the name of the country to Burkina Faso. It means "land of honest people".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
       <p>In December 1985, Burkina Faso went to war for five days with near-by country <a href="/wiki/Mali" title="Mali">Mali</a>. In 1987, there was another military coup and Sankara was <a href="/wiki/Assassination" title="Assassination">assassinated</a> (murdered). Blaise Compaoré became the president. </p>
-      <p>On 28 October 2014 protesters began to march and demonstrate in Ouagadougou. Compaoré was ready to change the constitution and <a href="https://simple.wiktionary.org/wiki/extend" class="extiw" title="wikt:extend">extend</a>his 27-year rule. On 30 October 2014, some protesters set fire to the parliament.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> They also took over the national television headquarters.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> On 31 October 2014, President Compaoré, resigned after 27 years in office.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p>
-      <p>In 2015 the country held their first election. Roch Marc Christian Kabore, a former Prime Minister, was elected as President.<sup id="cite_ref-BBC_1-1" class="reference"><a href="#cite_note-BBC-1">[1]</a></sup> </p> 
+      <p>On 28 October 2014 protesters began to march and demonstrate in Ouagadougou. Compaoré was ready to change the constitution and <a href="https://simple.wiktionary.org/wiki/extend" class="extiw" title="wikt:extend">extend</a>his 27-year rule. On 30 October 2014, some protesters set fire to the parliament.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> They also took over the national television headquarters.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> On 31 October 2014, President Compaoré, resigned after 27 years in office.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> </p>
+      <p>In 2015 the country held their first election. Roch Marc Christian Kabore, a former Prime Minister, was elected as President. </p> 
       <h2><span id="Regions.2C_provinces.2C_and_departments"></span><span class="mw-headline" id="Regions,_provinces,_and_departments">Regions, provinces, and departments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Regions, provinces, and departments">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=2" title="Change section: Regions, provinces, and departments">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <p>Burkina Faso is divided into thirteen regions, forty-five <a href="/wiki/Provinces_of_Burkina_Faso" title="Provinces of Burkina Faso">provinces</a>, and 301 departments. The regions are: </p> 
       <ul>
@@ -333,7 +390,7 @@
        <tbody>
         <tr> 
          <th>City </th> 
-         <th>Population (Census 2006)<sup id="cite_ref-c2006_11-0" class="reference"><a href="#cite_note-c2006-11">[11]</a></sup> </th>
+         <th>Population (Census 2006)<sup id="cite_ref-c2006_13-0" class="reference"><a href="#cite_note-c2006-13">[13]</a></sup> </th>
         </tr> 
         <tr> 
          <td><a href="/wiki/Ouagadougou" title="Ouagadougou">Ouagadougou</a></td> 
@@ -393,9 +450,9 @@
       <p>Burkina Faso's natural resources include <a href="/wiki/Manganese" title="Manganese">manganese</a>, <a href="/wiki/Limestone" title="Limestone">limestone</a>, <a href="/wiki/Marble" title="Marble">marble</a>, <a href="/wiki/Phosphate" title="Phosphate">phosphates</a>, <a href="/wiki/Pumice" title="Pumice">pumice</a>, salt and small deposits of gold. </p>
       <p>Burkina Faso's fauna and flora are protected in two national parks and several reserves. </p> 
       <h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Culture">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=5" title="Change section: Culture">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <p><a href="/wiki/Literature" title="Literature">Literature</a> in Burkina Faso is based on the <a href="/wiki/Oral_tradition" title="Oral tradition">oral tradition</a>, which remains important. Since the 1970s, literature has developed in Burkina Faso with many more writers being published.<sup id="cite_ref-JM_12-0" class="reference"><a href="#cite_note-JM-12">[12]</a></sup> </p>
+      <p><a href="/wiki/Literature" title="Literature">Literature</a> in Burkina Faso is based on the <a href="/wiki/Oral_tradition" title="Oral tradition">oral tradition</a>, which remains important. Since the 1970s, literature has developed in Burkina Faso with many more writers being published.<sup id="cite_ref-JM_14-0" class="reference"><a href="#cite_note-JM-14">[14]</a></sup> </p>
       <p>There is also a large artist community, especially in <a href="/wiki/Ouagadougou" title="Ouagadougou">Ouagadougou</a>. Much of the crafts produced are for the growing tourist industry. </p>
-      <p>The food of Burkina Faso, typical of west African cuisine, is based around <a href="/wiki/Staple_food" title="Staple food">staple foods</a> of <a href="/wiki/Sorghum" title="Sorghum">sorghum</a>, <a href="/wiki/Millet" title="Millet">millet</a>, rice, maize, <a href="/wiki/Peanut" title="Peanut">peanuts</a>, potatoes, <a href="/wiki/Bean" title="Bean">beans</a>, <a href="/wiki/Yam_(vegetable)" class="mw-redirect" title="Yam (vegetable)">yams</a> and <a href="/wiki/Okra" title="Okra">okra</a>.<sup id="cite_ref-ox_13-0" class="reference"><a href="#cite_note-ox-13">[13]</a></sup> The most common sources of protein are chicken, eggs and fresh water fish. </p> 
+      <p>The food of Burkina Faso, typical of west African cuisine, is based around <a href="/wiki/Staple_food" title="Staple food">staple foods</a> of <a href="/wiki/Sorghum" title="Sorghum">sorghum</a>, <a href="/wiki/Millet" title="Millet">millet</a>, rice, maize, <a href="/wiki/Peanut" title="Peanut">peanuts</a>, potatoes, <a href="/wiki/Bean" title="Bean">beans</a>, <a href="/wiki/Yam_(vegetable)" class="mw-redirect" title="Yam (vegetable)">yams</a> and <a href="/wiki/Okra" title="Okra">okra</a>.<sup id="cite_ref-ox_15-0" class="reference"><a href="#cite_note-ox-15">[15]</a></sup> The most common sources of protein are chicken, eggs and fresh water fish. </p> 
       <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Burkina_Faso&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Burkina_Faso&amp;action=edit&amp;section=6" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <ul>
        <li><a href="/wiki/Burkina_Faso_at_the_Olympics" title="Burkina Faso at the Olympics">Burkina Faso at the Olympics</a></li> 
@@ -406,29 +463,33 @@
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap mw-references-columns">
         <ol class="references"> 
-         <li id="cite_note-BBC-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-BBC_1-0">1.0</a></sup> <sup><a href="#cite_ref-BBC_1-1">1.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-africa-34971505">"Roch Marc Christian Kabore elected Burkina Faso president"</a>. BBC. 1 December 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">30 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Roch+Marc+Christian+Kabore+elected+Burkina+Faso+president&amp;rft.pub=BBC&amp;rft.date=2015-12-01&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-africa-34971505&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.insd.bf/fr/">"INSD Burkina Faso <span class="languageicon">(in French)</span>[[Category:Articles with French-language sources (fr)]]"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=INSD+Burkina+Faso+%3Cspan+class%3D%22languageicon%22%3E%28in+French%29%3C%2Fspan%3ECategory%3AArticles+with+French-language+sources+%28fr%29&amp;rft_id=http%3A%2F%2Fwww.insd.bf%2Ffr%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">URL–wikilink conflict (<a href="/wiki/Help:CS1_errors#wikilink_in_url" title="Help:CS1 errors">help</a>)</span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-imf2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_3-0">3.0</a></sup> <sup><a href="#cite_ref-imf2_3-1">3.1</a></sup> <sup><a href="#cite_ref-imf2_3-2">3.2</a></sup> <sup><a href="#cite_ref-imf2_3-3">3.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&amp;ey=2011&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=748&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=15&amp;pr.y=7">"Burkina Faso"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Burkina+Faso&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2011%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2008%26ey%3D2011%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D748%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D%26pr.x%3D15%26pr.y%3D7&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">"Distribution of family income – Gini index"</a>. <i>The World Factbook</i>. CIA<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Distribution+of+family+income+%E2%80%93+Gini+index&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2172.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">CFA Franc BCEAO. Codes: XOF / 952 <a rel="nofollow" class="external text" href="http://www.iso.org/iso/support/faqs/faqs_widely_used_standards/widely_used_standards_other/currency_codes/currency_codes_list-1.htm">ISO 4217 currency names and code elements</a>. ISO. Retrieved 8 May 2009.</span> </li> 
-         <li id="cite_note-POA-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-POA_6-0">6.0</a></sup> <sup><a href="#cite_ref-POA_6-1">6.1</a></sup></span> <span class="reference-text"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=dMcBcoEm8-oC"><i>Peoples of Africa, Volume 2</i></a>. Marshall Cavendish. 2001. p.&nbsp;51. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/076147160X" title="Special:BookSources/076147160X"><bdi>076147160X</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Peoples+of+Africa%2C+Volume+2&amp;rft.pages=51&amp;rft.pub=Marshall+Cavendish&amp;rft.date=2001&amp;rft.isbn=076147160X&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DdMcBcoEm8-oC&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation book cs1"><i>Kingfisher Geography Encyclopedia</i>. p.&nbsp;170. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1-85613-582-9" title="Special:BookSources/1-85613-582-9"><bdi>1-85613-582-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kingfisher+Geography+Encyclopedia&amp;rft.pages=170&amp;rft.isbn=1-85613-582-9&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-africa-29831262">"BBC News - Burkina Faso parliament set ablaze"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=BBC+News+-+Burkina+Faso+parliament+set+ablaze&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-africa-29831262&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.smh.com.au/world/burkina-faso-protesters-set-parliament-on-fire-take-over-state-tv-and-march-on-presidency-20141031-11emg3.html">"Burkina Faso protesters set parliament on fire, take over state TV and march on presidency"</a>. <i>The Sydney Morning Herald</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft.atitle=Burkina+Faso+protesters+set+parliament+on+fire%2C+take+over+state+TV+and+march+on+presidency&amp;rft_id=http%3A%2F%2Fwww.smh.com.au%2Fworld%2Fburkina-faso-protesters-set-parliament-on-fire-take-over-state-tv-and-march-on-presidency-20141031-11emg3.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite id="CITEREFTaokoCowell2014" class="citation web cs1">Taoko, Hervé; Cowell, Alan (31 October 2014). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2014/11/01/world/africa/burkina-faso-unrest-blaise-compaore.html">"Burkina Faso's President Resigns, and General Takes Reins"</a> – via NYTimes.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Burkina+Faso%E2%80%99s+President+Resigns%2C+and+General+Takes+Reins&amp;rft.date=2014-10-31&amp;rft.aulast=Taoko&amp;rft.aufirst=Herv%C3%A9&amp;rft.au=Cowell%2C+Alan&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2014%2F11%2F01%2Fworld%2Fafrica%2Fburkina-faso-unrest-blaise-compaore.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-c2006-11"><span class="mw-cite-backlink"><a href="#cite_ref-c2006_11-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.insd.bf/Documents/Publications/INSD/Publications/Resultats_enquetes/Autres%20enq/Rapport_preliminaire_RGPH06.pdf">National 2006 census preliminary results</a></span> </li> 
-         <li id="cite_note-JM-12"><span class="mw-cite-backlink"><a href="#cite_ref-JM_12-0">↑</a></span> <span class="reference-text"><cite id="CITEREFMarchais2006" class="citation book cs1">Marchais, Julien (2006). <a rel="nofollow" class="external text" href="https://books.google.com/?id=6jsBLSzJWYsC"><i>Burkina Faso</i></a> (in French). Petit Futé. pp.&nbsp;91–92. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/2746916010" title="Special:BookSources/2746916010"><bdi>2746916010</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Burkina+Faso&amp;rft.pages=91-92&amp;rft.pub=Petit+Fut%C3%A9&amp;rft.date=2006&amp;rft.isbn=2746916010&amp;rft.aulast=Marchais&amp;rft.aufirst=Julien&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D6jsBLSzJWYsC&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-ox-13"><span class="mw-cite-backlink"><a href="#cite_ref-ox_13-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.oxfam.org.uk/coolplanet/ontheline/explore/journey/burkina/food.htm">"Oxfam's Cool Planet – Food in Burkina Faso"</a>. <a href="/wiki/Oxfam" title="Oxfam">Oxfam</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 May</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Oxfam%27s+Cool+Planet+%E2%80%93+Food+in+Burkina+Faso&amp;rft.pub=Oxfam&amp;rft_id=http%3A%2F%2Fwww.oxfam.org.uk%2Fcoolplanet%2Fontheline%2Fexplore%2Fjourney%2Fburkina%2Ffood.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFAndré2007" class="citation journal cs1">André, Géraldine (31 May 2007). <a rel="nofollow" class="external text" href="https://doi.org/10.4000%2Fetudesafricaines.6960">"École, langues, cultures et développement"</a>. <i>Cahiers d'Études Africaines</i> (in French). <b>47</b> (186): 221–247. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.4000%2Fetudesafricaines.6960">10.4000/etudesafricaines.6960</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0008-0055">0008-0055</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cahiers+d%27%C3%89tudes+Africaines&amp;rft.atitle=%C3%89cole%2C+langues%2C+cultures+et+d%C3%A9veloppement&amp;rft.volume=47&amp;rft.issue=186&amp;rft.pages=221-247&amp;rft.date=2007-05-31&amp;rft_id=info%3Adoi%2F10.4000%2Fetudesafricaines.6960&amp;rft.issn=0008-0055&amp;rft.aulast=Andr%C3%A9&amp;rft.aufirst=G%C3%A9raldine&amp;rft_id=%2F%2Fdoi.org%2F10.4000%252Fetudesafricaines.6960&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-CIAFactbook2019uv-2"><span class="mw-cite-backlink"><a href="#cite_ref-CIAFactbook2019uv_2-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/resources/the-world-factbook/geos/uv.html">"Africa: Burkina Faso The World Factbook – Central Intelligence Agency"</a>. <i>cia.gov</i>. 2019. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190615035718/https://www.cia.gov/library/publications/resources/the-world-factbook/geos/uv.html">Archived</a> from the original on 15 June 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">22 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cia.gov&amp;rft.atitle=Africa%3A+Burkina+Faso+The+World+Factbook+%E2%80%93+Central+Intelligence+Agency&amp;rft.date=2019&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fresources%2Fthe-world-factbook%2Fgeos%2Fuv.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-The_World_Factbook-3"><span class="mw-cite-backlink"><a href="#cite_ref-The_World_Factbook_3-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/uv">"Archived copy" (PDF). Archived from the original (PDF) on 2016-12-21. Retrieved 2016-02-18.CS1 maint: archived copy as title"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy%22+%28PDF%29.+Archived+from+the+original+%28PDF%29+on+2016-12-21.+Retrieved+2016-02-18.CS1+maint%3A+archived+copy+as+title&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fuv&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-imf.org-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf.org_4-0">4.0</a></sup> <sup><a href="#cite_ref-imf.org_4-1">4.1</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=88&amp;pr.y=8&amp;sy=2019&amp;ey=2024&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=748&amp;s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&amp;grp=0&amp;a=">"Report for Selected Countries and Subjects"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+for+Selected+Countries+and+Subjects&amp;rft_id=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2019%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D88%26pr.y%3D8%26sy%3D2019%26ey%3D2024%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D748%26s%3DNGDPD%252CPPPGDP%252CNGDPDPC%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">"Distribution of family income – Gini index"</a>. <i>The World Factbook</i>. CIA<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Distribution+of+family+income+%E2%80%93+Gini+index&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2172.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UNHDR-6"><span class="mw-cite-backlink"><a href="#cite_ref-UNHDR_6-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr2020.pdf"><i>Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene</i></a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 15 December 2020. pp.&nbsp;343–346. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-92-1-126442-5" title="Special:BookSources/978-92-1-126442-5"><bdi>978-92-1-126442-5</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Human+Development+Report+2020+The+Next+Frontier%3A+Human+Development+and+the+Anthropocene&amp;rft.pages=343-346&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2020-12-15&amp;rft.isbn=978-92-1-126442-5&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr2020.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">CFA Franc BCEAO. Codes: XOF / 952 <a rel="nofollow" class="external text" href="http://www.currency-iso.org/dam/downloads/table_a1.xml">ISO 4217 currency names and code elements</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140407090907/http://www.currency-iso.org/dam/downloads/table_a1.xml">Archived</a> 7 April 2014 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. ISO.</span> </li> 
+         <li id="cite_note-POA-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-POA_8-0">8.0</a></sup> <sup><a href="#cite_ref-POA_8-1">8.1</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=dMcBcoEm8-oC"><i>Peoples of Africa, Volume 2</i></a>. Marshall Cavendish. 2001. p.&nbsp;51. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/076147160X" title="Special:BookSources/076147160X"><bdi>076147160X</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Peoples+of+Africa%2C+Volume+2&amp;rft.pages=51&amp;rft.pub=Marshall+Cavendish&amp;rft.date=2001&amp;rft.isbn=076147160X&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DdMcBcoEm8-oC&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation book cs1"><i>Kingfisher Geography Encyclopedia</i>. p.&nbsp;170. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1-85613-582-9" title="Special:BookSources/1-85613-582-9"><bdi>1-85613-582-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kingfisher+Geography+Encyclopedia&amp;rft.pages=170&amp;rft.isbn=1-85613-582-9&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-africa-29831262">"BBC News - Burkina Faso parliament set ablaze"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=BBC+News+-+Burkina+Faso+parliament+set+ablaze&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-africa-29831262&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.smh.com.au/world/burkina-faso-protesters-set-parliament-on-fire-take-over-state-tv-and-march-on-presidency-20141031-11emg3.html">"Burkina Faso protesters set parliament on fire, take over state TV and march on presidency"</a>. <i>The Sydney Morning Herald</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Sydney+Morning+Herald&amp;rft.atitle=Burkina+Faso+protesters+set+parliament+on+fire%2C+take+over+state+TV+and+march+on+presidency&amp;rft_id=http%3A%2F%2Fwww.smh.com.au%2Fworld%2Fburkina-faso-protesters-set-parliament-on-fire-take-over-state-tv-and-march-on-presidency-20141031-11emg3.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFTaokoCowell2014" class="citation web cs1">Taoko, Hervé; Cowell, Alan (31 October 2014). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2014/11/01/world/africa/burkina-faso-unrest-blaise-compaore.html">"Burkina Faso's President Resigns, and General Takes Reins"</a> – via NYTimes.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Burkina+Faso%E2%80%99s+President+Resigns%2C+and+General+Takes+Reins&amp;rft.date=2014-10-31&amp;rft.aulast=Taoko&amp;rft.aufirst=Herv%C3%A9&amp;rft.au=Cowell%2C+Alan&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2014%2F11%2F01%2Fworld%2Fafrica%2Fburkina-faso-unrest-blaise-compaore.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-c2006-13"><span class="mw-cite-backlink"><a href="#cite_ref-c2006_13-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.insd.bf/Documents/Publications/INSD/Publications/Resultats_enquetes/Autres%20enq/Rapport_preliminaire_RGPH06.pdf">National 2006 census preliminary results</a></span> </li> 
+         <li id="cite_note-JM-14"><span class="mw-cite-backlink"><a href="#cite_ref-JM_14-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFMarchais2006" class="citation book cs1">Marchais, Julien (2006). <a rel="nofollow" class="external text" href="https://books.google.com/?id=6jsBLSzJWYsC"><i>Burkina Faso</i></a> (in French). Petit Futé. pp.&nbsp;91–92. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/2746916010" title="Special:BookSources/2746916010"><bdi>2746916010</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Burkina+Faso&amp;rft.pages=91-92&amp;rft.pub=Petit+Fut%C3%A9&amp;rft.date=2006&amp;rft.isbn=2746916010&amp;rft.aulast=Marchais&amp;rft.aufirst=Julien&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D6jsBLSzJWYsC&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
+         <li id="cite_note-ox-15"><span class="mw-cite-backlink"><a href="#cite_ref-ox_15-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.oxfam.org.uk/coolplanet/ontheline/explore/journey/burkina/food.htm">"Oxfam's Cool Planet – Food in Burkina Faso"</a>. <a href="/wiki/Oxfam" title="Oxfam">Oxfam</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 May</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Oxfam%27s+Cool+Planet+%E2%80%93+Food+in+Burkina+Faso&amp;rft.pub=Oxfam&amp;rft_id=http%3A%2F%2Fwww.oxfam.org.uk%2Fcoolplanet%2Fontheline%2Fexplore%2Fjourney%2Fburkina%2Ffood.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABurkina+Faso" class="Z3988"></span></span> </li> 
         </ol>
        </div>
       </div> 
@@ -444,9 +505,9 @@
           <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
@@ -639,43 +700,43 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1298
-Cached time: 20201219005537
+Parsed by mw1351
+Cached time: 20210114203818
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.232 seconds
-Real time usage: 1.389 seconds
-Preprocessor visited node count: 4368/1000000
-Post‐expand include size: 95999/2097152 bytes
-Template argument size: 9343/2097152 bytes
+CPU time usage: 0.984 seconds
+Real time usage: 1.179 seconds
+Preprocessor visited node count: 4418/1000000
+Post‐expand include size: 101359/2097152 bytes
+Template argument size: 10248/2097152 bytes
 Highest expansion depth: 18/40
-Expensive parser function count: 24/500
+Expensive parser function count: 23/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 36898/5000000 bytes
-Lua time usage: 0.741/10.000 seconds
-Lua memory usage: 24196622/52428800 bytes
+Unstrip post‐expand size: 43346/5000000 bytes
+Lua time usage: 0.529/10.000 seconds
+Lua memory usage: 19666698/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1273.554      1 -total
- 37.88%  482.380      1 Template:Infobox_country
- 37.06%  472.013      3 Template:Infobox
- 26.74%  340.600      1 Template:Reflist
- 23.04%  293.489      8 Template:Cite_web
- 17.22%  219.343      1 Template:Authority_control
- 13.15%  167.449      3 Template:ISO_3166_code
- 12.89%  164.213      1 Template:Commonscat-inline
- 12.52%  159.496      2 Template:Sister-inline
- 11.26%  143.339      1 Template:In_lang
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:19175-0!canonical and timestamp 20201219005537 and revision id 7056898. Serialized with JSON.
+100.00% 1026.217      1 -total
+ 45.88%  470.791      1 Template:Infobox_country
+ 43.74%  448.886      3 Template:Infobox
+ 18.56%  190.500      1 Template:Authority_control
+ 17.18%  176.256      1 Template:Reflist
+ 16.24%  166.695      2 Template:Native_phrase
+ 15.37%  157.705      2 Template:Lang
+ 11.25%  115.462      1 Template:Commonscat-inline
+ 10.82%  111.036      2 Template:Sister-inline
+  9.30%   95.486      1 Template:Cite_journal
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:19175-0!canonical and timestamp 20210114203817 and revision id 7266315. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Burkina_Faso&amp;oldid=7056898">https://simple.wikipedia.org/w/index.php?title=Burkina_Faso&amp;oldid=7056898</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Burkina_Faso&amp;oldid=7266315">https://simple.wikipedia.org/w/index.php?title=Burkina_Faso&amp;oldid=7266315</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -691,8 +752,9 @@ Transclusion expansion time report (%,ms,calls,template)
      <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
       Hidden categories: 
       <ul>
-       <li><a href="/wiki/Category:CS1_errors:_URL%E2%80%93wikilink_conflict" title="Category:CS1 errors: URL–wikilink conflict">CS1 errors: URL–wikilink conflict</a></li>
        <li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
@@ -785,9 +847,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -811,9 +873,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Burkina_Faso" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Burkina_Faso&amp;oldid=7056898" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Burkina_Faso&amp;oldid=7266315" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Burkina_Faso&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Burkina_Faso&amp;id=7056898&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Burkina_Faso&amp;id=7266315&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q965" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -928,7 +990,7 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
        <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Purkina_Fasoo" title="Purkina Fasoo – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
        <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B3%81%E0%B2%B0%E0%B3%8D%E0%B2%95%E0%B3%80%E0%B2%A8_%E0%B2%AB%E0%B2%BE%E0%B2%B8%E0%B3%8A" title="ಬುರ್ಕೀನ ಫಾಸೊ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
-       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Burkinaf%C3%A1su" title="Burkinafásu – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
        <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%A3%E1%83%A0%E1%83%99%E1%83%98%E1%83%9C%E1%83%90-%E1%83%A4%E1%83%90%E1%83%A1%E1%83%9D" title="ბურკინა-ფასო – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
        <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/B%C3%B9rkina_Faso" title="Bùrkina Faso – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
        <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
@@ -943,7 +1005,6 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
        <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0_%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина Фасо – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
        <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
-       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A8%DB%8A%D8%B1%DA%A9%DB%8C%D9%86%D8%A7%D9%81%D8%A7%D8%B3%D9%88" title="بۊرکینافاسو – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
        <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
        <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Burkinafaso" title="Burkinafaso – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
        <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Burkina_Faso" title="Burkina Faso – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
@@ -1075,7 +1136,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 5 August 2020, at 05:22.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 13 January 2021, at 23:23.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1093,8 +1154,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.232","walltime":"1.389","ppvisitednodes":{"value":4368,"limit":1000000},"postexpandincludesize":{"value":95999,"limit":2097152},"templateargumentsize":{"value":9343,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":36898,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1273.554      1 -total"," 37.88%  482.380      1 Template:Infobox_country"," 37.06%  472.013      3 Template:Infobox"," 26.74%  340.600      1 Template:Reflist"," 23.04%  293.489      8 Template:Cite_web"," 17.22%  219.343      1 Template:Authority_control"," 13.15%  167.449      3 Template:ISO_3166_code"," 12.89%  164.213      1 Template:Commonscat-inline"," 12.52%  159.496      2 Template:Sister-inline"," 11.26%  143.339      1 Template:In_lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.741","limit":"10.000"},"limitreport-memusage":{"value":24196622,"limit":52428800}},"cachereport":{"origin":"mw1298","timestamp":"20201219005537","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Burkina Faso","url":"https:\/\/simple.wikipedia.org\/wiki\/Burkina_Faso","sameAs":"http:\/\/www.wikidata.org\/entity\/Q965","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q965","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-13T04:56:42Z","dateModified":"2020-08-05T05:22:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/31\/Flag_of_Burkina_Faso.svg","headline":"sovereign state in Africa"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":302,"wgHostname":"mw1326"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.984","walltime":"1.179","ppvisitednodes":{"value":4418,"limit":1000000},"postexpandincludesize":{"value":101359,"limit":2097152},"templateargumentsize":{"value":10248,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":43346,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1026.217      1 -total"," 45.88%  470.791      1 Template:Infobox_country"," 43.74%  448.886      3 Template:Infobox"," 18.56%  190.500      1 Template:Authority_control"," 17.18%  176.256      1 Template:Reflist"," 16.24%  166.695      2 Template:Native_phrase"," 15.37%  157.705      2 Template:Lang"," 11.25%  115.462      1 Template:Commonscat-inline"," 10.82%  111.036      2 Template:Sister-inline","  9.30%   95.486      1 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.529","limit":"10.000"},"limitreport-memusage":{"value":19666698,"limit":52428800}},"cachereport":{"origin":"mw1351","timestamp":"20210114203818","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Burkina Faso","url":"https:\/\/simple.wikipedia.org\/wiki\/Burkina_Faso","sameAs":"http:\/\/www.wikidata.org\/entity\/Q965","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q965","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-13T04:56:42Z","dateModified":"2021-01-13T23:23:00Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/31\/Flag_of_Burkina_Faso.svg","headline":"sovereign state in Africa"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":289,"wgHostname":"mw1323"});});</script> 
  </body>
 </html>

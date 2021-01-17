@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws;
 
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Optional;
 import java.util.logging.Level;
 
 public enum TargetServer implements DataValues, RestAPI {
@@ -15,7 +17,6 @@ public enum TargetServer implements DataValues, RestAPI {
     WHATS_NEW(null, null),
     ;
 
-    private static final TargetServer[] SERVERS = TargetServer.values();
     private static final String WHATS_NEW_RESPONSE;
 
     static {
@@ -65,11 +66,9 @@ public enum TargetServer implements DataValues, RestAPI {
     }
 
     public static TargetServer valueOfBackendID(String backendID) {
-        for(TargetServer server : SERVERS) {
-            final String id = server.getBackendID();
-            if(id != null && id.equalsIgnoreCase(backendID)) {
-                return server;
-            }
+        final Optional<TargetServer> targetServer = Arrays.stream(values()).filter(server -> backendID.equalsIgnoreCase(server.getBackendID())).findFirst();
+        if(targetServer.isPresent()) {
+            return targetServer.get();
         }
         WLLogger.log(Level.WARNING, "TargetServer - failed to find a server with backendID \"" + backendID + "\"!");
         return null;

@@ -1,11 +1,15 @@
 package me.randomhashtags.worldlaws;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
+
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.logging.Level;
 
 public interface RestAPI {
@@ -13,14 +17,40 @@ public interface RestAPI {
         put("Content-Type", "application/json");
     }};
 
-    default void requestJSON(String url, RequestMethod method, CompletionHandler handler) {
-        requestJSON(url, method, CONTENT_HEADERS, handler);
+    default void requestJSONArray(String url, RequestMethod method, CompletionHandler handler) {
+        requestJSONArray(url, method, CONTENT_HEADERS, handler);
     }
-    default void requestJSON(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
-        requestJSON(url, method, headers, null, handler);
+    default void requestJSONArray(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
+        requestJSONArray(url, method, headers, null, handler);
     }
-    default void requestJSON(String url, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
-        request(url, method, headers, query, handler);
+    default void requestJSONArray(String url, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
+        request(url, method, headers, query, new CompletionHandler() {
+            @Override
+            public void handle(Object object) {
+                if(object != null) {
+                    final JSONArray json = new JSONArray(object.toString());
+                    handler.handleJSONArray(json);
+                }
+            }
+        });
+    }
+
+    default void requestJSONObject(String url, RequestMethod method, CompletionHandler handler) {
+        requestJSONObject(url, method, CONTENT_HEADERS, handler);
+    }
+    default void requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
+        requestJSONObject(url, method, headers, null, handler);
+    }
+    default void requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
+        request(url, method, headers, query, new CompletionHandler() {
+            @Override
+            public void handle(Object object) {
+                if(object != null) {
+                    final JSONObject json = new JSONObject(object.toString());
+                    handler.handleJSONObject(json);
+                }
+            }
+        });
     }
 
     default void request(String targetURL, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
@@ -30,23 +60,24 @@ public interface RestAPI {
             int i = 0;
             if(query != null) {
                 target.append("?");
-                for(String s : query.keySet()) {
+                for(Map.Entry<String, String> entry : query.entrySet()) {
+                    final String key = entry.getKey(), value = entry.getValue();
                     if(i != 0) {
                         target.append("&");
                     }
-                    final String value = query.get(s);
-                    target.append(s).append("=").append(value);
+                    target.append(key).append("=").append(value);
                     i++;
                 }
             }
             final String targeturl = target.toString();
             final URL url = new URL(targeturl);
             connection = (HttpURLConnection) url.openConnection();
+            connection.setConnectTimeout(20_000);
             connection.setRequestMethod(method.getName());
             if(headers != null) {
-                for(String s : headers.keySet()) {
-                    final String value = headers.get(s);
-                    connection.setRequestProperty(s, value);
+                for(Map.Entry<String, String> entry : headers.entrySet()) {
+                    final String key = entry.getKey(), value = entry.getValue();
+                    connection.setRequestProperty(key, value);
                 }
             }
             connection.setRequestProperty("Content-Language", "en-US");

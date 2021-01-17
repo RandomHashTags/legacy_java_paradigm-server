@@ -15,7 +15,7 @@ public abstract class WLLogger {
                 @Override
                 public void publish(LogRecord logRecord) {
                     final Date date = new Date(logRecord.getMillis());
-                    final SimpleDateFormat format = new SimpleDateFormat("yyyy.MMM.dd@HH:mm:ss");
+                    final SimpleDateFormat format = new SimpleDateFormat("yyyy.MMM.dd@HH:mm:ss:SSS");
                     final String now = format.format(date), msg = logRecord.getMessage();
                     final String string = "[" + now + "] [" + logRecord.getLevel().getName() + "] " + msg;
                     System.out.println(string);

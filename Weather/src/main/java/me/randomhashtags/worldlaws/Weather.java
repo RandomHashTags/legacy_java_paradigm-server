@@ -26,6 +26,26 @@ public final class Weather implements DataValues {
     }
 
     private void init() {
+        test();
+        //load();
+    }
+    private WeatherController[] getCountries() {
+        return new WeatherController[] {
+                WeatherAU.INSTANCE,
+                WeatherCA.INSTANCE,
+                WeatherUS.INSTANCE,
+        };
+    }
+
+    private void test() {
+        Earthquakes.INSTANCE.getEarthquakeCounts(2020, new CompletionHandler() {
+            @Override
+            public void handle(Object object) {
+                WLLogger.log(Level.INFO, "Weather;test;getEarthquakeCounts(2020)=" + object.toString());
+            }
+        });
+    }
+    private void load() {
         countries = new HashMap<>();
         autoUpdating = new HashSet<>();
         LocalServer.start("Weather", WL_WEATHER_PORT, new CompletionHandler() {
@@ -41,13 +61,6 @@ public final class Weather implements DataValues {
                 });
             }
         });
-    }
-    private WeatherController[] getCountries() {
-        return new WeatherController[] {
-                WeatherAU.INSTANCE,
-                WeatherCA.INSTANCE,
-                WeatherUS.INSTANCE,
-        };
     }
 
     private void getResponse(String target, CompletionHandler handler) {

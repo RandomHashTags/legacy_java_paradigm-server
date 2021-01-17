@@ -52,10 +52,9 @@ public enum NASANeo implements USAEventController {
         final String API_KEY = "***REMOVED***";
         final String date = year + "-" + month + "-" + day;
         final String url = "https://api.nasa.gov/neo/rest/v1/feed?start_date=" + date + "&end_date=" + date + "&detailed=true&api_key=" + API_KEY;
-        requestJSON(url, RequestMethod.GET, new CompletionHandler() {
+        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONObject jsonobject = new JSONObject(object.toString());
+            public void handleJSONObject(JSONObject jsonobject) {
                 final String dateString = year + "-" + month + "-" + (day < 10 ? "0" + day : "" + day);
                 final JSONArray nearEarthObjects = jsonobject.getJSONObject("near_earth_objects").getJSONArray(dateString);
                 final StringBuilder builder = new StringBuilder("[");

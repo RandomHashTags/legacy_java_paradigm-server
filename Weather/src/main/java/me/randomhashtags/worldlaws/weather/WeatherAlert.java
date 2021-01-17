@@ -1,17 +1,16 @@
 package me.randomhashtags.worldlaws.weather;
 
-import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.weather.WeatherAlertTime;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public final class WeatherAlert {
-    private String territory, area, severity, certainty, event, headline, description, instruction;
-    private List<String> areas;
-    private WeatherAlertTime time;
+    private final String territory, severity, certainty, event, headline, description, instruction;
+    private String area;
+    private final List<String> areas;
+    private final WeatherAlertTime time;
 
     public WeatherAlert(String territory, String area, String severity, String certainty, String event, String headline, String description, String instruction, WeatherAlertTime time) {
         this.territory = territory;
@@ -19,7 +18,7 @@ public final class WeatherAlert {
         this.areas = new ArrayList<>(Arrays.asList(area));
         this.severity = severity;
         this.certainty = certainty;
-        this.event = event;
+        this.event = LocalServer.fixEscapeValues(event);
         this.headline = LocalServer.fixEscapeValues(headline);
         this.description = LocalServer.fixEscapeValues(description);
         this.instruction = LocalServer.fixEscapeValues(instruction);

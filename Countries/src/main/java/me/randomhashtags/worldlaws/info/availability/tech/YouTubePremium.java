@@ -3,22 +3,18 @@ package me.randomhashtags.worldlaws.info.availability.tech;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityCategory;
+import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.service.CountryService;
-import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
-import java.util.logging.Level;
 
-public enum YouTubePremium implements CountryService {
+public enum YouTubePremium implements CountryAvailabilityService {
     INSTANCE;
 
-    private HashMap<String, String> availabilities;
+    private HashMap<String, String> countries;
 
     @Override
     public CountryInfo getInfo() {
@@ -26,43 +22,27 @@ public enum YouTubePremium implements CountryService {
     }
 
     @Override
-    public void getValue(String countryBackendID, CompletionHandler handler) {
-        if(availabilities != null) {
-            handler.handle(getValue(countryBackendID));
-        } else {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    handler.handle(getValue(countryBackendID));
-                }
-            });
-        }
+    public CountryAvailabilityCategory getCategory() {
+        return CountryAvailabilityCategory.ENTERTAINMENT;
     }
 
-    private String getValue(String countryBackendID) {
-        if(!availabilities.containsKey(countryBackendID)) {
-            availabilities.put(countryBackendID, new CountryAvailability(getInfo().getTitle(), false, CountryAvailabilityCategory.ENTERTAINMENT).toString());
-        }
-        return availabilities.get(countryBackendID);
+    @Override
+    public HashMap<String, String> getCountries() {
+        return countries;
     }
 
-    private void refresh(CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
-        availabilities = new HashMap<>();
+    @Override
+    public void refresh(CompletionHandler handler) {
+        countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/YouTube_Premium";
-        final Document doc = getDocument(url);
-        if(doc != null) {
-            final Elements lis = doc.select("div.mw-parser-output table.infobox").get(0).select("tbody tr td div.NavFrame ul.NavContent li");
-            final EventSources sources = new EventSources(new EventSource("Wikipedia: YouTube Premium", url));
-            final String title = getInfo().getTitle();
-            final CountryAvailabilityCategory category = CountryAvailabilityCategory.ENTERTAINMENT;
-            for(Element li : lis) {
-                final String country = li.select("a").get(0).text().toLowerCase().replace(" ", "");
-                final CountryAvailability availability = new CountryAvailability(title, true, category);
-                availabilities.put(country, availability.toString());
-            }
-            WLLogger.log(Level.INFO, "YouTubePremium - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
-            handler.handle(null);
+        final Elements lis = getDocumentElements(url, "div.mw-parser-output table.infobox", 0).select("tbody tr td div.NavFrame ul.NavContent li");
+        final EventSource source = new EventSource("Wikipedia: YouTube Premium", url);
+        final EventSources sources = new EventSources(source);
+        final String availability = getAvailability(true);
+        for(Element li : lis) {
+            final String country = li.select("a").get(0).text().toLowerCase().replace(" ", "");
+            countries.put(country, availability);
         }
+        handler.handle(null);
     }
 }

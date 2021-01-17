@@ -1,1026 +1,212 @@
-<!doctype html>
-<html class="client-nojs" lang="en" dir="ltr"> 
- <head> 
-  <meta charset="UTF-8"> 
-  <title>Legal status of ibogaine by country - Wikipedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@n9HgpAICsAAD61-3MAAACE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Legal_status_of_ibogaine_by_country","wgTitle":"Legal status of ibogaine by country","wgCurRevisionId":994792040,"wgRevisionId":994792040,"wgArticleId":62038243,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","CS1 Hungarian-language sources (hu)","CS1 Italian-language sources (it)","CS1 Swedish-language sources (sv)","CS1 German-language sources (de)","CS1 errors: missing periodical","Articles with short description",
-"Short description with empty Wikidata description","Drug control law","Drug policy by country","Entheogens","Law-related lists","Lists by country"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Legal_status_of_ibogaine_by_country","wgRelevantArticleId":62038243,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":
-"interlanguage","wgWikibaseItemId":"Q70530316"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
-"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-});});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
-  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
-  <meta name="ResourceLoaderDynamicStyles" content=""> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
-  <meta name="referrer" content="origin"> 
-  <meta name="referrer" content="origin-when-crossorigin"> 
-  <meta name="referrer" content="origin-when-cross-origin"> 
-  <link rel="preconnect" href="//upload.wikimedia.org"> 
-  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Legal_status_of_ibogaine_by_country"> 
-  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;action=edit"> 
-  <link rel="edit" title="Edit this page" href="/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;action=edit"> 
-  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
-  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
-  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
-  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
-  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
-  <link rel="canonical" href="https://en.wikipedia.org/wiki/Legal_status_of_ibogaine_by_country"> 
-  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
-  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
- </head> 
- <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Legal_status_of_ibogaine_by_country rootpage-Legal_status_of_ibogaine_by_country skin-vector action-view skin-vector-legacy">
-  <div id="mw-page-base" class="noprint"></div> 
-  <div id="mw-head-base" class="noprint"></div> 
-  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
-   <div id="siteNotice" class="mw-body-content">
-    <!-- CentralNotice -->
-   </div> 
-   <div class="mw-indicators mw-body-content"> 
-   </div> 
-   <h1 id="firstHeading" class="firstHeading" lang="en">Legal status of ibogaine by country</h1> 
-   <div id="bodyContent" class="mw-body-content"> 
-    <div id="siteSub" class="noprint">
-     From Wikipedia, the free encyclopedia
-    </div> 
-    <div id="contentSub"></div> 
-    <div id="contentSub2"></div> 
-    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
-    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
-     <div class="mw-parser-output">
-      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
-       Wikimedia list article
-      </div> 
-      <p>This is an overview of the <b>legality of <a href="/wiki/Ibogaine" title="Ibogaine">ibogaine</a> by country</b>. Ibogaine is not included on the UN <a href="/wiki/International_Narcotics_Control_Board" title="International Narcotics Control Board">International Narcotics Control Board</a>'s Green List, or List of Psychoactive Substances under International Control. However, since 1989, it has been on the list of doping substances banned by the <a href="/wiki/International_Olympic_Committee" title="International Olympic Committee">International Olympic Committee</a> and the <a href="/wiki/Union_Cycliste_Internationale" title="Union Cycliste Internationale">International Union of Cyclists</a> because of its stimulant properties.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
-      <style data-mw-deduplicate="TemplateStyles:r886050094">.mw-parser-output .tocnumber{display:none}.mw-parser-output #toc ul,.mw-parser-output .toc ul{line-height:1.5em;list-style:none none;margin:.3em 0 0;padding:0}.mw-parser-output .hlist #toc ul ul,.mw-parser-output .hlist .toc ul ul{margin:0}</style>
-      <style data-mw-deduplicate="TemplateStyles:r986930325">.mw-parser-output .horizontal-toc-align-left{float:right}.mw-parser-output .horizontal-toc-align-left{float:left}.mw-parser-output .horizontal-toc-align-center{margin-left:auto;margin-right:auto;clear:none}.mw-parser-output .horizontal-toc-clear-right{clear:right}.mw-parser-output .horizontal-toc-clear-left{clear:left}.mw-parser-output .horizontal-toc-clear-both{clear:both}.mw-parser-output .horizontal-toc-clear-none{clear:none}</style>
-      <div class="hlist horizontal-toc">
-       <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
-        <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
-        <div class="toctitle" lang="en" dir="ltr">
-         <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
-        </div> 
-        <ul> 
-         <li class="toclevel-1 tocsection-1"><a href="#References"><span class="tocnumber">1</span> <span class="toctext">References</span></a></li> 
-        </ul> 
-       </div> 
-      </div> 
-      <table class="wikitable sortable" style="text-align:left"> 
-       <tbody>
-        <tr> 
-         <th style="width:120px;">Country</th> 
-         <th>Possession</th> 
-         <th>Sale</th> 
-         <th>Transport</th> 
-         <th>Cultivation</th> 
-         <th>Notes </th>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640">&nbsp;</span>Australia </p> </td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td>In 2010, ibogaine was scheduled as a Schedule 4 substance on Australia's poisons list.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It remains a Schedule 4 substance pursuant to the February 2019 Poisons Standard, which means it is a prescription-only medicine.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>Belgium </p> </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Ibogaine, as well as its isomers, are listed in Chapter 2 of the Royal Decree of 1998 on psychotropic substances, which makes it illegal to 'import, export, manufacture, possess, sell or offer for sale, deliver or acquire', except with the express permission of Minister of Public Health.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;</span>Brazil </p> </td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td>On 14 January 2016, Ibogaine was legalized for prescription use in São Paulo, Brazil, with this legalization to extend to the rest of the country in a few months.<sup id="cite_ref-ibogainealliance.org_5-0" class="reference"><a href="#cite_note-ibogainealliance.org-5">[5]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>Canada </p> </td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td>Health Canada added ibogaine to the Prescription Drug List (PDL) in 2017, meaning that the drug can only be obtained legally with a medical prescription.<sup id="cite_ref-hc-sc.gc.ca_6-0" class="reference"><a href="#cite_note-hc-sc.gc.ca-6">[6]</a></sup> In the past, ibogaine has been seized from several providers amid concerns over heart risks.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/35px-Flag_of_Costa_Rica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/46px-Flag_of_Costa_Rica.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span>Costa Rica </p> </td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td>Iboga and its chemical derivative, ibogaine, is not illegal in Costa Rica but the substance is also not regulated.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387">&nbsp;</span>Denmark </p> </td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Ibogaine as well as its salts and simple derivatives are included on List B of Denmark's Executive Order 698 of 1993 on Euphoric Substances, for 'substances used for medical and scientific purposes with substantial controls', meaning it is illegal to possess or distribute it. It may be possible to administer by doctors if they receive special permission from the Ministry of Health.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100">&nbsp;</span>Finland </p> </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Since 2014, ibogaine has been listed in the 'Government regulation of psychoactive consumer market of prohibited substances', in accordance with the Finnish Narcotics Act (373/2008) 3§3.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>France </p> </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>'Tabernanthe iboga, Tabernanthe manii, ibogaine, its isomers, esters, ethers, and salts, whether natural or synthetic, and all preparations containing it, are included on the list of controlled substances of the French Ministry of Health, making ibogaine illegal to possess or distribute. The substance was included in 2007 following one death which was deemed to be connected to the use of iboga.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/31px-Flag_of_Gabon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/40px-Flag_of_Gabon.svg.png 2x" data-file-width="1000" data-file-height="750">&nbsp;</span>Gabon </p> </td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td>Iboga legislation in Gabon falls under the jurisdiction of its Culture Ministry. Approval of the Culture Ministry must be granted for the export of any iboga tree products since the passage of a 1994 cultural protection law.<sup id="cite_ref-portant_sur_la_protection_des_biens_culturels_12-0" class="reference"><a href="#cite_note-portant_sur_la_protection_des_biens_culturels-12">[12]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span>Germany </p> </td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td>Ibogaine is unregulated in Germany, but for medical use it can be regulated by pharmacy rules (AMG). </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>Hungary </p> </td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td>Ibogaine is listed under Section C) New Psychotropic Substances of Government Regulation 66/2012. (IV. 2) on drugs and psychotropic substances.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> This law makes the 'manufacture, import, export, transfer, purchase, distribution, warehousing, storage, maintenance, research, analysis, and preparation' subject to strict licensing restrictions. </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>Ireland </p> </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Ibogaine is not specifically classified under Irish Law. However, since 2010, it may fall under the provisions of the Criminal Justice (Psychoactive Substances) Act 2010.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The law prohibits all psychoactive substances, with certain caveats.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span>Israel </p> </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>2015 - Ibogaine is prohibited for distribution by Emergency declaration on distribution of prohibited substances under the fight against the use of hazardous materials 3834, which places it under the control of The Fight against the Phenomenon of the Use of Dangerous Substances Law until February 25, 2016.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span>Italy </p> </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>In 2016, the Italian Ministry of Health issued an update<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> that added both 'ibogaine' and 'tabernanthe iboga plant' to Presidential Decree No. 309 (9 October 1990).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Both were added to Schedule 1, as defined according to Law 79 of 16 May 2014,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> due to their central nervous system activity and 'hallucinogenic' properties. Possession or distribution may result in penalties including 2–12 months imprisonment.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560">&nbsp;</span>Mexico </p> </td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td>Ibogaine is unregulated in Mexico, therefore, it is a popular spot for ibogaine treatment.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>Netherlands </p> </td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
-         <td>The Netherlands does not prohibit ibogaine, and there are various ibogaine treatment centers available. A Dutch naturopathic practitioner received an 8-year prison sentence in 2019 after being accused of administering ibogaine to a patient, leading to the patient's death. The defendant had been accused of the same crime several years prior, also in connection with the administration of ibogaine.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>New Zealand </p> </td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td>Ibogaine was gazetted in New Zealand in 2009 as a non-approved prescription medicine.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span>Norway </p> </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Ibogaine is illegal in Norway (as are all tryptamine derivatives).<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span>Portugal </p> </td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Decriminalized</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Decriminalized</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Decriminalized</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Decriminalized</td> 
-         <td>In 2001, Portugal decriminalized the possession of all drugs, which includes ibogaine.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>South Africa </p> </td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td>The South African Medicine Control Council published a statement in 2016 regarding a resolution to list ibogaine as a Schedule 6/Poison substance under the Medicines and Related Substances Control Act 101 of 1965.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> The MCC decision effectively means that ibogaine may now be prescribed by a licensed medical professional, and is subject to certain other conditions regarding its prescription, production, import, and export.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000">&nbsp;</span>Sweden </p> </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Ibogaine was classified as a Schedule 1 substance in Sweden, and is now visible on the Drug Administration regulations (LVFS 2011: 10) on lists of drugs, which suggests it has no medical value. As such, it is illegal to possess or distribute.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512">&nbsp;&nbsp;</span>Switzerland </p> </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Ibogaine is classified as a prohibited substance on the Regulation of the EDI on the lists of narcotics, psychotropic substances, precursors, and auxiliary chemicals.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> As such, it is subject to the prohibitions stated in the Federal Law on Narcotic Drugs and Psychotropic Substances, which make it illegal to possess, grow, import, manufacture, or distribute.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>United Kingdom </p> </td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Illegal to possess with intent to supply or possess on custodial premises</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Ibogaine is not identified by name in the UK's Misuse of Drugs Act 1971. However, since 2016, it falls under the provisions of the Psychoactive Substances Act 2016.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> The act makes it a criminal offense to import, export, produce, or supply any substance that 'is capable of producing a psychoactive effect in a person who consumes it.' It also makes it illegal to possess a psychoactive substance in a prison or other custodial institution. To date, there have been no cases of people being prosecuted in relation to possession of ibogaine.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span>United States </p> </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Ibogaine is classified as a <a href="/wiki/Controlled_Substances_Act#Schedule_I_controlled_substances" title="Controlled Substances Act">Schedule I</a>-controlled substance in the United States,<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> and is not approved there for addiction treatment (or any other therapeutic use) because of its hallucinogenic, neurotoxic, and cardiovascular side effects, as well as the scarcity of safety and efficacy data in human subjects.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" data-file-width="945" data-file-height="630">&nbsp;</span>Uruguay </p> </td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
-         <td>Uruguay is one of a few countries that never criminalized the possession of drugs for personal use. Since 1974, the law establishes no quantity limits, leaving it to the judge's discretion to determine whether the intent was personal use.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> </td>
-        </tr>
-       </tbody>
-      </table> 
-      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <div class="reflist" style="list-style-type: decimal;"> 
-       <div class="mw-references-wrap mw-references-columns">
-        <ol class="references"> 
-         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ibogainealliance.org/ibogaine/law/">"International status of ibogaine"</a>. ibogainealliance.org<span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=International+status+of+ibogaine&amp;rft.pub=ibogainealliance.org&amp;rft_id=https%3A%2F%2Fwww.ibogainealliance.org%2Fibogaine%2Flaw%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.legislation.gov.au/Details/F2019L00032/Html/Text#_Toc532805053">"POISONS STANDARD FEBRUARY 2019"</a>. Federal Register of Legislation. 21 December 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=POISONS+STANDARD+FEBRUARY+2019&amp;rft.pub=Federal+Register+of+Legislation&amp;rft.date=2018-12-21&amp;rft_id=https%3A%2F%2Fwww.legislation.gov.au%2FDetails%2FF2019L00032%2FHtml%2FText%23_Toc532805053&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vice.com/en_ca/article/yvw48m/australians-cant-use-this-african-plant-to-quit-heroin">"Australian Heroin Addicts Can't Use Ibogaine to Kick the Habit"</a>. vice.com. 24 February 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Australian+Heroin+Addicts+Can%27t+Use+Ibogaine+to+Kick+the+Habit&amp;rft.pub=vice.com&amp;rft.date=2015-02-24&amp;rft_id=https%3A%2F%2Fwww.vice.com%2Fen_ca%2Farticle%2Fyvw48m%2Faustralians-cant-use-this-african-plant-to-quit-heroin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&amp;la=F&amp;cn=1998012251&amp;table_name=loi">"Arrêté royal réglementant certaines substances psychotropes, et relatif à la réduction des risques et à l'avis thérapeutique"</a> [Royal Decree regulating certain psychotropic substances and relating to risk reduction and therapeutic advice] (in French). ejustice.just.fgov.be. 22 January 1998<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Arr%C3%AAt%C3%A9+royal+r%C3%A9glementant+certaines+substances+psychotropes%2C+et+relatif+%C3%A0+la+r%C3%A9duction+des+risques+et+%C3%A0+l%27avis+th%C3%A9rapeutique&amp;rft.pub=ejustice.just.fgov.be&amp;rft.date=1998-01-22&amp;rft_id=http%3A%2F%2Fwww.ejustice.just.fgov.be%2Fcgi_loi%2Fchange_lg.pl%3Flanguage%3Dfr%26la%3DF%26cn%3D1998012251%26table_name%3Dloi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-ibogainealliance.org-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-ibogainealliance.org_5-0">^</a></b></span> <span class="reference-text">CONSELHO ESTADUAL DE POLÍTICAS SOBRE DROGAS <a rel="nofollow" class="external autonumber" href="https://www.ibogainealliance.org/wp-content/uploads/2016/01/CONSELHO-ESTADUAL-DE-POLI%CC%81TICAS-SOBRE-DROGAS.pdf">[1]</a> Retrieved 14 January 2016</span> </li> 
-         <li id="cite_note-hc-sc.gc.ca-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-hc-sc.gc.ca_6-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFCanada2017" class="citation web cs1">Canada, Government of Canada, Health (12 May 2017). <a rel="nofollow" class="external text" href="http://www.hc-sc.gc.ca/dhp-mps/prodpharma/pdl-ord/pdl-ldo-noa-ad-2017-05-16-eng.php">"Notice - Prescription Drug List (PDL): Multiple additions"</a>. <i>www.hc-sc.gc.ca</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.hc-sc.gc.ca&amp;rft.atitle=Notice+-+Prescription+Drug+List+%28PDL%29%3A+Multiple+additions&amp;rft.date=2017-05-12&amp;rft.aulast=Canada&amp;rft.aufirst=Government+of+Canada%2C+Health&amp;rft_id=http%3A%2F%2Fwww.hc-sc.gc.ca%2Fdhp-mps%2Fprodpharma%2Fpdl-ord%2Fpdl-ldo-noa-ad-2017-05-16-eng.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2015/54378a-eng.php">"Unauthorized natural health product "Remogen" containing ibogaine and the risk of abnormal heart rhythms"</a>. healthycanadians.gc.ca. 27 July 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unauthorized+natural+health+product+%22Remogen%22+containing+ibogaine+and+the+risk+of+abnormal+heart+rhythms&amp;rft.pub=healthycanadians.gc.ca&amp;rft.date=2015-07-27&amp;rft_id=http%3A%2F%2Fhealthycanadians.gc.ca%2Frecall-alert-rappel-avis%2Fhc-sc%2F2015%2F54378a-eng.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ticotimes.net/2015/03/19/iboga-clinic-attracts-kardashian-celebrity-scrutiny-from-costa-rican-officials">"Iboga clinic attracts "Kardashian" celebrity, scrutiny from Costa Rica officials"</a>. ticotimes.net. 19 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">11 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Iboga+clinic+attracts+%22Kardashian%22+celebrity%2C+scrutiny+from+Costa+Rica+officials&amp;rft.pub=ticotimes.net&amp;rft.date=2015-03-19&amp;rft_id=https%3A%2F%2Fticotimes.net%2F2015%2F03%2F19%2Fiboga-clinic-attracts-kardashian-celebrity-scrutiny-from-costa-rican-officials&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://laegemiddelstyrelsen.dk/en/licensing/company-authorisations-and-registrations/euphoriant-substances/lists-of-substances/">"List of euphoriant substances subject to control in Denmark"</a>. laegemiddelstyrelsen.dk. 14 June 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=List+of+euphoriant+substances+subject+to+control+in+Denmark&amp;rft.pub=laegemiddelstyrelsen.dk&amp;rft.date=2018-06-14&amp;rft_id=https%3A%2F%2Flaegemiddelstyrelsen.dk%2Fen%2Flicensing%2Fcompany-authorisations-and-registrations%2Feuphoriant-substances%2Flists-of-substances%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.finlex.fi/en/laki/kaannokset/2008/en20080373.pdf">"Narcotics Act"</a> <span class="cs1-format">(PDF)</span>. finlex.fi. 30 May 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Narcotics+Act&amp;rft.pub=finlex.fi&amp;rft.date=2008-05-30&amp;rft_id=http%3A%2F%2Fwww.finlex.fi%2Fen%2Flaki%2Fkaannokset%2F2008%2Fen20080373.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nouvelobs.com/rue89/rue89-nos-vies-connectees/20070330.RUE0033/en-france-l-iboga-est-desormais-une-drogue-illicite.html">"En France, l'iboga est désormais une drogue illicite"</a> [In France, iboga is now an illegal drug] (in French). nouvelobs.com. 30 March 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=En+France%2C+l%27iboga+est+d%C3%A9sormais+une+drogue+illicite&amp;rft.pub=nouvelobs.com&amp;rft.date=2007-03-30&amp;rft_id=https%3A%2F%2Fwww.nouvelobs.com%2Frue89%2Frue89-nos-vies-connectees%2F20070330.RUE0033%2Fen-france-l-iboga-est-desormais-une-drogue-illicite.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-portant_sur_la_protection_des_biens_culturels-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-portant_sur_la_protection_des_biens_culturels_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.african-archaeology.net/heritage_laws/gabon_l23121995.html">"Loi n°2/94 du 23 décembre 1994 portant sur la protection des biens culturels"</a> [Law No. 2/94 of 23 December 1994 on the protection of cultural property]. <i>African Archaeology</i> (in French). 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=African+Archaeology&amp;rft.atitle=Loi+n%C2%B02%2F94+du+23+d%C3%A9cembre+1994+portant+sur+la+protection+des+biens+culturels&amp;rft.date=2008&amp;rft_id=http%3A%2F%2Fwww.african-archaeology.net%2Fheritage_laws%2Fgabon_l23121995.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.daath.hu/incoming/66_2012_korm.rend.pdf">"A Kormány 66/2012. (IV. 2.) Korm. rendelete a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhetõ tevékenységekrõl, valamint ezen anyagok jegyzékre vételérõl és jegyzékeinek módosításáról"</a> [Government Decree 66/2012. (IV. 2.) Drugs and psychotropic substances as well as new psychoactive substances, activities, and the listing and amendment of such substances] <span class="cs1-format">(PDF)</span> (in Hungarian). daath.hu<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Korm%C3%A1ny+66%2F2012.+%28IV.+2.%29+Korm.+rendelete+a+k%C3%A1b%C3%ADt%C3%B3szerekkel+%C3%A9s+pszichotr%C3%B3p+anyagokkal%2C+valamint+az+%C3%BAj+pszichoakt%C3%ADv+anyagokkal+v%C3%A9gezhet%C3%B5+tev%C3%A9kenys%C3%A9gekr%C3%B5l%2C+valamint+ezen+anyagok+jegyz%C3%A9kre+v%C3%A9tel%C3%A9r%C3%B5l+%C3%A9s+jegyz%C3%A9keinek+m%C3%B3dos%C3%ADt%C3%A1s%C3%A1r%C3%B3l&amp;rft.pub=daath.hu&amp;rft_id=http%3A%2F%2Fwww.daath.hu%2Fincoming%2F66_2012_korm.rend.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.irishstatutebook.ie/eli/2010/act/22/enacted/en/pdf">"CRIMINAL JUSTICE (PSYCHOACTIVE SUBSTANCES) ACT 2010"</a>. irishstatutebook.ie. 22 November 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CRIMINAL+JUSTICE+%28PSYCHOACTIVE+SUBSTANCES%29+ACT+2010&amp;rft.pub=irishstatutebook.ie&amp;rft.date=2010-11-22&amp;rft_id=http%3A%2F%2Fwww.irishstatutebook.ie%2Feli%2F2010%2Fact%2F22%2Fenacted%2Fen%2Fpdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ibogainealliance.org/ibogaine/law/">"Ibogaine Legal Status"</a>. ibogainealliance.org<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ibogaine+Legal+Status&amp;rft.pub=ibogainealliance.org&amp;rft_id=https%3A%2F%2Fwww.ibogainealliance.org%2Fibogaine%2Flaw%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.health.gov.il/LegislationLibrary/Briut52_EN.pdf">"THE FIGHT AGAINST THE PHENOMENON OF THE USE OF DANGEROUS SUBSTANCES LAW, 5773-2013"</a> <span class="cs1-format">(PDF)</span>. health.gov.il<span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=THE+FIGHT+AGAINST+THE+PHENOMENON+OF+THE+USE+OF+DANGEROUS+SUBSTANCES+LAW%2C+5773-2013&amp;rft.pub=health.gov.il&amp;rft_id=https%3A%2F%2Fwww.health.gov.il%2FLegislationLibrary%2FBriut52_EN.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gazzettaufficiale.it/eli/id/2016/08/11/16A05919/sg">"DECRETO 1 agosto 2016"</a> [DECREE 1 August 2016] (in Italian). gazzettaufficiale.it. 11 August 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DECRETO+1+agosto+2016&amp;rft.pub=gazzettaufficiale.it&amp;rft.date=2016-08-11&amp;rft_id=https%3A%2F%2Fwww.gazzettaufficiale.it%2Feli%2Fid%2F2016%2F08%2F11%2F16A05919%2Fsg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.medicoeleggi.com/argomenti00/italia2006/19067.htm">"DECRETO DEL PRESIDENTE DELLA REPUBBLICA N. 309, 9 OTTOBRE 1990"</a> [DECREE OF THE PRESIDENT OF THE REPUBLIC N. 309, 9 OCTOBER 1990] (in Italian). medicoeleggi.com. 16 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DECRETO+DEL+PRESIDENTE+DELLA+REPUBBLICA+N.+309%2C+9+OTTOBRE+1990&amp;rft.pub=medicoeleggi.com&amp;rft.date=2014-05-16&amp;rft_id=https%3A%2F%2Fwww.medicoeleggi.com%2Fargomenti00%2Fitalia2006%2F19067.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gazzettaufficiale.it/eli/id/2014/3/21/14G00047/sg">"DECRETO-LEGGE 20 marzo 2014, n. 36"</a> [DECREE-LAW 20 March 2014, n. 36] (in Italian). gazzettaufficiale.it. 21 March 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DECRETO-LEGGE+20+marzo+2014%2C+n.+36&amp;rft.pub=gazzettaufficiale.it&amp;rft.date=2014-03-21&amp;rft_id=https%3A%2F%2Fwww.gazzettaufficiale.it%2Feli%2Fid%2F2014%2F3%2F21%2F14G00047%2Fsg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.emcdda.europa.eu/countries/drug-reports/2019/italy_en#laws">"Italy Country Drug Report 2019"</a>. emcdda.europa.eu<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Italy+Country+Drug+Report+2019&amp;rft.pub=emcdda.europa.eu&amp;rft_id=http%3A%2F%2Fwww.emcdda.europa.eu%2Fcountries%2Fdrug-reports%2F2019%2Fitaly_en%23laws&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-us-canada-43420999">"Americans going abroad for illegal heroin treatment"</a>. bbc.com. 11 April 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">11 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Americans+going+abroad+for+illegal+heroin+treatment&amp;rft.pub=bbc.com&amp;rft.date=2018-04-11&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-us-canada-43420999&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.wbur.org/commonhealth/2018/09/10/ibogaine-psychedelic-opioid-misuse-therapy">"Ibogaine: One Man's Journey To Mexico For Psychedelic Addiction Treatment"</a>. wbur.org. 10 September 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">11 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ibogaine%3A+One+Man%27s+Journey+To+Mexico+For+Psychedelic+Addiction+Treatment&amp;rft.pub=wbur.org&amp;rft.date=2018-09-10&amp;rft_id=https%3A%2F%2Fwww.wbur.org%2Fcommonhealth%2F2018%2F09%2F10%2Fibogaine-psychedelic-opioid-misuse-therapy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://psypressuk.com/2012/08/29/dutch-iboga-therapist-in-police-custody/">"Dutch Iboga Therapist in Police Custody"</a>. psypressuk.com. 29 August 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dutch+Iboga+Therapist+in+Police+Custody&amp;rft.pub=psypressuk.com&amp;rft.date=2012-08-29&amp;rft_id=http%3A%2F%2Fpsypressuk.com%2F2012%2F08%2F29%2Fdutch-iboga-therapist-in-police-custody%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://nltimes.nl/2019/04/11/dutch-natural-healer-gets-8-years-death-swedish-woman">"Dutch natural healer gets 8 years for death of Swedish woman"</a>. nltimes.nl. 11 April 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dutch+natural+healer+gets+8+years+for+death+of+Swedish+woman&amp;rft.pub=nltimes.nl&amp;rft.date=2019-04-11&amp;rft_id=https%3A%2F%2Fnltimes.nl%2F2019%2F04%2F11%2Fdutch-natural-healer-gets-8-years-death-swedish-woman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.medsafe.govt.nz/profs/class/Minutes/2006-2010/mccMin03Nov2009.htm">"Minutes of the 42nd meeting of the Medicines Classification Committee - 3 November 2009"</a>. medsafe.govt.nz. 23 May 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Minutes+of+the+42nd+meeting+of+the+Medicines+Classification+Committee+-+3+November+2009&amp;rft.pub=medsafe.govt.nz&amp;rft.date=2013-05-23&amp;rft_id=https%3A%2F%2Fwww.medsafe.govt.nz%2Fprofs%2Fclass%2FMinutes%2F2006-2010%2FmccMin03Nov2009.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://maps.org/research-archive/ibogaine/CuttingEdgeNoller_2012.pdf">"Ibogaine Treatment in Aotearoa / New Zealand: Developing a unique model of practice"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ibogaine+Treatment+in+Aotearoa+%2F+New+Zealand%3A+Developing+a+unique+model+of+practice&amp;rft_id=https%3A%2F%2Fmaps.org%2Fresearch-archive%2Fibogaine%2FCuttingEdgeNoller_2012.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://lovdata.no/dokument/SF/forskrift/2013-02-14-199">"Forskrift om narkotika (narkotikaforskriften)"</a>. <i>lovdata.no</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=lovdata.no&amp;rft.atitle=Forskrift+om+narkotika+%28narkotikaforskriften%29&amp;rft_id=http%3A%2F%2Flovdata.no%2Fdokument%2FSF%2Fforskrift%2F2013-02-14-199&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.emcdda.europa.eu/countries/drug-reports/2019/norway_en">"Norway Country Drug Report 2019"</a>. emcdda.europa.eu<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Norway+Country+Drug+Report+2019&amp;rft.pub=emcdda.europa.eu&amp;rft_id=http%3A%2F%2Fwww.emcdda.europa.eu%2Fcountries%2Fdrug-reports%2F2019%2Fnorway_en&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://time.com/longform/portugal-drug-use-decriminalization/">"Want to Win the War on Drugs? Portugal Might Have the Answer"</a>. time.com. 1 August 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Want+to+Win+the+War+on+Drugs%3F+Portugal+Might+Have+the+Answer&amp;rft.pub=time.com&amp;rft.date=2018-08-01&amp;rft_id=https%3A%2F%2Ftime.com%2Flongform%2Fportugal-drug-use-decriminalization%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.sahpra.org.za/documents/344ef35c9.68_Scheduling_Ibogaine_Nov15_v1.pdf">"Scheduling of Ibogaine"</a> <span class="cs1-format">(PDF)</span>. Medicines Control Council. 1 February 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Scheduling+of+Ibogaine&amp;rft.pub=Medicines+Control+Council&amp;rft.date=2016-02-01&amp;rft_id=https%3A%2F%2Fwww.sahpra.org.za%2Fdocuments%2F344ef35c9.68_Scheduling_Ibogaine_Nov15_v1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nda.agric.za/doadev/sidemenu/fisheries/03_areasofwork/Aquaculture/AquaPolGuidLeg/Legislation/MedicinesRelatedSubstancesControlAct101of1965.pdf">"MEDICINES AND RELATED SUBSTANCES CONTROL ACT 101 OF 1965"</a> <span class="cs1-format">(PDF)</span>. Medicines Control Council. 19 June 1965<span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MEDICINES+AND+RELATED+SUBSTANCES+CONTROL+ACT+101+OF+1965&amp;rft.pub=Medicines+Control+Council&amp;rft.date=1965-06-19&amp;rft_id=https%3A%2F%2Fwww.nda.agric.za%2Fdoadev%2Fsidemenu%2Ffisheries%2F03_areasofwork%2FAquaculture%2FAquaPolGuidLeg%2FLegislation%2FMedicinesRelatedSubstancesControlAct101of1965.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://lakemedelsverket.se/upload/lvfs/LVFS_2011-10.pdf">"Läkemedelsverkets författningssamling"</a> [The Swedish Medical Agency's constitutional collection] <span class="cs1-format">(PDF)</span> (in Swedish). lakemedelsverket.se. 21 September 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=L%C3%A4kemedelsverkets+f%C3%B6rfattningssamling&amp;rft.pub=lakemedelsverket.se&amp;rft.date=2011-09-21&amp;rft_id=https%3A%2F%2Flakemedelsverket.se%2Fupload%2Flvfs%2FLVFS_2011-10.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.admin.ch/opc/de/official-compilation/2011/2595.pdf">"Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien"</a> [Regulation of the FDHA on the directories of narcotics, psychotropic substances, precursors, and auxiliary chemicals] <span class="cs1-format">(PDF)</span> (in German). admin.ch. 30 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Verordnung+des+EDI+%C3%BCber+die+Verzeichnisse+der+Bet%C3%A4ubungsmittel%2C+psychotropen+Stoffe%2C+Vorl%C3%A4uferstoffe+und+Hilfschemikalien&amp;rft.pub=admin.ch&amp;rft.date=2011-05-30&amp;rft_id=https%3A%2F%2Fwww.admin.ch%2Fopc%2Fde%2Fofficial-compilation%2F2011%2F2595.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.admin.ch/opc/de/classified-compilation/19981989/index.html">"Bundesgesetz über die Betäubungsmittel und die psychotropen Stoffe"</a> [Federal Act on Narcotics and Psychotropic Substances] (in German). admin.ch. 1 January 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bundesgesetz+%C3%BCber+die+Bet%C3%A4ubungsmittel+und+die+psychotropen+Stoffe&amp;rft.pub=admin.ch&amp;rft.date=2018-01-01&amp;rft_id=https%3A%2F%2Fwww.admin.ch%2Fopc%2Fde%2Fclassified-compilation%2F19981989%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.legislation.gov.uk/ukpga/2016/2/contents/enacted/data.htm">"Psychoactive Substances Act 2016"</a>. legislation.gov.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Psychoactive+Substances+Act+2016&amp;rft.pub=legislation.gov.uk&amp;rft_id=http%3A%2F%2Fwww.legislation.gov.uk%2Fukpga%2F2016%2F2%2Fcontents%2Fenacted%2Fdata.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://thethirdwave.co/ibogaine-legality/">"Learn about the legal status of ibogaine in your country"</a>. thethirdwave.co. 13 March 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Learn+about+the+legal+status+of+ibogaine+in+your+country&amp;rft.pub=thethirdwave.co&amp;rft.date=2017-03-13&amp;rft_id=https%3A%2F%2Fthethirdwave.co%2Fibogaine-legality%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation journal cs1"><a rel="nofollow" class="external text" href="https://www.deadiversion.usdoj.gov/schedules/orangebook/orangebook.pdf">"Scheduling Actions Controlled Substances Regulated Chemicals"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">23 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Scheduling+Actions+Controlled+Substances+Regulated+Chemicals&amp;rft_id=http%3A%2F%2Fwww.deadiversion.usdoj.gov%2Fschedules%2Forangebook%2Forangebook.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Ibogaine. <a rel="nofollow" class="external text" href="http://www.drugwarfacts.org/cms/Ibogaine#sthash.sKX0AVkG.dpbs">Basic data - drugwarfacts.org</a> Retrieved 17 June 2015</span> </li> 
-         <li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.villagevoice.com/2005/12/13/busted-for-iboga/">"Busted for Iboga"</a>. villagevoice.com. 13 December 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">8 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Busted+for+Iboga&amp;rft.pub=villagevoice.com&amp;rft.date=2005-12-13&amp;rft_id=https%3A%2F%2Fwww.villagevoice.com%2F2005%2F12%2F13%2Fbusted-for-iboga%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.tni.org/en/publication/about-drug-law-reform-in-uruguay">"About drug law reform in Uruguay"</a>. tni.org. 29 June 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+drug+law+reform+in+Uruguay&amp;rft.pub=tni.org&amp;rft.date=2015-06-29&amp;rft_id=https%3A%2F%2Fwww.tni.org%2Fen%2Fpublication%2Fabout-drug-law-reform-in-uruguay&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+ibogaine+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-        </ol>
-       </div>
-      </div> 
-      <div role="navigation" class="navbox" aria-labelledby="Drug_policy_by_country" style="padding:3px">
-       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
-        <tbody>
-         <tr>
-          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
-           <div class="navbar plainlinks hlist navbar-mini">
-            <ul>
-             <li class="nv-view"><a href="/wiki/Template:Drug_policy_nav" title="Template:Drug policy nav"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Drug_policy_nav" title="Template talk:Drug policy nav"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Drug_policy_nav&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
-            </ul>
-           </div>
-           <div id="Drug_policy_by_country" style="font-size:114%;margin:0 4em">
-            <a href="/wiki/Drug_policy" title="Drug policy">Drug policy</a> by country
-           </div></th>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Asia</th>
-          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Drug_policy_of_India" title="Drug policy of India">India</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Europe</th>
-          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Drug_policy_of_Germany" title="Drug policy of Germany">Germany</a></li> 
-             <li><a href="/wiki/Drug_policy_of_the_Netherlands" title="Drug policy of the Netherlands">Netherlands</a></li> 
-             <li><a href="/wiki/Drug_policy_of_Portugal" title="Drug policy of Portugal">Portugal</a></li> 
-             <li><a href="/wiki/Drug_policy_of_Romania" title="Drug policy of Romania">Romania</a></li> 
-             <li><a href="/wiki/Drug_policy_of_Slovakia" title="Drug policy of Slovakia">Slovakia</a></li> 
-             <li><a href="/wiki/Drug_policy_of_the_Soviet_Union" title="Drug policy of the Soviet Union">Soviet Union</a></li> 
-             <li><a href="/wiki/Drug_policy_of_Sweden" title="Drug policy of Sweden">Sweden</a></li> 
-             <li><a href="/wiki/Drug_policy_of_the_United_Kingdom" title="Drug policy of the United Kingdom">United Kingdom</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">North America</th>
-          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Drug_policy_of_Canada" title="Drug policy of Canada">Canada</a></li> 
-             <li><a href="/wiki/Federal_drug_policy_of_the_United_States" title="Federal drug policy of the United States">United States</a> (<a href="/wiki/Legality_of_cannabis_by_U.S._jurisdiction" title="Legality of cannabis by U.S. jurisdiction">Cannabis</a>, <a href="/wiki/Psilocybin_decriminalization_in_the_United_States" title="Psilocybin decriminalization in the United States">Psilocybin</a>, <a href="/wiki/Prohibition_in_the_United_States" title="Prohibition in the United States">Alcohol</a>)</li> 
-             <li><a href="/w/index.php?title=Drug_policy_of_Mexico&amp;action=edit&amp;redlink=1" class="new" title="Drug policy of Mexico (page does not exist)">Mexico</a> (<a href="/wiki/Cannabis_in_Mexico" title="Cannabis in Mexico">Cannabis</a>)</li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">International</th>
-          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Drug_and_precursor_laws_by_country_or_territory" title="Drug and precursor laws by country or territory">Drug and precursor laws by country or territory</a></li> 
-             <li><a href="/wiki/Alcohol_law" title="Alcohol law">Alcohol</a> (<a href="/wiki/List_of_countries_by_alcohol_consumption_per_capita" title="List of countries by alcohol consumption per capita">consumption</a>, <a href="/wiki/Moonshine_by_country" title="Moonshine by country">Moonshine</a>)</li> 
-             <li><a href="/wiki/Anabolic_steroid#Legal_status" title="Anabolic steroid">Anabolic steroid</a></li> 
-             <li><a href="/wiki/Absinthe#Regulations" title="Absinthe">Absinthe</a></li> 
-             <li><a href="/wiki/Legal_status_of_ayahuasca_by_country" title="Legal status of ayahuasca by country">ayahuasca</a></li> 
-             <li><a href="/wiki/Benzodiazepine#Legal_status" title="Benzodiazepine">Benzodiazepine</a></li> 
-             <li><a href="/wiki/Caffeine#Regulations" title="Caffeine">Caffeine</a></li> 
-             <li><a href="/wiki/Legal_status_of_cocaine" title="Legal status of cocaine">cocaine</a></li> 
-             <li><a href="/wiki/N,N-Dimethyltryptamine#Legal_status" title="N,N-Dimethyltryptamine">DMT</a></li> 
-             <li><a class="mw-selflink selflink">ibogaine</a></li> 
-             <li><a href="/wiki/Kava#Regulation" title="Kava">kava</a></li> 
-             <li><a href="/wiki/Khat#Regulation" title="Khat">khat</a></li> 
-             <li><a href="/wiki/Lysergic_acid_diethylamide#Legal_status" title="Lysergic acid diethylamide">LSD</a></li> 
-             <li><a href="/wiki/MDMA#Society_and_culture" title="MDMA">MDMA</a></li> 
-             <li><a href="/wiki/Mephedrone#Legal_status" title="Mephedrone">Mephedrone</a></li> 
-             <li><a href="/wiki/Methylenedioxypyrovalerone#Legality" title="Methylenedioxypyrovalerone">MPDV</a></li> 
-             <li><a href="/wiki/Methylone#Legal_status" title="Methylone">Methylone</a></li> 
-             <li><a href="/wiki/Legal_status_of_methamphetamine" title="Legal status of methamphetamine">methamphetamine</a></li> 
-             <li><a href="/wiki/Opium#History" title="Opium">opium</a></li> 
-             <li><a href="/wiki/Legal_status_of_psilocybin_mushrooms" title="Legal status of psilocybin mushrooms">psilocybin</a></li> 
-             <li><a href="/wiki/Legal_status_of_psychoactive_Amanita_mushrooms" title="Legal status of psychoactive Amanita mushrooms">psychoactive Amanita</a></li> 
-             <li><a href="/wiki/Legal_status_of_psychoactive_cactus_by_country" title="Legal status of psychoactive cactus by country">psychoactive cactus</a></li> 
-             <li><a href="/wiki/Legal_status_of_Salvia_divinorum" title="Legal status of Salvia divinorum">Salvia divinorum</a></li> 
-             <li><a href="/wiki/Legality_of_cannabis" title="Legality of cannabis">cannabis</a></li> 
-             <li><a href="/wiki/List_of_smoking_bans" title="List of smoking bans">Tobacco</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-        </tbody>
-       </table>
-      </div> 
-      <div role="navigation" class="navbox" aria-labelledby="Lists_of_countries_by_laws_and_law_enforcement_rankings" style="padding:3px">
-       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
-        <tbody>
-         <tr>
-          <th scope="col" class="navbox-title" colspan="2">
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
-           <div class="navbar plainlinks hlist navbar-mini">
-            <ul>
-             <li class="nv-view"><a href="/wiki/Template:Law_country_lists" title="Template:Law country lists"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Law_country_lists" title="Template talk:Law country lists"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Law_country_lists&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
-            </ul>
-           </div>
-           <div id="Lists_of_countries_by_laws_and_law_enforcement_rankings" style="font-size:114%;margin:0 4em">
-            <a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">Lists of countries</a> by <a href="/wiki/Law" title="Law">laws</a> and <a href="/wiki/Law_enforcement" title="Law enforcement">law enforcement</a> <a href="/wiki/List_of_international_rankings" title="List of international rankings">rankings</a>
-           </div></th>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Age of</th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Age_of_consent" title="Age of consent">Consent</a></li> 
-             <li><a href="/wiki/Age_of_candidacy" title="Age of candidacy">Legal candidacy for political office</a></li> 
-             <li><a href="/wiki/Age_of_criminal_responsibility" title="Age of criminal responsibility">Criminal responsibility</a></li> 
-             <li><a href="/wiki/Legal_drinking_age" title="Legal drinking age">Legal drinking</a></li> 
-             <li><a href="/wiki/List_of_minimum_driving_ages" title="List of minimum driving ages">Legal driving</a></li> 
-             <li><a href="/wiki/Age_of_majority" title="Age of majority">Majority</a></li> 
-             <li><a href="/wiki/Marriageable_age" title="Marriageable age">Legal marriage</a></li> 
-             <li><a href="/wiki/Retirement_age" title="Retirement age">Retirement age</a> 
-              <ul>
-               <li><a href="/wiki/Mandatory_retirement" title="Mandatory retirement">Mandatory retirement</a></li>
-              </ul></li> 
-             <li><a href="/wiki/School-leaving_age" title="School-leaving age">School-leaving age</a></li> 
-             <li><a href="/wiki/Smoking_age" title="Smoking age">Legal smoking</a></li> 
-             <li><a href="/wiki/Voting_age" title="Voting age">Voting</a> 
-              <ul>
-               <li><a href="/wiki/Suffrage" title="Suffrage">Suffrage</a></li> 
-               <li><a href="/wiki/Youth_suffrage" title="Youth suffrage">Youth suffrage</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Legal_working_age" title="Legal working age">Working age</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Drugs</th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Drug_and_precursor_laws_by_country_or_territory" title="Drug and precursor laws by country or territory">Drug and precursor laws by country or territory</a></li> 
-             <li>Psychedelics 
-              <ul>
-               <li><a href="/wiki/Amanita#Psychoactive_species" title="Amanita">Amanita mushroom</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_psychoactive_Amanita_mushrooms" title="Legal status of psychoactive Amanita mushrooms">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Ayahuasca" title="Ayahuasca">Ayahuasca</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_ayahuasca_by_country" title="Legal status of ayahuasca by country">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Cannabis_(drug)" title="Cannabis (drug)">Cannabis</a> 
-                <ul>
-                 <li><a href="/wiki/Legality_of_cannabis" title="Legality of cannabis">Legality</a></li> 
-                 <li><a href="/wiki/Annual_cannabis_use_by_country" title="Annual cannabis use by country">annual use</a></li> 
-                 <li><a href="/wiki/Adult_lifetime_cannabis_use_by_country" title="Adult lifetime cannabis use by country">lifetime use</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Ibogaine" title="Ibogaine">Ibogaine</a> 
-                <ul>
-                 <li><a class="mw-selflink selflink">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Lysergic_acid_diethylamide" title="Lysergic acid diethylamide">LSD</a> 
-                <ul>
-                 <li><a href="/wiki/Lysergic_acid_diethylamide#Legal_status" title="Lysergic acid diethylamide">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Psilocybin_mushroom" title="Psilocybin mushroom">Psilocybin mushroom</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_psilocybin_mushrooms" title="Legal status of psilocybin mushrooms">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Salvia_divinorum" title="Salvia divinorum">Salvia divinorum</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_Salvia_divinorum" title="Legal status of Salvia divinorum">Legality</a></li>
-                </ul></li>
-              </ul></li>
-            </ul> 
-            <ul>
-             <li>Other 
-              <ul>
-               <li><a href="/wiki/Alcoholic_drink" title="Alcoholic drink">Alcohol</a> 
-                <ul>
-                 <li><a href="/wiki/List_of_countries_by_alcohol_consumption_per_capita" title="List of countries by alcohol consumption per capita">Alcohol consumption</a></li> 
-                 <li><a href="/wiki/Alcohol_law" title="Alcohol law">Alcohol law</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Bath_salts_(drug)" title="Bath salts (drug)">Bath salts</a> 
-                <ul>
-                 <li><a href="/wiki/Mephedrone#Legal_status" title="Mephedrone">Legal status of Mephedrone</a></li> 
-                 <li><a href="/wiki/Methylenedioxypyrovalerone#Legality" title="Methylenedioxypyrovalerone">Legal status of MPDV</a></li> 
-                 <li><a href="/wiki/Methylone#Legal_status" title="Methylone">Legal status of Methylone</a></li>
-                </ul></li> 
-               <li><a href="/wiki/List_of_countries_by_prevalence_of_cocaine_use" title="List of countries by prevalence of cocaine use">Cocaine use</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_cocaine" title="Legal status of cocaine">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Methamphetamine" title="Methamphetamine">Methamphetamine</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_methamphetamine" title="Legal status of methamphetamine">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/List_of_countries_by_prevalence_of_opiates_use" title="List of countries by prevalence of opiates use">Opiate use</a></li>
-              </ul></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Death</th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Legality_of_euthanasia" title="Legality of euthanasia">Legality of euthanasia</a></li> 
-             <li><a href="/wiki/List_of_countries_by_intentional_homicide_rate" title="List of countries by intentional homicide rate">Homicide</a> 
-              <ul>
-               <li><a href="/wiki/List_of_countries_by_intentional_homicide_rate_by_decade" title="List of countries by intentional homicide rate by decade">by decade</a></li>
-              </ul></li> 
-             <li><a href="/wiki/List_of_killings_by_law_enforcement_officers_by_country" title="List of killings by law enforcement officers by country">Law enforcement killings</a></li> 
-             <li><a href="/wiki/Suicide_legislation" title="Suicide legislation">Legality of suicide</a> 
-              <ul>
-               <li><a href="/wiki/Assisted_suicide" title="Assisted suicide">Legality of assisted suicide</a></li>
-              </ul></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Overview_of_gun_laws_by_nation" title="Overview of gun laws by nation">Guns</a></th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/List_of_countries_by_firearm-related_death_rate" title="List of countries by firearm-related death rate">Deaths</a></li> 
-             <li><a href="/wiki/Gun_ownership" title="Gun ownership">Ownership</a></li> 
-             <li><a href="/wiki/Overview_of_gun_laws_by_nation" title="Overview of gun laws by nation">Laws</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Punishment</th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Corporal_punishment" title="Corporal punishment">Corporal punishment</a> 
-              <ul>
-               <li><a href="/wiki/Corporal_punishment_in_the_home" title="Corporal punishment in the home">At home</a></li> 
-               <li><a href="/wiki/School_corporal_punishment" title="School corporal punishment">At school</a></li> 
-               <li><a href="/wiki/Judicial_corporal_punishment" title="Judicial corporal punishment">In court</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Capital_punishment_by_country" title="Capital punishment by country">Death penalty</a></li> 
-             <li><a href="/wiki/List_of_countries_by_incarceration_rate" title="List of countries by incarceration rate">Incarceration</a></li> 
-             <li><a href="/wiki/Life_imprisonment" title="Life imprisonment">Life imprisonment</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Obscenity" title="Obscenity">Obscenity</a></th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Incest" title="Incest">Incest</a> 
-              <ul>
-               <li><a href="/wiki/Legality_of_incest" title="Legality of incest">Laws</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Pornography_laws_by_region" title="Pornography laws by region">Pornography</a> 
-              <ul>
-               <li><a href="/wiki/Legality_of_child_pornography" title="Legality of child pornography">Child pornography</a> 
-                <ul>
-                 <li><a href="/wiki/Simulated_child_pornography" title="Simulated child pornography">Simulated child pornography</a></li> 
-                 <li><a href="/wiki/Legal_status_of_fictional_pornography_depicting_minors" title="Legal status of fictional pornography depicting minors">Drawn pornography depicting minors</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Legal_status_of_Internet_pornography" title="Legal status of Internet pornography">Internet pornography</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Prostitution_by_region" title="Prostitution by region">Prostitution</a></li> 
-             <li><a href="/wiki/Sexual_assault" title="Sexual assault">Sexual assault</a> 
-              <ul>
-               <li><a href="/wiki/Laws_regarding_child_sexual_abuse" title="Laws regarding child sexual abuse">Child sexual abuse</a></li> 
-               <li><a href="/wiki/Laws_regarding_rape" title="Laws regarding rape">Rape</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Sodomy_law" title="Sodomy law">Sodomy law</a></li> 
-             <li><a href="/wiki/Human_trafficking#Sex_trafficking" title="Human trafficking">Sex trafficking</a></li> 
-             <li><a href="/wiki/Legality_of_bestiality_by_country_or_territory" title="Legality of bestiality by country or territory">Zoophilia</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Reproduction</th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Abortion_law" title="Abortion law">Abortion law</a> 
-              <ul>
-               <li><a href="/wiki/Minors_and_abortion" title="Minors and abortion">Minors and abortion</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Adoption_law" title="Adoption law">Adoption law</a> 
-              <ul>
-               <li><a href="/wiki/International_adoption" title="International adoption">International adoption</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Human_cloning#Current_law" title="Human cloning">Human cloning</a></li> 
-             <li><a href="/wiki/Surrogacy_laws_by_country" title="Surrogacy laws by country">Surrogacy</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Censorship</th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Censorship_by_country" title="Censorship by country">Censorship by country</a></li> 
-             <li><a href="/wiki/Book_censorship" title="Book censorship">Book censorship</a> 
-              <ul>
-               <li><a href="/wiki/List_of_books_banned_by_governments" title="List of books banned by governments">by country</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Film_censorship" title="Film censorship">Film censorship</a> 
-              <ul>
-               <li><a href="/wiki/List_of_banned_films" title="List of banned films">by country</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Internet_censorship" title="Internet censorship">Internet censorship</a> 
-              <ul>
-               <li><a href="/wiki/Internet_censorship_and_surveillance_by_country" title="Internet censorship and surveillance by country">by country</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Cartographic_censorship" title="Cartographic censorship">Cartographic censorship</a></li> 
-             <li><a href="/wiki/Political_censorship" title="Political censorship">Political censorship</a></li> 
-             <li><a href="/wiki/Video_game_controversies" title="Video game controversies">Video gaming censorship</a> 
-              <ul>
-               <li><a href="/wiki/List_of_banned_video_games" title="List of banned video games">by country</a></li>
-              </ul></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Human rights</th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Children%27s_rights" title="Children's rights">Children's rights</a> 
-              <ul>
-               <li><a href="/wiki/Children_in_the_military" title="Children in the military">Children in the military</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Intersex_human_rights" title="Intersex human rights">Intersex rights</a></li> 
-             <li><a href="/wiki/LGBT_rights_by_country_or_territory" title="LGBT rights by country or territory">LGBT rights</a></li> 
-             <li><a href="/wiki/Slavery" title="Slavery">Slavery</a> 
-              <ul>
-               <li><a href="/wiki/Human_trafficking" title="Human trafficking">Human trafficking</a></li>
-              </ul></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Freedom_of_movement" title="Freedom of movement">Freedom of movement</a></th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Freedom_of_movement#Examples_by_jurisdiction" title="Freedom of movement">by country</a> 
-              <ul>
-               <li><a href="/wiki/Freedoms_of_the_air" title="Freedoms of the air">In the air</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Right_of_abode" title="Right of abode">Abode</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Right_to_property" title="Right to property">Property</a> and<br><a href="/wiki/Environmental_law" title="Environmental law">Environmental</a></th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Air_rights" title="Air rights">Air</a></li> 
-             <li><a href="/wiki/Administration_(probate_law)" title="Administration (probate law)">Estate</a></li> 
-             <li><a href="/wiki/Land_law" title="Land law">Land</a></li> 
-             <li><a href="/wiki/Mineral_rights" title="Mineral rights">Minerals</a></li> 
-             <li><a href="/wiki/Mining_law" title="Mining law">Mining</a></li> 
-             <li><a href="/wiki/Mortgage_law" title="Mortgage law">Mortgage</a></li> 
-             <li><a href="/wiki/Water_right" title="Water right">Water</a> 
-              <ul>
-               <li><a href="/wiki/Riparian_water_rights" title="Riparian water rights">Riparian water</a></li>
-              </ul></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Commercial_law" title="Commercial law">Business</a></th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Corporate_law" title="Corporate law">Corporate</a> 
-              <ul>
-               <li><a href="/wiki/Corporate_liability" title="Corporate liability">Corporate liability</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Competition_law" title="Competition law">Competition</a> 
-              <ul>
-               <li><a href="/wiki/Mergers_and_acquisitions" title="Mergers and acquisitions">Mergers and acquisitions</a></li> 
-               <li><a href="/wiki/Monopoly" title="Monopoly">Monopoly</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Legality_of_bitcoin_by_country_or_territory" title="Legality of bitcoin by country or territory">Legality of bitcoin by country or territory</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Template:International_ownership_conventions" title="Template:International ownership conventions">International<br>ownership</a></th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/International_waters" title="International waters">International waters</a> 
-              <ul>
-               <li><a href="/wiki/United_Nations_Convention_on_the_Law_of_the_Sea" title="United Nations Convention on the Law of the Sea">Sea law</a></li> 
-               <li><a href="/wiki/Admiralty_law" title="Admiralty law">Maritime law</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Antarctic_Treaty_System" title="Antarctic Treaty System">Antarctic Treaty System</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Other</th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Animal_rights" title="Animal rights">Animal rights</a></li> 
-             <li><a href="/wiki/Immigration_law" title="Immigration law">Immigration law</a></li> 
-             <li><a href="/wiki/List_of_national_legal_systems" title="List of national legal systems">National legal systems</a></li> 
-             <li><a href="/wiki/Police_brutality" title="Police brutality">Police brutality</a> 
-              <ul>
-               <li><a href="/wiki/Prisoner_abuse" title="Prisoner abuse">prisoner abuse</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Religious_law" title="Religious law">Religious law</a> 
-              <ul>
-               <li><a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">separation of church and state</a></li> 
-               <li><a href="/wiki/Application_of_Islamic_law_by_country" class="mw-redirect" title="Application of Islamic law by country">Sharia</a></li>
-              </ul></li> 
-             <li><a href="/wiki/List_of_countries_and_dependencies_by_number_of_police_officers" title="List of countries and dependencies by number of police officers">Size of police forces</a></li> 
-             <li><a href="/wiki/World_Justice_Project" title="World Justice Project">World Justice Project</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <td class="navbox-abovebelow" colspan="2">
-           <div>
-            <div class="hlist" style="text-align:center"> 
-             <ul>
-              <li><a href="/wiki/List_of_international_rankings" title="List of international rankings">List of international rankings</a></li> 
-              <li><a href="/wiki/List_of_top_international_rankings_by_country" title="List of top international rankings by country">List of top international rankings by country</a></li> 
-              <li><a href="/wiki/Lists_by_country" title="Lists by country">Lists by country</a></li>
-             </ul> 
-            </div>
-           </div></td>
-         </tr>
-        </tbody>
-       </table>
-      </div> <!-- 
-NewPP limit report
-Parsed by mw1303
-Cached time: 20201217153236
-Cache expiry: 2592000
-Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.640 seconds
-Real time usage: 0.797 seconds
-Preprocessor visited node count: 4400/1000000
-Post‐expand include size: 125156/2097152 bytes
-Template argument size: 3470/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 0/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 123951/5000000 bytes
-Lua time usage: 0.285/10.000 seconds
-Lua memory usage: 5122135/52428800 bytes
-Number of Wikibase entities loaded: 0/400
---> <!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  643.989      1 -total
- 50.37%  324.398      1 Template:Reflist
- 43.02%  277.037     37 Template:Cite_web
- 16.37%  105.398     25 Template:Flagu
- 11.79%   75.906      1 Template:Short_description
-  7.34%   47.263      1 Template:Pagetype
-  6.47%   41.693      2 Template:Navbox
-  5.29%   34.055      1 Template:Drug_policy_nav
-  4.30%   27.679      1 Template:Horizontal_TOC
-  2.94%   18.906     25 Template:Flagu/core
---> <!-- Saved in parser cache with key enwiki:pcache:idhash:62038243-0!canonical and timestamp 20201217153236 and revision id 994792040. Serialized with JSON.
- --> 
-     </div>
-     <noscript>
-      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
-     </noscript> 
-     <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;oldid=994792040">https://en.wikipedia.org/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;oldid=994792040</a>"
-     </div>
-    </div> 
-    <div id="catlinks" class="catlinks" data-mw="interface">
-     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
-      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
-      <ul>
-       <li><a href="/wiki/Category:Drug_control_law" title="Category:Drug control law">Drug control law</a></li>
-       <li><a href="/wiki/Category:Drug_policy_by_country" title="Category:Drug policy by country">Drug policy by country</a></li>
-       <li><a href="/wiki/Category:Entheogens" title="Category:Entheogens">Entheogens</a></li>
-       <li><a href="/wiki/Category:Law-related_lists" title="Category:Law-related lists">Law-related lists</a></li>
-       <li><a href="/wiki/Category:Lists_by_country" title="Category:Lists by country">Lists by country</a></li>
-      </ul>
-     </div>
-     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
-      Hidden categories: 
-      <ul>
-       <li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li>
-       <li><a href="/wiki/Category:CS1_Hungarian-language_sources_(hu)" title="Category:CS1 Hungarian-language sources (hu)">CS1 Hungarian-language sources (hu)</a></li>
-       <li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li>
-       <li><a href="/wiki/Category:CS1_Swedish-language_sources_(sv)" title="Category:CS1 Swedish-language sources (sv)">CS1 Swedish-language sources (sv)</a></li>
-       <li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li>
-       <li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li>
-       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
-       <li><a href="/wiki/Category:Short_description_with_empty_Wikidata_description" title="Category:Short description with empty Wikidata description">Short description with empty Wikidata description</a></li>
-      </ul>
-     </div>
-    </div> 
-   </div> 
-  </div> 
-  <div id="mw-data-after-content"> 
-   <div class="read-more-container"></div> 
-  </div> 
-  <div id="mw-navigation"> 
-   <h2>Navigation menu</h2> 
-   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
-     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="pt-anonuserpage">Not logged in</li>
-       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
-       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
-       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Legal+status+of+ibogaine+by+country" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
-       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Legal+status+of+ibogaine+by+country" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
-      </ul> 
-     </div> 
-    </nav> 
-    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
-      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list">
-        <li id="ca-nstab-main" class="selected"><a href="/wiki/Legal_status_of_ibogaine_by_country" title="View the content page [c]" accesskey="c">Article</a></li>
-        <li id="ca-talk"><a href="/wiki/Talk:Legal_status_of_ibogaine_by_country" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
-       </ul> 
-      </div> 
-     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
-      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
-      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list"></ul> 
-      </div> 
-     </nav> 
-    </div> 
-    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
-      <h3 id="p-views-label"> <span>Views</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list">
-        <li id="ca-view" class="selected"><a href="/wiki/Legal_status_of_ibogaine_by_country">Read</a></li>
-        <li id="ca-edit"><a href="/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
-        <li id="ca-history"><a href="/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
-       </ul> 
-      </div> 
-     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
-      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
-      <h3 id="p-cactions-label"> <span>More</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list"></ul> 
-      </div> 
-     </nav> 
-     <div id="p-search" role="search"> 
-      <h3> <label for="searchInput">Search</label> </h3> 
-      <form action="/w/index.php" id="searchform"> 
-       <div id="simpleSearch" data-search-loc="header-navigation"> 
-        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
-        <input type="hidden" name="title" value="Special:Search"> 
-        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
-        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
-       </div> 
-      </form> 
-     </div> 
-    </div> 
-   </div> 
-   <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
-    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
-     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
-       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
-       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
-       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
-       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
-     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
-       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
-       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
-       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
-     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Legal_status_of_ibogaine_by_country" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Legal_status_of_ibogaine_by_country" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
-       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;oldid=994792040" title="Permanent link to this revision of this page">Permanent link</a></li>
-       <li id="t-info"><a href="/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Legal_status_of_ibogaine_by_country&amp;id=994792040&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
-       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q70530316" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
-     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Legal_status_of_ibogaine_by_country&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
-       <li id="t-print"><a href="/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
-     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list"></ul> 
-      <div class="after-portlet after-portlet-lang">
-       <span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q70530316#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span>
-      </div> 
-     </div> 
-    </nav> 
-   </div> 
-  </div> 
-  <footer id="footer" class="mw-footer" role="contentinfo"> 
-   <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last edited on 17 December 2020, at 15:32<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
-    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
-   </ul> 
-   <ul id="footer-places"> 
-    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
-    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
-    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
-    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
-    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Legal_status_of_ibogaine_by_country&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
-    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
-    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
-    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
-   </ul> 
-   <ul id="footer-icons" class="noprint"> 
-    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
-    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
-   </ul> 
-   <div style="clear: both;"></div> 
-  </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.640","walltime":"0.797","ppvisitednodes":{"value":4400,"limit":1000000},"postexpandincludesize":{"value":125156,"limit":2097152},"templateargumentsize":{"value":3470,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":123951,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  643.989      1 -total"," 50.37%  324.398      1 Template:Reflist"," 43.02%  277.037     37 Template:Cite_web"," 16.37%  105.398     25 Template:Flagu"," 11.79%   75.906      1 Template:Short_description","  7.34%   47.263      1 Template:Pagetype","  6.47%   41.693      2 Template:Navbox","  5.29%   34.055      1 Template:Drug_policy_nav","  4.30%   27.679      1 Template:Horizontal_TOC","  2.94%   18.906     25 Template:Flagu/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.285","limit":"10.000"},"limitreport-memusage":{"value":5122135,"limit":52428800}},"cachereport":{"origin":"mw1303","timestamp":"20201217153236","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Legal status of ibogaine by country","url":"https:\/\/en.wikipedia.org\/wiki\/Legal_status_of_ibogaine_by_country","sameAs":"http:\/\/www.wikidata.org\/entity\/Q70530316","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q70530316","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2019-10-12T01:16:29Z","dateModified":"2020-12-17T15:32:32Z"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":118,"wgHostname":"mw1322"});});</script> 
- </body>
-</html>
+<table class="wikitable sortable" style="text-align:left"> 
+ <tbody>
+  <tr> 
+   <th style="width:120px;">Country</th> 
+   <th>Possession</th> 
+   <th>Sale</th> 
+   <th>Transport</th> 
+   <th>Cultivation</th> 
+   <th>Notes </th>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640">&nbsp;</span>Australia </p> </td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td>In 2010, ibogaine was scheduled as a Schedule 4 substance on Australia's poisons list.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It remains a Schedule 4 substance pursuant to the February 2019 Poisons Standard, which means it is a prescription-only medicine.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>Belgium </p> </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Ibogaine, as well as its isomers, are listed in Chapter 2 of the Royal Decree of 1998 on psychotropic substances, which makes it illegal to 'import, export, manufacture, possess, sell or offer for sale, deliver or acquire', except with the express permission of Minister of Public Health.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;</span>Brazil </p> </td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td>On 14 January 2016, Ibogaine was legalized for prescription use in São Paulo, Brazil, with this legalization to extend to the rest of the country in a few months.<sup id="cite_ref-ibogainealliance.org_5-0" class="reference"><a href="#cite_note-ibogainealliance.org-5">[5]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>Canada </p> </td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td>Health Canada added ibogaine to the Prescription Drug List (PDL) in 2017, meaning that the drug can only be obtained legally with a medical prescription.<sup id="cite_ref-hc-sc.gc.ca_6-0" class="reference"><a href="#cite_note-hc-sc.gc.ca-6">[6]</a></sup> In the past, ibogaine has been seized from several providers amid concerns over heart risks.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/35px-Flag_of_Costa_Rica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/46px-Flag_of_Costa_Rica.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span>Costa Rica </p> </td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td>Iboga and its chemical derivative, ibogaine, is not illegal in Costa Rica but the substance is also not regulated.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387">&nbsp;</span>Denmark </p> </td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Ibogaine as well as its salts and simple derivatives are included on List B of Denmark's Executive Order 698 of 1993 on Euphoric Substances, for 'substances used for medical and scientific purposes with substantial controls', meaning it is illegal to possess or distribute it. It may be possible to administer by doctors if they receive special permission from the Ministry of Health.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100">&nbsp;</span>Finland </p> </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Since 2014, ibogaine has been listed in the 'Government regulation of psychoactive consumer market of prohibited substances', in accordance with the Finnish Narcotics Act (373/2008) 3§3.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>France </p> </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>'Tabernanthe iboga, Tabernanthe manii, ibogaine, its isomers, esters, ethers, and salts, whether natural or synthetic, and all preparations containing it, are included on the list of controlled substances of the French Ministry of Health, making ibogaine illegal to possess or distribute. The substance was included in 2007 following one death which was deemed to be connected to the use of iboga.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/31px-Flag_of_Gabon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/40px-Flag_of_Gabon.svg.png 2x" data-file-width="1000" data-file-height="750">&nbsp;</span>Gabon </p> </td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td>Iboga legislation in Gabon falls under the jurisdiction of its Culture Ministry. Approval of the Culture Ministry must be granted for the export of any iboga tree products since the passage of a 1994 cultural protection law.<sup id="cite_ref-portant_sur_la_protection_des_biens_culturels_12-0" class="reference"><a href="#cite_note-portant_sur_la_protection_des_biens_culturels-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span>Germany </p> </td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td>Ibogaine is unregulated in Germany, but for medical use it can be regulated by pharmacy rules (AMG). </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>Hungary </p> </td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td>Ibogaine is listed under Section C) New Psychotropic Substances of Government Regulation 66/2012. (IV. 2) on drugs and psychotropic substances.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> This law makes the 'manufacture, import, export, transfer, purchase, distribution, warehousing, storage, maintenance, research, analysis, and preparation' subject to strict licensing restrictions. </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>Ireland </p> </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Ibogaine is not specifically classified under Irish Law. However, since 2010, it may fall under the provisions of the Criminal Justice (Psychoactive Substances) Act 2010.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The law prohibits all psychoactive substances, with certain caveats.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span>Israel </p> </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>2015 - Ibogaine is prohibited for distribution by Emergency declaration on distribution of prohibited substances under the fight against the use of hazardous materials 3834, which places it under the control of The Fight against the Phenomenon of the Use of Dangerous Substances Law until February 25, 2016.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span>Italy </p> </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>In 2016, the Italian Ministry of Health issued an update<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> that added both 'ibogaine' and 'tabernanthe iboga plant' to Presidential Decree No. 309 (9 October 1990).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Both were added to Schedule 1, as defined according to Law 79 of 16 May 2014,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> due to their central nervous system activity and 'hallucinogenic' properties. Possession or distribution may result in penalties including 2–12 months imprisonment.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560">&nbsp;</span>Mexico </p> </td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td>Ibogaine is unregulated in Mexico, therefore, it is a popular spot for ibogaine treatment.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>Netherlands </p> </td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">Un­known</td> 
+   <td>The Netherlands does not prohibit ibogaine, and there are various ibogaine treatment centers available. A Dutch naturopathic practitioner received an 8-year prison sentence in 2019 after being accused of administering ibogaine to a patient, leading to the patient's death. The defendant had been accused of the same crime several years prior, also in connection with the administration of ibogaine.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>New Zealand </p> </td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td>Ibogaine was gazetted in New Zealand in 2009 as a non-approved prescription medicine.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span>Norway </p> </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Ibogaine is illegal in Norway (as are all tryptamine derivatives).<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span>Portugal </p> </td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Decriminalized</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Decriminalized</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Decriminalized</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Decriminalized</td> 
+   <td>In 2001, Portugal decriminalized the possession of all drugs, which includes ibogaine.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>South Africa </p> </td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td>The South African Medicine Control Council published a statement in 2016 regarding a resolution to list ibogaine as a Schedule 6/Poison substance under the Medicines and Related Substances Control Act 101 of 1965.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> The MCC decision effectively means that ibogaine may now be prescribed by a licensed medical professional, and is subject to certain other conditions regarding its prescription, production, import, and export.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000">&nbsp;</span>Sweden </p> </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Ibogaine was classified as a Schedule 1 substance in Sweden, and is now visible on the Drug Administration regulations (LVFS 2011: 10) on lists of drugs, which suggests it has no medical value. As such, it is illegal to possess or distribute.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512">&nbsp;&nbsp;</span>Switzerland </p> </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Ibogaine is classified as a prohibited substance on the Regulation of the EDI on the lists of narcotics, psychotropic substances, precursors, and auxiliary chemicals.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> As such, it is subject to the prohibitions stated in the Federal Law on Narcotic Drugs and Psychotropic Substances, which make it illegal to possess, grow, import, manufacture, or distribute.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>United Kingdom </p> </td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Illegal to possess with intent to supply or possess on custodial premises</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Ibogaine is not identified by name in the UK's Misuse of Drugs Act 1971. However, since 2016, it falls under the provisions of the Psychoactive Substances Act 2016.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> The act makes it a criminal offense to import, export, produce, or supply any substance that 'is capable of producing a psychoactive effect in a person who consumes it.' It also makes it illegal to possess a psychoactive substance in a prison or other custodial institution. To date, there have been no cases of people being prosecuted in relation to possession of ibogaine.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span>United States </p> </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Ibogaine is classified as a <a href="/wiki/Controlled_Substances_Act#Schedule_I_controlled_substances" title="Controlled Substances Act">Schedule I</a>-controlled substance in the United States,<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> and is not approved there for addiction treatment (or any other therapeutic use) because of its hallucinogenic, neurotoxic, and cardiovascular side effects, as well as the scarcity of safety and efficacy data in human subjects.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td> <p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" data-file-width="945" data-file-height="630">&nbsp;</span>Uruguay </p> </td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Controlled</td> 
+   <td>Uruguay is one of a few countries that never criminalized the possession of drugs for personal use. Since 1974, the law establishes no quantity limits, leaving it to the judge's discretion to determine whether the intent was personal use.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> </td>
+  </tr>
+ </tbody>
+</table>

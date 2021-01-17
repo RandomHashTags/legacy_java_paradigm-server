@@ -1,13 +1,13 @@
 package me.randomhashtags.worldlaws.info.rankings;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.info.service.CountryServices;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Optional;
+import java.util.stream.Stream;
 
 public abstract class CountryRankingServices {
-    public static List<CountryRankingService> SERVICES = new ArrayList<>();
 
     public static void getRanked(String serviceBackendID, CompletionHandler handler) {
         final CountryRankingService service = valueOf(serviceBackendID);
@@ -21,14 +21,12 @@ public abstract class CountryRankingServices {
             service.getValue(countryBackendID, handler);
         }
     }
+
+    public static Stream<CountryService> getRankingsServices() {
+        return CountryServices.SERVICES.stream().filter(service -> service instanceof CountryRankingService);
+    }
     public static CountryRankingService valueOf(String backendID) {
-        for(CountryRankingService service : SERVICES) {
-            final CountryInfo info = service.getInfo();
-            final String target = info.name().toLowerCase().replace("_", "");
-            if(backendID.equals(target)) {
-                return service;
-            }
-        }
-        return null;
+        final Optional<CountryService> optional = getRankingsServices().filter(service -> backendID.equals(service.getInfo().name().toLowerCase().replace("_", ""))).findFirst();
+        return (CountryRankingService) optional.orElse(null);
     }
 }

@@ -67,10 +67,9 @@ public enum StreamingEvents implements EventController, DataValues {
     private void update(@Nullable CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final boolean isTwitch = this == TWITCH;
-        requestJSON(url, RequestMethod.GET, headers, query, new CompletionHandler() {
+        requestJSONObject(url, RequestMethod.GET, headers, query, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONObject response = new JSONObject(object.toString());
+            public void handleJSONObject(JSONObject response) {
                 final StringBuilder builder = new StringBuilder("[");
                 boolean isFirst = true;
                 if(isTwitch) {

@@ -52,10 +52,9 @@ public enum UnitedStatesProject implements RestAPI, CongressService {
         final long started = System.currentTimeMillis();
         final String typeString = type.name();
         final String url = "https://theunitedstates.io/congress-legislators/legislators-" + typeString.toLowerCase() + ".json";
-        requestJSON(url, RequestMethod.GET, new CompletionHandler() {
+        requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONArray array = new JSONArray(object.toString());
+            public void handleJSONArray(JSONArray array) {
                 for(Object obj : array) {
                     final JSONObject json = (JSONObject) obj;
                     final UnitedStatesProjectPolitician politician = new UnitedStatesProjectPolitician(json);

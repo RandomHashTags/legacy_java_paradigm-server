@@ -1,930 +1,164 @@
-<!doctype html>
-<html class="client-nojs" lang="en" dir="ltr"> 
- <head> 
-  <meta charset="UTF-8"> 
-  <title>Legal status of psychoactive cactus by country - Wikipedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@VFfwpAICAAAD2rlDMAAABA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Legal_status_of_psychoactive_cactus_by_country","wgTitle":"Legal status of psychoactive cactus by country","wgCurRevisionId":995899836,"wgRevisionId":995899836,"wgArticleId":55591832,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Portuguese-language sources (pt)","CS1 Danish-language sources (da)","CS1 maint: extra punctuation","CS1 French-language sources (fr)","CS1 German-language sources (de)","CS1 Italian-language sources (it)",
-"CS1 Romanian-language sources (ro)","CS1 Russian-language sources (ru)","Drug control law","Drug policy by country","Law-related lists","Lists by country","Psychoactive fungi"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Legal_status_of_psychoactive_cactus_by_country","wgRelevantArticleId":55591832,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,
-"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q42417811"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart",
-"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-});});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
-  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
-  <meta name="ResourceLoaderDynamicStyles" content=""> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
-  <meta name="referrer" content="origin"> 
-  <meta name="referrer" content="origin-when-crossorigin"> 
-  <meta name="referrer" content="origin-when-cross-origin"> 
-  <link rel="preconnect" href="//upload.wikimedia.org"> 
-  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Legal_status_of_psychoactive_cactus_by_country"> 
-  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;action=edit"> 
-  <link rel="edit" title="Edit this page" href="/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;action=edit"> 
-  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
-  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
-  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
-  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
-  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
-  <link rel="canonical" href="https://en.wikipedia.org/wiki/Legal_status_of_psychoactive_cactus_by_country"> 
-  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
-  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
- </head> 
- <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Legal_status_of_psychoactive_cactus_by_country rootpage-Legal_status_of_psychoactive_cactus_by_country skin-vector action-view skin-vector-legacy">
-  <div id="mw-page-base" class="noprint"></div> 
-  <div id="mw-head-base" class="noprint"></div> 
-  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
-   <div id="siteNotice" class="mw-body-content">
-    <!-- CentralNotice -->
-   </div> 
-   <div class="mw-indicators mw-body-content"> 
-   </div> 
-   <h1 id="firstHeading" class="firstHeading" lang="en">Legal status of psychoactive cactus by country</h1> 
-   <div id="bodyContent" class="mw-body-content"> 
-    <div id="siteSub" class="noprint">
-     From Wikipedia, the free encyclopedia
-    </div> 
-    <div id="contentSub"></div> 
-    <div id="contentSub2"></div> 
-    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
-    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
-     <div class="mw-parser-output">
-      <div role="note" class="hatnote navigation-not-searchable">
-       For the legal status of the psychoactive substance found in <a href="/wiki/Psychoactive_cactus" title="Psychoactive cactus">psychoactive cactus</a>, see <a href="/wiki/Mescaline#Legal_status" title="Mescaline">mescaline §&nbsp;Legal status</a>.
-      </div> 
-      <p><br> This is a list of the <b>legal status of <a href="/wiki/Psychoactive_cactus" title="Psychoactive cactus">psychoactive cactus</a> by country.</b> This includes but is not limited to the Peyote, the San Pedro and the Peruvian Torch. </p> 
-      <style data-mw-deduplicate="TemplateStyles:r886050094">.mw-parser-output .tocnumber{display:none}.mw-parser-output #toc ul,.mw-parser-output .toc ul{line-height:1.5em;list-style:none none;margin:.3em 0 0;padding:0}.mw-parser-output .hlist #toc ul ul,.mw-parser-output .hlist .toc ul ul{margin:0}</style>
-      <style data-mw-deduplicate="TemplateStyles:r986930325">.mw-parser-output .horizontal-toc-align-left{float:right}.mw-parser-output .horizontal-toc-align-left{float:left}.mw-parser-output .horizontal-toc-align-center{margin-left:auto;margin-right:auto;clear:none}.mw-parser-output .horizontal-toc-clear-right{clear:right}.mw-parser-output .horizontal-toc-clear-left{clear:left}.mw-parser-output .horizontal-toc-clear-both{clear:both}.mw-parser-output .horizontal-toc-clear-none{clear:none}</style>
-      <div class="hlist horizontal-toc">
-       <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
-        <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
-        <div class="toctitle" lang="en" dir="ltr">
-         <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
-        </div> 
-        <ul> 
-         <li class="toclevel-1 tocsection-1"><a href="#References"><span class="tocnumber">1</span> <span class="toctext">References</span></a></li> 
-        </ul> 
-       </div> 
-      </div> 
-      <table class="wikitable sortable" style="text-align:left"> 
-       <tbody>
-        <tr> 
-         <th style="width:200px;"><b>Country</b></th> 
-         <th><b>Possession</b></th> 
-         <th><b>Sale</b></th> 
-         <th><b>Transport</b></th> 
-         <th><b>Cultivation</b></th> 
-         <th><b>Notes</b> </th>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640">&nbsp;</span>Australia </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Legal depending on Territory</td> 
-         <td>Mescaline is considered a schedule 9 substance in Australia under the Poisons Standard (February 2020). The peyote cacti and other mescaline-containing plants such as San Pedro are illegal in Western Australia, Queensland, and the Northern Territory, whilst in other states such as Tasmania, Victoria and New South Wales, they are legal for ornamental and gardening purposes <sup id="cite_ref-Federal_Register_of_Legislation_2020_1-0" class="reference"><a href="#cite_note-Federal_Register_of_Legislation_2020-1">[1]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;</span>Brazil </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº344<sup id="cite_ref-Agência_Nacional_de_Vigilância_Sanitária_-_Anvisa_2-0" class="reference"><a href="#cite_note-Agência_Nacional_de_Vigilância_Sanitária_-_Anvisa-2">[2]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>Canada </td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Illegal except Peyote</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Illegal except Peyote</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Illegal except Peyote</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td>Mescaline and any salt thereof is illegal, but not peyote (<i>lophophora</i>).<sup id="cite_ref-Site_Web_de_la_législation_(Justice)_2019_3-0" class="reference"><a href="#cite_note-Site_Web_de_la_législation_(Justice)_2019-3">[3]</a></sup> The San Pedro cactus and other plants are not exempt and is only permitted to grow for ornamental purposes. <sup id="cite_ref-Lexology_2020_4-0" class="reference"><a href="#cite_note-Lexology_2020-4">[4]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387">&nbsp;</span>Denmark </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>"Cactus and seeds of the species <i>Echinopsis pachanoi</i> and <i>Echinopsis peruviana</i> or others containing the substance mescaline are illegal. (3,4,5-trimethoxy-phenethylamin)."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>France </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Peyote is regulated</td> 
-         <td>Mescaline is classified as a narcotic in France by the decree of February 22, 1990 establishing the list of substances classified as narcotics<sup id="cite_ref-Wikiwix[archive]_2002_6-0" class="reference"><a href="#cite_note-Wikiwix[archive]_2002-6">[6]</a></sup> <i>Lophophora williamsi</i> had been classified in table A of toxic substances in 1957, then in 1966 in table B of narcotics, to be "relegated" on February 22, 1990. </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span>Germany </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td>Cacti are not prohibited. Mescaline is controlled under Anlage I BtMG. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<sup id="cite_ref-Gesetze_im_Internet_7-0" class="reference"><a href="#cite_note-Gesetze_im_Internet-7">[7]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;</span>India </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Mescaline is listed under controlled in <a href="/wiki/Drug_policy_of_India" title="Drug policy of India">India under the NDPS Act</a> cultivation/production/manufacture, possession, sale, purchase, transport, storage, consumption or distribution is illegal. </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span>Italy </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Mescaline is listed under Table 1 of Italy's "Tabelle delle sostanze stupefacenti e psicotrope" making it illegal to purchase, transport or sell<sup id="cite_ref-Salute_2013_8-0" class="reference"><a href="#cite_note-Salute_2013-8">[8]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>Ireland </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Mescaline is listed under Schedule 1 of Ireland's <a href="/wiki/Misuse_of_Drugs_Act_(Ireland)" title="Misuse of Drugs Act (Ireland)">Misuse of Drugs Act</a> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span>Norway </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>New Zealand </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td>May be cultivated for ornamental purposes but not for recreational use. Mescaline is a Class A drug under the Misuse of Drugs Act.<sup id="cite_ref-NZ_Drug_Foundation_10-0" class="reference"><a href="#cite_note-NZ_Drug_Foundation-10">[10]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512">&nbsp;&nbsp;</span>Switzerland </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span>Romania </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Psychotropic plants and substances or mixtures containing such plants and substances defined under drugs and Mescaline is listed in table 1, the most restrictive under LEGE nr. 143 din 26 iulie 2000 <sup id="cite_ref-Portal_Legislativ_12-0" class="reference"><a href="#cite_note-Portal_Legislativ-12">[12]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>Russia </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td>Mescaline is List I of narcotic drugs, psychotropic substances prohibiting the purchase, transporting, and possession of substances<sup id="cite_ref-ГАРАНТ_13-0" class="reference"><a href="#cite_note-ГАРАНТ-13">[13]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000">&nbsp;</span>Sweden </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>Thailand </td> 
-         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td>Cacti such as peyote are not prohibited. However, mescaline, which they contain is a prohibited narcotic substance.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span>Ukraine </td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td>The government has excluded San Pedro Cactus (<a href="/wiki/Echinopsis_pachanoi" title="Echinopsis pachanoi"><i>Echinopsis Pachanoi</i></a>) and peyote (<a href="/wiki/Peyote" title="Peyote"><i>Lophophora Williamsii</i></a>) from the list of illicit drugs, psychotropic substances and precursors. This is stated in the decision of the Cabinet of Ministers №408 dated May 23, 2012.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>United Kingdom </td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td>“Hallucinogenic cacti are not illegal in the UK, unless prepared for consumption as a hallucinogen. This could include drying them, or cutting them into edible ‘buttons’.” <sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> </td>
-        </tr> 
-        <tr> 
-         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span>United States </td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Legal for religious use</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Legal for religious use</td> 
-         <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Legal for religious use</td> 
-         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
-         <td>Only peyote and mescaline itself are controlled substances in the United States. <a rel="nofollow" class="external text" href="https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf">Substance: Peyote, DEA#: 7415, CSA SCH: I, NARC: N, Other names: Cactus which contains mescaline</a> <p>Following the passage of the <a href="/wiki/American_Indian_Religious_Freedom_Act" title="American Indian Religious Freedom Act">American Indian Religious Freedom Act</a> Amendments of 1994, United States <a href="/wiki/Federal_law" title="Federal law">federal law</a> (and many <a href="/wiki/State_law" title="State law">state laws</a>) protects the <a href="/wiki/Harvest" title="Harvest">harvest</a>, <a href="/wiki/Possession_(law)" title="Possession (law)">possession</a>, <a href="/wiki/Ingestion" title="Ingestion">consumption</a> and <a href="/wiki/Plant_cultivation" class="mw-redirect" title="Plant cultivation">cultivation</a> of peyote as part of "<a href="/wiki/Bona_fide" class="mw-redirect" title="Bona fide">bona fide</a> religious ceremonies" (the federal statute is the American Indian Religious Freedom Act, codified at <a href="/wiki/Title_42_of_the_United_States_Code" title="Title 42 of the United States Code">42&nbsp;U.S.C.</a>&nbsp;<a rel="nofollow" class="external text" href="https://www.law.cornell.edu/uscode/text/42/1996a">§&nbsp;1996a</a>, "Traditional Indian religious use of the peyote sacrament", exempting only use by Native American persons. US v. Boyll expanded permitted use to all persons engaged in traditional Indian use, regardless of race. All US states with the exception of Idaho and Texas allow usage by non-native, non-enrolled persons in the context of ceremonies of the <a href="/wiki/Native_American_Church" title="Native American Church">Native American Church</a>. Some states such as Arizona additionally exempt any general bona fide religious activity or spiritual intent. US jurisdictions enacted these specific statutory exemptions partially in reaction to the <a href="/wiki/Supreme_Court_of_the_United_States" title="Supreme Court of the United States">US Supreme Court</a>'s decision in <i><a href="/wiki/Employment_Division_v._Smith" title="Employment Division v. Smith">Employment Division v. Smith</a></i>, <a href="/wiki/List_of_United_States_Supreme_Court_cases,_volume_494" title="List of United States Supreme Court cases, volume 494">494</a> <a href="/wiki/United_States_Reports" title="United States Reports">U.S.</a> <a rel="nofollow" class="external text" href="https://supreme.justia.com/cases/federal/us/494/872/">872</a> (1990), which held that laws prohibiting the use of peyote that do not specifically exempt religious use nevertheless do not violate the <a href="/wiki/Free_Exercise_Clause" title="Free Exercise Clause">Free Exercise Clause</a> of the <a href="/wiki/First_Amendment_to_the_United_States_Constitution" title="First Amendment to the United States Constitution">First Amendment</a>. </p> </td>
-        </tr> 
-       </tbody>
-      </table> 
-      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <div class="reflist" style="list-style-type: decimal;"> 
-       <div class="mw-references-wrap mw-references-columns">
-        <ol class="references"> 
-         <li id="cite_note-Federal_Register_of_Legislation_2020-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Federal_Register_of_Legislation_2020_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.legislation.gov.au/Details/F2020C00148">"Poisons Standard February 2020"</a>. <i>Federal Register of Legislation</i>. 2020-02-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-08-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Register+of+Legislation&amp;rft.atitle=Poisons+Standard+February+2020&amp;rft.date=2020-02-20&amp;rft_id=https%3A%2F%2Fwww.legislation.gov.au%2FDetails%2FF2020C00148&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-Agência_Nacional_de_Vigilância_Sanitária_-_Anvisa-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Agência_Nacional_de_Vigilância_Sanitária_-_Anvisa_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gov.br/anvisa/pt-br/pagina-inicial">"Página inicial"</a>. <i>Agência Nacional de Vigilância Sanitária - Anvisa</i> (in Portuguese)<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ag%C3%AAncia+Nacional+de+Vigil%C3%A2ncia+Sanit%C3%A1ria+-+Anvisa&amp;rft.atitle=P%C3%A1gina+inicial&amp;rft_id=https%3A%2F%2Fwww.gov.br%2Fanvisa%2Fpt-br%2Fpagina-inicial&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-Site_Web_de_la_législation_(Justice)_2019-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Site_Web_de_la_législation_(Justice)_2019_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://laws-lois.justice.gc.ca/eng/acts/c-38.8/fulltext.html">"Controlled Drugs and Substances Act"</a>. <i>Site Web de la législation (Justice)</i>. 2019-09-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-08-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Site+Web+de+la+l%C3%A9gislation+%28Justice%29&amp;rft.atitle=Controlled+Drugs+and+Substances+Act&amp;rft.date=2019-09-19&amp;rft_id=https%3A%2F%2Flaws-lois.justice.gc.ca%2Feng%2Facts%2Fc-38.8%2Ffulltext.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-Lexology_2020-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lexology_2020_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.lexology.com/library/detail.aspx?g=b3509120-415c-4623-8215-a5bf2ae4cc38">"Psychedelics and Canada's Regulatory Landscape"</a>. <i>Lexology</i>. 2020-07-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-08-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Lexology&amp;rft.atitle=Psychedelics+and+Canada%27s+Regulatory+Landscape&amp;rft.date=2020-07-15&amp;rft_id=https%3A%2F%2Fwww.lexology.com%2Flibrary%2Fdetail.aspx%3Fg%3Db3509120-415c-4623-8215-a5bf2ae4cc38&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.retsinformation.dk/forms/r0710.aspx?id=137169">"Bekendtgørelse om euforiserende stoffer"</a>. <i>retsinformation.dk</i> (in Danish).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=retsinformation.dk&amp;rft.atitle=Bekendtg%C3%B8relse+om+euforiserende+stoffer&amp;rft_id=https%3A%2F%2Fwww.retsinformation.dk%2Fforms%2Fr0710.aspx%3Fid%3D137169&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-Wikiwix[archive]_2002-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wikiwix[archive]_2002_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.drogues.gouv.fr%2Ffr%2Fprofessionnels%2FLois%2Fliste_substances.htm">"Wikiwix's cache"</a>. <i>Wikiwix[archive]</i> (in French). 2002-01-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wikiwix%26%2391%3Barchive%26%2393%3B&amp;rft.atitle=Wikiwix%27s+cache&amp;rft.date=2002-01-06&amp;rft_id=http%3A%2F%2Farchive.wikiwix.com%2Fcache%2F%3Furl%3Dhttp%253A%252F%252Fwww.drogues.gouv.fr%252Ffr%252Fprofessionnels%252FLois%252Fliste_substances.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: extra punctuation (<a href="/wiki/Category:CS1_maint:_extra_punctuation" title="Category:CS1 maint: extra punctuation">link</a>)</span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-Gesetze_im_Internet-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gesetze_im_Internet_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gesetze-im-internet.de/btmg_1981/__29.html">"§ 29 BtMG - Einzelnorm"</a>. <i>Gesetze im Internet</i> (in German)<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gesetze+im+Internet&amp;rft.atitle=%C2%A7+29+BtMG+-+Einzelnorm&amp;rft_id=https%3A%2F%2Fwww.gesetze-im-internet.de%2Fbtmg_1981%2F__29.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-Salute_2013-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Salute_2013_8-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFSalute2013" class="citation web cs1">Salute, Ministero della (2013-04-23). <a rel="nofollow" class="external text" href="http://www.salute.gov.it/portale/temi/p2_6.jsp?id=3729&amp;area=sostanzeStupefacenti&amp;menu=vuoto">"Tabelle delle sostanze stupefacenti e psicotrope"</a>. <i>Ministero della Salute</i> (in Italian)<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ministero+della+Salute&amp;rft.atitle=Tabelle+delle+sostanze+stupefacenti+e+psicotrope&amp;rft.date=2013-04-23&amp;rft.aulast=Salute&amp;rft.aufirst=Ministero+della&amp;rft_id=http%3A%2F%2Fwww.salute.gov.it%2Fportale%2Ftemi%2Fp2_6.jsp%3Fid%3D3729%26area%3DsostanzeStupefacenti%26menu%3Dvuoto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://lovdata.no/dokument/SF/forskrift/2013-02-14-199">https://lovdata.no/dokument/SF/forskrift/2013-02-14-199</a></span> </li> 
-         <li id="cite_note-NZ_Drug_Foundation-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-NZ_Drug_Foundation_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.drugfoundation.org.nz/matters-of-substance/matters-of-substance-november-2014/about-a-drug-mescaline/">"About a drug: Mescaline"</a>. <i>NZ Drug Foundation</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NZ+Drug+Foundation&amp;rft.atitle=About+a+drug%3A+Mescaline&amp;rft_id=https%3A%2F%2Fwww.drugfoundation.org.nz%2Fmatters-of-substance%2Fmatters-of-substance-november-2014%2Fabout-a-drug-mescaline%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.admin.ch/opc/de/classified-compilation/20101220/index.html">"Verordnung des EDI über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien (Betäubungsmittelverzeichnisverordnung, BetmVV-EDI)"</a>. <i>Swiss Government</i> (in German). 1 March 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Swiss+Government&amp;rft.atitle=Verordnung+des+EDI+%C3%BCber+die+Verzeichnisse+der+Bet%C3%A4ubungsmittel%2C+psychotropen+Stoffe%2C+Vorl%C3%A4uferstoffe+und+Hilfschemikalien+%28Bet%C3%A4ubungsmittelverzeichnisverordnung%2C+BetmVV-EDI%29&amp;rft.date=2018-03-01&amp;rft_id=https%3A%2F%2Fwww.admin.ch%2Fopc%2Fde%2Fclassified-compilation%2F20101220%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-Portal_Legislativ-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Portal_Legislativ_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://legislatie.just.ro/Public/DetaliiDocument/23629">"LEGE 143 26/07/2000"</a>. <i>Portal Legislativ</i> (in Romanian)<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Portal+Legislativ&amp;rft.atitle=LEGE+143+26%2F07%2F2000&amp;rft_id=http%3A%2F%2Flegislatie.just.ro%2FPublic%2FDetaliiDocument%2F23629&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-ГАРАНТ-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-ГАРАНТ_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://base.garant.ru/12112176/">"Постановление Правительства РФ от 30.06.1998 N 681 "Об утверждении перечня наркотических средств, психотропных веществ и их прекурсоров, подлежащих контролю в Российской Федерации" (с изменениями и дополнениями)"</a>. <i>ГАРАНТ</i> (in Russian)<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%D0%93%D0%90%D0%A0%D0%90%D0%9D%D0%A2&amp;rft.atitle=%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5+%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0+%D0%A0%D0%A4+%D0%BE%D1%82+30.06.1998+N+681+%22%D0%9E%D0%B1+%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8+%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D1%8F+%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85+%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%2C+%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D1%82%D1%80%D0%BE%D0%BF%D0%BD%D1%8B%D1%85+%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2+%D0%B8+%D0%B8%D1%85+%D0%BF%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%BE%D1%80%D0%BE%D0%B2%2C+%D0%BF%D0%BE%D0%B4%D0%BB%D0%B5%D0%B6%D0%B0%D1%89%D0%B8%D1%85+%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8E+%D0%B2+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9+%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8%22+%28%D1%81+%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8+%D0%B8+%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8%29&amp;rft_id=http%3A%2F%2Fbase.garant.ru%2F12112176%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://lagen.nu/1968:64">https://lagen.nu/1968:64</a></span> </li> 
-         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.reddit.com/r/Thailand/comments/2pj5uc/something_i_saw_at_the_chatuchak_market_could/">https://www.reddit.com/r/Thailand/comments/2pj5uc/something_i_saw_at_the_chatuchak_market_could/</a></span> </li> 
-         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://zakon.rada.gov.ua/laws/show/408-2012-%D0%BF">http://zakon.rada.gov.ua/laws/show/408-2012-%D0%BF</a></span> </li> 
-         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.drugwise.org.uk/cacti/">"Cacti"</a>. <i>DrugWise</i>. 2016-01-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=DrugWise&amp;rft.atitle=Cacti&amp;rft.date=2016-01-03&amp;rft_id=http%3A%2F%2Fwww.drugwise.org.uk%2Fcacti%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALegal+status+of+psychoactive+cactus+by+country" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"></span> </li> 
-        </ol>
-       </div>
-      </div>
-      <div role="navigation" class="navbox" aria-labelledby="Drug_policy_by_country" style="padding:3px">
-       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
-        <tbody>
-         <tr>
-          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
-           <div class="navbar plainlinks hlist navbar-mini">
-            <ul>
-             <li class="nv-view"><a href="/wiki/Template:Drug_policy_nav" title="Template:Drug policy nav"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Drug_policy_nav" title="Template talk:Drug policy nav"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Drug_policy_nav&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
-            </ul>
-           </div>
-           <div id="Drug_policy_by_country" style="font-size:114%;margin:0 4em">
-            <a href="/wiki/Drug_policy" title="Drug policy">Drug policy</a> by country
-           </div></th>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Asia</th>
-          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Drug_policy_of_India" title="Drug policy of India">India</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Europe</th>
-          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Drug_policy_of_Germany" title="Drug policy of Germany">Germany</a></li> 
-             <li><a href="/wiki/Drug_policy_of_the_Netherlands" title="Drug policy of the Netherlands">Netherlands</a></li> 
-             <li><a href="/wiki/Drug_policy_of_Portugal" title="Drug policy of Portugal">Portugal</a></li> 
-             <li><a href="/wiki/Drug_policy_of_Romania" title="Drug policy of Romania">Romania</a></li> 
-             <li><a href="/wiki/Drug_policy_of_Slovakia" title="Drug policy of Slovakia">Slovakia</a></li> 
-             <li><a href="/wiki/Drug_policy_of_the_Soviet_Union" title="Drug policy of the Soviet Union">Soviet Union</a></li> 
-             <li><a href="/wiki/Drug_policy_of_Sweden" title="Drug policy of Sweden">Sweden</a></li> 
-             <li><a href="/wiki/Drug_policy_of_the_United_Kingdom" title="Drug policy of the United Kingdom">United Kingdom</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">North America</th>
-          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Drug_policy_of_Canada" title="Drug policy of Canada">Canada</a></li> 
-             <li><a href="/wiki/Federal_drug_policy_of_the_United_States" title="Federal drug policy of the United States">United States</a> (<a href="/wiki/Legality_of_cannabis_by_U.S._jurisdiction" title="Legality of cannabis by U.S. jurisdiction">Cannabis</a>, <a href="/wiki/Psilocybin_decriminalization_in_the_United_States" title="Psilocybin decriminalization in the United States">Psilocybin</a>, <a href="/wiki/Prohibition_in_the_United_States" title="Prohibition in the United States">Alcohol</a>)</li> 
-             <li><a href="/w/index.php?title=Drug_policy_of_Mexico&amp;action=edit&amp;redlink=1" class="new" title="Drug policy of Mexico (page does not exist)">Mexico</a> (<a href="/wiki/Cannabis_in_Mexico" title="Cannabis in Mexico">Cannabis</a>)</li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">International</th>
-          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Drug_and_precursor_laws_by_country_or_territory" title="Drug and precursor laws by country or territory">Drug and precursor laws by country or territory</a></li> 
-             <li><a href="/wiki/Alcohol_law" title="Alcohol law">Alcohol</a> (<a href="/wiki/List_of_countries_by_alcohol_consumption_per_capita" title="List of countries by alcohol consumption per capita">consumption</a>, <a href="/wiki/Moonshine_by_country" title="Moonshine by country">Moonshine</a>)</li> 
-             <li><a href="/wiki/Anabolic_steroid#Legal_status" title="Anabolic steroid">Anabolic steroid</a></li> 
-             <li><a href="/wiki/Absinthe#Regulations" title="Absinthe">Absinthe</a></li> 
-             <li><a href="/wiki/Legal_status_of_ayahuasca_by_country" title="Legal status of ayahuasca by country">ayahuasca</a></li> 
-             <li><a href="/wiki/Benzodiazepine#Legal_status" title="Benzodiazepine">Benzodiazepine</a></li> 
-             <li><a href="/wiki/Caffeine#Regulations" title="Caffeine">Caffeine</a></li> 
-             <li><a href="/wiki/Legal_status_of_cocaine" title="Legal status of cocaine">cocaine</a></li> 
-             <li><a href="/wiki/N,N-Dimethyltryptamine#Legal_status" title="N,N-Dimethyltryptamine">DMT</a></li> 
-             <li><a href="/wiki/Legal_status_of_ibogaine_by_country" title="Legal status of ibogaine by country">ibogaine</a></li> 
-             <li><a href="/wiki/Kava#Regulation" title="Kava">kava</a></li> 
-             <li><a href="/wiki/Khat#Regulation" title="Khat">khat</a></li> 
-             <li><a href="/wiki/Lysergic_acid_diethylamide#Legal_status" title="Lysergic acid diethylamide">LSD</a></li> 
-             <li><a href="/wiki/MDMA#Society_and_culture" title="MDMA">MDMA</a></li> 
-             <li><a href="/wiki/Mephedrone#Legal_status" title="Mephedrone">Mephedrone</a></li> 
-             <li><a href="/wiki/Methylenedioxypyrovalerone#Legality" title="Methylenedioxypyrovalerone">MPDV</a></li> 
-             <li><a href="/wiki/Methylone#Legal_status" title="Methylone">Methylone</a></li> 
-             <li><a href="/wiki/Legal_status_of_methamphetamine" title="Legal status of methamphetamine">methamphetamine</a></li> 
-             <li><a href="/wiki/Opium#History" title="Opium">opium</a></li> 
-             <li><a href="/wiki/Legal_status_of_psilocybin_mushrooms" title="Legal status of psilocybin mushrooms">psilocybin</a></li> 
-             <li><a href="/wiki/Legal_status_of_psychoactive_Amanita_mushrooms" title="Legal status of psychoactive Amanita mushrooms">psychoactive Amanita</a></li> 
-             <li><a class="mw-selflink selflink">psychoactive cactus</a></li> 
-             <li><a href="/wiki/Legal_status_of_Salvia_divinorum" title="Legal status of Salvia divinorum">Salvia divinorum</a></li> 
-             <li><a href="/wiki/Legality_of_cannabis" title="Legality of cannabis">cannabis</a></li> 
-             <li><a href="/wiki/List_of_smoking_bans" title="List of smoking bans">Tobacco</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-        </tbody>
-       </table>
-      </div> 
-      <div role="navigation" class="navbox" aria-labelledby="Lists_of_countries_by_laws_and_law_enforcement_rankings" style="padding:3px">
-       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
-        <tbody>
-         <tr>
-          <th scope="col" class="navbox-title" colspan="2">
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
-           <div class="navbar plainlinks hlist navbar-mini">
-            <ul>
-             <li class="nv-view"><a href="/wiki/Template:Law_country_lists" title="Template:Law country lists"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Law_country_lists" title="Template talk:Law country lists"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Law_country_lists&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
-            </ul>
-           </div>
-           <div id="Lists_of_countries_by_laws_and_law_enforcement_rankings" style="font-size:114%;margin:0 4em">
-            <a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">Lists of countries</a> by <a href="/wiki/Law" title="Law">laws</a> and <a href="/wiki/Law_enforcement" title="Law enforcement">law enforcement</a> <a href="/wiki/List_of_international_rankings" title="List of international rankings">rankings</a>
-           </div></th>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Age of</th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Age_of_consent" title="Age of consent">Consent</a></li> 
-             <li><a href="/wiki/Age_of_candidacy" title="Age of candidacy">Legal candidacy for political office</a></li> 
-             <li><a href="/wiki/Age_of_criminal_responsibility" title="Age of criminal responsibility">Criminal responsibility</a></li> 
-             <li><a href="/wiki/Legal_drinking_age" title="Legal drinking age">Legal drinking</a></li> 
-             <li><a href="/wiki/List_of_minimum_driving_ages" title="List of minimum driving ages">Legal driving</a></li> 
-             <li><a href="/wiki/Age_of_majority" title="Age of majority">Majority</a></li> 
-             <li><a href="/wiki/Marriageable_age" title="Marriageable age">Legal marriage</a></li> 
-             <li><a href="/wiki/Retirement_age" title="Retirement age">Retirement age</a> 
-              <ul>
-               <li><a href="/wiki/Mandatory_retirement" title="Mandatory retirement">Mandatory retirement</a></li>
-              </ul></li> 
-             <li><a href="/wiki/School-leaving_age" title="School-leaving age">School-leaving age</a></li> 
-             <li><a href="/wiki/Smoking_age" title="Smoking age">Legal smoking</a></li> 
-             <li><a href="/wiki/Voting_age" title="Voting age">Voting</a> 
-              <ul>
-               <li><a href="/wiki/Suffrage" title="Suffrage">Suffrage</a></li> 
-               <li><a href="/wiki/Youth_suffrage" title="Youth suffrage">Youth suffrage</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Legal_working_age" title="Legal working age">Working age</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Drugs</th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Drug_and_precursor_laws_by_country_or_territory" title="Drug and precursor laws by country or territory">Drug and precursor laws by country or territory</a></li> 
-             <li>Psychedelics 
-              <ul>
-               <li><a href="/wiki/Amanita#Psychoactive_species" title="Amanita">Amanita mushroom</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_psychoactive_Amanita_mushrooms" title="Legal status of psychoactive Amanita mushrooms">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Ayahuasca" title="Ayahuasca">Ayahuasca</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_ayahuasca_by_country" title="Legal status of ayahuasca by country">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Cannabis_(drug)" title="Cannabis (drug)">Cannabis</a> 
-                <ul>
-                 <li><a href="/wiki/Legality_of_cannabis" title="Legality of cannabis">Legality</a></li> 
-                 <li><a href="/wiki/Annual_cannabis_use_by_country" title="Annual cannabis use by country">annual use</a></li> 
-                 <li><a href="/wiki/Adult_lifetime_cannabis_use_by_country" title="Adult lifetime cannabis use by country">lifetime use</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Ibogaine" title="Ibogaine">Ibogaine</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_ibogaine_by_country" title="Legal status of ibogaine by country">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Lysergic_acid_diethylamide" title="Lysergic acid diethylamide">LSD</a> 
-                <ul>
-                 <li><a href="/wiki/Lysergic_acid_diethylamide#Legal_status" title="Lysergic acid diethylamide">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Psilocybin_mushroom" title="Psilocybin mushroom">Psilocybin mushroom</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_psilocybin_mushrooms" title="Legal status of psilocybin mushrooms">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Salvia_divinorum" title="Salvia divinorum">Salvia divinorum</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_Salvia_divinorum" title="Legal status of Salvia divinorum">Legality</a></li>
-                </ul></li>
-              </ul></li>
-            </ul> 
-            <ul>
-             <li>Other 
-              <ul>
-               <li><a href="/wiki/Alcoholic_drink" title="Alcoholic drink">Alcohol</a> 
-                <ul>
-                 <li><a href="/wiki/List_of_countries_by_alcohol_consumption_per_capita" title="List of countries by alcohol consumption per capita">Alcohol consumption</a></li> 
-                 <li><a href="/wiki/Alcohol_law" title="Alcohol law">Alcohol law</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Bath_salts_(drug)" title="Bath salts (drug)">Bath salts</a> 
-                <ul>
-                 <li><a href="/wiki/Mephedrone#Legal_status" title="Mephedrone">Legal status of Mephedrone</a></li> 
-                 <li><a href="/wiki/Methylenedioxypyrovalerone#Legality" title="Methylenedioxypyrovalerone">Legal status of MPDV</a></li> 
-                 <li><a href="/wiki/Methylone#Legal_status" title="Methylone">Legal status of Methylone</a></li>
-                </ul></li> 
-               <li><a href="/wiki/List_of_countries_by_prevalence_of_cocaine_use" title="List of countries by prevalence of cocaine use">Cocaine use</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_cocaine" title="Legal status of cocaine">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Methamphetamine" title="Methamphetamine">Methamphetamine</a> 
-                <ul>
-                 <li><a href="/wiki/Legal_status_of_methamphetamine" title="Legal status of methamphetamine">Legality</a></li>
-                </ul></li> 
-               <li><a href="/wiki/List_of_countries_by_prevalence_of_opiates_use" title="List of countries by prevalence of opiates use">Opiate use</a></li>
-              </ul></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Death</th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Legality_of_euthanasia" title="Legality of euthanasia">Legality of euthanasia</a></li> 
-             <li><a href="/wiki/List_of_countries_by_intentional_homicide_rate" title="List of countries by intentional homicide rate">Homicide</a> 
-              <ul>
-               <li><a href="/wiki/List_of_countries_by_intentional_homicide_rate_by_decade" title="List of countries by intentional homicide rate by decade">by decade</a></li>
-              </ul></li> 
-             <li><a href="/wiki/List_of_killings_by_law_enforcement_officers_by_country" title="List of killings by law enforcement officers by country">Law enforcement killings</a></li> 
-             <li><a href="/wiki/Suicide_legislation" title="Suicide legislation">Legality of suicide</a> 
-              <ul>
-               <li><a href="/wiki/Assisted_suicide" title="Assisted suicide">Legality of assisted suicide</a></li>
-              </ul></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Overview_of_gun_laws_by_nation" title="Overview of gun laws by nation">Guns</a></th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/List_of_countries_by_firearm-related_death_rate" title="List of countries by firearm-related death rate">Deaths</a></li> 
-             <li><a href="/wiki/Gun_ownership" title="Gun ownership">Ownership</a></li> 
-             <li><a href="/wiki/Overview_of_gun_laws_by_nation" title="Overview of gun laws by nation">Laws</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Punishment</th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Corporal_punishment" title="Corporal punishment">Corporal punishment</a> 
-              <ul>
-               <li><a href="/wiki/Corporal_punishment_in_the_home" title="Corporal punishment in the home">At home</a></li> 
-               <li><a href="/wiki/School_corporal_punishment" title="School corporal punishment">At school</a></li> 
-               <li><a href="/wiki/Judicial_corporal_punishment" title="Judicial corporal punishment">In court</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Capital_punishment_by_country" title="Capital punishment by country">Death penalty</a></li> 
-             <li><a href="/wiki/List_of_countries_by_incarceration_rate" title="List of countries by incarceration rate">Incarceration</a></li> 
-             <li><a href="/wiki/Life_imprisonment" title="Life imprisonment">Life imprisonment</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Obscenity" title="Obscenity">Obscenity</a></th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Incest" title="Incest">Incest</a> 
-              <ul>
-               <li><a href="/wiki/Legality_of_incest" title="Legality of incest">Laws</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Pornography_laws_by_region" title="Pornography laws by region">Pornography</a> 
-              <ul>
-               <li><a href="/wiki/Legality_of_child_pornography" title="Legality of child pornography">Child pornography</a> 
-                <ul>
-                 <li><a href="/wiki/Simulated_child_pornography" title="Simulated child pornography">Simulated child pornography</a></li> 
-                 <li><a href="/wiki/Legal_status_of_fictional_pornography_depicting_minors" title="Legal status of fictional pornography depicting minors">Drawn pornography depicting minors</a></li>
-                </ul></li> 
-               <li><a href="/wiki/Legal_status_of_Internet_pornography" title="Legal status of Internet pornography">Internet pornography</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Prostitution_by_region" title="Prostitution by region">Prostitution</a></li> 
-             <li><a href="/wiki/Sexual_assault" title="Sexual assault">Sexual assault</a> 
-              <ul>
-               <li><a href="/wiki/Laws_regarding_child_sexual_abuse" title="Laws regarding child sexual abuse">Child sexual abuse</a></li> 
-               <li><a href="/wiki/Laws_regarding_rape" title="Laws regarding rape">Rape</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Sodomy_law" title="Sodomy law">Sodomy law</a></li> 
-             <li><a href="/wiki/Human_trafficking#Sex_trafficking" title="Human trafficking">Sex trafficking</a></li> 
-             <li><a href="/wiki/Legality_of_bestiality_by_country_or_territory" title="Legality of bestiality by country or territory">Zoophilia</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Reproduction</th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Abortion_law" title="Abortion law">Abortion law</a> 
-              <ul>
-               <li><a href="/wiki/Minors_and_abortion" title="Minors and abortion">Minors and abortion</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Adoption_law" title="Adoption law">Adoption law</a> 
-              <ul>
-               <li><a href="/wiki/International_adoption" title="International adoption">International adoption</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Human_cloning#Current_law" title="Human cloning">Human cloning</a></li> 
-             <li><a href="/wiki/Surrogacy_laws_by_country" title="Surrogacy laws by country">Surrogacy</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Censorship</th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Censorship_by_country" title="Censorship by country">Censorship by country</a></li> 
-             <li><a href="/wiki/Book_censorship" title="Book censorship">Book censorship</a> 
-              <ul>
-               <li><a href="/wiki/List_of_books_banned_by_governments" title="List of books banned by governments">by country</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Film_censorship" title="Film censorship">Film censorship</a> 
-              <ul>
-               <li><a href="/wiki/List_of_banned_films" title="List of banned films">by country</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Internet_censorship" title="Internet censorship">Internet censorship</a> 
-              <ul>
-               <li><a href="/wiki/Internet_censorship_and_surveillance_by_country" title="Internet censorship and surveillance by country">by country</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Cartographic_censorship" title="Cartographic censorship">Cartographic censorship</a></li> 
-             <li><a href="/wiki/Political_censorship" title="Political censorship">Political censorship</a></li> 
-             <li><a href="/wiki/Video_game_controversies" title="Video game controversies">Video gaming censorship</a> 
-              <ul>
-               <li><a href="/wiki/List_of_banned_video_games" title="List of banned video games">by country</a></li>
-              </ul></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Human rights</th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Children%27s_rights" title="Children's rights">Children's rights</a> 
-              <ul>
-               <li><a href="/wiki/Children_in_the_military" title="Children in the military">Children in the military</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Intersex_human_rights" title="Intersex human rights">Intersex rights</a></li> 
-             <li><a href="/wiki/LGBT_rights_by_country_or_territory" title="LGBT rights by country or territory">LGBT rights</a></li> 
-             <li><a href="/wiki/Slavery" title="Slavery">Slavery</a> 
-              <ul>
-               <li><a href="/wiki/Human_trafficking" title="Human trafficking">Human trafficking</a></li>
-              </ul></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Freedom_of_movement" title="Freedom of movement">Freedom of movement</a></th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Freedom_of_movement#Examples_by_jurisdiction" title="Freedom of movement">by country</a> 
-              <ul>
-               <li><a href="/wiki/Freedoms_of_the_air" title="Freedoms of the air">In the air</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Right_of_abode" title="Right of abode">Abode</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Right_to_property" title="Right to property">Property</a> and<br><a href="/wiki/Environmental_law" title="Environmental law">Environmental</a></th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Air_rights" title="Air rights">Air</a></li> 
-             <li><a href="/wiki/Administration_(probate_law)" title="Administration (probate law)">Estate</a></li> 
-             <li><a href="/wiki/Land_law" title="Land law">Land</a></li> 
-             <li><a href="/wiki/Mineral_rights" title="Mineral rights">Minerals</a></li> 
-             <li><a href="/wiki/Mining_law" title="Mining law">Mining</a></li> 
-             <li><a href="/wiki/Mortgage_law" title="Mortgage law">Mortgage</a></li> 
-             <li><a href="/wiki/Water_right" title="Water right">Water</a> 
-              <ul>
-               <li><a href="/wiki/Riparian_water_rights" title="Riparian water rights">Riparian water</a></li>
-              </ul></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Commercial_law" title="Commercial law">Business</a></th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Corporate_law" title="Corporate law">Corporate</a> 
-              <ul>
-               <li><a href="/wiki/Corporate_liability" title="Corporate liability">Corporate liability</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Competition_law" title="Competition law">Competition</a> 
-              <ul>
-               <li><a href="/wiki/Mergers_and_acquisitions" title="Mergers and acquisitions">Mergers and acquisitions</a></li> 
-               <li><a href="/wiki/Monopoly" title="Monopoly">Monopoly</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Legality_of_bitcoin_by_country_or_territory" title="Legality of bitcoin by country or territory">Legality of bitcoin by country or territory</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Template:International_ownership_conventions" title="Template:International ownership conventions">International<br>ownership</a></th>
-          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/International_waters" title="International waters">International waters</a> 
-              <ul>
-               <li><a href="/wiki/United_Nations_Convention_on_the_Law_of_the_Sea" title="United Nations Convention on the Law of the Sea">Sea law</a></li> 
-               <li><a href="/wiki/Admiralty_law" title="Admiralty law">Maritime law</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Antarctic_Treaty_System" title="Antarctic Treaty System">Antarctic Treaty System</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <th scope="row" class="navbox-group" style="width:1%">Other</th>
-          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
-           <div style="padding:0em 0.25em"> 
-            <ul>
-             <li><a href="/wiki/Animal_rights" title="Animal rights">Animal rights</a></li> 
-             <li><a href="/wiki/Immigration_law" title="Immigration law">Immigration law</a></li> 
-             <li><a href="/wiki/List_of_national_legal_systems" title="List of national legal systems">National legal systems</a></li> 
-             <li><a href="/wiki/Police_brutality" title="Police brutality">Police brutality</a> 
-              <ul>
-               <li><a href="/wiki/Prisoner_abuse" title="Prisoner abuse">prisoner abuse</a></li>
-              </ul></li> 
-             <li><a href="/wiki/Religious_law" title="Religious law">Religious law</a> 
-              <ul>
-               <li><a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">separation of church and state</a></li> 
-               <li><a href="/wiki/Application_of_Islamic_law_by_country" class="mw-redirect" title="Application of Islamic law by country">Sharia</a></li>
-              </ul></li> 
-             <li><a href="/wiki/List_of_countries_and_dependencies_by_number_of_police_officers" title="List of countries and dependencies by number of police officers">Size of police forces</a></li> 
-             <li><a href="/wiki/World_Justice_Project" title="World Justice Project">World Justice Project</a></li>
-            </ul> 
-           </div></td>
-         </tr>
-         <tr>
-          <td class="navbox-abovebelow" colspan="2">
-           <div>
-            <div class="hlist" style="text-align:center"> 
-             <ul>
-              <li><a href="/wiki/List_of_international_rankings" title="List of international rankings">List of international rankings</a></li> 
-              <li><a href="/wiki/List_of_top_international_rankings_by_country" title="List of top international rankings by country">List of top international rankings by country</a></li> 
-              <li><a href="/wiki/Lists_by_country" title="Lists by country">Lists by country</a></li>
-             </ul> 
-            </div>
-           </div></td>
-         </tr>
-        </tbody>
-       </table>
-      </div> <!-- 
-NewPP limit report
-Parsed by mw1360
-Cached time: 20201223135538
-Cache expiry: 2592000
-Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.456 seconds
-Real time usage: 0.646 seconds
-Preprocessor visited node count: 3082/1000000
-Post‐expand include size: 81737/2097152 bytes
-Template argument size: 2566/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 0/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 47255/5000000 bytes
-Lua time usage: 0.147/10.000 seconds
-Lua memory usage: 4073221/52428800 bytes
-Number of Wikibase entities loaded: 0/400
---> <!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  529.996      1 -total
- 29.21%  154.833      1 Template:Reflist
- 23.64%  125.289     19 Template:Flagu
- 23.27%  123.308     12 Template:Cite_web
- 12.79%   67.810      1 Template:For
- 10.62%   56.297      2 Template:Navbox
-  9.45%   50.106      1 Template:Drug_policy_nav
-  8.13%   43.072      1 Template:Horizontal_TOC
-  5.13%   27.182      1 Template:Nonumtoc
-  3.78%   20.015     19 Template:Flagu/core
---> <!-- Saved in parser cache with key enwiki:pcache:idhash:55591832-0!canonical and timestamp 20201223135537 and revision id 995899836. Serialized with JSON.
- --> 
-     </div>
-     <noscript>
-      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
-     </noscript> 
-     <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;oldid=995899836">https://en.wikipedia.org/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;oldid=995899836</a>"
-     </div>
-    </div> 
-    <div id="catlinks" class="catlinks" data-mw="interface">
-     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
-      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
-      <ul>
-       <li><a href="/wiki/Category:Drug_control_law" title="Category:Drug control law">Drug control law</a></li>
-       <li><a href="/wiki/Category:Drug_policy_by_country" title="Category:Drug policy by country">Drug policy by country</a></li>
-       <li><a href="/wiki/Category:Law-related_lists" title="Category:Law-related lists">Law-related lists</a></li>
-       <li><a href="/wiki/Category:Lists_by_country" title="Category:Lists by country">Lists by country</a></li>
-       <li><a href="/wiki/Category:Psychoactive_fungi" title="Category:Psychoactive fungi">Psychoactive fungi</a></li>
-      </ul>
-     </div>
-     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
-      Hidden categories: 
-      <ul>
-       <li><a href="/wiki/Category:CS1_Portuguese-language_sources_(pt)" title="Category:CS1 Portuguese-language sources (pt)">CS1 Portuguese-language sources (pt)</a></li>
-       <li><a href="/wiki/Category:CS1_Danish-language_sources_(da)" title="Category:CS1 Danish-language sources (da)">CS1 Danish-language sources (da)</a></li>
-       <li><a href="/wiki/Category:CS1_maint:_extra_punctuation" title="Category:CS1 maint: extra punctuation">CS1 maint: extra punctuation</a></li>
-       <li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li>
-       <li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li>
-       <li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li>
-       <li><a href="/wiki/Category:CS1_Romanian-language_sources_(ro)" title="Category:CS1 Romanian-language sources (ro)">CS1 Romanian-language sources (ro)</a></li>
-       <li><a href="/wiki/Category:CS1_Russian-language_sources_(ru)" title="Category:CS1 Russian-language sources (ru)">CS1 Russian-language sources (ru)</a></li>
-      </ul>
-     </div>
-    </div> 
-   </div> 
-  </div> 
-  <div id="mw-data-after-content"> 
-   <div class="read-more-container"></div> 
-  </div> 
-  <div id="mw-navigation"> 
-   <h2>Navigation menu</h2> 
-   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
-     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="pt-anonuserpage">Not logged in</li>
-       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
-       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
-       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Legal+status+of+psychoactive+cactus+by+country" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
-       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Legal+status+of+psychoactive+cactus+by+country" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
-      </ul> 
-     </div> 
-    </nav> 
-    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
-      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list">
-        <li id="ca-nstab-main" class="selected"><a href="/wiki/Legal_status_of_psychoactive_cactus_by_country" title="View the content page [c]" accesskey="c">Article</a></li>
-        <li id="ca-talk"><a href="/wiki/Talk:Legal_status_of_psychoactive_cactus_by_country" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
-       </ul> 
-      </div> 
-     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
-      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
-      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list"></ul> 
-      </div> 
-     </nav> 
-    </div> 
-    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
-      <h3 id="p-views-label"> <span>Views</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list">
-        <li id="ca-view" class="selected"><a href="/wiki/Legal_status_of_psychoactive_cactus_by_country">Read</a></li>
-        <li id="ca-edit"><a href="/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
-        <li id="ca-history"><a href="/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
-       </ul> 
-      </div> 
-     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
-      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
-      <h3 id="p-cactions-label"> <span>More</span> </h3> 
-      <div class="vector-menu-content"> 
-       <ul class="vector-menu-content-list"></ul> 
-      </div> 
-     </nav> 
-     <div id="p-search" role="search"> 
-      <h3> <label for="searchInput">Search</label> </h3> 
-      <form action="/w/index.php" id="searchform"> 
-       <div id="simpleSearch" data-search-loc="header-navigation"> 
-        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
-        <input type="hidden" name="title" value="Special:Search"> 
-        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
-        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
-       </div> 
-      </form> 
-     </div> 
-    </div> 
-   </div> 
-   <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
-    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
-     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
-       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
-       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
-       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
-       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
-     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
-       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
-       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
-       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
-     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Legal_status_of_psychoactive_cactus_by_country" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Legal_status_of_psychoactive_cactus_by_country" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
-       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;oldid=995899836" title="Permanent link to this revision of this page">Permanent link</a></li>
-       <li id="t-info"><a href="/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Legal_status_of_psychoactive_cactus_by_country&amp;id=995899836&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
-       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q42417811" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
-     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list">
-       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Legal_status_of_psychoactive_cactus_by_country&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
-       <li id="t-print"><a href="/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
-      </ul> 
-     </div> 
-    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
-     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
-     <div class="vector-menu-content"> 
-      <ul class="vector-menu-content-list"></ul> 
-      <div class="after-portlet after-portlet-lang">
-       <span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q42417811#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span>
-      </div> 
-     </div> 
-    </nav> 
-   </div> 
-  </div> 
-  <footer id="footer" class="mw-footer" role="contentinfo"> 
-   <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last edited on 23 December 2020, at 13:55<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
-    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
-   </ul> 
-   <ul id="footer-places"> 
-    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
-    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
-    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
-    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
-    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Legal_status_of_psychoactive_cactus_by_country&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
-    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
-    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
-    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
-   </ul> 
-   <ul id="footer-icons" class="noprint"> 
-    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
-    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
-   </ul> 
-   <div style="clear: both;"></div> 
-  </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.456","walltime":"0.646","ppvisitednodes":{"value":3082,"limit":1000000},"postexpandincludesize":{"value":81737,"limit":2097152},"templateargumentsize":{"value":2566,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":47255,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  529.996      1 -total"," 29.21%  154.833      1 Template:Reflist"," 23.64%  125.289     19 Template:Flagu"," 23.27%  123.308     12 Template:Cite_web"," 12.79%   67.810      1 Template:For"," 10.62%   56.297      2 Template:Navbox","  9.45%   50.106      1 Template:Drug_policy_nav","  8.13%   43.072      1 Template:Horizontal_TOC","  5.13%   27.182      1 Template:Nonumtoc","  3.78%   20.015     19 Template:Flagu/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.147","limit":"10.000"},"limitreport-memusage":{"value":4073221,"limit":52428800}},"cachereport":{"origin":"mw1360","timestamp":"20201223135538","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Legal status of psychoactive cactus by country","url":"https:\/\/en.wikipedia.org\/wiki\/Legal_status_of_psychoactive_cactus_by_country","sameAs":"http:\/\/www.wikidata.org\/entity\/Q42417811","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q42417811","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2017-10-21T21:04:23Z","dateModified":"2020-12-23T13:55:32Z"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":151,"wgHostname":"mw1330"});});</script> 
- </body>
-</html>
+<table class="wikitable sortable" style="text-align:left"> 
+ <tbody>
+  <tr> 
+   <th style="width:200px;"><b>Country</b></th> 
+   <th><b>Possession</b></th> 
+   <th><b>Sale</b></th> 
+   <th><b>Transport</b></th> 
+   <th><b>Cultivation</b></th> 
+   <th><b>Notes</b> </th>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640">&nbsp;</span>Australia </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Legal depending on Territory</td> 
+   <td>Mescaline is considered a schedule 9 substance in Australia under the Poisons Standard (February 2020). The peyote cacti and other mescaline-containing plants such as San Pedro are illegal in Western Australia, Queensland, and the Northern Territory, whilst in other states such as Tasmania, Victoria and New South Wales, they are legal for ornamental and gardening purposes <sup id="cite_ref-Federal_Register_of_Legislation_2020_1-0" class="reference"><a href="#cite_note-Federal_Register_of_Legislation_2020-1">[1]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;</span>Brazil </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Possession, production and sale is illegal as it is listed on Portaria SVS/MS nº344<sup id="cite_ref-Agência_Nacional_de_Vigilância_Sanitária_-_Anvisa_2-0" class="reference"><a href="#cite_note-Agência_Nacional_de_Vigilância_Sanitária_-_Anvisa-2">[2]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>Canada </td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Illegal except Peyote</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Illegal except Peyote</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Illegal except Peyote</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td>Mescaline and any salt thereof is illegal, but not peyote (<i>lophophora</i>).<sup id="cite_ref-Site_Web_de_la_législation_(Justice)_2019_3-0" class="reference"><a href="#cite_note-Site_Web_de_la_législation_(Justice)_2019-3">[3]</a></sup> The San Pedro cactus and other plants are not exempt and is only permitted to grow for ornamental purposes. <sup id="cite_ref-Lexology_2020_4-0" class="reference"><a href="#cite_note-Lexology_2020-4">[4]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387">&nbsp;</span>Denmark </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>"Cactus and seeds of the species <i>Echinopsis pachanoi</i> and <i>Echinopsis peruviana</i> or others containing the substance mescaline are illegal. (3,4,5-trimethoxy-phenethylamin)."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>France </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Peyote is regulated</td> 
+   <td>Mescaline is classified as a narcotic in France by the decree of February 22, 1990 establishing the list of substances classified as narcotics<sup id="cite_ref-Wikiwix[archive]_2002_6-0" class="reference"><a href="#cite_note-Wikiwix[archive]_2002-6">[6]</a></sup> <i>Lophophora williamsi</i> had been classified in table A of toxic substances in 1957, then in 1966 in table B of narcotics, to be "relegated" on February 22, 1990. </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span>Germany </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td>Cacti are not prohibited. Mescaline is controlled under Anlage I BtMG. It is illegal to manufacture, possess, import, export, buy, sell, procure or dispense it without a license.<sup id="cite_ref-Gesetze_im_Internet_7-0" class="reference"><a href="#cite_note-Gesetze_im_Internet-7">[7]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;</span>India </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Mescaline is listed under controlled in <a href="/wiki/Drug_policy_of_India" title="Drug policy of India">India under the NDPS Act</a> cultivation/production/manufacture, possession, sale, purchase, transport, storage, consumption or distribution is illegal. </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span>Italy </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Mescaline is listed under Table 1 of Italy's "Tabelle delle sostanze stupefacenti e psicotrope" making it illegal to purchase, transport or sell<sup id="cite_ref-Salute_2013_8-0" class="reference"><a href="#cite_note-Salute_2013-8">[8]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>Ireland </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Mescaline is listed under Schedule 1 of Ireland's <a href="/wiki/Misuse_of_Drugs_Act_(Ireland)" title="Misuse of Drugs Act (Ireland)">Misuse of Drugs Act</a> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span>Norway </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>New Zealand </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td>May be cultivated for ornamental purposes but not for recreational use. Mescaline is a Class A drug under the Misuse of Drugs Act.<sup id="cite_ref-NZ_Drug_Foundation_10-0" class="reference"><a href="#cite_note-NZ_Drug_Foundation-10">[10]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512">&nbsp;&nbsp;</span>Switzerland </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span>Romania </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Psychotropic plants and substances or mixtures containing such plants and substances defined under drugs and Mescaline is listed in table 1, the most restrictive under LEGE nr. 143 din 26 iulie 2000 <sup id="cite_ref-Portal_Legislativ_12-0" class="reference"><a href="#cite_note-Portal_Legislativ-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>Russia </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td>Mescaline is List I of narcotic drugs, psychotropic substances prohibiting the purchase, transporting, and possession of substances<sup id="cite_ref-ГАРАНТ_13-0" class="reference"><a href="#cite_note-ГАРАНТ-13">[13]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000">&nbsp;</span>Sweden </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span>Thailand </td> 
+   <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">Illegal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td>Cacti such as peyote are not prohibited. However, mescaline, which they contain is a prohibited narcotic substance.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span>Ukraine </td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td>The government has excluded San Pedro Cactus (<a href="/wiki/Echinopsis_pachanoi" title="Echinopsis pachanoi"><i>Echinopsis Pachanoi</i></a>) and peyote (<a href="/wiki/Peyote" title="Peyote"><i>Lophophora Williamsii</i></a>) from the list of illicit drugs, psychotropic substances and precursors. This is stated in the decision of the Cabinet of Ministers №408 dated May 23, 2012.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span>United Kingdom </td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td>“Hallucinogenic cacti are not illegal in the UK, unless prepared for consumption as a hallucinogen. This could include drying them, or cutting them into edible ‘buttons’.” <sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span>United States </td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Legal for religious use</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Legal for religious use</td> 
+   <td style="background:#FFB;vertical-align:middle;text-align:center;" class="table-partial">Legal for religious use</td> 
+   <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Legal</td> 
+   <td>Only peyote and mescaline itself are controlled substances in the United States. <a rel="nofollow" class="external text" href="https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf">Substance: Peyote, DEA#: 7415, CSA SCH: I, NARC: N, Other names: Cactus which contains mescaline</a> <p>Following the passage of the <a href="/wiki/American_Indian_Religious_Freedom_Act" title="American Indian Religious Freedom Act">American Indian Religious Freedom Act</a> Amendments of 1994, United States <a href="/wiki/Federal_law" title="Federal law">federal law</a> (and many <a href="/wiki/State_law" title="State law">state laws</a>) protects the <a href="/wiki/Harvest" title="Harvest">harvest</a>, <a href="/wiki/Possession_(law)" title="Possession (law)">possession</a>, <a href="/wiki/Ingestion" title="Ingestion">consumption</a> and <a href="/wiki/Plant_cultivation" class="mw-redirect" title="Plant cultivation">cultivation</a> of peyote as part of "<a href="/wiki/Bona_fide" class="mw-redirect" title="Bona fide">bona fide</a> religious ceremonies" (the federal statute is the American Indian Religious Freedom Act, codified at <a href="/wiki/Title_42_of_the_United_States_Code" title="Title 42 of the United States Code">42&nbsp;U.S.C.</a>&nbsp;<a rel="nofollow" class="external text" href="https://www.law.cornell.edu/uscode/text/42/1996a">§&nbsp;1996a</a>, "Traditional Indian religious use of the peyote sacrament", exempting only use by Native American persons. US v. Boyll expanded permitted use to all persons engaged in traditional Indian use, regardless of race. All US states with the exception of Idaho and Texas allow usage by non-native, non-enrolled persons in the context of ceremonies of the <a href="/wiki/Native_American_Church" title="Native American Church">Native American Church</a>. Some states such as Arizona additionally exempt any general bona fide religious activity or spiritual intent. US jurisdictions enacted these specific statutory exemptions partially in reaction to the <a href="/wiki/Supreme_Court_of_the_United_States" title="Supreme Court of the United States">US Supreme Court</a>'s decision in <i><a href="/wiki/Employment_Division_v._Smith" title="Employment Division v. Smith">Employment Division v. Smith</a></i>, <a href="/wiki/List_of_United_States_Supreme_Court_cases,_volume_494" title="List of United States Supreme Court cases, volume 494">494</a> <a href="/wiki/United_States_Reports" title="United States Reports">U.S.</a> <a rel="nofollow" class="external text" href="https://supreme.justia.com/cases/federal/us/494/872/">872</a> (1990), which held that laws prohibiting the use of peyote that do not specifically exempt religious use nevertheless do not violate the <a href="/wiki/Free_Exercise_Clause" title="Free Exercise Clause">Free Exercise Clause</a> of the <a href="/wiki/First_Amendment_to_the_United_States_Constitution" title="First Amendment to the United States Constitution">First Amendment</a>. </p> </td>
+  </tr> 
+ </tbody>
+</table>

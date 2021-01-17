@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.location;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public final class CountryInformation {
 
@@ -15,16 +16,16 @@ public final class CountryInformation {
     public HashMap<CountryInfo, String> getInfo() {
         return info;
     }
-    public void setInfo(CountryInfo info, String value) {
-        this.info.put(info, value);
-    }
     private void updateJSON() {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
-        for(CountryInfo information : info.keySet()) {
-            final String value = info.get(information);
-            builder.append(isFirst ? "" : ",").append("\"").append(information.name().toLowerCase()).append("\":").append(value);
-            isFirst = false;
+        for(Map.Entry<CountryInfo, String> entry : info.entrySet()) {
+            final CountryInfo information = entry.getKey();
+            final String value = entry.getValue();
+            if(value != null && !value.equals("null")) {
+                builder.append(isFirst ? "" : ",").append("\"").append(information.name().toLowerCase()).append("\":").append(value);
+                isFirst = false;
+            }
         }
         builder.append("}");
         json = builder.toString();

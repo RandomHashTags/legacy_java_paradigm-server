@@ -1,256 +1,28 @@
-<!doctype html>
-<html lang="en-US" dir="ltr" class="type-normal">
- <head>
-  <meta name="viewport" content="width=device-width">
-  <meta charset="utf-8">
-  <title>Where is Spotify available? - Spotify</title>
-  <link rel="icon" href="//www.scdn.co/i/_global/favicon.png">
-  <link rel="canonical" href="https://support.spotify.com/us/article/full-list-of-territories-where-spotify-is-available/">
-  <meta name="description" content="A list of territories and regions where Spotify is available.">
-  <meta name="keywords" content="full,list,of,territories,where,spotify,is,available">
-  <meta property="og:title" content="Where is Spotify available? - Spotify">
-  <meta property="og:url" content="https://support.spotify.com/us/article/full-list-of-territories-where-spotify-is-available/">
-  <meta property="og:locale" content="en_US">
-  <meta property="og:description" content="A list of territories and regions where Spotify is available.">
-  <meta property="og:site_name" content="Spotify">
-  <meta property="og:type" content="website">
-  <meta property="og:image" content="//www.scdn.co/i/_global/open-graph-default.png">
-  <meta name="twitter:title" content="Where is Spotify available? - Spotify">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@SpotifyCares">
-  <meta name="twitter:creator" content="@SpotifyCares">
-  <meta name="twitter:image" content="//www.scdn.co/i/_global/open-graph-default.png">
-  <meta name="twitter:url" content="https://support.spotify.com/us/article/full-list-of-territories-where-spotify-is-available/">
-  <meta name="twitter:description" content="A list of territories and regions where Spotify is available.">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//www.scdn.co/i/_global/touch-icon-144.png">
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//www.scdn.co/i/_global/touch-icon-114.png">
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//www.scdn.co/i/_global/touch-icon-72.png">
-  <link rel="apple-touch-icon-precomposed" href="//www.scdn.co/i/_global/touch-icon-57.png">
-  <meta name="next-head-count" content="25">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/css/89db8d4b8fd0d56bf711.css" as="style">
-  <link rel="stylesheet" href="https://support.scdn.co/web/_next/static/css/89db8d4b8fd0d56bf711.css" data-n-g="">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/css/4424ba34c41e934be02e.css" as="style">
-  <link rel="stylesheet" href="https://support.scdn.co/web/_next/static/css/4424ba34c41e934be02e.css" data-n-p="">
-  <noscript data-n-css="true"></noscript>
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/chunks/main-61d345d32f8d8e39bf40.js" as="script">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/chunks/webpack-eb080e3f091731f228fb.js" as="script">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/chunks/framework.1d36bc031662b4dc4c28.js" as="script">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/chunks/commons.012c5284bd9fa3492250.js" as="script">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/chunks/e9b5520cb653bacd8276fcee0575bed918b8923e.7b607377771b474d34dc.js" as="script">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/chunks/c2e81fd467fa534f89a4cfb827b657f19851629f.5b431ca408f3de456265.js" as="script">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/chunks/pages/_app-b69d8ddc7156d9f5723d.js" as="script">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/chunks/719d9cf19e98cb0c496df040801f9ae1e9a77687.5dc0ecc1b6b3cc4425dc.js" as="script">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/chunks/640622908186f5ef9bc9adc06ce4d5daf7f84fa5.228a6471f4cf60644188.js" as="script">
-  <link rel="preload" href="https://support.scdn.co/web/_next/static/chunks/pages/%5Bmarket%5D/article/%5Barticleslug%5D-45b3581645201151330d.js" as="script">
-  <style data-styled="" data-styled-version="5.2.0">.hFITbW{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);padding-left:0;margin-top:0;margin-bottom:0;padding-bottom:0;list-style-type:none;}/*!sc*/
-data-styled.g1[id="List-sc-1t3o2fv-0"]{content:"hFITbW,"}/*!sc*/
-.diIZxw{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);list-style-type:none;}/*!sc*/
-data-styled.g4[id="ListItem-sc-1865pvv-0"]{content:"diIZxw,"}/*!sc*/
-.ciGKQQ{stroke-width:0.8pt;}/*!sc*/
-.ciGKQQ *{vector-effect:non-scaling-stroke;}/*!sc*/
-.ciGKQQ *[fill='#181818']{fill:currentColor;}/*!sc*/
-.ciGKQQ *[stroke='#181818']{stroke:currentColor;}/*!sc*/
-.jWJWkr{stroke-width:1.2pt;}/*!sc*/
-.jWJWkr *{vector-effect:non-scaling-stroke;}/*!sc*/
-.jWJWkr *[fill='#181818']{fill:currentColor;}/*!sc*/
-.jWJWkr *[stroke='#181818']{stroke:currentColor;}/*!sc*/
-data-styled.g6[id="Svg-sc-1usfroi-0"]{content:"ciGKQQ,jWJWkr,"}/*!sc*/
-.iRtEuI{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);display:block;padding:0 0 1em;margin-top:0;margin-bottom:0;font-size:28px;font-weight:900;-webkit-letter-spacing:-0.25px;-moz-letter-spacing:-0.25px;-ms-letter-spacing:-0.25px;letter-spacing:-0.25px;line-height:36px;padding-bottom:0.75em;}/*!sc*/
-@media (min-width:768px){.iRtEuI{font-size:32px;line-height:40px;-webkit-letter-spacing:-0.5px;-moz-letter-spacing:-0.5px;-ms-letter-spacing:-0.5px;letter-spacing:-0.5px;}}/*!sc*/
-.kQQBq{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);display:block;padding:0 0 1em;margin-top:0;margin-bottom:0;font-size:20px;font-weight:900;line-height:28px;-webkit-letter-spacing:-0.25px;-moz-letter-spacing:-0.25px;-ms-letter-spacing:-0.25px;letter-spacing:-0.25px;}/*!sc*/
-@media (min-width:768px){.kQQBq{font-size:24px;line-height:32px;}}/*!sc*/
-.hpmHbn{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);margin-top:0;margin-bottom:0;font-size:14px;font-weight:400;line-height:20px;-webkit-letter-spacing:0.25px;-moz-letter-spacing:0.25px;-ms-letter-spacing:0.25px;letter-spacing:0.25px;}/*!sc*/
-.fDWrbH{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);display:block;padding:0 0 1em;margin-top:0;margin-bottom:0;font-size:16px;font-weight:400;line-height:24px;-webkit-letter-spacing:0px;-moz-letter-spacing:0px;-ms-letter-spacing:0px;letter-spacing:0px;}/*!sc*/
-.ijFbbX{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);margin-top:0;margin-bottom:0;font-size:16px;font-weight:700;-webkit-letter-spacing:2px;-moz-letter-spacing:2px;-ms-letter-spacing:2px;letter-spacing:2px;line-height:16px;text-transform:uppercase;}/*!sc*/
-.ZNrVT{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);display:block;padding:0 0 1em;margin-top:0;margin-bottom:0;font-size:32px;font-weight:900;-webkit-letter-spacing:-1px;-moz-letter-spacing:-1px;-ms-letter-spacing:-1px;letter-spacing:-1px;line-height:40px;padding-bottom:0.67em;}/*!sc*/
-@media (min-width:768px){.ZNrVT{font-size:40px;line-height:48px;}}/*!sc*/
-@media (min-width:992px){.ZNrVT{font-size:48px;line-height:56px;}}/*!sc*/
-.bVzvNU{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);display:block;padding:0 0 1em;margin-top:0;margin-bottom:0;font-size:14px;font-weight:400;line-height:20px;-webkit-letter-spacing:0.25px;-moz-letter-spacing:0.25px;-ms-letter-spacing:0.25px;letter-spacing:0.25px;}/*!sc*/
-.gffqZE{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);margin-top:0;margin-bottom:0;font-size:18px;font-weight:400;line-height:26px;-webkit-letter-spacing:0px;-moz-letter-spacing:0px;-ms-letter-spacing:0px;letter-spacing:0px;font-weight:700;}/*!sc*/
-data-styled.g7[id="Type__TypeElement-sc-9snywk-0"]{content:"iRtEuI,kQQBq,hpmHbn,fDWrbH,ijFbbX,ZNrVT,bVzvNU,gffqZE,"}/*!sc*/
-.cFPyKn{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);background-color:transparent;border:0;border-radius:500px;display:inline-block;font-size:12px;font-weight:700;-webkit-letter-spacing:2px;-moz-letter-spacing:2px;-ms-letter-spacing:2px;letter-spacing:2px;line-height:1;text-align:center;-webkit-text-decoration:none;text-decoration:none;text-transform:uppercase;touch-action:manipulation;-webkit-transition-duration:33ms;transition-duration:33ms;-webkit-transition-property:background-color,border-color,color,box-shadow,filter,-webkit-transform;-webkit-transition-property:background-color,border-color,color,box-shadow,filter,transform;transition-property:background-color,border-color,color,box-shadow,filter,transform;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;vertical-align:middle;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);padding:10px 32px;position:relative;background-color:#2d46b9;color:#ffffff;}/*!sc*/
-.cFPyKn:focus{outline:none;}/*!sc*/
-.cFPyKn::after{width:calc(100% + 12px);height:calc(100% + 12px);top:-6px;left:-6px;content:'';display:block;position:absolute;pointer-events:none;background:transparent;border:3px solid transparent;-webkit-transition:border-color 200ms ease-in;transition:border-color 200ms ease-in;border-radius:500px;box-sizing:border-box;}/*!sc*/
-.cFPyKn:focus::after{border-color:#000000;}/*!sc*/
-.cFPyKn:hover:not(:focus):not(:disabled){-webkit-transform:scale(1.04);-ms-transform:scale(1.04);transform:scale(1.04);background-color:#6274CB;color:#ffffff;}/*!sc*/
-.cFPyKn:active,.cFPyKn:active:hover{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);background-color:#1F3182;box-shadow:none;color:rgba(255,255,255,0.5);}/*!sc*/
-.cFPyKn[disabled],fieldset[disabled] .cFPyKn{background-color:#B7BCD3;color:#ffffff;cursor:not-allowed;opacity:0.4;}/*!sc*/
-.eKyXYa{box-sizing:border-box;font-family:spotify-circular,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:rgba(0,0,0,0);background-color:transparent;border:0;border-radius:500px;display:inline-block;font-size:12px;font-weight:700;-webkit-letter-spacing:2px;-moz-letter-spacing:2px;-ms-letter-spacing:2px;letter-spacing:2px;line-height:1;text-align:center;-webkit-text-decoration:none;text-decoration:none;text-transform:uppercase;touch-action:manipulation;-webkit-transition-duration:33ms;transition-duration:33ms;-webkit-transition-property:background-color,border-color,color,box-shadow,filter,-webkit-transform;-webkit-transition-property:background-color,border-color,color,box-shadow,filter,transform;transition-property:background-color,border-color,color,box-shadow,filter,transform;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;vertical-align:middle;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);padding:10px 32px;position:relative;background-color:rgba(255,255,255,0.3);border:1px solid #b3b3b3;color:#181818;position:relative;line-height:0.8;}/*!sc*/
-.eKyXYa:focus{outline:none;}/*!sc*/
-.eKyXYa::after{width:calc(100% + 12px);height:calc(100% + 12px);top:-6px;left:-6px;content:'';display:block;position:absolute;pointer-events:none;background:transparent;border:3px solid transparent;-webkit-transition:border-color 200ms ease-in;transition:border-color 200ms ease-in;border-radius:500px;box-sizing:border-box;}/*!sc*/
-.eKyXYa:focus::after{border-color:#000000;}/*!sc*/
-.eKyXYa:hover:not(:focus):not(:disabled){-webkit-transform:scale(1.04);-ms-transform:scale(1.04);transform:scale(1.04);border:1px solid #181818;color:#181818;}/*!sc*/
-.eKyXYa:active,.eKyXYa:active:hover{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);border:1px solid #b3b3b3;color:#181818;}/*!sc*/
-.eKyXYa[disabled],fieldset[disabled] .eKyXYa{background-color:transparent;box-shadow:1px solid #b3b3b3;color:#181818;cursor:not-allowed;opacity:0.4;}/*!sc*/
-data-styled.g27[id="Button-oyfj48-0"]{content:"cFPyKn,eKyXYa,"}/*!sc*/
-*{box-sizing:border-box;}/*!sc*/
-*::before,*::after{box-sizing:border-box;}/*!sc*/
-body{font-family:spotify-circular,Helvetica,Arial,sans-serif;margin:0;}/*!sc*/
-html,body{height:100%;}/*!sc*/
-data-styled.g108[id="sc-global-cKDjoD1"]{content:"sc-global-cKDjoD1,"}/*!sc*/
-</style>
- </head>
- <body class="type-normal">
-  <div id="__next">
-   <div class="Header_root__oZdS-">
-    <div> 
-     <header role="banner" class="mh-header-hover mh-default-z-index svelte-14yhn32"> 
-      <div class="mh-container svelte-14yhn32">
-       <div class="mh-brand-wrapper svelte-14yhn32">
-        <a href="#" class="mh-header-primary svelte-18o1xvt"><span class="mh-header-primary svelte-1gcdbl9">
-          <svg viewbox="0 0 63 20" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="xMidYMin meet">
-           <g fill-rule="evenodd" class="svelte-1gcdbl9">
-            <path d="M61.842 9.506a1.02 1.02 0 0 1-1.023-1.024c0-.562.453-1.03 1.029-1.03a1.02 1.02 0 0 1 1.023 1.024 1.03 1.03 0 0 1-1.029 1.03m.006-1.952a.915.915 0 0 0-.922.928c0 .51.394.921.916.921a.916.916 0 0 0 .922-.927.908.908 0 0 0-.916-.922m.226 1.027l.29.406h-.244l-.26-.372h-.225v.372h-.204V7.912h.48c.249 0 .413.128.413.343 0 .176-.102.284-.25.326m-.172-.485h-.267v.34h.267c.133 0 .212-.065.212-.17 0-.11-.08-.17-.212-.17m-12.804-3.52a1.043 1.043 0 1 0-.001 2.086 1.043 1.043 0 0 0 0-2.087m.72 2.89h-1.454a.107.107 0 0 0-.106.107v6.346c0 .06.047.107.106.107h1.455a.107.107 0 0 0 .107-.107V7.572a.107.107 0 0 0-.107-.107m3.233.006v-.2c0-.592.227-.856.736-.856.303 0 .546.06.82.152a.106.106 0 0 0 .14-.102V5.24a.107.107 0 0 0-.076-.102 3.993 3.993 0 0 0-1.21-.174c-1.343 0-2.053.757-2.053 2.188v.308h-.699a.107.107 0 0 0-.107.106v1.257c0 .059.048.107.107.107h.699v4.99c0 .058.047.106.106.106h1.455a.107.107 0 0 0 .106-.107v-4.99h1.358l2.081 4.99c-.236.523-.468.628-.785.628-.257 0-.527-.077-.803-.228a.109.109 0 0 0-.084-.008.106.106 0 0 0-.063.058l-.493 1.081a.106.106 0 0 0 .045.138c.515.279.98.398 1.554.398 1.074 0 1.668-.5 2.191-1.847L60.6 7.617a.106.106 0 0 0-.099-.146h-1.514a.107.107 0 0 0-.1.072l-1.552 4.431-1.7-4.434a.106.106 0 0 0-.099-.069h-2.485m-5.577-.006h-1.6V5.828a.106.106 0 0 0-.107-.106h-1.455a.107.107 0 0 0-.106.106v1.637h-.7a.106.106 0 0 0-.106.107v1.25c0 .059.048.107.106.107h.7v3.234c0 1.308.65 1.97 1.934 1.97.522 0 .954-.107 1.362-.338a.106.106 0 0 0 .054-.093v-1.19a.106.106 0 0 0-.154-.096c-.28.141-.551.206-.854.206-.467 0-.675-.211-.675-.686V8.929h1.6a.106.106 0 0 0 .107-.107v-1.25a.106.106 0 0 0-.106-.107m-7.671-.133c-1.96 0-3.497 1.51-3.497 3.437 0 1.907 1.526 3.4 3.473 3.4 1.967 0 3.508-1.504 3.508-3.424 0-1.914-1.53-3.413-3.484-3.413m0 5.362c-1.043 0-1.83-.838-1.83-1.95 0-1.115.76-1.924 1.806-1.924 1.05 0 1.84.838 1.84 1.95 0 1.115-.763 1.924-1.816 1.924m-7.014-5.362c-.82 0-1.492.323-2.046.984v-.744a.107.107 0 0 0-.106-.107h-1.455a.107.107 0 0 0-.106.107v8.27c0 .058.048.106.106.106h1.455a.107.107 0 0 0 .106-.106v-2.61c.555.621 1.227.925 2.046.925 1.522 0 3.063-1.172 3.063-3.412s-1.54-3.413-3.063-3.413m1.372 3.413c0 1.14-.703 1.937-1.709 1.937-.995 0-1.745-.833-1.745-1.937s.75-1.937 1.745-1.937c.99 0 1.71.814 1.71 1.937m-8.437-1.81c-1.624-.388-1.913-.66-1.913-1.231 0-.54.508-.903 1.264-.903.732 0 1.459.275 2.22.843a.107.107 0 0 0 .15-.023l.794-1.119a.107.107 0 0 0-.02-.144c-.906-.728-1.927-1.081-3.12-1.081-1.755 0-2.98 1.052-2.98 2.559 0 1.615 1.057 2.187 2.884 2.628 1.554.358 1.817.658 1.817 1.195 0 .594-.53.963-1.385.963-.948 0-1.721-.32-2.587-1.068a.11.11 0 0 0-.078-.026.105.105 0 0 0-.073.038l-.89 1.058a.105.105 0 0 0 .011.148 5.303 5.303 0 0 0 3.581 1.373c1.89 0 3.112-1.033 3.112-2.631 0-1.351-.807-2.098-2.787-2.58M9.507.305a9.41 9.41 0 1 0 0 18.82 9.41 9.41 0 0 0 0-18.82m4.316 13.572a.586.586 0 0 1-.807.195c-2.21-1.35-4.99-1.655-8.266-.907a.586.586 0 1 1-.261-1.143c3.584-.82 6.659-.467 9.139 1.049.276.169.363.53.195.806m1.15-2.562a.734.734 0 0 1-1.008.242c-2.529-1.555-6.385-2.005-9.377-1.097a.735.735 0 0 1-.426-1.404c3.418-1.037 7.666-.534 10.57 1.25a.734.734 0 0 1 .242 1.01m.1-2.669C12.04 6.846 7.036 6.68 4.141 7.56a.88.88 0 1 1-.511-1.684c3.323-1.01 8.849-.814 12.34 1.258a.88.88 0 0 1-.898 1.514"></path>
-           </g>
-          </svg> Spotify </span> </a>
-       </div> 
-       <nav role="navigation" class="mh-desktop svelte-4ldyho">
-        <ul class="svelte-4ldyho"></ul>
-       </nav> 
-       <div class="mh-mobile-menu svelte-4ldyho"> 
-       </div>
-      </div>
-     </header> 
-     <div id="start-of-content"></div> 
-    </div>
-   </div>
-   <div data-testid="bannerContainer"></div>
-   <div role="main" class="mainContainer">
-    <div class="TopSection_container__1-XAT">
-     <div class="CategoryDropdown_root__2XvF9">
-      <button class="CategoryDropdown_header__V6x1S">Help topics
-       <svg role="img" focusable="false" height="16" width="16" viewbox="0 0 24 24" class="Svg-sc-1usfroi-0 ciGKQQ CategoryDropdown_chevron__nowAU" aria-label="Open subcategory list" aria-expanded="false" aria-controls="subcategoryList">
-        <polyline points="20 8 12 17 4 8" fill="none" stroke="#181818" />
-       </svg></button>
-     </div>
-     <div class="TopSection_iconWrapper__1VQr5">
-      <svg role="img" focusable="false" height="32" width="32" viewbox="0 0 24 24" data-testid="iconShowSearch" class="Svg-sc-1usfroi-0 jWJWkr TopSection_searchIcon__3_DM9" aria-label="Open search">
-       <line x1="15.54" y1="15.54" x2="20.41" y2="20.41" fill="none" stroke="#181818" /><circle cx="10.5" cy="10.5" r="7" fill="none" stroke="#181818" />
-      </svg>
-     </div>
-    </div>
-    <div class="container">
-     <div class="Layout_side__2HIOF">
-      <h2 class="Type__TypeElement-sc-9snywk-0 iRtEuI Sidebar_header__VjKGT">How can we help you?</h2>
-      <div class="Sidebar_category__3mX9F">
-       <h3 class="Type__TypeElement-sc-9snywk-0 kQQBq">Account &amp; Payment</h3>
-       <ul data-testid="subcategories" class="List-sc-1t3o2fv-0 hFITbW">
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/account_payment_help/account_help/" data-testid="Account Help" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Account Help</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/account_payment_help/payment_help/" data-testid="Payment Help" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Payment Help</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/account_payment_help/subscription_options/" data-testid="Subscription Options" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Subscription Options</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/account_payment_help/premium_for_family/" data-testid="Premium Family" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Premium Family</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/account_payment_help/premium_duo/" data-testid="Premium Duo" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Premium Duo</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/account_payment_help/premium_for_students/" data-testid="Premium Student" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Premium Student</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/account_payment_help/privacy/" data-testid="Privacy &amp; Security" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Privacy &amp; Security</a></li>
-       </ul>
-      </div>
-      <div class="Sidebar_category__3mX9F">
-       <h3 class="Type__TypeElement-sc-9snywk-0 kQQBq">Using Spotify</h3>
-       <ul data-testid="subcategories" class="List-sc-1t3o2fv-0 hFITbW">
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/using_spotify/video_tutorials/" data-testid="Video Tutorials" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Video Tutorials</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/using_spotify/getting_started/" data-testid="Getting Started" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Getting Started</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/using_spotify/playlists/" data-testid="Playlists" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Playlists</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/using_spotify/features/" data-testid="Features" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Features</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/using_spotify/system_settings/" data-testid="System &amp; Settings" class="Type__TypeElement-sc-9snywk-0 hpmHbn">System &amp; Settings</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/using_spotify/troubleshooting/" data-testid="Troubleshooting" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Troubleshooting</a></li>
-       </ul>
-      </div>
-      <div class="Sidebar_category__3mX9F">
-       <h3 class="Type__TypeElement-sc-9snywk-0 kQQBq">Listen Everywhere</h3>
-       <ul data-testid="subcategories" class="List-sc-1t3o2fv-0 hFITbW">
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/listen_everywhere/on_speaker/" data-testid="Speakers" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Speakers</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/listen_everywhere/on_tv/" data-testid="TVs" class="Type__TypeElement-sc-9snywk-0 hpmHbn">TVs</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/listen_everywhere/in_the_car/" data-testid="Cars" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Cars</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/listen_everywhere/gaming/" data-testid="Gaming" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Gaming</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/listen_everywhere/smart_watches/" data-testid="Smart Watches" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Smart Watches</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/listen_everywhere/smart_displays/" data-testid="Smart Displays" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Smart Displays</a></li>
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/listen_everywhere/voice_assistants/" data-testid="Voice Assistants" class="Type__TypeElement-sc-9snywk-0 hpmHbn">Voice Assistants</a></li>
-       </ul>
-      </div>
-      <hr class="Sidebar_separator__VJfyY">
-      <div class="ExternalLinks_container__21erN">
-       <div class="ExternalLinks_link__1c1xg">
-        <p class="Type__TypeElement-sc-9snywk-0 fDWrbH">Get the full Spotify experience!</p><a href="https://www.spotify.com/us/premium/" target="_blank" class="Type__TypeElement-sc-9snywk-0 ijFbbX">Upgrade to premium</a>
-       </div>
-       <div class="ExternalLinks_link__1c1xg">
-        <p class="Type__TypeElement-sc-9snywk-0 fDWrbH">Have questions, answers, ideas about Spotify? Ask or join our Community!</p><a href="https://community.spotify.com/" target="_blank" class="Type__TypeElement-sc-9snywk-0 ijFbbX">Go to the Community</a>
-       </div>
-       <div class="ExternalLinks_link__1c1xg">
-        <p class="Type__TypeElement-sc-9snywk-0 fDWrbH">Check out our Twitter or Facebook help:</p>
-        <div class="ExternalLinks_socialIcons__8CZ6b">
-         <a href="https://twitter.com/SpotifyCares" target="_blank" class="Type__TypeElement-sc-9snywk-0 hpmHbn"><img alt="Twitter" src="https://support.scdn.co/web/_next/static/assets/1aac33f/twitter-icon.png" class="Image-sc-1ysxafm-3 MIEMs"></a><a href="https://www.facebook.com/SpotifyCares" target="_blank" class="Type__TypeElement-sc-9snywk-0 hpmHbn"><img alt="Facebook" src="https://support.scdn.co/web/_next/static/assets/1aac33f/facebook-icon.png" class="Image-sc-1ysxafm-3 MIEMs"></a>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="Layout_main__3m1yK">
-      <ul class="List-sc-1t3o2fv-0 hFITbW Breadcrumbs_breadcrumb__rOhNX" data-testid="breadcrumbs">
-       <li class="ListItem-sc-1865pvv-0 diIZxw"><a class="Type__TypeElement-sc-9snywk-0 hpmHbn Breadcrumbs_breadcrumbLink__3cLO9" href="/us/">Home</a><span class="Breadcrumbs_separator__1Gjbs" aria-hidden="true"></span></li>
-       <li class="ListItem-sc-1865pvv-0 diIZxw"><a class="Type__TypeElement-sc-9snywk-0 hpmHbn Breadcrumbs_breadcrumbLink__3cLO9" href="/us/using_spotify/getting_started/" data-testid="breadcrumbCategory">Getting Started</a></li>
-      </ul>
-      <h1 class="Type__TypeElement-sc-9snywk-0 ZNrVT Article_title__gR5t8">Where is Spotify available?</h1>
-      <div class="raw-content RawContent_rawContent__Ue9I8 RawContent_phpContent__2S3E0">
-       <p>We love playing music in headphones and speakers around the world.</p> 
-       <p>Here's&nbsp;where you can sign up for Spotify:</p> 
-       <div class="RawContent_tableWrapper__3mA43">
-        <table cellspacing="1" cellpadding="1" border="1">
-         <tbody>
-          <tr>
-           <td rowspan="1" colspan="1">Africa</td>
-           <td rowspan="1" colspan="1">Algeria, Egypt, Morocco, South Africa, Tunisia.</td>
-          </tr>
-          <tr>
-           <td rowspan="1" colspan="1">Asia</td>
-           <td rowspan="1" colspan="1">Bahrain, Hong Kong, India, Indonesia, Israel, Japan, Jordan, Kuwait, Lebanon, Malaysia, Oman, Palestine, Philippines, Qatar, Saudi Arabia, Singapore, Taiwan, Thailand, United Arab Emirates, Vietnam.</td>
-          </tr>
-          <tr>
-           <td rowspan="1" colspan="1">Europe</td>
-           <td rowspan="1" colspan="1">Andorra, Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Spain, Sweden, Switzerland, Turkey, United Kingdom, Russia, Belarus, Kazakhstan, Moldova, Ukraine, Albania, Bosnia, Croatia, Montenegro, North Macedonia, Serbia, Slovenia, Kosovo</td>
-          </tr>
-          <tr>
-           <td rowspan="1" colspan="1">North America</td>
-           <td rowspan="1" colspan="1">Canada, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, United States.</td>
-          </tr>
-          <tr>
-           <td rowspan="1" colspan="1">South America</td>
-           <td rowspan="1" colspan="1">Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay.</td>
-          </tr>
-          <tr>
-           <td rowspan="1" colspan="1">Oceania</td>
-           <td rowspan="1" colspan="1">Australia, New Zealand.</td>
-          </tr>
-         </tbody>
-        </table>
-       </div> 
-       <p><strong>Tip:</strong> If your country or region isn’t on the list, <a rel="noreferrer noopener" href="http://spotify.com/why-not-available">see more information here</a>.</p>
-      </div>
-      <p class="Type__TypeElement-sc-9snywk-0 bVzvNU Article_lastUpdated__dKYaf">Last updated: 26 November, 2020</p>
-      <div class="FeedbackWidget_root__mxNT3">
-       <p class="Type__TypeElement-sc-9snywk-0 bVzvNU"><strong>Was this article helpful?</strong></p><button class="Button-oyfj48-0 cFPyKn">Yes</button> <button class="Button-oyfj48-0 eKyXYa">No</button>
-      </div>
-      <div class="RelatedArticles_relatedArticles__1TlX1">
-       <h2 class="Type__TypeElement-sc-9snywk-0 bVzvNU">Related Articles</h2>
-       <ul class="List-sc-1t3o2fv-0 hFITbW">
-        <li class="ListItem-sc-1865pvv-0 diIZxw"><a href="/us/article/content-missing/?ref=related" class="Type__TypeElement-sc-9snywk-0 gffqZE">Unavailable music and podcasts</a></li>
-       </ul>
-      </div>
-     </div>
-    </div>
-   </div>
-  </div>
-  <script id="__NEXT_DATA__" type="application/json">{"props":{"initialI18nStore":{"en-US":{"common":{"title_tag_default":"Support","description_home_default":"Here to help! Find out how to set up and use Spotify. Learn about features, troubleshoot issues, and get answers to questions. Everything you need to stay in tune. For listeners, artists, brands, developers and music fans alike.","search_title":"How can we help you?","search_placeholder":"Search","search_results_no_results_description":"No results found. Please try another search.","search_results_found":"results found.","label_top_solutions":"Top Solutions","left_help":"Help topics","left_extra_help":"How can we help you?","left_premium":"Get the full Spotify experience!","left_premium_cta":"Upgrade to premium","left_community":"Have questions, answers, ideas about Spotify? Ask or join our Community!","left_community_cta":"Go to the Community","left_social":"Check out our Twitter or Facebook help:","community_title":"Visit the Community","community_intro":"Have questions? Find answers from our worldwide Community of expert fans!","community_cta":"Find Answers","breadcrumb_home":"Home","last_update":"Last updated: %day% %month%, %year%","january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December","feedback_widget_was_this_helpful":"Was this article helpful?","feedback_widget_thanks":"Thank you for your feedback!","yes":"Yes","no":"No","close_subcategory_list":"Close subcategory list","open_subcategory_list":"Open subcategory list","close_notification_banner":"Close notification banner","close_search":"Close search","open_search":"Open search"}}},"initialLanguage":"en-US","i18nServerInstance":null,"pageProps":{"namespacesRequired":["common"],"data":{"title":"Where is Spotify available?","content":"\u003cp\u003eWe love playing music in headphones and speakers around the world.\u003c/p\u003e\n\n\u003cp\u003eHere's where you can sign up for Spotify:\u003c/p\u003e\n\n\n\n\u003ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\"\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eAfrica\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eAlgeria, Egypt, Morocco, South Africa, Tunisia.\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eAsia\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eBahrain, Hong Kong, India, Indonesia, Israel, Japan, Jordan, Kuwait, Lebanon, Malaysia, Oman, Palestine, Philippines, Qatar, Saudi Arabia, Singapore, Taiwan, Thailand, United Arab Emirates, Vietnam.\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eEurope\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eAndorra, Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Spain, Sweden, Switzerland, Turkey, United Kingdom, Russia, Belarus, Kazakhstan, Moldova, Ukraine, Albania, Bosnia, Croatia, Montenegro, North Macedonia, Serbia, Slovenia, Kosovo\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eNorth America\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eCanada, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, United States.\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eSouth America\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eArgentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay.\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eOceania\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003eAustralia, New Zealand.\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\n\n\u003cp\u003e\u003cstrong\u003eTip:\u003c/strong\u003e If your country or region isn’t on the list, \u003ca href=\"http://spotify.com/why-not-available\" target=\"_blank\" rel=\"noreferrer noopener\"\u003esee more information here\u003c/a\u003e.\u003c/p\u003e","description":"A list of territories and regions where Spotify is available.","keywords":"full,list,of,territories,where,spotify,is,available","category_info":{"name":"Getting Started","slug":"using_spotify/getting_started"},"last_updated":"2020-11-26T12:09:17+00:00","categories":[{"id":566,"parent":null,"name":"account_payment_help","group":"topic2","label":"Account \u0026 Payment","lang":"en_US","popularity":0,"url":null,"children":[{"id":567,"parent":566,"name":"account_help","group":"topic2","label":"Account Help","lang":"en_US","popularity":0,"url":"account_payment_help/account_help"},{"id":569,"parent":566,"name":"payment_help","group":"topic2","label":"Payment Help","lang":"en_US","popularity":0,"url":"account_payment_help/payment_help"},{"id":571,"parent":566,"name":"subscription_options","group":"topic2","label":"Subscription Options","lang":"en_US","popularity":0,"url":"account_payment_help/subscription_options"},{"id":573,"parent":566,"name":"premium_for_family","group":"topic2","label":"Premium Family","lang":"en_US","popularity":0,"url":"account_payment_help/premium_for_family"},{"id":575,"parent":566,"name":"premium_duo","group":"topic2","label":"Premium Duo","lang":"en_US","popularity":0,"url":"account_payment_help/premium_duo"},{"id":577,"parent":566,"name":"premium_for_students","group":"topic2","label":"Premium Student","lang":"en_US","popularity":0,"url":"account_payment_help/premium_for_students"},{"id":579,"parent":566,"name":"privacy","group":"topic2","label":"Privacy \u0026 Security","lang":"en_US","popularity":0,"url":"account_payment_help/privacy"}]},{"id":584,"parent":null,"name":"using_spotify","group":"topic2","label":"Using Spotify","lang":"en_US","popularity":0,"url":null,"children":[{"id":585,"parent":584,"name":"video_tutorials","group":"topic2","label":"Video Tutorials","lang":"en_US","popularity":0,"url":"using_spotify/video_tutorials"},{"id":587,"parent":584,"name":"getting_started","group":"topic2","label":"Getting Started","lang":"en_US","popularity":0,"url":"using_spotify/getting_started"},{"id":589,"parent":584,"name":"playlists","group":"topic2","label":"Playlists","lang":"en_US","popularity":0,"url":"using_spotify/playlists"},{"id":591,"parent":584,"name":"features","group":"topic2","label":"Features","lang":"en_US","popularity":0,"url":"using_spotify/features"},{"id":593,"parent":584,"name":"system_settings","group":"topic2","label":"System \u0026 Settings","lang":"en_US","popularity":0,"url":"using_spotify/system_settings"},{"id":595,"parent":584,"name":"troubleshooting","group":"topic2","label":"Troubleshooting","lang":"en_US","popularity":0,"url":"using_spotify/troubleshooting"}]},{"id":596,"parent":null,"name":"listen_everywhere","group":"topic2","label":"Listen Everywhere","lang":"en_US","popularity":0,"url":null,"children":[{"id":597,"parent":596,"name":"on_speaker","group":"topic2","label":"Speakers","lang":"en_US","popularity":0,"url":"listen_everywhere/on_speaker"},{"id":599,"parent":596,"name":"on_tv","group":"topic2","label":"TVs","lang":"en_US","popularity":0,"url":"listen_everywhere/on_tv"},{"id":601,"parent":596,"name":"in_the_car","group":"topic2","label":"Cars","lang":"en_US","popularity":0,"url":"listen_everywhere/in_the_car"},{"id":603,"parent":596,"name":"gaming","group":"topic2","label":"Gaming","lang":"en_US","popularity":0,"url":"listen_everywhere/gaming"},{"id":605,"parent":596,"name":"smart_watches","group":"topic2","label":"Smart Watches","lang":"en_US","popularity":0,"url":"listen_everywhere/smart_watches"},{"id":607,"parent":596,"name":"smart_displays","group":"topic2","label":"Smart Displays","lang":"en_US","popularity":0,"url":"listen_everywhere/smart_displays"},{"id":609,"parent":596,"name":"voice_assistants","group":"topic2","label":"Voice Assistants","lang":"en_US","popularity":0,"url":"listen_everywhere/voice_assistants"}]}],"related_articles":[{"title":"Unavailable music and podcasts","url_name":"content-missing"}],"community_answers":[]},"articleSlug":"full-list-of-territories-where-spotify-is-available","isDXD":false},"market":{"marketCode":"us","locale":"en-US"},"isPlain":false,"isClean":false,"usePreview":false},"page":"/[market]/article/[articleslug]","query":{"market":"us","articleslug":"full-list-of-territories-where-spotify-is-available"},"buildId":"z1LOqqDxGVH1bgLVKY3H2","assetPrefix":"https://support.scdn.co/web","isFallback":false,"customServer":true,"gip":true,"appGip":true}</script>
-  <script nomodule="" src="https://support.scdn.co/web/_next/static/chunks/polyfills-f45e75cb8fe5039fd439.js"></script>
-  <script src="https://support.scdn.co/web/_next/static/chunks/main-61d345d32f8d8e39bf40.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/chunks/webpack-eb080e3f091731f228fb.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/chunks/framework.1d36bc031662b4dc4c28.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/chunks/commons.012c5284bd9fa3492250.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/chunks/e9b5520cb653bacd8276fcee0575bed918b8923e.7b607377771b474d34dc.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/chunks/c2e81fd467fa534f89a4cfb827b657f19851629f.5b431ca408f3de456265.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/chunks/pages/_app-b69d8ddc7156d9f5723d.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/chunks/719d9cf19e98cb0c496df040801f9ae1e9a77687.5dc0ecc1b6b3cc4425dc.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/chunks/640622908186f5ef9bc9adc06ce4d5daf7f84fa5.228a6471f4cf60644188.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/chunks/pages/%5Bmarket%5D/article/%5Barticleslug%5D-45b3581645201151330d.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/z1LOqqDxGVH1bgLVKY3H2/_buildManifest.js" async></script>
-  <script src="https://support.scdn.co/web/_next/static/z1LOqqDxGVH1bgLVKY3H2/_ssgManifest.js" async></script>
- </body>
-</html>
+<table>
+<tbody>
+<tr>
+ <td rowspan="1" colspan="1">Africa</td>
+ <td rowspan="1" colspan="1">Algeria, Egypt, Morocco, South Africa, Tunisia.</td>
+</tr>
+<tr>
+ <td rowspan="1" colspan="1">Asia</td>
+ <td rowspan="1" colspan="1">Bahrain, Hong Kong, India, Indonesia, Israel, Japan, Jordan, Kuwait, Lebanon, Malaysia, Oman, Palestine, Philippines, Qatar, Saudi Arabia, Singapore, Taiwan, Thailand, United Arab Emirates, Vietnam.</td>
+</tr>
+<tr>
+ <td rowspan="1" colspan="1">Europe</td>
+ <td rowspan="1" colspan="1">Andorra, Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Spain, Sweden, Switzerland, Turkey, United Kingdom, Russia, Belarus, Kazakhstan, Moldova, Ukraine, Albania, Bosnia, Croatia, Montenegro, North Macedonia, Serbia, Slovenia, Kosovo</td>
+</tr>
+<tr>
+ <td rowspan="1" colspan="1">North America</td>
+ <td rowspan="1" colspan="1">Canada, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, United States.</td>
+</tr>
+<tr>
+ <td rowspan="1" colspan="1">South America</td>
+ <td rowspan="1" colspan="1">Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay.</td>
+</tr>
+<tr>
+ <td rowspan="1" colspan="1">Oceania</td>
+ <td rowspan="1" colspan="1">Australia, New Zealand.</td>
+</tr>
+</tbody>
+</table>

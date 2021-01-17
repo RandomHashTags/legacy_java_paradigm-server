@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.debt.ICountryDebt;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankingService;
 
+import java.util.HashMap;
 import java.util.logging.Level;
 
 public enum DebtCurrent implements CountryRankingService {
@@ -20,8 +21,13 @@ public enum DebtCurrent implements CountryRankingService {
     }
 
     @Override
-    public void getRankedJSON(CompletionHandler handler) {
-        handler.handle(null);
+    public HashMap<String, String> getCountries() {
+        return null;
+    }
+
+    @Override
+    public String getRankedJSON() {
+        return null;
     }
 
     @Override
@@ -33,6 +39,11 @@ public enum DebtCurrent implements CountryRankingService {
             WLLogger.log(Level.WARNING, "DebtCurrent - missing for country \"" + country + "\"!");
             handler.handle("null");
         }
+    }
+
+    @Override
+    public void refresh(CompletionHandler handler) {
+
     }
 
     public ICountryDebt valueOfCountryBackendID(String backendID) {

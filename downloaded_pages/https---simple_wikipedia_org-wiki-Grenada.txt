@@ -3,16 +3,16 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Grenada - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAADgAAIlsQV0AAACY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Grenada","wgTitle":"Grenada","wgCurRevisionId":6915957,"wgRevisionId":6915957,"wgArticleId":12210,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Geography stubs","Organisation of Eastern Caribbean States","Grenada","Current monarchies","Caribbean Community","English-speaking countries","Commonwealth realms","1974 establishments in North America"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Grenada","wgRelevantArticleId":12210,
-"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q769"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready",
-"skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VQpAMNEAA6ZsxlkAAAAM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Grenada","wgTitle":"Grenada","wgCurRevisionId":7267373,"wgRevisionId":7267373,"wgArticleId":12210,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Pages including recorded pronunciations","Commons link from Wikidata","Geography stubs","Organisation of Eastern Caribbean States","Grenada","Current monarchies","Caribbean Community","English-speaking countries","Commonwealth realms","1974 establishments in North America"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Grenada","wgRelevantArticleId":12210,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q769"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -55,7 +55,10 @@
          <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
           <div style="display:inline" class="fn org country-name">
            Grenada
-          </div><br></th>
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           Gwenad <span style="font-size:85%;"><style data-mw-deduplicate="TemplateStyles:r6468229">.mw-parser-output .noitalic{font-style:normal}</style><span class="noitalic"><span style="font-size:85%;">(<a href="/w/index.php?title=Grenadian_Creole_French&amp;action=edit&amp;redlink=1" class="new" title="Grenadian Creole French (not yet started)">Grenadian Creole French</a>)</span></span></span>
+          </div></th>
         </tr>
         <tr>
          <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
@@ -81,45 +84,124 @@
         <tr>
          <td colspan="2" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Motto:&nbsp;</b>“Ever Conscious of God We Aspire, Build and Advance as One People”<span style="position: relative; top: 0.3em;"><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span>
+           <b>Motto:&nbsp;</b>"Ever Conscious of God We Aspire, Build and Advance as One People"<span style="position: relative; top: 0.2em;"><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span>
           </div></td>
         </tr>
         <tr>
          <td colspan="2" class="anthem" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Anthem:&nbsp;</b><i><a href="/w/index.php?title=Hail_Grenada&amp;action=edit&amp;redlink=1" class="new" title="Hail Grenada (not yet started)">Hail Grenada</a></i>
+           <b>Anthem:&nbsp;</b>"<a href="/w/index.php?title=Hail_Grenada&amp;action=edit&amp;redlink=1" class="new" title="Hail Grenada (not yet started)">Hail Grenada</a>"
+           <br>
+           <center>
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="77.323900226757" data-startoffset="0" data-mwtitle="HailGrenada.ogg" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/7/76/HailGrenada.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (131 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="131324">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/7/76/HailGrenada.ogg/HailGrenada.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="204704">
+             </audio>
+            </div>
+           </center>
           </div>
           <hr> 
           <div style="line-height:1.2em;">
-           <b><a href="/wiki/Royal_anthem" class="mw-redirect" title="Royal anthem">Royal anthem</a>:&nbsp;</b><i><a href="/wiki/God_Save_the_Queen" title="God Save the Queen">God Save the Queen</a></i>
+           <b><a href="/wiki/Royal_anthem" class="mw-redirect" title="Royal anthem">Royal anthem</a>:&nbsp;</b>"<a href="/wiki/God_Save_the_Queen" title="God Save the Queen">God Save the Queen</a> "
+           <br>
+           <div style="display:inline-block;margin-top:0.4em;">
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_1" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="63.059591836735" data-startoffset="0" data-mwtitle="United_States_Navy_Band_-_God_Save_the_Queen.ogg" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (137 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="136621">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg/United_States_Navy_Band_-_God_Save_the_Queen.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="196072">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=bs&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="bs" label="bosanski (bs) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=de&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="de" label="Deutsch (de) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=el&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="el" label="Ελληνικά (el) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=en-gb&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en-GB" label="British English (en-gb) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=es&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="es" label="español (es) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=eu&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="eu" label="euskara (eu) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=fi&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="fi" label="suomi (fi) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=fr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="fr" label="français (fr) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=fy&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="fy" label="Frysk (fy) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=ja&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ja" label="日本語 (ja) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=ko&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ko" label="한국어 (ko) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=mi&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="mi" label="Māori (mi) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=pl&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="pl" label="polski (pl) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=ta&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ta" label="தமிழ் (ta) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=tr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="tr" label="Türkçe (tr) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=uk&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="uk" label="українська (uk) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=vi&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="vi" label="Tiếng Việt (vi) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=zh-cn&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="zh-Hans-CN" label="中文（中国大陆）‎ (zh-cn) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=zh-hans&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="zh-Hans" label="中文（简体）‎ (zh-hans) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=zh-hant&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="zh-Hant" label="中文（繁體）‎ (zh-hant) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=zh-hk&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="zh-Hant-HK" label="中文（香港）‎ (zh-hk) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&amp;lang=zh&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="zh" label="中文 (zh) subtitles" data-dir="ltr">
+             </audio>
+            </div>
+           </div>
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Grenada_in_its_region.svg" class="image" title="Location of Grenada"><img alt="Location of Grenada" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grenada_in_its_region.svg/250px-Grenada_in_its_region.svg.png" decoding="async" width="250" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grenada_in_its_region.svg/375px-Grenada_in_its_region.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grenada_in_its_region.svg/500px-Grenada_in_its_region.svg.png 2x" data-file-width="351" data-file-height="197"></a></td>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Grenada_on_the_globe_(Americas_centered).svg" class="image"><img alt="Grenada on the globe (Americas centered).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Grenada_on_the_globe_%28Americas_centered%29.svg/250px-Grenada_on_the_globe_%28Americas_centered%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Grenada_on_the_globe_%28Americas_centered%29.svg/375px-Grenada_on_the_globe_%28Americas_centered%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Grenada_on_the_globe_%28Americas_centered%29.svg/500px-Grenada_on_the_globe_%28Americas_centered%29.svg.png 2x" data-file-width="797" data-file-height="797"></a></td>
         </tr>
         <tr>
          <th scope="row">Capital<br>
           <div style="font-weight:normal">
            and largest city
           </div></th>
-         <td><a href="/wiki/St._George%27s,_Grenada" title="St. George's, Grenada">St. George’s</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Grenada&amp;params=12_03_N_61_45_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">12°03′N</span> <span class="longitude">61°45′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">12.050°N 61.750°W</span><span style="display:none">﻿ / <span class="geo">12.050; -61.750</span></span></span></a></span></td>
+         <td><a href="/wiki/St._George%27s,_Grenada" title="St. George's, Grenada">St. George's</a><br><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Grenada&amp;params=12_03_N_61_45_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">12°03′N</span> <span class="longitude">61°45′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">12.050°N 61.750°W</span><span style="display:none">﻿ / <span class="geo">12.050; -61.750</span></span></span></a></span></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Official&nbsp;languages</th>
-         <td><a href="/wiki/English_language" title="English language">English</a></td>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><a href="/wiki/English_language" title="English language">English</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row"><span style="font-weight:normal;">Recognised regional&nbsp;languages</span></th>
+         <td><small><a href="/w/index.php?title=Grenadian_Creole_English&amp;action=edit&amp;redlink=1" class="new" title="Grenadian Creole English (not yet started)">Grenadian Creole English</a><br> <a href="/w/index.php?title=Grenadian_Creole_French&amp;action=edit&amp;redlink=1" class="new" title="Grenadian Creole French (not yet started)">Grenadian Creole French</a></small></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
-          <div style="font-weight:normal;display:inline;"></div></th>
-         <td>82% <a href="/w/index.php?title=Black_Grenadian&amp;action=edit&amp;redlink=1" class="new" title="Black Grenadian (not yet started)">black</a>, 13% mixed black and <a href="/wiki/Ethnic_groups_in_Europe" title="Ethnic groups in Europe">European</a>, 5% European and <a href="/w/index.php?title=Indo-Grenadians&amp;action=edit&amp;redlink=1" class="new" title="Indo-Grenadians (not yet started)">East Indian</a>, and trace of <a href="/w/index.php?title=Arawaks&amp;action=edit&amp;redlink=1" class="new" title="Arawaks (not yet started)">Arawak</a>/<a href="/w/index.php?title=Carib_people&amp;action=edit&amp;redlink=1" class="new" title="Carib people (not yet started)">Carib</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+          <div style="font-weight:normal;display:inline;">
+            (2011<sup id="cite_ref-cia.gov_2-0" class="reference"><a href="#cite_note-cia.gov-2">[2]</a></sup>)
+          </div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>80% <a href="/w/index.php?title=Afro-Grenadian&amp;action=edit&amp;redlink=1" class="new" title="Afro-Grenadian (not yet started)">African</a></li>
+            <li>15% <a href="/wiki/Multiracial" class="mw-redirect" title="Multiracial">Mixed</a> (incl. <a href="/w/index.php?title=Creole_people&amp;action=edit&amp;redlink=1" class="new" title="Creole people (not yet started)">Creole</a>-<a href="/wiki/Mulatto" title="Mulatto">Mulatto</a> and <a href="/w/index.php?title=Dougla_people&amp;action=edit&amp;redlink=1" class="new" title="Dougla people (not yet started)">Dougla</a>)</li>
+            <li>3% <a href="/w/index.php?title=Indo-Grenadians&amp;action=edit&amp;redlink=1" class="new" title="Indo-Grenadians (not yet started)">Indian</a></li>
+            <li>1% Other</li>
+            <li>1% Unspecified <small>(incl. <a href="/wiki/Indigenous_peoples_of_the_Americas" class="mw-redirect" title="Indigenous peoples of the Americas">indigenous peoples</a>)</small></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;">
+            (2011)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+          </div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li style="white-space:nowrap;">86.4% <a href="/wiki/Christianity" title="Christianity">Christianity</a></li>
+            <li style="white-space:nowrap;">—49.2% <a href="/wiki/Protestantism" title="Protestantism">Protestantism</a></li>
+            <li style="white-space:nowrap;">—37.2% Other <a href="/w/index.php?title=List_of_Christian_denominations&amp;action=edit&amp;redlink=1" class="new" title="List of Christian denominations (not yet started)">Christian</a></li>
+            <li style="white-space:nowrap;">5.7% <a href="/wiki/Irreligion" title="Irreligion">None</a></li>
+            <li style="white-space:nowrap;">1.2% <a href="/wiki/Rastafarianism" class="mw-redirect" title="Rastafarianism">Rastafarianism</a></li>
+            <li style="white-space:nowrap;">5.4% Others</li>
+            <li style="white-space:nowrap;">1.3% Unspecified</li>
+           </ul>
+          </div></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
-         <td>Grenadian</td>
+         <td><a href="/w/index.php?title=Demographics_of_Grenada&amp;action=edit&amp;redlink=1" class="new" title="Demographics of Grenada (not yet started)">Grenadian</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td>
         </tr>
         <tr>
          <th scope="row">Government</th>
-         <td><a href="/wiki/Parliamentary_system" title="Parliamentary system">Parliamentary democracy</a> <span class="nowrap">under <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a></span></td>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/w/index.php?title=Two-party_system&amp;action=edit&amp;redlink=1" class="new" title="Two-party system (not yet started)">two-party</a> <a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a> <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a></td>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -134,7 +216,7 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/Governor-General_of_Grenada" title="Governor-General of Grenada">Governor General</a> 
+           •&nbsp;<a href="/wiki/Governor-General_of_Grenada" title="Governor-General of Grenada">Governor-General</a> 
           </div></th>
          <td><a href="/wiki/C%C3%A9cile_La_Grenade" title="Cécile La Grenade">Cécile La Grenade</a></td>
         </tr>
@@ -167,17 +249,38 @@
          <td><a href="/w/index.php?title=House_of_Representatives_of_Grenada&amp;action=edit&amp;redlink=1" class="new" title="House of Representatives of Grenada (not yet started)">House of Representatives</a></td>
         </tr>
         <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
+         <th colspan="2" style="text-align:center;text-align:left;">Formation</th>
         </tr>
-        <tr class="mergedbottomrow">
+        <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> 
+           •&nbsp;<a href="/w/index.php?title=Associated_Statehood_Act_1967&amp;action=edit&amp;redlink=1" class="new" title="Associated Statehood Act 1967 (not yet started)">Associated State</a> 
           </div></th>
-         <td>February 7, 1974</td>
+         <td>3 March 1967</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<b>Independence</b> from the United Kingdom 
+          </div></th>
+         <td>7 February 1974</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=People%27s_Revolutionary_Government_(Grenada)&amp;action=edit&amp;redlink=1" class="new" title="People's Revolutionary Government (Grenada) (not yet started)">Grenadian Revolution</a> 
+          </div></th>
+         <td>13 March 1979</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Constitution Restoration 
+          </div></th>
+         <td>4 December 1984</td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
@@ -190,7 +293,7 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>344&nbsp;km<sup>2</sup> (133&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">203rd</a>)</td>
+         <td>348.5&nbsp;km<sup>2</sup> (134.6&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">184th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
@@ -205,75 +308,68 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;July 12, 2005 estimate
+           •&nbsp;2016 estimate
           </div></th>
-         <td>110,000 (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">185th</a>)</td>
+         <td>107,317<sup id="cite_ref-UN_WPP_5-0" class="reference"><a href="#cite_note-UN_WPP-5">[5]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">194th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Density
           </div></th>
-         <td>319.8/km<sup>2</sup> (828.3/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">45th</a>)</td>
+         <td>318.58/km<sup>2</sup> (825.1/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">45th</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
-         <td>2010&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$1.098 billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$1.801&nbsp;billion<sup id="cite_ref-imf2_6-0" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$10,657<sup id="cite_ref-imf2_3-1" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$16,604<sup id="cite_ref-imf2_6-1" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
-         <td>2010&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$674 million<sup id="cite_ref-imf2_3-2" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$1.249&nbsp;billion<sup id="cite_ref-imf2_6-2" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$6,542<sup id="cite_ref-imf2_3-3" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$11,518<sup id="cite_ref-imf2_6-3" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2007)</span></th>
-         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.813<br><span style="white-space:nowrap;"><span style="color:darkgreen">very high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">74th</a></td>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2019)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.779<sup id="cite_ref-UNHDR_7-0" class="reference"><a href="#cite_note-UNHDR-7">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">74th</a></td>
         </tr>
         <tr>
          <th scope="row">Currency</th>
          <td><a href="/wiki/East_Caribbean_dollar" title="East Caribbean dollar">East Caribbean dollar</a> (<a href="/wiki/ISO_4217" title="ISO 4217">XCD</a>)</td>
         </tr>
-        <tr class="mergedtoprow">
+        <tr>
          <th scope="row">Time zone</th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>−4</span></td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
-          </div></th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>−4</span></td>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>−4</span> (<a href="/wiki/Atlantic_Time_Zone" class="mw-redirect" title="Atlantic Time Zone">AST</a>)</td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
-         <td>left</td>
+         <td><a href="/wiki/Right-_and_left-hand_traffic" class="mw-redirect" title="Right- and left-hand traffic">left</a></td>
         </tr>
         <tr>
          <th scope="row">Calling code</th>
@@ -290,12 +386,14 @@
         <tr>
          <td colspan="2" style="text-align:center">
           <div style="text-align:left;margin-left:auto; margin-right:auto;">
-           <sup>a</sup> 2002 estimate.
+           <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
+            <li value="1">Plus trace of <a href="/w/index.php?title=Arawaks&amp;action=edit&amp;redlink=1" class="new" title="Arawaks (not yet started)">Arawak</a>&nbsp;/ <a href="/w/index.php?title=Island_Caribs&amp;action=edit&amp;redlink=1" class="new" title="Island Caribs (not yet started)">Carib</a>.</li> 
+           </ol>
           </div></td>
         </tr>
        </tbody>
       </table> 
-      <p><b>Grenada</b> is an island nation in the <a href="/wiki/Caribbean_Sea" title="Caribbean Sea">Caribbean Sea</a> that received its <a href="/wiki/Independence" title="Independence">independence</a> from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> in 1974. Its capital is <a href="/wiki/St._George%27s,_Grenada" title="St. George's, Grenada">St. George's</a>. </p>
+      <p><b>Grenada</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ɡ/: 'g' in 'guy'">ɡ</span><span title="'r' in 'rye'">r</span><span title="/ə/: 'a' in 'about'">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'n' in 'nigh'">n</span><span title="/eɪ/: 'a' in 'face'">eɪ</span><span title="'d' in 'dye'">d</span><span title="/ə/: 'a' in 'about'">ə</span></span>/</a></span> <span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:En-us-Grenada.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20"></a></span><a href="//upload.wikimedia.org/wikipedia/commons/c/c0/En-us-Grenada.ogg" class="internal" title="En-us-Grenada.ogg">listen</a></span></span>)</span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling">grə-<span style="font-size:90%">NAY</span>-də</i></a>; <a href="/w/index.php?title=Grenadian_Creole_French&amp;action=edit&amp;redlink=1" class="new" title="Grenadian Creole French (not yet started)">Grenadian Creole French</a>: <i>Gwenad</i>) is an island nation in the <a href="/wiki/Caribbean_Sea" title="Caribbean Sea">Caribbean Sea</a> that received its <a href="/wiki/Independence" title="Independence">independence</a> from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> in 1974. Its capital is <a href="/wiki/St._George%27s,_Grenada" title="St. George's, Grenada">St. George's</a>. </p>
       <p>The island was invaded by the <a href="/wiki/United_States" title="United States">American</a> military in 1983 because of <a href="/wiki/Cuba" title="Cuba">Cuba</a>'s presence there. In 2004, a hurricane named <a href="/wiki/Hurricane_Ivan" title="Hurricane Ivan">Ivan</a> destroyed most of the island's resources. </p>
       <p>Grenada is called the <b><a href="/wiki/Spice" title="Spice">Spice</a> Island</b> on account of its most famous export, the <a href="/wiki/Nutmeg" title="Nutmeg">nutmeg</a>. </p> 
       <h2><span class="mw-headline" id="Related_pages">Related pages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grenada&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: Related pages">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Grenada&amp;action=edit&amp;section=1" title="Change section: Related pages">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
@@ -310,18 +408,25 @@
        <tbody>
         <tr> 
          <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
-         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Grenada" class="extiw" title="commons:Special:Search/Grenada">Grenada</a></b></i>.</td>
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Grenada" class="extiw" title="commons:Grenada">Grenada</a></b></i>.</td>
         </tr> 
        </tbody>
       </table> 
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap">
         <ol class="references"> 
-         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gov.gd">"Government of Grenada Website"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Government+of+Grenada+Website&amp;rft_id=http%3A%2F%2Fwww.gov.gd&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGrenada" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/gj.html">"Grenada factbook"</a>. Cia.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Grenada+factbook&amp;rft.pub=Cia.gov&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fgj.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGrenada" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-imf2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_3-0">3.0</a></sup> <sup><a href="#cite_ref-imf2_3-1">3.1</a></sup> <sup><a href="#cite_ref-imf2_3-2">3.2</a></sup> <sup><a href="#cite_ref-imf2_3-3">3.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/weorept.aspx?sy=2008&amp;ey=2011&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=328&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=22&amp;pr.y=6">"Grenada"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Grenada&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2011%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2008%26ey%3D2011%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D328%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D%26pr.x%3D22%26pr.y%3D6&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGrenada" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gov.gd">"Government of Grenada Website"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Government+of+Grenada+Website&amp;rft_id=http%3A%2F%2Fwww.gov.gd&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGrenada" class="Z3988"></span></span> </li> 
+         <li id="cite_note-cia.gov-2"><span class="mw-cite-backlink"><a href="#cite_ref-cia.gov_2-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/gj.html">"Grenada"</a>. <i>The World Factbook</i>. Central Intelligence Agency (CIA)<span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Grenada&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fgj.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGrenada" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cia.gov/library/publications/the-world-factbook/geos/gj.html">https://www.cia.gov/library/publications/the-world-factbook/geos/gj.html</a></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gov.gd/about_grenada.html">"About Grenada, Carriacou &amp; Petite Martinique | GOV.gd"</a>. <i>www.gov.gd</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.gov.gd&amp;rft.atitle=About+Grenada%2C+Carriacou+%26+Petite+Martinique+%7C+GOV.gd&amp;rft_id=http%3A%2F%2Fwww.gov.gd%2Fabout_grenada.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGrenada" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UN_WPP-5"><span class="mw-cite-backlink"><a href="#cite_ref-UN_WPP_5-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://esa.un.org/unpd/wpp/DataQuery/">"World Population Prospects: The 2017 Revision"</a>. <i>ESA.UN.org</i> (custom data acquired via website). <a href="/w/index.php?title=United_Nations_Department_of_Economic_and_Social_Affairs&amp;action=edit&amp;redlink=1" class="new" title="United Nations Department of Economic and Social Affairs (not yet started)">United Nations Department of Economic and Social Affairs</a>, Population Division<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ESA.UN.org&amp;rft.atitle=World+Population+Prospects%3A+The+2017+Revision&amp;rft_id=https%3A%2F%2Fesa.un.org%2Funpd%2Fwpp%2FDataQuery%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGrenada" class="Z3988"></span></span> </li> 
+         <li id="cite_note-imf2-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_6-0">6.0</a></sup> <sup><a href="#cite_ref-imf2_6-1">6.1</a></sup> <sup><a href="#cite_ref-imf2_6-2">6.2</a></sup> <sup><a href="#cite_ref-imf2_6-3">6.3</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?sy=2017&amp;ey=2020&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;pr1.x=77&amp;pr1.y=4&amp;c=328&amp;s=NGDP_RPCH%2CNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&amp;grp=0&amp;a=">"Grenada"</a>. International Monetary Fund. 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">1 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Grenada&amp;rft.pub=International+Monetary+Fund&amp;rft.date=2018&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2018%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2017%26ey%3D2020%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26pr1.x%3D77%26pr1.y%3D4%26c%3D328%26s%3DNGDP_RPCH%252CNGDPD%252CPPPGDP%252CNGDPDPC%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGrenada" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UNHDR-7"><span class="mw-cite-backlink"><a href="#cite_ref-UNHDR_7-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr2020.pdf"><i>Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene</i></a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 15 December 2020. pp.&nbsp;343–346. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-92-1-126442-5" title="Special:BookSources/978-92-1-126442-5"><bdi>978-92-1-126442-5</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Human+Development+Report+2020+The+Next+Frontier%3A+Human+Development+and+the+Anthropocene&amp;rft.pages=343-346&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2020-12-15&amp;rft.isbn=978-92-1-126442-5&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr2020.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AGrenada" class="Z3988"></span></span> </li> 
         </ol>
        </div>
       </div> 
@@ -338,9 +443,9 @@
           <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:North_America" title="Template:North America"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:North_America&amp;action=edit&amp;redlink=1" class="new" title="Template talk:North America (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_America&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:North_America" title="Template:North America"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:North_America&amp;action=edit&amp;redlink=1" class="new" title="Template talk:North America (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_America&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_of_North_America" style="font-size:114%;margin:0 4em">
@@ -372,9 +477,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Caribbean" title="Template:Caribbean"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Caribbean" title="Template talk:Caribbean"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caribbean&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Caribbean" title="Template:Caribbean"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Caribbean" title="Template talk:Caribbean"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caribbean&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_in_the_Caribbean_(West_Indies)" style="font-size:114%;margin:0 4em">
@@ -406,9 +511,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Caricom" title="Template:Caricom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Caricom" title="Template talk:Caricom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caricom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Caricom" title="Template:Caricom"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Caricom" title="Template talk:Caricom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caricom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Caribbean_Community_(CARICOM)" style="font-size:114%;margin:0 4em">
@@ -452,9 +557,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Members_of_the_Commonwealth_of_Nations" style="font-size:114%;margin:0 4em">
@@ -601,9 +706,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Organisation_of_Eastern_Caribbean_States_(OECS)" title="Template:Organisation of Eastern Caribbean States (OECS)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Organisation_of_Eastern_Caribbean_States_(OECS)&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Organisation of Eastern Caribbean States (OECS) (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Organisation_of_Eastern_Caribbean_States_(OECS)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Organisation_of_Eastern_Caribbean_States_(OECS)" title="Template:Organisation of Eastern Caribbean States (OECS)"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Organisation_of_Eastern_Caribbean_States_(OECS)&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Organisation of Eastern Caribbean States (OECS) (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Organisation_of_Eastern_Caribbean_States_(OECS)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Organisation_of_Eastern_Caribbean_States_(OECS)" style="font-size:114%;margin:0 4em">
@@ -646,43 +751,43 @@
        <a href="/wiki/File:Geographylogo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/30px-Geographylogo.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/45px-Geographylogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/60px-Geographylogo.svg.png 2x" data-file-width="160" data-file-height="160"></a> <i>This <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">short article</a> about a&nbsp;<a href="/wiki/Category:Geography_stubs" title="Category:Geography stubs">place or feature</a> can be made longer. You can help Wikipedia by <a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Grenada&amp;action=edit">adding to it</a></i>.
       </div> <!-- 
 NewPP limit report
-Parsed by mw1322
-Cached time: 20201215233759
+Parsed by mw1356
+Cached time: 20210114130245
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.688 seconds
-Real time usage: 0.917 seconds
-Preprocessor visited node count: 3699/1000000
-Post‐expand include size: 104639/2097152 bytes
-Template argument size: 5654/2097152 bytes
+CPU time usage: 0.884 seconds
+Real time usage: 1.111 seconds
+Preprocessor visited node count: 4284/1000000
+Post‐expand include size: 123920/2097152 bytes
+Template argument size: 9243/2097152 bytes
 Highest expansion depth: 18/40
 Expensive parser function count: 7/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 14680/5000000 bytes
-Lua time usage: 0.397/10.000 seconds
-Lua memory usage: 5894851/52428800 bytes
-Number of Wikibase entities loaded: 0/400
+Unstrip post‐expand size: 24754/5000000 bytes
+Lua time usage: 0.502/10.000 seconds
+Lua memory usage: 7002947/52428800 bytes
+Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  780.858      1 -total
- 57.85%  451.716      1 Template:Infobox_country
- 56.66%  442.434      3 Template:Infobox
- 26.58%  207.526      3 Template:ISO_3166_code
- 16.57%  129.409      1 Template:Reflist
- 15.15%  118.296      3 Template:Cite_web
- 13.30%  103.833      1 Template:Commonwealth_nations
-  8.07%   63.008      6 Template:Navbox
-  6.50%   50.740      1 Template:Infobox_country/imagetable
-  5.34%   41.692      1 Template:North_America
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:12210-0!canonical and timestamp 20201215233758 and revision id 6915957. Serialized with JSON.
+100.00%  970.753      1 -total
+ 58.98%  572.535      1 Template:Infobox_country
+ 56.22%  545.793      3 Template:Infobox
+ 19.09%  185.306      3 Template:ISO_3166_code
+ 13.70%  132.970      1 Template:Reflist
+ 12.43%  120.652      1 Template:Commons
+ 12.05%  117.004      1 Template:Sister_project
+ 11.65%  113.083      1 Template:Side_box
+ 11.01%  106.867      5 Template:Cite_web
+  5.76%   55.900      1 Template:IPAc-en
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:12210-0!canonical and timestamp 20210114130255 and revision id 7267373. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Grenada&amp;oldid=6915957">https://simple.wikipedia.org/w/index.php?title=Grenada&amp;oldid=6915957</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Grenada&amp;oldid=7267373">https://simple.wikipedia.org/w/index.php?title=Grenada&amp;oldid=7267373</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -699,8 +804,11 @@ Transclusion expansion time report (%,ms,calls,template)
       </ul>
      </div>
      <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
-      Hidden category: 
+      Hidden categories: 
       <ul>
+       <li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li>
+       <li><a href="/wiki/Category:Pages_including_recorded_pronunciations" title="Category:Pages including recorded pronunciations">Pages including recorded pronunciations</a></li>
+       <li><a href="/wiki/Category:Commons_link_from_Wikidata" title="Category:Commons link from Wikidata">Commons link from Wikidata</a></li>
        <li><a href="/wiki/Category:Geography_stubs" title="Category:Geography stubs">Geography stubs</a></li>
       </ul>
      </div>
@@ -776,9 +884,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -802,9 +910,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Grenada" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Grenada&amp;oldid=6915957" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Grenada&amp;oldid=7267373" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Grenada&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Grenada&amp;id=6915957&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Grenada&amp;id=7267373&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q769" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -1036,7 +1144,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 26 April 2020, at 22:05.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 14 January 2021, at 13:02.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1054,8 +1162,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.688","walltime":"0.917","ppvisitednodes":{"value":3699,"limit":1000000},"postexpandincludesize":{"value":104639,"limit":2097152},"templateargumentsize":{"value":5654,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14680,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  780.858      1 -total"," 57.85%  451.716      1 Template:Infobox_country"," 56.66%  442.434      3 Template:Infobox"," 26.58%  207.526      3 Template:ISO_3166_code"," 16.57%  129.409      1 Template:Reflist"," 15.15%  118.296      3 Template:Cite_web"," 13.30%  103.833      1 Template:Commonwealth_nations","  8.07%   63.008      6 Template:Navbox","  6.50%   50.740      1 Template:Infobox_country/imagetable","  5.34%   41.692      1 Template:North_America"]},"scribunto":{"limitreport-timeusage":{"value":"0.397","limit":"10.000"},"limitreport-memusage":{"value":5894851,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20201215233759","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Grenada","url":"https:\/\/simple.wikipedia.org\/wiki\/Grenada","sameAs":"http:\/\/www.wikidata.org\/entity\/Q769","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q769","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-05T03:54:32Z","dateModified":"2020-04-26T22:05:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bc\/Flag_of_Grenada.svg","headline":"island sovereign state in the Caribbean Sea"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":293,"wgHostname":"mw1261"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.884","walltime":"1.111","ppvisitednodes":{"value":4284,"limit":1000000},"postexpandincludesize":{"value":123920,"limit":2097152},"templateargumentsize":{"value":9243,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24754,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  970.753      1 -total"," 58.98%  572.535      1 Template:Infobox_country"," 56.22%  545.793      3 Template:Infobox"," 19.09%  185.306      3 Template:ISO_3166_code"," 13.70%  132.970      1 Template:Reflist"," 12.43%  120.652      1 Template:Commons"," 12.05%  117.004      1 Template:Sister_project"," 11.65%  113.083      1 Template:Side_box"," 11.01%  106.867      5 Template:Cite_web","  5.76%   55.900      1 Template:IPAc-en"]},"scribunto":{"limitreport-timeusage":{"value":"0.502","limit":"10.000"},"limitreport-memusage":{"value":7002947,"limit":52428800}},"cachereport":{"origin":"mw1356","timestamp":"20210114130245","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Grenada","url":"https:\/\/simple.wikipedia.org\/wiki\/Grenada","sameAs":"http:\/\/www.wikidata.org\/entity\/Q769","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q769","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-05T03:54:32Z","dateModified":"2021-01-14T13:02:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bc\/Flag_of_Grenada.svg","headline":"island sovereign state in the Caribbean Sea"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":194,"wgHostname":"mw1367"});});</script> 
  </body>
 </html>

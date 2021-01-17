@@ -41,10 +41,9 @@ public enum Elections implements RestAPI {
         final HashMap<String, String> query = new HashMap<>();
         query.put("key", GOOGLE_CIVIC_API_KEY);
 
-        requestJSON("https://www.googleapis.com/civicinfo/v2/elections", RequestMethod.GET, CONTENT_HEADERS, query, new CompletionHandler() {
+        requestJSONObject("https://www.googleapis.com/civicinfo/v2/elections", RequestMethod.GET, CONTENT_HEADERS, query, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONObject jsonobject = new JSONObject(object.toString());
+            public void handleJSONObject(JSONObject jsonobject) {
                 final JSONArray elections = jsonobject.getJSONArray("elections");
                 final StringBuilder builder = new StringBuilder("[");
                 boolean isFirst = true;
@@ -71,10 +70,9 @@ public enum Elections implements RestAPI {
         final HashMap<String, String> query = new HashMap<>();
         query.put("key", GOOGLE_CIVIC_API_KEY);
 
-        requestJSON("https://www.googleapis.com/civicinfo/v2/representatives/" + ocdDivisionId, RequestMethod.GET, CONTENT_HEADERS, query, new CompletionHandler() {
+        requestJSONObject("https://www.googleapis.com/civicinfo/v2/representatives/" + ocdDivisionId, RequestMethod.GET, CONTENT_HEADERS, query, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONObject json = new JSONObject(object.toString());
+            public void handleJSONObject(JSONObject json) {
                 final JSONArray offices = json.getJSONArray("offices"), officials = json.getJSONArray("officials");
                 int index = 0;
                 for(Object obj : offices) {

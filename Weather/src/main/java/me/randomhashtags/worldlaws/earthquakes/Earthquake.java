@@ -1,19 +1,23 @@
 package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.location.Location;
 
 public final class Earthquake {
-    private String cause, magnitude, place, territory, url;
-    private float depthKM;
-    private long time, lastUpdated;
+    private final String cause, magnitude, place, url;
+    private String territory;
+    private final float depthKM;
+    private final long time, lastUpdated;
+    private final Location location;
 
-    public Earthquake(String cause, String magnitude, String place, long time, long lastUpdated, float depthKM, String url) {
+    public Earthquake(String cause, String magnitude, String place, long time, long lastUpdated, float depthKM, Location location, String url) {
         this.cause = cause;
         this.magnitude = magnitude;
         this.place = LocalServer.fixEscapeValues(place);
         this.time = time;
         this.lastUpdated = lastUpdated;
         this.depthKM = depthKM;
+        this.location = location;
         this.url = url;
         setupTerritory();
     }
@@ -52,6 +56,9 @@ public final class Earthquake {
     public float getDepthKM() {
         return depthKM;
     }
+    public Location getLocation() {
+        return location;
+    }
     public String getURL() {
         return url;
     }
@@ -66,6 +73,7 @@ public final class Earthquake {
                 "\"time\":" + time + "," +
                 "\"lastUpdated\":" + lastUpdated + "," +
                 "\"depthKM\":" + depthKM + "," +
+                "\"location\":" + location.toString() + "," +
                 "\"url\":\"" + url + "\"" +
                 "}";
     }

@@ -3,21 +3,21 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Bolivia - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAAL0AAg0YXxwAAAAF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bolivia","wgTitle":"Bolivia","wgCurRevisionId":7174951,"wgRevisionId":7174951,"wgArticleId":9289,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","Articles containing Spanish-language text","Articles containing Guarani-language text","Articles containing Quechua-language text","Articles containing Aymara-language text","Pages using collapsible list with both background and text-align in titlestyle",
-"Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Bolivia","Spanish-speaking countries","1825 establishments in South America"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bolivia","wgRelevantArticleId":9289,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en",
-"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q750"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc",
-"skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VApAEKAAAYmr4WsAAAAG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bolivia","wgTitle":"Bolivia","wgCurRevisionId":7267380,"wgRevisionId":7267380,"wgArticleId":9289,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","Articles with hAudio microformats","Articles containing Guarani-language text","Articles containing Aymara-language text","Articles containing Spanish-language text","Pages including recorded pronunciations","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers",
+"Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Bolivia","Spanish-speaking countries","1825 establishments in South America"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bolivia","wgRelevantArticleId":9289,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":
+!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q750"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js",
+"ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
-  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/1200px-Flag_of_Bolivia_%28state%29.svg.png"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/1200px-Bandera_de_Bolivia_%28Estado%29.svg.png"> 
   <link rel="preconnect" href="//upload.wikimedia.org"> 
   <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Bolivia"> 
   <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Bolivia&amp;action=edit"> 
@@ -55,17 +55,10 @@
         <tr>
          <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
           <div style="display:inline" class="fn org country-name">
-           Republic of Bolivia
+           Plurinational State of Bolivia
           </div><br>
           <div style="padding-top:0.25em; font-weight:normal;">
-           <div class="plainlist">
-            <ul>
-             <li style="font-size:88%;"><i lang="es" title="Spanish language text">República de Bolivia</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>)</span></li>
-             <li style="font-size:88%;"><i lang="gn" title="Guarani language text">Volívia</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Guarani_language" class="mw-redirect" title="Guarani language">Guarani</a>)</span></li>
-             <li style="font-size:88%;"><i lang="qu" title="Quechua language text">Buliwya Republika</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Quechua_language" class="mw-redirect" title="Quechua language">Quechua</a>)</span></li>
-             <li style="font-size:88%;"><i lang="ay" title="Aymara language text">Wuliwya Suyu</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Aymara_language" title="Aymara language">Aymara</a>)</span></li>
-            </ul>
-           </div>
+           <span style="font-size:85%;"><style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><i lang="es" title="Spanish language text">Estado Plurinacional de Bolivia</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>)</span><br><i lang="gn" title="Guarani language text">Tetã Hetãvoregua Mborivia</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Guarani_language" class="mw-redirect" title="Guarani language">Guarani</a>)</span><br><i lang="ay" title="Aymara language text">Wuliwya Suyu</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Aymara_language" title="Aymara language">Aymara</a>)</span><br><i>Puliwya Mamallaqta</i> (<a href="/w/index.php?title=Quechuan_languages&amp;action=edit&amp;redlink=1" class="new" title="Quechuan languages (not yet started)">Quechua</a>)</span></span>
           </div></th>
         </tr>
         <tr>
@@ -73,7 +66,7 @@
           <div style="display:table; width:100%;"> 
            <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
             <div style="padding-bottom:3px;">
-             <a href="/wiki/File:Flag_of_Bolivia_(state).svg" class="image" title="Flag of Bolivia"><img alt="Flag of Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/125px-Flag_of_Bolivia_%28state%29.svg.png" decoding="async" width="125" height="85" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/188px-Flag_of_Bolivia_%28state%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/250px-Flag_of_Bolivia_%28state%29.svg.png 2x" data-file-width="1100" data-file-height="750"></a>
+             <a href="/wiki/File:Bandera_de_Bolivia_(Estado).svg" class="image" title="Flag of Bolivia"><img alt="Flag of Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/125px-Bandera_de_Bolivia_%28Estado%29.svg.png" decoding="async" width="125" height="85" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/188px-Bandera_de_Bolivia_%28Estado%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/250px-Bandera_de_Bolivia_%28Estado%29.svg.png 2x" data-file-width="1100" data-file-height="750"></a>
             </div> 
             <div style="font-size:90%;">
              <a href="/wiki/Flag_of_Bolivia" title="Flag of Bolivia">Flag</a>
@@ -81,7 +74,7 @@
            </div> 
            <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
             <div style="padding-bottom:3px;">
-             <a href="/wiki/File:Coat_of_arms_of_Bolivia.svg" class="image" title="Coat of arms of Bolivia"><img alt="Coat of arms of Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Coat_of_arms_of_Bolivia.svg/85px-Coat_of_arms_of_Bolivia.svg.png" decoding="async" width="85" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Coat_of_arms_of_Bolivia.svg/128px-Coat_of_arms_of_Bolivia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Coat_of_arms_of_Bolivia.svg/170px-Coat_of_arms_of_Bolivia.svg.png 2x" data-file-width="1907" data-file-height="1723"></a>
+             <a href="/wiki/File:Escudo_de_Bolivia.svg" class="image" title="Coat of arms of Bolivia"><img alt="Coat of arms of Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Escudo_de_Bolivia.svg/85px-Escudo_de_Bolivia.svg.png" decoding="async" width="85" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Escudo_de_Bolivia.svg/128px-Escudo_de_Bolivia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Escudo_de_Bolivia.svg/170px-Escudo_de_Bolivia.svg.png 2x" data-file-width="1814" data-file-height="1529"></a>
             </div> 
             <div style="font-size:90%;">
              Coat of arms
@@ -99,11 +92,32 @@
         <tr>
          <td colspan="2" class="anthem" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Anthem:&nbsp;</b><i lang="es" title="Spanish language text">National Anthem of Bolivia</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(Spanish)</span>
+           <b>Anthem:&nbsp;</b><span lang="es" style="font-style: normal;" title="Spanish language text">"<a href="/w/index.php?title=National_anthem_of_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="National anthem of Bolivia (not yet started)">Himno Nacional de Bolivia</a>"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(Spanish)</span>
+           <br>
+           <center>
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="100.57142857143" data-startoffset="0" data-mwtitle="Himno_Nacional_de_Bolivia_instrumental.ogg" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (145 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="145152">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg/Himno_Nacional_de_Bolivia_instrumental.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="199912">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHimno_Nacional_de_Bolivia_instrumental.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AHimno_Nacional_de_Bolivia_instrumental.ogg&amp;lang=es&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="es" label="español (es) subtitles" data-dir="ltr">
+             </audio>
+            </div>
+           </center>
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Bolivia_(orthographic_projection).svg" class="image" title="Location of &nbsp;Bolivia&nbsp;&nbsp;(dark green) in South America&nbsp;&nbsp;(grey)"><img alt="Location of &nbsp;Bolivia&nbsp;&nbsp;(dark green) in South America&nbsp;&nbsp;(grey)" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bolivia_%28orthographic_projection%29.svg/220px-Bolivia_%28orthographic_projection%29.svg.png" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bolivia_%28orthographic_projection%29.svg/330px-Bolivia_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bolivia_%28orthographic_projection%29.svg/440px-Bolivia_%28orthographic_projection%29.svg.png 2x" data-file-width="541" data-file-height="541"></a>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Dual flag<br>
+            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r6670383"><span class="nobold"><i lang="es" title="Spanish language text"><a href="/w/index.php?title=Wiphala&amp;action=edit&amp;redlink=1" class="new" title="Wiphala (not yet started)">Wiphala</a></i></span></b>
+           <br>
+           <div style="padding:0.3em;"> <a href="/wiki/File:Banner_of_the_Qulla_Suyu.svg" class="image"><img alt="Banner of the Qulla Suyu.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Banner_of_the_Qulla_Suyu.svg/100px-Banner_of_the_Qulla_Suyu.svg.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Banner_of_the_Qulla_Suyu.svg/150px-Banner_of_the_Qulla_Suyu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Banner_of_the_Qulla_Suyu.svg/200px-Banner_of_the_Qulla_Suyu.svg.png 2x" data-file-width="700" data-file-height="700"></a>
+           </div>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:BOL_orthographic.svg" class="image" title="Location of &nbsp;Bolivia&nbsp;&nbsp;(dark green) in South America&nbsp;&nbsp;(grey)"><img alt="Location of &nbsp;Bolivia&nbsp;&nbsp;(dark green) in South America&nbsp;&nbsp;(grey)" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/BOL_orthographic.svg/220px-BOL_orthographic.svg.png" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/BOL_orthographic.svg/330px-BOL_orthographic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/BOL_orthographic.svg/440px-BOL_orthographic.svg.png 2x" data-file-width="550" data-file-height="550"></a>
           <div style="position:relative;top:0.3em;">
            <div style="text-align:center;font-size:11px;line-height:1.15em;">
             <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Bolivia</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark green</span>)</span>
@@ -112,58 +126,27 @@
           </div></td>
         </tr>
         <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Bolivia_-_Location_Map_(2011)_-_BOL_-_UNOCHA.svg" class="image" title="Location of Bolivia"><img alt="Location of Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bolivia_-_Location_Map_%282011%29_-_BOL_-_UNOCHA.svg/250px-Bolivia_-_Location_Map_%282011%29_-_BOL_-_UNOCHA.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bolivia_-_Location_Map_%282011%29_-_BOL_-_UNOCHA.svg/375px-Bolivia_-_Location_Map_%282011%29_-_BOL_-_UNOCHA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bolivia_-_Location_Map_%282011%29_-_BOL_-_UNOCHA.svg/500px-Bolivia_-_Location_Map_%282011%29_-_BOL_-_UNOCHA.svg.png 2x" data-file-width="250" data-file-height="250"></a></td>
+        </tr>
+        <tr>
          <th scope="row">Capital</th>
-         <td><a href="/wiki/Sucre" title="Sucre">Sucre</a>, <a href="/wiki/La_Paz" title="La Paz">La Paz</a> <sup class="reference" id="ref_1"><a href="#endnote_1">[1]</a></sup></td>
+         <td><a href="/wiki/Sucre" title="Sucre">Sucre</a> <span style="font-size:85%;">(constitutional and judicial)</span><br><a href="/wiki/La_Paz" title="La Paz">La Paz</a> <span style="font-size:85%;">(executive and legislative)</span></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">Largest city</th>
-         <td><span class="nowrap"><a href="/wiki/Santa_Cruz_de_la_Sierra" class="mw-redirect" title="Santa Cruz de la Sierra">Santa Cruz de la Sierra</a></span><br><span style="font-size:85%;"><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Bolivia&amp;params=17_48_S_63_10_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">17°48′S</span> <span class="longitude">63°10′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">17.800°S 63.167°W</span><span style="display:none">﻿ / <span class="geo">-17.800; -63.167</span></span></span></a></span></span></td>
+         <td><span class="nowrap"><a href="/wiki/Santa_Cruz_de_la_Sierra" class="mw-redirect" title="Santa Cruz de la Sierra">Santa Cruz</a></span><br><span style="font-size:85%;"><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Bolivia&amp;params=17_48_S_63_10_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">17°48′S</span> <span class="longitude">63°10′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">17.800°S 63.167°W</span><span style="display:none">﻿ / <span class="geo">-17.800; -63.167</span></span></span></a></span></span></td>
         </tr>
         <tr>
          <th scope="row">Official languages<sup id="cite_ref-languages_2-0" class="reference"><a href="#cite_note-languages-2">[2]</a></sup></th>
          <td>
-          <div class="NavFrame collapsed" style="border: none; padding: 0;"> 
-           <div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:transparent;text-align:left;font-weight:normal;">
-            <a href="/w/index.php?title=Bolivian_Spanish&amp;action=edit&amp;redlink=1" class="new" title="Bolivian Spanish (not yet started)">Spanish</a> and <a href="/w/index.php?title=Languages_of_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Languages of Bolivia (not yet started)">36 indigenous languages</a>
-           </div> 
-           <ul class="NavContent" style="list-style: none none; margin-left: 0; border-top:1px solid #aaa; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
-            <li style="line-height: inherit; margin: 0"><a href="/w/index.php?title=Araona_language&amp;action=edit&amp;redlink=1" class="new" title="Araona language (not yet started)">Araona</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/wiki/Aymara_language" title="Aymara language">Aymara</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Ayoreo_language&amp;action=edit&amp;redlink=1" class="new" title="Ayoreo language (not yet started)">Ayoreo</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/wiki/Baure_language" title="Baure language">Baure</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Canichana_language&amp;action=edit&amp;redlink=1" class="new" title="Canichana language (not yet started)">Canichana</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Cavine%C3%B1a_language&amp;action=edit&amp;redlink=1" class="new" title="Cavineña language (not yet started)">Cavineña</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Cayuvava_language&amp;action=edit&amp;redlink=1" class="new" title="Cayuvava language (not yet started)">Cayuvava</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Ch%C3%A1cobo_language&amp;action=edit&amp;redlink=1" class="new" title="Chácobo language (not yet started)">Chácobo</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Chim%C3%A1n_language&amp;action=edit&amp;redlink=1" class="new" title="Chimán language (not yet started)">Chimane</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Chiquitano_language&amp;action=edit&amp;redlink=1" class="new" title="Chiquitano language (not yet started)">Chiquitano</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Eastern_Bolivian_Guaran%C3%AD_language&amp;action=edit&amp;redlink=1" class="new" title="Eastern Bolivian Guaraní language (not yet started)">Eastern Bolivian Guaraní</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Ese_Ejja_language&amp;action=edit&amp;redlink=1" class="new" title="Ese Ejja language (not yet started)">Ese Ejja</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/wiki/Guaran%C3%AD_language" title="Guaraní language">Guaraní</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Guarayu_language&amp;action=edit&amp;redlink=1" class="new" title="Guarayu language (not yet started)">Guarayu</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Ignaciano_language&amp;action=edit&amp;redlink=1" class="new" title="Ignaciano language (not yet started)">Ignaciano</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Itene_language&amp;action=edit&amp;redlink=1" class="new" title="Itene language (not yet started)">Itene</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Itonama_language&amp;action=edit&amp;redlink=1" class="new" title="Itonama language (not yet started)">Itonama</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Kallawaya_language&amp;action=edit&amp;redlink=1" class="new" title="Kallawaya language (not yet started)">Kallawaya</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Leco_language&amp;action=edit&amp;redlink=1" class="new" title="Leco language (not yet started)">Leco</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Moset%C3%A9n_language&amp;action=edit&amp;redlink=1" class="new" title="Mosetén language (not yet started)">Mosetén</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Movima_language&amp;action=edit&amp;redlink=1" class="new" title="Movima language (not yet started)">Movima</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Pakawara_language&amp;action=edit&amp;redlink=1" class="new" title="Pakawara language (not yet started)">Pakawara</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Pauserna_language&amp;action=edit&amp;redlink=1" class="new" title="Pauserna language (not yet started)">Pauserna</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Piro_language_(Peru)&amp;action=edit&amp;redlink=1" class="new" title="Piro language (Peru) (not yet started)">Piro</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Puquina_language&amp;action=edit&amp;redlink=1" class="new" title="Puquina language (not yet started)">Puquina</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/wiki/Quechua_language" class="mw-redirect" title="Quechua language">Quechua</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Reyesano_language&amp;action=edit&amp;redlink=1" class="new" title="Reyesano language (not yet started)">Reyesano</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Sirion%C3%B3_language&amp;action=edit&amp;redlink=1" class="new" title="Sirionó language (not yet started)">Sirionó</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Tacana_language&amp;action=edit&amp;redlink=1" class="new" title="Tacana language (not yet started)">Tacana</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Toromono_language&amp;action=edit&amp;redlink=1" class="new" title="Toromono language (not yet started)">Toromono</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Trinitario_language&amp;action=edit&amp;redlink=1" class="new" title="Trinitario language (not yet started)">Trinitario</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Uru-Chipaya&amp;action=edit&amp;redlink=1" class="new" title="Uru-Chipaya (not yet started)">Uru-Chipaya</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Wich%C3%AD_Lhamt%C3%A9s_Nocten&amp;action=edit&amp;redlink=1" class="new" title="Wichí Lhamtés Nocten (not yet started)">Wichí Lhamtés Nocten</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Yaminawa_language&amp;action=edit&amp;redlink=1" class="new" title="Yaminawa language (not yet started)">Yaminawa</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Yuki_language_(Bolivia)&amp;action=edit&amp;redlink=1" class="new" title="Yuki language (Bolivia) (not yet started)">Yuki</a> </li>
-            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Yuracar%C3%A9_language&amp;action=edit&amp;redlink=1" class="new" title="Yuracaré language (not yet started)">Yuracaré</a> </li>
-           </ul> 
+          <div class="plainlist">
+           <ul>
+            <li><a href="/w/index.php?title=Bolivian_Spanish&amp;action=edit&amp;redlink=1" class="new" title="Bolivian Spanish (not yet started)">Spanish</a></li>
+            <li><a href="/w/index.php?title=Quechuan_languages&amp;action=edit&amp;redlink=1" class="new" title="Quechuan languages (not yet started)">Quechua</a></li>
+            <li><a href="/w/index.php?title=Aymara_Language&amp;action=edit&amp;redlink=1" class="new" title="Aymara Language (not yet started)">Aymara</a></li>
+            <li><a href="/wiki/Guarani_language" class="mw-redirect" title="Guarani language">Guarani</a></li>
+            <li><a href="/w/index.php?title=Languages_of_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Languages of Bolivia (not yet started)">and 33 others (all Indigenous languages)</a></li>
+           </ul>
           </div></td>
         </tr>
         <tr>
@@ -174,20 +157,30 @@
          <td>
           <div class="plainlist">
            <ul>
-            <li>56% <a href="/wiki/Indigenous" class="mw-redirect" title="Indigenous">Indigenous</a></li>
-            <li>30% <a href="/wiki/Mestizo" title="Mestizo">Mestizo</a></li>
-            <li>12% <a href="/wiki/White_people" title="White people">White</a></li>
-            <li>2% Black</li>
+            <li>68% <a href="/wiki/Mestizo" title="Mestizo">Mestizo</a> (mixed <a href="/w/index.php?title=Indigenous_peoples_in_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Indigenous peoples in Bolivia (not yet started)">Native</a> and <a href="/w/index.php?title=White_Bolivians&amp;action=edit&amp;redlink=1" class="new" title="White Bolivians (not yet started)">White</a>)</li>
+            <li>20% <a href="/w/index.php?title=Indigenous_peoples_in_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Indigenous peoples in Bolivia (not yet started)">Native Bolivian</a></li>
+            <li>5% <a href="/w/index.php?title=White_Bolivians&amp;action=edit&amp;redlink=1" class="new" title="White Bolivians (not yet started)">White Bolivian</a></li>
+            <li>2% <a href="/w/index.php?title=Cholo&amp;action=edit&amp;redlink=1" class="new" title="Cholo (not yet started)">Cholo</a></li>
+            <li>1% <a href="/w/index.php?title=Afro-Bolivians&amp;action=edit&amp;redlink=1" class="new" title="Afro-Bolivians (not yet started)">Afro-Bolivian</a></li>
+            <li>1% Others</li>
+            <li>3% Unspecified</li>
            </ul>
           </div></td>
         </tr>
         <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;">
+            (2018)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+          </div></th>
+         <td>88.9% <a href="/wiki/Christianity" title="Christianity">Christianity</a><br>—70.0% <a href="/w/index.php?title=Catholic_Church_in_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Catholic Church in Bolivia (not yet started)">Roman Catholic</a><br>—17.2% <a href="/w/index.php?title=Protestantism_in_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Protestantism in Bolivia (not yet started)">Protestant</a><br>—1.7% Other <a href="/w/index.php?title=List_of_Christian_denominations&amp;action=edit&amp;redlink=1" class="new" title="List of Christian denominations (not yet started)">Christian</a><br>9.3% <a href="/w/index.php?title=Irreligion_in_Latin_America&amp;action=edit&amp;redlink=1" class="new" title="Irreligion in Latin America (not yet started)">No religion</a><br>1.2% Other <a href="/w/index.php?title=Religion_in_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Religion in Bolivia (not yet started)">religions</a><br>0.6% No answer</td>
+        </tr>
+        <tr>
          <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
-         <td>Bolivian</td>
+         <td><a href="/wiki/Bolivians" class="mw-redirect" title="Bolivians">Bolivian</a></td>
         </tr>
         <tr>
          <th scope="row">Government</th>
-         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Constitutional_republic" title="Constitutional republic">constitutional republic</a></td>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Republic" title="Republic">constitutional republic</a></td>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -218,14 +211,14 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;<a href="/wiki/Upper_house" title="Upper house">Upper house</a>
           </div></th>
-         <td>Senate</td>
+         <td><a href="/wiki/Chamber_of_Senators_(Bolivia)" title="Chamber of Senators (Bolivia)">Chamber of Senators</a></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;<a href="/wiki/Lower_house" title="Lower house">Lower house</a>
           </div></th>
-         <td>Chamber of Deputies</td>
+         <td><a href="/wiki/Chamber_of_Deputies_(Bolivia)" title="Chamber of Deputies (Bolivia)">Chamber of Deputies</a></td>
         </tr>
         <tr class="mergedtoprow">
          <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=Bolivian_Declaration_of_Independence&amp;action=edit&amp;redlink=1" class="new" title="Bolivian Declaration of Independence (not yet started)">Independence</a>&nbsp;
@@ -249,6 +242,13 @@
            •&nbsp;Recognized 
           </div></th>
          <td>21 July 1847</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Charter_of_the_United_Nations&amp;action=edit&amp;redlink=1" class="new" title="Charter of the United Nations (not yet started)">Admitted to the</a> <a href="/wiki/United_Nations" title="United Nations">United Nations</a> 
+          </div></th>
+         <td>14 November 1945</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
@@ -283,60 +283,60 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2015 estimate
+           •&nbsp;2019<sup id="cite_ref-imf_5-0" class="reference"><a href="#cite_note-imf-5">[5]</a></sup> estimate
           </div></th>
-         <td>11,410,651<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">83rd</a>)</td>
+         <td>11,428,245 (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">83rd</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Density
           </div></th>
-         <td>10.4/km<sup>2</sup> (26.9/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">221st</a>)</td>
+         <td>10.4/km<sup>2</sup> (26.9/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">224th</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
-         <td>2017&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$83.608 billion<sup id="cite_ref-imf_5-0" class="reference"><a href="#cite_note-imf-5">[5]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">91st</a>)</td>
+         <td>$89.018 billion<sup id="cite_ref-auto_6-0" class="reference"><a href="#cite_note-auto-6">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">88th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$7,552<sup id="cite_ref-imf_5-1" class="reference"><a href="#cite_note-imf-5">[5]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">119th</a>)</td>
+         <td>$7,790<sup id="cite_ref-auto_6-1" class="reference"><a href="#cite_note-auto-6">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">123rd</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
-         <td>2017&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$39.267 billion<sup id="cite_ref-imf_5-2" class="reference"><a href="#cite_note-imf-5">[5]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">96th</a>)</td>
+         <td>$40.687 billion<sup id="cite_ref-auto_6-2" class="reference"><a href="#cite_note-auto-6">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">90th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$3,546<sup id="cite_ref-imf_5-3" class="reference"><a href="#cite_note-imf-5">[5]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">119th</a>)</td>
+         <td>$3,823<sup id="cite_ref-auto_6-3" class="reference"><a href="#cite_note-auto-6">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">117th</a>)</td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2014)</span></th>
-         <td><img alt="Negative increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/11px-Increase_Negative.svg.png" decoding="async" title="Negative increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/17px-Increase_Negative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/22px-Increase_Negative.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;48.4<sup id="cite_ref-WB1_6-0" class="reference"><a href="#cite_note-WB1-6">[6]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2018)</span></th>
+         <td><img alt="Positive decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/11px-Decrease_Positive.svg.png" decoding="async" title="Positive decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/17px-Decrease_Positive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/22px-Decrease_Positive.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;42.2<sup id="cite_ref-WB1_7-0" class="reference"><a href="#cite_note-WB1-7">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2015)</span></th>
-         <td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" decoding="async" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.674<sup id="cite_ref-HDI_7-0" class="reference"><a href="#cite_note-HDI-7">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">118th</a></td>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2019)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.718<sup id="cite_ref-HDI_8-0" class="reference"><a href="#cite_note-HDI-8">[8]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">107th</a></td>
         </tr>
         <tr>
          <th scope="row">Currency</th>
@@ -344,7 +344,7 @@
         </tr>
         <tr>
          <th scope="row">Time zone</th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>−4</span> (<a href="/w/index.php?title=UTC%E2%88%924:00&amp;action=edit&amp;redlink=1" class="new" title="UTC−4:00 (not yet started)">BOT</a>)</td>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>−4</span> (<a href="/wiki/UTC%E2%88%9204:00" title="UTC−04:00">BOT</a>)</td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
@@ -352,7 +352,7 @@
         </tr>
         <tr>
          <th scope="row">Calling code</th>
-         <td><a href="/w/index.php?title=%2B591&amp;action=edit&amp;redlink=1" class="new" title="+591 (not yet started)">+591</a></td>
+         <td><a href="/w/index.php?title=Telephone_numbers_in_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in Bolivia (not yet started)">+591</a></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
@@ -360,19 +360,19 @@
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
-         <td><a href="/wiki/.bo" class="mw-redirect" title=".bo">.bo</a> and <a href="/w/index.php?title=.bol&amp;action=edit&amp;redlink=1" class="new" title=".bol (not yet started)">.bol</a></td>
+         <td><a href="/wiki/.bo" class="mw-redirect" title=".bo">.bo</a></td>
         </tr>
         <tr>
          <td colspan="2" style="text-align:center">
           <div style="text-align:left;margin-left:auto; margin-right:auto;">
            <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
-            <li value="1"><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^</a></b></span> While <a href="/wiki/Sucre" title="Sucre">Sucre</a> is the constitutional capital, <a href="/wiki/La_Paz" title="La Paz">La Paz</a> is the seat of the government, as member of the UCCI, as the de facto capital. See <a href="/wiki/Bolivia#Capital" title="Bolivia">below</a>.</li> 
+            <li value="1"><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^</a></b></span> While <a href="/wiki/Sucre" title="Sucre">Sucre</a> is the constitutional capital, <a href="/wiki/La_Paz" title="La Paz">La Paz</a> is the seat of government and the executive capital. See <a href="#Capital">below</a>.</li> 
            </ol>
           </div></td>
         </tr>
        </tbody>
       </table> 
-      <p><b>Bolivia</b> (officially called <b>Republic of Bolivia</b>) is a <a href="/wiki/Country" title="Country">country</a> in <a href="/wiki/South_America" title="South America">South America</a>. It is land locked by <a href="/wiki/Brazil" title="Brazil">Brazil</a>, <a href="/wiki/Paraguay" title="Paraguay">Paraguay</a>, <a href="/wiki/Argentina" title="Argentina">Argentina</a>, <a href="/wiki/Peru" title="Peru">Peru</a>, and <a href="/wiki/Chile" title="Chile">Chile</a>. <a href="/wiki/Jeanine_%C3%81%C3%B1ez" title="Jeanine Áñez">Jeanine Áñez</a> became the president of <i>Bolivia</i> in <a href="/wiki/November" title="November">November</a> <a href="/wiki/2019" title="2019">2019</a>, after longtime president <a href="/wiki/Evo_Morales" title="Evo Morales">Evo Morales</a> was overthrown. The <a href="/wiki/Population" title="Population">population</a> of Bolivia is 10.67 million (2013).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p>
+      <p><b>Bolivia</b><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[a]</a></sup> <span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="'b' in 'buy'">b</span><span title="/ə/: 'a' in 'about'">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'l' in 'lie'">l</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'v' in 'vie'">v</span><span title="/i/: 'y' in 'happy'">i</span><span title="/ə/: 'a' in 'about'">ə</span></span>/</a></span> <span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:En-us-Bolivia.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20"></a></span><a href="//upload.wikimedia.org/wikipedia/commons/3/39/En-us-Bolivia.ogg" class="internal" title="En-us-Bolivia.ogg">listen</a></span></span>)</span></span>, officially the <b>Plurinational State of Bolivia</b>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[b]</a></sup><sup id="cite_ref-ReferenceA_11-0" class="reference"><a href="#cite_note-ReferenceA-11">[9]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[10]</a></sup> is a <a href="/wiki/Country" title="Country">country</a> in <a href="/wiki/South_America" title="South America">South America</a>. It is land locked by <a href="/wiki/Brazil" title="Brazil">Brazil</a>, <a href="/wiki/Paraguay" title="Paraguay">Paraguay</a>, <a href="/wiki/Argentina" title="Argentina">Argentina</a>, <a href="/wiki/Peru" title="Peru">Peru</a>, and <a href="/wiki/Chile" title="Chile">Chile</a>. <a href="/wiki/Jeanine_%C3%81%C3%B1ez" title="Jeanine Áñez">Jeanine Áñez</a> became the president of <i>Bolivia</i> in <a href="/wiki/November" title="November">November</a> <a href="/wiki/2019" title="2019">2019</a>, after longtime president <a href="/wiki/Evo_Morales" title="Evo Morales">Evo Morales</a> was overthrown. The <a href="/wiki/Population" title="Population">population</a> of Bolivia is 10.67 million (2013).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[11]</a></sup> </p>
       <p>Bolivia is named after <a href="/wiki/Sim%C3%B3n_Bol%C3%ADvar" title="Simón Bolívar">Simón Bolívar</a>. The main languages are Spanish and Quechua, but there are other languages too. </p> 
       <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
        <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
@@ -415,7 +415,7 @@
         </div>
        </div>
       </div> 
-      <p>Bolivia is 424,135 <a href="/wiki/Square_miles" class="mw-redirect" title="Square miles">mi²</a> (1,098,581 <a href="/wiki/Square_kilometre" title="Square kilometre">km²</a>).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> This means that Bolivia is the world's 28th-largest country (after <a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a>). It is the same sort of size as <a href="/wiki/Mauritania" title="Mauritania">Mauritania</a>. </p>
+      <p>Bolivia is 424,135 <a href="/wiki/Square_miles" class="mw-redirect" title="Square miles">mi²</a> (1,098,581 <a href="/wiki/Square_kilometre" title="Square kilometre">km²</a>).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[12]</a></sup> This means that Bolivia is the world's 28th-largest country (after <a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a>). It is the same sort of size as <a href="/wiki/Mauritania" title="Mauritania">Mauritania</a>. </p>
       <p>Bolivia is a landlocked nation, which means every border of Bolivia is a border with another country, and so it does not have a sea. It used to own some of the Pacific coast, but it lost it in 1879 in the <a href="/wiki/War_of_the_Pacific" title="War of the Pacific">War of the Pacific</a>. The west of Bolivia is on the <a href="/wiki/Andes" title="Andes">Andes</a> mountain range. The highest mountain in Bolivia is called <a href="/w/index.php?title=Nevado_de_Sajama&amp;action=edit&amp;redlink=1" class="new" title="Nevado de Sajama (not yet started)">Nevado de Sajama</a> and it is near the city of <a href="/w/index.php?title=Oruro&amp;action=edit&amp;redlink=1" class="new" title="Oruro (not yet started)">Oruro</a>. Although this part of the country is very high with lots of mountains, there are also parts of Bolivia which are very flat, and parts of the country which are very near sea level. There is also a bit of Bolivia covered by the Amazon rainforest, and a big lake which is the highest lake in the world. This lake is called <a href="/wiki/Lake_Titicaca" title="Lake Titicaca">Lake Titicaca</a>. </p>
       <p>The major cities are <a href="/wiki/La_Paz" title="La Paz">La Paz</a>, <a href="/w/index.php?title=El_Alto&amp;action=edit&amp;redlink=1" class="new" title="El Alto (not yet started)">El Alto</a>, <a href="/wiki/Santa_Cruz,_Bolivia" title="Santa Cruz, Bolivia">Santa Cruz de la Sierra</a> and <a href="/w/index.php?title=Cochabamba,_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Cochabamba, Bolivia (not yet started)">Cochabamba</a>. For other places in Bolivia see <a href="/wiki/List_of_cities_in_Bolivia" title="List of cities in Bolivia">List of cities in Bolivia</a>. </p> 
       <h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bolivia&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Demographics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bolivia&amp;action=edit&amp;section=3" title="Change section: Demographics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
@@ -427,9 +427,9 @@
        <li>2%: <a href="/wiki/Black" title="Black">Black</a></li>
       </ul> 
       <h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bolivia&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Economy">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bolivia&amp;action=edit&amp;section=4" title="Change section: Economy">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <p>Bolivia suffers from <a href="/wiki/Poverty" title="Poverty">poverty</a>. Over 65% of the population lives below the poverty line.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p> 
+      <p>Bolivia suffers from <a href="/wiki/Poverty" title="Poverty">poverty</a>. Over 65% of the population lives below the poverty line.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[13]</a></sup> </p> 
       <h2><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bolivia&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Divisions">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bolivia&amp;action=edit&amp;section=5" title="Change section: Divisions">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <p>Bolivia is divided into nine departments. The departments are divided into 112 provinces. The provinces are divided into 339 municipalities and into native community lands.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </p> 
+      <p>Bolivia is divided into nine departments. The departments are divided into 112 provinces. The provinces are divided into 339 municipalities and into native community lands.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[14]</a></sup> </p> 
       <div align="center"> 
        <table class="toc" cellpadding="0" cellspacing="2.5" width="800px" style="float:center; margin: 0.5em 0.5em 0.5em 1em; padding: 0.5e text-align:left;clear:all; margin-left:3px; font-size:90%"> 
         <tbody>
@@ -529,7 +529,7 @@
           <td align="left"><a href="/w/index.php?title=Tarija,_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Tarija, Bolivia (not yet started)">Tarija</a> </td>
          </tr> 
          <tr> 
-          <td colspan="7" style="background:#e9e9e9;" align="righth"><small>Source: Demographic Projections 2008, Bolivian National Demographic Institute.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> The departmental densitiy has been calculated with the population of 2006.</small> </td>
+          <td colspan="7" style="background:#e9e9e9;" align="righth"><small>Source: Demographic Projections 2008, Bolivian National Demographic Institute.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[15]</a></sup> The departmental densitiy has been calculated with the population of 2006.</small> </td>
          </tr>
         </tbody>
        </table> 
@@ -548,27 +548,39 @@
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap mw-references-columns">
         <ol class="references"> 
-         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070428004356/http://www.bcb.gov.bo/sitio/monedas/ligera/monedas/m10c.html">"Moneda de 10 Centavos"</a> [10 Cent Coins] (in Spanish). <a href="/w/index.php?title=Central_Bank_of_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Central Bank of Bolivia (not yet started)">Central Bank of Bolivia</a>. Archived from <a rel="nofollow" class="external text" href="http://www.bcb.gov.bo/sitio/monedas/ligera/monedas/m10c.html">the original</a> on 28 April 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">28 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Moneda+de+10+Centavos&amp;rft.pub=Central+Bank+of+Bolivia&amp;rft_id=http%3A%2F%2Fwww.bcb.gov.bo%2Fsitio%2Fmonedas%2Fligera%2Fmonedas%2Fm10c.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-languages-2"><span class="mw-cite-backlink"><a href="#cite_ref-languages_2-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://bolivia.justia.com/nacionales/nueva-constitucion-politica-del-estado/primera-parte/titulo-i/capitulo-primero/">Political Constitution of the State – Article 5</a></span> </li> 
-         <li id="cite_note-cia-3"><span class="mw-cite-backlink"><a href="#cite_ref-cia_3-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html">"South America&nbsp;:: Bolivia"</a>. <i><a href="/wiki/The_World_Factbook" title="The World Factbook">The World Factbook</a></i>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=South+America+%3A%3A+Bolivia&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fbl.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170313072702/http://www.ine.gob.bo/indice/visualizador.aspx?ah=PC20411.HTM">BOLIVIA: POBLACIÓN TOTAL PROYECTADA, POR AÑO CALENDARIO, SEGÚN ÁREA Y DEPARTAMENTO, 2010 – 2015</a>. Instituto Nacional de Estadística de Bolivia.</span> </li> 
-         <li id="cite_note-imf-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf_5-0">5.0</a></sup> <sup><a href="#cite_ref-imf_5-1">5.1</a></sup> <sup><a href="#cite_ref-imf_5-2">5.2</a></sup> <sup><a href="#cite_ref-imf_5-3">5.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=69&amp;pr.y=12&amp;sy=2017&amp;ey=2019&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=218&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Report for Selected Countries and Subjects"</a>. <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+for+Selected+Countries+and+Subjects&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2017%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D69%26pr.y%3D12%26sy%3D2017%26ey%3D2019%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D218%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-WB1-6"><span class="mw-cite-backlink"><a href="#cite_ref-WB1_6-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://data.worldbank.org/indicator/SI.POV.GINI?locations=BO">"Gini index"</a>. <a href="/wiki/World_Bank" title="World Bank">World Bank</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gini+index&amp;rft.pub=World+Bank&amp;rft_id=http%3A%2F%2Fdata.worldbank.org%2Findicator%2FSI.POV.GINI%3Flocations%3DBO&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-HDI-7"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_7-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf">"2016 Human Development Report"</a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">23 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2016+Human+Development+Report&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2016&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2F2016_human_development_report.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/"><i>The World Factbook</i></a>. CIA.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+World+Factbook&amp;rft.pub=CIA&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/2147rank.html">World Factbook</a></span> </li> 
-         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite id="CITEREFFenton-Glynn2019" class="citation book cs1">Fenton-Glynn, Claire (2019-04-18). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=Km2MDwAAQBAJ&amp;pg=PA296&amp;dq=bolivia+population+below+poverty+line+2019&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwiL5Yfxod7qAhUGIMAKHU3IDswQ6AEwAXoECAIQAg#v=onepage&amp;q=bolivia%20population%20below%20poverty%20line%202019&amp;f=false"><i>Children's Rights and Sustainable Development: Interpreting the UNCRC for Future Generations</i></a>. Cambridge University Press. p.&nbsp;296. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-107-19302-4" title="Special:BookSources/978-1-107-19302-4"><bdi>978-1-107-19302-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Children%27s+Rights+and+Sustainable+Development%3A+Interpreting+the+UNCRC+for+Future+Generations&amp;rft.pages=296&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2019-04-18&amp;rft.isbn=978-1-107-19302-4&amp;rft.aulast=Fenton-Glynn&amp;rft.aufirst=Claire&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DKm2MDwAAQBAJ%26pg%3DPA296%26dq%3Dbolivia%2Bpopulation%2Bbelow%2Bpoverty%2Bline%2B2019%26hl%3Den%26sa%3DX%26ved%3D2ahUKEwiL5Yfxod7qAhUGIMAKHU3IDswQ6AEwAXoECAIQAg%23v%3Donepage%26q%3Dbolivia%2520population%2520below%2520poverty%2520line%25202019%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Political Constitution of Bolivia, Article 269</span> </li> 
-         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ine.gov.bo/cgi-bin/piwdie1xx.exe/TIPO?Grupo=0304&amp;D2=6&amp;D3=">[1]</a></span> </li> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070428004356/http://www.bcb.gov.bo/sitio/monedas/ligera/monedas/m10c.html">"Moneda de 10 Centavos"</a> [10 Cent Coins] (in Spanish). <a href="/w/index.php?title=Central_Bank_of_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Central Bank of Bolivia (not yet started)">Central Bank of Bolivia</a>. Archived from <a rel="nofollow" class="external text" href="http://www.bcb.gov.bo/sitio/monedas/ligera/monedas/m10c.html">the original</a> on 28 April 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">28 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Moneda+de+10+Centavos&amp;rft.pub=Central+Bank+of+Bolivia&amp;rft_id=http%3A%2F%2Fwww.bcb.gov.bo%2Fsitio%2Fmonedas%2Fligera%2Fmonedas%2Fm10c.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-languages-2"><span class="mw-cite-backlink"><a href="#cite_ref-languages_2-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://bolivia.justia.com/nacionales/nueva-constitucion-politica-del-estado/primera-parte/titulo-i/capitulo-primero/">"Nueva Constitución Política Del Estado &gt; PRIMERA PARTE &gt; TÍTULO I &gt; CAPÍTULO PRIMERO &gt; Modelo De Estado: Ley de Bolivia"</a>. <i>JUSTIA Bolivia</i> (in Spanish). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170225051614/http://bolivia.justia.com/nacionales/nueva-constitucion-politica-del-estado/primera-parte/titulo-i/capitulo-primero/">Archived</a> from the original on 25 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=JUSTIA+Bolivia&amp;rft.atitle=Nueva+Constituci%C3%B3n+Pol%C3%ADtica+Del+Estado+%3E+PRIMERA+PARTE+%3E+T%C3%8DTULO+I+%3E+CAP%C3%8DTULO+PRIMERO+%3E+Modelo+De+Estado%3A+Ley+de+Bolivia&amp;rft_id=http%3A%2F%2Fbolivia.justia.com%2Fnacionales%2Fnueva-constitucion-politica-del-estado%2Fprimera-parte%2Ftitulo-i%2Fcapitulo-primero%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-cia-3"><span class="mw-cite-backlink"><a href="#cite_ref-cia_3-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html">"South America&nbsp;:: Bolivia"</a>. <i><a href="/wiki/The_World_Factbook" title="The World Factbook">The World Factbook</a></i>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110213095613/https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html">Archived</a> from the original on 13 February 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=South+America+%3A%3A+Bolivia&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fbl.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.statista.com/statistics/1066911/religious-affiliation-in-bolivia/">Religion affiliation in Bolivia as of 2018. Based on Latinobarómetro.</a> Survey period: 15 June to 2 August 2018, 1,200 respondents.</span> </li> 
+         <li id="cite_note-imf-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf_5-0">5.0</a></sup> <sup><a href="#cite_ref-imf_5-1">5.1</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=58&amp;pr.y=4&amp;sy=2016&amp;ey=2023&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=218&amp;s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Report for Selected Countries and Subjects"</a>. <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+for+Selected+Countries+and+Subjects&amp;rft.pub=International+Monetary+Fund&amp;rft_id=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2018%2F02%2Fweodata%2Fweorept.aspx%3Fpr.x%3D58%26pr.y%3D4%26sy%3D2016%26ey%3D2023%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D218%26s%3DNGDPD%252CPPPGDP%252CNGDPDPC%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-auto-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-auto_6-0">6.0</a></sup> <sup><a href="#cite_ref-auto_6-1">6.1</a></sup> <sup><a href="#cite_ref-auto_6-2">6.2</a></sup> <sup><a href="#cite_ref-auto_6-3">6.3</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=17&amp;pr.y=21&amp;sy=2019&amp;ey=2024&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=218&amp;s=NGDPD,PPPGDP,NGDPDPC,PPPPC&amp;grp=0&amp;a=">"Report for Selected Countries and Subjects"</a>. <i>www.imf.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 August</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.imf.org&amp;rft.atitle=Report+for+Selected+Countries+and+Subjects&amp;rft_id=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2019%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D17%26pr.y%3D21%26sy%3D2019%26ey%3D2024%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D218%26s%3DNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-WB1-7"><span class="mw-cite-backlink"><a href="#cite_ref-WB1_7-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://data.worldbank.org/indicator/SI.POV.GINI?locations=BO">"GINI index (World Bank estimate) – Bolivia"</a>. <a href="/wiki/World_Bank" title="World Bank">World Bank</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180811112826/https://data.worldbank.org/indicator/SI.POV.GINI?locations=BO">Archived</a> from the original on 11 August 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">22 March</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GINI+index+%28World+Bank+estimate%29+%E2%80%93+Bolivia&amp;rft.pub=World+Bank&amp;rft_id=https%3A%2F%2Fdata.worldbank.org%2Findicator%2FSI.POV.GINI%3Flocations%3DBO&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-HDI-8"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_8-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr2020.pdf"><i>Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene</i></a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 15 December 2020. pp.&nbsp;343–346. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-92-1-126442-5" title="Special:BookSources/978-92-1-126442-5"><bdi>978-92-1-126442-5</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Human+Development+Report+2020+The+Next+Frontier%3A+Human+Development+and+the+Anthropocene&amp;rft.pages=343-346&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2020-12-15&amp;rft.isbn=978-92-1-126442-5&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr2020.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-ReferenceA-11"><span class="mw-cite-backlink"><a href="#cite_ref-ReferenceA_11-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.who.int/countries/bol/en/">"Bolivia (Plurinational State of)"</a>. World Health Organization. 11 May 2010. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101006023403/http://www.who.int/countries/bol/en/">Archived</a> from the original on 6 October 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">30 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bolivia+%28Plurinational+State+of%29&amp;rft.pub=World+Health+Organization&amp;rft.date=2010-05-11&amp;rft_id=https%3A%2F%2Fwww.who.int%2Fcountries%2Fbol%2Fen%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://data.un.org/CountryProfile.aspx?crName=Bolivia%20(Plurinational%20State%20of)">"Bolivia (Plurinational State of)"</a>. UNdata. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100702212308/http://data.un.org/CountryProfile.aspx?crName=Bolivia%20(Plurinational%20State%20of)">Archived</a> from the original on 2 July 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">30 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bolivia+%28Plurinational+State+of%29&amp;rft.pub=UNdata&amp;rft_id=http%3A%2F%2Fdata.un.org%2FCountryProfile.aspx%3FcrName%3DBolivia%2520%28Plurinational%2520State%2520of%29&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/"><i>The World Factbook</i></a>. CIA.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+World+Factbook&amp;rft.pub=CIA&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/2147rank.html">World Factbook</a></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFFenton-Glynn2019" class="citation book cs1">Fenton-Glynn, Claire (2019-04-18). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=Km2MDwAAQBAJ&amp;pg=PA296&amp;dq=bolivia+population+below+poverty+line+2019&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwiL5Yfxod7qAhUGIMAKHU3IDswQ6AEwAXoECAIQAg#v=onepage&amp;q=bolivia%20population%20below%20poverty%20line%202019&amp;f=false"><i>Children's Rights and Sustainable Development: Interpreting the UNCRC for Future Generations</i></a>. Cambridge University Press. p.&nbsp;296. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-107-19302-4" title="Special:BookSources/978-1-107-19302-4"><bdi>978-1-107-19302-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Children%27s+Rights+and+Sustainable+Development%3A+Interpreting+the+UNCRC+for+Future+Generations&amp;rft.pages=296&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2019-04-18&amp;rft.isbn=978-1-107-19302-4&amp;rft.aulast=Fenton-Glynn&amp;rft.aufirst=Claire&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DKm2MDwAAQBAJ%26pg%3DPA296%26dq%3Dbolivia%2Bpopulation%2Bbelow%2Bpoverty%2Bline%2B2019%26hl%3Den%26sa%3DX%26ved%3D2ahUKEwiL5Yfxod7qAhUGIMAKHU3IDswQ6AEwAXoECAIQAg%23v%3Donepage%26q%3Dbolivia%2520population%2520below%2520poverty%2520line%25202019%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABolivia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Political Constitution of Bolivia, Article 269</span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ine.gov.bo/cgi-bin/piwdie1xx.exe/TIPO?Grupo=0304&amp;D2=6&amp;D3=">[1]</a></span> </li> 
         </ol>
        </div>
       </div> 
+      <p><b>Notes</b> </p> 
+      <ol class="references"> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><small>Spanish:&nbsp;</small><span title="Pronunciation in IPA" class="IPA"><a href="/wiki/Wikipedia:IPA_for_Spanish" title="Wikipedia:IPA for Spanish">[boˈliβja]</a></span> <span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:ES-pe_-_Bolivia.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20"></a></span><a href="//upload.wikimedia.org/wikipedia/commons/a/a2/ES-pe_-_Bolivia.ogg" class="internal" title="ES-pe - Bolivia.ogg">listen</a></span></span>)</span>; <a href="/wiki/Guarani_language" class="mw-redirect" title="Guarani language">Guarani</a>: <i lang="gn">Mborivia</i> <small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA" class="mw-redirect" title="Help:IPA">[ᵐboˈɾiʋja]</a></span>; <a href="/wiki/Aymara_language" title="Aymara language">Aymara</a>: <i lang="ay">Wuliwya</i> <small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA" class="mw-redirect" title="Help:IPA">[wʊlɪwja]</a></span>; <a href="/w/index.php?title=Quechuan_languages&amp;action=edit&amp;redlink=1" class="new" title="Quechuan languages (not yet started)">Quechua</a>: <i>Puliwya</i> <small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/w/index.php?title=Help:IPA/Quechua&amp;action=edit&amp;redlink=1" class="new" title="Help:IPA/Quechua (not yet started)">[pʊlɪwja]</a></span></span> </li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <i lang="es">Estado Plurinacional de Bolivia</i> <small>Spanish pronunciation:&nbsp;</small><span title="Pronunciation in IPA" class="IPA"><a href="/wiki/Wikipedia:IPA_for_Spanish" title="Wikipedia:IPA for Spanish">[esˈtaðo pluɾinasjoˈnal de βoˈliβja]</a></span> <span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:ES-pe_-_Estado_Plurinacional_de_Bolivia.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20"></a></span><a href="//upload.wikimedia.org/wikipedia/commons/6/63/ES-pe_-_Estado_Plurinacional_de_Bolivia.ogg" class="internal" title="ES-pe - Estado Plurinacional de Bolivia.ogg">listen</a></span></span>)</span></span> </li> 
+      </ol> 
       <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bolivia&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Bolivia&amp;action=edit&amp;section=10" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <ul>
        <li><a rel="nofollow" class="external text" href="http://annamap.com/bolivia/">Bolivia map</a></li> 
@@ -626,43 +638,43 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1298
-Cached time: 20201225184353
+Parsed by mw1334
+Cached time: 20210114204709
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.112 seconds
-Real time usage: 1.325 seconds
-Preprocessor visited node count: 4727/1000000
-Post‐expand include size: 110190/2097152 bytes
-Template argument size: 27197/2097152 bytes
+CPU time usage: 1.240 seconds
+Real time usage: 1.492 seconds
+Preprocessor visited node count: 5162/1000000
+Post‐expand include size: 119786/2097152 bytes
+Template argument size: 29134/2097152 bytes
 Highest expansion depth: 18/40
-Expensive parser function count: 16/500
+Expensive parser function count: 18/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 24671/5000000 bytes
-Lua time usage: 0.655/10.000 seconds
-Lua memory usage: 31607897/52428800 bytes
+Unstrip post‐expand size: 41347/5000000 bytes
+Lua time usage: 0.697/10.000 seconds
+Lua memory usage: 31314670/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1203.314      1 -total
- 57.55%  692.524      1 Template:Infobox_country
- 55.49%  667.751      3 Template:Infobox
- 16.92%  203.580      1 Template:Authority_control
- 15.39%  185.213      3 Template:ISO_3166_code
- 15.17%  182.516      2 Template:Unbulleted_list
- 14.09%  169.596      5 Template:Native_name
- 11.97%  144.056      6 Template:Lang
- 11.48%  138.177      1 Template:Reflist
- 11.20%  134.722      1 Template:Commonscat-inline
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:9289-0!canonical and timestamp 20201225184353 and revision id 7174951. Serialized with JSON.
+100.00% 1340.998      1 -total
+ 51.24%  687.134      1 Template:Infobox_country
+ 48.91%  655.910      3 Template:Infobox
+ 16.17%  216.797      5 Template:Small
+ 14.88%  199.567      2 Template:Nobold
+ 14.75%  197.778      1 Template:Authority_control
+ 13.58%  182.106      4 Template:Native_name
+ 12.90%  172.968      6 Template:Lang
+ 12.68%  170.087      1 Template:Commonscat-inline
+ 12.33%  165.360      2 Template:Sister-inline
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:9289-0!canonical and timestamp 20210114204709 and revision id 7267380. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Bolivia&amp;oldid=7174951">https://simple.wikipedia.org/w/index.php?title=Bolivia&amp;oldid=7174951</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Bolivia&amp;oldid=7267380">https://simple.wikipedia.org/w/index.php?title=Bolivia&amp;oldid=7267380</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -678,11 +690,11 @@ Transclusion expansion time report (%,ms,calls,template)
       Hidden categories: 
       <ul>
        <li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li>
-       <li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li>
+       <li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li>
        <li><a href="/wiki/Category:Articles_containing_Guarani-language_text" title="Category:Articles containing Guarani-language text">Articles containing Guarani-language text</a></li>
-       <li><a href="/wiki/Category:Articles_containing_Quechua-language_text" title="Category:Articles containing Quechua-language text">Articles containing Quechua-language text</a></li>
        <li><a href="/wiki/Category:Articles_containing_Aymara-language_text" title="Category:Articles containing Aymara-language text">Articles containing Aymara-language text</a></li>
-       <li><a href="/wiki/Category:Pages_using_collapsible_list_with_both_background_and_text-align_in_titlestyle" title="Category:Pages using collapsible list with both background and text-align in titlestyle">Pages using collapsible list with both background and text-align in titlestyle</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li>
+       <li><a href="/wiki/Category:Pages_including_recorded_pronunciations" title="Category:Pages including recorded pronunciations">Pages including recorded pronunciations</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_HDS_identifiers" title="Category:Wikipedia articles with HDS identifiers">Wikipedia articles with HDS identifiers</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li>
@@ -767,9 +779,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -793,9 +805,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bolivia" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Bolivia&amp;oldid=7174951" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Bolivia&amp;oldid=7267380" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Bolivia&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bolivia&amp;id=7174951&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bolivia&amp;id=7267380&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q750" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -917,7 +929,7 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Bolivia" title="Bolivia – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
        <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Polivi" title="Polivi – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
        <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B3%8A%E0%B2%B2%E0%B2%BF%E0%B2%B5%E0%B2%BF%E0%B2%AF" title="ಬೊಲಿವಿಯ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
-       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Bolivia" title="Bolivia – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Bolibia" title="Bolibia – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
        <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D1%8F" title="Боливия – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
        <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%9D%E1%83%9A%E1%83%98%E1%83%95%E1%83%98%E1%83%90" title="ბოლივია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
        <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/B%C3%B2liwi%C3%B4" title="Bòliwiô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
@@ -935,7 +947,6 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Bolivia" title="Bolivia – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
        <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Bolivia" title="Bolivia – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
        <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BB%82%E0%BA%9A%E0%BA%A5%E0%BA%B5%E0%BA%A7%E0%BA%B5" title="ປະເທດໂບລີວີ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
-       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A8%DB%8A%D9%84%DB%8C%DA%A4%DB%8C" title="بۊلیڤی – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
        <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Boliveja" title="Boliveja – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
        <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Bolivia" title="Bolivia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
        <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Bol%C4%ABvija" title="Bolīvija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
@@ -1072,7 +1083,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 9 November 2020, at 21:31.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 14 January 2021, at 13:06.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1090,8 +1101,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.112","walltime":"1.325","ppvisitednodes":{"value":4727,"limit":1000000},"postexpandincludesize":{"value":110190,"limit":2097152},"templateargumentsize":{"value":27197,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24671,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1203.314      1 -total"," 57.55%  692.524      1 Template:Infobox_country"," 55.49%  667.751      3 Template:Infobox"," 16.92%  203.580      1 Template:Authority_control"," 15.39%  185.213      3 Template:ISO_3166_code"," 15.17%  182.516      2 Template:Unbulleted_list"," 14.09%  169.596      5 Template:Native_name"," 11.97%  144.056      6 Template:Lang"," 11.48%  138.177      1 Template:Reflist"," 11.20%  134.722      1 Template:Commonscat-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.655","limit":"10.000"},"limitreport-memusage":{"value":31607897,"limit":52428800}},"cachereport":{"origin":"mw1298","timestamp":"20201225184353","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bolivia","url":"https:\/\/simple.wikipedia.org\/wiki\/Bolivia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q750","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q750","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-16T15:43:51Z","dateModified":"2020-11-09T21:31:51Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/de\/Flag_of_Bolivia_%28state%29.svg","headline":"sovereign state in South America"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":257,"wgHostname":"mw1385"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.240","walltime":"1.492","ppvisitednodes":{"value":5162,"limit":1000000},"postexpandincludesize":{"value":119786,"limit":2097152},"templateargumentsize":{"value":29134,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":41347,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1340.998      1 -total"," 51.24%  687.134      1 Template:Infobox_country"," 48.91%  655.910      3 Template:Infobox"," 16.17%  216.797      5 Template:Small"," 14.88%  199.567      2 Template:Nobold"," 14.75%  197.778      1 Template:Authority_control"," 13.58%  182.106      4 Template:Native_name"," 12.90%  172.968      6 Template:Lang"," 12.68%  170.087      1 Template:Commonscat-inline"," 12.33%  165.360      2 Template:Sister-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.697","limit":"10.000"},"limitreport-memusage":{"value":31314670,"limit":52428800}},"cachereport":{"origin":"mw1334","timestamp":"20210114204709","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bolivia","url":"https:\/\/simple.wikipedia.org\/wiki\/Bolivia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q750","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q750","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-16T15:43:51Z","dateModified":"2021-01-14T13:06:42Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b3\/Bandera_de_Bolivia_%28Estado%29.svg","headline":"sovereign state in South America"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":232,"wgHostname":"mw1399"});});</script> 
  </body>
 </html>

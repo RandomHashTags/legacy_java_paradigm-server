@@ -36,7 +36,6 @@ public final class ProxyClient extends Thread implements RestAPI {
         final String ip = client.getInetAddress().toString(), platform = getPlatform(headers), identifier = getIdentifier(headers);
         final boolean isValidRequest = platform != null && identifier != null;
 
-
         final String target;
         final TargetServer targetServer;
         if(isValidRequest) {

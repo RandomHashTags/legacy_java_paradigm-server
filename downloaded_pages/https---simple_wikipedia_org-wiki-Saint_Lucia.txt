@@ -3,16 +3,16 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Saint Lucia - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAIC0AAFg9YZQAAACS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Saint_Lucia","wgTitle":"Saint Lucia","wgCurRevisionId":7162635,"wgRevisionId":7162635,"wgArticleId":20412,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2013","Pages using infobox country with unknown parameters","Commons category link is on Wikidata","Organisation of Eastern Caribbean States","Saint Lucia","Commonwealth realms","English-speaking countries","Current monarchies",
-"Caribbean Community"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Saint_Lucia","wgRelevantArticleId":20412,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q760"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
-"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VApAMMUAAapmPWQAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Saint_Lucia","wgTitle":"Saint Lucia","wgCurRevisionId":7236939,"wgRevisionId":7236939,"wgArticleId":20412,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2013","Pages using infobox country with unknown parameters","Commons link is defined as the pagename","Commons category link is on Wikidata","Organisation of Eastern Caribbean States","Saint Lucia","Commonwealth realms",
+"English-speaking countries","Current monarchies","Caribbean Community"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Saint_Lucia","wgRelevantArticleId":20412,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q760"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready",
+"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -397,13 +397,13 @@
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap">
         <ol class="references"> 
-         <li id="cite_note-sltb-about-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-sltb-about_1-0">1.0</a></sup> <sup><a href="#cite_ref-sltb-about_1-1">1.1</a></sup> <sup><a href="#cite_ref-sltb-about_1-2">1.2</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.stlucia.org/planner/about.asp">"About St. Lucia"</a>. <a href="/wiki/Castries" title="Castries">Castries</a>, St. Lucia: St. Lucis Tourist Board<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-11</span></span>. <q>The official language spoken in Saint Lucia is English although many Saint Lucians also speak a French dialect, Creole (Kwéyòl).</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+St.+Lucia&amp;rft.place=Castries%2C+St.+Lucia&amp;rft.pub=St.+Lucis+Tourist+Board&amp;rft_id=http%3A%2F%2Fwww.stlucia.org%2Fplanner%2Fabout.asp&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Lucia" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-usstate-bgnote-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-usstate-bgnote_2-0">2.0</a></sup> <sup><a href="#cite_ref-usstate-bgnote_2-1">2.1</a></sup> <sup><a href="#cite_ref-usstate-bgnote_2-2">2.2</a></sup></span> <span class="reference-text"><cite id="CITEREFBureau_of_Western_Hemisphere_Affairs_(U.S._Department_of_State)2011" class="citation web cs1">Bureau of Western Hemisphere Affairs (U.S. Department of State) (August 12, 2011). <a rel="nofollow" class="external text" href="http://www.state.gov/r/pa/ei/bgn/2344.htm">"Background Note: Saint Lucia"</a>. <a href="/wiki/United_States_Department_of_State" title="United States Department of State">United States Department of State</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-11</span></span>. <q>Languages: English (official); a French patois is common throughout the country.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Background+Note%3A+Saint+Lucia&amp;rft.pub=United+States+Department+of+State&amp;rft.date=2011-08-12&amp;rft.au=Bureau+of+Western+Hemisphere+Affairs+%28U.S.+Department+of+State%29&amp;rft_id=http%3A%2F%2Fwww.state.gov%2Fr%2Fpa%2Fei%2Fbgn%2F2344.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Lucia" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-imf2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_3-0">3.0</a></sup> <sup><a href="#cite_ref-imf2_3-1">3.1</a></sup> <sup><a href="#cite_ref-imf2_3-2">3.2</a></sup> <sup><a href="#cite_ref-imf2_3-3">3.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=52&amp;pr.y=15&amp;sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=362&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Saint Lucia"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Saint+Lucia&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D52%26pr.y%3D15%26sy%3D2009%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D362%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Lucia" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.windiescricket.com/node/5438">"Charles eager to learn from Dessie Haynes"</a>. <i>Windies cricket</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Windies+cricket&amp;rft.atitle=Charles+eager+to+learn+from+Dessie+Haynes&amp;rft_id=http%3A%2F%2Fwww.windiescricket.com%2Fnode%2F5438&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Lucia" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-sltb-about-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-sltb-about_1-0">1.0</a></sup> <sup><a href="#cite_ref-sltb-about_1-1">1.1</a></sup> <sup><a href="#cite_ref-sltb-about_1-2">1.2</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.stlucia.org/planner/about.asp">"About St. Lucia"</a>. <a href="/wiki/Castries" title="Castries">Castries</a>, St. Lucia: St. Lucis Tourist Board<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-11</span></span>. <q>The official language spoken in Saint Lucia is English although many Saint Lucians also speak a French dialect, Creole (Kwéyòl).</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+St.+Lucia&amp;rft.place=Castries%2C+St.+Lucia&amp;rft.pub=St.+Lucis+Tourist+Board&amp;rft_id=http%3A%2F%2Fwww.stlucia.org%2Fplanner%2Fabout.asp&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Lucia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-usstate-bgnote-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-usstate-bgnote_2-0">2.0</a></sup> <sup><a href="#cite_ref-usstate-bgnote_2-1">2.1</a></sup> <sup><a href="#cite_ref-usstate-bgnote_2-2">2.2</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFBureau_of_Western_Hemisphere_Affairs_(U.S._Department_of_State)2011" class="citation web cs1">Bureau of Western Hemisphere Affairs (U.S. Department of State) (August 12, 2011). <a rel="nofollow" class="external text" href="http://www.state.gov/r/pa/ei/bgn/2344.htm">"Background Note: Saint Lucia"</a>. <a href="/wiki/United_States_Department_of_State" title="United States Department of State">United States Department of State</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-11</span></span>. <q>Languages: English (official); a French patois is common throughout the country.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Background+Note%3A+Saint+Lucia&amp;rft.pub=United+States+Department+of+State&amp;rft.date=2011-08-12&amp;rft.au=Bureau+of+Western+Hemisphere+Affairs+%28U.S.+Department+of+State%29&amp;rft_id=http%3A%2F%2Fwww.state.gov%2Fr%2Fpa%2Fei%2Fbgn%2F2344.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Lucia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-imf2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_3-0">3.0</a></sup> <sup><a href="#cite_ref-imf2_3-1">3.1</a></sup> <sup><a href="#cite_ref-imf2_3-2">3.2</a></sup> <sup><a href="#cite_ref-imf2_3-3">3.3</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=52&amp;pr.y=15&amp;sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=362&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Saint Lucia"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Saint+Lucia&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D52%26pr.y%3D15%26sy%3D2009%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D362%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Lucia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130208130119/http://www.windiescricket.com/node/5438">"Charles eager to learn from Dessie Haynes"</a>. <i>Windies cricket</i>. Archived from <a rel="nofollow" class="external text" href="http://www.windiescricket.com/node/5438">the original</a> on 8 February 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">29 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Windies+cricket&amp;rft.atitle=Charles+eager+to+learn+from+Dessie+Haynes&amp;rft_id=http%3A%2F%2Fwww.windiescricket.com%2Fnode%2F5438&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASaint+Lucia" class="Z3988"></span></span> </li> 
         </ol>
        </div>
       </div> 
@@ -414,9 +414,9 @@
           <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:North_America" title="Template:North America"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:North_America&amp;action=edit&amp;redlink=1" class="new" title="Template talk:North America (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_America&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:North_America" title="Template:North America"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:North_America&amp;action=edit&amp;redlink=1" class="new" title="Template talk:North America (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_America&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_of_North_America" style="font-size:114%;margin:0 4em">
@@ -448,9 +448,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Caribbean" title="Template:Caribbean"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Caribbean" title="Template talk:Caribbean"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caribbean&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Caribbean" title="Template:Caribbean"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Caribbean" title="Template talk:Caribbean"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caribbean&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_in_the_Caribbean_(West_Indies)" style="font-size:114%;margin:0 4em">
@@ -482,9 +482,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Caricom" title="Template:Caricom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Caricom" title="Template talk:Caricom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caricom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Caricom" title="Template:Caricom"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Caricom" title="Template talk:Caricom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Caricom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Caribbean_Community_(CARICOM)" style="font-size:114%;margin:0 4em">
@@ -528,9 +528,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/w/index.php?title=Template:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template:The Commonwealth (not yet started)"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:The_Commonwealth&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Commonwealth (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:The_Commonwealth&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Members_of_the_Commonwealth_of_Nations" style="font-size:114%;margin:0 4em">
@@ -677,9 +677,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Organisation_of_Eastern_Caribbean_States_(OECS)" title="Template:Organisation of Eastern Caribbean States (OECS)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Organisation_of_Eastern_Caribbean_States_(OECS)&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Organisation of Eastern Caribbean States (OECS) (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Organisation_of_Eastern_Caribbean_States_(OECS)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Organisation_of_Eastern_Caribbean_States_(OECS)" title="Template:Organisation of Eastern Caribbean States (OECS)"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Organisation_of_Eastern_Caribbean_States_(OECS)&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Organisation of Eastern Caribbean States (OECS) (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Organisation_of_Eastern_Caribbean_States_(OECS)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Organisation_of_Eastern_Caribbean_States_(OECS)" style="font-size:114%;margin:0 4em">
@@ -718,43 +718,43 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1306
-Cached time: 20201227213135
+Parsed by mw1349
+Cached time: 20210114001512
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.676 seconds
-Real time usage: 0.873 seconds
-Preprocessor visited node count: 4024/1000000
-Post‐expand include size: 105810/2097152 bytes
-Template argument size: 5544/2097152 bytes
+CPU time usage: 0.684 seconds
+Real time usage: 0.878 seconds
+Preprocessor visited node count: 4042/1000000
+Post‐expand include size: 104384/2097152 bytes
+Template argument size: 5596/2097152 bytes
 Highest expansion depth: 18/40
 Expensive parser function count: 8/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 19098/5000000 bytes
-Lua time usage: 0.325/10.000 seconds
-Lua memory usage: 6589715/52428800 bytes
+Unstrip post‐expand size: 18991/5000000 bytes
+Lua time usage: 0.352/10.000 seconds
+Lua memory usage: 6596133/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  742.000      1 -total
- 52.87%  392.267      1 Template:Infobox_country
- 50.86%  377.401      3 Template:Infobox
- 20.18%  149.744      1 Template:Commonscat
- 16.23%  120.435      1 Template:Reflist
- 14.56%  108.028      4 Template:Cite_web
- 10.05%   74.554      1 Template:Unbulleted_list
-  8.26%   61.311      1 Template:Citation_needed
-  7.62%   56.516      6 Template:Navbox
-  7.31%   54.227      1 Template:Fix
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:20412-0!canonical and timestamp 20201227213135 and revision id 7162635. Serialized with JSON.
+100.00%  752.589      1 -total
+ 50.83%  382.506      3 Template:Infobox
+ 50.78%  382.201      1 Template:Infobox_country
+ 21.43%  161.263      1 Template:Commonscat
+ 17.46%  131.381      1 Template:Reflist
+ 15.50%  116.617      4 Template:Cite_web
+ 14.81%  111.491      1 Template:Commons
+ 14.49%  109.046      1 Template:Sister_project
+ 14.06%  105.794      1 Template:Side_box
+ 10.41%   78.327      1 Template:Unbulleted_list
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:20412-0!canonical and timestamp 20210114001511 and revision id 7236939. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Saint_Lucia&amp;oldid=7162635">https://simple.wikipedia.org/w/index.php?title=Saint_Lucia&amp;oldid=7162635</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Saint_Lucia&amp;oldid=7236939">https://simple.wikipedia.org/w/index.php?title=Saint_Lucia&amp;oldid=7236939</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -775,6 +775,7 @@ Transclusion expansion time report (%,ms,calls,template)
        <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
        <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li>
        <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+       <li><a href="/wiki/Category:Commons_link_is_defined_as_the_pagename" title="Category:Commons link is defined as the pagename">Commons link is defined as the pagename</a></li>
        <li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li>
       </ul>
      </div>
@@ -850,9 +851,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -876,9 +877,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Saint_Lucia" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Saint_Lucia&amp;oldid=7162635" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Saint_Lucia&amp;oldid=7236939" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Saint_Lucia&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Saint_Lucia&amp;id=7162635&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Saint_Lucia&amp;id=7236939&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q760" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -1099,7 +1100,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 28 October 2020, at 14:18.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 30 December 2020, at 20:22.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1117,8 +1118,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.676","walltime":"0.873","ppvisitednodes":{"value":4024,"limit":1000000},"postexpandincludesize":{"value":105810,"limit":2097152},"templateargumentsize":{"value":5544,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19098,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  742.000      1 -total"," 52.87%  392.267      1 Template:Infobox_country"," 50.86%  377.401      3 Template:Infobox"," 20.18%  149.744      1 Template:Commonscat"," 16.23%  120.435      1 Template:Reflist"," 14.56%  108.028      4 Template:Cite_web"," 10.05%   74.554      1 Template:Unbulleted_list","  8.26%   61.311      1 Template:Citation_needed","  7.62%   56.516      6 Template:Navbox","  7.31%   54.227      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.325","limit":"10.000"},"limitreport-memusage":{"value":6589715,"limit":52428800}},"cachereport":{"origin":"mw1306","timestamp":"20201227213135","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Saint Lucia","url":"https:\/\/simple.wikipedia.org\/wiki\/Saint_Lucia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q760","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q760","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-29T00:55:14Z","dateModified":"2020-10-28T14:18:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9f\/Flag_of_Saint_Lucia.svg","headline":"island sovereign state in the Caribbean Sea"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":234,"wgHostname":"mw1324"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.684","walltime":"0.878","ppvisitednodes":{"value":4042,"limit":1000000},"postexpandincludesize":{"value":104384,"limit":2097152},"templateargumentsize":{"value":5596,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18991,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  752.589      1 -total"," 50.83%  382.506      3 Template:Infobox"," 50.78%  382.201      1 Template:Infobox_country"," 21.43%  161.263      1 Template:Commonscat"," 17.46%  131.381      1 Template:Reflist"," 15.50%  116.617      4 Template:Cite_web"," 14.81%  111.491      1 Template:Commons"," 14.49%  109.046      1 Template:Sister_project"," 14.06%  105.794      1 Template:Side_box"," 10.41%   78.327      1 Template:Unbulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.352","limit":"10.000"},"limitreport-memusage":{"value":6596133,"limit":52428800}},"cachereport":{"origin":"mw1349","timestamp":"20210114001512","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Saint Lucia","url":"https:\/\/simple.wikipedia.org\/wiki\/Saint_Lucia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q760","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q760","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-29T00:55:14Z","dateModified":"2020-12-30T20:22:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9f\/Flag_of_Saint_Lucia.svg","headline":"island sovereign state in the Caribbean Sea"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":164,"wgHostname":"mw1355"});});</script> 
  </body>
 </html>

@@ -3,17 +3,17 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Benin - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@VDvApAMNQAAhsnMI8AAACW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Benin","wgTitle":"Benin","wgCurRevisionId":7173112,"wgRevisionId":7173112,"wgArticleId":15644,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with French-language sources (fr)","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers",
-"Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Benin","French-speaking countries","Least developed countries","Members of the Organisation of Islamic Cooperation","1960 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Benin","wgRelevantArticleId":15644,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
-"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q962"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips",
-"ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VQpAMNUAAf7K37EAAAEE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Benin","wgTitle":"Benin","wgCurRevisionId":7266313,"wgRevisionId":7266313,"wgArticleId":15644,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Articles containing French-language text","Articles containing Yoruba-language text","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers",
+"Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Benin","French-speaking countries","Least developed countries","Members of the Organisation of Islamic Cooperation","1960 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Benin","wgRelevantArticleId":15644,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr",
+"pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q962"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready",
+"jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -58,7 +58,8 @@
            Republic of Benin
           </div><br>
           <div style="padding-top:0.25em; font-weight:normal;">
-           <i>République du Bénin</i> <span class="languageicon">(in French)</span>
+           <span style="font-size:90%;"><i lang="fr" title="French language text">République du Bénin</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/French_language" title="French language">French</a>)</span></span>
+           <br><span style="font-size:90%;"><i lang="yo" title="Yoruba language text">Orilẹ-ede Benin</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Yoruba_language" title="Yoruba language">Yoruba</a>)</span></span>
           </div></th>
         </tr>
         <tr>
@@ -85,28 +86,48 @@
         <tr>
          <td colspan="2" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Motto:&nbsp;</b><i>"Fraternité, Justice, Travail"</i><span class="nowrap">&nbsp;&nbsp;</span>(French)
-           <br>"Fraternity, Justice, Labour"
+           <b>Motto:&nbsp;</b>
+           <div class="plainlist">
+            <ul>
+             <li><span lang="fr" style="font-style: normal;" title="French language text">"Fraternité, Justice, Travail"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(French)</span></li>
+             <li>"Fraternity, Justice, Labour"</li>
+            </ul>
+           </div>
           </div></td>
         </tr>
         <tr>
          <td colspan="2" class="anthem" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Anthem:&nbsp;</b><i><a href="/wiki/L%27Aube_Nouvelle" title="L'Aube Nouvelle">L'Aube Nouvelle</a></i><span class="nowrap">&nbsp;&nbsp;</span><small>(French)<br><i>The Dawn of a New Day</i></small>
+           <b>Anthem:&nbsp;</b>
+           <div class="plainlist nowrap">
+            <ul>
+             <li><i lang="fr" title="French language text"><a href="/wiki/L%27Aube_Nouvelle" title="L'Aube Nouvelle">L'Aube Nouvelle</a></i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(French)</span></li>
+             <li><i>The Dawn of a New Day</i>
+              <center>
+               <div class="mediaContainer" style="width:220px">
+                <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="67.787755102041" data-startoffset="0" data-mwtitle="L'Aube_Nouvelle.ogg" data-mwprovider="wikimediacommons">
+                 <source src="//upload.wikimedia.org/wikipedia/commons/7/74/L%27Aube_Nouvelle.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (146 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="146476">
+                 <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/7/74/L%27Aube_Nouvelle.ogg/L%27Aube_Nouvelle.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="201464">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AL%27Aube_Nouvelle.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+                 <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AL%27Aube_Nouvelle.ogg&amp;lang=fr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="fr" label="français (fr) subtitles" data-dir="ltr">
+                </audio>
+               </div>
+              </center></li>
+            </ul>
+           </div>
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Location_Benin_AU_Africa.svg" class="image" title="Location of &nbsp;Benin&nbsp;&nbsp;(dark blue) –&nbsp;in Africa&nbsp;&nbsp;(blue &amp;&nbsp;purple) –&nbsp;in the African Union&nbsp;&nbsp;(blue)&nbsp; —&nbsp; [Legend]"><img alt="Location of Benin within the African Union." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_Benin_AU_Africa.svg/250px-Location_Benin_AU_Africa.svg.png" decoding="async" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_Benin_AU_Africa.svg/375px-Location_Benin_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_Benin_AU_Africa.svg/500px-Location_Benin_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300"></a>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Benin_(orthographic_projection_with_inset).svg" class="image" title="Location of &nbsp;Benin&nbsp;&nbsp;(dark green)"><img alt="Location of &nbsp;Benin&nbsp;&nbsp;(dark green)" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Benin_%28orthographic_projection_with_inset%29.svg/250px-Benin_%28orthographic_projection_with_inset%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Benin_%28orthographic_projection_with_inset%29.svg/375px-Benin_%28orthographic_projection_with_inset%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Benin_%28orthographic_projection_with_inset%29.svg/500px-Benin_%28orthographic_projection_with_inset%29.svg.png 2x" data-file-width="553" data-file-height="553"></a>
           <div style="position:relative;top:0.3em;">
            <div style="text-align:center;font-size:11px;line-height:1.15em;">
-            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Benin</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark blue</span>)</span>
-            <p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&nbsp;in <a href="/wiki/Africa" title="Africa">Africa</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">blue &amp;&nbsp;purple</span>)<br>–&nbsp;in the <a href="/wiki/African_Union" title="African Union">African Union</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">blue</span>)&nbsp; —&nbsp; [<span style="font-size:10px;"><a href="/wiki/File:Location_Benin_AU_Africa.svg" title="File:Location Benin AU Africa.svg">Legend</a></span>]</p>
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Benin</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark green</span>)</span>
            </div>
           </div></td>
         </tr>
         <tr>
          <th scope="row">Capital</th>
-         <td><a href="/wiki/Porto-Novo" title="Porto-Novo">Porto-Novo</a><sup>1</sup></td>
+         <td><a href="/wiki/Porto-Novo" title="Porto-Novo">Porto-Novo</a><sup>a</sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">Largest city</th>
@@ -114,26 +135,107 @@
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Official&nbsp;languages</th>
-         <td><a href="/wiki/French_language" title="French language">French</a></td>
+         <td><a href="/wiki/French_Language" class="mw-redirect" title="French Language">French</a></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/w/index.php?title=Vernacular&amp;action=edit&amp;redlink=1" class="new" title="Vernacular (not yet started)">Vernacular</a></th>
-         <td><a href="/wiki/Fon_language" title="Fon language">Fon</a>, <a href="/wiki/Yoruba_language" title="Yoruba language">Yoruba</a></td>
+         <th scope="row"><a href="/wiki/National_language" title="National language">National languages</a></th>
+         <td>
+          <div class="NavFrame collapsed" style="border: none; padding: 0;"> 
+           <div class="NavHead" style="font-size: 105%; background: transparent; text-align: left;">
+            <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">List:</span>
+           </div> 
+           <ul class="NavContent" style="text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+            <li style="line-height: inherit; margin: 0">French </li>
+            <li style="line-height: inherit; margin: 0">Arabic </li>
+            <li style="line-height: inherit; margin: 0">English </li>
+            <li style="line-height: inherit; margin: 0"><a href="/w/index.php?title=Aguna_language&amp;action=edit&amp;redlink=1" class="new" title="Aguna language (not yet started)">Aguna</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Adja_language&amp;action=edit&amp;redlink=1" class="new" title="Adja language (not yet started)">Aja</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Alada_language&amp;action=edit&amp;redlink=1" class="new" title="Alada language (not yet started)">Alada</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/wiki/Fon_language" title="Fon language">Fon</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/w/index.php?title=Gbe_languages&amp;action=edit&amp;redlink=1" class="new" title="Gbe languages (not yet started)">Gbe</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Gen_language&amp;action=edit&amp;redlink=1" class="new" title="Gen language (not yet started)">Gen</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/wiki/Gun_language" title="Gun language">Gun</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Pher%C3%A1_language&amp;action=edit&amp;redlink=1" class="new" title="Pherá language (not yet started)">Pherá</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Phla_language&amp;action=edit&amp;redlink=1" class="new" title="Phla language (not yet started)">Phla</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Tofin_language&amp;action=edit&amp;redlink=1" class="new" title="Tofin language (not yet started)">Tofin</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=T%C9%94li_language&amp;action=edit&amp;redlink=1" class="new" title="Tɔli language (not yet started)">Tɔli</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Waci_language&amp;action=edit&amp;redlink=1" class="new" title="Waci language (not yet started)">Waci</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Berba_language&amp;action=edit&amp;redlink=1" class="new" title="Berba language (not yet started)">Berba</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Kabiye_language&amp;action=edit&amp;redlink=1" class="new" title="Kabiye language (not yet started)">Kabye</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Lama_language&amp;action=edit&amp;redlink=1" class="new" title="Lama language (not yet started)">Lama</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Lukpa_language&amp;action=edit&amp;redlink=1" class="new" title="Lukpa language (not yet started)">Lukpa</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/w/index.php?title=Mbelime_language&amp;action=edit&amp;redlink=1" class="new" title="Mbelime language (not yet started)">Mbelime</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Mossi_language&amp;action=edit&amp;redlink=1" class="new" title="Mossi language (not yet started)">Mossi</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Nateni_language&amp;action=edit&amp;redlink=1" class="new" title="Nateni language (not yet started)">Nateni</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Ngangam_language&amp;action=edit&amp;redlink=1" class="new" title="Ngangam language (not yet started)">Ngangam</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Tammari_language&amp;action=edit&amp;redlink=1" class="new" title="Tammari language (not yet started)">Tammari</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Tem_language&amp;action=edit&amp;redlink=1" class="new" title="Tem language (not yet started)">Tem</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Waama_language&amp;action=edit&amp;redlink=1" class="new" title="Waama language (not yet started)">Waama</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Yom_language&amp;action=edit&amp;redlink=1" class="new" title="Yom language (not yet started)">Yom</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/w/index.php?title=Kwa_languages&amp;action=edit&amp;redlink=1" class="new" title="Kwa languages (not yet started)">Kwa</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Chakosi_language&amp;action=edit&amp;redlink=1" class="new" title="Chakosi language (not yet started)">Chakosi</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Foodo_language&amp;action=edit&amp;redlink=1" class="new" title="Foodo language (not yet started)">Foodo</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Ede_language&amp;action=edit&amp;redlink=1" class="new" title="Ede language (not yet started)">Ede</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=If%C3%A8_language&amp;action=edit&amp;redlink=1" class="new" title="Ifè language (not yet started)">Ifè</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Mokole_language_(Benin)&amp;action=edit&amp;redlink=1" class="new" title="Mokole language (Benin) (not yet started)">Mokole</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/wiki/Yoruba_language" title="Yoruba language">Yoruba</a> </li>
+            <li style="line-height: inherit; margin: 0"><a href="/w/index.php?title=Yoruboid_languages&amp;action=edit&amp;redlink=1" class="new" title="Yoruboid languages (not yet started)">Yoruboid</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Bariba_language&amp;action=edit&amp;redlink=1" class="new" title="Bariba language (not yet started)">Bariba</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Dendi_language&amp;action=edit&amp;redlink=1" class="new" title="Dendi language (not yet started)">Dendi</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/w/index.php?title=Fula_language&amp;action=edit&amp;redlink=1" class="new" title="Fula language (not yet started)">Fula</a> </li>
+            <li style="line-height: inherit; margin: 0"> <a href="/wiki/Hausa_language" title="Hausa language">Hausa</a></li>
+           </ul> 
+          </div></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
           <div style="font-weight:normal;display:inline;">
-            (2002)
+            (2013 Census<sup id="cite_ref-insae-bj.org_1-0" class="reference"><a href="#cite_note-insae-bj.org-1">[1]</a></sup>)
           </div></th>
-         <td>Fon 39.2%<br>Adja 15.2%<br>Yoruba 12.3%<br>Bariba 9.2%<br>Peulh 7%<br>Ottamari 6.1%<br>Yoa-Lokpa 4%<br>Dendi 2.5%<br>other 1.6%<br>unspecified 2.9%</td>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>38.4% <a href="/w/index.php?title=Fon_people&amp;action=edit&amp;redlink=1" class="new" title="Fon people (not yet started)">Fon</a></li>
+            <li>15.1% <a href="/w/index.php?title=Adja_people&amp;action=edit&amp;redlink=1" class="new" title="Adja people (not yet started)">Adja</a> &amp; <a href="/w/index.php?title=Gen_language&amp;action=edit&amp;redlink=1" class="new" title="Gen language (not yet started)">Mina</a></li>
+            <li>12% <a href="/wiki/Yoruba_people" title="Yoruba people">Yoruba</a></li>
+            <li>9.6% <a href="/w/index.php?title=Bariba_people&amp;action=edit&amp;redlink=1" class="new" title="Bariba people (not yet started)">Bariba</a></li>
+            <li>8.6% <a href="/w/index.php?title=Fula_people&amp;action=edit&amp;redlink=1" class="new" title="Fula people (not yet started)">Fula</a></li>
+            <li>6.1% Ottamari</li>
+            <li>4.3% Yoa-Lokpa</li>
+            <li>2.9% <a href="/w/index.php?title=Dendi_people&amp;action=edit&amp;redlink=1" class="new" title="Dendi people (not yet started)">Dendi</a></li>
+            <li>2.8% other</li>
+            <li><span class="nowrap"></span></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;">
+            (2015)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+          </div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li style="white-space:nowrap;">53.0% <a href="/wiki/Christianity" title="Christianity">Christianity</a></li>
+            <li style="white-space:nowrap;">23.8% <a href="/wiki/Islam" title="Islam">Islam</a></li>
+            <li style="white-space:nowrap;">18.1% <a href="/w/index.php?title=African_Traditional_Religion&amp;action=edit&amp;redlink=1" class="new" title="African Traditional Religion (not yet started)">Traditional faiths</a></li>
+            <li style="white-space:nowrap;">5.0% Unaffiliated</li>
+            <li style="white-space:nowrap;">0.1% Others</li>
+           </ul>
+          </div></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
-         <td>Beninese; Beninois</td>
+         <td>
+          <div class="hlist hlist-separated">
+           <ul>
+            <li>Beninese</li>
+           </ul>
+          </div></td>
         </tr>
         <tr>
          <th scope="row">Government</th>
-         <td>Multiparty democracy</td>
+         <td><span class="nowrap"><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Republic" title="Republic">republic</a></span></td>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -143,34 +245,41 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;<a href="/wiki/List_of_heads_of_state_of_Benin" class="mw-redirect" title="List of heads of state of Benin">President</a> 
           </div></th>
-         <td><a href="/wiki/Patrice_Talon" title="Patrice Talon">Patrice Talon</a><sup id="cite_ref-WP_1-0" class="reference"><a href="#cite_note-WP-1">[1]</a></sup></td>
+         <td><a href="/wiki/Patrice_Talon" title="Patrice Talon">Patrice Talon</a></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/Prime_Minister_of_Benin" class="mw-redirect" title="Prime Minister of Benin">Prime Minister</a> 
+           •&nbsp;<a href="/w/index.php?title=List_of_Presidents_of_the_National_Assembly_of_Benin&amp;action=edit&amp;redlink=1" class="new" title="List of Presidents of the National Assembly of Benin (not yet started)">President of the National Assembly</a> 
           </div></th>
-         <td><a href="/w/index.php?title=Lionel_Zinsou&amp;action=edit&amp;redlink=1" class="new" title="Lionel Zinsou (not yet started)">Lionel Zinsou</a></td>
+         <td><a href="/w/index.php?title=Louis_Vlavonou&amp;action=edit&amp;redlink=1" class="new" title="Louis Vlavonou (not yet started)">Louis Vlavonou</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
         </tr>
         <tr>
          <th scope="row">Legislature</th>
-         <td><a href="/wiki/National_Assembly_of_Benin" title="National Assembly of Benin">National Assembly</a></td>
+         <td><a href="/w/index.php?title=National_Assembly_(Benin)&amp;action=edit&amp;redlink=1" class="new" title="National Assembly (Benin) (not yet started)">National Assembly</a></td>
         </tr>
         <tr class="mergedtoprow">
          <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Independence" title="Independence">Independence</a></th>
         </tr>
-        <tr class="mergedbottomrow">
+        <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;from <a href="/wiki/France" title="France">France</a> 
+           •&nbsp;<a href="/w/index.php?title=Republic_of_Dahomey&amp;action=edit&amp;redlink=1" class="new" title="Republic of Dahomey (not yet started)">Republic of Dahomey</a> established 
           </div></th>
-         <td>August 1, 1960</td>
+         <td>11 December 1958</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;from France 
+          </div></th>
+         <td>1 August 1960</td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
@@ -183,14 +292,14 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>112,622&nbsp;km<sup>2</sup> (43,484&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">101st</a>)</td>
+         <td>114,763&nbsp;km<sup>2</sup> (44,310&nbsp;sq&nbsp;mi)<sup id="cite_ref-AS2010_4-0" class="reference"><a href="#cite_note-AS2010-4">[4]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">100th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Water&nbsp;(%)
           </div></th>
-         <td>0.02%</td>
+         <td>0.4%</td>
         </tr>
         <tr class="mergedtoprow">
          <th colspan="2" style="text-align:center;text-align:left;">Population</th>
@@ -198,82 +307,75 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2012 estimate
+           •&nbsp;2019 estimate
           </div></th>
-         <td>9,598,787 (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">89th</a>)</td>
+         <td>11,733,059 (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">78th</a>)</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2002&nbsp;census
+           •&nbsp;2013&nbsp;census
           </div></th>
-         <td>8,500,500</td>
+         <td>10,008,749<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Density
           </div></th>
-         <td>78.1/km<sup>2</sup> (202.3/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">120th</a>)</td>
+         <td>94.8/km<sup>2</sup> (245.5/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">120th</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
-         <td>2011&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$14.683 billion<sup id="cite_ref-imf2_2-0" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+         <td>$29.918 billion<sup id="cite_ref-imf2_6-0" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">137th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$1,481<sup id="cite_ref-imf2_2-1" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+         <td>$2,552<sup id="cite_ref-imf2_6-1" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">163rd</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
-         <td>2011&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$7.306 billion<sup id="cite_ref-imf2_2-2" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+         <td>$11.386 billion<sup id="cite_ref-imf2_6-2" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">141st</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$736<sup id="cite_ref-imf2_2-3" class="reference"><a href="#cite_note-imf2-2">[2]</a></sup></td>
+         <td>$971<sup id="cite_ref-imf2_6-3" class="reference"><a href="#cite_note-imf2-6">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">163rd</a>)</td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2003)</span></th>
-         <td>36.5<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2015)</span></th>
+         <td><img alt="Negative increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/11px-Increase_Negative.svg.png" decoding="async" title="Negative increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/17px-Increase_Negative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/22px-Increase_Negative.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;47.8<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2011)</span></th>
-         <td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.427<br><span style="white-space:nowrap;"><span style="color:red">low</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">167th</a></td>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2019)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.545<sup id="cite_ref-UNHDR_8-0" class="reference"><a href="#cite_note-UNHDR-8">[8]</a></sup><br><span style="white-space:nowrap;"><span style="color:red">low</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">158th</a></td>
         </tr>
         <tr>
          <th scope="row">Currency</th>
          <td><a href="/w/index.php?title=West_African_CFA_franc&amp;action=edit&amp;redlink=1" class="new" title="West African CFA franc (not yet started)">West African CFA franc</a> (<a href="/wiki/ISO_4217" title="ISO 4217">XOF</a>)</td>
         </tr>
-        <tr class="mergedtoprow">
+        <tr>
          <th scope="row">Time zone</th>
          <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/West_Africa_Time" title="West Africa Time">WAT</a>)</td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
-          </div></th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<i>not observed</i>)</td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
@@ -281,7 +383,7 @@
         </tr>
         <tr>
          <th scope="row">Calling code</th>
-         <td>229</td>
+         <td><a href="/w/index.php?title=%2B229&amp;action=edit&amp;redlink=1" class="new" title="+229 (not yet started)">+229</a></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
@@ -294,19 +396,18 @@
         <tr>
          <td colspan="2" style="text-align:center">
           <div style="text-align:left;margin-left:auto; margin-right:auto;">
-           <ol style="margin-left:1em;"> 
-            <li value="1">Cotonou is the seat of government.</li>
-            <li value="2">Estimates for this country take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.</li> 
+           <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
+            <li value="1"><a href="/wiki/Cotonou" title="Cotonou">Cotonou</a> is the seat of government.</li> 
            </ol>
           </div></td>
         </tr>
        </tbody>
       </table> 
-      <p><b>Benin</b> (officially called the <b>Republic of Benin</b>) is a <a href="/wiki/Country" title="Country">country</a> in <a href="/wiki/Africa" title="Africa">Africa</a>. The capital of Benin is <a href="/wiki/Porto-Novo" title="Porto-Novo">Porto-Novo</a>. The <a href="/wiki/Government" title="Government">government</a> is based in <a href="/wiki/Cotonou" title="Cotonou">Cotonou</a>, the country's largest city. Most people live on the small southern coastline on the <a href="/wiki/Bight_of_Benin" title="Bight of Benin">Bight of Benin</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p>
+      <p><b>Benin</b> (officially called the <b>Republic of Benin</b>) is a <a href="/wiki/Country" title="Country">country</a> in <a href="/wiki/Africa" title="Africa">Africa</a>. The capital of Benin is <a href="/wiki/Porto-Novo" title="Porto-Novo">Porto-Novo</a>. The <a href="/wiki/Government" title="Government">government</a> is based in <a href="/wiki/Cotonou" title="Cotonou">Cotonou</a>, the country's largest city. Most people live on the small southern coastline on the <a href="/wiki/Bight_of_Benin" title="Bight of Benin">Bight of Benin</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
       <p>Because Benin was <a href="/wiki/Colonization" title="Colonization">colonized</a> by France and is still close to it, the official language of Benin is <a href="/wiki/French_people" class="mw-redirect" title="French people">French</a>. Languages such as <a href="/wiki/Fon_language" title="Fon language">Fon</a> and <a href="/wiki/Yoruba_language" title="Yoruba language">Yoruba</a> are commonly spoken. The largest religious group in Benin is <a href="/wiki/Roman_Catholicism" class="mw-redirect" title="Roman Catholicism">Roman Catholicism</a>. This is followed closely by <a href="/wiki/Islam" title="Islam">Islam</a>, <a href="/wiki/Vodun" class="mw-redirect" title="Vodun">Vodun</a>, and <a href="/wiki/Protestants" class="mw-redirect" title="Protestants">Protestantism</a>. </p>
-      <p>Benin is a member of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a>, the <a href="/wiki/African_Union" title="African Union">African Union</a>, the <a href="/wiki/Organisation_of_Islamic_Cooperation" title="Organisation of Islamic Cooperation">Organisation of Islamic Cooperation</a>, <a href="/wiki/South_Atlantic_Peace_and_Cooperation_Zone" title="South Atlantic Peace and Cooperation Zone">South Atlantic Peace and Cooperation Zone</a>, <a href="/wiki/La_Francophonie" class="mw-redirect" title="La Francophonie">La Francophonie</a>, the <a href="/wiki/Community_of_Sahel-Saharan_States" title="Community of Sahel-Saharan States">Community of Sahel-Saharan States</a>, the <a href="/wiki/African_Petroleum_Producers_Association" title="African Petroleum Producers Association">African Petroleum Producers Association</a> and the <a href="/wiki/Niger_Basin_Authority" title="Niger Basin Authority">Niger Basin Authority</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p>
+      <p>Benin is a member of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a>, the <a href="/wiki/African_Union" title="African Union">African Union</a>, the <a href="/wiki/Organisation_of_Islamic_Cooperation" title="Organisation of Islamic Cooperation">Organisation of Islamic Cooperation</a>, <a href="/wiki/South_Atlantic_Peace_and_Cooperation_Zone" title="South Atlantic Peace and Cooperation Zone">South Atlantic Peace and Cooperation Zone</a>, <a href="/wiki/La_Francophonie" class="mw-redirect" title="La Francophonie">La Francophonie</a>, the <a href="/wiki/Community_of_Sahel-Saharan_States" title="Community of Sahel-Saharan States">Community of Sahel-Saharan States</a>, the <a href="/wiki/African_Petroleum_Producers_Association" title="African Petroleum Producers Association">African Petroleum Producers Association</a> and the <a href="/wiki/Niger_Basin_Authority" title="Niger Basin Authority">Niger Basin Authority</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p>
       <p>From the 17th to the 19th century, Benin was ruled by the <a href="/wiki/Dahomey" class="mw-redirect" title="Dahomey">Kingdom of Dahomey</a>. It was called the <a href="/wiki/Slave_Coast" title="Slave Coast">Slave Coast</a> by <a href="/wiki/White_people" title="White people">white people</a> from as early as the 17th century, because of the large number of slaves shipped from Porto-Novo, Cotonou, and other <a href="/wiki/Port" title="Port">ports</a> to European <a href="/wiki/Colonies" class="mw-redirect" title="Colonies">colonies</a> in <a href="/wiki/Americas" title="Americas">the Americas</a>. </p>
-      <p>After slavery was made illegal, France fought a war against Dahomey and took over the kingdom. They renamed it <a href="/wiki/French_Dahomey" title="French Dahomey">French Dahomey</a>. In 1960, Dahomey gained official independence from France.<sup id="cite_ref-Ibp_Usa_p85_6-0" class="reference"><a href="#cite_note-Ibp_Usa_p85-6">[6]</a></sup> From 1972 to 1990 a <a href="/wiki/Marxism%E2%80%93Leninism" title="Marxism–Leninism">Marxist–Leninist</a> <a href="/wiki/Sovereign_state" title="Sovereign state">state</a> called the <a href="/wiki/People%27s_Republic_of_Benin" title="People's Republic of Benin">People's Republic of Benin</a> existed. The current Republic of Benin was formed in 1991.<sup id="cite_ref-Ibp_Usa_p85_6-1" class="reference"><a href="#cite_note-Ibp_Usa_p85-6">[6]</a></sup> </p> 
+      <p>After slavery was made illegal, France fought a war against Dahomey and took over the kingdom. They renamed it <a href="/wiki/French_Dahomey" title="French Dahomey">French Dahomey</a>. In 1960, Dahomey gained official independence from France.<sup id="cite_ref-Ibp_Usa_p85_11-0" class="reference"><a href="#cite_note-Ibp_Usa_p85-11">[11]</a></sup> From 1972 to 1990 a <a href="/wiki/Marxism%E2%80%93Leninism" title="Marxism–Leninism">Marxist–Leninist</a> <a href="/wiki/Sovereign_state" title="Sovereign state">state</a> called the <a href="/wiki/People%27s_Republic_of_Benin" title="People's Republic of Benin">People's Republic of Benin</a> existed. The current Republic of Benin was formed in 1991.<sup id="cite_ref-Ibp_Usa_p85_11-1" class="reference"><a href="#cite_note-Ibp_Usa_p85-11">[11]</a></sup> </p> 
       <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
        <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
        <div class="toctitle" lang="en" dir="ltr">
@@ -329,7 +430,7 @@
       <h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Benin&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: Geography">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Benin&amp;action=edit&amp;section=1" title="Change section: Geography">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <p>Benin is a narrow country in west Africa. The country measures about 325&nbsp;km (202&nbsp;mi) at its widest point. It is between the <a href="/wiki/Equator" title="Equator">Equator</a> and the <a href="/wiki/Tropic_of_Cancer" title="Tropic of Cancer">Tropic of Cancer</a>. Benin is bordered by <a href="/wiki/Togo" title="Togo">Togo</a> to the west, <a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a> and <a href="/wiki/Niger" title="Niger">Niger</a> to the north, <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a> to the east, and the <a href="/wiki/Bight_of_Benin" title="Bight of Benin">Bight of Benin</a> to the south. </p>
       <p>The highest point is <a href="/wiki/Mont_Sokbaro" title="Mont Sokbaro">Mont Sokbaro</a> at 658&nbsp;m (2,159&nbsp;ft). </p>
-      <p><a href="/wiki/W_National_Park" title="W National Park">Reserve du W du Niger</a> and <a href="/wiki/Pendjari_National_Park" title="Pendjari National Park">Pendjari National Park</a> attract tourists who want to see elephants, lions, antelopes, hippos, and monkeys.<sup id="cite_ref-bn_7-0" class="reference"><a href="#cite_note-bn-7">[7]</a></sup> Historically Benin has been a home for the <a href="/wiki/Endangered" class="mw-redirect" title="Endangered">endangered</a> <a href="/wiki/Painted_Hunting_Dog" class="mw-redirect" title="Painted Hunting Dog">Painted Hunting Dog</a>, <i><a href="/wiki/Lycaon_pictus" class="mw-redirect" title="Lycaon pictus">Lycaon pictus</a></i>;<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p>
+      <p><a href="/wiki/W_National_Park" title="W National Park">Reserve du W du Niger</a> and <a href="/wiki/Pendjari_National_Park" title="Pendjari National Park">Pendjari National Park</a> attract tourists who want to see elephants, lions, antelopes, hippos, and monkeys.<sup id="cite_ref-bn_12-0" class="reference"><a href="#cite_note-bn-12">[12]</a></sup> Historically Benin has been a home for the <a href="/wiki/Endangered" class="mw-redirect" title="Endangered">endangered</a> <a href="/wiki/Painted_Hunting_Dog" class="mw-redirect" title="Painted Hunting Dog">Painted Hunting Dog</a>, <i><a href="/wiki/Lycaon_pictus" class="mw-redirect" title="Lycaon pictus">Lycaon pictus</a></i>;<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p>
       <p>Benin's climate is hot and humid. Yearly rainfall in the coastal area averages 1300&nbsp;mm or about 51&nbsp;inches. Benin has two rainy and two dry seasons per year. The main rainy season is from April to late July, with a shorter less strong rainy period from late September to November. The main dry season is from December to April, with a short cooler dry season from late July to early September. In <a href="/wiki/Cotonou" title="Cotonou">Cotonou</a>, the average maximum temperature is 31&nbsp;°C (87.8&nbsp;°F); the minimum is 24&nbsp;°C (75.2&nbsp;°F). </p> 
       <h2><span class="mw-headline" id="Departments">Departments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Benin&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Departments">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Benin&amp;action=edit&amp;section=2" title="Change section: Departments">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <div role="note" class="hatnote navigation-not-searchable">
@@ -352,38 +453,47 @@
       </ol> 
       <h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Benin&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Change section: Culture">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Benin&amp;action=edit&amp;section=3" title="Change section: Culture">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <h3><span class="mw-headline" id="Arts">Arts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Benin&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Arts">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Benin&amp;action=edit&amp;section=4" title="Change section: Arts">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
-      <p>Beninese literature had a strong oral tradition long before French became the main language.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> <a href="/w/index.php?title=Felix_Couchoro&amp;action=edit&amp;redlink=1" class="new" title="Felix Couchoro (not yet started)">Felix Couchoro</a> wrote the first Beninese novel, <i><a href="/w/index.php?title=L%27Esclave_(Beninese_novel)&amp;action=edit&amp;redlink=1" class="new" title="L'Esclave (Beninese novel) (not yet started)">L'Esclave</a></i> in 1929. </p>
+      <p>Beninese literature had a strong oral tradition long before French became the main language.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> <a href="/w/index.php?title=Felix_Couchoro&amp;action=edit&amp;redlink=1" class="new" title="Felix Couchoro (not yet started)">Felix Couchoro</a> wrote the first Beninese novel, <i><a href="/w/index.php?title=L%27Esclave_(Beninese_novel)&amp;action=edit&amp;redlink=1" class="new" title="L'Esclave (Beninese novel) (not yet started)">L'Esclave</a></i> in 1929. </p>
       <p>Singer <a href="/wiki/Ang%C3%A9lique_Kidjo" title="Angélique Kidjo">Angélique Kidjo</a> and actor <a href="/wiki/Djimon_Hounsou" title="Djimon Hounsou">Djimon Hounsou</a> were both born in Cotonou, Benin. Composer <a href="/wiki/Wally_Badarou" title="Wally Badarou">Wally Badarou</a> and singer <a href="/wiki/Gnonnas_Pedro" title="Gnonnas Pedro">Gnonnas Pedro</a> are also from Benin. </p> 
       <h3><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Benin&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Religion">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Benin&amp;action=edit&amp;section=5" title="Change section: Religion">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
-      <p>In the 2010 census, 27.2% of the population of Benin were <a href="/wiki/Christianity" title="Christianity">Christian</a>, 24.4% were <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a>, 17.3% practiced <a href="/wiki/Vodun" class="mw-redirect" title="Vodun">Vodun</a>, 6% other traditional local religious groups, 1.9% other religious groups, and 6.5% have no religious affiliation.<sup id="cite_ref-report_10-0" class="reference"><a href="#cite_note-report-10">[10]</a></sup> </p> 
+      <p>In the 2010 census, 27.2% of the population of Benin were <a href="/wiki/Christianity" title="Christianity">Christian</a>, 24.4% were <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a>, 17.3% practiced <a href="/wiki/Vodun" class="mw-redirect" title="Vodun">Vodun</a>, 6% other traditional local religious groups, 1.9% other religious groups, and 6.5% have no religious affiliation.<sup id="cite_ref-report_15-0" class="reference"><a href="#cite_note-report-15">[15]</a></sup> </p> 
       <h3><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Benin&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Education">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Benin&amp;action=edit&amp;section=6" title="Change section: Education">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
-      <p>The <a href="/wiki/Literacy" title="Literacy">literacy</a> rate in Benin is one of the lowest in the world. In 2002 it was said to be 34.7%.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> At one time the education system was not free.<sup id="cite_ref-ilab_12-0" class="reference"><a href="#cite_note-ilab-12">[12]</a></sup> </p> 
+      <p>The <a href="/wiki/Literacy" title="Literacy">literacy</a> rate in Benin is one of the lowest in the world. In 2002 it was said to be 34.7%.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> At one time the education system was not free.<sup id="cite_ref-ilab_17-0" class="reference"><a href="#cite_note-ilab-17">[17]</a></sup> </p> 
       <h3><span class="mw-headline" id="Cuisine">Cuisine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Benin&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Cuisine">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Benin&amp;action=edit&amp;section=7" title="Change section: Cuisine">change source</a><span class="mw-editsection-bracket">]</span></span></h3> 
-      <p>Beninese cuisine is known in Africa for its exotic ingredients and flavorful dishes. Beninese cuisine has lots of fresh meals with a variety of sauces. In southern Benin cuisine, the most common ingredient is <a href="/wiki/Maize" title="Maize">corn</a>. It is often used to prepare <a href="/wiki/Dough" title="Dough">dough</a> which is mainly eaten with <a href="/wiki/Peanut" title="Peanut">peanut</a>- or <a href="/wiki/Tomato" title="Tomato">tomato</a>-based <a href="/wiki/Sauce" title="Sauce">sauces</a>. <a href="/wiki/Fish" title="Fish">Fish</a> and <a href="/wiki/Chicken" title="Chicken">chicken</a> are the most common meats used in southern Beninese cuisine however <a href="/wiki/Beef" title="Beef">Beef</a>, <a href="/wiki/Goat" class="mw-redirect" title="Goat">goat</a>, and <a href="/wiki/Bush_rat" title="Bush rat">bush rat</a> are also eaten. The main food in northern Benin is <a href="/wiki/Yam_(vegetable)" class="mw-redirect" title="Yam (vegetable)">yams</a>. The northern provinces use beef and <a href="/wiki/Pork" title="Pork">pork</a> meat which is fried in palm or peanut oil or cooked in sauces. <a href="/wiki/Cheese" title="Cheese">Cheese</a> is used in some dishes. <a href="/wiki/Couscous" title="Couscous">Couscous</a>, rice, and <a href="/wiki/Bean" title="Bean">beans</a> are commonly eaten, along with fruits such as <a href="/wiki/Mango" title="Mango">mangoes</a>, oranges, avocados, bananas, kiwi fruit, and pineapples.<sup id="cite_ref-Benin_13-0" class="reference"><a href="#cite_note-Benin-13">[13]</a></sup> </p>
-      <p>Meat is usually expensive. Meals are usually light on meat and generous on <a href="/wiki/Vegetable_fat" class="mw-redirect" title="Vegetable fat">vegetable fat</a>. <a href="/wiki/Smoked_fish" title="Smoked fish">Smoked fish</a> is commonly prepared in Benin. Many people have outdoor mud stoves for cooking.<sup id="cite_ref-Benin_13-1" class="reference"><a href="#cite_note-Benin-13">[13]</a></sup> </p> 
+      <p>Beninese cuisine is known in Africa for its exotic ingredients and flavorful dishes. Beninese cuisine has lots of fresh meals with a variety of sauces. In southern Benin cuisine, the most common ingredient is <a href="/wiki/Maize" title="Maize">corn</a>. It is often used to prepare <a href="/wiki/Dough" title="Dough">dough</a> which is mainly eaten with <a href="/wiki/Peanut" title="Peanut">peanut</a>- or <a href="/wiki/Tomato" title="Tomato">tomato</a>-based <a href="/wiki/Sauce" title="Sauce">sauces</a>. <a href="/wiki/Fish" title="Fish">Fish</a> and <a href="/wiki/Chicken" title="Chicken">chicken</a> are the most common meats used in southern Beninese cuisine however <a href="/wiki/Beef" title="Beef">Beef</a>, <a href="/wiki/Goat" class="mw-redirect" title="Goat">goat</a>, and <a href="/wiki/Bush_rat" title="Bush rat">bush rat</a> are also eaten. The main food in northern Benin is <a href="/wiki/Yam_(vegetable)" class="mw-redirect" title="Yam (vegetable)">yams</a>. The northern provinces use beef and <a href="/wiki/Pork" title="Pork">pork</a> meat which is fried in palm or peanut oil or cooked in sauces. <a href="/wiki/Cheese" title="Cheese">Cheese</a> is used in some dishes. <a href="/wiki/Couscous" title="Couscous">Couscous</a>, rice, and <a href="/wiki/Bean" title="Bean">beans</a> are commonly eaten, along with fruits such as <a href="/wiki/Mango" title="Mango">mangoes</a>, oranges, avocados, bananas, kiwi fruit, and pineapples.<sup id="cite_ref-Benin_18-0" class="reference"><a href="#cite_note-Benin-18">[18]</a></sup> </p>
+      <p>Meat is usually expensive. Meals are usually light on meat and generous on <a href="/wiki/Vegetable_fat" class="mw-redirect" title="Vegetable fat">vegetable fat</a>. <a href="/wiki/Smoked_fish" title="Smoked fish">Smoked fish</a> is commonly prepared in Benin. Many people have outdoor mud stoves for cooking.<sup id="cite_ref-Benin_18-1" class="reference"><a href="#cite_note-Benin-18">[18]</a></sup> </p> 
       <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Benin&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Benin&amp;action=edit&amp;section=8" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap mw-references-columns">
         <ol class="references"> 
-         <li id="cite_note-WP-1"><span class="mw-cite-backlink"><a href="#cite_ref-WP_1-0">↑</a></span> <span class="reference-text"><cite id="CITEREFAdidaAdam_Chabi_Bouko2016" class="citation web cs1">Adida, Claire; Adam Chabi Bouko (April 13, 2016). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/news/monkey-cage/wp/2016/04/13/benin-has-a-new-president-patrice-talon-an-ironic-outsider-politician">"Benin has a new president: Patrice Talon, an ironic outsider politician"</a>. Washington Post<span class="reference-accessdate">. Retrieved <span class="nowrap">30 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Benin+has+a+new+president%3A+Patrice+Talon%2C+an+ironic+outsider+politician&amp;rft.pub=Washington+Post&amp;rft.date=2016-04-13&amp;rft.aulast=Adida&amp;rft.aufirst=Claire&amp;rft.au=Adam+Chabi+Bouko&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Fmonkey-cage%2Fwp%2F2016%2F04%2F13%2Fbenin-has-a-new-president-patrice-talon-an-ironic-outsider-politician&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-imf2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_2-0">2.0</a></sup> <sup><a href="#cite_ref-imf2_2-1">2.1</a></sup> <sup><a href="#cite_ref-imf2_2-2">2.2</a></sup> <sup><a href="#cite_ref-imf2_2-3">2.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=638&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=81&amp;pr.y=9">"Benin"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Benin&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2009%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D638%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D%26pr.x%3D81%26pr.y%3D9&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">"Distribution of family income – Gini index"</a>. <i>The World Factbook</i>. CIA<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Distribution+of+family+income+%E2%80%93+Gini+index&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2172.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">R. H. Hughes, J. S. Hughes. A directory of African wetlands, p. 301. IUCN, 1992. 
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/2-88032-949-3" title="Special:BookSources/2-88032-949-3">2-88032-949-3</a></span> </li> 
-         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nationsencyclopedia.com/Africa/Benin-INTERNATIONAL-COOPERATION.html">"Benin – International Cooperation"</a>. Nation Encyclopedia (2010-06-29).</span> </li> 
-         <li id="cite_note-Ibp_Usa_p85-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ibp_Usa_p85_6-0">6.0</a></sup> <sup><a href="#cite_ref-Ibp_Usa_p85_6-1">6.1</a></sup></span> <span class="reference-text">Ibp Usa. Global Logistics Assessments Reports Handbook: Strategic Transportation and Customs Information for Selected Countries, p. 85. Int'l Business Publications, 2008. 
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-7397-6603-1" title="Special:BookSources/0-7397-6603-1">0-7397-6603-1</a></span> </li> 
-         <li id="cite_note-bn-7"><span class="mw-cite-backlink"><a href="#cite_ref-bn_7-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.state.gov/r/pa/ei/bgn/6761.htm">"Background Note: Benin"</a>. U.S. Department of State (June 2008).</span> </li> 
-         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">C. Michael Hogan. 2009. <a rel="nofollow" class="external text" href="http://globaltwitcher.auderis.se/artspec_information.asp?thingid=35993"><i>Painted Hunting Dog: Lycaon pictus</i>, GlobalTwitcher.com, ed. N. Stromberg</a></span> </li> 
-         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://aflit.arts.uwa.edu.au/CountryBeninEN.html">"Benin"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Benin&amp;rft_id=http%3A%2F%2Faflit.arts.uwa.edu.au%2FCountryBeninEN.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-report-10"><span class="mw-cite-backlink"><a href="#cite_ref-report_10-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.state.gov/g/drl/rls/irf/2007/90082.htm">International Religious Freedom Report 2007: Benin</a>. United States <a href="/w/index.php?title=Bureau_of_Democracy,_Human_Rights_and_Labor&amp;action=edit&amp;redlink=1" class="new" title="Bureau of Democracy, Human Rights and Labor (not yet started)">Bureau of Democracy, Human Rights and Labor</a> (September 14, 2007). <i>This article incorporates text from this source, which is in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>.</i></span> </li> 
-         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2103.html">Literacy</a>. Cia.gov. Retrieved on 2012-08-15.</span> </li> 
-         <li id="cite_note-ilab-12"><span class="mw-cite-backlink"><a href="#cite_ref-ilab_12-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.state.gov/g/drl/rls/hrrpt/2000/af/861.htm">"Benin"</a>. <i>Country Reports on Human Rights Practices</i>. United States Department of State. February 23, 2001. section 5<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Country+Reports+on+Human+Rights+Practices&amp;rft.atitle=Benin&amp;rft.pages=section+5&amp;rft.date=2001-02-23&amp;rft_id=http%3A%2F%2Fwww.state.gov%2Fg%2Fdrl%2Frls%2Fhrrpt%2F2000%2Faf%2F861.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-Benin-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Benin_13-0">13.0</a></sup> <sup><a href="#cite_ref-Benin_13-1">13.1</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://recipes.wikia.com/wiki/Beninese_Cuisine">"Beninese Cuisine."</a> Wikia Recipes Wiki. Accessed June 2011.</span> </li> 
+         <li id="cite_note-insae-bj.org-1"><span class="mw-cite-backlink"><a href="#cite_ref-insae-bj.org_1-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.insae-bj.org/images/docs/insae-statistiques/enquetes-recensements/RGPH/1.RGPH_4/Indicateurs-et-Projetcions/Principaux%20Indicateurs%20projections%20Preface%20RGPH4.pdf">"PRINCIPAUX INDICATEURS SOCIO DEMOGRAPHIQUES ET ECONOMIQUES"</a> <span class="cs1-format">(PDF)</span>. <i>www.insae-bj.org</i> (in French). INSTITUT NATIONAL DE LA STATISTIQUE ET DE L’ANALYSE ECONOMIQUE.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.insae-bj.org&amp;rft.atitle=PRINCIPAUX+INDICATEURS+SOCIO+DEMOGRAPHIQUES+ET+ECONOMIQUES&amp;rft_id=https%3A%2F%2Fwww.insae-bj.org%2Fimages%2Fdocs%2Finsae-statistiques%2Fenquetes-recensements%2FRGPH%2F1.RGPH_4%2FIndicateurs-et-Projetcions%2FPrincipaux%2520Indicateurs%2520projections%2520Preface%2520RGPH4.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.globalreligiousfutures.org/countries/benin/religious_demography#/?affiliations_religion_id=0&amp;affiliations_year">http://www.globalreligiousfutures.org/countries/benin/religious_demography#/?affiliations_religion_id=0&amp;affiliations_year</a> = 2010</span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://data.ipu.org/content/benin?chamber_id=13341">"Benin - National Assembly"</a>. <i>New Parline: the IPU’s Open Data Platform (beta)</i>. 5 July 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=New+Parline%3A+the+IPU%E2%80%99s+Open+Data+Platform+%28beta%29&amp;rft.atitle=Benin+-+National+Assembly&amp;rft.date=2018-07-05&amp;rft_id=https%3A%2F%2Fdata.ipu.org%2Fcontent%2Fbenin%3Fchamber_id%3D13341&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span></span> </li> 
+         <li id="cite_note-AS2010-4"><span class="mw-cite-backlink"><a href="#cite_ref-AS2010_4-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation report cs1"><a rel="nofollow" class="external text" href="http://www.insae-bj.org/annuare-statistique.html?file=files/publications/annuel/Annuaire%20statistique%20%20INSAE%202010.pdf">Annuaire statistique 2010</a> <span class="cs1-format">(PDF)</span> (Report) (in French). <a href="/w/index.php?title=Institut_national_de_la_statistique_et_de_l%27analyse_%C3%A9conomique&amp;action=edit&amp;redlink=1" class="new" title="Institut national de la statistique et de l'analyse économique (not yet started)">INSAE</a>. 2012. p.&nbsp;49. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304091201/http://www.insae-bj.org/annuare-statistique.html?file=files%2Fpublications%2Fannuel%2FAnnuaire%20statistique%20%20INSAE%202010.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 4 March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">17 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=Annuaire+statistique+2010&amp;rft.pages=49&amp;rft.pub=INSAE&amp;rft.date=2012&amp;rft_id=http%3A%2F%2Fwww.insae-bj.org%2Fannuare-statistique.html%3Ffile%3Dfiles%2Fpublications%2Fannuel%2FAnnuaire%2520statistique%2520%2520INSAE%25202010.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.insae-bj.org/">"BENIN en Chiffres"</a> [BENIN in Figures]. <i><a href="/w/index.php?title=Institut_national_de_la_statistique_et_de_l%27analyse_%C3%A9conomique&amp;action=edit&amp;redlink=1" class="new" title="Institut national de la statistique et de l'analyse économique (not yet started)">INSAE</a></i> (in French). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20151217002938/http://www.insae-bj.org/">Archived</a> from the original on 17 December 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">17 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=INSAE&amp;rft.atitle=BENIN+en+Chiffres&amp;rft_id=http%3A%2F%2Fwww.insae-bj.org%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span></span> </li> 
+         <li id="cite_note-imf2-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_6-0">6.0</a></sup> <sup><a href="#cite_ref-imf2_6-1">6.1</a></sup> <sup><a href="#cite_ref-imf2_6-2">6.2</a></sup> <sup><a href="#cite_ref-imf2_6-3">6.3</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=31&amp;pr.y=10&amp;sy=2015&amp;ey=2019&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=638&amp;s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&amp;grp=0&amp;a=">"World Economic Outlook Database, October 2018"</a>. <i>IMF.org</i>. <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IMF.org&amp;rft.atitle=World+Economic+Outlook+Database%2C+October+2018&amp;rft_id=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2018%2F02%2Fweodata%2Fweorept.aspx%3Fpr.x%3D31%26pr.y%3D10%26sy%3D2015%26ey%3D2019%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D638%26s%3DNGDPD%252CPPPGDP%252CNGDPDPC%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://databank.worldbank.org/data/reports.aspx?source=2&amp;series=SI.POV.GINI&amp;country=BEN">"GINI index (World Bank estimate)"</a>. <i>databank.worldbank.org</i>. <a href="/wiki/World_Bank" title="World Bank">World Bank</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=databank.worldbank.org&amp;rft.atitle=GINI+index+%28World+Bank+estimate%29&amp;rft_id=https%3A%2F%2Fdatabank.worldbank.org%2Fdata%2Freports.aspx%3Fsource%3D2%26series%3DSI.POV.GINI%26country%3DBEN&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UNHDR-8"><span class="mw-cite-backlink"><a href="#cite_ref-UNHDR_8-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr2020.pdf"><i>Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene</i></a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 15 December 2020. pp.&nbsp;343–346. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-92-1-126442-5" title="Special:BookSources/978-92-1-126442-5"><bdi>978-92-1-126442-5</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Human+Development+Report+2020+The+Next+Frontier%3A+Human+Development+and+the+Anthropocene&amp;rft.pages=343-346&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2020-12-15&amp;rft.isbn=978-92-1-126442-5&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr2020.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">R. H. Hughes, J. S. Hughes. A directory of African wetlands, p. 301. IUCN, 1992. 
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/2-88032-949-3" title="Special:BookSources/2-88032-949-3">2-88032-949-3</a></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nationsencyclopedia.com/Africa/Benin-INTERNATIONAL-COOPERATION.html">"Benin – International Cooperation"</a>. Nation Encyclopedia (2010-06-29).</span> </li> 
+         <li id="cite_note-Ibp_Usa_p85-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ibp_Usa_p85_11-0">11.0</a></sup> <sup><a href="#cite_ref-Ibp_Usa_p85_11-1">11.1</a></sup></span> <span class="reference-text">Ibp Usa. Global Logistics Assessments Reports Handbook: Strategic Transportation and Customs Information for Selected Countries, p. 85. Int'l Business Publications, 2008. 
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-7397-6603-1" title="Special:BookSources/0-7397-6603-1">0-7397-6603-1</a></span> </li> 
+         <li id="cite_note-bn-12"><span class="mw-cite-backlink"><a href="#cite_ref-bn_12-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.state.gov/r/pa/ei/bgn/6761.htm">"Background Note: Benin"</a>. U.S. Department of State (June 2008).</span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">C. Michael Hogan. 2009. <a rel="nofollow" class="external text" href="http://globaltwitcher.auderis.se/artspec_information.asp?thingid=35993"><i>Painted Hunting Dog: Lycaon pictus</i>, GlobalTwitcher.com, ed. N. Stromberg</a></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://aflit.arts.uwa.edu.au/CountryBeninEN.html">"Benin"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Benin&amp;rft_id=http%3A%2F%2Faflit.arts.uwa.edu.au%2FCountryBeninEN.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span></span> </li> 
+         <li id="cite_note-report-15"><span class="mw-cite-backlink"><a href="#cite_ref-report_15-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.state.gov/g/drl/rls/irf/2007/90082.htm">International Religious Freedom Report 2007: Benin</a>. United States <a href="/w/index.php?title=Bureau_of_Democracy,_Human_Rights_and_Labor&amp;action=edit&amp;redlink=1" class="new" title="Bureau of Democracy, Human Rights and Labor (not yet started)">Bureau of Democracy, Human Rights and Labor</a> (September 14, 2007). <i>This article incorporates text from this source, which is in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>.</i></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2103.html">Literacy</a>. Cia.gov. Retrieved on 2012-08-15.</span> </li> 
+         <li id="cite_note-ilab-17"><span class="mw-cite-backlink"><a href="#cite_ref-ilab_17-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.state.gov/g/drl/rls/hrrpt/2000/af/861.htm">"Benin"</a>. <i>Country Reports on Human Rights Practices</i>. United States Department of State. February 23, 2001. section 5<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Country+Reports+on+Human+Rights+Practices&amp;rft.atitle=Benin&amp;rft.pages=section+5&amp;rft.date=2001-02-23&amp;rft_id=http%3A%2F%2Fwww.state.gov%2Fg%2Fdrl%2Frls%2Fhrrpt%2F2000%2Faf%2F861.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ABenin" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Benin-18"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Benin_18-0">18.0</a></sup> <sup><a href="#cite_ref-Benin_18-1">18.1</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://recipes.wikia.com/wiki/Beninese_Cuisine">"Beninese Cuisine."</a> Wikia Recipes Wiki. Accessed June 2011.</span> </li> 
         </ol>
        </div>
       </div> 
@@ -399,9 +509,9 @@
           <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
@@ -521,7 +631,7 @@
           <th scope="row" class="navbox-group" style="width:1%">
            <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
             <a href="/w/index.php?title=Territory_(subdivision)&amp;action=edit&amp;redlink=1" class="new" title="Territory (subdivision) (not yet started)">Territories</a> 
-            <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">and</span>
+            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r6670383"><span class="nobold">and</span>
             <br><a href="/wiki/Dependent_territory" title="Dependent territory">dependencies</a>
            </div></th>
           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
@@ -589,43 +699,43 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1301
-Cached time: 20201224024934
+Parsed by mw1296
+Cached time: 20210114203835
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.204 seconds
-Real time usage: 1.408 seconds
-Preprocessor visited node count: 4686/1000000
-Post‐expand include size: 85812/2097152 bytes
-Template argument size: 9765/2097152 bytes
+CPU time usage: 1.440 seconds
+Real time usage: 1.676 seconds
+Preprocessor visited node count: 5239/1000000
+Post‐expand include size: 117831/2097152 bytes
+Template argument size: 19174/2097152 bytes
 Highest expansion depth: 18/40
-Expensive parser function count: 19/500
+Expensive parser function count: 18/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 25499/5000000 bytes
-Lua time usage: 0.770/10.000 seconds
-Lua memory usage: 31138769/52428800 bytes
+Unstrip post‐expand size: 38469/5000000 bytes
+Lua time usage: 0.879/10.000 seconds
+Lua memory usage: 30850051/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1299.284      1 -total
- 54.36%  706.315      1 Template:Infobox_country
- 52.99%  688.542      3 Template:Infobox
- 22.01%  286.008      3 Template:ISO_3166_code
- 15.90%  206.579      1 Template:Reflist
- 13.32%  173.117      1 Template:Authority_control
- 11.00%  142.878      5 Template:Cite_web
- 10.08%  130.960      1 Template:In_lang
-  8.92%  115.903      1 Template:Commonscat-inline
-  8.56%  111.217      2 Template:Sister-inline
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:15644-0!canonical and timestamp 20201224024934 and revision id 7173112. Serialized with JSON.
+100.00% 1503.230      1 -total
+ 55.46%  833.724      1 Template:Infobox_country
+ 54.03%  812.139      3 Template:Infobox
+ 17.68%  265.759      3 Template:ISO_3166_code
+ 15.39%  231.379      1 Template:Authority_control
+ 14.20%  213.431      4 Template:Smaller
+ 14.14%  212.540      1 Template:Reflist
+ 14.00%  210.492      4 Template:Resize
+ 13.80%  207.415      2 Template:Native_name
+ 13.46%  202.334      4 Template:Lang
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:15644-0!canonical and timestamp 20210114203835 and revision id 7266313. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Benin&amp;oldid=7173112">https://simple.wikipedia.org/w/index.php?title=Benin&amp;oldid=7173112</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Benin&amp;oldid=7266313">https://simple.wikipedia.org/w/index.php?title=Benin&amp;oldid=7266313</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -642,7 +752,9 @@ Transclusion expansion time report (%,ms,calls,template)
      <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
       Hidden categories: 
       <ul>
-       <li><a href="/wiki/Category:Articles_with_French-language_sources_(fr)" title="Category:Articles with French-language sources (fr)">Articles with French-language sources (fr)</a></li>
+       <li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li>
+       <li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Yoruba-language_text" title="Category:Articles containing Yoruba-language text">Articles containing Yoruba-language text</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_HDS_identifiers" title="Category:Wikipedia articles with HDS identifiers">Wikipedia articles with HDS identifiers</a></li>
@@ -730,9 +842,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -756,9 +868,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Benin" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Benin&amp;oldid=7173112" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Benin&amp;oldid=7266313" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Benin&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Benin&amp;id=7173112&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Benin&amp;id=7266313&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q962" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -892,7 +1004,6 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
        <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
        <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Benin" title="Benin – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
-       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A8%D9%86%DB%8C%D9%86" title="بنین – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
        <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Beninum" title="Beninum – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
        <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Benina" title="Benina – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
        <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Benin" title="Benin – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
@@ -1023,7 +1134,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 8 November 2020, at 02:50.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 13 January 2021, at 23:15.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1041,8 +1152,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.204","walltime":"1.408","ppvisitednodes":{"value":4686,"limit":1000000},"postexpandincludesize":{"value":85812,"limit":2097152},"templateargumentsize":{"value":9765,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":25499,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1299.284      1 -total"," 54.36%  706.315      1 Template:Infobox_country"," 52.99%  688.542      3 Template:Infobox"," 22.01%  286.008      3 Template:ISO_3166_code"," 15.90%  206.579      1 Template:Reflist"," 13.32%  173.117      1 Template:Authority_control"," 11.00%  142.878      5 Template:Cite_web"," 10.08%  130.960      1 Template:In_lang","  8.92%  115.903      1 Template:Commonscat-inline","  8.56%  111.217      2 Template:Sister-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.770","limit":"10.000"},"limitreport-memusage":{"value":31138769,"limit":52428800}},"cachereport":{"origin":"mw1301","timestamp":"20201224024934","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Benin","url":"https:\/\/simple.wikipedia.org\/wiki\/Benin","sameAs":"http:\/\/www.wikidata.org\/entity\/Q962","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q962","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-31T14:10:49Z","dateModified":"2020-11-08T02:50:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0a\/Flag_of_Benin.svg","headline":"sovereign state in Africa"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":283,"wgHostname":"mw1370"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.440","walltime":"1.676","ppvisitednodes":{"value":5239,"limit":1000000},"postexpandincludesize":{"value":117831,"limit":2097152},"templateargumentsize":{"value":19174,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38469,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1503.230      1 -total"," 55.46%  833.724      1 Template:Infobox_country"," 54.03%  812.139      3 Template:Infobox"," 17.68%  265.759      3 Template:ISO_3166_code"," 15.39%  231.379      1 Template:Authority_control"," 14.20%  213.431      4 Template:Smaller"," 14.14%  212.540      1 Template:Reflist"," 14.00%  210.492      4 Template:Resize"," 13.80%  207.415      2 Template:Native_name"," 13.46%  202.334      4 Template:Lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.879","limit":"10.000"},"limitreport-memusage":{"value":30850051,"limit":52428800}},"cachereport":{"origin":"mw1296","timestamp":"20210114203835","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Benin","url":"https:\/\/simple.wikipedia.org\/wiki\/Benin","sameAs":"http:\/\/www.wikidata.org\/entity\/Q962","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q962","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-31T14:10:49Z","dateModified":"2021-01-13T23:15:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0a\/Flag_of_Benin.svg","headline":"sovereign state in Africa"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":195,"wgHostname":"mw1371"});});</script> 
  </body>
 </html>

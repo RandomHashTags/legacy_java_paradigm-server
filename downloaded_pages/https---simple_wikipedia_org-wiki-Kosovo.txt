@@ -3,20 +3,21 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Kosovo - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHgpAEJsAANOo@fsAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kosovo","wgTitle":"Kosovo","wgCurRevisionId":7172264,"wgRevisionId":7172264,"wgArticleId":40777,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","CS1 maint: ref=harv","Pages needing to be simplified from January 2012","All pages that need simplifying","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers",
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X-@TbApAICAAAA-@344AAADB","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kosovo","wgTitle":"Kosovo","wgCurRevisionId":7266328,"wgRevisionId":7266328,"wgArticleId":40777,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Albanian-language sources (sq)","CS1 maint: archived copy as title","Articles containing Albanian-language text","Articles containing Serbian-language text","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers",
 "Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Kosovo","Autonomous areas","Europe"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Kosovo","wgRelevantArticleId":40777,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},
-"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1246"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
-"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1246"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.25"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png"> 
   <link rel="preconnect" href="//upload.wikimedia.org"> 
   <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Kosovo"> 
   <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Kosovo&amp;action=edit"> 
@@ -49,21 +50,340 @@
     <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
     <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
      <div class="mw-parser-output">
-      <table class="box-Complex plainlinks metadata ambox ambox-content" role="presentation">
+      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
        <tbody>
         <tr>
-         <td class="mbox-image">
-          <div style="width:52px">
-           <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
+          <div style="display:inline" class="fn org country-name">
+           Republic of Kosovo
+          </div><br>
+          <div style="padding-top:0.25em; font-weight:normal;">
+           <div class="plainlist">
+            <ul>
+             <li style="font-size:81%;"><i lang="sq" title="Albanian language text">Republika e Kosovës</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Albanian_language" title="Albanian language">Albanian</a>)</span></li>
+             <li style="font-size:81%;"><i lang="sr" title="Serbian language text">Република Косово</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Serbian_language" title="Serbian language">Serbian</a>)</span></li>
+            </ul>
+           </div>
+          </div></th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
+          <div style="display:table; width:100%;"> 
+           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Flag_of_Kosovo.svg" class="image" title="Flag of Kosovo"><img alt="Flag of Kosovo" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/125px-Flag_of_Kosovo.svg.png" decoding="async" width="125" height="89" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/188px-Flag_of_Kosovo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/250px-Flag_of_Kosovo.svg.png 2x" data-file-width="840" data-file-height="600"></a>
+            </div> 
+            <div style="font-size:90%;">
+             <a href="/wiki/Flag_of_Kosovo" title="Flag of Kosovo">Flag</a>
+            </div> 
+           </div> 
+           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
+            <div style="padding-bottom:3px;">
+             <a href="/wiki/File:Coat_of_arms_of_Kosovo.svg" class="image" title="Coat of arms of Kosovo"><img alt="Coat of arms of Kosovo" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Coat_of_arms_of_Kosovo.svg/85px-Coat_of_arms_of_Kosovo.svg.png" decoding="async" width="85" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Coat_of_arms_of_Kosovo.svg/128px-Coat_of_arms_of_Kosovo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Coat_of_arms_of_Kosovo.svg/170px-Coat_of_arms_of_Kosovo.svg.png 2x" data-file-width="658" data-file-height="729"></a>
+            </div> 
+            <div style="font-size:90%;">
+             Coat of arms
+            </div> 
+           </div> 
           </div></td>
-         <td class="mbox-text">
-          <div class="mbox-text-span">
-           The <a href="/wiki/English_language" title="English language">English</a> used in this article or section <b>may not be easy for everybody to understand</b>.<span class="hide-when-compact"> You can help Wikipedia by reading <a href="/wiki/Wikipedia:How_to_write_Simple_English_pages" title="Wikipedia:How to write Simple English pages">Wikipedia:How to write Simple English pages</a>, then simplifying the article.</span> <small class="date-container"><i>(<span class="date">January 2012</span>)</i></small>
+        </tr>
+        <tr>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b>"<a href="/w/index.php?title=Europe_(anthem)&amp;action=edit&amp;redlink=1" class="new" title="Europe (anthem) (not yet started)">Europe</a>"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+           <br>
+           <center>
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="57.182040816327" data-startoffset="0" data-mwtitle="National_Anthem_of_the_Republic_of_Kosovo.ogg" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (111 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="111387">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg/National_Anthem_of_the_Republic_of_Kosovo.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="180168">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ANational_Anthem_of_the_Republic_of_Kosovo.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ANational_Anthem_of_the_Republic_of_Kosovo.ogg&amp;lang=pl&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="pl" label="polski (pl) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ANational_Anthem_of_the_Republic_of_Kosovo.ogg&amp;lang=ru&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ru" label="русский (ru) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ANational_Anthem_of_the_Republic_of_Kosovo.ogg&amp;lang=sq&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="sq" label="shqip (sq) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ANational_Anthem_of_the_Republic_of_Kosovo.ogg&amp;lang=sr&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="sr" label="српски / srpski (sr) subtitles" data-dir="ltr">
+             </audio>
+            </div>
+           </center>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Europe-Republic_of_Kosovo.svg" class="image" title="Location in Europe"><img alt="Location in Europe" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Europe-Republic_of_Kosovo.svg/250px-Europe-Republic_of_Kosovo.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Europe-Republic_of_Kosovo.svg/375px-Europe-Republic_of_Kosovo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Europe-Republic_of_Kosovo.svg/500px-Europe-Republic_of_Kosovo.svg.png 2x" data-file-width="2045" data-file-height="1720"></a>
+          <div style="position:relative;top:0.3em;">
+           Location in Europe
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Status</th>
+         <td><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">Disputed</a> 
+          <ul>
+           <li><a href="/w/index.php?title=International_recognition_of_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="International recognition of Kosovo (not yet started)">Recognised by 98 out of 193 member states</a> of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a></li> 
+           <li>Claimed by <a href="/wiki/Serbia" title="Serbia">Serbia</a> as the <a href="/wiki/Autonomous_Province_of_Kosovo_and_Metohija" title="Autonomous Province of Kosovo and Metohija">Autonomous Province of Kosovo and Metohija</a> (under <a href="/w/index.php?title=United_Nations_Security_Council_Resolution_1244&amp;action=edit&amp;redlink=1" class="new" title="United Nations Security Council Resolution 1244 (not yet started)">UN Security Council resolution 1244</a>)</li>
+          </ul> </td>
+        </tr>
+        <tr>
+         <th scope="row">Capital<br>
+          <div style="font-weight:normal">
+           and largest city
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Pristina" title="Pristina">Pristina</a></span><sup>a</sup><br><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Kosovo&amp;params=42_40_N_21_10_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°40′N</span> <span class="longitude">21°10′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.667°N 21.167°E</span><span style="display:none">﻿ / <span class="geo">42.667; 21.167</span></span></span></a></span></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Official&nbsp;languages</th>
+         <td>
+          <div class="hlist hlist-separated">
+           <ul>
+            <li><a href="/wiki/Albanian_language" title="Albanian language">Albanian</a></li>
+            <li><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Regional languages</th>
+         <td>
+          <div class="hlist hlist-separated">
+           <ul>
+            <li><a href="/wiki/Bosnian_language" title="Bosnian language">Bosnian</a></li>
+            <li><a href="/wiki/Turkish_language" title="Turkish language">Turkish</a></li>
+            <li><a href="/wiki/Romani_language" title="Romani language">Romani</a></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>Kosovar, Kosovan</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Government</th>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Parliamentary_republic" title="Parliamentary republic">parliamentary</a> <a href="/wiki/Constitution" title="Constitution">constitutional</a> <a href="/wiki/Republic" title="Republic">republic</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/President_of_Kosovo" title="President of Kosovo">President</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Vjosa_Osmani&amp;action=edit&amp;redlink=1" class="new" title="Vjosa Osmani (not yet started)">Vjosa Osmani</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><br>(acting)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Prime_Minister_of_Kosovo" title="Prime Minister of Kosovo">Prime Minister</a> 
+          </div></th>
+         <td><a href="/wiki/Avdullah_Hoti" title="Avdullah Hoti">Avdullah Hoti</a><br>(acting)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Chairman_of_the_Assembly_of_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Chairman of the Assembly of Kosovo (not yet started)">Chairwoman of the Assembly</a> 
+          </div></th>
+         <td>Vjosa Osmani</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr>
+         <th scope="row">Legislature</th>
+         <td><a href="/w/index.php?title=Assembly_of_the_Republic_of_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Assembly of the Republic of Kosovo (not yet started)">Kuvendi</a></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Establishment</th>
+        </tr>
+        <tr class="mergedrow">
+         <td colspan="2" style="text-align:center"></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Kosovo_Vilayet&amp;action=edit&amp;redlink=1" class="new" title="Kosovo Vilayet (not yet started)">Kosovo Vilayet</a> 
+          </div></th>
+         <td>1877</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Socialist_Autonomous_Province_of_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Socialist Autonomous Province of Kosovo (not yet started)">Autonomous Province</a> 
+          </div></th>
+         <td>31 January 1946</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Republic_of_Kosova&amp;action=edit&amp;redlink=1" class="new" title="Republic of Kosova (not yet started)">Republic of Kosova</a> 
+          </div></th>
+         <td>2 July 1990</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Kumanovo_Agreement&amp;action=edit&amp;redlink=1" class="new" title="Kumanovo Agreement (not yet started)">Kumanovo Agreement</a> 
+          </div></th>
+         <td>9 June 1999</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=United_Nations_Interim_Administration_Mission_in_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="United Nations Interim Administration Mission in Kosovo (not yet started)">UN Administration</a> 
+          </div></th>
+         <td>10 June 1999</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/2008_Kosovo_declaration_of_independence" title="2008 Kosovo declaration of independence">Declaration of independence</a> 
+          </div></th>
+         <td>17 February 2008</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=International_Steering_Group_for_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="International Steering Group for Kosovo (not yet started)">End of Steering Group supervision</a> 
+          </div></th>
+         <td>10 September 2012</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Brussels_Agreement_(2013)&amp;action=edit&amp;redlink=1" class="new" title="Brussels Agreement (2013) (not yet started)">Brussels Agreement</a> 
+          </div></th>
+         <td>19 April 2013</td>
+        </tr>
+        <tr style="display:none">
+         <td colspan="2"> </td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td>10,887&nbsp;km<sup>2</sup> (4,203&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">171st</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Water&nbsp;(%)
+          </div></th>
+         <td>1.0<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2020 estimate
+          </div></th>
+         <td>1,873,160<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">152nd</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Density
+          </div></th>
+         <td>159/km<sup>2</sup> (411.8/sq&nbsp;mi)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
+         <td>2020&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $23.524&nbsp;billion<sup id="cite_ref-IMFWEORS_5-0" class="reference"><a href="#cite_note-IMFWEORS-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $13,017<sup id="cite_ref-IMFWEORS_5-1" class="reference"><a href="#cite_note-IMFWEORS-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
+         <td>2020&nbsp;estimate</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Total
+          </div></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $8.402&nbsp;billion<sup id="cite_ref-IMFWEORS_5-2" class="reference"><a href="#cite_note-IMFWEORS-5">[5]</a></sup></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Per capita
+          </div></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $4,649<sup id="cite_ref-IMFWEORS_5-3" class="reference"><a href="#cite_note-IMFWEORS-5">[5]</a></sup></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2017)</span></th>
+         <td><img alt="Negative increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/11px-Increase_Negative.svg.png" decoding="async" title="Negative increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/17px-Increase_Negative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/22px-Increase_Negative.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;29.0<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">low</span></span>&nbsp;·&nbsp;<a href="/w/index.php?title=List_of_countries_by_income_equality&amp;action=edit&amp;redlink=1" class="new" title="List of countries by income equality (not yet started)">121</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2016)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.742<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row">Currency</th>
+         <td><a href="/wiki/Euro" title="Euro">Euro</a> (<a href="/wiki/Euro_sign" title="Euro sign">€</a>)<sup>b</sup> (<a href="/wiki/ISO_4217" title="ISO 4217">EUR</a>)</td>
+        </tr>
+        <tr class="mergedtoprow">
+         <th scope="row">Time zone</th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
+          </div></th>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+2</span> (<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
+        </tr>
+        <tr>
+         <th scope="row">Date format</th>
+         <td>dd.mm.yyyy</td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
+         <td><a href="/wiki/Right-_and_left-hand_traffic" class="mw-redirect" title="Right- and left-hand traffic">right</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Calling code</th>
+         <td><a href="/w/index.php?title=Telephone_numbers_in_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in Kosovo (not yet started)">+383</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+         <td><a href="/w/index.php?title=ISO_3166-2:XK&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:XK (not yet started)">XK</a></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
+         <td><a href="/w/index.php?title=.xk&amp;action=edit&amp;redlink=1" class="new" title=".xk (not yet started)">.xk</a> (proposed)</td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="text-align:left;margin-left:auto; margin-right:auto;">
+           <ol style="list-style-type: lower-alpha; margin-left: 1em;"> 
+            <li value="1"><a href="/wiki/Pristina" title="Pristina">Pristina</a> is the official capital.<sup id="cite_ref-capital_8-0" class="reference"><a href="#cite_note-capital-8">[8]</a></sup> <a href="/w/index.php?title=Prizren&amp;action=edit&amp;redlink=1" class="new" title="Prizren (not yet started)">Prizren</a> is the historic capital of Kosovo.<sup id="cite_ref-capital_8-1" class="reference"><a href="#cite_note-capital-8">[8]</a></sup></li>
+            <li value="2">Adopted unilaterally; Kosovo is not a formal member of the <a href="/wiki/Eurozone" title="Eurozone">eurozone</a>.</li>
+            <li value="3">XK is a "user assigned" ISO 3166 code not designated by the standard, but used by the <a href="/wiki/European_Commission" title="European Commission">European Commission</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>, the <a href="/w/index.php?title=Deutsche_Bundesbank&amp;action=edit&amp;redlink=1" class="new" title="Deutsche Bundesbank (not yet started)">Deutsche Bundesbank</a> and other organisations. However, <a href="/w/index.php?title=ISO_3166-2:RS&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:RS (not yet started)">ISO 3166-2:RS-KM</a> remains in use.</li> 
+           </ol>
           </div></td>
         </tr>
        </tbody>
       </table> 
-      <p>{{Infobox country | conventional_long_name = Kosova | common_name = Kosova | image_flag = Flag of Serbia.svg | image_coat = Coat of arms of Serbia.svg | official_languages = <a href="/wiki/Albanian_language" title="Albanian language">Albanian</a>, <a href="/wiki/Serbian_language" title="Serbian language">Serbian</a> | demonym = <a href="/w/index.php?title=Demographics_of_Kosovo&amp;action=edit&amp;redlink=1" class="new" title="Demographics of Kosovo (not yet started)">Kosovans</a> | image_map2 = Kosovo in its region.svg | map_caption2 = Location of Kosovo within southeastern Europe | image_map = Kosovo map-en.svg | map_caption = Kosovo <a href="/wiki/Physical_geography" title="Physical geography">physical map</a> | ethnic_groups = 92% <a href="/wiki/Albanians" class="mw-redirect" title="Albanians">Albanians</a><br><span class="nowrap">&nbsp;&nbsp;</span><sup>a</sup> <a href="/wiki/Bosniaks" title="Bosniaks">Bosniaks</a>, <a href="/w/index.php?title=Gorani_people&amp;action=edit&amp;redlink=1" class="new" title="Gorani people (not yet started)">Gorani</a>, <a href="/wiki/Romani_people" title="Romani people">Roma</a>, <a href="/wiki/Turkish_people" class="mw-redirect" title="Turkish people">Turks</a>, <a href="/w/index.php?title=Ashkali_and_Balkan_Egyptians&amp;action=edit&amp;redlink=1" class="new" title="Ashkali and Balkan Egyptians (not yet started)">Ashkali and Balkan Egyptians</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> | ethnic_groups_year = 2008 | capital = <span class="nowrap"><a href="/wiki/Belgrade" title="Belgrade">Belgrade</a> </span> <b>Kosova</b> is part of Serbia , located in south of Serbia. </p>
+      <p><b>Kosova</b> is part of Serbia , located in south of Serbia. </p>
       <p>Kosovo was part of the <a href="/w/index.php?title=Dardani&amp;action=edit&amp;redlink=1" class="new" title="Dardani (not yet started)">Dardani</a> lands in <a href="/wiki/Ancient_history" title="Ancient history">ancient times</a>. The Dardani were <a href="/wiki/Invasion" title="Invasion">conquered</a> by the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a>. After the <a href="/wiki/Failure" title="Failure">fall</a> of Rome, it became part of the <a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine Empire</a>. It was taken over by them and the <a href="/w/index.php?title=Bulgarian_Empire&amp;action=edit&amp;redlink=1" class="new" title="Bulgarian Empire (not yet started)">Bulgarian Empire</a>. The <a href="/w/index.php?title=Servian_Empire&amp;action=edit&amp;redlink=1" class="new" title="Servian Empire (not yet started)">Servian Empire</a> also defeated then. Soon after the Servian defeat in the <a href="/wiki/Battle_of_Kosovo" title="Battle of Kosovo">Battle of Kosovo</a>, it became part of the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a>. </p>
       <p>When the <a href="/wiki/Turkic_peoples" title="Turkic peoples">Turks</a> left the <a href="/wiki/Balkans" title="Balkans">Balkans</a>, it became part of the <a href="/w/index.php?title=Kingdom_of_Serbia&amp;action=edit&amp;redlink=1" class="new" title="Kingdom of Serbia (not yet started)">Kingdom of Serbia</a>. In <a href="/wiki/World_War_I" title="World War I">World War I</a>, it briefly became a part of the <a href="/wiki/Austro-Hungarian_Empire" class="mw-redirect" title="Austro-Hungarian Empire">Austro-Hungarian Empire</a>. Then in <a href="/wiki/World_War_II" title="World War II">World War II</a>, after <a href="/wiki/Nazi_Germany" title="Nazi Germany">Germany</a>, <a href="/wiki/Italy" title="Italy">Italy</a>, and <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> <a href="/wiki/Invasion" title="Invasion">invaded</a>, it was taken by the <a href="/w/index.php?title=Italian_Empire&amp;action=edit&amp;redlink=1" class="new" title="Italian Empire (not yet started)">Italian Empire</a><a href="/wiki/Albania" title="Albania">Kingdom of Albania</a>. After the war, it became part of <a href="/wiki/Yugoslavia" title="Yugoslavia">Yugoslavia</a> in the <a href="/wiki/20th_century" title="20th century">20th century</a>. After <a href="/wiki/NATO" title="NATO">NATO</a> bombed <a href="/wiki/Yugoslavia" title="Yugoslavia">Yugoslavia</a> in 1999, it was under the administration of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> (<a href="/w/index.php?title=UNMIK&amp;action=edit&amp;redlink=1" class="new" title="UNMIK (not yet started)">UNMIK</a>). </p> 
       <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
@@ -351,7 +671,22 @@
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap">
         <ol class="references"> 
-         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation journal cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html">"CIA World Factbook"</a>. CIA.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=CIA+World+Factbook&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fkv.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKosovo" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><span class="cs1-maint citation-comment">CS1 maint: ref=harv (<a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">link</a>)</span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110215123402/http://www.b92.net/eng/news/politics-article.php?yyyy=2008&amp;mm=06&amp;dd=11&amp;nav_id=51011">"Assembly approves Kosovo anthem"</a>, <i>b92.net</i>, 11 June 2008. Link accessed 11 June 2008.</span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://telegrafi.com/vjosa-osmani-pranon-poziten-e-ushtrueses-se-detyres-se-presidentes-se-kosoves/">"Vjosa Osmani pranon pozitën e ushtrueses së detyrës së presidentes së Kosovës"</a> [Vjosa Osmani accepts the position of acting president of Kosovo] (in Albanian). <a href="/w/index.php?title=Telegrafi&amp;action=edit&amp;redlink=1" class="new" title="Telegrafi (not yet started)">Telegrafi</a>. 5 November 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Vjosa+Osmani+pranon+pozit%C3%ABn+e+ushtrueses+s%C3%AB+detyr%C3%ABs+s%C3%AB+presidentes+s%C3%AB+Kosov%C3%ABs&amp;rft.date=2020-11-05&amp;rft_id=https%3A%2F%2Ftelegrafi.com%2Fvjosa-osmani-pranon-poziten-e-ushtrueses-se-detyres-se-presidentes-se-kosoves%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKosovo" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ask.rks-gov.net/">"Water percentage in Kosovo (Facts about Kosovo; 2011 Agriculture Statistics)"</a>. Kosovo Agency of Statistics, KAS. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170829035712/http://ask.rks-gov.net/">Archived</a> from the original on 29 August 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Water+percentage+in+Kosovo+%28Facts+about+Kosovo%3B+2011+Agriculture+Statistics%29&amp;rft.pub=Kosovo+Agency+of+Statistics%2C+KAS&amp;rft_id=http%3A%2F%2Fask.rks-gov.net%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKosovo" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://countrymeters.info/en/Kosovo">"Kosovo population (2019) live – Countrymeters"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kosovo+population+%282019%29+live+%E2%80%93+Countrymeters&amp;rft_id=https%3A%2F%2Fcountrymeters.info%2Fen%2FKosovo&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKosovo" class="Z3988"></span></span> </li> 
+         <li id="cite_note-IMFWEORS-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-IMFWEORS_5-0">5.0</a></sup> <sup><a href="#cite_ref-IMFWEORS_5-1">5.1</a></sup> <sup><a href="#cite_ref-IMFWEORS_5-2">5.2</a></sup> <sup><a href="#cite_ref-IMFWEORS_5-3">5.3</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=66&amp;pr.y=10&amp;sy=2019&amp;ey=2020&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=967&amp;s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&amp;grp=0&amp;a=">"World Economic Outlook Database, October 2019"</a>. <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+Economic+Outlook+Database%2C+October+2019&amp;rft.pub=International+Monetary+Fund&amp;rft_id=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2019%2F02%2Fweodata%2Fweorept.aspx%3Fpr.x%3D66%26pr.y%3D10%26sy%3D2019%26ey%3D2020%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D967%26s%3DNGDPD%252CPPPGDP%252CNGDPDPC%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKosovo" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://data.worldbank.org/indicator/SI.POV.GINI?locations=XK&amp;name_desc=false">"GINI index (World Bank estimate)–Kosovo"</a>. <a href="/wiki/World_Bank" title="World Bank">World Bank</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GINI+index+%28World+Bank+estimate%29%E2%80%93Kosovo&amp;rft.pub=World+Bank&amp;rft_id=https%3A%2F%2Fdata.worldbank.org%2Findicator%2FSI.POV.GINI%3Flocations%3DXK%26name_desc%3Dfalse&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKosovo" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://hdr.undp.org/en/content/kosovo-human-development-report-2016">"Kosovo Human Development Report 2016"</a>. <a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">United Nations Development Programme</a> (UNDP). 19 October 2016. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200714182725/https://hdr.undp.org/en/content/kosovo-human-development-report-2016">Archived</a> from the original on 14 July 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kosovo+Human+Development+Report+2016&amp;rft.pub=United+Nations+Development+Programme+%28UNDP%29&amp;rft.date=2016-10-19&amp;rft_id=https%3A%2F%2Fhdr.undp.org%2Fen%2Fcontent%2Fkosovo-human-development-report-2016&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKosovo" class="Z3988"></span></span> </li> 
+         <li id="cite_note-capital-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-capital_8-0">8.0</a></sup> <sup><a href="#cite_ref-capital_8-1">8.1</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200924130927/https://gzk.rks-gov.net/ActDetail.aspx?ActID=16506">"Ligji Nr. 06/L-012 për Kryeqytetin e Republikës së Kosovës, Prishtinën"</a> (in Albanian). Gazeta Zyrtare e Republikës së Kosovës. 6 June 2018. Archived from <a rel="nofollow" class="external text" href="https://gzk.rks-gov.net/ActDetail.aspx?ActID=16506">the original</a> on 24 September 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ligji+Nr.+06%2FL-012+p%C3%ABr+Kryeqytetin+e+Republik%C3%ABs+s%C3%AB+Kosov%C3%ABs%2C+Prishtin%C3%ABn&amp;rft.pub=Gazeta+Zyrtare+e+Republik%C3%ABs+s%C3%AB+Kosov%C3%ABs&amp;rft.date=2018-06-06&amp;rft_id=https%3A%2F%2Fgzk.rks-gov.net%2FActDetail.aspx%3FActID%3D16506&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKosovo" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190728020418/http://worldpopulationreview.com/countries/kosovo-population/">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://worldpopulationreview.com/countries/kosovo-population/">the original</a> on 28 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fworldpopulationreview.com%2Fcountries%2Fkosovo-population%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AKosovo" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span></span> </li> 
         </ol>
        </div>
       </div> 
@@ -371,12 +706,12 @@
        <li><i>Kosovo. Avoiding Another Balkan War</i>,<a href="/w/index.php?title=Thanos_Veremis&amp;action=edit&amp;redlink=1" class="new" title="Thanos Veremis (not yet started)">Thanos Veremis</a> &amp; Evangelos Kofos, (eds.), Athens:Eliamep &amp; University of Athens, 1998.</li> 
        <li><i>Kosovo. Contending Voices on Balkan Interventions</i>, William Joseph Buckley, ed.,William B. Eerdmans, Grand Rapids, Michigan &amp; Cambridge U. K 2000</li> 
        <li><i>Kosovo and Metohija. Living in the Enclave</i>, D. T. Bataković (ed.), Institute for Balkan Studies, Belgrade 2007, 314 p. 
-        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-86-7179-052-9" title="Special:BookSources/978-86-7179-052-9">978-86-7179-052-9</a></li> 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-86-7179-052-9" title="Special:BookSources/978-86-7179-052-9">978-86-7179-052-9</a></li> 
        <li>Jean-Arnault Dérens, <i>Kosovo. Année zéro</i>, préface de Marek Antoni Nowick,i Paris: Paris-Méditerranée, 2004.</li> 
        <li>Dušan T. Bataković, <i>Kosovo. Un conflit sans fin?</i> Lausanne: L'Age d'Homme 2008. 322 p. 
-        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-2-8251-3875-5" title="Special:BookSources/978-2-8251-3875-5">978-2-8251-3875-5</a></li> 
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-2-8251-3875-5" title="Special:BookSources/978-2-8251-3875-5">978-2-8251-3875-5</a></li> 
        <li>Dušan T. Bataković, <i>Serbia's Kosovo Drama. A Historical Perspective</i>, Belgrade: Čigoja Štampa, 2012, 369 p. 
-        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-86-7558-903-7" title="Special:BookSources/978-86-7558-903-7">978-86-7558-903-7</a></li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-86-7558-903-7" title="Special:BookSources/978-86-7558-903-7">978-86-7558-903-7</a></li>
       </ul> 
       <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kosovo&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kosovo&amp;action=edit&amp;section=7" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <ul>
@@ -408,43 +743,43 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1311
-Cached time: 20201215181340
+Parsed by mw1364
+Cached time: 20210114003224
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.364 seconds
-Real time usage: 0.471 seconds
-Preprocessor visited node count: 1343/1000000
-Post‐expand include size: 17051/2097152 bytes
-Template argument size: 2364/2097152 bytes
-Highest expansion depth: 13/40
-Expensive parser function count: 11/500
+CPU time usage: 0.700 seconds
+Real time usage: 0.857 seconds
+Preprocessor visited node count: 4808/1000000
+Post‐expand include size: 89533/2097152 bytes
+Template argument size: 14638/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 16/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 9301/5000000 bytes
-Lua time usage: 0.176/10.000 seconds
-Lua memory usage: 4960454/52428800 bytes
+Unstrip post‐expand size: 32193/5000000 bytes
+Lua time usage: 0.358/10.000 seconds
+Lua memory usage: 25737853/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  388.212      1 -total
- 31.89%  123.809      1 Template:Authority_control
- 25.98%  100.854      1 Template:Reflist
- 23.31%   90.500      1 Template:Cite_journal
- 14.06%   54.578      1 Template:Commons_category-inline
- 14.04%   54.506      1 Template:Complex
- 13.25%   51.455      1 Template:Sister-inline
- 11.36%   44.111      3 Template:ISBN
-  9.75%   37.856      5 Template:Main_other
-  8.56%   33.236      1 Template:Ambox
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:40777-0!canonical and timestamp 20201215181340 and revision id 7172264. Serialized with JSON.
+100.00%  759.428      1 -total
+ 60.19%  457.073      1 Template:Infobox_country
+ 57.72%  438.307      3 Template:Infobox
+ 21.29%  161.709      3 Template:Unbulleted_list
+ 19.21%  145.873      2 Template:Native_name
+ 16.96%  128.789      2 Template:Lang
+ 16.31%  123.900      1 Template:Reflist
+ 10.62%   80.665      1 Template:Cite_news
+  9.99%   75.901      1 Template:Authority_control
+  6.72%   51.055      3 Template:ISBN
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:40777-0!canonical and timestamp 20210114003223 and revision id 7266328. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Kosovo&amp;oldid=7172264">https://simple.wikipedia.org/w/index.php?title=Kosovo&amp;oldid=7172264</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Kosovo&amp;oldid=7266328">https://simple.wikipedia.org/w/index.php?title=Kosovo&amp;oldid=7266328</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -459,10 +794,10 @@ Transclusion expansion time report (%,ms,calls,template)
      <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
       Hidden categories: 
       <ul>
-       <li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li>
-       <li><a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">CS1 maint: ref=harv</a></li>
-       <li><a href="/wiki/Category:Pages_needing_to_be_simplified_from_January_2012" title="Category:Pages needing to be simplified from January 2012">Pages needing to be simplified from January 2012</a></li>
-       <li><a href="/wiki/Category:All_pages_that_need_simplifying" title="Category:All pages that need simplifying">All pages that need simplifying</a></li>
+       <li><a href="/wiki/Category:CS1_Albanian-language_sources_(sq)" title="Category:CS1 Albanian-language sources (sq)">CS1 Albanian-language sources (sq)</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Albanian-language_text" title="Category:Articles containing Albanian-language text">Articles containing Albanian-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Serbian-language_text" title="Category:Articles containing Serbian-language text">Articles containing Serbian-language text</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
@@ -574,9 +909,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kosovo" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Kosovo&amp;oldid=7172264" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Kosovo&amp;oldid=7266328" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Kosovo&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kosovo&amp;id=7172264&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kosovo&amp;id=7266328&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1246" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -809,7 +1144,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 7 November 2020, at 11:54.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 13 January 2021, at 23:35.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -827,8 +1162,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.471","ppvisitednodes":{"value":1343,"limit":1000000},"postexpandincludesize":{"value":17051,"limit":2097152},"templateargumentsize":{"value":2364,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9301,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  388.212      1 -total"," 31.89%  123.809      1 Template:Authority_control"," 25.98%  100.854      1 Template:Reflist"," 23.31%   90.500      1 Template:Cite_journal"," 14.06%   54.578      1 Template:Commons_category-inline"," 14.04%   54.506      1 Template:Complex"," 13.25%   51.455      1 Template:Sister-inline"," 11.36%   44.111      3 Template:ISBN","  9.75%   37.856      5 Template:Main_other","  8.56%   33.236      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.176","limit":"10.000"},"limitreport-memusage":{"value":4960454,"limit":52428800}},"cachereport":{"origin":"mw1311","timestamp":"20201215181340","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kosovo","url":"https:\/\/simple.wikipedia.org\/wiki\/Kosovo","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1246","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1246","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-10-30T20:48:38Z","dateModified":"2020-11-07T11:54:49Z","headline":"country in Europe with partially recognized sovereignty"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":261,"wgHostname":"mw1397"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.700","walltime":"0.857","ppvisitednodes":{"value":4808,"limit":1000000},"postexpandincludesize":{"value":89533,"limit":2097152},"templateargumentsize":{"value":14638,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":32193,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  759.428      1 -total"," 60.19%  457.073      1 Template:Infobox_country"," 57.72%  438.307      3 Template:Infobox"," 21.29%  161.709      3 Template:Unbulleted_list"," 19.21%  145.873      2 Template:Native_name"," 16.96%  128.789      2 Template:Lang"," 16.31%  123.900      1 Template:Reflist"," 10.62%   80.665      1 Template:Cite_news","  9.99%   75.901      1 Template:Authority_control","  6.72%   51.055      3 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.358","limit":"10.000"},"limitreport-memusage":{"value":25737853,"limit":52428800}},"cachereport":{"origin":"mw1364","timestamp":"20210114003224","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kosovo","url":"https:\/\/simple.wikipedia.org\/wiki\/Kosovo","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1246","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1246","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-10-30T20:48:38Z","dateModified":"2021-01-13T23:35:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Flag_of_Kosovo.svg","headline":"partially recognized country in southeastern Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":254,"wgHostname":"mw1330"});});</script> 
  </body>
 </html>

@@ -1,9 +1,11 @@
 package me.randomhashtags.worldlaws.location;
 
-import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
-import me.randomhashtags.worldlaws.service.CountryService;
-import me.randomhashtags.worldlaws.service.CountryServices;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.info.service.CountryServices;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -16,18 +18,16 @@ import java.util.logging.Level;
 public final class CustomCountry implements Jsoupable {
 
     private static HashMap<String, String> CIA_SUMMARY_ISO;
-    private static final Elements TIMEZONE_ELEMENTS = Jsoupable.getStaticDocument("https://en.wikipedia.org/wiki/List_of_time_zones_by_country").select("table.wikitable tbody tr");
+    private static final Elements TIMEZONE_ELEMENTS = Jsoupable.getStaticDocumentElements("https://en.wikipedia.org/wiki/List_of_time_zones_by_country", "table.wikitable tbody tr");
     private static final Elements FLAG_ELEMENTS = Jsoupable.getStaticDocument("https://emojipedia.org/flags/").select("ul.emoji-list li a[href]");
-    private static final Elements ISO_ALPHA_2_ELEMENTS = Jsoupable.getStaticDocument("https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2").select("div.mw-parser-output table.wikitable").get(2).select("tbody tr");
+    private static final Elements ISO_ALPHA_2_ELEMENTS = Jsoupable.getStaticDocumentElements("https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2", "div.mw-parser-output table.wikitable", 2).select("tbody tr");
 
     static {
         ISO_ALPHA_2_ELEMENTS.remove(0);
     }
 
-    private Document page;
     private Elements infobox;
     private String backendID, tag, shortName, name, flagURL, flagEmoji, isoAlpha2;
-    private Location location;
     private CountryDaylightSavingsTime daylightSavingsTime;
     private Set<UTCOffset> timezones;
     private Territories territories;
@@ -36,7 +36,6 @@ public final class CustomCountry implements Jsoupable {
 
     public CustomCountry(String tag, Document page) {
         this.tag = tag;
-        this.page = page;
         infobox = page.select("table.infobox tbody tr");
 
         final String sname = tag.equalsIgnoreCase("artsakh") ? tag
@@ -61,7 +60,7 @@ public final class CustomCountry implements Jsoupable {
 
         if(CIA_SUMMARY_ISO == null) {
             CIA_SUMMARY_ISO = new HashMap<>();
-            new Thread(this::initCIA).start();
+            new Thread(this::initLegacyCIA).start();
         }
         setupFlag();
         setupTimeZone();
@@ -85,9 +84,6 @@ public final class CustomCountry implements Jsoupable {
 
     public String getTag() {
         return tag;
-    }
-    public Document getPage() {
-        return page;
     }
     public String getBackendID() {
         return backendID;
@@ -120,8 +116,7 @@ public final class CustomCountry implements Jsoupable {
         elements.removeIf(row -> !row.text().toLowerCase().split(" \\(")[0].endsWith(name));
         final int size = elements.size();
         if(size > 0) {
-            final Element element = elements.get(0);
-            final Element target = element.select("span.emoji").get(0);
+            final Element element = elements.get(0), target = element.select("span.emoji").get(0);
             flagEmoji = target.text();
         }
     }
@@ -129,20 +124,20 @@ public final class CustomCountry implements Jsoupable {
         timezones = new HashSet<>();
         final Elements elements = new Elements(TIMEZONE_ELEMENTS);
         final String name = shortName.toLowerCase().replace("&", "and");
-        elements.removeIf(row -> !row.text().toLowerCase().contains(name));
-        elements.removeIf(row -> !row.select("td a[href]").get(0).text().equalsIgnoreCase(name));
+        elements.removeIf(row -> !row.text().toLowerCase().contains(name) || !row.select("td a[href]").get(0).text().equalsIgnoreCase(name));
         final int size = elements.size();
         if(size > 0) {
             final DaylightSavingsTime DST = DaylightSavingsTime.INSTANCE;
             for(Element element : elements) {
                 final Elements td = element.select("td");
                 final int timeZones = Integer.parseInt(td.get(1).text());
+                final Element element3 = td.get(2);
                 if(timeZones == 1) {
-                    final UTCOffset offset = getTimeZone(td.get(2).text());
+                    final UTCOffset offset = getTimeZone(element3.text());
                     this.daylightSavingsTime = DST.getFrom(shortName, offset);
                     timezones.add(offset);
                 } else {
-                    final Elements timezoneElements = td.get(2).select("a");
+                    final Elements timezoneElements = element3.select("a");
                     timezoneElements.removeIf(tzElement -> !tzElement.attr("title").startsWith("UTC"));
                     for(Element timeZone : timezoneElements) {
                         final String value = timeZone.text();
@@ -169,7 +164,11 @@ public final class CustomCountry implements Jsoupable {
     private void setupISOAlpha2() {
         final Elements elements = new Elements(ISO_ALPHA_2_ELEMENTS);
         elements.removeIf(row -> {
-            final String country = row.select("td").get(1).text().toLowerCase();
+            final Elements tds = row.select("td");
+            if(tds.size() < 2) {
+                return true;
+            }
+            final String country = tds.get(1).text().toLowerCase();
             return !(backendID.equalsIgnoreCase(country) || shortName.equalsIgnoreCase(country) || name.equalsIgnoreCase(country));
         });
         if(!elements.isEmpty()) {
@@ -177,15 +176,19 @@ public final class CustomCountry implements Jsoupable {
             flagURL = "https://raw.githubusercontent.com/stsrki/country-flags/master/png1000px/" + isoAlpha2.toLowerCase() + ".png";
         }
     }
-    private void initCIA() {
-        final Elements elements = getDocument("https://www.cia.gov/library/publications/resources/the-world-factbook/docs/one_page_summaries.html").select("section.reference_content ul.nav-list li");
+    private void initLegacyCIA() {
+        /*final Elements elements = getDocumentElements("https://www.cia.gov/library/publications/resources/the-world-factbook/docs/one_page_summaries.html", "section.reference_content ul.nav-list li");
         for(Element element : elements) {
             final Element hrefElement = element.select("div.country-name").get(0).select("a[href]").get(0);
             final String href = hrefElement.attr("href"), country = hrefElement.text().toLowerCase();
             final String[] values = href.split("/");
             final String iso = values[values.length-1].substring(0, 2);
             CIA_SUMMARY_ISO.put(country, iso);
-        }
+        }*/
+    }
+    private void initCIA() {
+        final String url = "https://www.cia.gov/the-world-factbook/countries/" + shortName.toLowerCase().replace(" ", "-") + "/";
+        final Elements elements = getDocumentElements(url, null);
     }
 
     public void getInformation(CompletionHandler handler) {
@@ -217,28 +220,40 @@ public final class CustomCountry implements Jsoupable {
             builder.append("]");
             values.put(CountryInfo.RESOURCES, builder.toString());
 
-            final List<CountryService> services = new ArrayList<>(CountryServices.SERVICES);
-            services.addAll(new ArrayList<>(CountryRankingServices.SERVICES));
-
+            final HashSet<CountryService> services = new HashSet<>(CountryServices.SERVICES);
             final int max = services.size()+2;
-            for(CountryService service : services) {
-                final CountryInfo info = service.getInfo();
-                new Thread(() -> service.getValue(backendID, new CompletionHandler() {
-                    @Override
-                    public void handle(Object object) {
-                        values.put(info, object.toString());
-                        completeInformation(max, started, values, handler);
-                    }
-                })).start();
-            }
+            loadNew(started, services, max, values, handler);
         }
     }
+
+    private void loadNew(long started, HashSet<CountryService> services, int max, HashMap<CountryInfo, String> values, CompletionHandler handler) {
+        services.parallelStream().forEach(service -> {
+            final CountryInfo info = service.getInfo();
+            service.getValue(backendID, new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    values.put(info, object.toString());
+                    completeInformation(max, started, values, handler);
+                }
+            });
+        });
+    }
+
     private void completeInformation(int max, long started, HashMap<CountryInfo, String> values, CompletionHandler handler) {
         if(values.size() == max) {
-            final CountryInformation info = new CountryInformation(values);
-            final String string = info.toString();
+            final CountryInformation countryInformation = new CountryInformation(values);
+            final String string = countryInformation.toString();
             information = string;
-            WLLogger.log(Level.INFO, "CustomCountry - loaded information for country \"" + backendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+
+            final List<String> missingValues = new ArrayList<>();
+            for(Map.Entry<CountryInfo, String> entry : values.entrySet()) {
+                final String value = entry.getValue();
+                if(value == null || value.equals("null")) {
+                    missingValues.add(entry.getKey().name());
+                }
+            }
+            final String missingString = missingValues.isEmpty() ? "" : " (missing " + missingValues.toString() + ")";
+            WLLogger.log(Level.INFO, "CustomCountry - loaded information for country \"" + backendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)" + missingString);
             handler.handle(string);
         }
     }
@@ -252,7 +267,6 @@ public final class CustomCountry implements Jsoupable {
                 "\"name\":\"" + name + "\"," +
                 "\"flagURL\":\"" + flagURL + "\"," +
                 "\"flagEmoji\":\"" + flagEmoji + "\"," +
-                "\"location\":" + (location != null ? location.toString() : "null") + "," +
                 "\"hasTerritories\":" + (territories != null) + "," +
                 "\"daylightSavingsTime\":" + (daylightSavingsTime != null ? daylightSavingsTime.toString() : "null") + "," +
                 "\"timezones\":" + timezones.toString() +

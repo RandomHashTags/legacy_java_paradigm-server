@@ -100,7 +100,8 @@ public enum MusicAlbums implements EventController {
                         final Document albumDoc = getDocument(albumURL);
                         if(albumDoc != null) {
                             final String heading = albumDoc.select("div.mw-body h1.firstHeading").get(0).text();
-                            sources.addSource(new EventSource("Wikipedia: " + heading, albumURL));
+                            final EventSource source = new EventSource("Wikipedia: " + heading, albumURL);
+                            sources.addSource(source);
                             description = albumDoc.select("div.mw-parser-output p").get(0).text();
                             final Elements infobox = albumDoc.select("table.infobox");
                             if(!infobox.isEmpty()) {

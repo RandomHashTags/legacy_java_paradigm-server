@@ -3,21 +3,21 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Nepal - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@iDNgpAMMUAAT6Jp40AAAAC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nepal","wgTitle":"Nepal","wgCurRevisionId":7206138,"wgRevisionId":7206138,"wgArticleId":14411,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: location","Articles containing Sanskrit-language text","Articles containing explicitly cited English-language text","Articles with invalid date parameter in template","Pages using collapsible list with both background and text-align in titlestyle",
-"Pages using infobox country or infobox former country with the symbol caption or type parameters","Pages using div col with unknown parameters","Articles containing Nepali (macrolanguage)-language text","Wikipedia articles in need of updating from September 2017","All Wikipedia articles in need of updating","Nepal","Former monarchies of Asia","Least developed countries"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Nepal","wgRelevantArticleId":14411,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},
-"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q837"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher",
-"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VApAIDAAALFQorQAAABV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nepal","wgTitle":"Nepal","wgCurRevisionId":7254816,"wgRevisionId":7254816,"wgArticleId":14411,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: location","Articles containing Nepali (macrolanguage)-language text","Articles containing Sanskrit-language text","Coordinates on Wikidata","Pages using infobox country or infobox former country with the symbol caption or type parameters","Pages using div col with unknown parameters","Webarchive template wayback links",
+"Nepal","Former monarchies of Asia","Least developed countries"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Nepal","wgRelevantArticleId":14411,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":28.166666666666668,"lon":84.25},"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q837"};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
-  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1200px-Flag_of_Nepal.svg.png"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/1200px-New_Emblem_of_Nepal.svg.png"> 
   <link rel="preconnect" href="//upload.wikimedia.org"> 
   <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Nepal"> 
   <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Nepal&amp;action=edit"> 
@@ -60,8 +60,8 @@
           <div style="padding-top:0.25em; font-weight:normal;">
            <div class="plainlist">
             <ul>
-             <li><style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><span lang="ne" style="font-style: normal;" title="Nepali (macrolanguage) language text">सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Nepali_language" title="Nepali language">Nepali</a>)</span></span></li>
-             <li><span style="font-size:85%;"><i>Sanghiya Loktantraik Ganatantra Nepāl</i></span></li>
+             <li><span lang="ne" style="font-style: normal;" title="Nepali (macrolanguage) language text">सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Nepali_language" title="Nepali language">Nepali</a>)</span></li>
+             <li><i>Saṅghīya Loktāntrik Gaṇatantra Nepāl</i></li>
             </ul>
            </div>
           </div></th>
@@ -71,7 +71,7 @@
           <div style="display:table; width:100%;"> 
            <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
             <div style="padding-bottom:3px;">
-             <a href="/wiki/File:Flag_of_Nepal.svg" class="image" title="Flag of Nepal"><img alt="Flag of Nepal" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/102px-Flag_of_Nepal.svg.png" decoding="async" width="102" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/154px-Flag_of_Nepal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/205px-Flag_of_Nepal.svg.png 2x" data-file-width="726" data-file-height="885"></a>
+             <a href="/wiki/File:Flag_of_Nepal.svg" class="image" title="Flag of Nepal"><img alt="Two united crimson pennants with blue borders, top one containing a stylised symbol for the moon and the bottom one, the sun." src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/90px-Flag_of_Nepal.svg.png" decoding="async" width="90" height="110" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/135px-Flag_of_Nepal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/180px-Flag_of_Nepal.svg.png 2x" data-file-width="726" data-file-height="885"></a>
             </div> 
             <div style="font-size:90%;">
              <a href="/wiki/Flag_of_Nepal" title="Flag of Nepal">Flag</a>
@@ -79,7 +79,7 @@
            </div> 
            <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
             <div style="padding-bottom:3px;">
-             <a href="/wiki/File:New_Emblem_of_Nepal.svg" class="image" title="Emblem of Nepal"><img alt="Emblem of Nepal" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/100px-New_Emblem_of_Nepal.svg.png" decoding="async" width="100" height="84" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/150px-New_Emblem_of_Nepal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/200px-New_Emblem_of_Nepal.svg.png 2x" data-file-width="512" data-file-height="429"></a>
+             <a href="/wiki/File:New_Emblem_of_Nepal.svg" class="image" title="Emblem of Nepal"><img alt="In the background, blue-white snowy himalayas, green forested hills and yellowish fertile plains from top to bottom; in the foreground, two male and female hands joined and a plain white map of Nepal, supported by a wreath of red rhododendrons, seven on each side, with the flag of Nepal at the crest, and at the bottom, the motto of Nepal in Devanagari script" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/120px-New_Emblem_of_Nepal.svg.png" decoding="async" width="120" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/180px-New_Emblem_of_Nepal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/240px-New_Emblem_of_Nepal.svg.png 2x" data-file-width="1500" data-file-height="1266"></a>
             </div> 
             <div style="font-size:90%;">
              Emblem
@@ -90,102 +90,107 @@
         <tr>
          <td colspan="2" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Motto:&nbsp;</b><span lang="sa" style="font-style: normal;" title="Sanskrit language text">जननी जन्मभूमिश्च स्वर्गादपि गरीयसी</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Sanskrit_language" class="mw-redirect" title="Sanskrit language">Sanskrit</a>)</span>
-           <br><span lang="en" style="font-style: normal;" title="English language text">Mother and Motherland are Greater than Heaven</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/English_language" title="English language">English</a>)</span>
+           <b>Motto:&nbsp;</b><span lang="sa" style="font-style: normal;" title="Sanskrit language text">"<a href="/w/index.php?title=Janani_Janmabhumishcha_Swargadapi_Gariyasi&amp;action=edit&amp;redlink=1" class="new" title="Janani Janmabhumishcha Swargadapi Gariyasi (not yet started)">Janani Janmabhumishcha Swargadapi Gariyasi</a>"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Sanskrit_language" class="mw-redirect" title="Sanskrit language">Sanskrit</a>)</span>
+           <br>"Mother and motherland are greater than heaven"
           </div></td>
         </tr>
         <tr>
          <td colspan="2" class="anthem" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Anthem:&nbsp;</b><span lang="ne" style="font-style: normal;" title="Nepali (macrolanguage) language text"><a href="/wiki/Sayaun_Thunga_Phool_Ka" title="Sayaun Thunga Phool Ka">सयौं थुँगा फूलका</a></span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Nepali_language" title="Nepali language">Nepali</a>)</span>
-           <br><span lang="en" style="font-style: normal;" title="English language text">Made of Hundreds of Flowers</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/English_language" title="English language">English</a>)</span>
+           <b>Anthem:&nbsp;</b><span lang="ne" style="font-style: normal;" title="Nepali (macrolanguage) language text">"<a href="/w/index.php?title=Sayaun_Thunga_Phulka&amp;action=edit&amp;redlink=1" class="new" title="Sayaun Thunga Phulka (not yet started)">Sayaun Thunga Phulka</a>"</span>
+           <br>"Made of Hundreds of Flowers"
            <br>
+           <div style="padding-top:0.5em;" class="center">
+            <div class="mediaContainer" style="width:220px">
+             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="69.825306122449" data-startoffset="0" data-mwtitle="Sayaun_Thunga_Phool_Ka_(instrumental).ogg" data-mwprovider="wikimediacommons">
+              <source src="//upload.wikimedia.org/wikipedia/commons/e/ef/Sayaun_Thunga_Phool_Ka_%28instrumental%29.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (99 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="99378">
+              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/ef/Sayaun_Thunga_Phool_Ka_%28instrumental%29.ogg/Sayaun_Thunga_Phool_Ka_%28instrumental%29.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="182512">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ASayaun_Thunga_Phool_Ka_%28instrumental%29.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3ASayaun_Thunga_Phool_Ka_%28instrumental%29.ogg&amp;lang=ne&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="ne" label="नेपाली (ne) subtitles" data-dir="ltr">
+             </audio>
+            </div>
+           </div>
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Nepal_(orthographic_projection).svg" class="image" title="Location of Nepal"><img alt="Location of Nepal" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nepal_%28orthographic_projection%29.svg/220px-Nepal_%28orthographic_projection%29.svg.png" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nepal_%28orthographic_projection%29.svg/330px-Nepal_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nepal_%28orthographic_projection%29.svg/440px-Nepal_%28orthographic_projection%29.svg.png 2x" data-file-width="553" data-file-height="553"></a></td>
-        </tr>
-        <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Nepal_-_Location_Map_(2013)_-_NPL_-_UNOCHA.svg" class="image" title="Location of Nepal"><img alt="Location of Nepal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nepal_-_Location_Map_%282013%29_-_NPL_-_UNOCHA.svg/250px-Nepal_-_Location_Map_%282013%29_-_NPL_-_UNOCHA.svg.png" decoding="async" width="250" height="249" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nepal_-_Location_Map_%282013%29_-_NPL_-_UNOCHA.svg/375px-Nepal_-_Location_Map_%282013%29_-_NPL_-_UNOCHA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nepal_-_Location_Map_%282013%29_-_NPL_-_UNOCHA.svg/500px-Nepal_-_Location_Map_%282013%29_-_NPL_-_UNOCHA.svg.png 2x" data-file-width="254" data-file-height="253"></a></td>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Nepal_(orthographic_projection).svg" class="image" title="Area controlled by Nepal shown in dark green; regions claimed but not controlled shown in light green"><img alt="Image of a globe centred on Nepal, with Nepal highlighted." src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nepal_%28orthographic_projection%29.svg/220px-Nepal_%28orthographic_projection%29.svg.png" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nepal_%28orthographic_projection%29.svg/330px-Nepal_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nepal_%28orthographic_projection%29.svg/440px-Nepal_%28orthographic_projection%29.svg.png 2x" data-file-width="553" data-file-height="553"></a>
+          <div style="position:relative;top:0.3em;">
+           Area controlled by Nepal shown in dark green;
+           <br>regions claimed but not controlled shown in light green
+          </div></td>
         </tr>
         <tr>
          <th scope="row">Capital<br>
           <div style="font-weight:normal">
            and largest city
           </div></th>
-         <td><a href="/wiki/Kathmandu" title="Kathmandu">Kathmandu</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Nepal&amp;params=27_42_N_85_19_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">27°42′N</span> <span class="longitude">85°19′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">27.700°N 85.317°E</span><span style="display:none">﻿ / <span class="geo">27.700; 85.317</span></span></span></a></span></td>
+         <td><a href="/wiki/Kathmandu" title="Kathmandu">Kathmandu</a><sup id="cite_ref-Fact_Monster_Nepal_1-0" class="reference"><a href="#cite_note-Fact_Monster_Nepal-1">[1]</a></sup><br><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Nepal&amp;params=28_10_N_84_15_E_region:NP_type:country"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">28°10′N</span> <span class="longitude">84°15′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">28.167°N 84.250°E</span><span style="display:none">﻿ / <span class="geo">28.167; 84.250</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: 
+            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263774"><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Nepal&amp;params=28_10_N_84_15_E_region:NP_type:country"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">28°10′N</span> <span class="longitude">84°15′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">28.167°N 84.250°E</span><span style="display:none">﻿ / <span class="geo">28.167; 84.250</span></span></span></a></span></span></span></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Official&nbsp;languages</th>
-         <td><a href="/wiki/Nepali_language" title="Nepali language">Nepali</a></td>
+         <td><a href="/wiki/Nepali_language" title="Nepali language">Nepali</a><sup id="cite_ref-Britannica_Nepal_2-0" class="reference"><a href="#cite_note-Britannica_Nepal-2">[2]</a></sup></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row"><span style="font-weight:normal;">Recognised national&nbsp;languages</span></th>
-         <td><a href="/wiki/English_language" title="English language">English</a></td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row"><span style="font-weight:normal;">Recognised regional&nbsp;languages</span></th>
-         <td>
-          <div class="hlist hlist-separated">
-           <ul>
-            <li><a href="/wiki/Awadhi" class="mw-redirect" title="Awadhi">Awadhi</a></li>
-            <li><a href="/w/index.php?title=Bhojpuri&amp;action=edit&amp;redlink=1" class="new" title="Bhojpuri (not yet started)">Bhojpuri</a></li>
-            <li><a href="/w/index.php?title=Bajjika&amp;action=edit&amp;redlink=1" class="new" title="Bajjika (not yet started)">Bajjika</a></li>
-            <li><a href="/w/index.php?title=Gurung_language&amp;action=edit&amp;redlink=1" class="new" title="Gurung language (not yet started)">Gurung</a></li>
-            <li><a href="/w/index.php?title=Kiranti_languages&amp;action=edit&amp;redlink=1" class="new" title="Kiranti languages (not yet started)">Kiranti</a></li>
-            <li><a href="/w/index.php?title=Limbu_language&amp;action=edit&amp;redlink=1" class="new" title="Limbu language (not yet started)">Limbu</a></li>
-            <li><a href="/w/index.php?title=Magar_language&amp;action=edit&amp;redlink=1" class="new" title="Magar language (not yet started)">Magar</a></li>
-            <li><a href="/wiki/Maithili_language" title="Maithili language">Maithili</a></li>
-            <li><a href="/wiki/Newar_language" title="Newar language">Newar</a></li>
-            <li><a href="/w/index.php?title=Rai_Languages&amp;action=edit&amp;redlink=1" class="new" title="Rai Languages (not yet started)">Rai</a></li>
-            <li><a href="/w/index.php?title=Sherpa_language&amp;action=edit&amp;redlink=1" class="new" title="Sherpa language (not yet started)">Sherpa</a></li>
-            <li><a href="/w/index.php?title=Tamang_language&amp;action=edit&amp;redlink=1" class="new" title="Tamang language (not yet started)">Tamang</a></li>
-            <li><a href="/w/index.php?title=Tharu_language&amp;action=edit&amp;redlink=1" class="new" title="Tharu language (not yet started)">Tharu</a></li>
-            <li><a href="/wiki/Urdu" title="Urdu">Urdu</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
-           </ul>
-          </div></td>
+         <td>All mother-tongues<sup id="cite_ref-con15_3-0" class="reference"><a href="#cite_note-con15-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><br><span style="font-size:85%;">(see <a href="/w/index.php?title=Languages_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Languages of Nepal (not yet started)">Languages of Nepal</a>)</span></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
           <div style="font-weight:normal;display:inline;">
-            (<a href="/w/index.php?title=2011_Nepal_census&amp;action=edit&amp;redlink=1" class="new" title="2011 Nepal census (not yet started)">2011</a><sup id="cite_ref-pre-cen_2-0" class="reference"><a href="#cite_note-pre-cen-2">[2]</a></sup> <sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The date of the event predicted near this tag has passed. (September 2017)">needs update</span></a></i>]</sup>)
+            (<a href="/w/index.php?title=2011_Nepal_census&amp;action=edit&amp;redlink=1" class="new" title="2011 Nepal census (not yet started)">2011</a>)<sup id="cite_ref-FOOTNOTE2011_National_Census4_5-0" class="reference"><a href="#cite_note-FOOTNOTE2011_National_Census4-5">[5]</a></sup>
           </div></th>
          <td>
-          <div class="NavFrame collapsed" style="border: none; padding: 0;"> 
-           <div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:transparent;text-align:left;font-weight:normal;font-size:100%;">
-            Ethnic demography
-           </div> 
-           <ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
-            <li style="line-height: inherit; margin: 0">16.6% <a href="/w/index.php?title=Chhettri&amp;action=edit&amp;redlink=1" class="new" title="Chhettri (not yet started)">Chhettri</a></li>
-            <li style="line-height: inherit; margin: 0">12.2% <a href="/w/index.php?title=Brahman-Hill&amp;action=edit&amp;redlink=1" class="new" title="Brahman-Hill (not yet started)">Brahman-Hill</a></li>
-            <li style="line-height: inherit; margin: 0">7.1% <a href="/w/index.php?title=Magar_people&amp;action=edit&amp;redlink=1" class="new" title="Magar people (not yet started)">Magar</a></li>
-            <li style="line-height: inherit; margin: 0">6.6% <a href="/w/index.php?title=Tharu_people&amp;action=edit&amp;redlink=1" class="new" title="Tharu people (not yet started)">Tharu</a></li>
-            <li style="line-height: inherit; margin: 0">5.8% <a href="/w/index.php?title=Tamang&amp;action=edit&amp;redlink=1" class="new" title="Tamang (not yet started)">Tamang</a></li>
-            <li style="line-height: inherit; margin: 0">5% <a href="/w/index.php?title=Newar&amp;action=edit&amp;redlink=1" class="new" title="Newar (not yet started)">Newar</a></li>
-            <li style="line-height: inherit; margin: 0">4.8% <a href="/wiki/Kami" title="Kami">Kami</a></li>
-            <li style="line-height: inherit; margin: 0">4.4% <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a></li>
-            <li style="line-height: inherit; margin: 0">4% <a href="/w/index.php?title=Yadav&amp;action=edit&amp;redlink=1" class="new" title="Yadav (not yet started)">Yadav</a></li>
-            <li style="line-height: inherit; margin: 0">2.3% <a href="/w/index.php?title=Rai_people&amp;action=edit&amp;redlink=1" class="new" title="Rai people (not yet started)">Rai</a></li>
-            <li style="line-height: inherit; margin: 0">2% <a href="/w/index.php?title=Gurung&amp;action=edit&amp;redlink=1" class="new" title="Gurung (not yet started)">Gurung</a></li>
-            <li style="line-height: inherit; margin: 0">1.8% <a href="/w/index.php?title=Damai&amp;action=edit&amp;redlink=1" class="new" title="Damai (not yet started)">Damai</a>/Dholii</li>
-            <li style="line-height: inherit; margin: 0">1.6% <a href="/w/index.php?title=Thakuri&amp;action=edit&amp;redlink=1" class="new" title="Thakuri (not yet started)">Thakuri</a></li>
-            <li style="line-height: inherit; margin: 0">1.5% <a href="/w/index.php?title=Limbu&amp;action=edit&amp;redlink=1" class="new" title="Limbu (not yet started)">Limbu</a></li>
-            <li style="line-height: inherit; margin: 0">1.4% <a href="/w/index.php?title=Sarki_(ethnic_group)&amp;action=edit&amp;redlink=1" class="new" title="Sarki (ethnic group) (not yet started)">Sarki</a></li>
-            <li style="line-height: inherit; margin: 0">1.4% <a href="/w/index.php?title=Teli&amp;action=edit&amp;redlink=1" class="new" title="Teli (not yet started)">Teli</a></li>
-            <li style="line-height: inherit; margin: 0">1.3% <a href="/w/index.php?title=Chamar&amp;action=edit&amp;redlink=1" class="new" title="Chamar (not yet started)">Chamar</a>/<a href="/w/index.php?title=Harijan&amp;action=edit&amp;redlink=1" class="new" title="Harijan (not yet started)">Harijan</a>/Ram</li>
-            <li style="line-height: inherit; margin: 0">1.2% <a href="/w/index.php?title=Koiri&amp;action=edit&amp;redlink=1" class="new" title="Koiri (not yet started)">Koiri</a>/<a href="/w/index.php?title=Kushwaha&amp;action=edit&amp;redlink=1" class="new" title="Kushwaha (not yet started)">Kushwaha</a></li>
-            <li style="line-height: inherit; margin: 0">19% Other</li>
-           </ul> 
+          <div class="plainlist nowrap">
+           <ul style="line-height:1.3em;">
+            <li>16.6% <a href="/wiki/Chhetri" class="mw-redirect" title="Chhetri">Chhetri</a></li>
+            <li>12.2% <a href="/wiki/Bahun" title="Bahun">Bahun</a></li>
+            <li>7.1% <a href="/w/index.php?title=Magar_people&amp;action=edit&amp;redlink=1" class="new" title="Magar people (not yet started)">Magar</a></li>
+            <li>6.6% <a href="/w/index.php?title=Tharu_people&amp;action=edit&amp;redlink=1" class="new" title="Tharu people (not yet started)">Tharu</a></li>
+            <li>5.8% <a href="/w/index.php?title=Tamang_people&amp;action=edit&amp;redlink=1" class="new" title="Tamang people (not yet started)">Tamang</a></li>
+            <li>5% <a href="/wiki/Newar_people" title="Newar people">Newar</a></li>
+            <li>4.8% <a href="/w/index.php?title=Kaami_people&amp;action=edit&amp;redlink=1" class="new" title="Kaami people (not yet started)">Kami</a></li>
+            <li>4.4% <a href="/w/index.php?title=Nepalese_Muslims&amp;action=edit&amp;redlink=1" class="new" title="Nepalese Muslims (not yet started)">Musalman</a></li>
+            <li>4% <a href="/w/index.php?title=Yadav&amp;action=edit&amp;redlink=1" class="new" title="Yadav (not yet started)">Yadav</a></li>
+            <li>2.3% <a href="/w/index.php?title=Rai_people&amp;action=edit&amp;redlink=1" class="new" title="Rai people (not yet started)">Rai</a></li>
+            <li>2% <a href="/w/index.php?title=Gurung_people&amp;action=edit&amp;redlink=1" class="new" title="Gurung people (not yet started)">Gurung</a></li>
+            <li>1.8% <a href="/w/index.php?title=Damai&amp;action=edit&amp;redlink=1" class="new" title="Damai (not yet started)">Damai/Dholi</a></li>
+            <li>1.6% <a href="/w/index.php?title=Thakuri&amp;action=edit&amp;redlink=1" class="new" title="Thakuri (not yet started)">Thakuri</a></li>
+            <li>1.5% <a href="/w/index.php?title=Limbu_people&amp;action=edit&amp;redlink=1" class="new" title="Limbu people (not yet started)">Limbu</a></li>
+            <li>1.4% <a href="/w/index.php?title=Sarki_(ethnic_group)&amp;action=edit&amp;redlink=1" class="new" title="Sarki (ethnic group) (not yet started)">Sarki</a></li>
+            <li>22.9% Others</li>
+           </ul>
           </div></td>
         </tr>
         <tr>
          <th scope="row">Religion 
-          <div style="font-weight:normal;display:inline;"></div></th>
-         <td>81.3% <a href="/w/index.php?title=Hinduism_in_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Hinduism in Nepal (not yet started)">Hinduism</a><br>9% <a href="/w/index.php?title=Buddhism_in_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Buddhism in Nepal (not yet started)">Buddhism</a><br>4.4% <a href="/w/index.php?title=Islam_in_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Islam in Nepal (not yet started)">Islam</a><br>3% <a href="/w/index.php?title=Kirant_Mundhum&amp;action=edit&amp;redlink=1" class="new" title="Kirant Mundhum (not yet started)">Kirant</a><br>1.4% <a href="/w/index.php?title=Christianity_in_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Christianity in Nepal (not yet started)">Christianity</a><br>0.4% <a href="/wiki/Animism" title="Animism">Animism</a><br>0.5% <a href="/wiki/Irreligion" title="Irreligion">Irreligion</a><sup id="cite_ref-2011census_3-0" class="reference"><a href="#cite_note-2011census-3">[3]</a></sup><sup id="cite_ref-Shrestha2005_4-0" class="reference"><a href="#cite_note-Shrestha2005-4">[4]</a></sup></td>
+          <div style="font-weight:normal;display:inline;">
+            (<a href="/w/index.php?title=2011_Nepal_census&amp;action=edit&amp;redlink=1" class="new" title="2011 Nepal census (not yet started)">2011</a>)<sup id="cite_ref-FOOTNOTE2011_National_Census4_5-1" class="reference"><a href="#cite_note-FOOTNOTE2011_National_Census4-5">[5]</a></sup>
+          </div></th>
+         <td>
+          <div class="plainlist nowrap">
+           <ul style="line-height:1.3em;">
+            <li>81.3% <a href="/w/index.php?title=Hinduism_in_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Hinduism in Nepal (not yet started)">Hinduism</a></li>
+            <li>9% <a href="/w/index.php?title=Buddhism_in_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Buddhism in Nepal (not yet started)">Buddhism</a></li>
+            <li>4.4% <a href="/w/index.php?title=Islam_in_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Islam in Nepal (not yet started)">Islam</a></li>
+            <li>3.1% <a href="/w/index.php?title=Kirat_Mundhum&amp;action=edit&amp;redlink=1" class="new" title="Kirat Mundhum (not yet started)">Kirant</a></li>
+            <li>1.4% <a href="/w/index.php?title=Christianity_in_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Christianity in Nepal (not yet started)">Christianity</a></li>
+            <li>0.5% <a href="/w/index.php?title=Nature_worship&amp;action=edit&amp;redlink=1" class="new" title="Nature worship (not yet started)">Prakriti</a></li>
+            <li>0.3% Others</li>
+           </ul>
+          </div></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
-         <td><a href="/w/index.php?title=Nepalis&amp;action=edit&amp;redlink=1" class="new" title="Nepalis (not yet started)">Nepalese</a></td>
+         <td><a href="/w/index.php?title=Nepalis&amp;action=edit&amp;redlink=1" class="new" title="Nepalis (not yet started)">Nepali</a>, <a href="https://simple.wiktionary.org/wiki/Nepalese" class="extiw" title="wikt:Nepalese">Nepalese</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Membership</th>
+         <td><style data-mw-deduplicate="TemplateStyles:r6919271">.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;padding:0 0.25em 0 0;display:inline-block}.mw-parser-output .cslist li:after{content:", "}.mw-parser-output .sslist li:after{content:"; "}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none}</style>
+          <ul class="cslist">
+           <li><a href="/wiki/United_Nations" title="United Nations">UN</a></li>
+           <li><a href="/w/index.php?title=South_Asian_Association_for_Regional_Cooperation&amp;action=edit&amp;redlink=1" class="new" title="South Asian Association for Regional Cooperation (not yet started)">SAARC</a></li>
+          </ul></td>
         </tr>
         <tr>
          <th scope="row">Government</th>
@@ -199,45 +204,52 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;<a href="/wiki/President_of_Nepal" title="President of Nepal">President</a> 
           </div></th>
-         <td><a href="/wiki/Bidhya_Devi_Bhandari" title="Bidhya Devi Bhandari">Bidhya Devi Bhandari</a></td>
+         <td><a href="/wiki/Bidhya_Devi_Bhandari" title="Bidhya Devi Bhandari">Bidhya Devi Bhandari</a><sup id="cite_ref-office_6-0" class="reference"><a href="#cite_note-office-6">[6]</a></sup></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/w/index.php?title=Vice_President_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Vice President of Nepal (not yet started)">Vice President</a> 
+           •&nbsp;<a href="/wiki/Prime_Minister_of_Nepal" title="Prime Minister of Nepal">Prime Minister</a> 
           </div></th>
-         <td><a href="/w/index.php?title=Nanda_Kishor_Pun&amp;action=edit&amp;redlink=1" class="new" title="Nanda Kishor Pun (not yet started)">Nanda Kishor Pun</a></td>
+         <td><a href="/wiki/KP_Sharma_Oli" title="KP Sharma Oli">Khadga Prasad Sharma Oli</a><sup id="cite_ref-office_6-1" class="reference"><a href="#cite_note-office-6">[6]</a></sup></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/List_of_Prime_Ministers_of_Nepal" title="List of Prime Ministers of Nepal">Prime Minister</a> 
+           •&nbsp;<a href="/w/index.php?title=House_of_Representatives_(Nepal)&amp;action=edit&amp;redlink=1" class="new" title="House of Representatives (Nepal) (not yet started)">House Speaker</a> 
           </div></th>
-         <td><a href="/wiki/Khadga_Prasad_Oli" class="mw-redirect" title="Khadga Prasad Oli">Khadga Prasad Oli</a></td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/w/index.php?title=Legislature_Parliament_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Legislature Parliament of Nepal (not yet started)">Speaker of House</a> 
-          </div></th>
-         <td><a href="/w/index.php?title=Onsari_Gharti_Magar&amp;action=edit&amp;redlink=1" class="new" title="Onsari Gharti Magar (not yet started)">Onsari Gharti Magar</a></td>
+         <td><a href="/w/index.php?title=Agni_Sapkota&amp;action=edit&amp;redlink=1" class="new" title="Agni Sapkota (not yet started)">Agni Prasad Sapkota</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;<a href="/w/index.php?title=Chief_Justice_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Chief Justice of Nepal (not yet started)">Chief Justice</a> 
           </div></th>
-         <td>Chholendra Shumsher Rana</td>
+         <td><a href="/w/index.php?title=Cholendra_Shumsher_JB_Rana&amp;action=edit&amp;redlink=1" class="new" title="Cholendra Shumsher JB Rana (not yet started)">Cholendra Shumsher JB Rana</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
         </tr>
         <tr>
          <th scope="row">Legislature</th>
-         <td><a href="/w/index.php?title=Legislature_Parliament_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Legislature Parliament of Nepal (not yet started)">Parliament</a></td>
+         <td><a href="/w/index.php?title=Federal_Parliament_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Federal Parliament of Nepal (not yet started)">Federal Parliament</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Upper_house" title="Upper house">Upper house</a>
+          </div></th>
+         <td><a href="/w/index.php?title=National_Assembly_(Nepal)&amp;action=edit&amp;redlink=1" class="new" title="National Assembly (Nepal) (not yet started)">National Assembly</a></td>
+        </tr>
+        <tr class="mergedbottomrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Lower_house" title="Lower house">Lower house</a>
+          </div></th>
+         <td><a href="/w/index.php?title=House_of_Representatives_(Nepal)&amp;action=edit&amp;redlink=1" class="new" title="House of Representatives (Nepal) (not yet started)">House of Representatives</a></td>
         </tr>
         <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=Unification_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Unification of Nepal (not yet started)">Unification</a></th>
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=Unification_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Unification of Nepal (not yet started)">Formation</a></th>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -245,23 +257,37 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<span class="nowrap"><a href="/w/index.php?title=Kingdom_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Kingdom of Nepal (not yet started)">Kingdom declared</a></span> 
+           •&nbsp;<a href="/w/index.php?title=Kingdom_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Kingdom of Nepal (not yet started)">Kingdom</a> 
           </div></th>
-         <td>25 September 1768<sup id="cite_ref-Royal_Ark_5-0" class="reference"><a href="#cite_note-Royal_Ark-5">[5]</a></sup></td>
+         <td>1768<sup id="cite_ref-history_9-0" class="reference"><a href="#cite_note-history-9">[9]</a></sup></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;State declared 
+           •&nbsp;<a href="/w/index.php?title=Treaty_of_Sugauli&amp;action=edit&amp;redlink=1" class="new" title="Treaty of Sugauli (not yet started)">Treaty of Sugauli</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> 
           </div></th>
-         <td>15 January 2007</td>
+         <td>4 March 1816</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<span class="nowrap">Republic declared</span> 
+           •&nbsp;<a href="/w/index.php?title=Nepal-Britain_Treaty_of_1923&amp;action=edit&amp;redlink=1" class="new" title="Nepal-Britain Treaty of 1923 (not yet started)">Nepal-Britain Treaty of 1923</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> 
+          </div></th>
+         <td>21 December 1923</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Republic_Day_(Nepal)&amp;action=edit&amp;redlink=1" class="new" title="Republic Day (Nepal) (not yet started)">Federal Republic</a> 
           </div></th>
          <td>28 May 2008</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Constitution_of_Nepal&amp;action=edit&amp;redlink=1" class="new" title="Constitution of Nepal (not yet started)">Current constitution</a> 
+          </div></th>
+         <td>20 September 2015</td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
@@ -274,7 +300,7 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>147,516<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>&nbsp;km<sup>2</sup> (56,956&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">93rd</a>)</td>
+         <td>147,516&nbsp;km<sup>2</sup> (56,956&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">93rd</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
@@ -291,69 +317,69 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;2016 estimate
           </div></th>
-         <td>28,982,771<sup id="cite_ref-UN_WPP_8-0" class="reference"><a href="#cite_note-UN_WPP-8">[8]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">48th</a>)</td>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> 28,982,771<sup id="cite_ref-UN_WPP_12-0" class="reference"><a href="#cite_note-UN_WPP-12">[12]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">49th</a>)</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;= 2011&nbsp;census
+           •&nbsp;2011&nbsp;census
           </div></th>
-         <td>26,494,504<sup id="cite_ref-pre-cen_2-1" class="reference"><a href="#cite_note-pre-cen-2">[2]</a></sup></td>
+         <td>26,494,504<sup id="cite_ref-FOOTNOTE2011_National_Census1_13-0" class="reference"><a href="#cite_note-FOOTNOTE2011_National_Census1-13">[13]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Density
           </div></th>
-         <td>180/km<sup>2</sup> (466.2/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">62nd</a>)</td>
+         <td>180/km<sup>2</sup> (466.2/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">50th</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
-         <td>2016&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$74.020 billion<sup id="cite_ref-imf2_9-0" class="reference"><a href="#cite_note-imf2-9">[9]</a></sup></td>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $94 billion<sup id="cite_ref-imf2_14-0" class="reference"><a href="#cite_note-imf2-14">[14]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">87th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$2,573<sup id="cite_ref-imf2_9-1" class="reference"><a href="#cite_note-imf2-9">[9]</a></sup></td>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $3,318<sup id="cite_ref-imf2_14-1" class="reference"><a href="#cite_note-imf2-14">[14]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">155th</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
-         <td>2016&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td><span class="nowrap">$24.067 billion<sup id="cite_ref-imf2_9-2" class="reference"><a href="#cite_note-imf2-9">[9]</a></sup></span> ((107th))</td>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $30 billion (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">101st</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$837<sup id="cite_ref-imf2_9-3" class="reference"><a href="#cite_note-imf2-9">[9]</a></sup></td>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $1,048<sup id="cite_ref-imf2_14-2" class="reference"><a href="#cite_note-imf2-14">[14]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">159th</a>)</td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2010)</span></th>
-         <td><img alt="Negative increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/11px-Increase_Negative.svg.png" decoding="async" title="Negative increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/17px-Increase_Negative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/22px-Increase_Negative.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;32.8<sup id="cite_ref-wb-gini_10-0" class="reference"><a href="#cite_note-wb-gini-10">[10]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+         <td>32.8<sup id="cite_ref-wb-gini_15-0" class="reference"><a href="#cite_note-wb-gini-15">[15]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/w/index.php?title=List_of_countries_by_income_equality&amp;action=edit&amp;redlink=1" class="new" title="List of countries by income equality (not yet started)">115th</a></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2016)</span></th>
-         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.574<sup id="cite_ref-HDI_11-0" class="reference"><a href="#cite_note-HDI-11">[11]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">149th</a></td>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2019)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.579<sup id="cite_ref-UNHDR_16-0" class="reference"><a href="#cite_note-UNHDR-16">[16]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">147th</a></td>
         </tr>
         <tr>
          <th scope="row">Currency</th>
-         <td><a href="/w/index.php?title=Nepalese_rupee&amp;action=edit&amp;redlink=1" class="new" title="Nepalese rupee (not yet started)">Nepalese rupee</a> (<a href="/wiki/ISO_4217" title="ISO 4217">NPR</a>)</td>
+         <td><a href="/w/index.php?title=Nepalese_rupee&amp;action=edit&amp;redlink=1" class="new" title="Nepalese rupee (not yet started)">Nepalese rupee</a> (Rs, <span lang="ne" title="Nepali (macrolanguage) language text">रू</span>) (<a href="/wiki/ISO_4217" title="ISO 4217">NPR</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Time zone</th>
@@ -362,6 +388,10 @@
         <tr class="mergedbottomrow">
          <th scope="row"></th>
          <td><span class="nowrap"><i><a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a> not observed</i></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/w/index.php?title=Mains_electricity&amp;action=edit&amp;redlink=1" class="new" title="Mains electricity (not yet started)">Mains electricity</a></th>
+         <td>230 V–50 Hz<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
@@ -377,11 +407,11 @@
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
-         <td><a href="/wiki/.np" class="mw-redirect" title=".np">.np</a><br><a href="/wiki/.np" class="mw-redirect" title=".np">.नेपाल</a></td>
+         <td><a href="/wiki/.np" class="mw-redirect" title=".np">.np</a></td>
         </tr>
        </tbody>
       </table> 
-      <p><b>Nepal</b> (<a href="/wiki/Nepali_language" title="Nepali language">Nepali</a>: <span lang="ne">नेपाल</span>) is a country in <a href="/wiki/South_Asia" title="South Asia">South Asia</a> bordering the <a href="/wiki/Republic_of_India" class="mw-redirect" title="Republic of India">Republic of India</a> and the <a href="/wiki/People%27s_Republic_of_China" title="People's Republic of China">People's Republic of China</a>. <a href="/wiki/Mount_Everest" title="Mount Everest">Mount Everest</a>, the highest <a href="/wiki/Mountain" title="Mountain">mountain</a> in the world, is found there, as well as the <a href="/wiki/Himalayas" title="Himalayas">Himalaya Mountains</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> 12 of the world's highest mountain peaks are in Nepal.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> It is also the birthplace of <a href="/wiki/Buddha" title="Buddha">Buddha</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> It has recently become a <a href="/wiki/Secular" class="mw-redirect" title="Secular">secular</a> country, but before it was the only <a href="/wiki/Hinduism" title="Hinduism">Hindu</a> <a href="/wiki/Kingdom" title="Kingdom">kingdom</a> in the world. Nepal is a very important pilgrimage place for both Hindus and Buddhists. The population of Nepal in 2007 was almost 29 million people.<sup id="cite_ref-rnp_15-0" class="reference"><a href="#cite_note-rnp-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> <a href="/wiki/Nepali_language" title="Nepali language">Nepali</a> is the official language, and there are many other regional languages. <a href="/wiki/English_language" title="English language">English</a> and <a href="/wiki/Hindi" title="Hindi">Hindi</a> are widely understood. The capital city of Nepal is <a href="/wiki/Kathmandu" title="Kathmandu">Kathmandu</a> which has a population of over two million people.<sup id="cite_ref-rnp_15-1" class="reference"><a href="#cite_note-rnp-15">[15]</a></sup> The second largest city is <a href="/wiki/Pokhara" title="Pokhara">Pokhara</a>. Pokhara is a major tourist attraction of Nepal which is rich in natural beauty. Pokhara includes many lakes, <a href="/wiki/Phewa_Tal" class="mw-redirect" title="Phewa Tal">Phewa Tal</a> is one of them. </p> 
+      <p><b>Nepal</b> (<a href="/wiki/Nepali_language" title="Nepali language">Nepali</a>: <span lang="ne">नेपाल</span>) is a country in <a href="/wiki/South_Asia" title="South Asia">South Asia</a> bordering the <a href="/wiki/Republic_of_India" class="mw-redirect" title="Republic of India">Republic of India</a> and the <a href="/wiki/People%27s_Republic_of_China" title="People's Republic of China">People's Republic of China</a>. <a href="/wiki/Mount_Everest" title="Mount Everest">Mount Everest</a>, the highest <a href="/wiki/Mountain" title="Mountain">mountain</a> in the world, is found there, as well as the <a href="/wiki/Himalayas" title="Himalayas">Himalaya Mountains</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> 12 of the world's highest mountain peaks are in Nepal.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> It is also the birthplace of <a href="/wiki/Buddha" title="Buddha">Buddha</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> It has recently become a <a href="/wiki/Secular" class="mw-redirect" title="Secular">secular</a> country, but before it was the only <a href="/wiki/Hinduism" title="Hinduism">Hindu</a> <a href="/wiki/Kingdom" title="Kingdom">kingdom</a> in the world. Nepal is a very important pilgrimage place for both Hindus and Buddhists. The population of Nepal in 2007 was almost 29 million people.<sup id="cite_ref-rnp_21-0" class="reference"><a href="#cite_note-rnp-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> <a href="/wiki/Nepali_language" title="Nepali language">Nepali</a> is the official language, and there are many other regional languages. <a href="/wiki/English_language" title="English language">English</a> and <a href="/wiki/Hindi" title="Hindi">Hindi</a> are widely understood. The capital city of Nepal is <a href="/wiki/Kathmandu" title="Kathmandu">Kathmandu</a> which has a population of over two million people.<sup id="cite_ref-rnp_21-1" class="reference"><a href="#cite_note-rnp-21">[21]</a></sup> The second largest city is <a href="/wiki/Pokhara" title="Pokhara">Pokhara</a>. Pokhara is a major tourist attraction of Nepal which is rich in natural beauty. Pokhara includes many lakes, <a href="/wiki/Phewa_Tal" class="mw-redirect" title="Phewa Tal">Phewa Tal</a> is one of them. </p> 
       <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
        <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
        <div class="toctitle" lang="en" dir="ltr">
@@ -411,7 +441,7 @@
         </div>
        </div>
       </div> 
-      <p>Nepal is a <a href="/wiki/Landlocked" class="mw-redirect" title="Landlocked">landlocked country</a>, which means it is not next to any <a href="/wiki/Ocean" title="Ocean">ocean</a>, and it is surrounded by <a href="/wiki/India" title="India">India</a> and <a href="/wiki/China" title="China">China</a>. Mount Everest is on the <a href="/wiki/Border" title="Border">border</a> Nepal shares with China. Nepal is a little smaller than <a href="/wiki/Illinois" title="Illinois">Illinois</a> and <a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a>, but a little bigger than <a href="/wiki/Kyrgyzstan" title="Kyrgyzstan">Kyrgyzstan</a>. It also has the second-highest average <a href="/wiki/Elevation" title="Elevation">elevation</a> in the world at (10,715&nbsp;ft),<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> only behind <a href="/wiki/Bhutan" title="Bhutan">Bhutan</a>. </p> 
+      <p>Nepal is a <a href="/wiki/Landlocked" class="mw-redirect" title="Landlocked">landlocked country</a>, which means it is not next to any <a href="/wiki/Ocean" title="Ocean">ocean</a>, and it is surrounded by <a href="/wiki/India" title="India">India</a> and <a href="/wiki/China" title="China">China</a>. Mount Everest is on the <a href="/wiki/Border" title="Border">border</a> Nepal shares with China. Nepal is a little smaller than <a href="/wiki/Illinois" title="Illinois">Illinois</a> and <a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a>, but a little bigger than <a href="/wiki/Kyrgyzstan" title="Kyrgyzstan">Kyrgyzstan</a>. It also has the second-highest average <a href="/wiki/Elevation" title="Elevation">elevation</a> in the world at (10,715&nbsp;ft),<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> only behind <a href="/wiki/Bhutan" title="Bhutan">Bhutan</a>. </p> 
       <h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nepal&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Change section: Economy">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Nepal&amp;action=edit&amp;section=2" title="Change section: Economy">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <p>Nepal used to be an agricultural country until 1950. Since 1951 it entered the modern era and has made progress. Agriculture, however is still a major economic activity, employing 80% of the population and providing 37% of GDP. Only about 20% of the total area is cultivable; another 33% is forested; most of the rest is mountainous. Rice and wheat are the main food crops. The lowland Terai region produces an agricultural <a href="/wiki/Surplus" class="mw-disambig" title="Surplus">surplus</a>, part of which supplies the food-deficient hill areas. </p>
       <p>China is the 2nd largest exporter to Nepal, but India is the largest buyer of Nepal's goods, China's imports from Nepal are zero, thus burdening Nepal's monetary stability and monetary balance. The yearly <a href="/wiki/Monsoon" title="Monsoon">monsoon</a> rain, or lack of it, strongly influences economic growth. From 1996 to 1999, real GDP growth averaged less than 4%. The growth rate recovered in 1999, rising to 6% before slipping slightly in 2001 to 5.5%.Nepal has 1/3 of its trade with India. </p> 
@@ -436,7 +466,7 @@
         </div>
        </div>
       </div> 
-      <p>The people of Nepal belong to two main groups; <a href="/wiki/Indo-Aryan" class="mw-redirect mw-disambig" title="Indo-Aryan">Indo-Aryan</a> group and <a href="/w/index.php?title=Tibeto-Burman&amp;action=edit&amp;redlink=1" class="new" title="Tibeto-Burman (not yet started)">Tibeto-Burman</a> group. Indo-Aryans are mostly <a href="/wiki/Hindus" class="mw-redirect" title="Hindus">Hindus</a> and they celebrate Hindu festivals like <a href="/wiki/Dashain" title="Dashain">Dashain</a>, <a href="/w/index.php?title=Tihar&amp;action=edit&amp;redlink=1" class="new" title="Tihar (not yet started)">Tihar</a>, Teej, Maghe Sankranti, Krishna Janmastami, Holi, Janai Purnima, Matatirtha Aunsi, Chhath, etc. Tibeto-Burmans are Buddhist and they celebrate Lhosar, Buddha Jayanti, etc.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> </p> 
+      <p>The people of Nepal belong to two main groups; <a href="/wiki/Indo-Aryan" class="mw-redirect mw-disambig" title="Indo-Aryan">Indo-Aryan</a> group and <a href="/w/index.php?title=Tibeto-Burman&amp;action=edit&amp;redlink=1" class="new" title="Tibeto-Burman (not yet started)">Tibeto-Burman</a> group. Indo-Aryans are mostly <a href="/wiki/Hindus" class="mw-redirect" title="Hindus">Hindus</a> and they celebrate Hindu festivals like <a href="/wiki/Dashain" title="Dashain">Dashain</a>, <a href="/w/index.php?title=Tihar&amp;action=edit&amp;redlink=1" class="new" title="Tihar (not yet started)">Tihar</a>, Teej, Maghe Sankranti, Krishna Janmastami, Holi, Janai Purnima, Matatirtha Aunsi, Chhath, etc. Tibeto-Burmans are Buddhist and they celebrate Lhosar, Buddha Jayanti, etc.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </p> 
       <h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nepal&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Education">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Nepal&amp;action=edit&amp;section=4" title="Change section: Education">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <div class="thumb tright">
        <div class="thumbinner" style="width:222px;">
@@ -463,8 +493,9 @@
         </div>
        </div>
       </div> 
-      <p>Nepal is divided into 14 <a href="/wiki/Zones_of_Nepal" title="Zones of Nepal">zones</a> and 77 <a href="/wiki/Districts_of_Nepal" title="Districts of Nepal">districts</a>, grouped into five <a href="/wiki/Development_Regions_of_Nepal" title="Development Regions of Nepal">development regions</a>. Each <a href="/wiki/District" title="District">district</a> is headed by a permanent chief district <a href="/wiki/Officer" title="Officer">officer</a>. The five regions and 14 zones are:<sup id="cite_ref-statoids_19-0" class="reference"><a href="#cite_note-statoids-19">[19]</a></sup> </p> 
-      <div class="div-col columns column-width" style="column-width: 30em; -moz-column-width: 30em; -webkit-column-width: 30em;"> 
+      <p>Nepal is divided into 14 <a href="/wiki/Zones_of_Nepal" title="Zones of Nepal">zones</a> and 77 <a href="/wiki/Districts_of_Nepal" title="Districts of Nepal">districts</a>, grouped into five <a href="/wiki/Development_Regions_of_Nepal" title="Development Regions of Nepal">development regions</a>. Each <a href="/wiki/District" title="District">district</a> is headed by a permanent chief district <a href="/wiki/Officer" title="Officer">officer</a>. The five regions and 14 zones are:<sup id="cite_ref-statoids_25-0" class="reference"><a href="#cite_note-statoids-25">[25]</a></sup> </p> 
+      <style data-mw-deduplicate="TemplateStyles:r7252876">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style>
+      <div class="div-col"> 
        <ul>
         <li><a href="/wiki/Eastern_Development_Region,_Nepal" title="Eastern Development Region, Nepal">Eastern Region (Purwanchal)</a> 
          <ul>
@@ -498,11 +529,11 @@
        </ul> 
       </div> 
       <h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nepal&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Change section: Culture">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Nepal&amp;action=edit&amp;section=6" title="Change section: Culture">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <p>The official <a href="/wiki/Calendar" title="Calendar">calendar</a> of Nepal is the <a href="/wiki/Vikram_Samvat" title="Vikram Samvat">Vikram Samvat</a>, which is a <a href="/wiki/Hindu_calendar" title="Hindu calendar">Hindu calendar</a>. Their new year begins in <a href="/w/index.php?title=Baishakh&amp;action=edit&amp;redlink=1" class="new" title="Baishakh (not yet started)">Baishakh</a>, which is around mid-April. Nepal has 36 <a href="/wiki/Public_holiday" class="mw-redirect" title="Public holiday">public holidays</a> in the year. This makes Nepal the country with the most public holidays.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> </p>
+      <p>The official <a href="/wiki/Calendar" title="Calendar">calendar</a> of Nepal is the <a href="/wiki/Vikram_Samvat" title="Vikram Samvat">Vikram Samvat</a>, which is a <a href="/wiki/Hindu_calendar" title="Hindu calendar">Hindu calendar</a>. Their new year begins in <a href="/w/index.php?title=Baishakh&amp;action=edit&amp;redlink=1" class="new" title="Baishakh (not yet started)">Baishakh</a>, which is around mid-April. Nepal has 36 <a href="/wiki/Public_holiday" class="mw-redirect" title="Public holiday">public holidays</a> in the year. This makes Nepal the country with the most public holidays.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> </p>
       <p>The national cuisine of Nepal is <a href="/w/index.php?title=Dhindo&amp;action=edit&amp;redlink=1" class="new" title="Dhindo (not yet started)">Dhindo</a> and <a href="/w/index.php?title=Gundruk&amp;action=edit&amp;redlink=1" class="new" title="Gundruk (not yet started)">Gundruk</a>. Dhindo is a type of dough that is served very hot. Gundruk is a dish with <a href="/wiki/Fermentation" title="Fermentation">fermented</a> green vegetables. </p>
       <p><a href="/wiki/Association_football" title="Association football">Association football</a> is the most popular sport in Nepal. The <a href="/wiki/Nepal_national_football_team" title="Nepal national football team">Nepal national football team</a> plays at <a href="/w/index.php?title=Dasarath_Rangasala_Stadium&amp;action=edit&amp;redlink=1" class="new" title="Dasarath Rangasala Stadium (not yet started)">Dasarath Rangasala Stadium</a> in <a href="/wiki/Tripureswar" title="Tripureswar">Tripureswar</a>, <a href="/wiki/Kathmandu" title="Kathmandu">Kathmandu</a>, Nepal. </p> 
       <h2><span class="mw-headline" id="National_symbols_of_Nepal">National symbols of Nepal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nepal&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: National symbols of Nepal">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Nepal&amp;action=edit&amp;section=7" title="Change section: National symbols of Nepal">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <p>The national symbols of Nepal, according to the Interim Constitution, are:<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> </p> 
+      <p>The national symbols of Nepal, according to the Interim Constitution, are:<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> </p> 
       <ul class="gallery mw-gallery-traditional"> 
        <li class="gallerybox" style="width: 155px">
         <div style="width: 155px"> 
@@ -542,7 +573,7 @@
       <p>King Prithvi Narayan Shah of Gorkha in 1786 had invaded the Kathmandu Valley and unified Nepal. Before the unification, Nepal was ruled by various Kirats, Lichchavis, Thakuris and Mallas. The history mentioned that Kirats ruled Nepal during the 7th century BC. Though much was not known about Kirats,the Lichchavi dynasty followed the Kirats which lasted from the 2nd to 9th century AD. Nepal was ruled by the Thakuris who were followed by the Mallas for two centuries after The Lichchavis. Nepal was divided into many principalities and small kingdoms in the fifth centuries of Malla rule. </p>
       <p>Jang Bahadur Rana the then Prime Minister of Nepal revolted against the royalty in 1844. The famous Kot Massacre took place during this period in which numbers of noblemen were killed. The Rana took absolute power but continued to maintain the Shah family in the palace. The 104 years regime of Ranas came to and end due to their autocratic rules. </p>
       <p>It was in November 1950 King Tribhuvan restored democracy overthrowing the Rana regime with large number of Nepalese people support. He restored Shah Regime again in Nepal.After his death King Mahendra had ruled in Nepal from 13 March 1955 to 31 January 1972. </p>
-      <p>Birendra ruled Nepal from 31 January 1972 –1 June 2001and he was known as one of the most noble and peaceful king of Nepal. The entire family of King Birendra was massacred in June 2001 popularly Known as Royal Massacre 2001. Prince Dipendra was crowned as King while he was on coma stage, later he died in hospital bed. After the death of Diepndra, Gyanendra Shah late King Birendra’s brother succeeded as the King of Nepal. </p>
+      <p>Birendra ruled Nepal from 31 January 1972 –1 June 2001 and he was known as one of the most noble and peaceful king of Nepal. The entire family of King Birendra was massacred in June 2001 popularly Known as Royal Massacre 2001. Prince Dipendra was crowned as King while he was on coma stage, later he died in hospital bed. After the death of Diepndra, Gyanendra Shah late King Birendra’s brother succeeded as the King of Nepal. </p>
       <p> King Gyanendra Shah was dethroned in 2006 by a decade long People’s revolution led by communist party of Nepal (Maoist) and several weeks protest by major political parties and established Federal Democratic Republic of Nepal.</p>
       <div class="thumb tright">
        <div class="thumbinner" style="width:222px;">
@@ -564,50 +595,61 @@
       </ul> 
       <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nepal&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Nepal&amp;action=edit&amp;section=10" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <ul>
-       <li><a rel="nofollow" class="external text" href="http://ice.tsu.ru/index.php?option=com_content&amp;task=view&amp;id=406">Glacial Lakes and Glacial Lake Outburst Floods in Nepal. - International Centre for Integrated Mountain Development, Kathmandu, March 2011</a></li>
+       <li><a rel="nofollow" class="external text" href="http://ice.tsu.ru/index.php?option=com_content&amp;task=view&amp;id=406">Glacial Lakes and Glacial Lake Outburst Floods in Nepal. - International Centre for Integrated Mountain Development, Kathmandu, March 2011</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110901073151/http://ice.tsu.ru/index.php?option=com_content&amp;task=view&amp;id=406">Archived</a> 2011-09-01 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
       </ul> 
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap mw-references-columns">
         <ol class="references"> 
-         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ethnologue.com/country/NP">"Nepal"</a>. <i>Ethnologue</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 April</span> 2016</span>. <q>all Regional languages are now considered national language of Nepal</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ethnologue&amp;rft.atitle=Nepal&amp;rft_id=http%3A%2F%2Fwww.ethnologue.com%2Fcountry%2FNP&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-pre-cen-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-pre-cen_2-0">2.0</a></sup> <sup><a href="#cite_ref-pre-cen_2-1">2.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130418041642/http://cbs.gov.np/wp-content/uploads/2012/11/National%20Report.pdf">"National Population and Housing Census 2011 (National Report)"</a> <span class="cs1-format">(PDF)</span>. Central Bureau of Statistics (Nepal). Archived from <a rel="nofollow" class="external text" href="http://cbs.gov.np/wp-content/uploads/2012/11/National%20Report.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 18 April 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">26 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+Population+and+Housing+Census+2011+%28National+Report%29&amp;rft.pub=Central+Bureau+of+Statistics+%28Nepal%29&amp;rft_id=http%3A%2F%2Fcbs.gov.np%2Fwp-content%2Fuploads%2F2012%2F11%2FNational%2520Report.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-2011census-3"><span class="mw-cite-backlink"><a href="#cite_ref-2011census_3-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cbs.gov.np/wp-content/uploads/2012/11/National%20Report.pdf">2011 Nepal Census Report</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130418000000/http://cbs.gov.np/wp-content/uploads/2012/11/National%20Report.pdf">Archived</a> 18 April 2013 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
-         <li id="cite_note-Shrestha2005-4"><span class="mw-cite-backlink"><a href="#cite_ref-Shrestha2005_4-0">↑</a></span> <span class="reference-text"><cite id="CITEREFShrestha2005" class="citation journal cs1">Shrestha, Khadga Man (2005). <a rel="nofollow" class="external text" href="http://www.nepjol.info/index.php/VOH/article/view/85/78">"Religious Syncretism and Context of Buddhism in Modern Nepal"</a>. <i>Voice of History</i>. <b>20</b> (1): 51–60.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Voice+of+History&amp;rft.atitle=Religious+Syncretism+and+Context+of+Buddhism+in+Modern+Nepal&amp;rft.volume=20&amp;rft.issue=1&amp;rft.pages=51-60&amp;rft.date=2005&amp;rft.aulast=Shrestha&amp;rft.aufirst=Khadga+Man&amp;rft_id=http%3A%2F%2Fwww.nepjol.info%2Findex.php%2FVOH%2Farticle%2Fview%2F85%2F78&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-Royal_Ark-5"><span class="mw-cite-backlink"><a href="#cite_ref-Royal_Ark_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.royalark.net/Nepal/nepal5.htm">"Nepal5"</a>. Royalark.net<span class="reference-accessdate">. Retrieved <span class="nowrap">14 February</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nepal5&amp;rft.pub=Royalark.net&amp;rft_id=http%3A%2F%2Fwww.royalark.net%2FNepal%2Fnepal5.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://kathmandupost.com/national/2020/05/20/government-unveils-new-political-map-including-kalapani-lipulekh-and-limpiyadhura-inside-nepal-borders">https://kathmandupost.com/national/2020/05/20/government-unveils-new-political-map-including-kalapani-lipulekh-and-limpiyadhura-inside-nepal-borders</a></span> </li> 
-         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://thehimalayantimes.com/nepal/govt-officially-unveils-new-political-map-incorporating-limpiyadhura-lipulekh-kalapani/">https://thehimalayantimes.com/nepal/govt-officially-unveils-new-political-map-incorporating-limpiyadhura-lipulekh-kalapani/</a></span> </li> 
-         <li id="cite_note-UN_WPP-8"><span class="mw-cite-backlink"><a href="#cite_ref-UN_WPP_8-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://esa.un.org/unpd/wpp/DataQuery/">"World Population Prospects: The 2017 Revision"</a>. <i>ESA.UN.org</i> (custom data acquired via website). <a href="/w/index.php?title=United_Nations_Department_of_Economic_and_Social_Affairs&amp;action=edit&amp;redlink=1" class="new" title="United Nations Department of Economic and Social Affairs (not yet started)">United Nations Department of Economic and Social Affairs</a>, Population Division<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ESA.UN.org&amp;rft.atitle=World+Population+Prospects%3A+The+2017+Revision&amp;rft_id=https%3A%2F%2Fesa.un.org%2Funpd%2Fwpp%2FDataQuery%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-imf2-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_9-0">9.0</a></sup> <sup><a href="#cite_ref-imf2_9-1">9.1</a></sup> <sup><a href="#cite_ref-imf2_9-2">9.2</a></sup> <sup><a href="#cite_ref-imf2_9-3">9.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2015/02/weodata/weorept.aspx?sy=2015&amp;ey=2016&amp;scsm=1&amp;ssd=1&amp;sort=subject&amp;ds=.&amp;br=1&amp;pr1.x=34&amp;pr1.y=16&amp;c=558&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&amp;grp=0&amp;a=">"Nepal"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nepal&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2015%2F02%2Fweodata%2Fweorept.aspx%3Fsy%3D2015%26ey%3D2016%26scsm%3D1%26ssd%3D1%26sort%3Dsubject%26ds%3D.%26br%3D1%26pr1.x%3D34%26pr1.y%3D16%26c%3D558%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-wb-gini-10"><span class="mw-cite-backlink"><a href="#cite_ref-wb-gini_10-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://data.worldbank.org/indicator/SI.POV.GINI/">"Gini Index"</a>. World Bank<span class="reference-accessdate">. Retrieved <span class="nowrap">2 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gini+Index&amp;rft.pub=World+Bank&amp;rft_id=http%3A%2F%2Fdata.worldbank.org%2Findicator%2FSI.POV.GINI%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-HDI-11"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_11-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf//">"Human Development Indicators - Nepal"</a>. United Nations Development Programme. 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">22 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Indicators+-+Nepal&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2F2016_human_development_report.pdf%2F%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite id="CITEREFBuskey" class="citation book cs1">Buskey, Theresa. "II". In Alan Christopherson, M.S. (ed.). <a rel="nofollow" class="external text" href="https://www.barnesandnoble.com/w/mountain-countries-alpha-omega-publications/1007472222?ean=9781580951579"><i>History and Geography</i></a>. LIFEPAC. 804 N. 2nd Ave. E. Rock Rapids: Alpha Omega Publications, Inc. p.&nbsp;21. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-58095-157-9" title="Special:BookSources/978-1-58095-157-9"><bdi>978-1-58095-157-9</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=II&amp;rft.btitle=History+and+Geography&amp;rft.place=804+N.+2nd+Ave.+E.+Rock+Rapids&amp;rft.series=LIFEPAC&amp;rft.pages=21&amp;rft.pub=Alpha+Omega+Publications%2C+Inc.&amp;rft.isbn=978-1-58095-157-9&amp;rft.aulast=Buskey&amp;rft.aufirst=Theresa&amp;rft_id=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmountain-countries-alpha-omega-publications%2F1007472222%3Fean%3D9781580951579&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: location (<a href="/wiki/Category:CS1_maint:_location" title="Category:CS1 maint: location">link</a>)</span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.scaruffi.com/travel/tallest.html">"Highest mountains in the world"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Highest+mountains+in+the+world&amp;rft_id=https%3A%2F%2Fwww.scaruffi.com%2Ftravel%2Ftallest.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://whc.unesco.org/en/list/666">"Lumbini, the Birthplace of the Lord Buddha"</a>. <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lumbini%2C+the+Birthplace+of+the+Lord+Buddha&amp;rft.pub=UNESCO&amp;rft_id=http%3A%2F%2Fwhc.unesco.org%2Fen%2Flist%2F666&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-rnp-15"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-rnp_15-0">15.0</a></sup> <sup><a href="#cite_ref-rnp_15-1">15.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nepalvista.com/realnepal/population.php">"Real Nepal - Population"</a>. <i>nepalvista.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nepalvista.com&amp;rft.atitle=Real+Nepal+-+Population&amp;rft_id=http%3A%2F%2Fwww.nepalvista.com%2Frealnepal%2Fpopulation.php&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">nations encyclopedia, nepal, 2013, <a rel="nofollow" class="external free" href="http://www.nationsencyclopedia.com/economies/Asia-and-the-Pacific/Nepal.html">http://www.nationsencyclopedia.com/economies/Asia-and-the-Pacific/Nepal.html</a></span> </li> 
-         <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.worldatlas.com/articles/countries-with-the-highest-average-elevations.html">"Countries With The Highest Average Elevations"</a>. <i>WorldAtlas</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=WorldAtlas&amp;rft.atitle=Countries+With+The+Highest+Average+Elevations&amp;rft_id=http%3A%2F%2Fwww.worldatlas.com%2Farticles%2Fcountries-with-the-highest-average-elevations.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080509143958/http://www.nepalhomepage.com/society/festivals/festivals.html">"Festivals of Nepal"</a>. <i>web.archive.org</i>. 9 May 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=web.archive.org&amp;rft.atitle=Festivals+of+Nepal&amp;rft.date=2008-05-09&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20080509143958%2Fhttp%3A%2F%2Fwww.nepalhomepage.com%2Fsociety%2Ffestivals%2Ffestivals.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-statoids-19"><span class="mw-cite-backlink"><a href="#cite_ref-statoids_19-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.statoids.com/unp.html">"Regions of Nepal"</a>. <i>Statoids</i>. 2012-12-07<span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Statoids&amp;rft.atitle=Regions+of+Nepal&amp;rft.date=2012-12-07&amp;rft_id=http%3A%2F%2Fwww.statoids.com%2Funp.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><cite id="CITEREFJha2016" class="citation web cs1">Jha, Manish (7 October 2016). <a rel="nofollow" class="external text" href="http://nepalitimes.com/regular-columns/Economic-Class/regular-breaks,788">"Regular breaks"</a>. <i><a href="/w/index.php?title=Nepali_Times&amp;action=edit&amp;redlink=1" class="new" title="Nepali Times (not yet started)">Nepali Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nepali+Times&amp;rft.atitle=Regular+breaks&amp;rft.date=2016-10-07&amp;rft.aulast=Jha&amp;rft.aufirst=Manish&amp;rft_id=http%3A%2F%2Fnepalitimes.com%2Fregular-columns%2FEconomic-Class%2Fregular-breaks%2C788&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.worldstatesmen.org/Nepal_Interim_Constitution2007.pdf">"Final Interim Constitution of Nepal, 2063"</a> <span class="cs1-format">(pdf)</span>. <i>worldstatesmen.org</i>. 2007. p.&nbsp;2<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=worldstatesmen.org&amp;rft.atitle=Final+Interim+Constitution+of+Nepal%2C+2063&amp;rft.pages=2&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.worldstatesmen.org%2FNepal_Interim_Constitution2007.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nepalvista.com/features/plants-animals.php">"Plants, Animals and Birds of Nepal"</a>. Nepal Vista<span class="reference-accessdate">. Retrieved <span class="nowrap">14 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Plants%2C+Animals+and+Birds+of+Nepal&amp;rft.pub=Nepal+Vista&amp;rft_id=http%3A%2F%2Fwww.nepalvista.com%2Ffeatures%2Fplants-animals.php&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-Fact_Monster_Nepal-1"><span class="mw-cite-backlink"><a href="#cite_ref-Fact_Monster_Nepal_1-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.infoplease.com/world/countries/nepal">"Nepal | Facts, History &amp; News"</a>. <i>www.infoplease.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.infoplease.com&amp;rft.atitle=Nepal+%7C+Facts%2C+History+%26+News&amp;rft_id=https%3A%2F%2Fwww.infoplease.com%2Fworld%2Fcountries%2Fnepal&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Britannica_Nepal-2"><span class="mw-cite-backlink"><a href="#cite_ref-Britannica_Nepal_2-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.britannica.com/place/Nepal">"Nepal | Culture, History, &amp; People"</a>. <i>Encyclopedia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclopedia+Britannica&amp;rft.atitle=Nepal+%7C+Culture%2C+History%2C+%26+People&amp;rft_id=https%3A%2F%2Fwww.britannica.com%2Fplace%2FNepal&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-con15-3"><span class="mw-cite-backlink"><a href="#cite_ref-con15_3-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190808043521/http://www.lawcommission.gov.np/np/wp-content/uploads/2018/09/%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%8B-%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8-1.pdf">"नेपालको संविधान २०७२"</a> [Constitution of Nepal 2015] <span class="cs1-format">(PDF)</span>. 20 September 2015. Archived from <a rel="nofollow" class="external text" href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/09/%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%8B-%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8-1.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 8 August 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">16 July</span> 2019</span> – via <a href="/w/index.php?title=Nepal_Law_Commission&amp;action=edit&amp;redlink=1" class="new" title="Nepal Law Commission (not yet started)">Nepal Law Commission</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%8B+%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8+%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%A8&amp;rft.date=2015-09-20&amp;rft_id=http%3A%2F%2Fwww.lawcommission.gov.np%2Fnp%2Fwp-content%2Fuploads%2F2018%2F09%2F%25E0%25A4%25A8%25E0%25A5%2587%25E0%25A4%25AA%25E0%25A4%25BE%25E0%25A4%25B2%25E0%25A4%2595%25E0%25A5%258B-%25E0%25A4%25B8%25E0%25A4%2582%25E0%25A4%25B5%25E0%25A4%25BF%25E0%25A4%25A7%25E0%25A4%25BE%25E0%25A4%25A8-1.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFMandalNayak2019" class="citation web cs1">Mandal, Bidhi; Nayak, Ravi (9 June 2019). <a rel="nofollow" class="external text" href="https://myrepublica.nagariknetwork.com/news/66852/">"Why English?"</a>. <i><a href="/w/index.php?title=Republica_(newspaper)&amp;action=edit&amp;redlink=1" class="new" title="Republica (newspaper) (not yet started)">Republica</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Republica&amp;rft.atitle=Why+English%3F&amp;rft.date=2019-06-09&amp;rft.aulast=Mandal&amp;rft.aufirst=Bidhi&amp;rft.au=Nayak%2C+Ravi&amp;rft_id=https%3A%2F%2Fmyrepublica.nagariknetwork.com%2Fnews%2F66852%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-FOOTNOTE2011_National_Census4-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-FOOTNOTE2011_National_Census4_5-0">5.0</a></sup> <sup><a href="#cite_ref-FOOTNOTE2011_National_Census4_5-1">5.1</a></sup></span> <span class="reference-text"><a href="#CITEREF2011_National_Census">2011 National Census</a>, p.&nbsp;4.</span> </li> 
+         <li id="cite_note-office-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-office_6-0">6.0</a></sup> <sup><a href="#cite_ref-office_6-1">6.1</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://therisingnepal.org.np/news/21933">"President Bhandari administers oath of office to Oli"</a>. <i><a href="/w/index.php?title=The_Rising_Nepal&amp;action=edit&amp;redlink=1" class="new" title="The Rising Nepal (not yet started)">The Rising Nepal</a></i>. 15 February 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Rising+Nepal&amp;rft.atitle=President+Bhandari+administers+oath+of+office+to+Oli&amp;rft.date=2020-02-15&amp;rft_id=http%3A%2F%2Ftherisingnepal.org.np%2Fnews%2F21933&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200213161748/https://thehimalayantimes.com/kathmandu/newly-elected-hor-speaker-agni-sapkota-takes-oath-of-office/">"Newly elected HoR Speaker Agni Sapkota takes oath of office"</a>. <i><a href="/w/index.php?title=The_Himalayan_Times&amp;action=edit&amp;redlink=1" class="new" title="The Himalayan Times (not yet started)">The Himalayan Times</a></i>. 27 January 2020. Archived from <a rel="nofollow" class="external text" href="https://thehimalayantimes.com/kathmandu/newly-elected-hor-speaker-agni-sapkota-takes-oath-of-office/">the original</a> on 13 February 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">13 February</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Himalayan+Times&amp;rft.atitle=Newly+elected+HoR+Speaker+Agni+Sapkota+takes+oath+of+office&amp;rft.date=2020-01-27&amp;rft_id=https%3A%2F%2Fthehimalayantimes.com%2Fkathmandu%2Fnewly-elected-hor-speaker-agni-sapkota-takes-oath-of-office%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://thehimalayantimes.com/nepal/cholendra-shumsher-jb-rana-confirmed-as-chief-justice/">"Cholendra Shumsher JB Rana confirmed as Chief Justice"</a>. <i><a href="/w/index.php?title=The_Himalayan_Times&amp;action=edit&amp;redlink=1" class="new" title="The Himalayan Times (not yet started)">The Himalayan Times</a></i>. 1 January 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Himalayan+Times&amp;rft.atitle=Cholendra+Shumsher+JB+Rana+confirmed+as+Chief+Justice&amp;rft.date=2019-01-01&amp;rft_id=https%3A%2F%2Fthehimalayantimes.com%2Fnepal%2Fcholendra-shumsher-jb-rana-confirmed-as-chief-justice%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-history-9"><span class="mw-cite-backlink"><a href="#cite_ref-history_9-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://mofa.gov.np/about-nepal/history-of-nepal/">"History Of Nepal"</a>. <a href="/w/index.php?title=Ministry_of_Foreign_Affairs_(Nepal)&amp;action=edit&amp;redlink=1" class="new" title="Ministry of Foreign Affairs (Nepal) (not yet started)">Ministry of Foreign Affairs (Nepal)</a><span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=History+Of+Nepal&amp;rft.pub=Ministry+of+Foreign+Affairs+%28Nepal%29&amp;rft_id=https%3A%2F%2Fmofa.gov.np%2Fabout-nepal%2Fhistory-of-nepal%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">The Sugauli Treaty of 1816 rendered moot the degree of independence of Nepal. The sixth point of the treaty directly questions the degree of independence of Nepal. The fact that any differences between Nepal and Sikkim will be "referred to the arbitration of the East India Company" sees Nepal as a semi-independent or a vassal state or tributary of the British empire.</span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Formal recognition of Nepal as an independent and sovereign state by Great Britain.</span> </li> 
+         <li id="cite_note-UN_WPP-12"><span class="mw-cite-backlink"><a href="#cite_ref-UN_WPP_12-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://esa.un.org/unpd/wpp/DataQuery/">"World Population Prospects: The 2017 Revision"</a>. <i>ESA.UN.org</i> (custom data acquired via website). <a href="/w/index.php?title=United_Nations_Department_of_Economic_and_Social_Affairs&amp;action=edit&amp;redlink=1" class="new" title="United Nations Department of Economic and Social Affairs (not yet started)">United Nations Department of Economic and Social Affairs</a>, Population Division<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ESA.UN.org&amp;rft.atitle=World+Population+Prospects%3A+The+2017+Revision&amp;rft_id=https%3A%2F%2Fesa.un.org%2Funpd%2Fwpp%2FDataQuery%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-FOOTNOTE2011_National_Census1-13"><span class="mw-cite-backlink"><a href="#cite_ref-FOOTNOTE2011_National_Census1_13-0">↑</a></span> <span class="reference-text"><a href="#CITEREF2011_National_Census">2011 National Census</a>, p.&nbsp;1.</span> </li> 
+         <li id="cite_note-imf2-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_14-0">14.0</a></sup> <sup><a href="#cite_ref-imf2_14-1">14.1</a></sup> <sup><a href="#cite_ref-imf2_14-2">14.2</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=70&amp;pr.y=12&amp;sy=2019&amp;ey=2019&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=558&amp;s=NGDPD,PPPGDP,NGDPDPC,PPPPC&amp;grp=0&amp;a=">"Report for Selected Countries and Subjects"</a>. IMF<span class="reference-accessdate">. Retrieved <span class="nowrap">15 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+for+Selected+Countries+and+Subjects&amp;rft.pub=IMF&amp;rft_id=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2019%2F02%2Fweodata%2Fweorept.aspx%3Fpr.x%3D70%26pr.y%3D12%26sy%3D2019%26ey%3D2019%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D558%26s%3DNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-wb-gini-15"><span class="mw-cite-backlink"><a href="#cite_ref-wb-gini_15-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://data.worldbank.org/indicator/SI.POV.GINI?locations=NP">"Gini Index (World Bank Estimate) - Nepal"</a>. <a href="/wiki/World_Bank" title="World Bank">World Bank</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140608054636/http://data.worldbank.org/indicator/SI.POV.GINI">Archived</a> from the original on 8 June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gini+Index+%28World+Bank+Estimate%29+-+Nepal&amp;rft.pub=World+Bank&amp;rft_id=https%3A%2F%2Fdata.worldbank.org%2Findicator%2FSI.POV.GINI%3Flocations%3DNP&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UNHDR-16"><span class="mw-cite-backlink"><a href="#cite_ref-UNHDR_16-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/content/2019-human-development-index-ranking">"Human Development Report 2019"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">United Nations Development Programme</a>. 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2019&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2019&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fcontent%2F2019-human-development-index-ranking&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation cs2"><a rel="nofollow" class="external text" href="http://www.lawcommission.gov.np/en/archives/5067">"Voltage, Frequency and Power Factor of Electricity"</a>, <i>Electricity Rules, 2050 (1993)</i> (Regulation), 1993<span class="reference-accessdate">, retrieved <span class="nowrap">17 April</span> 2020</span> – via <a href="/w/index.php?title=Nepal_Law_Commission&amp;action=edit&amp;redlink=1" class="new" title="Nepal Law Commission (not yet started)">Nepal Law Commission</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Voltage%2C+Frequency+and+Power+Factor+of+Electricity&amp;rft.btitle=Electricity+Rules%2C+2050+%281993%29&amp;rft.date=1993&amp;rft_id=http%3A%2F%2Fwww.lawcommission.gov.np%2Fen%2Farchives%2F5067&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFBuskey" class="citation book cs1">Buskey, Theresa. "II". In Alan Christopherson, M.S. (ed.). <a rel="nofollow" class="external text" href="https://www.barnesandnoble.com/w/mountain-countries-alpha-omega-publications/1007472222?ean=9781580951579"><i>History and Geography</i></a>. LIFEPAC. 804 N. 2nd Ave. E. Rock Rapids: Alpha Omega Publications, Inc. p.&nbsp;21. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-58095-157-9" title="Special:BookSources/978-1-58095-157-9"><bdi>978-1-58095-157-9</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=II&amp;rft.btitle=History+and+Geography&amp;rft.place=804+N.+2nd+Ave.+E.+Rock+Rapids&amp;rft.series=LIFEPAC&amp;rft.pages=21&amp;rft.pub=Alpha+Omega+Publications%2C+Inc.&amp;rft.isbn=978-1-58095-157-9&amp;rft.aulast=Buskey&amp;rft.aufirst=Theresa&amp;rft_id=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fmountain-countries-alpha-omega-publications%2F1007472222%3Fean%3D9781580951579&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: location (<a href="/wiki/Category:CS1_maint:_location" title="Category:CS1 maint: location">link</a>)</span></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.scaruffi.com/travel/tallest.html">"Highest mountains in the world"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Highest+mountains+in+the+world&amp;rft_id=https%3A%2F%2Fwww.scaruffi.com%2Ftravel%2Ftallest.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://whc.unesco.org/en/list/666">"Lumbini, the Birthplace of the Lord Buddha"</a>. <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lumbini%2C+the+Birthplace+of+the+Lord+Buddha&amp;rft.pub=UNESCO&amp;rft_id=http%3A%2F%2Fwhc.unesco.org%2Fen%2Flist%2F666&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-rnp-21"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-rnp_21-0">21.0</a></sup> <sup><a href="#cite_ref-rnp_21-1">21.1</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nepalvista.com/realnepal/population.php">"Real Nepal - Population"</a>. <i>nepalvista.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nepalvista.com&amp;rft.atitle=Real+Nepal+-+Population&amp;rft_id=http%3A%2F%2Fwww.nepalvista.com%2Frealnepal%2Fpopulation.php&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">nations encyclopedia, nepal, 2013, <a rel="nofollow" class="external free" href="http://www.nationsencyclopedia.com/economies/Asia-and-the-Pacific/Nepal.html">http://www.nationsencyclopedia.com/economies/Asia-and-the-Pacific/Nepal.html</a></span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.worldatlas.com/articles/countries-with-the-highest-average-elevations.html">"Countries With The Highest Average Elevations"</a>. <i>WorldAtlas</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=WorldAtlas&amp;rft.atitle=Countries+With+The+Highest+Average+Elevations&amp;rft_id=http%3A%2F%2Fwww.worldatlas.com%2Farticles%2Fcountries-with-the-highest-average-elevations.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080509143958/http://www.nepalhomepage.com/society/festivals/festivals.html">"Festivals of Nepal"</a>. <i>web.archive.org</i>. 9 May 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=web.archive.org&amp;rft.atitle=Festivals+of+Nepal&amp;rft.date=2008-05-09&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20080509143958%2Fhttp%3A%2F%2Fwww.nepalhomepage.com%2Fsociety%2Ffestivals%2Ffestivals.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-statoids-25"><span class="mw-cite-backlink"><a href="#cite_ref-statoids_25-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.statoids.com/unp.html">"Regions of Nepal"</a>. <i>Statoids</i>. 2012-12-07<span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Statoids&amp;rft.atitle=Regions+of+Nepal&amp;rft.date=2012-12-07&amp;rft_id=http%3A%2F%2Fwww.statoids.com%2Funp.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFJha2016" class="citation web cs1">Jha, Manish (7 October 2016). <a rel="nofollow" class="external text" href="http://nepalitimes.com/regular-columns/Economic-Class/regular-breaks,788">"Regular breaks"</a>. <i><a href="/w/index.php?title=Nepali_Times&amp;action=edit&amp;redlink=1" class="new" title="Nepali Times (not yet started)">Nepali Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nepali+Times&amp;rft.atitle=Regular+breaks&amp;rft.date=2016-10-07&amp;rft.aulast=Jha&amp;rft.aufirst=Manish&amp;rft_id=http%3A%2F%2Fnepalitimes.com%2Fregular-columns%2FEconomic-Class%2Fregular-breaks%2C788&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.worldstatesmen.org/Nepal_Interim_Constitution2007.pdf">"Final Interim Constitution of Nepal, 2063"</a> <span class="cs1-format">(pdf)</span>. <i>worldstatesmen.org</i>. 2007. p.&nbsp;2<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=worldstatesmen.org&amp;rft.atitle=Final+Interim+Constitution+of+Nepal%2C+2063&amp;rft.pages=2&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.worldstatesmen.org%2FNepal_Interim_Constitution2007.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
+         <li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nepalvista.com/features/plants-animals.php">"Plants, Animals and Birds of Nepal"</a>. Nepal Vista<span class="reference-accessdate">. Retrieved <span class="nowrap">14 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Plants%2C+Animals+and+Birds+of+Nepal&amp;rft.pub=Nepal+Vista&amp;rft_id=http%3A%2F%2Fwww.nepalvista.com%2Ffeatures%2Fplants-animals.php&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ANepal" class="Z3988"></span></span> </li> 
         </ol>
        </div>
       </div> 
@@ -636,52 +678,49 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1306
-Cached time: 20201216002105
+Parsed by mw1338
+Cached time: 20210114003040
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.060 seconds
-Real time usage: 1.311 seconds
-Preprocessor visited node count: 4927/1000000
-Post‐expand include size: 122014/2097152 bytes
-Template argument size: 18208/2097152 bytes
+CPU time usage: 1.124 seconds
+Real time usage: 1.351 seconds
+Preprocessor visited node count: 4866/1000000
+Post‐expand include size: 129831/2097152 bytes
+Template argument size: 18517/2097152 bytes
 Highest expansion depth: 18/40
-Expensive parser function count: 7/500
+Expensive parser function count: 6/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 60763/5000000 bytes
-Lua time usage: 0.527/10.000 seconds
-Lua memory usage: 28847047/52428800 bytes
-Number of Wikibase entities loaded: 0/400
+Unstrip post‐expand size: 77390/5000000 bytes
+Lua time usage: 0.750/10.000 seconds
+Lua memory usage: 30783894/52428800 bytes
+Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1124.304      1 -total
- 65.49%  736.307      1 Template:Infobox_country
- 63.74%  716.613      3 Template:Infobox
- 26.39%  296.659      1 Template:Reflist
- 19.16%  215.394      1 Template:Unbulleted_list
- 18.44%  207.307     15 Template:Cite_web
- 17.72%  199.233      1 Template:Nobold
- 15.63%  175.784      1 Template:Native_name
- 15.53%  174.570      5 Template:Lang
-  6.33%   71.134      1 Template:Update_inline
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:14411-0!canonical and timestamp 20201216002105 and revision id 7206138. Serialized with JSON.
+100.00% 1223.686      1 -total
+ 70.37%  861.113      1 Template:Infobox_country
+ 69.84%  854.573      3 Template:Infobox
+ 24.44%  299.056      1 Template:Coord
+ 23.17%  283.479      1 Template:Reflist
+ 16.65%  203.712     18 Template:Cite_web
+ 13.96%  170.801      1 Template:Ubl
+ 12.78%  156.361      1 Template:Native_name
+ 12.68%  155.145      4 Template:Lang
+  4.30%   52.592      3 Template:ISO_3166_code
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:14411-0!canonical and timestamp 20210114003040 and revision id 7254816. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Nepal&amp;oldid=7206138">https://simple.wikipedia.org/w/index.php?title=Nepal&amp;oldid=7206138</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Nepal&amp;oldid=7254816">https://simple.wikipedia.org/w/index.php?title=Nepal&amp;oldid=7254816</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
      <div id="mw-normal-catlinks" class="mw-normal-catlinks">
       <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
       <ul>
-       <li><a href="/w/index.php?title=Category:Articles_containing_Nepali_(macrolanguage)-language_text&amp;action=edit&amp;redlink=1" class="new" title="Category:Articles containing Nepali (macrolanguage)-language text (not yet started)">Articles containing Nepali (macrolanguage)-language text</a></li>
-       <li><a href="/w/index.php?title=Category:Wikipedia_articles_in_need_of_updating_from_September_2017&amp;action=edit&amp;redlink=1" class="new" title="Category:Wikipedia articles in need of updating from September 2017 (not yet started)">Wikipedia articles in need of updating from September 2017</a></li>
-       <li><a href="/w/index.php?title=Category:All_Wikipedia_articles_in_need_of_updating&amp;action=edit&amp;redlink=1" class="new" title="Category:All Wikipedia articles in need of updating (not yet started)">All Wikipedia articles in need of updating</a></li>
        <li><a href="/wiki/Category:Nepal" title="Category:Nepal">Nepal</a></li>
        <li><a href="/wiki/Category:Former_monarchies_of_Asia" title="Category:Former monarchies of Asia">Former monarchies of Asia</a></li>
        <li><a href="/wiki/Category:Least_developed_countries" title="Category:Least developed countries">Least developed countries</a></li>
@@ -690,14 +729,13 @@ Transclusion expansion time report (%,ms,calls,template)
      <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
       Hidden categories: 
       <ul>
-       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
        <li><a href="/wiki/Category:CS1_maint:_location" title="Category:CS1 maint: location">CS1 maint: location</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Nepali_(macrolanguage)-language_text" title="Category:Articles containing Nepali (macrolanguage)-language text">Articles containing Nepali (macrolanguage)-language text</a></li>
        <li><a href="/wiki/Category:Articles_containing_Sanskrit-language_text" title="Category:Articles containing Sanskrit-language text">Articles containing Sanskrit-language text</a></li>
-       <li><a href="/wiki/Category:Articles_containing_explicitly_cited_English-language_text" title="Category:Articles containing explicitly cited English-language text">Articles containing explicitly cited English-language text</a></li>
-       <li><a href="/wiki/Category:Articles_with_invalid_date_parameter_in_template" title="Category:Articles with invalid date parameter in template">Articles with invalid date parameter in template</a></li>
-       <li><a href="/wiki/Category:Pages_using_collapsible_list_with_both_background_and_text-align_in_titlestyle" title="Category:Pages using collapsible list with both background and text-align in titlestyle">Pages using collapsible list with both background and text-align in titlestyle</a></li>
+       <li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li>
        <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
        <li><a href="/wiki/Category:Pages_using_div_col_with_unknown_parameters" title="Category:Pages using div col with unknown parameters">Pages using div col with unknown parameters</a></li>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
       </ul>
      </div>
     </div> 
@@ -772,9 +810,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -798,9 +836,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nepal" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Nepal&amp;oldid=7206138" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Nepal&amp;oldid=7254816" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Nepal&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nepal&amp;id=7206138&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nepal&amp;id=7254816&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q837" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -1074,7 +1112,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 8 December 2020, at 13:39.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 7 January 2021, at 20:20.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1092,8 +1130,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.060","walltime":"1.311","ppvisitednodes":{"value":4927,"limit":1000000},"postexpandincludesize":{"value":122014,"limit":2097152},"templateargumentsize":{"value":18208,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":60763,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1124.304      1 -total"," 65.49%  736.307      1 Template:Infobox_country"," 63.74%  716.613      3 Template:Infobox"," 26.39%  296.659      1 Template:Reflist"," 19.16%  215.394      1 Template:Unbulleted_list"," 18.44%  207.307     15 Template:Cite_web"," 17.72%  199.233      1 Template:Nobold"," 15.63%  175.784      1 Template:Native_name"," 15.53%  174.570      5 Template:Lang","  6.33%   71.134      1 Template:Update_inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.527","limit":"10.000"},"limitreport-memusage":{"value":28847047,"limit":52428800}},"cachereport":{"origin":"mw1306","timestamp":"20201216002105","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nepal","url":"https:\/\/simple.wikipedia.org\/wiki\/Nepal","sameAs":"http:\/\/www.wikidata.org\/entity\/Q837","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q837","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-19T14:02:22Z","dateModified":"2020-12-08T13:39:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9b\/Flag_of_Nepal.svg","headline":"sovereign state in South Asia"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":249,"wgHostname":"mw1355"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.124","walltime":"1.351","ppvisitednodes":{"value":4866,"limit":1000000},"postexpandincludesize":{"value":129831,"limit":2097152},"templateargumentsize":{"value":18517,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":77390,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1223.686      1 -total"," 70.37%  861.113      1 Template:Infobox_country"," 69.84%  854.573      3 Template:Infobox"," 24.44%  299.056      1 Template:Coord"," 23.17%  283.479      1 Template:Reflist"," 16.65%  203.712     18 Template:Cite_web"," 13.96%  170.801      1 Template:Ubl"," 12.78%  156.361      1 Template:Native_name"," 12.68%  155.145      4 Template:Lang","  4.30%   52.592      3 Template:ISO_3166_code"]},"scribunto":{"limitreport-timeusage":{"value":"0.750","limit":"10.000"},"limitreport-memusage":{"value":30783894,"limit":52428800}},"cachereport":{"origin":"mw1338","timestamp":"20210114003040","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nepal","url":"https:\/\/simple.wikipedia.org\/wiki\/Nepal","sameAs":"http:\/\/www.wikidata.org\/entity\/Q837","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q837","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-19T14:02:22Z","dateModified":"2021-01-07T20:20:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a2\/New_Emblem_of_Nepal.svg","headline":"sovereign state in South Asia"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":211,"wgHostname":"mw1327"});});</script> 
  </body>
 </html>

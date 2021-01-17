@@ -3,21 +3,21 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Spain - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@VDvQpAML8AAAbOxOMAAABS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Spain","wgTitle":"Spain","wgCurRevisionId":7223523,"wgRevisionId":7223523,"wgArticleId":219832,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","CS1 errors: empty unknown parameters","Articles containing Spanish-language text","Articles containing Catalan-language text","Articles containing Basque-language text","Articles containing Galician-language text","Pages using collapsible list with both background and text-align in titlestyle",
-"Articles containing Latin-language text","Articles containing Occitan (post 1500)-language text","Members of NATO","Spain","European Union member states","Current monarchies","Spanish-speaking countries"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Spain","wgRelevantArticleId":219832,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,
-"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q29"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
-"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YACngQpAAMEAAEh7WVEAAAAS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Spain","wgTitle":"Spain","wgCurRevisionId":7267270,"wgRevisionId":7267270,"wgArticleId":219832,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","CS1 errors: empty unknown parameters","Articles containing Spanish-language text","Articles containing Catalan-language text","Articles containing Basque-language text","Articles containing Galician-language text","Articles containing Occitan (post 1500)-language text",
+"Pages using collapsible list with both background and text-align in titlestyle","Articles containing Latin-language text","Commons link is defined as the pagename","Members of NATO","Spain","European Union member states","Current monarchies","Spanish-speaking countries"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Spain","wgRelevantArticleId":219832,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q29"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
-  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EU-Spain_%28orthographic_projection%29.svg/1200px-EU-Spain_%28orthographic_projection%29.svg.png"> 
   <link rel="preconnect" href="//upload.wikimedia.org"> 
   <link rel="alternate" media="only screen and (max-width: 720px)" href="//simple.m.wikipedia.org/wiki/Spain"> 
   <link rel="alternate" type="application/x-wiki" title="change this page" href="/w/index.php?title=Spain&amp;action=edit"> 
@@ -50,390 +50,81 @@
     <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
     <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
      <div class="mw-parser-output">
-      <table class="infobox geography vcard" style="width:22em;font-size:88%;">
-       <tbody>
-        <tr>
-         <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
-          <div style="display:inline" class="fn org country-name">
-           Kingdom of Spain (Colony of Spain)
-          </div><br>
-          <div style="padding-top:0.25em; font-weight:normal;">
-           <i lang="es" title="Spanish language text">Reino de España</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>)</span>
-           <br>
-           <div style="display:inline" class="fn org country-name">
-            <div class="NavFrame collapsed" style="border: none; padding: 0;"> 
-             <div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:transparent;text-align:center;line-height:normal;font-size:84%;">
-              <span style="font-size:1.0 em;">4 other official names</span><sup id="cite_ref-a_2-0" class="reference"><a href="#cite_note-a-2">[a]</a></sup><sup id="cite_ref-b_3-0" class="reference"><a href="#cite_note-b-3">[b]</a></sup>
-             </div> 
-             <ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
-              <li style="line-height: inherit; margin: 0">
-               <table style="padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent;font-size:80%;font-weight:normal;">
-                <tbody>
-                 <tr class="mergedrow">
-                  <th scope="row"><a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>:</th>
-                  <td><i lang="ca" title="Catalan language text">Regne d'Espanya</i></td>
-                 </tr>
-                 <tr class="mergedrow">
-                  <th scope="row"><a href="/wiki/Basque_language" title="Basque language">Basque</a>:</th>
-                  <td><i lang="eu" title="Basque language text">Espainiako Erresuma</i></td>
-                 </tr>
-                 <tr class="mergedrow">
-                  <th scope="row"><a href="/wiki/Galician_language" title="Galician language">Galician</a>:</th>
-                  <td><i lang="gl" title="Galician language text">Reino de España</i></td>
-                 </tr>
-                 <tr class="mergedrow">
-                  <th scope="row"><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>:</th>
-                  <td><i lang="oc" title="Occitan (post 1500) language text">Reiaume d'Espanha</i></td>
-                 </tr>
-                </tbody>
-               </table> </li>
-             </ul> 
-            </div>
-           </div>
-          </div></th>
-        </tr>
-        <tr>
-         <td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;">
-          <div style="display:table; width:100%;"> 
-           <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;"> 
-            <div style="padding-bottom:3px;">
-             <a href="/wiki/File:Flag_of_Spain.svg" class="image" title="Flag of Spain"><img alt="Flag of Spain" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png" decoding="async" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/188px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/250px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500"></a>
-            </div> 
-            <div style="font-size:90%;">
-             <a href="/wiki/Flag_of_Spain" title="Flag of Spain">Flag</a>
-            </div> 
-           </div> 
-           <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;"> 
-            <div style="padding-bottom:3px;">
-             <a href="/wiki/File:Coat_of_Arms_of_Spain.svg" class="image" title="Coat of arms of Spain"><img alt="Coat of arms of Spain" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Coat_of_Arms_of_Spain.svg/85px-Coat_of_Arms_of_Spain.svg.png" decoding="async" width="85" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Coat_of_Arms_of_Spain.svg/128px-Coat_of_Arms_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Coat_of_Arms_of_Spain.svg/170px-Coat_of_Arms_of_Spain.svg.png 2x" data-file-width="862" data-file-height="951"></a>
-            </div> 
-            <div style="font-size:90%;">
-             <a href="/wiki/Coat_of_arms_of_Spain" class="mw-redirect" title="Coat of arms of Spain"> Coat of arms</a>
-            </div> 
-           </div> 
-          </div></td>
-        </tr>
-        <tr>
-         <td colspan="2" style="text-align:center">
-          <div style="line-height:1.2em;">
-           <b>Motto:&nbsp;</b><span lang="la" style="font-style: normal;" title="Latin language text">"<a href="/w/index.php?title=Plus_ultra&amp;action=edit&amp;redlink=1" class="new" title="Plus ultra (not yet started)">Plus ultra</a>"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>)</span> 
-           <br> <span style="font-size:85%;">"Further Beyond"</span>
-          </div></td>
-        </tr>
-        <tr>
-         <td colspan="2" class="anthem" style="text-align:center">
-          <div style="line-height:1.2em;">
-           <b>Anthem:&nbsp;</b><span lang="es" style="font-style: normal;" title="Spanish language text">"<a href="/wiki/Marcha_Real" title="Marcha Real">Marcha Real</a>"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>)</span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup> 
-           <br> <span style="font-size:85%;">"Royal March"</span> 
-           <br> 
-           <div class="center">
-            <div class="floatnone">
-             <div class="mediaContainer" style="width:220px">
-              <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="61.933401360544" data-startoffset="0" data-mwtitle="Marcha_Real-Royal_March_by_US_Navy_Band.ogg" data-mwprovider="wikimediacommons">
-               <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg/Marcha_Real-Royal_March_by_US_Navy_Band.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="194720">
-               <source src="//upload.wikimedia.org/wikipedia/commons/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (334 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="334039">
-              </audio>
-             </div>
-            </div>
-           </div>
-          </div></td>
-        </tr>
-        <tr>
-         <td colspan="2" style="text-align:center">
-          <div class="switcher-container">
-           <div>
-            <a href="/wiki/File:EU-Spain_(orthographic_projection).svg" class="image"><img alt="EU-Spain (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EU-Spain_%28orthographic_projection%29.svg/220px-EU-Spain_%28orthographic_projection%29.svg.png" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EU-Spain_%28orthographic_projection%29.svg/330px-EU-Spain_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EU-Spain_%28orthographic_projection%29.svg/440px-EU-Spain_%28orthographic_projection%29.svg.png 2x" data-file-width="2000" data-file-height="2000"></a><span class="switcher-label" style="display:none" data-switcher-default="">Show globe</span>
-           </div>
-           <div>
-            <a href="/wiki/File:EU-Spain.svg" class="image"><img alt="EU-Spain.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Spain.svg/250px-EU-Spain.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Spain.svg/375px-EU-Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Spain.svg/500px-EU-Spain.svg.png 2x" data-file-width="2045" data-file-height="1720"></a><span class="switcher-label" style="display:none">Show map of Europe</span>
-           </div>
-          </div>
-          <div style="position:relative;top:0.3em;">
-           <div style="text-align:center;font-size:11px;line-height:1.15em;">
-            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">Spain</span><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark green</span>)</span>
-            <p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&nbsp;on the <a href="/wiki/Europe" title="Europe">European continent</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green &amp;&nbsp;dark grey</span>)<br>–&nbsp;in the <a href="/wiki/European_Union" title="European Union">European Union</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green</span>)</p>
-           </div>
-          </div></td>
-        </tr>
-        <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Spain_-_Location_Map_(2013)_-_ESP_-_UNOCHA.svg" class="image" title="Location of Spain"><img alt="Location of Spain" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Spain_-_Location_Map_%282013%29_-_ESP_-_UNOCHA.svg/250px-Spain_-_Location_Map_%282013%29_-_ESP_-_UNOCHA.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Spain_-_Location_Map_%282013%29_-_ESP_-_UNOCHA.svg/375px-Spain_-_Location_Map_%282013%29_-_ESP_-_UNOCHA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Spain_-_Location_Map_%282013%29_-_ESP_-_UNOCHA.svg/500px-Spain_-_Location_Map_%282013%29_-_ESP_-_UNOCHA.svg.png 2x" data-file-width="250" data-file-height="250"></a></td>
-        </tr>
-        <tr>
-         <th scope="row">Capital<br>
-          <div style="font-weight:normal">
-           and largest city
-          </div></th>
-         <td><a href="/wiki/Madrid" title="Madrid">Madrid</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Spain&amp;params=40_26_N_3_42_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°26′N</span> <span class="longitude">3°42′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.433°N 3.700°W</span><span style="display:none">﻿ / <span class="geo">40.433; -3.700</span></span></span></a></span></td>
-        </tr>
-        <tr>
-         <th scope="row">Official language <br> <span class="nowrap">
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r6670383"><span class="nobold">and national language</span></span></th>
-         <td><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a><sup id="cite_ref-c_6-0" class="reference"><a href="#cite_note-c-6">[c]</a></sup></td>
-        </tr>
-        <tr>
-         <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
-          <div style="font-weight:normal;display:inline;">
-            (2019)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[4]</a></sup>
-          </div></th>
-         <td>
-          <div class="plainlist">
-           <ul>
-            <li>89.67% <a href="/wiki/Spaniards" class="mw-redirect" title="Spaniards">Spaniards</a></li>
-            <li>10.33% others</li>
-           </ul>
-          </div></td>
-        </tr>
-        <tr>
-         <th scope="row">Religion 
-          <div style="font-weight:normal;display:inline;">
-            (2019)<sup id="cite_ref-CIS2019_8-0" class="reference"><a href="#cite_note-CIS2019-8">[5]</a></sup>
-          </div></th>
-         <td>
-          <div class="plainlist">
-           <ul>
-            <li style="white-space:nowrap;">67.0% <a href="/wiki/Catholicism" title="Catholicism">Catholicism</a></li>
-            <li style="white-space:nowrap;">27.2% <a href="/wiki/Irreligion" title="Irreligion">No religion</a></li>
-            <li style="white-space:nowrap;">3.1% Other religions</li>
-           </ul>
-          </div></td>
-        </tr>
-        <tr>
-         <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
-         <td>
-          <div class="hlist hlist-separated">
-           <ul>
-            <li><a href="/wiki/Spaniards" class="mw-redirect" title="Spaniards">Spanish</a></li>
-            <li><a href="/wiki/Spaniards" class="mw-redirect" title="Spaniards">Spaniard</a></li>
-           </ul>
-          </div></td>
-        </tr>
-        <tr>
-         <th scope="row">Government</th>
-         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a>&nbsp;<a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a> <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a></td>
-        </tr>
-        <tr class="mergedrow">
-         <td colspan="2" style="text-align:center"></td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/Monarchy_of_Spain" title="Monarchy of Spain">Monarch</a> 
-          </div></th>
-         <td><a href="/wiki/Felipe_VI" class="mw-redirect" title="Felipe VI">Felipe VI</a></td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/Prime_Minister_of_Spain" title="Prime Minister of Spain">Prime Minister</a> 
-          </div></th>
-         <td><a href="/wiki/Pedro_S%C3%A1nchez" title="Pedro Sánchez">Pedro Sánchez</a></td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/w/index.php?title=President_of_the_Spanish_Senate&amp;action=edit&amp;redlink=1" class="new" title="President of the Spanish Senate (not yet started)">President of the Senate</a> 
-          </div></th>
-         <td><a href="/w/index.php?title=Manuel_Cruz_Rodr%C3%ADguez&amp;action=edit&amp;redlink=1" class="new" title="Manuel Cruz Rodríguez (not yet started)">Manuel Cruz Rodríguez</a></td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/President_of_the_Congress_of_Deputies" title="President of the Congress of Deputies">President of the Congress of Deputies</a> 
-          </div></th>
-         <td><a href="/wiki/Meritxell_Batet" title="Meritxell Batet">Meritxell Batet</a></td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/w/index.php?title=President_of_the_Supreme_Court_of_Spain&amp;action=edit&amp;redlink=1" class="new" title="President of the Supreme Court of Spain (not yet started)">President of the Supreme Court</a> 
-          </div></th>
-         <td><a href="/w/index.php?title=Carlos_Lesmes_Serrano&amp;action=edit&amp;redlink=1" class="new" title="Carlos Lesmes Serrano (not yet started)">Carlos Lesmes Serrano</a></td>
-        </tr>
-        <tr style="display:none">
-         <td colspan="2"> </td>
-        </tr>
-        <tr>
-         <th scope="row">Legislature</th>
-         <td><a href="/wiki/Cortes_Generales" title="Cortes Generales">Cortes Generales</a></td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/Upper_house" title="Upper house">Upper house</a>
-          </div></th>
-         <td><a href="/wiki/Senate_of_Spain" title="Senate of Spain">Senate</a></td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/wiki/Lower_house" title="Lower house">Lower house</a>
-          </div></th>
-         <td><a href="/wiki/Congress_of_Deputies" title="Congress of Deputies">Congress of Deputies</a></td>
-        </tr>
-        <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/History_of_Spain" title="History of Spain">Formation</a></th>
-        </tr>
-        <tr class="mergedrow">
-         <td colspan="2" style="text-align:center"></td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/w/index.php?title=Catholic_Monarchs&amp;action=edit&amp;redlink=1" class="new" title="Catholic Monarchs (not yet started)"><i>De facto</i></a> 
-          </div></th>
-         <td>20 January 1479</td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<i><a href="/w/index.php?title=Nueva_Planta_decrees&amp;action=edit&amp;redlink=1" class="new" title="Nueva Planta decrees (not yet started)">De jure</a></i> 
-          </div></th>
-         <td>9 June 1715</td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/w/index.php?title=Spanish_Constitution_of_1812&amp;action=edit&amp;redlink=1" class="new" title="Spanish Constitution of 1812 (not yet started)">First constitution</a> 
-          </div></th>
-         <td>19 March 1812</td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<span class="nowrap"><a href="/w/index.php?title=Spanish_transition_to_democracy&amp;action=edit&amp;redlink=1" class="new" title="Spanish transition to democracy (not yet started)">Current democracy</a></span> 
-          </div></th>
-         <td><a href="/w/index.php?title=Spanish_Constitution_of_1978&amp;action=edit&amp;redlink=1" class="new" title="Spanish Constitution of 1978 (not yet started)">29 December 1978</a></td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<span class="nowrap"><a href="/w/index.php?title=Enlargement_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="Enlargement of the European Union (not yet started)">EEC accession</a></span><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[d]</a></sup> 
-          </div></th>
-         <td>1 January 1986</td>
-        </tr>
-        <tr style="display:none">
-         <td colspan="2"> </td>
-        </tr>
-        <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;">Area</th>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Total
-          </div></th>
-         <td>505,990<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[6]</a></sup>&nbsp;km<sup>2</sup> (195,360&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">51st</a>)</td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Water&nbsp;(%)
-          </div></th>
-         <td>1.04</td>
-        </tr>
-        <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;">Population</th>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2018 estimate
-          </div></th>
-         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> 46,733,038 <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[e]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">30th</a>)</td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Density
-          </div></th>
-         <td>92/km<sup>2</sup> (238.3/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">112th</a>)</td>
-        </tr>
-        <tr class="mergedtoprow">
-         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
-         <td>2018&nbsp;estimate</td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Total
-          </div></th>
-         <td><span class="nowrap">$1.864&nbsp;trillion<sup id="cite_ref-imf2_13-0" class="reference"><a href="#cite_note-imf2-13">[8]</a></sup></span> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">16th</a>)</td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Per capita
-          </div></th>
-         <td>$40,290<sup id="cite_ref-imf2_13-1" class="reference"><a href="#cite_note-imf2-13">[8]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">31st</a>)</td>
-        </tr>
-        <tr class="mergedtoprow">
-         <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
-         <td>2018&nbsp;estimate</td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Total
-          </div></th>
-         <td><span class="nowrap">$1.506&nbsp;trillion<sup id="cite_ref-imf2_13-2" class="reference"><a href="#cite_note-imf2-13">[8]</a></sup></span> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">12th</a>)</td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Per capita
-          </div></th>
-         <td>$32,559<sup id="cite_ref-imf2_13-3" class="reference"><a href="#cite_note-imf2-13">[8]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">30th</a>)</td>
-        </tr>
-        <tr>
-         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2017)</span></th>
-         <td><img alt="Positive decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/11px-Decrease_Positive.svg.png" decoding="async" title="Positive decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/17px-Decrease_Positive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/22px-Decrease_Positive.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;34.1<sup id="cite_ref-eurogini_14-0" class="reference"><a href="#cite_note-eurogini-14">[9]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/w/index.php?title=List_of_countries_by_income_equality&amp;action=edit&amp;redlink=1" class="new" title="List of countries by income equality (not yet started)">103rd</a></td>
-        </tr>
-        <tr>
-         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2017)</span></th>
-         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.891<sup id="cite_ref-HDI_15-0" class="reference"><a href="#cite_note-HDI-15">[10]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkgreen">very high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">26th</a></td>
-        </tr>
-        <tr>
-         <th scope="row">Currency</th>
-         <td><a href="/wiki/Euro" title="Euro">Euro</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[f]</a></sup> (<a href="/wiki/Euro_sign" title="Euro sign">€</a>) (<a href="/wiki/ISO_4217" title="ISO 4217">EUR</a>)</td>
-        </tr>
-        <tr class="mergedtoprow">
-         <th scope="row">Time zone</th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>⁠±0 to +1</span> (<a href="/wiki/Western_European_Time" class="mw-redirect" title="Western European Time">WET</a> and <a href="/wiki/Central_European_Time" title="Central European Time">CET</a>)</td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
-          </div></th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1 to +2</span> (<a href="/wiki/Western_European_Summer_Time" title="Western European Summer Time">WEST</a> and <a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a>)</td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row"></th>
-         <td><span style="font-size:85%;">Note: most of Spain observes CET/CEST, except the <a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a> and <a href="/w/index.php?title=Plazas_de_soberan%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Plazas de soberanía (not yet started)">Plazas de soberanía</a> which observe WET/WEST</span></td>
-        </tr>
-        <tr>
-         <th scope="row">Date format</th>
-         <td>dd/mm/yyyy <span style="font-size:85%;">(<a href="/wiki/Common_Era" title="Common Era">CE</a>)</span></td>
-        </tr>
-        <tr>
-         <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
-         <td>right</td>
-        </tr>
-        <tr>
-         <th scope="row">Calling code</th>
-         <td><a href="/w/index.php?title=Telephone_numbers_in_Spain&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in Spain (not yet started)">+34</a></td>
-        </tr>
-        <tr>
-         <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
-         <td><a href="/w/index.php?title=ISO_3166-2:ES&amp;action=edit&amp;redlink=1" class="new" title="ISO 3166-2:ES (not yet started)">ES</a></td>
-        </tr>
-        <tr>
-         <th scope="row"><a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">Internet TLD</a></th>
-         <td><a href="/wiki/.es" class="mw-redirect" title=".es">.es</a><sup id="cite_ref-e_17-0" class="reference"><a href="#cite_note-e-17">[g]</a></sup></td>
-        </tr>
-       </tbody>
-      </table> 
-      <p><b>Spain</b> is a <a href="/wiki/Country" title="Country">country</a> in Southern Europe. It is in the <a href="/wiki/Iberian_Peninsula" title="Iberian Peninsula">Iberian Peninsula</a>. Spain has borders with <a href="/wiki/France" title="France">France</a>, <a href="/wiki/Portugal" title="Portugal">Portugal</a>, <a href="/wiki/Andorra" title="Andorra">Andorra</a> and <a href="/wiki/Morocco" title="Morocco">Morocco</a>. In Spain's northeast side are the <a href="/wiki/Pyrenees_mountains" class="mw-redirect" title="Pyrenees mountains">Pyrenees mountains</a>. </p>
+      <p>{{Infobox country | conventional_long_name = Kingdom of Spain | native_name = <i lang="es" title="Spanish language text">Reino de España</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>)</span> | common_name = Spain </p>
+      <p> | name = </p>
+      <div class="NavFrame collapsed" style="border: none; padding: 0;"> 
+       <div class="NavHead" style="font-size: 105%; background: transparent; text-align: left; background:transparent;text-align:center;line-height:normal;font-size:84%;">
+        <span style="font-size:1.0 em;">4 other official names</span><sup id="cite_ref-a_2-0" class="reference"><a href="#cite_note-a-2">[a]</a></sup><sup id="cite_ref-b_3-0" class="reference"><a href="#cite_note-b-3">[b]</a></sup>
+       </div> 
+       <ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+        <li style="line-height: inherit; margin: 0">
+         <table style="padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent;font-size:80%;font-weight:normal;">
+          <tbody>
+           <tr class="mergedrow">
+            <th scope="row"><a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>:</th>
+            <td><i lang="ca" title="Catalan language text">Regne d'Espanya</i></td>
+           </tr>
+           <tr class="mergedrow">
+            <th scope="row"><a href="/wiki/Basque_language" title="Basque language">Basque</a>:</th>
+            <td><i lang="eu" title="Basque language text">Espainiako Erresuma</i></td>
+           </tr>
+           <tr class="mergedrow">
+            <th scope="row"><a href="/wiki/Galician_language" title="Galician language">Galician</a>:</th>
+            <td><i lang="gl" title="Galician language text">Reino de España</i></td>
+           </tr>
+           <tr class="mergedrow">
+            <th scope="row"><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>:</th>
+            <td><i lang="oc" title="Occitan (post 1500) language text">Reiaume d'Espanha</i></td>
+           </tr>
+          </tbody>
+         </table> </li>
+       </ul> 
+      </div> 
+      <p>| image_flag = Flag of Spain.svg | image_coat = File:Coat of Arms of Spain.svg | national_motto = <span lang="la" style="font-style: normal;" title="Latin language text">"<a href="/w/index.php?title=Plus_ultra&amp;action=edit&amp;redlink=1" class="new" title="Plus ultra (not yet started)">Plus ultra</a>"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>)</span> <br> <span style="font-size:85%;">"Further Beyond"</span> </p>
+      <p> | national_anthem = <span lang="es" style="font-style: normal;" title="Spanish language text">"<a href="/wiki/Marcha_Real" title="Marcha Real">Marcha Real</a>"</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>)</span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup> <br> <span style="font-size:85%;">"Royal March"</span> <br> </p>
+      <div class="center">
+       <div class="floatnone">
+        <div class="mediaContainer" style="width:220px">
+         <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="61.933401360544" data-startoffset="0" data-mwtitle="Marcha_Real-Royal_March_by_US_Navy_Band.ogg" data-mwprovider="wikimediacommons">
+          <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg/Marcha_Real-Royal_March_by_US_Navy_Band.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="194720">
+          <source src="//upload.wikimedia.org/wikipedia/commons/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (334 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="334039">
+         </audio>
+        </div>
+       </div>
+      </div>
+      <p> | image_map = </p>
+      <div class="switcher-container">
+       <div>
+        <a href="/wiki/File:EU-Spain_(orthographic_projection).svg" class="image"><img alt="EU-Spain (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EU-Spain_%28orthographic_projection%29.svg/220px-EU-Spain_%28orthographic_projection%29.svg.png" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EU-Spain_%28orthographic_projection%29.svg/330px-EU-Spain_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EU-Spain_%28orthographic_projection%29.svg/440px-EU-Spain_%28orthographic_projection%29.svg.png 2x" data-file-width="2000" data-file-height="2000"></a><span class="switcher-label" style="display:none" data-switcher-default="">Show globe</span>
+       </div>
+       <div>
+        <a href="/wiki/File:EU-Spain.svg" class="image"><img alt="EU-Spain.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Spain.svg/250px-EU-Spain.svg.png" decoding="async" width="250" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Spain.svg/375px-EU-Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Spain.svg/500px-EU-Spain.svg.png 2x" data-file-width="2045" data-file-height="1720"></a><span class="switcher-label" style="display:none">Show map of Europe</span>
+       </div>
+      </div>
+      <p> | map_caption = </p>
+      <div style="text-align:center;font-size:11px;line-height:1.15em;">
+       <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">Spain</span><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark green</span>)</span>
+       <p style="width:250px;font-size:11px;text-align:left;margin-left:1.2ex;margin-top:0px;margin-bottom:0px;line-height:1.15em;">–&nbsp;on the <a href="/wiki/Europe" title="Europe">European continent</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green &amp;&nbsp;dark grey</span>)<br>–&nbsp;in the <a href="/wiki/European_Union" title="European Union">European Union</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">green</span>)</p>
+      </div> 
+      <p>| image_map2 = Spain - Location Map (2013) - ESP - UNOCHA.svg | capital = <a href="/wiki/Madrid" title="Madrid">Madrid</a> | coordinates = <style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Spain&amp;params=40_26_N_3_42_W_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°26′N</span> <span class="longitude">3°42′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.433°N 3.700°W</span><span style="display:none">﻿ / <span class="geo">40.433; -3.700</span></span></span></a></span> | largest_city = capital | languages_type = Official language <br> <span class="nowrap">
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r6670383"><span class="nobold">and national language</span></span> | languages = <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a><sup id="cite_ref-c_6-0" class="reference"><a href="#cite_note-c-6">[c]</a></sup> | ethnic_groups = {{unbulleted list |89.67% [[European ( Galician, Basque, Catalan, Castilian)] |10.33% others}} | ethnic_groups_year = 2019 | ethnic_groups_ref = <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[4]</a></sup> </p>
+      <p> | religion = </p>
+      <div class="plainlist">
+       <ul>
+        <li style="white-space:nowrap;">67.0% <a href="/wiki/Catholicism" title="Catholicism">Catholicism</a></li>
+        <li style="white-space:nowrap;">27.2% <a href="/wiki/Irreligion" title="Irreligion">No religion</a></li>
+        <li style="white-space:nowrap;">3.1% Other religions</li>
+       </ul>
+      </div> 
+      <p>| religion_year = 2019 | religion_ref = <sup id="cite_ref-CIS2019_8-0" class="reference"><a href="#cite_note-CIS2019-8">[5]</a></sup> </p>
+      <p> | demonym = </p>
+      <div class="hlist hlist-separated">
+       <ul>
+        <li><a href="/wiki/Spaniards" class="mw-redirect" title="Spaniards">Spanish</a></li>
+        <li><a href="/wiki/Spaniards" class="mw-redirect" title="Spaniards">Spaniard</a></li>
+       </ul>
+      </div> 
+      <p>| government_type = <a href="/wiki/Unitary_state" title="Unitary state">Unitary</a>&nbsp;<a href="/wiki/Parliamentary_system" title="Parliamentary system">parliamentary</a> <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a> | leader_title1 = <a href="/wiki/Monarchy_of_Spain" title="Monarchy of Spain">Monarch</a> | leader_name1 = <a href="/wiki/Felipe_VI" class="mw-redirect" title="Felipe VI">Felipe VI</a> | leader_title2 = <a href="/wiki/Prime_Minister_of_Spain" title="Prime Minister of Spain">Prime Minister</a> | leader_name2 = <a href="/wiki/Pedro_S%C3%A1nchez" title="Pedro Sánchez">Pedro Sánchez</a> | leader_title3 = <a href="/w/index.php?title=President_of_the_Spanish_Senate&amp;action=edit&amp;redlink=1" class="new" title="President of the Spanish Senate (not yet started)">President of the Senate</a> | leader_name3 = <a href="/w/index.php?title=Manuel_Cruz_Rodr%C3%ADguez&amp;action=edit&amp;redlink=1" class="new" title="Manuel Cruz Rodríguez (not yet started)">Manuel Cruz Rodríguez</a> | leader_title4 = <a href="/wiki/President_of_the_Congress_of_Deputies" title="President of the Congress of Deputies">President of the Congress of Deputies</a> | leader_name4 = <a href="/wiki/Meritxell_Batet" title="Meritxell Batet">Meritxell Batet</a> | leader_title5 = <a href="/w/index.php?title=President_of_the_Supreme_Court_of_Spain&amp;action=edit&amp;redlink=1" class="new" title="President of the Supreme Court of Spain (not yet started)">President of the Supreme Court</a> | leader_name5 = <a href="/w/index.php?title=Carlos_Lesmes_Serrano&amp;action=edit&amp;redlink=1" class="new" title="Carlos Lesmes Serrano (not yet started)">Carlos Lesmes Serrano</a> | legislature = <a href="/wiki/Cortes_Generales" title="Cortes Generales">Cortes Generales</a> | upper_house = <a href="/wiki/Senate_of_Spain" title="Senate of Spain">Senate</a> | lower_house = <a href="/wiki/Congress_of_Deputies" title="Congress of Deputies">Congress of Deputies</a> | sovereignty_type = <a href="/wiki/History_of_Spain" title="History of Spain">Formation</a> | established_event1 = <a href="/w/index.php?title=Catholic_Monarchs&amp;action=edit&amp;redlink=1" class="new" title="Catholic Monarchs (not yet started)"><i>De facto</i></a> | established_date1 = 20 January 1479 | established_event2 = <i><a href="/w/index.php?title=Nueva_Planta_decrees&amp;action=edit&amp;redlink=1" class="new" title="Nueva Planta decrees (not yet started)">De jure</a></i> | established_date2 = 9 June 1715 | established_event3 = <a href="/w/index.php?title=Spanish_Constitution_of_1812&amp;action=edit&amp;redlink=1" class="new" title="Spanish Constitution of 1812 (not yet started)">First constitution</a> | established_date3 = 19 March 1812 | established_event4 = <span class="nowrap"><a href="/w/index.php?title=Spanish_transition_to_democracy&amp;action=edit&amp;redlink=1" class="new" title="Spanish transition to democracy (not yet started)">Current democracy</a></span> | established_date4 = <a href="/w/index.php?title=Spanish_Constitution_of_1978&amp;action=edit&amp;redlink=1" class="new" title="Spanish Constitution of 1978 (not yet started)">29 December 1978</a> | established_event5 = <span class="nowrap"><a href="/w/index.php?title=Enlargement_of_the_European_Union&amp;action=edit&amp;redlink=1" class="new" title="Enlargement of the European Union (not yet started)">EEC accession</a></span><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[d]</a></sup> | established_date5 = 1 January 1986 | area_km2 = 505,990<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[6]</a></sup> | area_rank = 51st | area_sq_mi = 195,364 | percent_water = 1.04 | population_estimate = <img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> 46,733,038 <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[e]</a></sup> | population_estimate_year = 2018 | population_estimate_rank = 30th | population_density_km2 = 92 | population_density_sq_mi = 240 | population_density_rank = 112th | GDP_PPP = <span class="nowrap">$1.864&nbsp;trillion<sup id="cite_ref-imf2_13-0" class="reference"><a href="#cite_note-imf2-13">[8]</a></sup></span> | GDP_PPP_year = 2018 | GDP_PPP_rank = 16th | GDP_PPP_per_capita = $40,290<sup id="cite_ref-imf2_13-1" class="reference"><a href="#cite_note-imf2-13">[8]</a></sup> | GDP_PPP_per_capita_rank = 31st | GDP_nominal = <span class="nowrap">$1.506&nbsp;trillion<sup id="cite_ref-imf2_13-2" class="reference"><a href="#cite_note-imf2-13">[8]</a></sup></span> | GDP_nominal_year = 2018 | GDP_nominal_rank = 12th | GDP_nominal_per_capita = $32,559<sup id="cite_ref-imf2_13-3" class="reference"><a href="#cite_note-imf2-13">[8]</a></sup> | GDP_nominal_per_capita_rank = 30th | Gini = 34.1 | Gini_year = 2020 | Gini_change = decrease | Gini_ref = <sup id="cite_ref-eurogini_14-0" class="reference"><a href="#cite_note-eurogini-14">[9]</a></sup> | Gini_rank = 103rd | HDI = 0.904 | HDI_year = 2019 | HDI_change = increase | HDI_ref = <sup id="cite_ref-UNHDR_15-0" class="reference"><a href="#cite_note-UNHDR-15">[10]</a></sup> | HDI_rank = 25th | currency = <a href="/wiki/Euro" title="Euro">Euro</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[f]</a></sup> (<a href="/wiki/Euro_sign" title="Euro sign">€</a>) | currency_code = EUR | time_zone = <a href="/wiki/Western_European_Time" class="mw-redirect" title="Western European Time">WET</a> and <a href="/wiki/Central_European_Time" title="Central European Time">CET</a> | utc_offset = ⁠±0 to +1 | DST_note = <span style="font-size:85%;">Note: most of Spain observes CET/CEST, except the <a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a> and <a href="/w/index.php?title=Plazas_de_soberan%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Plazas de soberanía (not yet started)">Plazas de soberanía</a> which observe WET/WEST</span> | time_zone_DST = <a href="/wiki/Western_European_Summer_Time" title="Western European Summer Time">WEST</a> and <a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> | utc_offset_DST = +1 to +2 | date_format = dd/mm/yyyy <span style="font-size:85%;">(<a href="/wiki/Common_Era" title="Common Era">CE</a>)</span> | drives_on = right | calling_code = <a href="/w/index.php?title=Telephone_numbers_in_Spain&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in Spain (not yet started)">+34</a> | iso3166code = ES | cctld = <a href="/wiki/.es" class="mw-redirect" title=".es">.es</a><sup id="cite_ref-e_17-0" class="reference"><a href="#cite_note-e-17">[g]</a></sup> | today = }} <b>Spain</b> is a <a href="/wiki/Country" title="Country">country</a> in Southern Europe. It is in the <a href="/wiki/Iberian_Peninsula" title="Iberian Peninsula">Iberian Peninsula</a>. Spain has borders with <a href="/wiki/France" title="France">France</a>, <a href="/wiki/Portugal" title="Portugal">Portugal</a>, <a href="/wiki/Andorra" title="Andorra">Andorra</a> and it holds territories in Africa that border <a href="/wiki/Morocco" title="Morocco">Morocco</a>. In Spain's northeast side are the <a href="/wiki/Pyrenees_mountains" class="mw-redirect" title="Pyrenees mountains">Pyrenees mountains</a>. </p>
       <p>The people of Spain are called Spaniards. They speak <a href="/wiki/Castilian_language" class="mw-redirect" title="Castilian language">Castilian</a> or <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> (in Spanish, "<span lang="es" dir="ltr">Castellano</span>", from <i>Castilla</i>, or "<span lang="es" dir="ltr">Español</span>" <a class="external text" href="https://en.m.wikipedia.org/wiki/Help:IPA/Spanish">[<span lang="es" dir="ltr">es</span>pa'ɲol]</a>. They speak other languages in some parts of the country. They are <a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>, <a href="/wiki/Basque_language" title="Basque language">Basque</a>, and <a href="/wiki/Galician_language" title="Galician language">Galician</a>, <a href="/wiki/Leonese_Language" class="mw-redirect" title="Leonese Language">Leonese</a>, <a href="/wiki/Aragonese_language" title="Aragonese language">Aragonese</a>, <a href="/wiki/Aranese" class="mw-redirect" title="Aranese">Aranese</a> <a href="/wiki/Occitan_language" title="Occitan language">Occitan</a> and even <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>. The <a href="/wiki/Religion" title="Religion">religion</a> of about 56% of the population in Spain is <a href="/wiki/Roman_Catholicism" class="mw-redirect" title="Roman Catholicism">Roman Catholic</a>. </p>
       <p>Since 1975, Spain has had a <a href="/wiki/Constitutional_monarchy" title="Constitutional monarchy">constitutional monarchy</a>. The King of Spain is <a href="/wiki/Felipe_VI_of_Spain" title="Felipe VI of Spain">Felipe VI</a>; he only does what the <a href="/wiki/Constitution" title="Constitution">constitution</a> allows him to. The parliament is called "Las Cortes Generales," and has two bodies: "El Congreso" (The Congress) and "El Senado" (The Senate) and it is chosen by the Spanish people by <a href="/wiki/Vote" class="mw-redirect" title="Vote">voting</a>. The <a href="/wiki/Prime_minister" title="Prime minister">Prime minister</a> is <a href="/wiki/Pedro_S%C3%A1nchez" title="Pedro Sánchez">Pedro Sánchez</a>. The <a href="/wiki/Government" title="Government">government</a> and the king's <a href="/wiki/Palace" title="Palace">palace</a> are in <a href="/wiki/Madrid" title="Madrid">Madrid</a>, the <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> of Spain. </p>
       <p>Spain has more than five hundred thousand <a href="/wiki/Square_kilometre" title="Square kilometre">square kilometres</a> of land. It is smaller than France, but it is bigger than <a href="/wiki/Germany" title="Germany">Germany</a>. Almost fifty million people live in Spain. Spain is divided into 17 <a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">autonomous communities</a> (this means that they can decide upon some affairs themselves). Each community has its own government. </p> 
@@ -681,30 +372,30 @@
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap mw-references-columns">
         <ol class="references"> 
-         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://noticias.juridicas.com/base_datos/Admin/ai281209-aec.html">"Acuerdo entre el Reino de España y Nueva Zelanda sobre participación en determinadas elecciones de los nacionales de cada país residentes en el territorio del otro, hecho en Wellington el 23 de junio de 2009"</a>. <i>Noticias Jurídicas</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Noticias+Jur%C3%ADdicas&amp;rft.atitle=Acuerdo+entre+el+Reino+de+Espa%C3%B1a+y+Nueva+Zelanda+sobre+participaci%C3%B3n+en+determinadas+elecciones+de+los+nacionales+de+cada+pa%C3%ADs+residentes+en+el+territorio+del+otro%2C+hecho+en+Wellington+el+23+de+junio+de+2009.&amp;rft_id=http%3A%2F%2Fnoticias.juridicas.com%2Fbase_datos%2FAdmin%2Fai281209-aec.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite id="CITEREFPresidency_of_the_Government1997" class="citation web cs1"><a href="/wiki/Government_of_Spain" class="mw-redirect" title="Government of Spain">Presidency of the Government</a> (11 October 1997). <a rel="nofollow" class="external text" href="http://www.boe.es/boe/dias/1997/10/11/pdfs/A29594-29600.pdf">"Real Decreto 1560/1997, de 10 de octubre, por el que se regula el Himno Nacional"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/w/index.php?title=Bolet%C3%ADn_Oficial_del_Estado&amp;action=edit&amp;redlink=1" class="new" title="Boletín Oficial del Estado (not yet started)">Boletín Oficial del Estado</a> núm. 244</i> (in Spanish). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150924034615/http://www.boe.es/boe/dias/1997/10/11/pdfs/A29594-29600.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 24 September 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bolet%C3%ADn+Oficial+del+Estado+n%C3%BAm.+244&amp;rft.atitle=Real+Decreto+1560%2F1997%2C+de+10+de+octubre%2C+por+el+que+se+regula+el+Himno+Nacional&amp;rft.date=1997-10-11&amp;rft.au=Presidency+of+the+Government&amp;rft_id=http%3A%2F%2Fwww.boe.es%2Fboe%2Fdias%2F1997%2F10%2F11%2Fpdfs%2FA29594-29600.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130325101204/http://www.lamoncloa.gob.es/IDIOMAS/9/Espana/LeyFundamental/index.htm">"The Spanish Constitution"</a>. Lamoncloa.gob.es. Archived from <a rel="nofollow" class="external text" href="http://www.lamoncloa.gob.es/IDIOMAS/9/Espana/LeyFundamental/index.htm">the original</a> on 25 March 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">26 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Spanish+Constitution&amp;rft.pub=Lamoncloa.gob.es&amp;rft_id=http%3A%2F%2Fwww.lamoncloa.gob.es%2FIDIOMAS%2F9%2FEspana%2FLeyFundamental%2Findex.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://datosmacro.expansion.com/paises/espana">"España: Economía y demografía 2019"</a>. <i>datosmacro.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=datosmacro.com&amp;rft.atitle=Espa%C3%B1a%3A+Econom%C3%ADa+y+demograf%C3%ADa+2019&amp;rft_id=https%3A%2F%2Fdatosmacro.expansion.com%2Fpaises%2Fespana&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://noticias.juridicas.com/base_datos/Admin/ai281209-aec.html">"Acuerdo entre el Reino de España y Nueva Zelanda sobre participación en determinadas elecciones de los nacionales de cada país residentes en el territorio del otro, hecho en Wellington el 23 de junio de 2009"</a>. <i>Noticias Jurídicas</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Noticias+Jur%C3%ADdicas&amp;rft.atitle=Acuerdo+entre+el+Reino+de+Espa%C3%B1a+y+Nueva+Zelanda+sobre+participaci%C3%B3n+en+determinadas+elecciones+de+los+nacionales+de+cada+pa%C3%ADs+residentes+en+el+territorio+del+otro%2C+hecho+en+Wellington+el+23+de+junio+de+2009.&amp;rft_id=http%3A%2F%2Fnoticias.juridicas.com%2Fbase_datos%2FAdmin%2Fai281209-aec.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFPresidency_of_the_Government1997" class="citation web cs1"><a href="/wiki/Government_of_Spain" class="mw-redirect" title="Government of Spain">Presidency of the Government</a> (11 October 1997). <a rel="nofollow" class="external text" href="http://www.boe.es/boe/dias/1997/10/11/pdfs/A29594-29600.pdf">"Real Decreto 1560/1997, de 10 de octubre, por el que se regula el Himno Nacional"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/w/index.php?title=Bolet%C3%ADn_Oficial_del_Estado&amp;action=edit&amp;redlink=1" class="new" title="Boletín Oficial del Estado (not yet started)">Boletín Oficial del Estado</a> núm. 244</i> (in Spanish). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150924034615/http://www.boe.es/boe/dias/1997/10/11/pdfs/A29594-29600.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 24 September 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bolet%C3%ADn+Oficial+del+Estado+n%C3%BAm.+244&amp;rft.atitle=Real+Decreto+1560%2F1997%2C+de+10+de+octubre%2C+por+el+que+se+regula+el+Himno+Nacional&amp;rft.date=1997-10-11&amp;rft.au=Presidency+of+the+Government&amp;rft_id=http%3A%2F%2Fwww.boe.es%2Fboe%2Fdias%2F1997%2F10%2F11%2Fpdfs%2FA29594-29600.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130325101204/http://www.lamoncloa.gob.es/IDIOMAS/9/Espana/LeyFundamental/index.htm">"The Spanish Constitution"</a>. Lamoncloa.gob.es. Archived from <a rel="nofollow" class="external text" href="http://www.lamoncloa.gob.es/IDIOMAS/9/Espana/LeyFundamental/index.htm">the original</a> on 25 March 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">26 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Spanish+Constitution&amp;rft.pub=Lamoncloa.gob.es&amp;rft_id=http%3A%2F%2Fwww.lamoncloa.gob.es%2FIDIOMAS%2F9%2FEspana%2FLeyFundamental%2Findex.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://datosmacro.expansion.com/paises/espana">"España: Economía y demografía 2019"</a>. <i>datosmacro.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=datosmacro.com&amp;rft.atitle=Espa%C3%B1a%3A+Econom%C3%ADa+y+demograf%C3%ADa+2019&amp;rft_id=https%3A%2F%2Fdatosmacro.expansion.com%2Fpaises%2Fespana&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
          <li id="cite_note-CIS2019-8"><span class="mw-cite-backlink"><a href="#cite_ref-CIS2019_8-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://datos.cis.es/pdf/Es3238mar_A.pdf">http://datos.cis.es/pdf/Es3238mar_A.pdf</a></span> </li> 
-         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ine.es/prodyser/pubweb/anuario08/anu08_01entor.pdf">"Anuario estadístico de España 2008. 1ª parte: entorno físico y medio ambiente"</a> <span class="cs1-format">(PDF)</span>. <i>Instituto Nacional de Estadística (Spain)</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150924144913/http://www.ine.es/prodyser/pubweb/anuario08/anu08_01entor.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 24 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">14 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Instituto+Nacional+de+Estad%C3%ADstica+%28Spain%29&amp;rft.atitle=Anuario+estad%C3%ADstico+de+Espa%C3%B1a+2008.+1%C2%AA+parte%3A+entorno+f%C3%ADsico+y+medio+ambiente&amp;rft_id=http%3A%2F%2Fwww.ine.es%2Fprodyser%2Fpubweb%2Fanuario08%2Fanu08_01entor.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ine.es/en/prensa/cp_j2018_p_en.pdf">"Population Figures at 01 July 2018. Migrations Statistics. First half of 2018"</a> <span class="cs1-format">(PDF)</span> (in Spanish). <a href="/w/index.php?title=Instituto_Nacional_de_Estad%C3%ADstica_(Spain)&amp;action=edit&amp;redlink=1" class="new" title="Instituto Nacional de Estadística (Spain) (not yet started)">National Statistics Institute</a> (INE). 13 December 2018. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170628123003/http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;cid=1254736176951&amp;menu=ultiDatos&amp;idp=1254735572981">Archived</a> from the original on 28 June 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Population+Figures+at+01+July+2018.+Migrations+Statistics.+First+half+of+2018.&amp;rft.pub=National+Statistics+Institute+%28INE%29&amp;rft.date=2018-12-13&amp;rft_id=https%3A%2F%2Fwww.ine.es%2Fen%2Fprensa%2Fcp_j2018_p_en.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-imf2-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_13-0">8.0</a></sup> <sup><a href="#cite_ref-imf2_13-1">8.1</a></sup> <sup><a href="#cite_ref-imf2_13-2">8.2</a></sup> <sup><a href="#cite_ref-imf2_13-3">8.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?pr.x=70&amp;pr.y=7&amp;sy=2018&amp;ey=2018&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=193,946,122,137,124,546,156,181,423,138,935,196,128,142,939,182,172,359,132,135,134,576,174,936,532,961,176,184,178,144,436,146,136,528,158,112,542,111,941&amp;s=NGDPD,PPPGDP,NGDPDPC,PPPPC&amp;grp=0&amp;a=">"Report for Selected Countries and Subjects"</a>. <i>www.imf.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.imf.org&amp;rft.atitle=Report+for+Selected+Countries+and+Subjects&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2018%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D70%26pr.y%3D7%26sy%3D2018%26ey%3D2018%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D193%2C946%2C122%2C137%2C124%2C546%2C156%2C181%2C423%2C138%2C935%2C196%2C128%2C142%2C939%2C182%2C172%2C359%2C132%2C135%2C134%2C576%2C174%2C936%2C532%2C961%2C176%2C184%2C178%2C144%2C436%2C146%2C136%2C528%2C158%2C112%2C542%2C111%2C941%26s%3DNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-eurogini-14"><span class="mw-cite-backlink"><a href="#cite_ref-eurogini_14-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ec.europa.eu/eurostat/tgm/table.do?tab=table&amp;init=1&amp;language=en&amp;pcode=tessi190&amp;plugin=1">"Gini coefficient of equivalised disposable income – EU-SILC survey"</a>. <i>ec.europa.eu</i>. <a href="/w/index.php?title=Eurostat&amp;action=edit&amp;redlink=1" class="new" title="Eurostat (not yet started)">Eurostat</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ec.europa.eu&amp;rft.atitle=Gini+coefficient+of+equivalised+disposable+income+%E2%80%93+EU-SILC+survey&amp;rft_id=https%3A%2F%2Fec.europa.eu%2Feurostat%2Ftgm%2Ftable.do%3Ftab%3Dtable%26init%3D1%26language%3Den%26pcode%3Dtessi190%26plugin%3D1&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-HDI-15"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_15-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf">"2016 Human Development Report"</a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 2016. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170322153238/http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 22 March 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">23 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2016+Human+Development+Report&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2016&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2F2016_human_development_report.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><cite id="CITEREFGoodmanMullenLevs2014" class="citation news cs1">Goodman, Al; Mullen, Jethro; Levs, Josh (2 June 2014). <a rel="nofollow" class="external text" href="http://www.cnn.com/2014/06/02/world/europe/spain-king-abdication/index.html?hpt=hp_t2">"Spain's King Juan Carlos I to abdicate"</a>. CNN<span class="reference-accessdate">. Retrieved <span class="nowrap">2 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spain%27s+King+Juan+Carlos+I+to+abdicate&amp;rft.date=2014-06-02&amp;rft.aulast=Goodman&amp;rft.aufirst=Al&amp;rft.au=Mullen%2C+Jethro&amp;rft.au=Levs%2C+Josh&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2014%2F06%2F02%2Fworld%2Feurope%2Fspain-king-abdication%2Findex.html%3Fhpt%3Dhp_t2&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-Telegraph-19"><span class="mw-cite-backlink"><a href="#cite_ref-Telegraph_19-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/worldnews/europe/spain/10898873/Spain-will-have-two-kings-and-two-queens.html">"Spain will have two kings and two queens"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Spain+will+have+two+kings+and+two+queens&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fworldnews%2Feurope%2Fspain%2F10898873%2FSpain-will-have-two-kings-and-two-queens.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://datos.cis.es/pdf/Es3146mar_A.pdf">"Centro de Investigaciones Sociológicas (Centre for Sociological Research) (October 2017). "Barómetro de septiembre de 2017" (PDF) (in Spanish). p. 41. Archived (PDF) from the original on 28 September 2017. Retrieved 13 October 2017"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Centro+de+Investigaciones+Sociol%C3%B3gicas+%28Centre+for+Sociological+Research%29+%28October+2017%29.+%22Bar%C3%B3metro+de+septiembre+de+2017%22+%28PDF%29+%28in+Spanish%29.+p.+41.+Archived+%28PDF%29+from+the+original+on+28+September+2017.+Retrieved+13+October+2017.&amp;rft_id=http%3A%2F%2Fdatos.cis.es%2Fpdf%2FEs3146mar_A.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite has empty unknown parameter: <code class="cs1-code">|dead-url=</code> (<a href="/wiki/Help:CS1_errors#param_unknown_empty" title="Help:CS1 errors">help</a>)</span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ine.es/prodyser/pubweb/anuario08/anu08_01entor.pdf">"Anuario estadístico de España 2008. 1ª parte: entorno físico y medio ambiente"</a> <span class="cs1-format">(PDF)</span>. <i>Instituto Nacional de Estadística (Spain)</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150924144913/http://www.ine.es/prodyser/pubweb/anuario08/anu08_01entor.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 24 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">14 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Instituto+Nacional+de+Estad%C3%ADstica+%28Spain%29&amp;rft.atitle=Anuario+estad%C3%ADstico+de+Espa%C3%B1a+2008.+1%C2%AA+parte%3A+entorno+f%C3%ADsico+y+medio+ambiente&amp;rft_id=http%3A%2F%2Fwww.ine.es%2Fprodyser%2Fpubweb%2Fanuario08%2Fanu08_01entor.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ine.es/en/prensa/cp_j2018_p_en.pdf">"Population Figures at 01 July 2018. Migrations Statistics. First half of 2018"</a> <span class="cs1-format">(PDF)</span> (in Spanish). <a href="/w/index.php?title=Instituto_Nacional_de_Estad%C3%ADstica_(Spain)&amp;action=edit&amp;redlink=1" class="new" title="Instituto Nacional de Estadística (Spain) (not yet started)">National Statistics Institute</a> (INE). 13 December 2018. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170628123003/http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&amp;cid=1254736176951&amp;menu=ultiDatos&amp;idp=1254735572981">Archived</a> from the original on 28 June 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Population+Figures+at+01+July+2018.+Migrations+Statistics.+First+half+of+2018.&amp;rft.pub=National+Statistics+Institute+%28INE%29&amp;rft.date=2018-12-13&amp;rft_id=https%3A%2F%2Fwww.ine.es%2Fen%2Fprensa%2Fcp_j2018_p_en.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
+         <li id="cite_note-imf2-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_13-0">8.0</a></sup> <sup><a href="#cite_ref-imf2_13-1">8.1</a></sup> <sup><a href="#cite_ref-imf2_13-2">8.2</a></sup> <sup><a href="#cite_ref-imf2_13-3">8.3</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?pr.x=70&amp;pr.y=7&amp;sy=2018&amp;ey=2018&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=193,946,122,137,124,546,156,181,423,138,935,196,128,142,939,182,172,359,132,135,134,576,174,936,532,961,176,184,178,144,436,146,136,528,158,112,542,111,941&amp;s=NGDPD,PPPGDP,NGDPDPC,PPPPC&amp;grp=0&amp;a=">"Report for Selected Countries and Subjects"</a>. <i>www.imf.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.imf.org&amp;rft.atitle=Report+for+Selected+Countries+and+Subjects&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2018%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D70%26pr.y%3D7%26sy%3D2018%26ey%3D2018%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D193%2C946%2C122%2C137%2C124%2C546%2C156%2C181%2C423%2C138%2C935%2C196%2C128%2C142%2C939%2C182%2C172%2C359%2C132%2C135%2C134%2C576%2C174%2C936%2C532%2C961%2C176%2C184%2C178%2C144%2C436%2C146%2C136%2C528%2C158%2C112%2C542%2C111%2C941%26s%3DNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
+         <li id="cite_note-eurogini-14"><span class="mw-cite-backlink"><a href="#cite_ref-eurogini_14-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ec.europa.eu/eurostat/tgm/table.do?tab=table&amp;init=1&amp;language=en&amp;pcode=tessi190&amp;plugin=1">"Gini coefficient of equivalised disposable income – EU-SILC survey"</a>. <i>ec.europa.eu</i>. <a href="/w/index.php?title=Eurostat&amp;action=edit&amp;redlink=1" class="new" title="Eurostat (not yet started)">Eurostat</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ec.europa.eu&amp;rft.atitle=Gini+coefficient+of+equivalised+disposable+income+%E2%80%93+EU-SILC+survey&amp;rft_id=https%3A%2F%2Fec.europa.eu%2Feurostat%2Ftgm%2Ftable.do%3Ftab%3Dtable%26init%3D1%26language%3Den%26pcode%3Dtessi190%26plugin%3D1&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UNHDR-15"><span class="mw-cite-backlink"><a href="#cite_ref-UNHDR_15-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/content/latest-human-development-index-ranking">"Human Development Report 2020"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">United Nations Development Programme</a>. 10 December 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">10 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2020&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2019-12-10&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fcontent%2Flatest-human-development-index-ranking&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFGoodmanMullenLevs2014" class="citation news cs1">Goodman, Al; Mullen, Jethro; Levs, Josh (2 June 2014). <a rel="nofollow" class="external text" href="http://www.cnn.com/2014/06/02/world/europe/spain-king-abdication/index.html?hpt=hp_t2">"Spain's King Juan Carlos I to abdicate"</a>. CNN<span class="reference-accessdate">. Retrieved <span class="nowrap">2 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spain%27s+King+Juan+Carlos+I+to+abdicate&amp;rft.date=2014-06-02&amp;rft.aulast=Goodman&amp;rft.aufirst=Al&amp;rft.au=Mullen%2C+Jethro&amp;rft.au=Levs%2C+Josh&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2F2014%2F06%2F02%2Fworld%2Feurope%2Fspain-king-abdication%2Findex.html%3Fhpt%3Dhp_t2&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Telegraph-19"><span class="mw-cite-backlink"><a href="#cite_ref-Telegraph_19-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/worldnews/europe/spain/10898873/Spain-will-have-two-kings-and-two-queens.html">"Spain will have two kings and two queens"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Spain+will+have+two+kings+and+two+queens&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fworldnews%2Feurope%2Fspain%2F10898873%2FSpain-will-have-two-kings-and-two-queens.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://datos.cis.es/pdf/Es3146mar_A.pdf">"Centro de Investigaciones Sociológicas (Centre for Sociological Research) (October 2017). "Barómetro de septiembre de 2017" (PDF) (in Spanish). p. 41. Archived (PDF) from the original on 28 September 2017. Retrieved 13 October 2017"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Centro+de+Investigaciones+Sociol%C3%B3gicas+%28Centre+for+Sociological+Research%29+%28October+2017%29.+%22Bar%C3%B3metro+de+septiembre+de+2017%22+%28PDF%29+%28in+Spanish%29.+p.+41.+Archived+%28PDF%29+from+the+original+on+28+September+2017.+Retrieved+13+October+2017.&amp;rft_id=http%3A%2F%2Fdatos.cis.es%2Fpdf%2FEs3146mar_A.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ASpain" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Cite has empty unknown parameter: <code class="cs1-code">|dead-url=</code> (<a href="/wiki/Help:CS1_errors#param_unknown_empty" title="Help:CS1 errors">help</a>)</span></span> </li> 
         </ol>
        </div>
       </div> 
@@ -720,7 +411,7 @@
       <div class="reflist" style="list-style-type: lower-alpha;"> 
        <div class="mw-references-wrap">
         <ol class="references"> 
-         <li id="cite_note-a-2"><span class="mw-cite-backlink"><a href="#cite_ref-a_2-0">↑</a></span> <span class="reference-text">The Spanish Constitution does not establish any official name for Spain, even though the terms <i>España</i> (Spain), <i>Estado español</i> (Spanish State) and <i>Nación española</i> (Spanish Nation) are used throughout the document. Nonetheless, the Spanish Ministry of Foreign Affairs established in an ordinance published in 1984 that the denominations <i>España</i> (Spain) and <i>Reino de España</i> (Kingdom of Spain as Colony of Spain ) are equally valid to designate Spain in international treaties. The latter term is widely used by the government in national and international affairs of all kinds, including foreign treaties as well as national official documents, and is therefore recognised as the official name by many international organisations.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span> </li> 
+         <li id="cite_note-a-2"><span class="mw-cite-backlink"><a href="#cite_ref-a_2-0">↑</a></span> <span class="reference-text">The Spanish Constitution does not establish any official name for Spain, even though the terms <i>España</i> (Spain), <i>Estado español</i> (Spanish State) and <i>Nación española</i> (Spanish Nation) are used throughout the document. Nonetheless, the Spanish Ministry of Foreign Affairs established in an ordinance published in 1984 that the denominations <i>España</i> (Spain) and <i>Reino de España</i> (Kingdom of Spain) are equally valid to designate Spain in international treaties. The latter term is widely used by the government in national and international affairs of all kinds, including foreign treaties as well as national official documents, and is therefore recognised as the official name by many international organisations.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span> </li> 
          <li id="cite_note-b-3"><span class="mw-cite-backlink"><a href="#cite_ref-b_3-0">↑</a></span> <span class="reference-text">In Spain, <a href="/w/index.php?title=Languages_of_Spain&amp;action=edit&amp;redlink=1" class="new" title="Languages of Spain (not yet started)">other languages</a> are officially recognised as legitimate <a href="/w/index.php?title=Indigenous_language&amp;action=edit&amp;redlink=1" class="new" title="Indigenous language (not yet started)">autochthonous</a> <a href="/wiki/Regional_language" title="Regional language">(regional) languages</a> under the <a href="/w/index.php?title=Spanish_Constitution&amp;action=edit&amp;redlink=1" class="new" title="Spanish Constitution (not yet started)">Spanish Constitution</a>. In each of these, Spain's official name (Spanish: <i lang="es">Reino de España</i>, pronounced: <small></small><span title="Pronunciation in IPA" class="IPA"><a href="/wiki/Wikipedia:IPA_for_Spanish" title="Wikipedia:IPA for Spanish">[ˈreino ð(e) esˈpaɲa]</a></span>) is as follows: 
            <ul>
             <li><a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>: <i lang="ca">Regne d'Espanya</i>, <span class="nowrap"><small>IPA:&nbsp;</small><span title="Pronunciation in IPA" class="IPA"><a href="/w/index.php?title=Wikipedia:IPA_for_Catalan&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia:IPA for Catalan (not yet started)">[ˈreŋnə ðəsˈpaɲə]</a></span></span></li> 
@@ -743,9 +434,9 @@
           <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Europe" title="Template:Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Europe" title="Template talk:Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Countries_and_territories_of_Europe" style="font-size:114%;margin:0 4em">
@@ -840,9 +531,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:North_Atlantic_Treaty_Organisation_(NATO)" title="Template:North Atlantic Treaty Organisation (NATO)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:North_Atlantic_Treaty_Organisation_(NATO)" title="Template talk:North Atlantic Treaty Organisation (NATO)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_Atlantic_Treaty_Organisation_(NATO)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:North_Atlantic_Treaty_Organisation_(NATO)" title="Template:North Atlantic Treaty Organisation (NATO)"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:North_Atlantic_Treaty_Organisation_(NATO)" title="Template talk:North Atlantic Treaty Organisation (NATO)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:North_Atlantic_Treaty_Organisation_(NATO)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="North_Atlantic_Treaty_Organization_(NATO)" style="font-size:114%;margin:0 4em">
@@ -860,50 +551,49 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1377
-Cached time: 20201222165636
+Parsed by mw1320
+Cached time: 20210114195825
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.908 seconds
-Real time usage: 1.145 seconds
-Preprocessor visited node count: 5328/1000000
-Post‐expand include size: 157404/2097152 bytes
-Template argument size: 34958/2097152 bytes
-Highest expansion depth: 18/40
-Expensive parser function count: 6/500
+CPU time usage: 0.832 seconds
+Real time usage: 1.030 seconds
+Preprocessor visited node count: 2040/1000000
+Post‐expand include size: 75804/2097152 bytes
+Template argument size: 6671/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 52055/5000000 bytes
-Lua time usage: 0.428/10.000 seconds
-Lua memory usage: 26363417/52428800 bytes
-Number of Wikibase entities loaded: 0/400
+Unstrip post‐expand size: 51283/5000000 bytes
+Lua time usage: 0.502/10.000 seconds
+Lua memory usage: 18039897/52428800 bytes
+Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  964.866      1 -total
- 68.84%  664.241      1 Template:Infobox_country
- 68.73%  663.130      4 Template:Infobox
- 19.68%  189.849      2 Template:Reflist
- 19.19%  185.123      7 Template:Lang
- 18.89%  182.265      2 Template:Native_name
- 15.83%  152.718     11 Template:Cite_web
-  9.97%   96.178      1 Template:Collapsible_list
-  7.04%   67.906      7 Template:Efn
-  5.03%   48.556      3 Template:Navbox
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:219832-0!canonical and timestamp 20201222165635 and revision id 7223523. Serialized with JSON.
+100.00%  879.914      1 -total
+ 24.32%  213.989      2 Template:Native_name
+ 24.12%  212.261      7 Template:Lang
+ 21.95%  193.182      2 Template:Reflist
+ 20.91%  183.958      1 Template:Commons
+ 20.49%  180.255      1 Template:Sister_project
+ 20.09%  176.781      1 Template:Side_box
+ 16.81%  147.870     11 Template:Cite_web
+ 10.06%   88.490      1 Template:Collapsible_list
+  6.64%   58.383      7 Template:Efn
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:219832-0!canonical and timestamp 20210114195824 and revision id 7267270. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Spain&amp;oldid=7223523">https://simple.wikipedia.org/w/index.php?title=Spain&amp;oldid=7223523</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Spain&amp;oldid=7267270">https://simple.wikipedia.org/w/index.php?title=Spain&amp;oldid=7267270</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
      <div id="mw-normal-catlinks" class="mw-normal-catlinks">
       <a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: 
       <ul>
-       <li><a href="/w/index.php?title=Category:Articles_containing_Occitan_(post_1500)-language_text&amp;action=edit&amp;redlink=1" class="new" title="Category:Articles containing Occitan (post 1500)-language text (not yet started)">Articles containing Occitan (post 1500)-language text</a></li>
        <li><a href="/wiki/Category:Members_of_NATO" title="Category:Members of NATO">Members of NATO</a></li>
        <li><a href="/wiki/Category:Spain" title="Category:Spain">Spain</a></li>
        <li><a href="/wiki/Category:European_Union_member_states" title="Category:European Union member states">European Union member states</a></li>
@@ -920,8 +610,10 @@ Transclusion expansion time report (%,ms,calls,template)
        <li><a href="/wiki/Category:Articles_containing_Catalan-language_text" title="Category:Articles containing Catalan-language text">Articles containing Catalan-language text</a></li>
        <li><a href="/wiki/Category:Articles_containing_Basque-language_text" title="Category:Articles containing Basque-language text">Articles containing Basque-language text</a></li>
        <li><a href="/wiki/Category:Articles_containing_Galician-language_text" title="Category:Articles containing Galician-language text">Articles containing Galician-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Occitan_(post_1500)-language_text" title="Category:Articles containing Occitan (post 1500)-language text">Articles containing Occitan (post 1500)-language text</a></li>
        <li><a href="/wiki/Category:Pages_using_collapsible_list_with_both_background_and_text-align_in_titlestyle" title="Category:Pages using collapsible list with both background and text-align in titlestyle">Pages using collapsible list with both background and text-align in titlestyle</a></li>
        <li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li>
+       <li><a href="/wiki/Category:Commons_link_is_defined_as_the_pagename" title="Category:Commons link is defined as the pagename">Commons link is defined as the pagename</a></li>
       </ul>
      </div>
     </div> 
@@ -996,9 +688,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -1022,9 +714,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Spain" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Spain&amp;oldid=7223523" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Spain&amp;oldid=7267270" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Spain&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Spain&amp;id=7223523&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Spain&amp;id=7267270&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q29" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -1185,7 +877,6 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Spania" title="Spania – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
        <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Espanya" title="Espanya – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
        <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BB%81%E0%BA%AD%E0%BA%AA%E0%BA%B0%E0%BA%9B%E0%BA%B2%E0%BA%8D" title="ປະເທດແອສະປາຍ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
-       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A7%D9%92%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7" title="اْسپانیا – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
        <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Spaneja" title="Spaneja – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
        <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Hispania" title="Hispania – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
        <li class="interlanguage-link interwiki-lv badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://lv.wikipedia.org/wiki/Sp%C4%81nija" title="Spānija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
@@ -1343,7 +1034,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 22 December 2020, at 16:56.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 14 January 2021, at 11:53.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1361,8 +1052,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.908","walltime":"1.145","ppvisitednodes":{"value":5328,"limit":1000000},"postexpandincludesize":{"value":157404,"limit":2097152},"templateargumentsize":{"value":34958,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":52055,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  964.866      1 -total"," 68.84%  664.241      1 Template:Infobox_country"," 68.73%  663.130      4 Template:Infobox"," 19.68%  189.849      2 Template:Reflist"," 19.19%  185.123      7 Template:Lang"," 18.89%  182.265      2 Template:Native_name"," 15.83%  152.718     11 Template:Cite_web","  9.97%   96.178      1 Template:Collapsible_list","  7.04%   67.906      7 Template:Efn","  5.03%   48.556      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.428","limit":"10.000"},"limitreport-memusage":{"value":26363417,"limit":52428800}},"cachereport":{"origin":"mw1377","timestamp":"20201222165636","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Spain","url":"https:\/\/simple.wikipedia.org\/wiki\/Spain","sameAs":"http:\/\/www.wikidata.org\/entity\/Q29","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q29","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-21T04:59:11Z","dateModified":"2020-12-22T16:56:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9a\/Flag_of_Spain.svg","headline":"sovereign state in southwestern Europe with territories in the Mediterranean Sea, the Atlantic Ocean and northern Africa"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":271,"wgHostname":"mw1349"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.832","walltime":"1.030","ppvisitednodes":{"value":2040,"limit":1000000},"postexpandincludesize":{"value":75804,"limit":2097152},"templateargumentsize":{"value":6671,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":51283,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  879.914      1 -total"," 24.32%  213.989      2 Template:Native_name"," 24.12%  212.261      7 Template:Lang"," 21.95%  193.182      2 Template:Reflist"," 20.91%  183.958      1 Template:Commons"," 20.49%  180.255      1 Template:Sister_project"," 20.09%  176.781      1 Template:Side_box"," 16.81%  147.870     11 Template:Cite_web"," 10.06%   88.490      1 Template:Collapsible_list","  6.64%   58.383      7 Template:Efn"]},"scribunto":{"limitreport-timeusage":{"value":"0.502","limit":"10.000"},"limitreport-memusage":{"value":18039897,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20210114195825","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Spain","url":"https:\/\/simple.wikipedia.org\/wiki\/Spain","sameAs":"http:\/\/www.wikidata.org\/entity\/Q29","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q29","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-21T04:59:11Z","dateModified":"2021-01-14T11:53:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/ca\/EU-Spain_%28orthographic_projection%29.svg","headline":"country in southwestern Europe"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":202,"wgHostname":"mw1389"});});</script> 
  </body>
 </html>

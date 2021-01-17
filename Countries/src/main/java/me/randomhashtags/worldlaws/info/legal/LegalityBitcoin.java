@@ -3,21 +3,17 @@ package me.randomhashtags.worldlaws.info.legal;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.info.CountryInfoValue;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.service.CountryService;
-import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 import java.util.List;
-import java.util.logging.Level;
 
-public enum LegalityBitcoin implements CountryService {
+public enum LegalityBitcoin implements CountryLegalityService {
     INSTANCE;
 
     private HashMap<String, String> countries;
@@ -28,60 +24,21 @@ public enum LegalityBitcoin implements CountryService {
     }
 
     @Override
-    public void getValue(String countryBackendID, CompletionHandler handler) {
-        if(countries != null) {
-            final String value = getValue(countryBackendID);
-            handler.handle(value);
-        } else {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    final String value = getValue(countryBackendID);
-                    handler.handle(value);
-                }
-            });
-        }
-    }
-    private String getValue(String countryBackendID) {
-        final String value = countries.getOrDefault(countryBackendID, "null");
-        if(value.equals("null")) {
-            WLLogger.log(Level.WARNING, "LegalityBitcoin - missing for country \"" + countryBackendID + "\"!");
-        }
-        return value;
+    public HashMap<String, String> getCountries() {
+        return countries;
     }
 
-    private void refresh(CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
+    public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory";
-        final Document doc = getDocument(url);
-        if(doc != null) {
-            final String title = getInfo().getTitle();
-            final Elements tables = doc.select("div.mw-parser-output table.wikitable");
-            final EventSources sources = new EventSources(new EventSource("Wikipedia: Legality of bitcoin by country or territory", url));
-            load(title, sources, tables.get(1)); // Northern Africa
-            load(title, sources, tables.get(2)); // Western Africa
-            load(title, sources, tables.get(3)); // Indian Ocean States
-            load(title, sources, tables.get(4)); // Southern Africa
-            load(title, sources, tables.get(5)); // North America
-            load(title, sources, tables.get(6)); // Central America
-            load(title, sources, tables.get(7)); // Caribbean
-            load(title, sources, tables.get(8)); // South America
-            load(title, sources, tables.get(9)); // Central Asia
-            load(title, sources, tables.get(10)); // Eurasia
-            load(title, sources, tables.get(11)); // West Asia
-            load(title, sources, tables.get(12)); // South Asia
-            load(title, sources, tables.get(13)); // East Asia
-            load(title, sources, tables.get(14)); // Southeast Asia
-            load(title, sources, tables.get(15)); // Central Europe
-            load(title, sources, tables.get(16)); // Eastern Europe
-            load(title, sources, tables.get(17)); // Northern Europe
-            load(title, sources, tables.get(18)); // Southern Europe
-            load(title, sources, tables.get(19)); // Western Europe
-            load(title, sources, tables.get(20)); // Australasia
-            WLLogger.log(Level.INFO, "LegalityBitcoin - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
-            handler.handle(null);
+        final Elements tables = getDocumentElements(url, "div.mw-parser-output table.wikitable");
+        final String title = getInfo().getTitle();
+        final EventSource source = new EventSource("Wikipedia: Legality of bitcoin by country or territory", url);
+        final EventSources sources = new EventSources(source);
+        for(int i = 1; i <= 20; i++) {
+            load(title, sources, tables.get(i));
         }
+        handler.handle(null);
     }
 
     private void load(String title, EventSources sources, Element table) {
@@ -117,7 +74,7 @@ public enum LegalityBitcoin implements CountryService {
                     isFirst = false;
                 }
                 final String notes = builder.toString();
-                final CountryInfoKey info = new CountryInfoKey(title, notes, sources, legality, illegality);
+                final CountryInfoKey info = new CountryInfoKey(title, notes, -1, sources, legality, illegality);
                 countries.put(country, info.toString());
             }
         }

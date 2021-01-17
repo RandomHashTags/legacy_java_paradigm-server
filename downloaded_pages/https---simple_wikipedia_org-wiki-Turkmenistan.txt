@@ -3,17 +3,17 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Turkmenistan - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHQpAICMAAKF8SFcAAABS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Turkmenistan","wgTitle":"Turkmenistan","wgCurRevisionId":7104767,"wgRevisionId":7104767,"wgArticleId":20205,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Pages using infobox country with unknown parameters","Pages using infobox country or infobox former country with the symbol caption or type parameters","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers",
-"Wikipedia articles with HDS identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with RERO identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Asia stubs","Turkmenistan","Members of the Organisation of Islamic Cooperation"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Turkmenistan","wgRelevantArticleId":20205,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,
-"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q874"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready",
-"wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VApAICgAALq-e98AAAFF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Turkmenistan","wgTitle":"Turkmenistan","wgCurRevisionId":7266331,"wgRevisionId":7266331,"wgArticleId":20205,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: extra text: authors list","CS1 maint: numeric names: authors list","Webarchive template wayback links","Articles containing Turkmen-language text","Pages using infobox country or infobox former country with the symbol caption or type parameters","Articles with hAudio microformats",
+"Pages including recorded pronunciations","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz area identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with RERO identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat identifiers","Asia stubs","Turkmenistan","Members of the Organisation of Islamic Cooperation"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Turkmenistan","wgRelevantArticleId":20205,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q874"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -55,10 +55,10 @@
         <tr>
          <th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;">
           <div style="display:inline" class="fn org country-name">
-           Republic of Turkmenistan
+           Turkmenistan
           </div><br>
           <div style="padding-top:0.25em; font-weight:normal;">
-           <i>Türkmenistan</i>
+           <i lang="tk" title="Turkmen language text">Türkmenistan</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Turkmen_language" title="Turkmen language">Turkmen</a>)</span><sup id="cite_ref-Hambly_1-0" class="reference"><a href="#cite_note-Hambly-1">[1]</a></sup>
           </div></th>
         </tr>
         <tr>
@@ -83,11 +83,17 @@
           </div></td>
         </tr>
         <tr>
+         <td colspan="2" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Motto:&nbsp;</b><i><a href="/w/index.php?title=List_of_national_mottos&amp;action=edit&amp;redlink=1" class="new" title="List of national mottos (not yet started)">Türkmenistan Bitaraplygyň watanydyr</a></i>
+           <br><span style="font-size:85%;">("Turkmenistan is the motherland of Neutrality")</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+          </div></td>
+        </tr>
+        <tr>
          <td colspan="2" class="anthem" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Anthem:&nbsp;</b>
-           <br><span class="nowrap"><i><a href="/w/index.php?title=National_anthem_of_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="National anthem of Turkmenistan (not yet started)">Garaşsyz Bitarap Türkmenistanyň Döwlet Gimni</a></i><br><span style="font-size:85%;"><i>Independent Neutral Turkmenistan State Anthem</i></span></span>
-           <br>
+           <b>Anthem:&nbsp;</b><i><a href="/w/index.php?title=State_Anthem_of_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="State Anthem of Turkmenistan (not yet started)">Garaşsyz Bitarap Türkmenistanyň Döwlet Gimni</a></i>
+           <br><span style="font-size:85%;">("State Anthem of Independent, Neutral Turkmenistan")</span>
            <center>
             <div class="mediaContainer" style="width:220px">
              <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="119.93179138322" data-startoffset="0" data-mwtitle="National_anthem_of_Turkmenistan,_performed_by_the_United_States_Navy_Band.oga" data-mwprovider="wikimediacommons">
@@ -103,45 +109,76 @@
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:LocationTurkmenistan.svg" class="image" title="Location of Turkmenistan"><img alt="Location of Turkmenistan" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/LocationTurkmenistan.svg/250px-LocationTurkmenistan.svg.png" decoding="async" width="250" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/LocationTurkmenistan.svg/375px-LocationTurkmenistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/LocationTurkmenistan.svg/500px-LocationTurkmenistan.svg.png 2x" data-file-width="1000" data-file-height="500"></a></td>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Turkmenistan_on_the_globe_(Afro-Eurasia_centered).svg" class="image" title="Location of &nbsp;Turkmenistan&nbsp;&nbsp;(red)"><img alt="Location of &nbsp;Turkmenistan&nbsp;&nbsp;(red)" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Turkmenistan_on_the_globe_%28Afro-Eurasia_centered%29.svg/250px-Turkmenistan_on_the_globe_%28Afro-Eurasia_centered%29.svg.png" decoding="async" width="250" height="249" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Turkmenistan_on_the_globe_%28Afro-Eurasia_centered%29.svg/375px-Turkmenistan_on_the_globe_%28Afro-Eurasia_centered%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Turkmenistan_on_the_globe_%28Afro-Eurasia_centered%29.svg/500px-Turkmenistan_on_the_globe_%28Afro-Eurasia_centered%29.svg.png 2x" data-file-width="797" data-file-height="795"></a>
+          <div style="position:relative;top:0.3em;">
+           <div style="text-align:center;font-size:11px;line-height:1.15em;">
+            <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Turkmenistan</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">red</span>)</span>
+           </div>
+          </div></td>
         </tr>
         <tr>
          <th scope="row">Capital<br>
           <div style="font-weight:normal">
            and largest city
           </div></th>
-         <td><a href="/wiki/Ashgabat" class="mw-redirect" title="Ashgabat">Ashgabat</a></td>
+         <td><a href="/wiki/Ashgabat" class="mw-redirect" title="Ashgabat">Ashgabat</a><br><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Turkmenistan&amp;params=37_58_N_58_20_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°58′N</span> <span class="longitude">58°20′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.967°N 58.333°E</span><span style="display:none">﻿ / <span class="geo">37.967; 58.333</span></span></span></a></span></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Official&nbsp;languages</th>
-         <td><a href="/wiki/Turkmen_language" title="Turkmen language">Turkmen</a></td>
+         <td><a href="/wiki/Turkmen_language" title="Turkmen language">Turkmen</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td>
         </tr>
         <tr>
-         <th scope="row">Inter-ethnic<br>languages</th>
-         <td><a href="/wiki/Russian_language" title="Russian language">Russian</a>, <a href="/w/index.php?title=Uzbek_Language&amp;action=edit&amp;redlink=1" class="new" title="Uzbek Language (not yet started)">Uzbek</a></td>
+         <th scope="row">Language of inter-ethnic communication</th>
+         <td><a href="/wiki/Russian_language" title="Russian language">Russian</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Other languages</th>
+         <td><a href="/wiki/Uzbek_language" title="Uzbek language">Uzbek</a> • <a href="/wiki/Kazakh_language" title="Kazakh language">Kazakh</a> • <a href="/w/index.php?title=Eastern_Armenian_language&amp;action=edit&amp;redlink=1" class="new" title="Eastern Armenian language (not yet started)">Eastern Armenian</a> • <a href="/wiki/Azerbaijani_language" title="Azerbaijani language">Azerbaijani</a> • <a href="/wiki/Balochi_language" title="Balochi language">Baluji</a> • <a href="/w/index.php?title=Kurmanji&amp;action=edit&amp;redlink=1" class="new" title="Kurmanji (not yet started)">Kurmanji</a> • <a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a> • <a href="/wiki/Persian_language" title="Persian language">Persian</a> and others</td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
           <div style="font-weight:normal;display:inline;">
-            (2003)
+            (2012)
           </div></th>
          <td>
           <div class="plainlist">
            <ul>
-            <li>85% <a href="/wiki/Turkmen_people" title="Turkmen people">Turkmen</a></li>
-            <li>5% <a href="/wiki/Uzbeks" class="mw-redirect" title="Uzbeks">Uzbek</a></li>
-            <li>4% <a href="/wiki/Russians" class="mw-redirect" title="Russians">Russian</a></li>
-            <li>6% others</li>
+            <li>78.6% <a href="/wiki/Turkmens" class="mw-redirect" title="Turkmens">Turkmens</a></li>
+            <li>9.3% <a href="/wiki/Uzbeks" class="mw-redirect" title="Uzbeks">Uzbeks</a></li>
+            <li>3.2% <a href="/wiki/Russians" class="mw-redirect" title="Russians">Russians</a></li>
+            <li>2.7% <a href="/w/index.php?title=Kazakhs&amp;action=edit&amp;redlink=1" class="new" title="Kazakhs (not yet started)">Kazakhs</a></li>
+            <li>1.1% <a href="/wiki/Tatars" title="Tatars">Tatars</a></li>
+            <li>1.0% <a href="/wiki/Armenians" title="Armenians">Armenians</a></li>
+            <li>0.7% <a href="/wiki/Azerbaijanis" class="mw-redirect" title="Azerbaijanis">Azerbaijanis</a></li>
+            <li>0.4% <a href="/wiki/Baloch_people" title="Baloch people">Balujs</a></li>
+            <li>0.3% <a href="/wiki/Kurds" class="mw-redirect" title="Kurds">Kurds</a></li>
+            <li>0.2% <a href="/wiki/Ukrainians" title="Ukrainians">Ukrainians</a></li>
+            <li>0.2% <a href="/wiki/Persians" class="mw-redirect" title="Persians">Persians</a></li>
+            <li>0.1% <a href="/w/index.php?title=Lezgins&amp;action=edit&amp;redlink=1" class="new" title="Lezgins (not yet started)">Lezgins</a></li>
+            <li>0.1% <a href="/w/index.php?title=Bashkirs&amp;action=edit&amp;redlink=1" class="new" title="Bashkirs (not yet started)">Bashkirs</a></li>
+            <li>2.1% Others</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>93.7% <a href="/w/index.php?title=Islam_in_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="Islam in Turkmenistan (not yet started)">Muslims</a></li>
+            <li>6.1% <a href="/w/index.php?title=Christianity_in_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="Christianity in Turkmenistan (not yet started)">Christians</a></li>
+            <li>0.2% <a href="/w/index.php?title=Religion_in_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="Religion in Turkmenistan (not yet started)">Unknown</a></li>
            </ul>
           </div></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
-         <td><a href="/wiki/Turkmen_people" title="Turkmen people">Turkmen</a></td>
+         <td>Turkmenistani<br>Turkmen<sup id="cite_ref-usembassy_5-0" class="reference"><a href="#cite_note-usembassy-5">[5]</a></sup><br>Turkmenian</td>
         </tr>
         <tr>
          <th scope="row">Government</th>
-         <td><a href="/w/index.php?title=Dictatorship_system&amp;action=edit&amp;redlink=1" class="new" title="Dictatorship system (not yet started)">Dominant-party</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential state</a></td>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/w/index.php?title=Dominant-party_system&amp;action=edit&amp;redlink=1" class="new" title="Dominant-party system (not yet started)">dominant-party</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential republic</a></td>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -156,19 +193,26 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;<a href="/w/index.php?title=List_of_Chairmen_of_the_Assembly_of_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="List of Chairmen of the Assembly of Turkmenistan (not yet started)">Chariman of the Mejlis</a> 
+           •&nbsp;<a href="/w/index.php?title=Vice_President_of_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="Vice President of Turkmenistan (not yet started)">Vice President</a> 
           </div></th>
-         <td><a href="/w/index.php?title=Akja_Nuberdiyeva&amp;action=edit&amp;redlink=1" class="new" title="Akja Nuberdiyeva (not yet started)">Akja Nuberdiyeva</a></td>
+         <td><a href="/wiki/Ra%C5%9Fit_Meredow" title="Raşit Meredow">Raşit Meredow</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=List_of_chairmen_of_the_Assembly_of_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="List of chairmen of the Assembly of Turkmenistan (not yet started)">Chairman of the Assembly</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=G%C3%BCl%C5%9Fat_M%C3%A4mmedowa&amp;action=edit&amp;redlink=1" class="new" title="Gülşat Mämmedowa (not yet started)">Gülşat Mämmedowa</a></td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
         </tr>
         <tr>
          <th scope="row">Legislature</th>
-         <td><a href="/w/index.php?title=Assembly_of_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="Assembly of Turkmenistan (not yet started)">Mejlis</a></td>
+         <td><a href="/w/index.php?title=Assembly_of_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="Assembly of Turkmenistan (not yet started)">Assembly (Mejlis)</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></td>
         </tr>
         <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=History_of_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="History of Turkmenistan (not yet started)">Independence</a> <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">from the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></span></th>
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=History_of_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="History of Turkmenistan (not yet started)">Independence</a> from <a href="/wiki/Russian_Empire" title="Russian Empire">Russia</a></th>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -176,7 +220,28 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Declared 
+           •&nbsp;<a href="/w/index.php?title=Transcaspian_Oblast&amp;action=edit&amp;redlink=1" class="new" title="Transcaspian Oblast (not yet started)">Conquest</a> 
+          </div></th>
+         <td>1879</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Turkmen_Soviet_Socialist_Republic" title="Turkmen Soviet Socialist Republic">Soviet rule</a> 
+          </div></th>
+         <td>13 May 1925</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;Declared state sovereignty 
+          </div></th>
+         <td>22 August 1990</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;From the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a> 
           </div></th>
          <td>27 October 1991</td>
         </tr>
@@ -185,7 +250,14 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Recognized 
           </div></th>
-         <td>25 December 1991</td>
+         <td>26 December 1991</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Constitution_of_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="Constitution of Turkmenistan (not yet started)">Current constitution</a> 
+          </div></th>
+         <td>18 May 1992</td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
@@ -198,7 +270,7 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>491,210&nbsp;km<sup>2</sup> (189,660&nbsp;sq&nbsp;mi)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">52nd</a>)</td>
+         <td>491,210&nbsp;km<sup>2</sup> (189,660&nbsp;sq&nbsp;mi)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">52nd</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
@@ -213,71 +285,68 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2012 estimate
+           •&nbsp;2020 estimate
           </div></th>
-         <td>5,125,693<sup id="cite_ref-unpop_2-0" class="reference"><a href="#cite_note-unpop-2">[2]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">112th</a>)</td>
+         <td>6,031,187 <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">113th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Density
           </div></th>
-         <td>10.5/km<sup>2</sup> (27.2/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">208th</a>)</td>
+         <td>10.5/km<sup>2</sup> (27.2/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">221st</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
-         <td>2011&nbsp;estimate</td>
+         <td>2018&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$43.359 billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$112.659 billion<sup id="cite_ref-imf2_9-0" class="reference"><a href="#cite_note-imf2-9">[9]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$7,846<sup id="cite_ref-imf2_3-1" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$19,526<sup id="cite_ref-imf2_9-1" class="reference"><a href="#cite_note-imf2-9">[9]</a></sup></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
-         <td>2011&nbsp;estimate</td>
+         <td>2018&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$25.742 billion<sup id="cite_ref-imf2_3-2" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$42.764 billion<sup id="cite_ref-imf2_9-2" class="reference"><a href="#cite_note-imf2-9">[9]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$4,658<sup id="cite_ref-imf2_3-3" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup></td>
+         <td>$7,411<sup id="cite_ref-imf2_9-3" class="reference"><a href="#cite_note-imf2-9">[9]</a></sup></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2013)</span></th>
-         <td>0.698<sup id="cite_ref-HDI_4-0" class="reference"><a href="#cite_note-HDI-4">[4]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">102nd</a></td>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(1998)</span></th>
+         <td>40.8<br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+        </tr>
+        <tr>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2019)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.715<sup id="cite_ref-UNHDR_10-0" class="reference"><a href="#cite_note-UNHDR-10">[10]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">111th</a></td>
         </tr>
         <tr>
          <th scope="row">Currency</th>
-         <td><a href="/w/index.php?title=Manat_(Turkmenistan)&amp;action=edit&amp;redlink=1" class="new" title="Manat (Turkmenistan) (not yet started)">Turkmen new manat</a> (<a href="/wiki/ISO_4217" title="ISO 4217">TMT</a>)</td>
+         <td><a href="/w/index.php?title=Turkmenistan_Manat&amp;action=edit&amp;redlink=1" class="new" title="Turkmenistan Manat (not yet started)">Turkmen new manat</a> (<a href="/wiki/ISO_4217" title="ISO 4217">TMT</a>)</td>
         </tr>
-        <tr class="mergedtoprow">
+        <tr>
          <th scope="row">Time zone</th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+5</span> (TMT)</td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
-          </div></th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+5</span> (not observed)</td>
+         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+05</span> (TMT)</td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
@@ -285,7 +354,7 @@
         </tr>
         <tr>
          <th scope="row">Calling code</th>
-         <td><a href="/w/index.php?title=%2B993&amp;action=edit&amp;redlink=1" class="new" title="+993 (not yet started)">+993</a></td>
+         <td><a href="/w/index.php?title=Telephone_numbers_in_Turkmenistan&amp;action=edit&amp;redlink=1" class="new" title="Telephone numbers in Turkmenistan (not yet started)">+993</a></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
@@ -297,7 +366,7 @@
         </tr>
        </tbody>
       </table> 
-      <p><b>Turkmenistan</b> officially the <b>Republic of Turkmenistan</b> is a country in <a href="/wiki/South_Asia" title="South Asia">South</a>-<a href="/wiki/Central_Asia" title="Central Asia">Central Asia</a>. It has borders with <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>, <a href="/wiki/Iran" title="Iran">Iran</a>, <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>, <a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a>. It has no <a href="/wiki/Ocean" title="Ocean">ocean</a> but it is on the <a href="/wiki/Caspian_Sea" title="Caspian Sea">Caspian Sea</a> to the west. The <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> of Turkmenistan is <a href="/wiki/A%C5%9Fgabat" title="Aşgabat">Ashghabat</a>.<sup id="cite_ref-Factbook_5-0" class="reference"><a href="#cite_note-Factbook-5">[5]</a></sup> The majority of the country is <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a> at 93%. </p>
+      <p><b>Turkmenistan</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="'t' in 'tie'">t</span><span title="/ɜːr/: 'ur' in 'fur'">ɜːr</span><span title="'k' in 'kind'">k</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'m' in 'my'">m</span><span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'n' in 'nigh'">n</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'s' in 'sigh'">s</span><span title="'t' in 'tie'">t</span><span title="/æ/: 'a' in 'bad'">æ</span><span title="'n' in 'nigh'">n</span></span>/</a></span> <span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:En-us-Turkmenistan.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20"></a></span><a href="//upload.wikimedia.org/wikipedia/commons/f/f0/En-us-Turkmenistan.ogg" class="internal" title="En-us-Turkmenistan.ogg">listen</a></span></span>)</span></span> or <span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="'t' in 'tie'">t</span><span title="/ɜːr/: 'ur' in 'fur'">ɜːr</span><span title="'k' in 'kind'">k</span><span title="'m' in 'my'">m</span><span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'n' in 'nigh'">n</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'s' in 'sigh'">s</span><span title="'t' in 'tie'">t</span><span title="/ɑː/: 'a' in 'father'">ɑː</span><span title="'n' in 'nigh'">n</span></span>/</a></span> <span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:En-us-Turkmenistan-2.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20"></a></span><a href="//upload.wikimedia.org/wikipedia/commons/f/fd/En-us-Turkmenistan-2.ogg" class="internal" title="En-us-Turkmenistan-2.ogg">listen</a></span></span>)</span></span>; <a href="/wiki/Turkmen_language" title="Turkmen language">Turkmen</a>: <span lang="tk">Türkmenistan</span>, <small>pronounced&nbsp;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/w/index.php?title=Help:IPA/Turkmen&amp;action=edit&amp;redlink=1" class="new" title="Help:IPA/Turkmen (not yet started)">[tʏɾkmønʏˈθːɑːn]</a></span>;<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>), also known as <b>Turkmenia</b>, is a country in <a href="/wiki/South_Asia" title="South Asia">South</a>-<a href="/wiki/Central_Asia" title="Central Asia">Central Asia</a>. It has borders with <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>, <a href="/wiki/Iran" title="Iran">Iran</a>, <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>, <a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a>. It has no <a href="/wiki/Ocean" title="Ocean">ocean</a> but it is on the <a href="/wiki/Caspian_Sea" title="Caspian Sea">Caspian Sea</a> to the west. The <a href="/wiki/Capital_(city)" class="mw-redirect" title="Capital (city)">capital</a> of Turkmenistan is <a href="/wiki/A%C5%9Fgabat" title="Aşgabat">Ashghabat</a>.<sup id="cite_ref-Factbook_12-0" class="reference"><a href="#cite_note-Factbook-12">[12]</a></sup> The majority of the country is <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a> at 93%. </p>
       <p>Turkmenistan is a non-aligned and fully neutral country. </p> 
       <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
        <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
@@ -322,8 +391,8 @@
          <th>Division</th> 
          <th><a href="/wiki/ISO_3166-2" title="ISO 3166-2">ISO 3166-2</a></th> 
          <th>Capital city</th> 
-         <th>Area<sup id="cite_ref-yb2005_6-0" class="reference"><a href="#cite_note-yb2005-6">[6]</a></sup></th> 
-         <th>Pop (2005)<sup id="cite_ref-yb2005_6-1" class="reference"><a href="#cite_note-yb2005-6">[6]</a></sup></th> 
+         <th>Area<sup id="cite_ref-yb2005_13-0" class="reference"><a href="#cite_note-yb2005-13">[13]</a></sup></th> 
+         <th>Pop (2005)<sup id="cite_ref-yb2005_13-1" class="reference"><a href="#cite_note-yb2005-13">[13]</a></sup></th> 
          <th>Key </th>
         </tr> 
         <tr> 
@@ -385,17 +454,29 @@
       <p>Turkmenistan has a humid climate. Annual rainfall is low, particularly in summer. Winters are dry and mild. The wettest region in Turkmenistan is Köýtendağ Range. Köýtendağ is situated in southeastern Turkmenistan on the borders with Uzbekistan. </p> 
       <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turkmenistan&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Turkmenistan&amp;action=edit&amp;section=5" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <div class="reflist" style="list-style-type: decimal;"> 
-       <div class="mw-references-wrap">
+       <div class="mw-references-wrap mw-references-columns">
         <ol class="references"> 
-         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Государственный комитет Туркменистана по статистике&nbsp;: Информация о Туркменистане&nbsp;: <a rel="nofollow" class="external text" href="http://www.stat.gov.tm/ru/content/info/turkmenistan/">О Туркменистане</a>&nbsp;: Туркменистан — одна из пяти стран Центральной Азии, вторая среди них по площади (491,21 тысяч км2), расположен в юго-западной части региона в зоне пустынь, севернее хребта Копетдаг Туркмено-Хорасанской горной системы, между Каспийским морем на западе и рекой Амударья на востоке.</span> </li> 
-         <li id="cite_note-unpop-2"><span class="mw-cite-backlink"><a href="#cite_ref-unpop_2-0">↑</a></span> <span class="reference-text"><cite id="CITEREFDepartment_of_Economic_and_Social_Affairs_Population_Division2009" class="citation journal cs1">Department of Economic and Social Affairs Population Division (2009). <a rel="nofollow" class="external text" href="http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf">"World Population Prospects, Table A.1"</a> <span class="cs1-format">(PDF)</span>. 2008 revision. United Nations<span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=World+Population+Prospects%2C+Table+A.1&amp;rft.date=2009&amp;rft.au=Department+of+Economic+and+Social+Affairs+Population+Division&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fesa%2Fpopulation%2Fpublications%2Fwpp2008%2Fwpp2008_text_tables.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">|journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-imf2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_3-0">3.0</a></sup> <sup><a href="#cite_ref-imf2_3-1">3.1</a></sup> <sup><a href="#cite_ref-imf2_3-2">3.2</a></sup> <sup><a href="#cite_ref-imf2_3-3">3.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=44&amp;pr.y=15&amp;sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=925&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Turkmenistan"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Turkmenistan&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D44%26pr.y%3D15%26sy%3D2009%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D925%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-HDI-4"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_4-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf">"Human Development Report 2011"</a> <span class="cs1-format">(PDF)</span>. United Nations. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">5 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2011&amp;rft.pub=United+Nations&amp;rft.date=2011&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fen%2Fmedia%2FHDR_2011_EN_Table1.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-Factbook-5"><span class="mw-cite-backlink"><a href="#cite_ref-Factbook_5-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/txq.html">"Turkmenistan"</a>. Central Intelligence Agency - The World Factbook<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Turkmenistan&amp;rft.pub=Central+Intelligence+Agency+-+The+World+Factbook&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Ftxq.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-yb2005-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-yb2005_6-0">6.0</a></sup> <sup><a href="#cite_ref-yb2005_6-1">6.1</a></sup></span> <span class="reference-text"><i>Statistical Yearbook of Turkmenistan 2000-2004</i>, National Institute of State Statistics and Information of Turkmenistan, Ashgabat, 2005.</span> </li> 
+         <li id="cite_note-Hambly-1"><span class="mw-cite-backlink"><a href="#cite_ref-Hambly_1-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFHambly" class="citation web cs1">Hambly, Gavin R.G.; et&nbsp;al. <a rel="nofollow" class="external text" href="https://www.britannica.com/place/Turkmenistan">"Turkmenistan"</a>. <i>Encyclopedia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclopedia+Britannica&amp;rft.atitle=Turkmenistan&amp;rft.aulast=Hambly&amp;rft.aufirst=Gavin+R.G.&amp;rft_id=https%3A%2F%2Fwww.britannica.com%2Fplace%2FTurkmenistan&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFEditor" class="citation web cs1">Editor. <a rel="nofollow" class="external text" href="https://en.hronikatm.com/2019/12/turkmenistan-is-the-motherland-of-neutrality-is-the-motto-of-2020/">"<span class="cs1-kern-left">"</span>Turkmenistan is the motherland of Neutrality" is the motto of 2020 | Chronicles of Turkmenistan"</a>. En.hronikatm.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-05-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22Turkmenistan+is+the+motherland+of+Neutrality%22+is+the+motto+of+2020+%26%23124%3B+Chronicles+of+Turkmenistan&amp;rft.pub=En.hronikatm.com&amp;rft.au=Editor&amp;rft_id=https%3A%2F%2Fen.hronikatm.com%2F2019%2F12%2Fturkmenistan-is-the-motherland-of-neutrality-is-the-motto-of-2020%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: extra text: authors list (<a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">link</a>)</span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREF29.12.20192019" class="citation web cs1">29.12.2019 (2019-12-29). <a rel="nofollow" class="external text" href="https://turkmenpetroleum.com/en/2019/12/29/turkmen-parliament-places-year-2020-under-national-motto-turkmenistan-homeland-of-neutrality/">"Turkmen parliament places Year 2020 under national motto "Turkmenistan – Homeland of Neutrality" – tpetroleum"</a>. Turkmenpetroleum.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-05-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Turkmen+parliament+places+Year+2020+under+national+motto+%22Turkmenistan+%E2%80%93+Homeland+of+Neutrality%22+%E2%80%93+tpetroleum&amp;rft.pub=Turkmenpetroleum.com&amp;rft.date=2019-12-29&amp;rft.au=29.12.2019&amp;rft_id=https%3A%2F%2Fturkmenpetroleum.com%2Fen%2F2019%2F12%2F29%2Fturkmen-parliament-places-year-2020-under-national-motto-turkmenistan-homeland-of-neutrality%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: numeric names: authors list (<a href="/wiki/Category:CS1_maint:_numeric_names:_authors_list" title="Category:CS1 maint: numeric names: authors list">link</a>)</span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.constituteproject.org/constitution/Turkmenistan_2008.pdf?lang=en">"Turkmenistan's Constitution of 2008"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Turkmenistan%27s+Constitution+of+2008&amp;rft_id=https%3A%2F%2Fwww.constituteproject.org%2Fconstitution%2FTurkmenistan_2008.pdf%3Flang%3Den&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span></span> </li> 
+         <li id="cite_note-usembassy-5"><span class="mw-cite-backlink"><a href="#cite_ref-usembassy_5-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://tm.usembassy.gov/u-s-citizen-services/dual-citizenship/">"Dual Citizenship"</a>. Ashgabat: U.S. Embassy in Turkmenistan<span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dual+Citizenship&amp;rft.place=Ashgabat&amp;rft.pub=U.S.+Embassy+in+Turkmenistan&amp;rft_id=https%3A%2F%2Ftm.usembassy.gov%2Fu-s-citizen-services%2Fdual-citizenship%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://english.pravda.ru/news/world/26-09-2008/106469-turkmenistan-0/#.U9LH7ahT6j4">http://english.pravda.ru/news/world/26-09-2008/106469-turkmenistan-0/#.U9LH7ahT6j4</a></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Государственный комитет Туркменистана по статистике&nbsp;: Информация о Туркменистане&nbsp;: <a rel="nofollow" class="external text" href="http://www.stat.gov.tm/ru/content/info/turkmenistan/">О Туркменистане</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120107073046/http://www.stat.gov.tm/ru/content/info/turkmenistan/">Archived</a> 7 January 2012 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&nbsp;: Туркменистан — одна из пяти стран Центральной Азии, вторая среди них по площади (491,21 тысяч км2), расположен в юго-западной части региона в зоне пустынь, севернее хребта Копетдаг Туркмено-Хорасанской горной системы, между Каспийским морем на западе и рекой Амударья на востоке.</span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx">https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx</a></span> </li> 
+         <li id="cite_note-imf2-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_9-0">9.0</a></sup> <sup><a href="#cite_ref-imf2_9-1">9.1</a></sup> <sup><a href="#cite_ref-imf2_9-2">9.2</a></sup> <sup><a href="#cite_ref-imf2_9-3">9.3</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=44&amp;pr.y=15&amp;sy=2018&amp;ey=2020&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=925&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">"Turkmenistan"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">2 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Turkmenistan&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2018%2F02%2Fweodata%2Fweorept.aspx%3Fpr.x%3D44%26pr.y%3D15%26sy%3D2018%26ey%3D2020%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D925%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UNHDR-10"><span class="mw-cite-backlink"><a href="#cite_ref-UNHDR_10-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr2020.pdf"><i>Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene</i></a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 15 December 2020. pp.&nbsp;343–346. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-92-1-126442-5" title="Special:BookSources/978-92-1-126442-5"><bdi>978-92-1-126442-5</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Human+Development+Report+2020+The+Next+Frontier%3A+Human+Development+and+the+Anthropocene&amp;rft.pages=343-346&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2020-12-15&amp;rft.isbn=978-92-1-126442-5&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr2020.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFClark1998" class="citation book cs1">Clark, Larry (1998). <i>Turkmen Reference Grammar</i>. Wiesbaden: Harrassowitz Verlag. p.&nbsp;50.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Turkmen+Reference+Grammar&amp;rft.place=Wiesbaden&amp;rft.pages=50&amp;rft.pub=Harrassowitz+Verlag&amp;rft.date=1998&amp;rft.aulast=Clark&amp;rft.aufirst=Larry&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Factbook-12"><span class="mw-cite-backlink"><a href="#cite_ref-Factbook_12-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/txq.html">"Turkmenistan"</a>. Central Intelligence Agency - The World Factbook<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Turkmenistan&amp;rft.pub=Central+Intelligence+Agency+-+The+World+Factbook&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Ftxq.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3ATurkmenistan" class="Z3988"></span></span> </li> 
+         <li id="cite_note-yb2005-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-yb2005_13-0">13.0</a></sup> <sup><a href="#cite_ref-yb2005_13-1">13.1</a></sup></span> <span class="reference-text"><i>Statistical Yearbook of Turkmenistan 2000-2004</i>, National Institute of State Statistics and Information of Turkmenistan, Ashgabat, 2005.</span> </li> 
         </ol>
        </div>
       </div> 
@@ -457,43 +538,43 @@
        <a href="/wiki/File:Asian_states_map.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Asian_states_map.svg/30px-Asian_states_map.svg.png" decoding="async" width="30" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Asian_states_map.svg/45px-Asian_states_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Asian_states_map.svg/60px-Asian_states_map.svg.png 2x" data-file-width="512" data-file-height="410"></a> <i>This <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">short article</a> about <a href="/wiki/Category:Asia_stubs" title="Category:Asia stubs">Asia</a> can be made longer. You can help Wikipedia by <a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Turkmenistan&amp;action=edit">adding to it</a></i>.
       </div> <!-- 
 NewPP limit report
-Parsed by mw1336
-Cached time: 20201227184332
+Parsed by mw1306
+Cached time: 20210114205729
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.808 seconds
-Real time usage: 0.957 seconds
-Preprocessor visited node count: 3668/1000000
-Post‐expand include size: 63784/2097152 bytes
-Template argument size: 6502/2097152 bytes
+CPU time usage: 1.388 seconds
+Real time usage: 1.598 seconds
+Preprocessor visited node count: 4319/1000000
+Post‐expand include size: 101911/2097152 bytes
+Template argument size: 11789/2097152 bytes
 Highest expansion depth: 18/40
-Expensive parser function count: 21/500
+Expensive parser function count: 22/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 15097/5000000 bytes
-Lua time usage: 0.558/10.000 seconds
-Lua memory usage: 6707144/52428800 bytes
+Unstrip post‐expand size: 31557/5000000 bytes
+Lua time usage: 0.981/10.000 seconds
+Lua memory usage: 31751424/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  873.152      1 -total
- 55.22%  482.130      1 Template:Infobox_country
- 53.62%  468.152      3 Template:Infobox
- 25.01%  218.336      3 Template:ISO_3166_code
- 21.90%  191.177      1 Template:Authority_control
- 18.64%  162.797      1 Template:Reflist
- 14.42%  125.898      1 Template:Cite_journal
-  5.13%   44.815      1 Template:Infobox_country/imagetable
-  4.46%   38.960      2 Template:Convinfobox
-  4.39%   38.358     12 Template:Convert
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:20205-0!canonical and timestamp 20201227184332 and revision id 7104767. Serialized with JSON.
+100.00% 1464.129      1 -total
+ 64.28%  941.135      1 Template:Infobox_country
+ 63.14%  924.427      3 Template:Infobox
+ 25.02%  366.347      3 Template:ISO_3166_code
+ 15.92%  233.032      1 Template:Authority_control
+ 12.23%  179.035      1 Template:Reflist
+ 12.16%  177.980      1 Template:Native_name
+ 11.03%  161.523      1 Template:Lang
+  8.68%  127.073      6 Template:Cite_web
+  4.38%   64.201      2 Template:Convinfobox
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:20205-0!canonical and timestamp 20210114205729 and revision id 7266331. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Turkmenistan&amp;oldid=7104767">https://simple.wikipedia.org/w/index.php?title=Turkmenistan&amp;oldid=7104767</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Turkmenistan&amp;oldid=7266331">https://simple.wikipedia.org/w/index.php?title=Turkmenistan&amp;oldid=7266331</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -507,9 +588,13 @@ Transclusion expansion time report (%,ms,calls,template)
      <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
       Hidden categories: 
       <ul>
-       <li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li>
-       <li><a href="/wiki/Category:Pages_using_infobox_country_with_unknown_parameters" title="Category:Pages using infobox country with unknown parameters">Pages using infobox country with unknown parameters</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">CS1 maint: extra text: authors list</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_numeric_names:_authors_list" title="Category:CS1 maint: numeric names: authors list">CS1 maint: numeric names: authors list</a></li>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Turkmen-language_text" title="Category:Articles containing Turkmen-language text">Articles containing Turkmen-language text</a></li>
        <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
+       <li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li>
+       <li><a href="/wiki/Category:Pages_including_recorded_pronunciations" title="Category:Pages including recorded pronunciations">Pages including recorded pronunciations</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li>
        <li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li>
@@ -600,9 +685,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -626,9 +711,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Turkmenistan" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Turkmenistan&amp;oldid=7104767" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Turkmenistan&amp;oldid=7266331" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Turkmenistan&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Turkmenistan&amp;id=7104767&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Turkmenistan&amp;id=7266331&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q874" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -761,7 +846,6 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Tirkmenistan" title="Tirkmenistan – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li>
        <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A2%D2%AF%D1%80%D0%BA%D0%BC%D3%A9%D0%BD%D1%81%D1%82%D0%B0%D0%BD" title="Түркмөнстан – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
        <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Turkmenistan" title="Turkmenistan – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
-       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%AA%D9%88%D8%B1%DA%A9%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86" title="تورکمنستان – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
        <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Turcomannia" title="Turcomannia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
        <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Turkmenist%C4%81na" title="Turkmenistāna – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
        <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Turkmenistan" title="Turkmenistan – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
@@ -886,7 +970,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 11 September 2020, at 07:58.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 13 January 2021, at 23:40.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -904,8 +988,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.808","walltime":"0.957","ppvisitednodes":{"value":3668,"limit":1000000},"postexpandincludesize":{"value":63784,"limit":2097152},"templateargumentsize":{"value":6502,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":21,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15097,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  873.152      1 -total"," 55.22%  482.130      1 Template:Infobox_country"," 53.62%  468.152      3 Template:Infobox"," 25.01%  218.336      3 Template:ISO_3166_code"," 21.90%  191.177      1 Template:Authority_control"," 18.64%  162.797      1 Template:Reflist"," 14.42%  125.898      1 Template:Cite_journal","  5.13%   44.815      1 Template:Infobox_country/imagetable","  4.46%   38.960      2 Template:Convinfobox","  4.39%   38.358     12 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.558","limit":"10.000"},"limitreport-memusage":{"value":6707144,"limit":52428800}},"cachereport":{"origin":"mw1336","timestamp":"20201227184332","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Turkmenistan","url":"https:\/\/simple.wikipedia.org\/wiki\/Turkmenistan","sameAs":"http:\/\/www.wikidata.org\/entity\/Q874","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q874","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-26T02:43:50Z","dateModified":"2020-09-11T07:58:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1b\/Flag_of_Turkmenistan.svg","headline":"sovereign state in Central Asia"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":309,"wgHostname":"mw1333"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.388","walltime":"1.598","ppvisitednodes":{"value":4319,"limit":1000000},"postexpandincludesize":{"value":101911,"limit":2097152},"templateargumentsize":{"value":11789,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31557,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1464.129      1 -total"," 64.28%  941.135      1 Template:Infobox_country"," 63.14%  924.427      3 Template:Infobox"," 25.02%  366.347      3 Template:ISO_3166_code"," 15.92%  233.032      1 Template:Authority_control"," 12.23%  179.035      1 Template:Reflist"," 12.16%  177.980      1 Template:Native_name"," 11.03%  161.523      1 Template:Lang","  8.68%  127.073      6 Template:Cite_web","  4.38%   64.201      2 Template:Convinfobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.981","limit":"10.000"},"limitreport-memusage":{"value":31751424,"limit":52428800}},"cachereport":{"origin":"mw1306","timestamp":"20210114205729","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Turkmenistan","url":"https:\/\/simple.wikipedia.org\/wiki\/Turkmenistan","sameAs":"http:\/\/www.wikidata.org\/entity\/Q874","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q874","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-26T02:43:50Z","dateModified":"2021-01-13T23:40:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1b\/Flag_of_Turkmenistan.svg","headline":"sovereign state in Central Asia"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":201,"wgHostname":"mw1319"});});</script> 
  </body>
 </html>

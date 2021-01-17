@@ -1,15 +1,15 @@
 package me.randomhashtags.worldlaws.info.list;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.info.AppleFeatureAvailability;
+import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureAvailability;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.util.*;
-import java.util.logging.Level;
-import java.util.stream.Stream;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public enum Flyover implements AppleFeatureAvailability {
     INSTANCE;
@@ -22,19 +22,12 @@ public enum Flyover implements AppleFeatureAvailability {
     }
 
     @Override
-    public void getValue(String countryBackendID, CompletionHandler handler) {
-        if(countries == null) {
-            load();
-        }
-        handler.handle(getValue(countryBackendID));
+    public HashMap<String, String> getCountries() {
+        return countries;
     }
 
-    private String getValue(String countryBackendID) {
-        return countries.getOrDefault(countryBackendID, "null");
-    }
-
-    private void load() {
-        final long started = System.currentTimeMillis();
+    @Override
+    public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final Elements elements = getSectionValues("maps-flyover").select("div.section-content ul li");
         final HashMap<String, List<FlyoverObj>> flyovers = new HashMap<>();
@@ -55,16 +48,8 @@ public enum Flyover implements AppleFeatureAvailability {
                 if(!flyovers.containsKey(country)) {
                     flyovers.put(country, new ArrayList<>());
                 }
-                Stream<FlyoverObj> stream = flyovers.get(country).stream().filter(test -> test.getTerritory().equals(territory));
-                if(stream.count() == 0) {
-                    flyovers.get(country).add(new FlyoverObj(territory, new ArrayList<>()));
-                }
-                for(FlyoverObj obj : flyovers.get(country)) {
-                    if(territory.equals(obj.getTerritory())) {
-                        obj.addCity(city);
-                        break;
-                    }
-                }
+                final FlyoverObj flyoverObj = new FlyoverObj(country, territory, city);
+                flyovers.get(country).add(flyoverObj);
             }
         }
         boolean isFirst = true;
@@ -79,6 +64,6 @@ public enum Flyover implements AppleFeatureAvailability {
             builder.append("]");
             countries.put(country, builder.toString());
         }
-        WLLogger.log(Level.INFO, "Flyover - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
+        handler.handle(null);
     }
 }

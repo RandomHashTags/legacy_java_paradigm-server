@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.info.availability.tech;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.info.AppleFeatureAvailability;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityCategory;
 import me.randomhashtags.worldlaws.location.CountryInfo;
@@ -31,11 +30,11 @@ public enum AppleCarPlay implements AppleAvailability, AppleFeatureAvailability 
         COUNTRIES.put(info, new HashMap<>());
         final String title = info.getTitle();
         final CountryAvailabilityCategory category = CountryAvailabilityCategory.APPLE;
+        final String availability = new CountryAvailability(title, true, category).toString();
         final Elements elements = getSectionValues("apple-carplay").select("div.section-content ul li");
         for(Element element : elements) {
             final String country = element.textNodes().get(0).text().toLowerCase().replace(" ", "");
-            final CountryAvailability availability = new CountryAvailability(title, true, category);
-            COUNTRIES.get(info).put(country, availability.toString());
+            COUNTRIES.get(info).put(country, availability);
         }
         WLLogger.log(Level.INFO, "AppleCarPlay - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
     }

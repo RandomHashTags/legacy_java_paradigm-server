@@ -80,11 +80,13 @@ public final class LocalServer implements DataValues {
         switch (input.toLowerCase()) {
             case "stop":
             case "shutdown":
+            case "exit":
                 stop();
                 INPUT_SCANNER.close();
                 return;
             case "restart":
             case "reload":
+            case "reboot":
                 stop();
                 start();
                 break;

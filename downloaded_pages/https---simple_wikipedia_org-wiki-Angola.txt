@@ -3,16 +3,17 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Angola - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@lfHQpAMMUAABAgXVYAAAAJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Angola","wgTitle":"Angola","wgCurRevisionId":7217387,"wgRevisionId":7217387,"wgArticleId":53,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Portuguese-language text","Pages using infobox country or infobox former country with the symbol caption or type parameters","Angola","Portuguese-speaking countries","Least developed countries","1975 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
-"Angola","wgRelevantArticleId":53,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q916"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
-"mediawiki.page.gallery.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.categoryTree","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VQpAAMMAA3lj1i0AAAAI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Angola","wgTitle":"Angola","wgCurRevisionId":7266312,"wgRevisionId":7266312,"wgArticleId":53,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Portuguese-language sources (pt)","Articles containing Portuguese-language text","Articles containing Latin-language text","Articles containing explicitly cited English-language text","Pages using infobox country or infobox former country with the symbol caption or type parameters","Angola","Portuguese-speaking countries",
+"Least developed countries","1975 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Angola","wgRelevantArticleId":53,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q916"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -57,17 +58,7 @@
            Republic of Angola
           </div><br>
           <div style="padding-top:0.25em; font-weight:normal;">
-           <hr>
-           <div style="padding:0.2em 0 0.1em;line-height:1.0em;">
-            <i>República de Angola</i>
-            <br><span style="font-size:75%;"><style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">(<a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>)</span></span>
-           </div>
-           <hr>
-           <div style="padding-top:0.1em;line-height:1.0em;">
-            <i>Repubilika ya Ngola</i>
-            <br><span style="font-size:75%;">
-             <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r6670383"><span class="nobold">(<a href="/wiki/Kongo_language" title="Kongo language">Kikongo</a>&nbsp;/ <a href="/wiki/North_Mbundu_language" class="mw-redirect" title="North Mbundu language">Kimbundu</a>&nbsp;/ <a href="/wiki/South_Mbundu_language" title="South Mbundu language">Umbundu</a>)</span></span>
-           </div>
+           <i lang="pt" title="Portuguese language text">República de Angola</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:68%;font-weight:normal;">(<a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>)</span>
           </div></th>
         </tr>
         <tr>
@@ -92,37 +83,56 @@
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" class="anthem" style="text-align:center">
+         <td colspan="2" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Anthem:&nbsp;</b><i lang="pt" title="Portuguese language text"><a href="/wiki/Angola_Avante" title="Angola Avante">Angola Avante!</a></i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>)</span>
-           <br><span style="font-size:85%;"><i>Forward Angola!</i></span>
+           <b>Motto:&nbsp;</b>
+           <div class="plainlist">
+            <ul>
+             <li><i lang="la" title="Latin language text">Virtus Unita Fortior</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(Latin)</span></li>
+             <li><span style="font-size:85%;">(English: <span lang="en">"Virtue is stronger when united"</span>)</span></li>
+            </ul>
+           </div>
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Angola_(orthographic_projection).svg" class="image" title="Location of Angola"><img alt="Location of Angola" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Angola_%28orthographic_projection%29.svg/250px-Angola_%28orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Angola_%28orthographic_projection%29.svg/375px-Angola_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Angola_%28orthographic_projection%29.svg/500px-Angola_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a></td>
+         <td colspan="2" class="anthem" style="text-align:center">
+          <div style="line-height:1.2em;">
+           <b>Anthem:&nbsp;</b>"<a href="/wiki/Angola_Avante" title="Angola Avante">Angola Avante</a>"
+           <br>(English: <span lang="en">"Onwards Angola"</span>)
+           <br>
+          </div></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center">
+          <div class="switcher-container">
+           <div>
+            <a href="/wiki/File:Angola_(orthographic_projection).svg" class="image"><img alt="Angola (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Angola_%28orthographic_projection%29.svg/220px-Angola_%28orthographic_projection%29.svg.png" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Angola_%28orthographic_projection%29.svg/330px-Angola_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Angola_%28orthographic_projection%29.svg/440px-Angola_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a><span class="switcher-label" style="display:none" data-switcher-default="">Show globe</span>
+           </div>
+           <div>
+            <a href="/wiki/File:Location_Angola_AU_Africa.svg" class="image"><img alt="Location Angola AU Africa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Location_Angola_AU_Africa.svg/250px-Location_Angola_AU_Africa.svg.png" decoding="async" width="250" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Location_Angola_AU_Africa.svg/375px-Location_Angola_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Location_Angola_AU_Africa.svg/500px-Location_Angola_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300"></a><span class="switcher-label" style="display:none">Show map of Africa</span>
+           </div>
+          </div></td>
         </tr>
         <tr>
          <th scope="row">Capital<br>
           <div style="font-weight:normal">
            and largest city
           </div></th>
-         <td><a href="/wiki/Luanda" title="Luanda">Luanda</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Angola&amp;params=8_50_S_13_20_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">8°50′S</span> <span class="longitude">13°20′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">8.833°S 13.333°E</span><span style="display:none">﻿ / <span class="geo">-8.833; 13.333</span></span></span></a></span></td>
+         <td><a href="/wiki/Luanda" title="Luanda">Luanda</a><br><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Angola&amp;params=8_50_S_13_20_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">8°50′S</span> <span class="longitude">13°20′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">8.833°S 13.333°E</span><span style="display:none">﻿ / <span class="geo">-8.833; 13.333</span></span></span></a></span></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Official&nbsp;languages</th>
          <td><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
         </tr>
-        <tr class="mergedrow">
-         <th scope="row"><span style="font-weight:normal;">Recognised national&nbsp;languages</span></th>
+        <tr>
+         <th scope="row">National languages</th>
          <td>
           <div class="plainlist">
            <ul>
-            <li><a href="/wiki/Kongo_language" title="Kongo language">Kikongo</a></li>
             <li><a href="/wiki/Chokwe_language" title="Chokwe language">Chokwe</a></li>
-            <li><a href="/wiki/South_Mbundu_language" title="South Mbundu language">Umbundu</a></li>
-            <li><a href="/wiki/North_Mbundu_language" class="mw-redirect" title="North Mbundu language">Kimbundu</a></li>
-            <li>(<a href="/w/index.php?title=Mbunda_language&amp;action=edit&amp;redlink=1" class="new" title="Mbunda language (not yet started)">Mbunda</a>) <a href="/w/index.php?title=Ganguela_language&amp;action=edit&amp;redlink=1" class="new" title="Ganguela language (not yet started)">Ganguela</a></li>
-            <li><a href="/w/index.php?title=Kwanyama_dialect&amp;action=edit&amp;redlink=1" class="new" title="Kwanyama dialect (not yet started)">Kwanyama</a></li>
+            <li><a href="/wiki/Kongo_language" title="Kongo language">Kikongo</a></li>
+            <li><a href="/wiki/Kimbundu" title="Kimbundu">Kimbundu</a></li>
+            <li><a href="/wiki/Umbundu" class="mw-redirect" title="Umbundu">Umbundu</a></li>
            </ul>
           </div></td>
         </tr>
@@ -131,26 +141,38 @@
           <div style="font-weight:normal;display:inline;">
             (2000)
           </div></th>
+         <td>37% <a href="/w/index.php?title=Ovimbundu&amp;action=edit&amp;redlink=1" class="new" title="Ovimbundu (not yet started)">Ovimbundu</a><br>25% <a href="/w/index.php?title=Ambundu&amp;action=edit&amp;redlink=1" class="new" title="Ambundu (not yet started)">Ambundu</a><br>13% <a href="/w/index.php?title=Kongo_people&amp;action=edit&amp;redlink=1" class="new" title="Kongo people (not yet started)">Bakongo</a><br>21% Other African<br>2% <a href="/w/index.php?title=Mesti%C3%A7o&amp;action=edit&amp;redlink=1" class="new" title="Mestiço (not yet started)">Mestiço</a> (mixed European and African)<br>1% <a href="/w/index.php?title=Overseas_Chinese&amp;action=edit&amp;redlink=1" class="new" title="Overseas Chinese (not yet started)">Chinese</a><br>1% <a href="/w/index.php?title=White_Africans_of_European_ancestry&amp;action=edit&amp;redlink=1" class="new" title="White Africans of European ancestry (not yet started)">European</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;">
+            (2015)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+          </div></th>
          <td>
           <div class="plainlist">
            <ul>
-            <li>36% <a href="/w/index.php?title=Ovimbundu&amp;action=edit&amp;redlink=1" class="new" title="Ovimbundu (not yet started)">Ovimbundu</a></li>
-            <li>25% <a href="/w/index.php?title=Northern_Mbundu_people&amp;action=edit&amp;redlink=1" class="new" title="Northern Mbundu people (not yet started)">Ambundu</a></li>
-            <li>13% <a href="/w/index.php?title=Bakongo&amp;action=edit&amp;redlink=1" class="new" title="Bakongo (not yet started)">Bakongo</a></li>
-            <li><span class="nowrap">22% other African</span></li>
-            <li>2% <a href="/w/index.php?title=Mestico&amp;action=edit&amp;redlink=1" class="new" title="Mestico (not yet started)">Mestiço</a></li>
-            <li>1% <a href="/wiki/Chinese_people" title="Chinese people">Chinese</a></li>
-            <li>1% <a href="/wiki/Europe" title="Europe">European</a></li>
+            <li style="white-space:nowrap;">93.4% <a href="/wiki/Christianity" title="Christianity">Christianity</a></li>
+            <li style="white-space:nowrap;">—56.4% <a href="/w/index.php?title=Catholic_Church_in_Angola&amp;action=edit&amp;redlink=1" class="new" title="Catholic Church in Angola (not yet started)">Roman Catholic</a></li>
+            <li style="white-space:nowrap;">—23.4% <a href="/wiki/Protestant" class="mw-redirect" title="Protestant">Protestant</a></li>
+            <li style="white-space:nowrap;">—13.6% Other <a href="/w/index.php?title=List_of_Christian_denominations&amp;action=edit&amp;redlink=1" class="new" title="List of Christian denominations (not yet started)">Christian</a></li>
+            <li style="white-space:nowrap;">4.5% <a href="/w/index.php?title=African_Traditional_Religion&amp;action=edit&amp;redlink=1" class="new" title="African Traditional Religion (not yet started)">Traditional faiths</a></li>
+            <li style="white-space:nowrap;">1.1% Others</li>
+            <li style="white-space:nowrap;">1.0% <a href="/wiki/Irreligion" title="Irreligion">No religion</a></li>
            </ul>
           </div></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
-         <td>Angolan</td>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li><a href="/w/index.php?title=Demographics_of_Angola&amp;action=edit&amp;redlink=1" class="new" title="Demographics of Angola (not yet started)">Angolan</a></li>
+           </ul>
+          </div></td>
         </tr>
         <tr>
          <th scope="row">Government</th>
-         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Republic" title="Republic">republic</a></td>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/w/index.php?title=Dominant-party_system&amp;action=edit&amp;redlink=1" class="new" title="Dominant-party system (not yet started)">dominant-party</a> <a href="/wiki/Presidential_system" class="mw-redirect" title="Presidential system">presidential</a> <a href="/wiki/Republic" title="Republic">constitutional republic</a></td>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -160,7 +182,7 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;<a href="/wiki/President_of_Angola" title="President of Angola">President</a> 
           </div></th>
-         <td><a href="/wiki/Jo%C3%A3o_Louren%C3%A7o" title="João Lourenço">João Lourenço</a><sup id="cite_ref-reuters_1-0" class="reference"><a href="#cite_note-reuters-1">[1]</a></sup></td>
+         <td><a href="/wiki/Jo%C3%A3o_Louren%C3%A7o" title="João Lourenço">João Lourenço</a></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
@@ -177,17 +199,31 @@
          <td><a href="/wiki/National_Assembly_(Angola)" title="National Assembly (Angola)">National Assembly</a></td>
         </tr>
         <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Angolan_War_of_Independence" title="Angolan War of Independence">Independence</a></th>
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/w/index.php?title=History_of_Angola&amp;action=edit&amp;redlink=1" class="new" title="History of Angola (not yet started)">Formation</a></th>
         </tr>
-        <tr class="mergedbottomrow">
+        <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;from <a href="/wiki/Portugal" title="Portugal">Portugal</a> 
+           •&nbsp;<a href="/wiki/Angolan_War_of_Independence" title="Angolan War of Independence">Independence</a> from <a href="/wiki/Portugal" title="Portugal">Portugal</a>, under <a href="/w/index.php?title=People%27s_Republic_of_Angola&amp;action=edit&amp;redlink=1" class="new" title="People's Republic of Angola (not yet started)">Communist rule</a> 
           </div></th>
          <td>11 November 1975</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/United_Nations" title="United Nations">United Nations</a> <a href="/w/index.php?title=United_Nations_Security_Council_Resolution_397&amp;action=edit&amp;redlink=1" class="new" title="United Nations Security Council Resolution 397 (not yet started)">full membership</a> 
+          </div></th>
+         <td>22 November 1976</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Constitution_of_Angola&amp;action=edit&amp;redlink=1" class="new" title="Constitution of Angola (not yet started)">Current constitution</a> 
+          </div></th>
+         <td>21 January 2010</td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
@@ -200,7 +236,7 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>1,246,700&nbsp;km<sup>2</sup> (481,400&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">23rd</a>)</td>
+         <td>1,246,700&nbsp;km<sup>2</sup> (481,400&nbsp;sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_area" class="mw-redirect" title="List of countries and dependencies by area">22nd</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
@@ -215,75 +251,75 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;2020 estimate
+          </div></th>
+         <td>31,127,674<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">46th</a>)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;2014&nbsp;census
           </div></th>
-         <td>25,789,024<sup id="cite_ref-Censo2014_2-0" class="reference"><a href="#cite_note-Censo2014-2">[2]</a></sup></td>
+         <td>25,789,024<sup id="cite_ref-INE_Angola_3-0" class="reference"><a href="#cite_note-INE_Angola-3">[3]</a></sup></td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Density
           </div></th>
-         <td>14.8/km<sup>2</sup> (38.3/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">199th</a>)</td>
+         <td>24.97/km<sup>2</sup> (64.7/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">157th</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
-         <td>2012&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$128.288 billion<sup id="cite_ref-imf2_3-0" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">64th</a>)</td>
+         <td>$208.034&nbsp;billion<sup id="cite_ref-imf2_4-0" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">64th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$6,346<sup id="cite_ref-imf2_3-1" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">107th</a>)</td>
+         <td>$6,850<sup id="cite_ref-imf2_4-1" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">107th</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
-         <td>2012&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$118.719 billion<sup id="cite_ref-imf2_3-2" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">61st</a>)</td>
+         <td>$124.600 billion<sup id="cite_ref-imf2_4-2" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">61st</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$5,873<sup id="cite_ref-imf2_3-3" class="reference"><a href="#cite_note-imf2-3">[3]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">91st</a>)</td>
+         <td>$4,101<sup id="cite_ref-imf2_4-3" class="reference"><a href="#cite_note-imf2-4">[4]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">91st</a>)</td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2009)</span></th>
-         <td>42.7<sup id="cite_ref-wb-gini_4-0" class="reference"><a href="#cite_note-wb-gini-4">[4]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2018)</span></th>
+         <td>51.3<sup id="cite_ref-wb-gini_5-0" class="reference"><a href="#cite_note-wb-gini-5">[5]</a></sup><br><span style="white-space:nowrap;"><span style="color:darkred">high</span></span></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2013)</span></th>
-         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.508<br><span style="white-space:nowrap;"><span style="color:red">low</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">148th</a></td>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2019)</span></th>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.581<sup id="cite_ref-UNHDR_6-0" class="reference"><a href="#cite_note-UNHDR-6">[6]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">148th</a></td>
         </tr>
         <tr>
          <th scope="row">Currency</th>
          <td><a href="/wiki/Angolan_kwanza" title="Angolan kwanza">Kwanza</a> (<a href="/wiki/ISO_4217" title="ISO 4217">AOA</a>)</td>
         </tr>
-        <tr class="mergedtoprow">
+        <tr>
          <th scope="row">Time zone</th>
          <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (<a href="/wiki/West_Africa_Time" title="West Africa Time">WAT</a>)</td>
-        </tr>
-        <tr class="mergedbottomrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Summer&nbsp;(<a href="/wiki/Daylight_saving_time" class="mw-redirect" title="Daylight saving time">DST</a>)
-          </div></th>
-         <td><span class="nowrap"><a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>+1</span> (not observed)</td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
@@ -291,7 +327,7 @@
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Telephone_numbers_in_Angola" title="Telephone numbers in Angola">Calling code</a></th>
-         <td><a href="/wiki/%2B244" class="mw-redirect" title="+244">+244</a></td>
+         <td><a href="/wiki/Telephone_numbers_in_Angola" title="Telephone numbers in Angola">+244</a></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
@@ -345,7 +381,7 @@
         </div>
        </div>
       </div> 
-      <p>Angola had a population of 25,789,024 in 2014.<sup id="cite_ref-Censo2014_2-1" class="reference"><a href="#cite_note-Censo2014-2">[2]</a></sup> </p> 
+      <p>Angola had a population of 25,789,024 in 2014.<sup id="cite_ref-Censo2014_7-0" class="reference"><a href="#cite_note-Censo2014-7">[7]</a></sup> </p> 
       <h2><span class="mw-headline" id="Provinces">Provinces</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angola&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Provinces">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angola&amp;action=edit&amp;section=5" title="Change section: Provinces">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <ul class="gallery mw-gallery-traditional"> 
        <li class="gallerybox" style="width: 155px">
@@ -480,13 +516,18 @@
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap">
         <ol class="references"> 
-         <li id="cite_note-reuters-1"><span class="mw-cite-backlink"><a href="#cite_ref-reuters_1-0">↑</a></span> <span class="reference-text"><cite id="CITEREFEisenhammer2017" class="citation web cs1">Eisenhammer, Stephen (September 26, 2017). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-angola-politics/angolas-first-new-president-in-38-years-vows-to-fight-graft-idUSKCN1C12G0?il=0">"Angola's first new president in 38 years vows to fight graft"</a>. Reuters<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Angola%E2%80%99s+first+new+president+in+38+years+vows+to+fight+graft&amp;rft.pub=Reuters&amp;rft.date=2017-09-26&amp;rft.aulast=Eisenhammer&amp;rft.aufirst=Stephen&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-angola-politics%2Fangolas-first-new-president-in-38-years-vows-to-fight-graft-idUSKCN1C12G0%3Fil%3D0&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAngola" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-Censo2014-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Censo2014_2-0">2.0</a></sup> <sup><a href="#cite_ref-Censo2014_2-1">2.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ine.gov.ao/images/Populacao_Sociedade/Estudos_tematicos/PUBLICACAO_RESULTADOS_DEFINITIVOS_DO_CENSO_2014.pdf">"Resultados Definitivos Recenseamento Geral da População e Habitação - 2014"</a> <span class="cs1-format">(PDF)</span>. <i>Instituto Nacional de Estatística, República de Angola</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 May</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Instituto+Nacional+de+Estat%C3%ADstica%2C+Rep%C3%BAblica+de+Angola&amp;rft.atitle=Resultados+Definitivos+Recenseamento+Geral+da+Popula%C3%A7%C3%A3o+e+Habita%C3%A7%C3%A3o+-+2014&amp;rft_id=https%3A%2F%2Fwww.ine.gov.ao%2Fimages%2FPopulacao_Sociedade%2FEstudos_tematicos%2FPUBLICACAO_RESULTADOS_DEFINITIVOS_DO_CENSO_2014.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAngola" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-imf2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_3-0">3.0</a></sup> <sup><a href="#cite_ref-imf2_3-1">3.1</a></sup> <sup><a href="#cite_ref-imf2_3-2">3.2</a></sup> <sup><a href="#cite_ref-imf2_3-3">3.3</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=614&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=53&amp;pr.y=7">"Angola"</a>. International Monetary Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Angola&amp;rft.pub=International+Monetary+Fund&amp;rft_id=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2013%2F01%2Fweodata%2Fweorept.aspx%3Fsy%3D2009%26ey%3D2012%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D614%26s%3DNGDPD%252CNGDPDPC%252CPPPGDP%252CPPPPC%252CLP%26grp%3D0%26a%3D%26pr.x%3D53%26pr.y%3D7&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAngola" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-wb-gini-4"><span class="mw-cite-backlink"><a href="#cite_ref-wb-gini_4-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://data.worldbank.org/indicator/SI.POV.GINI/">"Gini Index"</a>. World Bank<span class="reference-accessdate">. Retrieved <span class="nowrap">2 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gini+Index&amp;rft.pub=World+Bank&amp;rft_id=http%3A%2F%2Fdata.worldbank.org%2Findicator%2FSI.POV.GINI%2F&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAngola" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.thearda.com/internationalData/countries/Country_7_1.asp">"Angola"</a>. <a href="/w/index.php?title=Association_of_Religion_Data_Archives&amp;action=edit&amp;redlink=1" class="new" title="Association of Religion Data Archives (not yet started)">Association of Religion Data Archives</a>. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Angola&amp;rft.pub=Association+of+Religion+Data+Archives&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fwww.thearda.com%2FinternationalData%2Fcountries%2FCountry_7_1.asp&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAngola" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">"Início". www.ine.gov.ao. Archived from the original on 2020-03-19. Retrieved 2020-04-18.</span> </li> 
+         <li id="cite_note-INE_Angola-3"><span class="mw-cite-backlink"><a href="#cite_ref-INE_Angola_3-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160506013702/http://aiangola.com/wp-content/uploads/2016/03/Publica%C3%A7%C3%A3o-Resultados-Definitivos-Censo-Geral-2014_Vers%C3%A3o-22032016_DEFINITIVA-18H17.pdf"><i>Resultados Definitivos do Recenseamento Geral da População e da Habitação de Angola 2014</i></a> [<i>Final Results of the General Census of Population and Housing of Angola 2014</i>] <span class="cs1-format">(PDF)</span> (in Portuguese), Instituto Nacional de Estatística, March 2016, archived from <a rel="nofollow" class="external text" href="http://aiangola.com/wp-content/uploads/2016/03/Publica%C3%A7%C3%A3o-Resultados-Definitivos-Censo-Geral-2014_Vers%C3%A3o-22032016_DEFINITIVA-18H17.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 6 May 2016</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Resultados+Definitivos+do+Recenseamento+Geral+da+Popula%C3%A7%C3%A3o+e+da+Habita%C3%A7%C3%A3o+de+Angola+2014&amp;rft.pub=Instituto+Nacional+de+Estat%C3%ADstica&amp;rft.date=2016-03&amp;rft_id=http%3A%2F%2Faiangola.com%2Fwp-content%2Fuploads%2F2016%2F03%2FPublica%25C3%25A7%25C3%25A3o-Resultados-Definitivos-Censo-Geral-2014_Vers%25C3%25A3o-22032016_DEFINITIVA-18H17.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAngola" class="Z3988"></span></span> </li> 
+         <li id="cite_note-imf2-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_4-0">4.0</a></sup> <sup><a href="#cite_ref-imf2_4-1">4.1</a></sup> <sup><a href="#cite_ref-imf2_4-2">4.2</a></sup> <sup><a href="#cite_ref-imf2_4-3">4.3</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?pr.x=90&amp;pr.y=17&amp;sy=2018&amp;ey=2023&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=512%2C946%2C914%2C137%2C612%2C546%2C614%2C962%2C311%2C674%2C213%2C676%2C911%2C548%2C193%2C556%2C122%2C678%2C912%2C181%2C313%2C867%2C419%2C682%2C513%2C684%2C316%2C273%2C913%2C868%2C124%2C921%2C339%2C948%2C638%2C943%2C514%2C686%2C218%2C688%2C963%2C518%2C616%2C728%2C223%2C836%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C624%2C692%2C522%2C694%2C622%2C142%2C156%2C449%2C626%2C564%2C628%2C565%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C359%2C960%2C453%2C423%2C968%2C935%2C922%2C128%2C714%2C611%2C862%2C321%2C135%2C243%2C716%2C248%2C456%2C469%2C722%2C253%2C942%2C642%2C718%2C643%2C724%2C939%2C576%2C644%2C936%2C819%2C961%2C172%2C813%2C132%2C726%2C646%2C199%2C648%2C733%2C915%2C184%2C134%2C524%2C652%2C361%2C174%2C362%2C328%2C364%2C258%2C732%2C656%2C366%2C654%2C734%2C336%2C144%2C263%2C146%2C268%2C463%2C532%2C528%2C944%2C923%2C176%2C738%2C534%2C578%2C536%2C537%2C429%2C742%2C433%2C866%2C178%2C369%2C436%2C744%2C136%2C186%2C343%2C925%2C158%2C869%2C439%2C746%2C916%2C926%2C664%2C466%2C826%2C112%2C542%2C111%2C967%2C298%2C443%2C927%2C917%2C846%2C544%2C299%2C941%2C582%2C446%2C474%2C666%2C754%2C668%2C698%2C672&amp;s=PPPGDP%2CPPPPC&amp;grp=0&amp;a=">"Report for Selected Countries and Subjects: Angola"</a>. <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+for+Selected+Countries+and+Subjects%3A+Angola&amp;rft.pub=International+Monetary+Fund&amp;rft_id=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2018%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D90%26pr.y%3D17%26sy%3D2018%26ey%3D2023%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D512%252C946%252C914%252C137%252C612%252C546%252C614%252C962%252C311%252C674%252C213%252C676%252C911%252C548%252C193%252C556%252C122%252C678%252C912%252C181%252C313%252C867%252C419%252C682%252C513%252C684%252C316%252C273%252C913%252C868%252C124%252C921%252C339%252C948%252C638%252C943%252C514%252C686%252C218%252C688%252C963%252C518%252C616%252C728%252C223%252C836%252C516%252C558%252C918%252C138%252C748%252C196%252C618%252C278%252C624%252C692%252C522%252C694%252C622%252C142%252C156%252C449%252C626%252C564%252C628%252C565%252C228%252C283%252C924%252C853%252C233%252C288%252C632%252C293%252C636%252C566%252C634%252C964%252C238%252C182%252C662%252C359%252C960%252C453%252C423%252C968%252C935%252C922%252C128%252C714%252C611%252C862%252C321%252C135%252C243%252C716%252C248%252C456%252C469%252C722%252C253%252C942%252C642%252C718%252C643%252C724%252C939%252C576%252C644%252C936%252C819%252C961%252C172%252C813%252C132%252C726%252C646%252C199%252C648%252C733%252C915%252C184%252C134%252C524%252C652%252C361%252C174%252C362%252C328%252C364%252C258%252C732%252C656%252C366%252C654%252C734%252C336%252C144%252C263%252C146%252C268%252C463%252C532%252C528%252C944%252C923%252C176%252C738%252C534%252C578%252C536%252C537%252C429%252C742%252C433%252C866%252C178%252C369%252C436%252C744%252C136%252C186%252C343%252C925%252C158%252C869%252C439%252C746%252C916%252C926%252C664%252C466%252C826%252C112%252C542%252C111%252C967%252C298%252C443%252C927%252C917%252C846%252C544%252C299%252C941%252C582%252C446%252C474%252C666%252C754%252C668%252C698%252C672%26s%3DPPPGDP%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAngola" class="Z3988"></span></span> </li> 
+         <li id="cite_note-wb-gini-5"><span class="mw-cite-backlink"><a href="#cite_ref-wb-gini_5-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://data.worldbank.org/indicator/SI.POV.GINI?locations=AO">"GINI index (World Bank estimate) - Angola"</a>. <i>data.worldbank.org</i>. World Bank<span class="reference-accessdate">. Retrieved <span class="nowrap">22 March</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=data.worldbank.org&amp;rft.atitle=GINI+index+%28World+Bank+estimate%29+-+Angola&amp;rft_id=https%3A%2F%2Fdata.worldbank.org%2Findicator%2FSI.POV.GINI%3Flocations%3DAO&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAngola" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UNHDR-6"><span class="mw-cite-backlink"><a href="#cite_ref-UNHDR_6-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr2020.pdf">"Human Development Report 2020"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">United Nations Development Programme</a>. December 15, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">December 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Development+Report+2020&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2020-12-15&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr2020.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAngola" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Censo2014-7"><span class="mw-cite-backlink"><a href="#cite_ref-Censo2014_7-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ine.gov.ao/images/Populacao_Sociedade/Estudos_tematicos/PUBLICACAO_RESULTADOS_DEFINITIVOS_DO_CENSO_2014.pdf">"Resultados Definitivos Recenseamento Geral da População e Habitação - 2014"</a> <span class="cs1-format">(PDF)</span>. <i>Instituto Nacional de Estatística, República de Angola</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 May</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Instituto+Nacional+de+Estat%C3%ADstica%2C+Rep%C3%BAblica+de+Angola&amp;rft.atitle=Resultados+Definitivos+Recenseamento+Geral+da+Popula%C3%A7%C3%A3o+e+Habita%C3%A7%C3%A3o+-+2014&amp;rft_id=https%3A%2F%2Fwww.ine.gov.ao%2Fimages%2FPopulacao_Sociedade%2FEstudos_tematicos%2FPUBLICACAO_RESULTADOS_DEFINITIVOS_DO_CENSO_2014.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAngola" class="Z3988"></span></span> </li> 
         </ol>
        </div>
       </div> 
@@ -502,9 +543,9 @@
           <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
@@ -624,7 +665,7 @@
           <th scope="row" class="navbox-group" style="width:1%">
            <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
             <a href="/w/index.php?title=Territory_(subdivision)&amp;action=edit&amp;redlink=1" class="new" title="Territory (subdivision) (not yet started)">Territories</a> 
-            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r6670383"><span class="nobold">and</span>
+            <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">and</span>
             <br><a href="/wiki/Dependent_territory" title="Dependent territory">dependencies</a>
            </div></th>
           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
@@ -665,43 +706,43 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1383
-Cached time: 20201217160528
+Parsed by mw1338
+Cached time: 20210114193145
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.896 seconds
-Real time usage: 1.100 seconds
-Preprocessor visited node count: 3958/1000000
-Post‐expand include size: 75601/2097152 bytes
-Template argument size: 9679/2097152 bytes
+CPU time usage: 0.960 seconds
+Real time usage: 1.139 seconds
+Preprocessor visited node count: 4191/1000000
+Post‐expand include size: 92885/2097152 bytes
+Template argument size: 11187/2097152 bytes
 Highest expansion depth: 18/40
-Expensive parser function count: 7/500
+Expensive parser function count: 6/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 15975/5000000 bytes
-Lua time usage: 0.501/10.000 seconds
-Lua memory usage: 16097743/52428800 bytes
+Unstrip post‐expand size: 24980/5000000 bytes
+Lua time usage: 0.551/10.000 seconds
+Lua memory usage: 26144635/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1001.660      1 -total
- 63.05%  631.559      1 Template:Infobox_country
- 59.88%  599.767      3 Template:Infobox
- 15.98%  160.037      1 Template:Native_name
- 15.30%  153.298      1 Template:Lang
- 15.19%  152.169      3 Template:ISO_3166_code
- 12.81%  128.302      1 Template:Reflist
- 11.57%  115.843      4 Template:Cite_web
- 10.35%  103.638      1 Template:Commonscat-inline
-  9.89%   99.089      2 Template:Sister-inline
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:53-0!canonical and timestamp 20201217160546 and revision id 7217387. Serialized with JSON.
+100.00% 1052.207      1 -total
+ 67.94%  714.875      1 Template:Infobox_country
+ 65.95%  693.883      3 Template:Infobox
+ 18.18%  191.241      3 Template:ISO_3166_code
+ 17.21%  181.088      1 Template:Native_name
+ 16.90%  177.821      2 Template:Lang
+ 10.73%  112.853      1 Template:Commonscat-inline
+ 10.37%  109.165      1 Template:Reflist
+ 10.33%  108.667      2 Template:Sister-inline
+  8.44%   88.810      5 Template:Cite_web
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:53-0!canonical and timestamp 20210114193145 and revision id 7266312. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Angola&amp;oldid=7217387">https://simple.wikipedia.org/w/index.php?title=Angola&amp;oldid=7217387</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Angola&amp;oldid=7266312">https://simple.wikipedia.org/w/index.php?title=Angola&amp;oldid=7266312</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -717,7 +758,10 @@ Transclusion expansion time report (%,ms,calls,template)
      <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
       Hidden categories: 
       <ul>
+       <li><a href="/wiki/Category:CS1_Portuguese-language_sources_(pt)" title="Category:CS1 Portuguese-language sources (pt)">CS1 Portuguese-language sources (pt)</a></li>
        <li><a href="/wiki/Category:Articles_containing_Portuguese-language_text" title="Category:Articles containing Portuguese-language text">Articles containing Portuguese-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_explicitly_cited_English-language_text" title="Category:Articles containing explicitly cited English-language text">Articles containing explicitly cited English-language text</a></li>
        <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
       </ul>
      </div>
@@ -793,9 +837,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -819,9 +863,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Angola" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Angola&amp;oldid=7217387" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Angola&amp;oldid=7266312" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Angola&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Angola&amp;id=7217387&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Angola&amp;id=7266312&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q916" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -946,7 +990,7 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Angola" title="Angola – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
        <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/A%C5%8Bgoola" title="Aŋgoola – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
        <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%82%E0%B2%97%E0%B3%8B%E0%B2%B2" title="ಅಂಗೋಲ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
-       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Angola" title="Angola – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Anggola" title="Anggola – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
        <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9C%E1%83%92%E1%83%9D%E1%83%9A%E1%83%90" title="ანგოლა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
        <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Ang%C3%B2l%C3%B4" title="Angòlô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
        <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BE%D0%BB%D0%B0" title="Ангола – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
@@ -963,7 +1007,6 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Angola" title="Angola – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
        <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Angola" title="Angola – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
        <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BA%AD%E0%BA%B1%E0%BA%87%E0%BB%82%E0%BA%81%E0%BA%A5%E0%BA%B2" title="ປະເທດອັງໂກລາ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
-       <li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%A2%D9%86%DA%AF%D9%88%D9%84%D8%A7" title="آنگولا – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li>
        <li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Angola" title="Angola – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li>
        <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Angolia" title="Angolia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
        <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Angola" title="Angola – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
@@ -1102,7 +1145,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 17 December 2020, at 16:05.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 13 January 2021, at 23:13.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1120,8 +1163,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.896","walltime":"1.100","ppvisitednodes":{"value":3958,"limit":1000000},"postexpandincludesize":{"value":75601,"limit":2097152},"templateargumentsize":{"value":9679,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15975,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1001.660      1 -total"," 63.05%  631.559      1 Template:Infobox_country"," 59.88%  599.767      3 Template:Infobox"," 15.98%  160.037      1 Template:Native_name"," 15.30%  153.298      1 Template:Lang"," 15.19%  152.169      3 Template:ISO_3166_code"," 12.81%  128.302      1 Template:Reflist"," 11.57%  115.843      4 Template:Cite_web"," 10.35%  103.638      1 Template:Commonscat-inline","  9.89%   99.089      2 Template:Sister-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.501","limit":"10.000"},"limitreport-memusage":{"value":16097743,"limit":52428800}},"cachereport":{"origin":"mw1383","timestamp":"20201217160528","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Angola","url":"https:\/\/simple.wikipedia.org\/wiki\/Angola","sameAs":"http:\/\/www.wikidata.org\/entity\/Q916","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q916","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-12T18:05:40Z","dateModified":"2020-12-17T16:05:46Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9d\/Flag_of_Angola.svg","headline":"sovereign state in Africa"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":285,"wgHostname":"mw1355"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.960","walltime":"1.139","ppvisitednodes":{"value":4191,"limit":1000000},"postexpandincludesize":{"value":92885,"limit":2097152},"templateargumentsize":{"value":11187,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24980,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1052.207      1 -total"," 67.94%  714.875      1 Template:Infobox_country"," 65.95%  693.883      3 Template:Infobox"," 18.18%  191.241      3 Template:ISO_3166_code"," 17.21%  181.088      1 Template:Native_name"," 16.90%  177.821      2 Template:Lang"," 10.73%  112.853      1 Template:Commonscat-inline"," 10.37%  109.165      1 Template:Reflist"," 10.33%  108.667      2 Template:Sister-inline","  8.44%   88.810      5 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.551","limit":"10.000"},"limitreport-memusage":{"value":26144635,"limit":52428800}},"cachereport":{"origin":"mw1338","timestamp":"20210114193145","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Angola","url":"https:\/\/simple.wikipedia.org\/wiki\/Angola","sameAs":"http:\/\/www.wikidata.org\/entity\/Q916","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q916","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-12T18:05:40Z","dateModified":"2021-01-13T23:13:09Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9d\/Flag_of_Angola.svg","headline":"sovereign state in Africa"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":159,"wgHostname":"mw1391"});});</script> 
  </body>
 </html>

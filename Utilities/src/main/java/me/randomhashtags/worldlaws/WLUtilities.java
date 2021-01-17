@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.location.Territory;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.time.LocalDate;
 import java.time.Month;
 import java.util.ArrayList;
 import java.util.Collection;
@@ -68,5 +69,9 @@ public final class WLUtilities {
                 handler.handleCountryTerritories(set);
             }
         });
+    }
+
+    public static int getTodayYear() {
+        return LocalDate.now().getYear();
     }
 }

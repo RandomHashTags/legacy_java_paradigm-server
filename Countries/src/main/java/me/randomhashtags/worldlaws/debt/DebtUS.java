@@ -56,10 +56,9 @@ public enum DebtUS implements ICountryDebt {
     }
 
     private void updateCurrent(CompletionHandler handler) {
-        requestJSON("https://www.treasurydirect.gov/NP_WS/debt/current?format=json", RequestMethod.GET, new CompletionHandler() {
+        requestJSONObject("https://www.treasurydirect.gov/NP_WS/debt/current?format=json", RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONObject json = new JSONObject(object.toString());
+            public void handleJSONObject(JSONObject json) {
                 final CountryDebt debt = getCountryDebt(json);
                 current = debt.toString();
                 if(handler != null) {
@@ -70,10 +69,9 @@ public enum DebtUS implements ICountryDebt {
     }
     private void updateYear(int year, CompletionHandler handler) {
         final int targetYear = Math.max(1993, year);
-        requestJSON("https://www.treasurydirect.gov/NP_WS/debt/search?startdate=" + targetYear + "-01-01&enddate=" + targetYear + "-12-31&format=json", RequestMethod.GET, new CompletionHandler() {
+        requestJSONObject("https://www.treasurydirect.gov/NP_WS/debt/search?startdate=" + targetYear + "-01-01&enddate=" + targetYear + "-12-31&format=json", RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONObject entriesJSON = new JSONObject(object.toString());
+            public void handleJSONObject(JSONObject entriesJSON) {
                 final JSONArray array = entriesJSON.getJSONArray("entries");
                 final StringBuilder builder = new StringBuilder("[");
                 boolean isFirst = true;

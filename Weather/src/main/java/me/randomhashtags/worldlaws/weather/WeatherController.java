@@ -11,7 +11,15 @@ import java.util.logging.Level;
 public interface WeatherController extends RestAPI, Jsoupable {
     CountryBackendID getCountryBackendID();
     EventSource getSource();
-    void getAlertEvents(CompletionHandler handler);
+    String getAlertEvents();
+    default void getAlertEvents(CompletionHandler handler) {
+        final String alertEvents = getAlertEvents();
+        if(alertEvents != null) {
+            handler.handle(alertEvents);
+        } else {
+            refreshAlerts(handler);
+        }
+    }
     HashMap<String, String> getEventAlerts();
     HashMap<String, HashMap<String, String>> getTerritoryEventAlerts();
     HashMap<String, String> getTerritoryAlerts();

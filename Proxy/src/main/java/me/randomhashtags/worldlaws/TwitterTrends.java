@@ -28,10 +28,9 @@ public enum TwitterTrends implements RestAPI {
 
     private void refreshTrendingTopics(String WOEID, CompletionHandler handler) {
         final String url = "https://api.twitter.com/1.1/trends/place.json?id=" + WOEID;
-        requestJSON(url, RequestMethod.GET, new CompletionHandler() {
+        requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONArray array = new JSONArray(object.toString());
+            public void handleJSONArray(JSONArray array) {
                 final JSONObject obj = (JSONObject) array.get(0);
                 final JSONArray trends = obj.getJSONArray("trends");
 

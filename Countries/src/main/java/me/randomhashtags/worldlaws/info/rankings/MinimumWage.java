@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.info.rankings;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.info.rankings.CountryRankingService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -14,7 +13,7 @@ public enum MinimumWage implements CountryRankingService {
     INSTANCE;
 
     private String rankedJSON;
-    private HashMap<String, String> wageHistory;
+    private HashMap<String, String> countries;
 
     @Override
     public CountryInfo getInfo() {
@@ -22,41 +21,25 @@ public enum MinimumWage implements CountryRankingService {
     }
 
     @Override
-    public void getRankedJSON(CompletionHandler handler) {
-        if(rankedJSON != null) {
-            handler.handle(rankedJSON);
-        } else {
-            handler.handle(null);
-        }
+    public HashMap<String, String> getCountries() {
+        return countries;
     }
 
-    public void getValue(String countryBackendID, CompletionHandler handler) {
-        if(wageHistory != null) {
-            final String value = getHistory(countryBackendID);
-            handler.handle(value);
-        } else {
-            load(new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    final String history = getHistory(countryBackendID);
-                    handler.handle(history);
-                }
-            });
-        }
+    @Override
+    public String getRankedJSON() {
+        return rankedJSON;
     }
-    private String getHistory(String countryName) {
-        return wageHistory.getOrDefault(countryName, "null");
-    }
-    private void load(CompletionHandler handler) {
-        wageHistory = new HashMap<>();
+
+    @Override
+    public void refresh(CompletionHandler handler) {
+        countries = new HashMap<>();
 
         final int startingYear = 1963, endingYear = 2020, years = endingYear-startingYear;
         final String url = "https://stats.oecd.org/sdmx-json/data/RMW/AUS+BEL+CAN+CHL+COL+CZE+EST+FRA+DEU+GRC+HUN+IRL+ISR+JPN+KOR+LVA+LTU+LUX+MEX+NLD+NZL+POL+PRT+SVK+SVN+ESP+TUR+GBR+USA+CRI+BRA+RUS.PPP.H/all?startTime=" + startingYear + "&endTime=" + endingYear;
         final HashMap<String, StringBuilder> wageHistories = new HashMap<>();
-        requestJSON(url, RequestMethod.GET, new CompletionHandler() {
+        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                final JSONObject obj = new JSONObject(object.toString());
+            public void handleJSONObject(JSONObject obj) {
                 final JSONArray countries = obj.getJSONObject("structure").getJSONObject("dimensions").getJSONArray("series").getJSONObject(0).getJSONArray("values");
                 final JSONObject dataSets = obj.getJSONArray("dataSets").getJSONObject(0).getJSONObject("series");
                 int index = 0;
@@ -79,7 +62,7 @@ public enum MinimumWage implements CountryRankingService {
                     index += 1;
                 }
                 for(Map.Entry<String, StringBuilder> builders : wageHistories.entrySet()) {
-                    wageHistory.put(builders.getKey(), builders.getValue().append("}").toString());
+                    MinimumWage.this.countries.put(builders.getKey(), builders.getValue().append("}").toString());
                 }
                 if(handler != null) {
                     handler.handle(null);

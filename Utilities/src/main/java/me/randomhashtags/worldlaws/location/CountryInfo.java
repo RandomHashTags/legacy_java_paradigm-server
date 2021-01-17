@@ -1,8 +1,26 @@
 package me.randomhashtags.worldlaws.location;
 
 public enum CountryInfo {
-    GOVERNMENT_TYPE,
     LEGISLATURE_TYPE,
+
+    AGRICULTURE_FOOD_APPLE_PRODUCTION("Apple Production"),
+    AGRICULTURE_FOOD_APRICOT_PRODUCTION("Apricot Production"),
+    AGRICULTURE_FOOD_ARTICHOKE_PRODUCTION("Artichoke Production"),
+    AGRICULTURE_FOOD_AVOCADO_PRODUCTION("Avocado Production"),
+    AGRICULTURE_FOOD_CHERRY_PRODUCTION("Cherry Production"),
+    AGRICULTURE_FOOD_COCONUT_PRODUCTION("Coconut Production"),
+    AGRICULTURE_FOOD_COFFEE_PRODUCTION("Coffee Production"),
+    AGRICULTURE_FOOD_CUCUMBER_PRODUCTION("Cucumber Production"),
+    AGRICULTURE_FOOD_GARLIC_PRODUCTION("Garlic Production"),
+    AGRICULTURE_FOOD_GRAPE_PRODUCTION("Grape Production"),
+    AGRICULTURE_FOOD_PAPAYA_PRODUCTION("Papaya Production"),
+    AGRICULTURE_FOOD_PEAR_PRODUCTION("Pear Production"),
+    AGRICULTURE_FOOD_PINEAPPLE_PRODUCTION("Pineapple Production"),
+    AGRICULTURE_FOOD_PLUM_PRODUCTION("Plum Production"),
+    AGRICULTURE_FOOD_POTATO_PRODUCTION("Potato Production"),
+    AGRICULTURE_FOOD_SOYBEAN_PRODUCTION("Soybean Production"),
+    AGRICULTURE_FOOD_TOMATO_PRODUCTION("Tomato Production"),
+    AGRICULTURE_RENEWABLE_ELECTRICITY_PRODUCTION("Renewable Electricity Production"),
 
     AVAILABILITY_APPLE_CARPLAY("Apple CarPlay"),
     AVAILABILITY_APPLE_PAY("Apple Pay"),
@@ -42,27 +60,31 @@ public enum CountryInfo {
     AVAILABILITY_YOUTUBE_PREMIUM("YouTube Premium"),
     AVAILABILITY_YOUTUBE_TV("YouTube TV"),
 
-    GOVERNMENT_SYSTEM("System of Government"),
+    GOVERNMENT_TYPE,
 
+    INFO_AGE_STRUCTURE("Age Structure"),
     INFO_BLOOD_TYPE_DISTRIBUTION("Blood Type Distribution"),
 
     LEGALITY_ABORTION("Abortion"),
     LEGALITY_BITCOIN("Bitcoin"),
     LEGALITY_CANNABIS("Cannabis"),
     LEGALITY_DRINKING_AGE("Alcohol"),
-    LEGALITY_DRUG_AYAHUASCA("Drug, Ayahuasca"),
-    LEGALITY_DRUG_COCAINE("Drug Cocaine"),
-    LEGALITY_DRUG_IBOGAINE("Drug Ibogaine"),
-    LEGALITY_DRUG_METH("Drug Meth"),
-    LEGALITY_DRUG_PSILOCYBIN_MUSHROOMS("Drug Psychedelic Mushrooms"),
-    LEGALITY_DRUG_PSYCHOACTIVE_CACTUS("Drug Psychedelic Cacti"),
-    LEGALITY_DRUG_SALVIA_DIVINORUM("Drug Salvia Divinorum"),
+    LEGALITY_DRUG_AYAHUASCA("Drug: Ayahuasca"),
+    LEGALITY_DRUG_COCAINE("Drug: Cocaine"),
+    LEGALITY_DRUG_IBOGAINE("Drug: Ibogaine"),
+    LEGALITY_DRUG_METH("Drug: Meth"),
+    LEGALITY_DRUG_PSILOCYBIN_MUSHROOMS("Drug: Psychedelic Mushrooms"),
+    LEGALITY_DRUG_PSYCHOACTIVE_CACTUS("Drug: Psychedelic Cacti"),
+    LEGALITY_DRUG_SALVIA_DIVINORUM("Drug: Salvia Divinorum"),
     LEGALITY_GUNS("Firearms"),
+    LEGALITY_INCEST("Incest"),
     LEGALITY_MARITAL_RAPE("Marital Rape"),
     LEGALITY_PORNOGRAPHY("Adult Film"),
+    LEGALITY_PROSTITUTION("Prostitution"),
 
     LIST_APPLE_MAPS_FLYOVER("Flyover"),
 
+    NATIONAL_ANIMALS("National Animals"),
     NATIONAL_CAPITAL("National Capital"),
 
     RANKING_ADULT_HIV_PREVALENCE,
@@ -94,17 +116,24 @@ public enum CountryInfo {
     RANKING_POPULATION,
     RANKING_PRESS_FREEDOM_INDEX,
     RANKING_QUALITY_OF_LIFE_INDEX,
+    RANKING_QUALITY_OF_NATIONALITY_INDEX,
     RANKING_SOCIAL_PROGRESS_INDEX,
     RANKING_SUICIDE_RATE,
     RANKING_UNEMPLOYMENT_RATE,
+    RANKING_WORLD_GIVING_INDEX,
+    RANKING_WORLD_HAPPINESS_REPORT,
 
     SERVICE_TRAVEL_BRIEFING,
 
+    CITIES,
     RESOURCES,
-
     TERRITORIES,
 
     VALUE_HEALTH_CARE_SYSTEM("Health Care System"),
+    VALUE_MILITARY_ENLISTMENT_AGE("Military Enlistment Age"),
+    VALUE_MINIMUM_DRIVING_AGE("Minimum Driving Age"),
+    VALUE_SYSTEM_OF_GOVERNMENT("System of Government"),
+    VALUE_VOTING_AGE("Voting Age"),
     ;
 
     private final String title;

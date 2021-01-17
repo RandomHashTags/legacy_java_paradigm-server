@@ -13,7 +13,15 @@ public final class Proxy implements RestAPI {
     }
 
     private Proxy() {
+        //test();
         setupServer(false);
+    }
+
+    private void test() {
+        final String id = "countries";
+        for(int i = 1; i <= 100; i++) {
+            final TargetServer server = TargetServer.valueOfBackendID(id);
+        }
     }
 
     private void setupServer(boolean https) {

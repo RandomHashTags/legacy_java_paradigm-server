@@ -9,7 +9,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -46,8 +45,7 @@ public enum Movies implements EventController {
         if(json != null) {
             handler.handle(json);
         } else {
-            final LocalDate date = LocalDate.now();
-            final int year = date.getYear();
+            final int year = WLUtilities.getTodayYear();
             final CountryBackendID usa = CountryBackendID.UNITED_STATES;
             refreshReleasedFilms(usa, year, new CompletionHandler() {
                 @Override

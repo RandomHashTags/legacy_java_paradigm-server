@@ -3,17 +3,17 @@
  <head> 
   <meta charset="UTF-8"> 
   <title>Algeria - Simple English Wikipedia, the free encyclopedia</title> 
-  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"X@VDvApAICEAAGskK0wAAACI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Algeria","wgTitle":"Algeria","wgCurRevisionId":7215567,"wgRevisionId":7215567,"wgArticleId":5404,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Arabic-language sources (ar)","Articles containing Arabic-language text","Articles containing explicitly cited English-language text","Pages using infobox country or infobox former country with the symbol caption or type parameters","Articles with hAudio microformats","Pages including recorded pronunciations (English)",
-"Algeria","Members of the Organisation of Islamic Cooperation","1962 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Algeria","wgRelevantArticleId":5404,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q262"};RLSTATE={"ext.globalCssJs.user.styles":"ready",
-"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.categoryTree","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YAC-VApAIC0AACj-93IAAAEJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Algeria","wgTitle":"Algeria","wgCurRevisionId":7266311,"wgRevisionId":7266311,"wgArticleId":5404,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Articles containing French-language text","Articles containing Arabic-language text","Articles containing explicitly cited English-language text","Pages using infobox country or infobox former country with the symbol caption or type parameters","Articles with hAudio microformats",
+"Pages including recorded pronunciations","Algeria","Members of the Organisation of Islamic Cooperation","1962 establishments in Africa"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Algeria","wgRelevantArticleId":5404,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q262"};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
 "ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
   <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script> 
-  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
   <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
   <meta name="ResourceLoaderDynamicStyles" content=""> 
   <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
-  <meta name="generator" content="MediaWiki 1.36.0-wmf.22"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.26"> 
   <meta name="referrer" content="origin"> 
   <meta name="referrer" content="origin-when-crossorigin"> 
   <meta name="referrer" content="origin-when-cross-origin"> 
@@ -58,7 +58,8 @@
            People's Democratic Republic of Algeria
           </div><br>
           <div style="padding-top:0.25em; font-weight:normal;">
-           <span style="font-size:85%;"><span lang="ar" dir="rtl" style="font-style: normal;" title="Arabic language text">الجمهورية الجزائرية الديمقراطية الشعبية</span>&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/Arabic_language" title="Arabic language">Arabic</a>)</span></span>&lt;
+           <span style="font-size:85%;">الجمهورية الجزائرية الديمقراطية الشعبية (<a href="/wiki/Arabic" class="mw-disambig" title="Arabic">Arabic</a>)</span>
+           <br><span style="font-size:85%;"><i lang="fr" title="French language text">République algérienne démocratique et populaire</i>&nbsp;&nbsp;<span class="languageicon" style="font-size:85%;font-weight:normal;">(<a href="/wiki/French_language" title="French language">French</a>)</span></span>
           </div></th>
         </tr>
         <tr>
@@ -85,8 +86,8 @@
         <tr>
          <td colspan="2" style="text-align:center">
           <div style="line-height:1.2em;">
-           <b>Motto:&nbsp;</b><span style="font-size:85%;">بالشّعب وللشّعب</span>
-           <br>By the people and for the people<sup id="cite_ref-CONST-AR_1-0" class="reference"><a href="#cite_note-CONST-AR-1">[1]</a></sup><sup id="cite_ref-CONST-EN_2-0" class="reference"><a href="#cite_note-CONST-EN-2">[2]</a></sup>
+           <b>Motto:&nbsp;</b><span lang="ar" dir="rtl" title="Arabic language text">بالشّعب وللشّعب</span>
+           <br>("By the people and for the people")<sup id="cite_ref-CONST-AR_1-0" class="reference"><a href="#cite_note-CONST-AR-1">[1]</a></sup><sup id="cite_ref-CONST-EN_2-0" class="reference"><a href="#cite_note-CONST-EN-2">[2]</a></sup>
           </div></td>
         </tr>
         <tr>
@@ -95,19 +96,21 @@
            <b>Anthem:&nbsp;</b><i><a href="/wiki/Kassaman" title="Kassaman">Kassaman</a></i>
            <br>(English: <span lang="en">"We Pledge"</span>)
            <br>
-           <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
-            <div class="mediaContainer" style="width:220px">
-             <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="73.247346938776" data-startoffset="0" data-mwtitle="Kassaman_instrumental.ogg" data-mwprovider="wikimediacommons">
-              <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/48/Kassaman_instrumental.ogg/Kassaman_instrumental.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="217312">
-              <source src="//upload.wikimedia.org/wikipedia/commons/4/48/Kassaman_instrumental.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (414 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="413560">
-              <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AKassaman_instrumental.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
-             </audio>
+           <div class="center">
+            <div class="floatnone">
+             <div class="mediaContainer" style="width:220px">
+              <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="73.247346938776" data-startoffset="0" data-mwtitle="Kassaman_instrumental.ogg" data-mwprovider="wikimediacommons">
+               <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/48/Kassaman_instrumental.ogg/Kassaman_instrumental.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="217312">
+               <source src="//upload.wikimedia.org/wikipedia/commons/4/48/Kassaman_instrumental.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (414 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="413560">
+               <track src="https://commons.wikimedia.org/w/api.php?action=timedtext&amp;title=File%3AKassaman_instrumental.ogg&amp;lang=en&amp;trackformat=srt&amp;origin=%2A" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-dir="ltr">
+              </audio>
+             </div>
             </div>
            </div>
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Algeria_(orthographic_projection).svg" class="image" title="Location of &nbsp;Algeria&nbsp;&nbsp;(dark green)"><img alt="Location of &nbsp;Algeria&nbsp;&nbsp;(dark green)" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Algeria_%28orthographic_projection%29.svg/250px-Algeria_%28orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Algeria_%28orthographic_projection%29.svg/375px-Algeria_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Algeria_%28orthographic_projection%29.svg/500px-Algeria_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Algeria_(centered_orthographic_projection).svg" class="image" title="Location of &nbsp;Algeria&nbsp;&nbsp;(dark green)"><img alt="Location of &nbsp;Algeria&nbsp;&nbsp;(dark green)" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Algeria_%28centered_orthographic_projection%29.svg/250px-Algeria_%28centered_orthographic_projection%29.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Algeria_%28centered_orthographic_projection%29.svg/375px-Algeria_%28centered_orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Algeria_%28centered_orthographic_projection%29.svg/500px-Algeria_%28centered_orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a>
           <div style="position:relative;top:0.3em;">
            <div style="text-align:center;font-size:11px;line-height:1.15em;">
             <span style="font-size:11px;">Location of <span style="font-size:2px;">&nbsp;</span><a class="mw-selflink selflink">Algeria</a><span style="font-size:8px;"><span class="nowrap">&nbsp;&nbsp;</span></span>(<span style="font-size:9px;">dark green</span>)</span>
@@ -115,28 +118,19 @@
           </div></td>
         </tr>
         <tr>
-         <td colspan="2" style="text-align:center"><a href="/wiki/File:Algeria_-_Location_Map_(2013)_-_DZA_-_UNOCHA.svg" class="image" title="Location of Algeria"><img alt="Location of Algeria" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Algeria_-_Location_Map_%282013%29_-_DZA_-_UNOCHA.svg/250px-Algeria_-_Location_Map_%282013%29_-_DZA_-_UNOCHA.svg.png" decoding="async" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Algeria_-_Location_Map_%282013%29_-_DZA_-_UNOCHA.svg/375px-Algeria_-_Location_Map_%282013%29_-_DZA_-_UNOCHA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Algeria_-_Location_Map_%282013%29_-_DZA_-_UNOCHA.svg/500px-Algeria_-_Location_Map_%282013%29_-_DZA_-_UNOCHA.svg.png 2x" data-file-width="254" data-file-height="254"></a></td>
-        </tr>
-        <tr>
          <th scope="row">Capital<br>
           <div style="font-weight:normal">
            and largest city
           </div></th>
-         <td><a href="/wiki/Algiers" title="Algiers">Algiers</a><br><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Algeria&amp;params=36_42_N_3_13_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">36°42′N</span> <span class="longitude">3°13′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">36.700°N 3.217°E</span><span style="display:none">﻿ / <span class="geo">36.700; 3.217</span></span></span></a></span></td>
+         <td><a href="/wiki/Algiers" title="Algiers">Algiers</a><br><style data-mw-deduplicate="TemplateStyles:r7263774">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Algeria&amp;params=36_42_N_3_13_E_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">36°42′N</span> <span class="longitude">3°13′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">36.700°N 3.217°E</span><span style="display:none">﻿ / <span class="geo">36.700; 3.217</span></span></span></a></span></td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row">Official&nbsp;languages</th>
-         <td>
-          <div class="hlist hlist-separated">
-           <ul>
-            <li><a href="/wiki/Arabic_language" title="Arabic language">Arabic</a><sup id="cite_ref-constitution_3-0" class="reference"><a href="#cite_note-constitution-3">[3]</a></sup></li>
-            <li><a href="/wiki/Berber_languages" title="Berber languages">Berber</a><sup id="cite_ref-APS_4-0" class="reference"><a href="#cite_note-APS-4">[4]</a></sup></li>
-           </ul>
-          </div></td>
+         <td><a href="/wiki/Arabic" class="mw-disambig" title="Arabic">Arabic</a> • <a href="/w/index.php?title=Standard_Algerian_Berber&amp;action=edit&amp;redlink=1" class="new" title="Standard Algerian Berber (not yet started)">Berber</a></td>
         </tr>
         <tr>
          <th scope="row">Other languages</th>
-         <td><a href="/wiki/French_language" title="French language">French</a> <span style="font-size:85%;">(business and education)</span><sup id="cite_ref-AlgeriaFactbook_5-0" class="reference"><a href="#cite_note-AlgeriaFactbook-5">[5]</a></sup></td>
+         <td><a href="/wiki/Algerian_Arabic" class="mw-redirect" title="Algerian Arabic">Algerian Arabic</a> (Darja) <span style="font-size:85%;">(lingua franca)</span><br><a href="/wiki/French_language" title="French language">French</a> <span style="font-size:85%;">(administration, business and education)</span><sup id="cite_ref-AlgeriaFactbook_3-0" class="reference"><a href="#cite_note-AlgeriaFactbook-3">[3]</a></sup></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&nbsp;groups</a> 
@@ -144,18 +138,29 @@
          <td>
           <div class="plainlist">
            <ul>
-            <li>99% <span class="nowrap"><a href="/w/index.php?title=Arab-Berber&amp;action=edit&amp;redlink=1" class="new" title="Arab-Berber (not yet started)">Arab-Berber</a><sup id="cite_ref-AlgeriaFactbook_5-1" class="reference"><a href="#cite_note-AlgeriaFactbook-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[a]</a></sup></span></li>
-            <li>1% others<sup id="cite_ref-AlgeriaFactbook_5-2" class="reference"><a href="#cite_note-AlgeriaFactbook-5">[5]</a></sup></li>
+            <li><span class="nowrap"><a href="/w/index.php?title=Arab-Berber&amp;action=edit&amp;redlink=1" class="new" title="Arab-Berber (not yet started)">Arab-Berber</a> 99%<sup id="cite_ref-AlgeriaFactbook_3-1" class="reference"><a href="#cite_note-AlgeriaFactbook-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[a]</a></sup></span></li>
+            <li>1% Others<sup id="cite_ref-AlgeriaFactbook_3-2" class="reference"><a href="#cite_note-AlgeriaFactbook-3">[3]</a></sup></li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row">Religion 
+          <div style="font-weight:normal;display:inline;"></div></th>
+         <td>
+          <div class="plainlist">
+           <ul>
+            <li>99% <a href="/w/index.php?title=Islam_in_Algeria&amp;action=edit&amp;redlink=1" class="new" title="Islam in Algeria (not yet started)">Islam</a> (official)</li>
+            <li>1% other (inc. <a href="/w/index.php?title=Christianity_in_Algeria&amp;action=edit&amp;redlink=1" class="new" title="Christianity in Algeria (not yet started)">Christians</a> and <a href="/w/index.php?title=History_of_the_Jews_in_Algeria&amp;action=edit&amp;redlink=1" class="new" title="History of the Jews in Algeria (not yet started)">Jews</a>)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup></li>
            </ul>
           </div></td>
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
-         <td>Algerian</td>
+         <td><a href="/w/index.php?title=Demographics_of_Algeria&amp;action=edit&amp;redlink=1" class="new" title="Demographics of Algeria (not yet started)">Algerian</a></td>
         </tr>
         <tr>
          <th scope="row">Government</th>
-         <td><span class="nowrap"><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Semi-presidential_system" title="Semi-presidential system">semi-presidential</a></span> <a href="/wiki/Constitutional_republic" title="Constitutional republic">constitutional republic</a></td>
+         <td><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a> <a href="/wiki/Semi-presidential_system" title="Semi-presidential system">semi-presidential</a> <a href="/wiki/Republic" title="Republic">constitutional republic</a></td>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -173,6 +178,20 @@
            •&nbsp;<a href="/wiki/Prime_Minister_of_Algeria" title="Prime Minister of Algeria">Prime Minister</a> 
           </div></th>
          <td><a href="/wiki/Abdelaziz_Djerad" title="Abdelaziz Djerad">Abdelaziz Djerad</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=List_of_presidents_of_the_Council_of_the_Nation_(Algeria)&amp;action=edit&amp;redlink=1" class="new" title="List of presidents of the Council of the Nation (Algeria) (not yet started)">Council President</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Salah_Goudjil&amp;action=edit&amp;redlink=1" class="new" title="Salah Goudjil (not yet started)">Salah Goudjil</a> (interim)</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=List_of_presidents_of_the_People%27s_National_Assembly_(Algeria)&amp;action=edit&amp;redlink=1" class="new" title="List of presidents of the People's National Assembly (Algeria) (not yet started)">Assembly President</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Slimane_Chenine&amp;action=edit&amp;redlink=1" class="new" title="Slimane Chenine (not yet started)">Slimane Chenine</a></td>
         </tr>
         <tr style="display:none">
          <td colspan="2"> </td>
@@ -196,7 +215,7 @@
          <td><a href="/wiki/People%27s_National_Assembly" title="People's National Assembly">People's National Assembly</a></td>
         </tr>
         <tr class="mergedtoprow">
-         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/Algerian_War" title="Algerian War">Independence</a> <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">from <a href="/wiki/France" title="France">France</a></span></th>
+         <th colspan="2" style="text-align:center;text-align:left;"><a href="/wiki/History_of_Algeria" class="mw-redirect" title="History of Algeria">Formation</a></th>
         </tr>
         <tr class="mergedrow">
          <td colspan="2" style="text-align:center"></td>
@@ -204,14 +223,42 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Declared 
+           •&nbsp;<a href="/wiki/Zirid_dynasty" title="Zirid dynasty">Zirid dynasty</a> 
           </div></th>
-         <td>3 July 1962</td>
+         <td>960</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;Recognised 
+           •&nbsp;<a href="/wiki/Hammadid_dynasty" title="Hammadid dynasty">Hammadid dynasty</a> 
+          </div></th>
+         <td>1014</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Kingdom_of_Tlemcen&amp;action=edit&amp;redlink=1" class="new" title="Kingdom of Tlemcen (not yet started)">Zayyanid dynasty</a> 
+          </div></th>
+         <td>1235</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=Ottoman_Algeria&amp;action=edit&amp;redlink=1" class="new" title="Ottoman Algeria (not yet started)">Al Jazâ'ir</a> 
+          </div></th>
+         <td>1515</td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/w/index.php?title=French_Algeria&amp;action=edit&amp;redlink=1" class="new" title="French Algeria (not yet started)">French Occupation</a> 
+          </div></th>
+         <td><a href="/w/index.php?title=Invasion_of_Algiers_in_1830&amp;action=edit&amp;redlink=1" class="new" title="Invasion of Algiers in 1830 (not yet started)">5 July 1830</a></td>
+        </tr>
+        <tr class="mergedrow">
+         <th scope="row">
+          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
+           •&nbsp;<a href="/wiki/Algerian_War" title="Algerian War">Independence</a> from France 
           </div></th>
          <td>5 July 1962</td>
         </tr>
@@ -233,7 +280,7 @@
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Water&nbsp;(%)
           </div></th>
-         <td>negligible</td>
+         <td>1.1</td>
         </tr>
         <tr class="mergedtoprow">
          <th colspan="2" style="text-align:center;text-align:left;">Population</th>
@@ -241,67 +288,60 @@
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2016 estimate
+           •&nbsp;2021 estimate
           </div></th>
-         <td>40,400,000<sup id="cite_ref-ONS_7-0" class="reference"><a href="#cite_note-ONS-7">[6]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">33rd</a>)</td>
-        </tr>
-        <tr class="mergedrow">
-         <th scope="row">
-          <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
-           •&nbsp;2013&nbsp;census
-          </div></th>
-         <td>37,900,000<sup id="cite_ref-ONS_7-1" class="reference"><a href="#cite_note-ONS-7">[6]</a></sup></td>
+         <td>44,700,000<sup id="cite_ref-ONS_2020_6-0" class="reference"><a href="#cite_note-ONS_2020-6">[5]</a></sup> (<a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">32nd</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Density
           </div></th>
-         <td>15.9/km<sup>2</sup> (41.2/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">208th</a>)</td>
+         <td>17.7/km<sup>2</sup> (45.8/sq&nbsp;mi) (<a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">168</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(<a href="/wiki/Purchasing_power_parity" title="Purchasing power parity">PPP</a>)</span></th>
-         <td>2017&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$634.746 billion<sup id="cite_ref-imf2_8-0" class="reference"><a href="#cite_note-imf2-8">[7]</a></sup></td>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $684.649 billion<sup id="cite_ref-IMFWEOAG_7-0" class="reference"><a href="#cite_note-IMFWEOAG-7">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)" title="List of countries by GDP (PPP)">35th</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$15,281<sup id="cite_ref-imf2_8-1" class="reference"><a href="#cite_note-imf2-8">[7]</a></sup></td>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $15,765<sup id="cite_ref-IMFWEOAG_7-1" class="reference"><a href="#cite_note-IMFWEOAG-7">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(PPP)_per_capita" title="List of countries by GDP (PPP) per capita">82nd</a>)</td>
         </tr>
         <tr class="mergedtoprow">
          <th scope="row"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a>&nbsp;<span style="font-weight:normal;">(nominal)</span></th>
-         <td>2017&nbsp;estimate</td>
+         <td>2019&nbsp;estimate</td>
         </tr>
         <tr class="mergedrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Total
           </div></th>
-         <td>$173.947 billion<sup id="cite_ref-imf2_8-2" class="reference"><a href="#cite_note-imf2-8">[7]</a></sup></td>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $183.687 billion<sup id="cite_ref-IMFWEOAG_7-2" class="reference"><a href="#cite_note-IMFWEOAG-7">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">53rd</a>)</td>
         </tr>
         <tr class="mergedbottomrow">
          <th scope="row">
           <div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">
            •&nbsp;Per capita
           </div></th>
-         <td>$4,187<sup id="cite_ref-imf2_8-3" class="reference"><a href="#cite_note-imf2-8">[7]</a></sup></td>
+         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300"> $4,229<sup id="cite_ref-IMFWEOAG_7-3" class="reference"><a href="#cite_note-IMFWEOAG-7">[6]</a></sup> (<a href="/wiki/List_of_countries_by_GDP_(nominal)_per_capita" title="List of countries by GDP (nominal) per capita">109th</a>)</td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(1995)</span></th>
-         <td>35.3<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup><br><span style="white-space:nowrap;"><span style="color:orange">medium</span></span></td>
+         <th scope="row"><a href="/wiki/Gini_coefficient" title="Gini coefficient">Gini</a>&nbsp;<span style="font-weight:normal;">(2011)</span></th>
+         <td>27.6<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">low</span></span></td>
         </tr>
         <tr>
-         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2017)</span></th>
-         <td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.782<sup id="cite_ref-HDI_10-0" class="reference"><a href="#cite_note-HDI-10">[9]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">83rd</a></td>
+         <th scope="row"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a>&nbsp;<span style="font-weight:normal;">(2019)</span></th>
+         <td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300">&nbsp;0.748<sup id="cite_ref-UNHDR_10-0" class="reference"><a href="#cite_note-UNHDR-10">[9]</a></sup><br><span style="white-space:nowrap;"><span style="color:forestgreen">high</span></span>&nbsp;·&nbsp;<a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">91st</a></td>
         </tr>
         <tr>
          <th scope="row">Currency</th>
@@ -317,7 +357,7 @@
         </tr>
         <tr>
          <th scope="row"><a href="/wiki/Left-_and_right-hand_traffic" title="Left- and right-hand traffic">Driving side</a></th>
-         <td>right<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup></td>
+         <td>right</td>
         </tr>
         <tr>
          <th scope="row">Calling code</th>
@@ -354,7 +394,7 @@
       <p><b>Algeria</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/æ/: 'a' in 'bad'">æ</span><span title="'l' in 'lie'">l</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/dʒ/: 'j' in 'jam'">dʒ</span><span title="/ɪər/: 'ear' in 'near'">ɪər</span><span title="/i/: 'y' in 'happy'">i</span><span title="/ə/: 'a' in 'about'">ə</span></span>/</a></span> <span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:En-us-Algeria.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20"></a></span><a href="//upload.wikimedia.org/wikipedia/commons/2/25/En-us-Algeria.ogg" class="internal" title="En-us-Algeria.ogg">listen</a></span></span>)</span></span> or <span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ɔː/: 'au' in 'fraud'">ɔː</span><span title="'l' in 'lie'">l</span></span>-/</a></span></span>), officially the <b>People's Democratic Republic of Algeria</b>, is a former French <a href="/wiki/Colony" title="Colony">colony</a> and the largest country in Africa. It is part of the <a href="/wiki/Maghreb" title="Maghreb">Maghreb</a> region of Northwest Africa. <a href="/wiki/Algiers" title="Algiers">Algiers</a> is the capital. It is bordered by the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> in the north, <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a> in the northeast, <a href="/wiki/Libya" title="Libya">Libya</a> in the east, <a href="/wiki/Niger" title="Niger">Niger</a> in the southeast, <a href="/wiki/Mauritania" title="Mauritania">Mauritania</a> and <a href="/wiki/Mali" title="Mali">Mali</a> in the southwest, <a href="/wiki/Western_Sahara" title="Western Sahara">Western Sahara</a> in the west and <a href="/wiki/Morocco" title="Morocco">Morocco</a> in the northwest. </p> 
       <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algeria&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Change section: History">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Algeria&amp;action=edit&amp;section=1" title="Change section: History">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <p>People have lived in Algeria for for thousands of years, which can be seen in the cave paintings at <a href="/wiki/Tassili" class="mw-redirect" title="Tassili">Tassili</a> National Park that date to around 7000BC. By 600 BC, <a href="/wiki/Phoenician" class="mw-redirect" title="Phoenician">Phoenicians</a> were in <a href="/w/index.php?title=Hippo_Regius&amp;action=edit&amp;redlink=1" class="new" title="Hippo Regius (not yet started)">Hippo Regius</a> (now called <a href="/w/index.php?title=Annaba&amp;action=edit&amp;redlink=1" class="new" title="Annaba (not yet started)">Annaba</a>), <a href="/w/index.php?title=Rusicade&amp;action=edit&amp;redlink=1" class="new" title="Rusicade (not yet started)">Rusicade</a> (now <a href="/wiki/Skikda" title="Skikda">Skikda</a>), and <a href="/wiki/Tipasa" class="mw-redirect" title="Tipasa">Tipasa</a> in the <a href="/wiki/Central" class="mw-disambig" title="Central">central</a> <a href="/wiki/Coastal" class="mw-redirect" title="Coastal">coastal</a> part of the country. The Romans would annex (take over) the region by the conclusion of the <a href="/wiki/Punic_Wars" title="Punic Wars">Punic Wars</a> in 146BC, with what is now modern day Algeria staying in Roman hands till the fall of the Roman Empire in the 5th century and the region being taken over by the Germanic <a href="/wiki/Vandals" title="Vandals">Vandals</a>. </p>
-      <p>Algeria would become part of the islamic world when the first <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a> <a href="/wiki/Arabs" class="mw-redirect" title="Arabs">Arabs</a> came to Algeria in the mid-<a href="/wiki/7th_century" title="7th century">7th century</a>, resulting in many people converting to the new religion of islam. In the <a href="/wiki/11th_century" title="11th century">11th century</a>, the Arab tribes of <a href="/wiki/Banu_Hilal" title="Banu Hilal">Banu Hilal</a> and Banu Sulaym were living between <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a> and eastern Algeria (<a href="/wiki/Constantine" class="mw-disambig" title="Constantine">Constantois</a>). The famous <a href="/wiki/Mathematician" title="Mathematician">mathematician</a>, <a href="/wiki/Fibonacci" title="Fibonacci">Fibonacci</a> (1170—1250) lived in Algeria as a teenager. This is where he learned the <a href="/wiki/Hindu%E2%80%93Arabic_numeral_system" title="Hindu–Arabic numeral system">Hindu–Arabic numeral system</a>. Algeria was made part of the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a> in 1517. <a href="/wiki/Slavery" title="Slavery">Enslavement</a> of <a href="/wiki/Black_people" title="Black people">black people</a> was practiced there as it was throughout the empire.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup> </p>
+      <p>Algeria would become part of the islamic world when the first <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a> <a href="/wiki/Arabs" class="mw-redirect" title="Arabs">Arabs</a> came to Algeria in the mid-<a href="/wiki/7th_century" title="7th century">7th century</a>, resulting in many people converting to the new religion of islam. In the <a href="/wiki/11th_century" title="11th century">11th century</a>, the Arab tribes of <a href="/wiki/Banu_Hilal" title="Banu Hilal">Banu Hilal</a> and Banu Sulaym were living between <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a> and eastern Algeria (<a href="/wiki/Constantine" class="mw-disambig" title="Constantine">Constantois</a>). The famous <a href="/wiki/Mathematician" title="Mathematician">mathematician</a>, <a href="/wiki/Fibonacci" title="Fibonacci">Fibonacci</a> (1170—1250) lived in Algeria as a teenager. This is where he learned the <a href="/wiki/Hindu%E2%80%93Arabic_numeral_system" title="Hindu–Arabic numeral system">Hindu–Arabic numeral system</a>. Algeria was made part of the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a> in 1517. <a href="/wiki/Slavery" title="Slavery">Enslavement</a> of <a href="/wiki/Black_people" title="Black people">black people</a> was practiced there as it was throughout the empire.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup> </p>
       <p>In the 1500s and 1700s, the <a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish Empire</a> ruled a lot of Algeria. <a href="/wiki/France" title="France">France</a> colonized Algeria starting in 1830. In 1954, the <a href="/wiki/National_Liberation_Front" title="National Liberation Front">National Liberation Front</a> (Front de Libération Nationale or FLN) wanted freedom from France. They fought a war. It became independent from <a href="/wiki/France" title="France">France</a> in July 5, 1962. </p>
       <p>In 1963 <a href="/wiki/Ahmed_Ben_Bella" title="Ahmed Ben Bella">Ahmed Ben Bella</a> became the first <a href="/wiki/President_of_Algeria" title="President of Algeria">President of Algeria</a>. </p>
       <p>The Algerian Civil War started in 1991. It ended in 2002. the government stopped the state of <a href="/wiki/Emergency" title="Emergency">emergency</a> on 24 February 2011. </p> 
@@ -365,7 +405,7 @@
       <h2><span class="mw-headline" id="Population">Population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algeria&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Change section: Population">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Algeria&amp;action=edit&amp;section=4" title="Change section: Population">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <p>Algeria's population is about 45 million people. There are over 40 <a href="/wiki/List_of_cities_in_Algeria" class="mw-redirect" title="List of cities in Algeria">cities</a> with more than 100,000 people. </p> 
       <h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algeria&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Change section: Politics">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Algeria&amp;action=edit&amp;section=5" title="Change section: Politics">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <p>The Parliament of Algeria is made up of two chambers:<sup id="cite_ref-alge_Emba_13-0" class="reference"><a href="#cite_note-alge_Emba-13">[12]</a></sup> </p> 
+      <p>The Parliament of Algeria is made up of two chambers:<sup id="cite_ref-alge_Emba_12-0" class="reference"><a href="#cite_note-alge_Emba-12">[11]</a></sup> </p> 
       <ul>
        <li>The <b><a href="/wiki/Council_of_the_Nation" title="Council of the Nation">Council of the Nation</a></b> (<a href="/wiki/Upper_house" title="Upper house">Upper Chamber</a>)</li> 
        <li>The <b><a href="/wiki/People%27s_National_Assembly" title="People's National Assembly">People's National Assembly</a></b> (<a href="/wiki/Lower_house" title="Lower house">Lower Chamber</a>)</li>
@@ -538,46 +578,45 @@
        </table>
       </div> 
       <h2><span class="mw-headline" id="UNESCO_World_Heritage_Sites">UNESCO World Heritage Sites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algeria&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Change section: UNESCO World Heritage Sites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Algeria&amp;action=edit&amp;section=7" title="Change section: UNESCO World Heritage Sites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
-      <p>There are several <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> <a href="/wiki/World_Heritage_Sites" class="mw-redirect" title="World Heritage Sites">World Heritage Sites</a> in Algeria<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[13]</a></sup> including <a href="/w/index.php?title=Al_Qal%27a_of_Beni_Hammad&amp;action=edit&amp;redlink=1" class="new" title="Al Qal'a of Beni Hammad (not yet started)">Al Qal'a of Beni Hammad</a>, the first capital of the <a href="/wiki/Hammadid" title="Hammadid">Hammadid</a> empire; <a href="/wiki/Tipasa" class="mw-redirect" title="Tipasa">Tipasa</a>, a Phoenician and later Roman town; and <a href="/w/index.php?title=Dj%C3%A9mila&amp;action=edit&amp;redlink=1" class="new" title="Djémila (not yet started)">Djémila</a> and <a href="/w/index.php?title=Timgad&amp;action=edit&amp;redlink=1" class="new" title="Timgad (not yet started)">Timgad</a>, both <a href="/wiki/Ancient_Rome" title="Ancient Rome">Roman</a> ruins; <a href="/w/index.php?title=M%27Zab_Valley&amp;action=edit&amp;redlink=1" class="new" title="M'Zab Valley (not yet started)">M'Zab Valley</a>, a limestone valley containing a large urbanized <a href="/wiki/Oasis" title="Oasis">oasis</a>; also the <a href="/w/index.php?title=Casbah&amp;action=edit&amp;redlink=1" class="new" title="Casbah (not yet started)">Casbah</a> of Algiers is an important citadel. The only natural <a href="/wiki/World_Heritage_Sites" class="mw-redirect" title="World Heritage Sites">World Heritage Sites</a> is the <a href="/wiki/Tassili_n%27Ajjer" title="Tassili n'Ajjer">Tassili n'Ajjer</a>, a mountain range. </p> 
+      <p>There are several <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> <a href="/wiki/World_Heritage_Sites" class="mw-redirect" title="World Heritage Sites">World Heritage Sites</a> in Algeria<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup> including <a href="/w/index.php?title=Al_Qal%27a_of_Beni_Hammad&amp;action=edit&amp;redlink=1" class="new" title="Al Qal'a of Beni Hammad (not yet started)">Al Qal'a of Beni Hammad</a>, the first capital of the <a href="/wiki/Hammadid" class="mw-redirect" title="Hammadid">Hammadid</a> empire; <a href="/wiki/Tipasa" class="mw-redirect" title="Tipasa">Tipasa</a>, a Phoenician and later Roman town; and <a href="/w/index.php?title=Dj%C3%A9mila&amp;action=edit&amp;redlink=1" class="new" title="Djémila (not yet started)">Djémila</a> and <a href="/w/index.php?title=Timgad&amp;action=edit&amp;redlink=1" class="new" title="Timgad (not yet started)">Timgad</a>, both <a href="/wiki/Ancient_Rome" title="Ancient Rome">Roman</a> ruins; <a href="/w/index.php?title=M%27Zab_Valley&amp;action=edit&amp;redlink=1" class="new" title="M'Zab Valley (not yet started)">M'Zab Valley</a>, a limestone valley containing a large urbanized <a href="/wiki/Oasis" title="Oasis">oasis</a>; also the <a href="/w/index.php?title=Casbah&amp;action=edit&amp;redlink=1" class="new" title="Casbah (not yet started)">Casbah</a> of Algiers is an important citadel. The only natural <a href="/wiki/World_Heritage_Sites" class="mw-redirect" title="World Heritage Sites">World Heritage Sites</a> is the <a href="/wiki/Tassili_n%27Ajjer" title="Tassili n'Ajjer">Tassili n'Ajjer</a>, a mountain range. </p> 
       <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algeria&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Change section: References">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Algeria&amp;action=edit&amp;section=8" title="Change section: References">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <div class="reflist" style="list-style-type: decimal;"> 
        <div class="mw-references-wrap mw-references-columns">
         <ol class="references"> 
-         <li id="cite_note-CONST-AR-1"><span class="mw-cite-backlink"><a href="#cite_ref-CONST-AR_1-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120718124116/http://www.el-mouradia.dz/arabe/symbole/textes/constitution96.htm">"Constitution of Algeria, Art. 11"</a> (in Arabic). El-mouradia.dz. Archived from <a rel="nofollow" class="external text" href="http://www.el-mouradia.dz/arabe/symbole/textes/constitution96.htm">the original</a> on 18 July 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">17 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Constitution+of+Algeria%2C+Art.+11&amp;rft.pub=El-mouradia.dz&amp;rft_id=http%3A%2F%2Fwww.el-mouradia.dz%2Farabe%2Fsymbole%2Ftextes%2Fconstitution96.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r7147953">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span> </li> 
-         <li id="cite_note-CONST-EN-2"><span class="mw-cite-backlink"><a href="#cite_ref-CONST-EN_2-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130725130249/http://www.apn-dz.org/apn/english/constitution96/titre_01.htm">"Constitution of Algeria; Art. 11"</a>. Apn-dz.org. 28 November 1996. Archived from <a rel="nofollow" class="external text" href="https://www.apn-dz.org/apn/english/constitution96/titre_01.htm">the original</a> on 25 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">17 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Constitution+of+Algeria%3B+Art.+11&amp;rft.pub=Apn-dz.org&amp;rft.date=1996-11-28&amp;rft_id=http%3A%2F%2Fwww.apn-dz.org%2Fapn%2Fenglish%2Fconstitution96%2Ftitre_01.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-constitution-3"><span class="mw-cite-backlink"><a href="#cite_ref-constitution_3-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130725130249/http://www.apn-dz.org/apn/english/constitution96/titre_01.htm">"Constitution of Algeria; Art. 3"</a>. Apn-dz.org. 28 November 1996. Archived from <a rel="nofollow" class="external text" href="https://www.apn-dz.org/apn/english/constitution96/titre_01.htm">the original</a> on 25 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">17 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Constitution+of+Algeria%3B+Art.+3&amp;rft.pub=Apn-dz.org&amp;rft.date=1996-11-28&amp;rft_id=http%3A%2F%2Fwww.apn-dz.org%2Fapn%2Fenglish%2Fconstitution96%2Ftitre_01.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-APS-4"><span class="mw-cite-backlink"><a href="#cite_ref-APS_4-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://arquivo.pt/wayback/20160522160159/http://www.aps.dz/images/doc/PROJET-DE%20REVISION-DE-LA-CONSTITUTION-28-DECEMBRE-2015.pdf">"APS"</a> <span class="cs1-format">(PDF)</span>. <a href="/w/index.php?title=Algeria_Press_Service&amp;action=edit&amp;redlink=1" class="new" title="Algeria Press Service (not yet started)">Algeria Press Service</a>. 6 January 2016. Archived from <a rel="nofollow" class="external text" href="http://www.aps.dz/images/doc/PROJET-DE%20REVISION-DE-LA-CONSTITUTION-28-DECEMBRE-2015.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 22 May 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=APS&amp;rft.pub=Algeria+Press+Service&amp;rft.date=2016-01-06&amp;rft_id=http%3A%2F%2Fwww.aps.dz%2Fimages%2Fdoc%2FPROJET-DE%2520REVISION-DE-LA-CONSTITUTION-28-DECEMBRE-2015.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-AlgeriaFactbook-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-AlgeriaFactbook_5-0">5.0</a></sup> <sup><a href="#cite_ref-AlgeriaFactbook_5-1">5.1</a></sup> <sup><a href="#cite_ref-AlgeriaFactbook_5-2">5.2</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6BNNjndve?url=https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html">"The World Factbook – Algeria"</a>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a>. 4 December 2013. Archived from <a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html">the original</a> on 13 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">24 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+World+Factbook+%E2%80%93+Algeria&amp;rft.pub=Central+Intelligence+Agency&amp;rft.date=2013-12-04&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fag.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-ONS-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ONS_7-0">6.0</a></sup> <sup><a href="#cite_ref-ONS_7-1">6.1</a></sup></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120306220607/http://www.ons.dz/-Demographie-.html">"Démographie (ONS)"</a>. ONS. 19 January 2016. Archived from <a rel="nofollow" class="external text" href="http://www.ons.dz/-Demographie-.html">the original</a> on 6 March 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">19 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=D%C3%A9mographie+%28ONS%29&amp;rft.pub=ONS&amp;rft.date=2016-01-19&amp;rft_id=http%3A%2F%2Fwww.ons.dz%2F-Demographie-.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-imf2-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-imf2_8-0">7.0</a></sup> <sup><a href="#cite_ref-imf2_8-1">7.1</a></sup> <sup><a href="#cite_ref-imf2_8-2">7.2</a></sup> <sup><a href="#cite_ref-imf2_8-3">7.3</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=52&amp;pr.y=14&amp;sy=2017&amp;ey=2021&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=612&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=">Algeria</a>. <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a></span> </li> 
-         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><cite id="CITEREFStaff" class="citation web cs1">Staff. <a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">"Distribution of Family Income&nbsp;– Gini Index"</a>. <i><a href="/wiki/The_World_Factbook" title="The World Factbook">The World Factbook</a></i>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a>. <a rel="nofollow" class="external text" href="https://www.webcitation.org/5rRcwIiYs?url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">Archived</a> from the original on 23 July 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Distribution+of+Family+Income+%E2%80%93+Gini+Index&amp;rft.au=Staff&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2172.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-HDI-10"><span class="mw-cite-backlink"><a href="#cite_ref-HDI_10-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf">"2015 Human Development Report"</a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 14 December 2015. pp.&nbsp;21–25<span class="reference-accessdate">. Retrieved <span class="nowrap">14 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2015+Human+Development+Report&amp;rft.pages=21-25&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2015-12-14&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr_2015_statistical_annex.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><cite id="CITEREFGeoghegan2009" class="citation news cs1">Geoghegan, Tom (7 September 2009). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/8239048.stm">"Could the UK drive on the right?"</a>. BBC News<span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Could+the+UK+drive+on+the+right%3F&amp;rft.date=2009-09-07&amp;rft.aulast=Geoghegan&amp;rft.aufirst=Tom&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2F8239048.stm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><cite id="CITEREFLoualich2013" class="citation journal cs1">Loualich, Fatiha (2013-01-01). <a rel="nofollow" class="external text" href="https://brill.com/view/journals/ormo/93/2/article-p547_10.xml">"The Emancipated Slaves Faced with the Jurisdiction of Algiers in the Seventeenth and Eighteenth Centuries"</a>. <i>Oriente Moderno</i>. <b>93</b> (2): 547–560. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1163%2F22138617-12340032">10.1163/22138617-12340032</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2213-8617">2213-8617</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Oriente+Moderno&amp;rft.atitle=The+Emancipated+Slaves+Faced+with+the+Jurisdiction+of+Algiers+in+the+Seventeenth+and+Eighteenth+Centuries&amp;rft.volume=93&amp;rft.issue=2&amp;rft.pages=547-560&amp;rft.date=2013-01-01&amp;rft_id=info%3Adoi%2F10.1163%2F22138617-12340032&amp;rft.issn=2213-8617&amp;rft.aulast=Loualich&amp;rft.aufirst=Fatiha&amp;rft_id=https%3A%2F%2Fbrill.com%2Fview%2Fjournals%2Formo%2F93%2F2%2Farticle-p547_10.xml&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-alge_Emba-13"><span class="mw-cite-backlink"><a href="#cite_ref-alge_Emba_13-0">↑</a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.algeriaemb.ir/pages.php?p=19">"Embassy of Algeria in Iran - Political Institution - The National People's Assembly"</a>. <i>algeriaemb.ir</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=algeriaemb.ir&amp;rft.atitle=Embassy+of+Algeria+in+Iran+-+Political+Institution+-+The+National+People%27s+Assembly&amp;rft_id=http%3A%2F%2Fwww.algeriaemb.ir%2Fpages.php%3Fp%3D19&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
-         <li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><cite id="CITEREFUNESCO" class="citation web cs1">UNESCO. <a rel="nofollow" class="external text" href="http://whc.unesco.org/en/statesparties/dz">"UNESCO World Heritage Centre"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UNESCO+World+Heritage+Centre&amp;rft.au=UNESCO&amp;rft_id=http%3A%2F%2Fwhc.unesco.org%2Fen%2Fstatesparties%2Fdz&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span>
-           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7147953"></span> </li> 
+         <li id="cite_note-CONST-AR-1"><span class="mw-cite-backlink"><a href="#cite_ref-CONST-AR_1-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r7263714">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120718124116/http://www.el-mouradia.dz/arabe/symbole/textes/constitution96.htm">"Constitution of Algeria, Art. 11"</a>. El-mouradia.dz. language: France and Arabic (government language); people of Algeria speak Arabic and Berber. Archived from <a rel="nofollow" class="external text" href="http://www.el-mouradia.dz/arabe/symbole/textes/constitution96.htm">the original</a> on 18 July 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">17 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Constitution+of+Algeria%2C+Art.+11&amp;rft.pub=El-mouradia.dz&amp;rft_id=http%3A%2F%2Fwww.el-mouradia.dz%2Farabe%2Fsymbole%2Ftextes%2Fconstitution96.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-CONST-EN-2"><span class="mw-cite-backlink"><a href="#cite_ref-CONST-EN_2-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130725130249/http://www.apn-dz.org/apn/english/constitution96/titre_01.htm">"Constitution of Algeria; Art. 11"</a>. Apn-dz.org. 28 November 1996. Archived from <a rel="nofollow" class="external text" href="https://www.apn-dz.org/apn/english/constitution96/titre_01.htm">the original</a> on 25 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">17 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Constitution+of+Algeria%3B+Art.+11&amp;rft.pub=Apn-dz.org&amp;rft.date=1996-11-28&amp;rft_id=http%3A%2F%2Fwww.apn-dz.org%2Fapn%2Fenglish%2Fconstitution96%2Ftitre_01.htm&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-AlgeriaFactbook-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-AlgeriaFactbook_3-0">3.0</a></sup> <sup><a href="#cite_ref-AlgeriaFactbook_3-1">3.1</a></sup> <sup><a href="#cite_ref-AlgeriaFactbook_3-2">3.2</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070612211925/https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html">"The World Factbook – Algeria"</a>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a>. 4 December 2013. Archived from <a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html">the original</a> on 12 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">24 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+World+Factbook+%E2%80%93+Algeria&amp;rft.pub=Central+Intelligence+Agency&amp;rft.date=2013-12-04&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fag.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html">"Central Intelligence Agency"</a>. <i>The World Factbook</i>. Central Intelligence Agency. 8 February 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Central+Intelligence+Agency&amp;rft.date=2020-02-08&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fag.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-ONS_2020-6"><span class="mw-cite-backlink"><a href="#cite_ref-ONS_2020_6-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ons.dz/IMG/pdf/demographie2019_bis.pdf">"Démographie"</a> [Demography] <span class="cs1-format">(PDF)</span>. <i>Office National des Statistiques</i> (in French). 18 May 2020. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200721155425/http://www.ons.dz/IMG/pdf/demographie2019_bis.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 21 July 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">3 October</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+National+des+Statistiques&amp;rft.atitle=D%C3%A9mographie&amp;rft.date=2020-05-18&amp;rft_id=http%3A%2F%2Fwww.ons.dz%2FIMG%2Fpdf%2Fdemographie2019_bis.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-IMFWEOAG-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-IMFWEOAG_7-0">6.0</a></sup> <sup><a href="#cite_ref-IMFWEOAG_7-1">6.1</a></sup> <sup><a href="#cite_ref-IMFWEOAG_7-2">6.2</a></sup> <sup><a href="#cite_ref-IMFWEOAG_7-3">6.3</a></sup></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=30&amp;pr.y=9&amp;sy=2019&amp;ey=2022&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=612&amp;s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&amp;grp=0&amp;a=">"World Economic Outlook Database"</a>. <i>IMF.org</i>. <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IMF.org&amp;rft.atitle=World+Economic+Outlook+Database&amp;rft_id=https%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2019%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D30%26pr.y%3D9%26sy%3D2019%26ey%3D2022%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D612%26s%3DNGDPD%252CPPPGDP%252CNGDPDPC%252CPPPPC%26grp%3D0%26a%3D&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">"Distribution of Family Income&nbsp;– Gini Index"</a>. <i><a href="/wiki/The_World_Factbook" title="The World Factbook">The World Factbook</a></i>. <a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">Central Intelligence Agency</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070613005439/https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html">Archived</a> from the original on 13 June 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+World+Factbook&amp;rft.atitle=Distribution+of+Family+Income+%E2%80%93+Gini+Index&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Ffields%2F2172.html&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://data.worldbank.org/indicator/SI.POV.GINI?locations=DZ">"GINI index (World Bank estimate)"</a>. <i>data.worldbank.org</i>. <a href="/wiki/World_Bank" title="World Bank">World Bank</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20181118143415/https://data.worldbank.org/indicator/SI.POV.GINI?locations=DZ">Archived</a> from the original on 18 November 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=data.worldbank.org&amp;rft.atitle=GINI+index+%28World+Bank+estimate%29&amp;rft_id=https%3A%2F%2Fdata.worldbank.org%2Findicator%2FSI.POV.GINI%3Flocations%3DDZ&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UNHDR-10"><span class="mw-cite-backlink"><a href="#cite_ref-UNHDR_10-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://hdr.undp.org/sites/default/files/hdr2020.pdf"><i>Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene</i></a> <span class="cs1-format">(PDF)</span>. United Nations Development Programme. 15 December 2020. pp.&nbsp;343–346. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-92-1-126442-5" title="Special:BookSources/978-92-1-126442-5"><bdi>978-92-1-126442-5</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Human+Development+Report+2020+The+Next+Frontier%3A+Human+Development+and+the+Anthropocene&amp;rft.pages=343-346&amp;rft.pub=United+Nations+Development+Programme&amp;rft.date=2020-12-15&amp;rft.isbn=978-92-1-126442-5&amp;rft_id=http%3A%2F%2Fhdr.undp.org%2Fsites%2Fdefault%2Ffiles%2Fhdr2020.pdf&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFLoualich2013" class="citation journal cs1">Loualich, Fatiha (2013-01-01). <a rel="nofollow" class="external text" href="https://brill.com/view/journals/ormo/93/2/article-p547_10.xml">"The Emancipated Slaves Faced with the Jurisdiction of Algiers in the Seventeenth and Eighteenth Centuries"</a>. <i>Oriente Moderno</i>. <b>93</b> (2): 547–560. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1163%2F22138617-12340032">10.1163/22138617-12340032</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2213-8617">2213-8617</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Oriente+Moderno&amp;rft.atitle=The+Emancipated+Slaves+Faced+with+the+Jurisdiction+of+Algiers+in+the+Seventeenth+and+Eighteenth+Centuries&amp;rft.volume=93&amp;rft.issue=2&amp;rft.pages=547-560&amp;rft.date=2013-01-01&amp;rft_id=info%3Adoi%2F10.1163%2F22138617-12340032&amp;rft.issn=2213-8617&amp;rft.aulast=Loualich&amp;rft.aufirst=Fatiha&amp;rft_id=https%3A%2F%2Fbrill.com%2Fview%2Fjournals%2Formo%2F93%2F2%2Farticle-p547_10.xml&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-alge_Emba-12"><span class="mw-cite-backlink"><a href="#cite_ref-alge_Emba_12-0">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.algeriaemb.ir/pages.php?p=19">"Embassy of Algeria in Iran - Political Institution - The National People's Assembly"</a>. <i>algeriaemb.ir</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=algeriaemb.ir&amp;rft.atitle=Embassy+of+Algeria+in+Iran+-+Political+Institution+-+The+National+People%27s+Assembly&amp;rft_id=http%3A%2F%2Fwww.algeriaemb.ir%2Fpages.php%3Fp%3D19&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7263714"><cite id="CITEREFUNESCO" class="citation web cs1">UNESCO. <a rel="nofollow" class="external text" href="http://whc.unesco.org/en/statesparties/dz">"UNESCO World Heritage Centre"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UNESCO+World+Heritage+Centre&amp;rft.au=UNESCO&amp;rft_id=http%3A%2F%2Fwhc.unesco.org%2Fen%2Fstatesparties%2Fdz&amp;rfr_id=info%3Asid%2Fsimple.wikipedia.org%3AAlgeria" class="Z3988"></span></span> </li> 
         </ol>
        </div>
       </div> 
+      <p><b>Notes</b> </p> 
       <div class="reflist" style="list-style-type: lower-alpha;"> 
        <div class="mw-references-wrap">
         <ol class="references"> 
-         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">The <i><a href="/wiki/The_World_Factbook" title="The World Factbook">CIA World Factbook</a></i> states that about 15% of Algerians, a minority, identify as Berber even though many Algerians have Berber origins. The Factbook explains that of the approximately 15% who identify as Berber, most live in the <a href="/w/index.php?title=Kabylie&amp;action=edit&amp;redlink=1" class="new" title="Kabylie (not yet started)">Kabylie</a> region, more closely identify with Berber heritage instead of Arab heritage, and are Muslim.</span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">The <i><a href="/wiki/The_World_Factbook" title="The World Factbook">CIA World Factbook</a></i> states that about 15% of Algerians, a minority, identify as Berber even though many Algerians have Berber origins. The Factbook explains that of the approximately 15% who identify as Berber, most live in the <a href="/w/index.php?title=Kabylia&amp;action=edit&amp;redlink=1" class="new" title="Kabylia (not yet started)">Kabylia</a> region, more closely identify with Berber heritage instead of Arab heritage, and are Muslim.</span> </li> 
         </ol>
        </div>
       </div> 
-      <p><a rel="nofollow" class="external free" href="https://tribusalgeriennes.wordpress.com/2014/04/01/%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A/amp/">https://tribusalgeriennes.wordpress.com/2014/04/01/%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A/amp/</a> </p> 
       <h2><span class="mw-headline" id="Other_websites">Other websites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algeria&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Change section: Other websites">change</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Algeria&amp;action=edit&amp;section=9" title="Change section: Other websites">change source</a><span class="mw-editsection-bracket">]</span></span></h2> 
       <ul>
        <li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Algeria" class="extiw" title="commons:Category:Algeria">Algeria</a> at Wikimedia Commons</li> 
@@ -590,9 +629,9 @@
           <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r7207634">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Middle_East" title="Template:Middle East"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/wiki/Template_talk:Middle_East" title="Template talk:Middle East"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Middle_East&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Middle_East" title="Template:Middle East"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Middle_East" title="Template talk:Middle East"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Middle_East&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Middle_East" style="font-size:114%;margin:0 4em">
@@ -638,9 +677,9 @@
            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7207634">
            <div class="navbar plainlinks hlist navbar-mini">
             <ul>
-             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li>
-             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li>
-             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li>
+             <li class="nv-view"><a href="/wiki/Template:Countries_of_Africa" title="Template:Countries of Africa"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/w/index.php?title=Template_talk:Countries_of_Africa&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Countries of Africa (not yet started)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://simple.wikipedia.org/w/index.php?title=Template:Countries_of_Africa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
             </ul>
            </div>
            <div id="Countries_and_territories_of_Africa" style="font-size:114%;margin:0 4em">
@@ -760,7 +799,7 @@
           <th scope="row" class="navbox-group" style="width:1%">
            <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
             <a href="/w/index.php?title=Territory_(subdivision)&amp;action=edit&amp;redlink=1" class="new" title="Territory (subdivision) (not yet started)">Territories</a> 
-            <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r6670383"><span class="nobold">and</span>
+            <style data-mw-deduplicate="TemplateStyles:r6670383">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">and</span>
             <br><a href="/wiki/Dependent_territory" title="Dependent territory">dependencies</a>
            </div></th>
           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
@@ -801,43 +840,43 @@
        </table>
       </div> <!-- 
 NewPP limit report
-Parsed by mw1409
-Cached time: 20201222164019
+Parsed by mw1407
+Cached time: 20210114153003
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.040 seconds
-Real time usage: 1.246 seconds
-Preprocessor visited node count: 4826/1000000
-Post‐expand include size: 121616/2097152 bytes
-Template argument size: 12493/2097152 bytes
+CPU time usage: 1.020 seconds
+Real time usage: 1.268 seconds
+Preprocessor visited node count: 4876/1000000
+Post‐expand include size: 133412/2097152 bytes
+Template argument size: 13394/2097152 bytes
 Highest expansion depth: 18/40
-Expensive parser function count: 8/500
+Expensive parser function count: 7/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 43103/5000000 bytes
-Lua time usage: 0.581/10.000 seconds
-Lua memory usage: 29802806/52428800 bytes
+Unstrip post‐expand size: 42378/5000000 bytes
+Lua time usage: 0.556/10.000 seconds
+Lua memory usage: 30029951/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 --> <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1109.371      1 -total
- 61.31%  680.205      1 Template:Infobox_country
- 60.21%  667.962      3 Template:Infobox
- 18.77%  208.263      3 Template:ISO_3166_code
- 14.41%  159.873      3 Template:Small
- 14.21%  157.686      1 Template:Native_name
- 13.78%  152.846      1 Template:Lang
- 13.57%  150.546      2 Template:Reflist
- 10.89%  120.781     10 Template:Cite_web
-  9.85%  109.239      1 Template:Commonscat-inline
---> <!-- Saved in parser cache with key simplewiki:pcache:idhash:5404-0!canonical and timestamp 20201222164018 and revision id 7215567. Serialized with JSON.
+100.00% 1107.362      1 -total
+ 61.59%  682.063      1 Template:Infobox_country
+ 61.56%  681.737      3 Template:Infobox
+ 18.50%  204.814      3 Template:ISO_3166_code
+ 13.51%  149.585      4 Template:Small
+ 13.50%  149.464      2 Template:Reflist
+ 13.28%  147.024      1 Template:Native_name
+ 13.01%  144.110      2 Template:Lang
+ 10.22%  113.165     10 Template:Cite_web
+  9.47%  104.867      4 Template:Navbox
+--> <!-- Saved in parser cache with key simplewiki:pcache:idhash:5404-0!canonical and timestamp 20210114153001 and revision id 7266311. Serialized with JSON.
  --> 
      </div>
      <noscript>
       <img src="//simple.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
      </noscript> 
      <div class="printfooter">
-      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Algeria&amp;oldid=7215567">https://simple.wikipedia.org/w/index.php?title=Algeria&amp;oldid=7215567</a>"
+      Retrieved from "<a dir="ltr" href="https://simple.wikipedia.org/w/index.php?title=Algeria&amp;oldid=7266311">https://simple.wikipedia.org/w/index.php?title=Algeria&amp;oldid=7266311</a>"
      </div>
     </div> 
     <div id="catlinks" class="catlinks" data-mw="interface">
@@ -852,12 +891,13 @@ Transclusion expansion time report (%,ms,calls,template)
      <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
       Hidden categories: 
       <ul>
-       <li><a href="/wiki/Category:CS1_Arabic-language_sources_(ar)" title="Category:CS1 Arabic-language sources (ar)">CS1 Arabic-language sources (ar)</a></li>
+       <li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li>
+       <li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li>
        <li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li>
        <li><a href="/wiki/Category:Articles_containing_explicitly_cited_English-language_text" title="Category:Articles containing explicitly cited English-language text">Articles containing explicitly cited English-language text</a></li>
        <li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li>
        <li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li>
-       <li><a href="/wiki/Category:Pages_including_recorded_pronunciations_(English)" title="Category:Pages including recorded pronunciations (English)">Pages including recorded pronunciations (English)</a></li>
+       <li><a href="/wiki/Category:Pages_including_recorded_pronunciations" title="Category:Pages including recorded pronunciations">Pages including recorded pronunciations</a></li>
       </ul>
      </div>
     </div> 
@@ -932,9 +972,9 @@ Transclusion expansion time report (%,ms,calls,template)
     </div> 
    </div> 
    <div id="mw-panel"> 
-    <div id="p-logo" role="banner"> <a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
     </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
-    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation"> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
      <h3 id="p-navigation-label"> <span>Getting around</span> </h3> 
      <div class="vector-menu-content"> 
       <ul class="vector-menu-content-list">
@@ -958,9 +998,9 @@ Transclusion expansion time report (%,ms,calls,template)
        <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Algeria" rel="nofollow" title="New changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
        <li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
        <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-       <li id="t-permalink"><a href="/w/index.php?title=Algeria&amp;oldid=7215567" title="Permanent link to this revision of the page">Permanent link</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Algeria&amp;oldid=7266311" title="Permanent link to this revision of the page">Permanent link</a></li>
        <li id="t-info"><a href="/w/index.php?title=Algeria&amp;action=info" title="More information about this page">Page information</a></li>
-       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Algeria&amp;id=7215567&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Algeria&amp;id=7266311&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
        <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q262" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
       </ul> 
      </div> 
@@ -1093,7 +1133,7 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Aljazair" title="Aljazair – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
        <li class="interlanguage-link interwiki-kbp"><a href="https://kbp.wikipedia.org/wiki/Alizeerii" title="Alizeerii – Kabiye" lang="kbp" hreflang="kbp" class="interlanguage-link-target">Kabɩyɛ</a></li>
        <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%B2%E0%B3%8D%E0%B2%9C%E0%B3%80%E0%B2%B0%E0%B2%BF%E0%B2%AF" title="ಅಲ್ಜೀರಿಯ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
-       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Algeria" title="Algeria – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Arhelia" title="Arhelia – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
        <li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%90%D0%BB%D0%B6%D0%B8%D1%80" title="Алжир – Karachay-Balkar" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li>
        <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9A%E1%83%9F%E1%83%98%E1%83%A0%E1%83%98" title="ალჟირი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
        <li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/Algieri%C3%B4" title="Algieriô – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li>
@@ -1110,6 +1150,7 @@ Transclusion expansion time report (%,ms,calls,template)
        <li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%90%D0%BB%D0%B6%D0%B8%D1%80" title="Алжир – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li>
        <li class="interlanguage-link interwiki-lld"><a href="https://lld.wikipedia.org/wiki/Algeria" title="Algeria – Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target">Ladin</a></li>
        <li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Arjelia" title="Arjelia – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li>
+       <li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%E0%BB%81%E0%BA%AD%E0%BA%A5%E0%BA%88%E0%BA%B5%E0%BB%80%E0%BA%A3%E0%BA%8D" title="ປະເທດແອລຈີເຣຍ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li>
        <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Algerium" title="Algerium – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
        <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Al%C5%BE%C4%ABrija" title="Alžīrija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
        <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Algerien" title="Algerien – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
@@ -1251,7 +1292,7 @@ Transclusion expansion time report (%,ms,calls,template)
   </div> 
   <footer id="footer" class="mw-footer" role="contentinfo"> 
    <ul id="footer-info"> 
-    <li id="footer-info-lastmod"> This page was last changed on 15 December 2020, at 22:04.</li> 
+    <li id="footer-info-lastmod"> This page was last changed on 13 January 2021, at 23:11.</li> 
     <li id="footer-info-copyright">Text is available under the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution/Share-Alike License</a> and the <a href="//simple.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GFDL</a>; additional terms may apply. See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li> 
    </ul> 
    <ul id="footer-places"> 
@@ -1269,8 +1310,8 @@ Transclusion expansion time report (%,ms,calls,template)
    </ul> 
    <div style="clear: both;"></div> 
   </footer> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.040","walltime":"1.246","ppvisitednodes":{"value":4826,"limit":1000000},"postexpandincludesize":{"value":121616,"limit":2097152},"templateargumentsize":{"value":12493,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":43103,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1109.371      1 -total"," 61.31%  680.205      1 Template:Infobox_country"," 60.21%  667.962      3 Template:Infobox"," 18.77%  208.263      3 Template:ISO_3166_code"," 14.41%  159.873      3 Template:Small"," 14.21%  157.686      1 Template:Native_name"," 13.78%  152.846      1 Template:Lang"," 13.57%  150.546      2 Template:Reflist"," 10.89%  120.781     10 Template:Cite_web","  9.85%  109.239      1 Template:Commonscat-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.581","limit":"10.000"},"limitreport-memusage":{"value":29802806,"limit":52428800}},"cachereport":{"origin":"mw1409","timestamp":"20201222164019","ttl":2592000,"transientcontent":false}}});});</script> 
-  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Algeria","url":"https:\/\/simple.wikipedia.org\/wiki\/Algeria","sameAs":"http:\/\/www.wikidata.org\/entity\/Q262","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q262","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-02T15:45:26Z","dateModified":"2020-12-15T22:04:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/77\/Flag_of_Algeria.svg","headline":"sovereign in North Africa"}</script> 
-  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":324,"wgHostname":"mw1331"});});</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.020","walltime":"1.268","ppvisitednodes":{"value":4876,"limit":1000000},"postexpandincludesize":{"value":133412,"limit":2097152},"templateargumentsize":{"value":13394,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":42378,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1107.362      1 -total"," 61.59%  682.063      1 Template:Infobox_country"," 61.56%  681.737      3 Template:Infobox"," 18.50%  204.814      3 Template:ISO_3166_code"," 13.51%  149.585      4 Template:Small"," 13.50%  149.464      2 Template:Reflist"," 13.28%  147.024      1 Template:Native_name"," 13.01%  144.110      2 Template:Lang"," 10.22%  113.165     10 Template:Cite_web","  9.47%  104.867      4 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.556","limit":"10.000"},"limitreport-memusage":{"value":30029951,"limit":52428800}},"cachereport":{"origin":"mw1407","timestamp":"20210114153003","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Algeria","url":"https:\/\/simple.wikipedia.org\/wiki\/Algeria","sameAs":"http:\/\/www.wikidata.org\/entity\/Q262","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q262","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-02T15:45:26Z","dateModified":"2021-01-13T23:11:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/77\/Flag_of_Algeria.svg","headline":"sovereign country in North Africa"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":363,"wgHostname":"mw1324"});});</script> 
  </body>
 </html>

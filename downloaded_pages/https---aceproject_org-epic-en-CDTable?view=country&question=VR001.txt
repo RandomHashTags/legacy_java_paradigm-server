@@ -1,0 +1,1435 @@
+<table>
+<tbody>
+<tr>
+ <th colspan="4"> <span>total countries/territories:</span> <span>240</span> </th>
+</tr>
+<tr> 
+ <th>Country/Territory</th> 
+ <th>Answers</th> 
+ <th>Comments</th> 
+ <th>Verified</th> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AF#VR001"><span>Afghanistan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>An eligible voter shall have completed 18 years of age on the Election Day.</span> <span> <br> <span>Source</span>: <span>Afghan Election Law, art. 13(1): http://aceproject.org/ero-en/regions/asia/AF/afghanistan-election-law-2014-english/view (2014). http://archive.ipu.org/parline-e/reports/2381_B.htm</span> </span> </td> 
+ <td> <span>2019/09/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AL#VR001"><span>Albania</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>The Constitution of the Republic of Albania, art. 45.</span> </span> </td> 
+ <td> <span>2017/05/17</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=DZ#VR001"><span>Algeria</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, art. 50: https://www.constituteproject.org/constitution/Algeria_2008?lang=en (2017); Electoral law (Loi organique n° 12-01 du 18 Safar 1433 correspondant au 12 janvier 2012 relative au régime électoral), art. 3: https://www.joradp.dz/trv/fcons.pdf(2017)</span> </span> </td> 
+ <td> <span>2019/09/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AS#VR001"><span>American Samoa</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of American Samoa, Art.2:7 American Samoa Code Annotated, Title 6, Ch2 (6.0211) </span> </span> </td> 
+ <td> <span>2017/08/18</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AD#VR001"><span>Andorra</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years</span> <span> <br> <span>Source</span>: <span>Valenti Marti, Secretary General, Consell General, Andorra</span> </span> </td> 
+ <td> <span>2019/03/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AO#VR001"><span>Angola</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>143 (1) Members shall be elected by universal, free, equal, direct, secret and periodic suffrage by national citizens aged over eighteen who are resident in national territory, including Angolan citizens resident abroad for the purposes of work, study, illness or similar reasons.</span> <span> <br> <span>Source</span>: <span>Constitution of 3 February 2010, art. 143 (1): http://www.tribunalconstitucional.ao/uploads/%7B9555c635-8d7c-4ea1-b7f9-0cd33d08ea40%7D.pdf (2017); Electoral Law n.º 36/11 of 21 December 2011 regulating General Elections, art. 8 (1): http://www.tribunalconstitucional.ao/uploads/%7Bc46fa0b3-c947-4440-ae92-5f1a3a275d8a%7D.pdf (2017)</span> </span> </td> 
+ <td> <span>2017/09/28</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AI#VR001"><span>Anguilla</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years</span> <span> <br> <span>Source</span>: <span>Constitution: art. 43.</span> </span> </td> 
+ <td> <span>2015/02/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AG#VR001"><span>Antigua and Barbuda</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: Art. 40:2. http://aceproject.org/ero-en/regions/americas/AG/Antigua%20and%20Barbuda%20-%20Constitution/view</span> </span> </td> 
+ <td> <span>2014/06/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AR#VR001"><span>Argentina</span></a> </td> 
+ <td> <span>a</span>. <span>16</span> </td> 
+ <td class="link_format_target"> <span>Voting age for native Argentines is 16 years old while voting age for naturalized Argentines in 18 years old. </span> <span> <br> <span>Source</span>: <span>Electoral Code: “Código Electoral Nacional — Ley 19945”, art. 1: http://aceproject.org/ero-en/regions/americas/AR/argentina-ley-19945-codigo-electoral-nacional-2019/ (2019); Citizenship Law: “Ley de Ciudadanía — Ley 346”, art. 2 &amp; 7: </span> </span> </td> 
+ <td> <span>2019/11/12</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AM#VR001"><span>Armenia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Citizens of the Republic of Armenia that have attained the age of 18 on the day of the voting shall have the right to vote in the Republic of Armenia.</span> <span> <br> <span>Source</span>: <span>Electoral Code of 26 May 2011, art. 2 (1): http://res.elections.am/images/doc/_ecode.pdf (2013).</span> </span> </td> 
+ <td> <span>2015/12/01</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AW#VR001"><span>Aruba</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years on election day. </span> <span> <br> <span>Source</span>: <span>Mr. Hubert Maduro, President, Electoral Council of Aruba; Elections Act: art. 3.</span> </span> </td> 
+ <td> <span>2017/07/07</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AU#VR001"><span>Australia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>If a person is only 17 years old and an Australian citizen then they may provisionally enroll, but will not be able to vote unless he/she has turned 18 by polling day. Commonwealth Electoral Act (1918), Section 93: Persons entitled to enrolment and to vote: (1) Subject to subsections (7) and (8) and to Part VIII, all persons:(a) who have attained 18 years of age.</span> <span> <br> <span>Source</span>: <span>Commonwealth Electoral Act 1918 (amended in 2019) Section 93 (1) (a): https://www.legislation.gov.au/Details/C2019C00103/f85985f8-e256-4e11-ad31-884ed7f92224 </span> </span> </td> 
+ <td> <span>2020/07/13</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AT#VR001"><span>Austria</span></a> </td> 
+ <td> <span>a</span>. <span>16</span> </td> 
+ <td class="link_format_target"> <span>The age for election was decreased by each of the provinces from 18 to 16 individually, prompting a decrease in voting age federally. </span> <span> <br> <span>Source</span>: <span>Official Website of the Austrian Parliament: http://www.parlament.gv.at/ENGL/PERK/PARL/DEM/WAHLEN/index.shtml</span> </span> </td> 
+ <td> <span>2014/09/16</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AZ#VR001"><span>Azerbaijan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of the Republic of Azerbaijan (1995), art. 56 (1): http://azerbaijan.az/portal/General/Constitution/doc/constitution_e.pdf (2015); Election Code of the Republic of Azerbaijan as amended in 2010, art. 12.1: http://www.msk.gov.az/uploads/qanunvericilik/election_code_eng.pdf (2015).</span> </span> </td> 
+ <td> <span>2015/12/02</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BS#VR001"><span>Bahamas</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Subject to the provisions of this Part, a person shall be entitled to be registered as a voter for a constituency if s/he is 18 years of age. </span> <span> <br> <span>Source</span>: <span>Parliamentary Elections Act (1992), Art. 8(a) http://aceproject.org/ero-en/regions/americas/BS/bahamas-parliamentary-elections-act-2012/view (2017) </span> </span> </td> 
+ <td> <span>2017/03/27</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BH#VR001"><span>Bahrain</span></a> </td> 
+ <td> <span>e</span>. <span>20</span> </td> 
+ <td class="link_format_target"> <span>Citizens should be 20 years old on the day of referendum or election. </span> <span> <br> <span>Source</span>: <span>Decree No. 14 of 2002 on Exercising Political Rights, art. 2 (1): https://aceproject.org/ero-en/regions/mideast/BH/bahrain-law-by-decree-on-exercising-political/view (2014). Official Website of the Directorate of Elections and Referendum - Qualifications to be a voter: http://www.vote.bh/En/VoterQualifications?cms=iQRpheuphYtJ6pyXUGiNqixIUEDnnS2g (2014).</span> </span> </td> 
+ <td> <span>2014/11/21</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BD#VR001"><span>Bangladesh</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: Part VII, Art. 122(2b) </span> </span> </td> 
+ <td> <span>2012/05/30</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BB#VR001"><span>Barbados</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Representation of the People's Act: Section 7.</span> </span> </td> 
+ <td> <span>2012/01/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BY#VR001"><span>Belarus</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Elections of deputies and other persons elected to state offices by the people shall be general: citizens of the Republic of Belarus who have reached the age of 18 shall be eligible to vote.</span> <span> <br> <span>Source</span>: <span>The Constitution of the Republic of Belarus, art. 64. The Electoral Code of the Republic of Belarus, amended as of June 6, 2015, article 4. </span> </span> </td> 
+ <td> <span>2016/06/16</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BE#VR001"><span>Belgium</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Article 61 The members of the House of Representatives are elected directly by citizens who are at least eighteen years of age and who do not fall within the categories of exclusion stipulated by the law. Each elector has the right to only one vote. Article 1. § 1. In order to be eligible to vote one needs to fulfill the following conditions: 1° be a Belgian citizen 2° is at least 18 years of age; 3° be enlisted in the population register in a Belgian municipality or a population register in a diplomatic post or consulate 4° not be in one of the situations or cases of exclusion mentioned in the present Code. § 2. The conditions mentioned in § 1st, 2° and 4°, shall be met on the day of the elections. The conditions listed in § 1, 1° and 3°, shall be fulfilled on the date of the closure of the voters’ list § 3. Voters who fail to satisfy the conditions mentioned in § 1, 1° or 3° between the date or closure or the voters’ register and the day or the elections shall be deleted from the voters’ register. Voters who are arrested or convicted after the voters’ list has been established, shall be either excluded or suspended from the right to vote and shall be deleted from the voters’ register on the day of the elections.</span> <span> <br> <span>Source</span>: <span>The Belgian Constitution, Article 61 http://www.dekamer.be/kvvcr/pdf_sections/publications/constitution/GrondwetUK.pdf Electoral Code of Belgium, Article 1 http://aceproject.org/ero-en/regions/europe/BE/belgium-electoral-code-2014/view</span> </span> </td> 
+ <td> <span>2019/04/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BZ#VR001"><span>Belize</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Belize Constitution, Chapter 4”, Section 92: http://aceproject.org/ero-en/regions/americas/BZ/belize-constitution-2017/; Electoral Law: “Representation of the People Act, Chapter 9”, Section 5: http://aceproject.org/ero-en/regions/americas/BZ/belize-representation-people-act-2011/ </span> </span> </td> 
+ <td> <span>2020/07/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BJ#VR001"><span>Benin</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of 11 December 1990, art. 6: http://www.gouv.bj/sites/default/files/Cour-Constitutionnelle-recueil-des-textes-fondamentaux.pdf (2016); Law n ° 2010-33 of 7 January 2011 setting general rules for the elections in the Republic of Benin, art. 8: http://ddata.over-blog.com/1/35/48/78/Benin-2/Loi-electorale-generale-pour-2011.pdf (2016)</span> </span> </td> 
+ <td> <span>2019/04/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BM#VR001"><span>Bermuda</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years</span> <span> <br> <span>Source</span>: <span>Constitution, Art.55 (2) Parliamentary Election Act 1978, Art. 7</span> </span> </td> 
+ <td> <span>2012/05/31</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BT#VR001"><span>Bhutan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>100. Every person who is a citizen of Bhutan as evidenced by a citizenship identity card shall be entitled to be registered as a voter for a constituency, if such a person is: (a) Not younger than eighteen years of age on the qualifying date as specified by the Election Commission; </span> <span> <br> <span>Source</span>: <span>Election Act of the Kingdom of Bhutan (2008) art. 100 (a) http://aceproject.org/ero-en/regions/asia/BT/bhutan-election-act-of-the-kingdom-of-bhutan-2008/view Constitution of Bhutan, Article 23(2)</span> </span> </td> 
+ <td> <span>2018/03/12</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BO#VR001"><span>Bolivia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: "Constitución Política del Estado", art. 26 (II-2): http://aceproject.org/ero-en/regions/americas/BO/bolivia-constitucion-politica-del-estado-vigente/ (2019); Electoral Law: “Ley del Régimen Electoral — Ley 026-2010”, art. 45 (a): http://aceproject.org/ero-en/regions/americas/BO/bolivia-ley-026-2010-regimen-electoral-vigente/ (2019)</span> </span> </td> 
+ <td> <span>2020/02/06</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BA#VR001"><span>Bosnia and Herzegovina</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Each citizen of BiH who has attained eighteen (18) years of age shall have the right to vote and to be elected (hereinafter, right to vote) pursuant to this law</span> <span> <br> <span>Source</span>: <span>Electoral Law: Election Law of Bosnia and Herzegovina, art. 1.4 (1) http://izbori.ba/Documents/documents/ZAKONI/BiH_Election_Law_last_consolidated_version_2018.pdf</span> </span> </td> 
+ <td> <span>2018/11/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BW#VR001"><span>Botswana</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of Botswana art. 67 (1-a): http://aceproject.org/ero-en/regions/africa/BW/botswana-constitution-of-1966-with-amendments-up/view (2014).</span> </span> </td> 
+ <td> <span>2014/10/27</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BR#VR001"><span>Brazil</span></a> </td> 
+ <td> <span>a</span>. <span>16</span> </td> 
+ <td class="link_format_target"> <span>The suffrage is voluntary for citizens between 16 and 18 years old and over 70, but it is compulsory for citizens above 18 and under 70 years old.</span> <span> <br> <span>Source</span>: <span>Constitution: "Constituição da República Federativa do Brasil", art. 14 (1): http://aceproject.org/ero-en/regions/americas/BR/brazil-constituicao-2018/ (2018); Electoral Code: “Código Eleitoral - Lei N° 4.737”, art. 4: http://aceproject.org/ero-en/regions/americas/BR/brazil-lei-4.737-2018/ (2018)</span> </span> </td> 
+ <td> <span>2018/09/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BN#VR001"><span>Brunei Darussalam</span></a> </td> 
+ <td> <span>i</span>. <span>Not applicable</span> </td> 
+ <td class="link_format_target"> <span>there have not been national elections since 1962, but 18 is the voting age for village elections. </span> <span> <br> <span>Source</span>: <span>Constitutio: http://publicofficialsfinancialdisclosure.worldbank.org/fdl/sites/fdl/files/assets/law-library-files/Brunei_Constitution_1959_amended%202011_EN.pdf (2013); CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/bx.html </span> </span> </td> 
+ <td> <span>2013/03/18</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BG#VR001"><span>Bulgaria</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every citizen above the age of 18, with the exception of those placed under judicial interdiction or serving a prison sentence, shall be free to elect state and local authorities and vote in referendums.</span> <span> <br> <span>Source</span>: <span>Constitution. Art. 42(1) http://www.parliament.bg/en/const</span> </span> </td> 
+ <td> <span>2014/10/02</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BF#VR001"><span>Burkina Faso</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Code as amended in 2015, art. 42: http://www.ceni.bf/sites/default/files/Code_électoral_BF-Version_21.05.2015.pdf (2015)</span> </span> </td> 
+ <td> <span>2015/12/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MM#VR001"><span>Burma (Myanmar)</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every citizen who has attained 18 years of age on the day on which the election commences has the right to vote. </span> <span> <br> <span>Source</span>: <span>Constitution of Myanmar, art. 391 (a): http://burmacampaign.org.uk/media/Constitution-1.pdf (2015); The Pyithu Hluttaw Election Law, art. 6 (a): http://www.altsean.org/Research/2010/Resources/Laws/Pyithu%20Hluttaw%20Election%20Law.pdf (2013).</span> </span> </td> 
+ <td> <span>2015/11/17</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=BI#VR001"><span>Burundi</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years old</span> <span> <br> <span>Source</span>: <span>Electoral Code, art. 4: http://aceproject.org/ero-en/regions/africa/BI/burundi-2005-electoral-code-french/view ; Constitution, art. 8: http://aceproject.org/ero-en/regions/africa/BI/burundi-constitution-2005-english/view</span> </span> </td> 
+ <td> <span>2015/05/20</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KH#VR001"><span>Cambodia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Khmer citizens of both sexes, at least eighteen years old, have the right to vote.</span> <span> <br> <span>Source</span>: <span>Constitution, art. 34 (2): http://www.ccc.gov.kh/detail_info_en.php?_txtID=791</span> </span> </td> 
+ <td> <span>2018/08/15</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CM#VR001"><span>Cameroon</span></a> </td> 
+ <td> <span>e</span>. <span>20</span> </td> 
+ <td class="link_format_target"> <span>Every person of Cameroonian nationality of either sex, who has reached the age of 20 (twenty) years, is registered on an electoral register and is free from all cases of disqualification provided for by law, shall be entitled to be an elector</span> <span> <br> <span>Source</span>: <span>Electoral Code Chapter I section 45: https://aceproject.org/ero-en/regions/africa/CM/cameroon-electoral-code-english-2012</span> </span> </td> 
+ <td> <span>2018/11/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CA#VR001"><span>Canada</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>The Canada Elections Act (2015), Clause 3 http://laws.justice.gc.ca/PDF/E-2.01.pdf</span> </span> </td> 
+ <td> <span>2015/10/16</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CV#VR001"><span>Cape Verde</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of Cape Verde as amended in 2010, art. 55 (2): http://www.parlamento.cv/Downloads/Constitui%C3%A7%C3%A3o%20da%20Rep%C3%BAblica%20de%20Cabo%20verde,%202010.pdf (2016); Electoral Law as amended by Law No 56/VII/2010, art. 5, 369, 403: http://www.parlamento.cv/userfiles/image/site/Leis/Altera%20o%20C%C3%B3digo%20Eleitoral%20-%20texto%20integrante.pdf (2016)</span> </span> </td> 
+ <td> <span>2016/05/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KY#VR001"><span>Cayman Islands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years</span> <span> <br> <span>Source</span>: <span>Constitution, Art. 90</span> </span> </td> 
+ <td> <span>2012/01/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CF#VR001"><span>Central African Republic</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Law N° 09.016, Art. 3: http://ddata.over-blog.com/1/35/48/78/Centrafrique/CODE_ELECTORAL-RCA-2-octobre-2010.pdf (2016)</span> </span> </td> 
+ <td> <span>2016/04/07</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TD#VR001"><span>Chad</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Law N° 003/PR/2008 amended by law n° 008/PR/2009, law n° 007/PR/2010 and law n° 020/PR/2010, art. 3: https://publicofficialsfinancialdisclosure.worldbank.org/sites/fdl/files/assets/law-library-files/Chad_Electoral%20code_2009_fr.pdf(2016)</span> </span> </td> 
+ <td> <span>2019/04/23</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CL#VR001"><span>Chile</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years old</span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución Política de la República de Chile (2017)”, art. 13: http://aceproject.org/ero-en/regions/americas/CL/chile-constitucion-politica-de-la-republica-de-1/ </span> </span> </td> 
+ <td> <span>2017/06/29</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CN#VR001"><span>China</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>All citizens of the People's Republic of China who have reached the age of 18 shall have the right to vote and stand for election, regardless of ethnic status, race, sex, occupation, family background, religious belief, education, property status or length of residence.</span> <span> <br> <span>Source</span>: <span>Electoral Law, Art. 3</span> </span> </td> 
+ <td> <span>2012/06/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CX#VR001"><span>Christmas Island</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/kt.html </span> </span> </td> 
+ <td> <span>2010/03/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CC#VR001"><span>Cocos (keeling) Islands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>93 (1) Subject to subsections (7) and (8) and to Part VIII, all persons: (a) who have attained 18 years of age; shall be entitled to enrolment. (3) An elector: (a) whose name has been placed on a Roll in pursuance of a claim made under section 100; and (b) who has not attained 18 years of age on the date fixed for the polling in an election; is not entitled to vote at that election.</span> <span> <br> <span>Source</span>: <span>Commonwealth Electoral Act of 1918, as amended on 8 March 2019, section 93: https://www.legislation.gov.au/Details/C2019C00103</span> </span> </td> 
+ <td> <span>2019/07/10</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CO#VR001"><span>Colombia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución Política de Colombia”, art. 98, 99: http://aceproject.org/ero-en/regions/americas/CO/colombia-constitucion-politica-de-colombia-2016 (2016) Electoral Law: “Código Electoral”, art. 3, 4: http://aceproject.org/ero-en/regions/americas/CO/colombia-codigo-electoral-2016/ (2016) </span> </span> </td> 
+ <td> <span>2019/09/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KM#VR001"><span>Comoros</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Law No 10-018/AU Amending certain provisions of the Electoral Act No. 07-001/AU of 14 January 2007, art. 9 http://aceproject.org/ero-en/regions/africa/KM/comores-electoral-law-2010/view (2016)</span> </span> </td> 
+ <td> <span>2016/04/12</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CG#VR001"><span>Congo (Brazzaville)</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years</span> <span> <br> <span>Source</span>: <span>Election law of 24 November 2001, Art. 5: http://aceproject.org/ero-en/regions/africa/CG/congo-brazzaville-electoral-law-2001/view (2017)</span> </span> </td> 
+ <td> <span>2017/03/29</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CD#VR001"><span>Congo (Kinshasa), Democratic Republic of the</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>a) 18 years</span> <span> <br> <span>Source</span>: <span>Loi électorale de la RDC (2015),art. 5: http://aceproject.org/ero-en/regions/africa/CD/congo-kinshasa-rdc-loi-electorale-2015/</span> </span> </td> 
+ <td> <span>2016/11/29</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CK#VR001"><span>Cook Islands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years of age on the date of the election</span> <span> <br> <span>Source</span>: <span>Electoral Law: Electoral Act 2004, art. 7(c)</span> </span> </td> 
+ <td> <span>2014/06/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CR#VR001"><span>Costa Rica</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución Política de la República de Costa Rica”, art. 90: http://aceproject.org/ero-en/regions/americas/CR/costa-rica-constitucion-politica-reformas-2015.pdf/; Electoral Law: “Ley 8765: Código Electoral”, art. 144: http://aceproject.org/ero-en/regions/americas/CR/costa-rica-ley-8765-codigo-electoral-2018.pdf/</span> </span> </td> 
+ <td> <span>2018/01/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=HR#VR001"><span>Croatia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>All Croatian citizens who have reached the age of eighteen years (voters) shall be entitled to universal and equal suffrage in elections for the Croatian Parliament, the President of the Republic of Croatia and the European Parliament and in decision-making procedures by national referendum, in compliance with law.</span> <span> <br> <span>Source</span>: <span>Constitution: Constitution of the Republic of Croatia as revised on 06 July 2010, art. 45. https://www.constituteproject.org/constitution/Croatia_2013?lang=en Electoral Law: Act on Election of Representatives to the Croatian Parliament (116/99) (consolidated wording with amendments No. 109/00 and 53/03), art. 4(1). https://www.legislationline.org/download/id/1154/file/71c13d3cb8431393409819c98e04.pdf </span> </span> </td> 
+ <td> <span>2020/07/06</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CU#VR001"><span>Cuba</span></a> </td> 
+ <td> <span>a</span>. <span>16</span> </td> 
+ <td class="link_format_target"> <span> </span> <span> <br> <span>Source</span>: <span>Electoral Law: "Ley electoral (1992)", art. 5. See more at: http://mipais.cuba.cu/cat.php?idcat=77&amp;idpadre=76&amp;nivel=2</span> </span> </td> 
+ <td> <span>2019/02/07</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CY#VR001"><span>Cyprus</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>The Constitution was amended by Law 106(1)/96 to lower the voting age to 18. Thus, every citizen who has attained the age of 18 years shall have the right to be registered as an elector in either the Greek or the Turkish electoral list.</span> <span> <br> <span>Source</span>: <span>Constitution, Art. 31, 63: http://aceproject.org/ero-en/regions/europe/CY/cyprus-constitution-1960/ (2016); Electoral Law 72 of 1979 as amended, Art. 5: http://aceproject.org/ero-en/regions/europe/CY/cyprus-electoral-law-72-1979-greek-version/ (2016); Official website of the Central Electoral Service: http://moi.gov.cy (2016); Election Assessment Mission Final Report, Parliamentary Elections of May 22, OSCE/ODIHR - 2011: http://aceproject.org/ero-en/regions/europe/CY/cyprus-election-assessment-mission-final-report/ (2016). </span> </span> </td> 
+ <td> <span>2018/03/23</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CP#VR001"><span>Cyprus (North)</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>It shall be the right and duty of every citizen who has completed the age of eighteen years to vote at elections and referendums</span> <span> <br> <span>Source</span>: <span>Constitution, Art. 68</span> </span> </td> 
+ <td> <span>2012/06/07</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CZ#VR001"><span>Czech Republic</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Art. 18: (3) Every citizen of the Czech Republic who has attained the age of eighteen years shall have the right to vote.</span> <span> <br> <span>Source</span>: <span>Constitution: Constitution of the Czech Republic of December 16, 1992 (Amended by Act No. 515/2002 Coll.), art. 18. https://www.constituteproject.org/constitution/Czech_Republic_2013?lang=en (2017)</span> </span> </td> 
+ <td> <span>2018/02/16</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CI#VR001"><span>Côte d'Ivoire</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>1)Constitution de la République de Côte d'Ivoire (2000), art. 33: http://aceproject.org/ero-en/regions/africa/CI/cote-divoire-constitution-du-23-juillet-2000/view 2) Code Electoral (2015), art. 3:http://aceproject.org/ero-en/regions/africa/CI/cote-divoire-code-electoral-2015/view</span> </span> </td> 
+ <td> <span>2016/12/01</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=DK#VR001"><span>Denmark</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span> </span> <span> <br> <span>Source</span>: <span>Election Act, Ch.1, P.1, Art. 1(1)</span> </span> </td> 
+ <td> <span>2019/05/27</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=DJ#VR001"><span>Djibouti</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>ARTICLE 3. - All Djiboutian nationals of both sexes aged 18 years and enjoying their civil and political rights are voters. </span> <span> <br> <span>Source</span>: <span>Electoral Law n° 1/ AN /92 regulating elections, as amended by Organic Law n ° L 11/AN/02/4, art. 3: https://aceproject.org/ero-en/regions/africa/DJ/djibouti-electoral-law-1992/view (2016) </span> </span> </td> 
+ <td> <span>2018/03/30</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=DM#VR001"><span>Dominica</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of Dominica (1978), Section 33 (2): https://aceproject.org/ero-en/regions/americas/DM/dominica-constitution-of-the-commonwealth-of/view (2014). Registration of Electors Act No. 13 of 1974, Section 5 (1): https://aceproject.org/ero-en/regions/americas/DM/dominica-registration-of-electors-act-1974/view (2014). Electoral Office of Dominica, Official Website - Who Can Register to Vote?: http://electoraloffice.gov.dm/registration-2/regulations-pertaining-to-the-registration-of-electors-5(2014).</span> </span> </td> 
+ <td> <span>2014/12/16</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=DO#VR001"><span>Dominican Republic</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span> </span> <span> <br> <span>Source</span>: <span>Constitución: Constitución de la República Dominicana (2015) art. 21 y 22 (1): http://aceproject.org/ero-en/regions/americas/DO/republica-dominicana-constitucion-politica-2015/ (2020) </span> </span> </td> 
+ <td> <span>2020/02/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=EC#VR001"><span>Ecuador</span></a> </td> 
+ <td> <span>a</span>. <span>16</span> </td> 
+ <td class="link_format_target"> <span>The vote is mandatory for 18-year old Ecuadorians and optional for people between 16 and 18 years old, and elders more than 65 years old.</span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución Política de la República del Ecuador”, art. 61 (1), 62 (2): http://aceproject.org/ero-en/regions/americas/EC/ecuador-constitucion-politica-de-la-republica-del/ (2017). Organic Electoral Law of 9 April 2009: “Ley Orgánica Electoral y de Organizaciones Políticas. Código de la Democracia”, art. 11: http://aceproject.org/ero-en/regions/americas/EC/ecuador-ley-organica-electoral-y-de-organizaciones-1/ (2017). </span> </span> </td> 
+ <td> <span>2017/02/16</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=EG#VR001"><span>Egypt</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Law No. 73 of the year 1956 Regulating the Exercise of Political Rights and its Amendments, art. 1: http://www.democracy-reporting.org/files/law_on_the_exercise_of_political_rights_including_amendments_to_december.pdf (2012).</span> </span> </td> 
+ <td> <span>2018/03/18</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SV#VR001"><span>El Salvador</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución Política de la República de El Salvador”, art. 71-72: http://aceproject.org/ero-en/regions/americas/SV/el-salvador-constitucion-politica-de-la-republica/ (2012). </span> </span> </td> 
+ <td> <span>2019/01/31</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GQ#VR001"><span>Equatorial Guinea</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Law No. 7/2012 of 16 November 2012 regulating elections to the Chamber of Deputies and the Senate, municipal elections and referenda</span> </span> </td> 
+ <td> <span>2013/04/09</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ER#VR001"><span>Eritrea</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, art. 30:1</span> </span> </td> 
+ <td> <span>2011/06/21</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=EE#VR001"><span>Estonia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>§ 57. Any citizen of Estonia who has attained eighteen years of age is eligible to vote.</span> <span> <br> <span>Source</span>: <span>Constitution: The Constitution of the Republic of Estonia with latest amendment on 6 May 2015, § 57(1). Electoral Law: Riigikogu Election Act as amended on 13 April 2016, § 4(1).</span> </span> </td> 
+ <td> <span>2019/02/19</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ET#VR001"><span>Ethiopia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Any Ethiopian who is 18 or more years old on the date of registration shall be eligible for registration as an elector.</span> <span> <br> <span>Source</span>: <span>Electoral Law as amended by Proclamation No. 532/2007, art. 26 (2), 33 (1)http://aceproject.org/ero-en/regions/africa/ET/ethiopia-proclamatio-no.-532-2007-amending-the/view</span> </span> </td> 
+ <td> <span>2015/05/18</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=FK#VR001"><span>Falkland Islands (Malvinas)</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years</span> <span> <br> <span>Source</span>: <span>John Rowland, Office of the Registrar General</span> </span> </td> 
+ <td> <span>2007/02/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=FO#VR001"><span>Faroe Islands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/fo.html</span> </span> </td> 
+ <td> <span>2010/03/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=FJ#VR001"><span>Fiji</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every citizen who is or will be the age of 18 years and over on or before the date of the issue of the writ for the next election of members to Parliament, has the right to be registered as a voter. Every person who is registered as a voter has the right to vote in the election of members of Parliament. Every citizen who is registered as a voter and who is resident in Fiji on the day of the elections is entitled to vote in that election. If the person is not a resident of Fiji or is not present in Fiji on the day of the elections, but is the holder of a valid Fijian passport, is entitled to vote to the extent provided in any written law governing elections.</span> <span> <br> <span>Source</span>: <span>Constitution, art. 55: https://aceproject.org/ero-en/regions/pacific/FJ/fiji-constitution-2013/at_download/file (2014). Electoral Registration of Voters Decree, sec. 3 (1): https://aceproject.org/ero-en/regions/pacific/FJ/fiji-registration-of-voters-decree-no.-54-of-2012/view (2014).</span> </span> </td> 
+ <td> <span>2018/04/20</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=FI#VR001"><span>Finland</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every Finnish citizen who has reached eighteen years of age has the right to vote in national elections and referendums. Specific provisions in this Constitution shall govern the eligibility to stand for office in national elections.</span> <span> <br> <span>Source</span>: <span>Constitution, Section 14: http://www.finlex.fi/fi/laki/kaannokset/1999/en19990731.pdf (2012)</span> </span> </td> 
+ <td> <span>2019/04/02</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=FR#VR001"><span>France</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Code, Art. L2 https://www.legifrance.gouv.fr/affichCode.do;jsessionid=D743CF8B04937AC5B31672959A9CEA59.tplgfr23s_1?idSectionTA=LEGISCTA000006148454&amp;cidTexte=LEGITEXT000006070239&amp;dateTexte=20200617</span> </span> </td> 
+ <td> <span>2020/06/21</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GF#VR001"><span>French Guiana</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18. The French overseas departments (Guadeloupe, French Guiana, Martinique, Réunion) elects candidates to the French Senate and House of Representatives. The overseas departments follow the same rules as the metropole regarding the organization of the elections. They do however enjoy certain specificities concerning electoral expenditure : certain travel expenses of the candidates are not taken into account in the ceiling of candidates' election expenses (article L.52-12 of the electoral code). Besides, the French Parliament is discussing a bill which would allow elections to be held on Saturday in Guadeloupe, Martinique and Guiana (because of the time lag, people from these departments knew the results of the elections in the metropole before they voted).</span> <span> <br> <span>Source</span>: <span>Electoral code, art. L.2</span> </span> </td> 
+ <td> <span>2007/01/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PF#VR001"><span>French Polynesia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Code, Article L.2.</span> </span> </td> 
+ <td> <span>2004/01/15</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GA#VR001"><span>Gabon</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Article 4: Under the conditions provided by law, all Gabonese of both sexes, 18 years of age, possessing their civil and political rights are electors.</span> <span> <br> <span>Source</span>: <span>Law No. 7/96 of 12 March 1996 establishing common rules for all political elections, with all the subsequent amendments, art. 25 http://aceproject.org/ero-en/regions/africa/GA/gabon-code-electoral-2005/view (2017) Constitution, art 4 https://www.constituteproject.org/constitution/Gabon_1997?lang=en (2017)</span> </span> </td> 
+ <td> <span>2017/03/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GM#VR001"><span>Gambia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every citizen of The Gambia being eighteen years or older and of sound mind shall have the right to vote for the purpose of elections of a President and members of the National Assembly, and shall be entitled to be registered as a voter in a National Assembly constituency for that purpose.</span> <span> <br> <span>Source</span>: <span>Constitution, Chapter V, part 1, section 39: https://www.constituteproject.org/constitution/Gambia_2004?lang=en (2017) Elections Decree 78 of 1996, part III, section 12 (1-b): http://aceproject.org/ero-en/regions/africa/GM/gambia-elections-decree-78-of-1996/view (2017)</span> </span> </td> 
+ <td> <span>2016/11/28</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GE#VR001"><span>Georgia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Any citizen of Georgia who by the elections has attained or is on the day of election attaining the age of 18 years enjoys the active electoral right.</span> <span> <br> <span>Source</span>: <span>Constitution of Georgia, as amended in 2017 art.24.1: https://www.constituteproject.org/constitution/Georgia_2018?lang=en Translation of the Election Code of Georgia adopted on December 27, 2011, art. 3 (a.a): https://www.legislationline.org/download/id/7677/file/Georgia_Election_Code_am2017_en.pdf</span> </span> </td> 
+ <td> <span>2020/08/03</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=DE#VR001"><span>Germany</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art.38(2) https://www.constituteproject.org/constitution/German_Federal_Republic_2014?lang=en</span> </span> </td> 
+ <td> <span>2017/03/31</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GH#VR001"><span>Ghana</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every citizen of Ghana of eighteen years of age or above and of sound mind has the right to vote and is entitled to be registered as a voter for the purposes of public elections and referenda.</span> <span> <br> <span>Source</span>: <span>Constitution of the Republic of Ghana, art. 42: http://aceproject.org/ero-en/regions/africa/GH/ghana-constitution-1992-with-amendments-through/view</span> </span> </td> 
+ <td> <span>2016/09/21</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GI#VR001"><span>Gibraltar</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>"3. (1) The persons entitled to vote as electors at elections of members of the Parliament (in this Act referred to as ‘the Parliament’) under the Gibraltar Constitution Order 2006 shall be those persons who– (i) have lived in Gibraltar during the whole of the qualifying period; and (ii) intend to live in Gibraltar either permanently or indefinitely; and (iii) are, on the qualifying date and on the date of the poll, British citizens, British Overseas Territories citizens, British Overseas citizens, British Nationals (Overseas), British protected persons or British subjects under the British Nationality Act 1981, and are 18 years of age or over and are not subject to any legal incapacity to vote;"</span> <span> <br> <span>Source</span>: <span>Parliament Act Number 1950-15, Part II, Article 3(1). https://www.gibraltarlaws.gov.gi/articles/1950-15o.pdf</span> </span> </td> 
+ <td> <span>2019/11/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GR#VR001"><span>Greece</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Art. 4.1. Greek men and women citizens who have completed their eighteenth year of age have a right to vote.</span> <span> <br> <span>Source</span>: <span>P.D. 96/2007 (Codification of the legal provisions on parliamentary elections), Art. 4:1 https://www.legislationline.org/download/id/7827/file/Greece_Law_election_parliament_as_of_2007_en.pdf</span> </span> </td> 
+ <td> <span>2020/07/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GL#VR001"><span>Greenland</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>The voting age is governed by the Constitution of Denmark for Federal Elections. The electoral age to local councils and parochial church councils may vary as it may be established by an Act or in pursuance of an Act passed by the Inatsisartut in Greenland. </span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/gl.html Constitution of Denmark, Ch. 9, Sec. 86 Inatsisartut: The Parliament of Greenland, Publication (2009) http://www.europarl.europa.eu/meetdocs/2009_2014/documents/deea/dv/0503_/0503_12.pdf</span> </span> </td> 
+ <td> <span>2012/06/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GD#VR001"><span>Grenada</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, article 32 </span> </span> </td> 
+ <td> <span>2012/01/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GP#VR001"><span>Guadeloupe</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years</span> <span> <br> <span>Source</span>: <span>Elections office, Ministry of Interior, France, <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="aecbc2cbcddac7c1c0ddeec7c0dacbdcc7cbdbdc80c9c1dbd880c8dc">[email&nbsp;protected]</a></span> </span> </td> 
+ <td> <span>2007/01/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GU#VR001"><span>Guam</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>3 Guam Code 3101: http://www.guamcourts.org/CompilerofLaws/GCA/03gca/3gc003.PDF</span> </span> </td> 
+ <td> <span>2020/10/28</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GT#VR001"><span>Guatemala</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución política de la República de Guatemala (1993)", art. 147, http://aceproject.org/ero-en/regions/americas/GT/constitucion/guatemala-constitucio-politica-de-la-republica-de-guatemala-2012/, https://www.constituteproject.org/constitution/Guatemala_1993.pdf; Electoral Law: “Ley Electoral y de Partidos Políticos (2016)", art. 2, http://aceproject.org/ero-en/regions/americas/GT/guatemala-ley-electoral/</span> </span> </td> 
+ <td> <span>2019/06/11</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GG#VR001"><span>Guernsey</span></a> </td> 
+ <td> <span>a</span>. <span>16</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/gk.html</span> </span> </td> 
+ <td> <span>2010/03/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GN#VR001"><span>Guinea</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Code No. 91/012/CTRN, art. 3: http://aceproject.org/ero-en/regions/africa/GN/guinea-electoral-code-2010/ </span> </span> </td> 
+ <td> <span>2017/01/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GW#VR001"><span>Guinea-Bissau</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Law of 11 November 2009 on the election of the President of the Republic and the National People's Assembly ("Lei Eleitoral Para Presidente da República e Assembleia Nacional Popular"), art. 7 (1): http://www.cne-guinebissau.org/phocadownload/lei_eleitoral.pdf (2012)</span> </span> </td> 
+ <td> <span>2014/06/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GY#VR001"><span>Guyana</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art. 59</span> </span> </td> 
+ <td> <span>2015/05/11</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=HT#VR001"><span>Haiti</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years</span> <span> <br> <span>Source</span>: <span>IPU Parline database: http://www.ipu.org/parline-e/reports/2137.htm</span> </span> </td> 
+ <td> <span>2015/04/08</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=VA#VR001"><span>Holy See (Vatican City State)</span></a> </td> 
+ <td> <span>g</span>. <span>Other (specify)</span> </td> 
+ <td class="link_format_target"> <span>The suffrage is limited to cardinals who are less than 80 years old. </span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html</span> </span> </td> 
+ <td> <span>2012/05/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=HN#VR001"><span>Honduras</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución de la República de Honduras (2009)”, art. 36: http://aceproject.org/ero-en/regions/americas/HN/honduras-constitucion-politica-de-1982-2012/ Electoral Law: “Ley electoral y de las organizaciones políticas (2004)”, art. 6. http://aceproject.org/ero-en/regions/americas/HN/honduras-ley-electoral-y-de-las-organizaciones/ </span> </span> </td> 
+ <td> <span>2017/03/06</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=HK#VR001"><span>Hong Kong</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>A natural person is not eligible to be registered as an elector unless- (a) the person has reached 18 years of age; or (b) the person's eighteenth birthday falls- (i) in any year other than a year in which a District Council ordinary election is to be held, on or before 25 July next following the person's application for registration; or (ii) in a year in which a District Council ordinary election is to be held, on or before 25 September next following the person's application for registration. </span> <span> <br> <span>Source</span>: <span>Legislative Council Ordinance, Sec.29: https://aceproject.org/ero-en/regions/asia/HK/hong-kong-legislative-council-ordinance-cap-542</span> </span> </td> 
+ <td> <span>2020/07/10</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=HU#VR001"><span>Hungary</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Act XXXVI of 2013 on Electoral Procedure (last modified by Act CCVII of 2013), Section 102(2): http://njt.hu/cgi_bin/njt_doc.cgi?docid=159995.329468. </span> </span> </td> 
+ <td> <span>2018/07/30</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=IS#VR001"><span>Iceland</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every Icelandic citizen who has reached the age of 18 and is domiciled in Iceland is eligible to vote in parliamentary elections to the Althing when elections take place. </span> <span> <br> <span>Source</span>: <span>Parliamentary Elections Act, Art. 1 https://www.legislationline.org/download/id/3897/file/Iceland_Act_Parliamentary_Elections_to_Althing_2000_en.pdf</span> </span> </td> 
+ <td> <span>2020/07/27</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=IN#VR001"><span>India</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>The definition of the qualifying date enacted in pursuance to the provision of Article 14(b), holds fault as it fixes the date as 1st of January 'of the year in which it (the role) is so prepared or revised'. If the rolls are not revised for several years, many citizens although past the age of eighteen years are still not eligible to be on the rolls because the 'qualifying date' required by section 19 has been tied down with these processes. </span> <span> <br> <span>Source</span>: <span>Representation of People Act 1950, Sec 19(a): http://legislative.gov.in/sites/default/files/03_representation%20of%20the%20people%20act%2C%201950.pdf</span> </span> </td> 
+ <td> <span>2019/04/10</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ID#VR001"><span>Indonesia</span></a> </td> 
+ <td> <span>b</span>. <span>17</span> </td> 
+ <td class="link_format_target"> <span>Any Indonesian citizen who, on the voting day, has reached the age of 17 years or more or is/have married shall has the right to vote.</span> <span> <br> <span>Source</span>: <span>Law 8/2012 on General Election of the Members of House of Representatives, People’s Representatives Council and Regional House of Representatives, art. 19 (1): http://aceproject.org/ero-en/regions/asia/ID/indonesia-law-8-2012-on-general-election-of-the/view</span> </span> </td> 
+ <td> <span>2014/04/02</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=IR#VR001"><span>Iran, Islamic Republic of</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>2007 Parliamentary Bill </span> <span> <br> <span>Source</span>: <span>http://usatoday30.usatoday.com/news/world/2007-01-13-iran-voting-age_x.htm Election Law (Arabic) http://irandataportal.syr.edu/wp-content/uploads/07-284.pdf (2017)</span> </span> </td> 
+ <td> <span>2017/03/22</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=IQ#VR001"><span>Iraq</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Voters must be 18 old in the year in which the elections are held. </span> <span> <br> <span>Source</span>: <span>Electoral Law of the Iraqi Parliament, Article 5(3): http://aceproject.org/ero-en/regions/mideast/IQ/iraq-electoral-law-of-the-iraqi-parliament-2013/view</span> </span> </td> 
+ <td> <span>2018/04/19</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=IE#VR001"><span>Ireland</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Ch.4, Art. 16(1.2)</span> </span> </td> 
+ <td> <span>2015/05/19</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=IL#VR001"><span>Israel</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years</span> <span> <br> <span>Source</span>: <span>BASIC LAW: THE KNESSET (5718 - 1958) Art.5: https://main.knesset.gov.il/EN/activity/Documents/BasicLawsPDF/BasicLawTheKnesset.pdf</span> </span> </td> 
+ <td> <span>2019/05/02</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=IT#VR001"><span>Italy</span></a> </td> 
+ <td> <span>g</span>. <span>Other (specify)</span> </td> 
+ <td class="link_format_target"> <span>c) For the Chamber of Deputies, voters must be 18 years old by the day of the elections AND g) For the Senate, voters must be 25 years old.</span> <span> <br> <span>Source</span>: <span>Constitution, Art. 48 and 58 (1) https://www.constituteproject.org/constitution/Italy_2012?lang=en Law No. 39 of 8 March 1975, Art. 14 https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=1975-03-10&amp;atto.codiceRedazionale=075U0039&amp;queryString=%3FmeseProvvedimento%3D03%26formType%3Dricerca_semplice%26numeroArticolo%3D%26numeroProvvedimento%3D39%26testo%3D%26annoProvvedimento%3D1975%26giornoProvvedimento%3D8&amp;currentPage=1</span> </span> </td> 
+ <td> <span>2020/07/18</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=JM#VR001"><span>Jamaica</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art. 37</span> </span> </td> 
+ <td> <span>2012/01/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=JP#VR001"><span>Japan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Public Offices Election Act, Art. 9: https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=325AC1000000100</span> </span> </td> 
+ <td> <span>2019/07/09</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=JE#VR001"><span>Jersey</span></a> </td> 
+ <td> <span>a</span>. <span>16</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/je.html </span> </span> </td> 
+ <td> <span>2010/03/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=JO#VR001"><span>Jordan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Any Jordanian national who became 18 calendar years of age ninety days prior to the date .A established for the elections shall have the right to elect members to the Chamber of Deputies in accordance with the provisions of this Law. </span> <span> <br> <span>Source</span>: <span>Law on the Election of the House of Representatives Law No. (6) of 2016, art 3(a): http://aceproject.org/ero-en/misc/jordan-law-on-the-election-of-the-house-of/view</span> </span> </td> 
+ <td> <span>2016/08/03</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KZ#VR001"><span>Kazakhstan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>1. Universal active suffrage shall be the right of citizens of the Republic to take part in the voting at elections upon reaching the age of eighteen years irrespectively of his/her birth, origin, social, official and property status, sex, race, ethnicity, language, relation to religion, belief, place of residence or any other circumstances.</span> <span> <br> <span>Source</span>: <span>Constitutional Law on Elections of the Republic of Kazakhstan as amended on June 29, 2018, art. 4: https://www.election.gov.kz/eng/election-legal-framework/the-laws-of-the-rk.php</span> </span> </td> 
+ <td> <span>2020/04/01</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KE#VR001"><span>Kenya</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>every adult citizen has a right to vote. An adult being anyone who has attained the age of 18 and above.</span> <span> <br> <span>Source</span>: <span>The Constitution of Kenya Article 38(3) The Elections Act of 2011 Article 3</span> </span> </td> 
+ <td> <span>2012/03/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KI#VR001"><span>Kiribati</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Article 64(1), Constitution of Kiribati https://www.parliament.gov.ki/constitution/</span> </span> </td> 
+ <td> <span>2020/05/01</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KP#VR001"><span>Korea, Democratic People's Republic of</span></a> </td> 
+ <td> <span>b</span>. <span>17</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/kn.html (2013)</span> </span> </td> 
+ <td> <span>2014/06/23</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KR#VR001"><span>Korea, Republic of</span></a> </td> 
+ <td> <span>d</span>. <span>19</span> </td> 
+ <td class="link_format_target"> <span>A national of 19 years of age or above shall have a voting right for the elections of the President and the members of the National Assembly</span> <span> <br> <span>Source</span>: <span>Public Official Election Act, Art 15(1) http://aceproject.org/ero-en/regions/asia/KR/korea-republic-of-public-official-election-act/view (2017)</span> </span> </td> 
+ <td> <span>2020/03/27</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KW#VR001"><span>Kuwait</span></a> </td> 
+ <td> <span>f</span>. <span>21</span> </td> 
+ <td class="link_format_target"> <span>Suffrage is extended to all Kuwaitis at the age of 21, except those citizens who have been naturalized for less than 20 years and active members of the armed forces.</span> <span> <br> <span>Source</span>: <span>Official Website of the Kuwait Government: http://www.pm.gov.kw/en/national_Assembly/aboutNationalAssembly.jsp (2013); Law No. 35 of 1962 on the election of members of Parliament with its amendments, art. 1: http://www.gcc-legal.org/mojportalpublic/LawAsPDF.aspx?opt&amp;country=1&amp;LawID=2687#Section_3508 (2013) </span> </span> </td> 
+ <td> <span>2013/01/31</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KG#VR001"><span>Kyrgyzstan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>The right to vote shall be granted to the citizens of the Kyrgyz Republic having reached 18 years of age.</span> <span> <br> <span>Source</span>: <span>Constitution of the Kyrgyz Republic (2010), art. 2 (4): http://www.codices.coe.int/NXT/gateway.dll?f=templates&amp;fn=default.htm (2013); Constitutional Law No 68 of 2011 “On elections of the President of the Kyrgyz Republic and deputies of Jogorku Kenesh of the Kyrgyz Republic”, art. 3 (1): http://www.legislationline.org/topics/topic/6/country/20 (2013) </span> </span> </td> 
+ <td> <span>2016/06/16</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LA#VR001"><span>Lao People's Democratic Republic</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>All Lao citizens, irrespective of their gender, ethnicity, beliefs, social status, place of residence, and profession, who are at least 18 years of age, have the right to vote.</span> <span> <br> <span>Source</span>: <span>Constitution, Art. 36: http://www.wipo.int/wipolex/en/text.jsp?file_id=180175 (2013); Law No. 37/PO on the Election of Members of the National Assembly, art. 3: http://www.na.gov.la/docs/eng/laws/pub_adm/Election%20of%20NA%20%282001%29%20Eng.pdf (2013)</span> </span> </td> 
+ <td> <span>2013/04/02</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LV#VR001"><span>Latvia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Article 1. Citizens of Latvia who have reached the age of 18 by election day have the right to vote.</span> <span> <br> <span>Source</span>: <span>Constitution: The Constitution of the Republic of Latvia as amended on 8 April 2009, art. 8: http://legislationline.org/download/action/download/id/4777/file/Latvia_Constitution_am2009_en.pdf (2014); Electoral Law: The Saeima Election Law as in force on 19 July 2014, art. 1: http://cvk.lv/pub/public/30870.html?doc_print=1 (2014)</span> </span> </td> 
+ <td> <span>2014/10/09</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LB#VR001"><span>Lebanon</span></a> </td> 
+ <td> <span>f</span>. <span>21</span> </td> 
+ <td class="link_format_target"> <span>Every Lebanese citizen who has completed his twenty-first year is an elector.</span> <span> <br> <span>Source</span>: <span>Constitution, art. 21: http://www.wipo.int/edocs/lexdocs/laws/en/lb/lb018en.pdf (2017)</span> </span> </td> 
+ <td> <span>2018/04/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LS#VR001"><span>Lesotho</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Registration of young voters (to be 18 between the end of the ordinary registration period and the election day). </span> <span> <br> <span>Source</span>: <span>Constitution: Constitution of Lesotho, art. 67(2)(b)</span> </span> </td> 
+ <td> <span>2017/07/19</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LR#VR001"><span>Liberia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>The 1986 Constitution of the Republic of Liberia, Art. 77 (b), http://aceproject.org/ero-en/regions/africa/LR/liberia-amended-electoral-laws-2014/view</span> </span> </td> 
+ <td> <span>2017/09/21</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LY#VR001"><span>Libyan Arab Jamahiriya</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Voter Registration Regulation for the Elections of the Council of Representatives, Attached to the Decision of the Board of Commission No. (49) 2014, Article 3(ii): http://aceproject.org/ero-en/regions/africa/LY/libya-voter-registration-regulation-for-the/view</span> </span> </td> 
+ <td> <span>2014/04/23</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LI#VR001"><span>Liechtenstein</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art. 29 (2): http://www.llv.li/verfassung-e-01-02-09.doc.pdf (2012)</span> </span> </td> 
+ <td> <span>2012/05/23</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LT#VR001"><span>Lithuania</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Citizens who, on the day of the election, have reached 18 years of age shall have the electoral right. </span> <span> <br> <span>Source</span>: <span>Constitution of the Republic of Lithuania (25 October 1992, as last amended on 25 April 2006), art. 34 (1)http://www3.lrs.lt/home/Konstitucija/Constitution.htm </span> </span> </td> 
+ <td> <span>2020/06/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LU#VR001"><span>Luxembourg</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art. 52</span> </span> </td> 
+ <td> <span>2015/06/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MO#VR001"><span>Macau</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/mc.html</span> </span> </td> 
+ <td> <span>2010/03/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MK#VR001"><span>Macedonia, the Former Yugoslav Republic of</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every citizen on reaching 18 years of age acquires the right to vote. The right to vote is equal, universal and direct, and is exercised at free elections by secret ballot. Persons deprived of the right to practice their profession by a court verdict do not have the right to vote. (Constitution, Art. 22) </span> <span> <br> <span>Source</span>: <span>Constitution of The Republic of Macedonia, Art. 22: https://www.wipo.int/edocs/lexdocs/laws/en/mk/mk014en.pdf </span> </span> </td> 
+ <td> <span>2020/04/17</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MG#VR001"><span>Madagascar</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>All Malagasy citizens who are 18 years or older at the date of the poll and in full possession of their civil and political rights are qualified to be registered and vote. </span> <span> <br> <span>Source</span>: <span>Organic Law n° 2012-005 on the Electoral Code, art. 3: http://mdm-national.mg/bureau/textes-reglementaires/textes-reglementaires/ (2013); Constitution, art. 5 (4): http://www.ceni-madagascar.mg/dossier/constitution.pdf (2013)</span> </span> </td> 
+ <td> <span>2013/02/11</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MW#VR001"><span>Malawi</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every Malawian who shall have reached the age of 18 years on the day of the election is eligible to vote.</span> <span> <br> <span>Source</span>: <span>Constitution: Constitution of the Republic Malawi, art. 77(2)(b). Malawi Electoral laws: https://aceproject.org/ero-en/regions/africa/MW/malawi-electoral-laws-2019. Art 77</span> </span> </td> 
+ <td> <span>2019/05/29</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MY#VR001"><span>Malaysia</span></a> </td> 
+ <td> <span>f</span>. <span>21</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, art. 119 (1): http://confinder.richmond.edu/admin/docs/malaysia.pdf (2013)</span> </span> </td> 
+ <td> <span>2013/03/21</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MV#VR001"><span>Maldives</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Constitution (2008): 26. Unless otherwise provided in this Constitution, every citizen of the Maldives eighteen years of age or older has the right: (a) to vote in elections, and in public referendums, which shall be held by secret ballot</span> <span> <br> <span>Source</span>: <span>Constitution (2008), art. 26 (a): http://www.majlis.gov.mv/en/wp-content/uploads/Constitution-english.pdf (2018)</span> </span> </td> 
+ <td> <span>2019/02/13</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ML#VR001"><span>Mali</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Law, art. 18 </span> </span> </td> 
+ <td> <span>2010/03/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MT#VR001"><span>Malta</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art. 57: http://www.parlament.mt/constituion-of-malta?l=1 (2012); General Elections Act, Art. 15: http://www.parlament.mt/general_election_act?l=1 (2012)</span> </span> </td> 
+ <td> <span>2012/05/22</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=IM#VR001"><span>Man, Isle of</span></a> </td> 
+ <td> <span>a</span>. <span>16</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/im.html</span> </span> </td> 
+ <td> <span>2010/03/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MH#VR001"><span>Marshall Islands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, art. 4 (3).</span> </span> </td> 
+ <td> <span>2012/06/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MQ#VR001"><span>Martinique</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>18 years. The French overseas departments (Guadeloupe, French Guiana, Martinique, Réunion) elects candidates to the French Senate and House of Representatives. The overseas departments follow the same rules as the metropole regarding the organization of the elections. They do however enjoy certain specificities concerning electoral expenditure : certain travel expenses of the candidates are not taken into account in the ceiling of candidates' election expenses (article L.52-12 of the electoral code). Besides, the French Parliament is discussing a bill which would allow elections to be held on Saturday in Guadeloupe, Martinique and Guiana (because of the time lag, people from these departments knew the results of the elections in the metropole before they voted).</span> <span> <br> <span>Source</span>: <span>Elections office, Ministry of Interior, France, <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d3b6bfb6b0a7babcbda093babda7b6a1bab6a6a1fdb4bca6a5fdb5a1">[email&nbsp;protected]</a></span> </span> </td> 
+ <td> <span>2007/01/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MR#VR001"><span>Mauritania</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution as amended by Constitutional Law n° 2012-015, art. 3 (2): www.mauritania.mr (2012) </span> </span> </td> 
+ <td> <span>2019/08/06</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MU#VR001"><span>Mauritius</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>"a person shall be entitled to be registered as an elector if, and shall not be so entitled unless - he is a Commonwealth citizen of not less than the age of 18 years;" </span> <span> <br> <span>Source</span>: <span>Constitution: Constitution of the Republic of Mauritius, art. 42</span> </span> </td> 
+ <td> <span>2012/02/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=YT#VR001"><span>Mayotte</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/mf.html</span> </span> </td> 
+ <td> <span>2010/03/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MX#VR001"><span>Mexico</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: "Constitución Política de los Estados Unidos Mexicanos", art. 34 &amp; 35: http://aceproject.org/ero-en/regions/americas/MX/mexico-constitucion-reformada-a-2014/ (2014)</span> </span> </td> 
+ <td> <span>2018/06/13</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=FM#VR001"><span>Micronesia, Federated States of</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Constitution, Art. 6, Sect. 1: A citizen 18 years of age may vote in national elections. Election Code, Ch. 1, Section 103:&nbsp;Every citizen of the Federated States of Micronesia is eligible to vote for Members of the Congress of the Federated States of Micronesia, if he or she has fulfilled the following requirements: &nbsp; &nbsp;&nbsp;&nbsp;(2) &nbsp;&nbsp;&nbsp;&nbsp;is 18 years of age or older on the day of the election;</span> <span> <br> <span>Source</span>: <span>Constitution of the Federated States of Micronesia Art. 6, Section 1: http://www.fsmlaw.org/fsm/constitution/constitution.htm (2019); The National Election Code, Ch. 1, Section 103: http://www.fsmlaw.org/fsm/code/title09/T9_Ch1_2014.html (2019)</span> </span> </td> 
+ <td> <span>2019/03/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MD#VR001"><span>Moldova, Republic of</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Citizens of the Republic of Moldova, who by the day of the elections have reached the age of 18, have the right to vote, except for those legally deprived of this right.</span> <span> <br> <span>Source</span>: <span>Constitution of the Republic of Moldova, article 38:2. https://www.constituteproject.org/constitution/Moldova_2016?lang=en </span> </span> </td> 
+ <td> <span>2019/02/18</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MC#VR001"><span>Monaco</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art. 53; Law 839 regulating communal and national elections, as amended in 2002, Art. 1</span> </span> </td> 
+ <td> <span>2012/04/27</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MN#VR001"><span>Mongolia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>The right to participate in State management [public administration] affairs directly or through the organs of representation. Have the right to elect and to be elected to the State organs. The right to elect shall be exercised from the age of eighteen years, and the age qualification for being elected shall be determined by law, taking into consideration the requirements for the relevant State organs and official positions concerned.</span> <span> <br> <span>Source</span>: <span>Constitution, Art. 16 (9): https://www.constituteproject.org/constitution/Mongolia_2001?lang=en%20(2017)</span> </span> </td> 
+ <td> <span>2020/02/17</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ME#VR001"><span>Montenegro</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Article 45: (1) The right to elect and stand for elections shall be granted to the citizen of Montenegro who is 18 years of age or above and who has minimum two years of residence in Montenegro.</span> <span> <br> <span>Source</span>: <span>Constitution: The Constitution of the Republic of Montenegro, SU-SK Ref. no. 01-514/12, 19 October 2007, art. 45(1).</span> </span> </td> 
+ <td> <span>2018/03/08</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MS#VR001"><span>Montserrat</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Elections Act, Art. 12</span> </span> </td> 
+ <td> <span>2014/08/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MA#VR001"><span>Morocco</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Organic Law No. 27-11 on the House of Representatives, art. 3: http://www.adrare.net/XYIZNWSK2/elements/pdf/loi_chambredesrepresentants.pdf (2012); Constitution, art. 30: http://www.parlement.ma/fe/images/CONST/constitution%20du%201er%20juillet%202011.pdf (2012)</span> </span> </td> 
+ <td> <span>2012/08/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MZ#VR001"><span>Mozambique</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>All Mozambican citizens of both sexes who are at least 18 years old on election day have the right to vote.</span> <span> <br> <span>Source</span>: <span>Law No. 8/2013 of 27 February 2013 regulating presidential and legislative elections (as amended by Law No. 12/2014), art. 10 (1): http://aceproject.org/ero-en/regions/africa/MZ/Mozambique-Law-No.-12-2014-of-13-April-2014/view (2014).</span> </span> </td> 
+ <td> <span>2014/10/02</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NA#VR001"><span>Namibia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: Constitution of Namibia, art. 17 (2) Electoral Law: Electoral Act, art. 16(3)</span> </span> </td> 
+ <td> <span>2012/02/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NR#VR001"><span>Nauru</span></a> </td> 
+ <td> <span>e</span>. <span>20</span> </td> 
+ <td class="link_format_target"> <span>Members of Parliament shall be elected in such manner as is prescribed by law, by Nauruan citizens who have attained the age of twenty years.</span> <span> <br> <span>Source</span>: <span>Constitution, Art. 29.</span> </span> </td> 
+ <td> <span>2019/07/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NP#VR001"><span>Nepal</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of Nepal, 2015) Article 84 (5): http://www.lawcommission.gov.np/en/documents/2016/01/constitution-of-nepal-2.Pdf</span> </span> </td> 
+ <td> <span>2018/04/06</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NL#VR001"><span>Netherlands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art. 54: https://www.constituteproject.org/constitution/Netherlands_2008?lang=en (2017); Act of 28 September 1989 containing new provisions governing the franchise and elections (Elections Act), Ch.B, Section B1 http://www.legislationline.org/topics/country/12/topic/6 (2017)</span> </span> </td> 
+ <td> <span>2017/03/21</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AN#VR001"><span>Netherlands Antilles</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/nt.html </span> </span> </td> 
+ <td> <span>2010/03/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NC#VR001"><span>New Caledonia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Code, Article L.2.</span> </span> </td> 
+ <td> <span>2003/11/28</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NZ#VR001"><span>New Zealand</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Law: Electoral Act 1993, Art. 74: http://aceproject.org/ero-en/regions/pacific/NZ/new-zealand-electoral-act-2010/view (2012)</span> </span> </td> 
+ <td> <span>2020/10/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NI#VR001"><span>Nicaragua</span></a> </td> 
+ <td> <span>a</span>. <span>16</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución Política de Nicaragua (2014)”, art. 47 (1), 51: http://aceproject.org/ero-en/regions/americas/NI/constitucion/constitucion-politica-de-nicaragua-con-reformas-a/ (2016); Electoral Law No. 331: “Ley Electoral No. 331 (enmendada por la ley No. 790 del 23/05/2012)”, art. 30: http://aceproject.org/ero-en/regions/americas/NI/leyes-electorales/nicaragua-ley-no.-331-ley-electoral-2012/ (2016). </span> </span> </td> 
+ <td> <span>2016/06/07</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NE#VR001"><span>Niger</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution (2010), art.7: http://aceproject.org/ero-en/regions/africa/NE/niger-constitution-2010/ </span> </span> </td> 
+ <td> <span>2017/02/01</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NG#VR001"><span>Nigeria</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Act 2010, art. 12 (1-b): http://aceproject.org/ero-en/regions/africa/NG/nigeria-electoral-act-2010/view</span> </span> </td> 
+ <td> <span>2018/11/12</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NU#VR001"><span>Niue</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Niue Assembly Act 1966, as amended, Art. 12.</span> </span> </td> 
+ <td> <span>2012/07/03</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NF#VR001"><span>Norfolk Islands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/nf.html</span> </span> </td> 
+ <td> <span>2010/03/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=MP#VR001"><span>Northern Mariana Islands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/cq.html</span> </span> </td> 
+ <td> <span>2010/03/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=NO#VR001"><span>Norway</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Norwegian nationals must reach the age of 18 no later than December 31 of the election year.</span> <span> <br> <span>Source</span>: <span>Constitution, Art 50: http://www.stortinget.no/en/In-English/About-the-Storting/The-Constitution/The-Constitution/ (2012); The Election Act, Ch. 2, Art. 2-1: http://www.regjeringen.no/upload/KRD/Kampanjer/valgportal/Regelverk/Representation_of_the_People_Act170609.pdf (2012)</span> </span> </td> 
+ <td> <span>2012/05/22</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=OM#VR001"><span>Oman</span></a> </td> 
+ <td> <span>f</span>. <span>21</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Inter-parliamentary Union: "OMAN Majles A'Shura (Consultative Council)" Legal Framework http://www.ipu.org/parline/reports/2378.htm (2015)</span> </span> </td> 
+ <td> <span>2019/09/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PK#VR001"><span>Pakistan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Αrt. 51 (2)</span> </span> </td> 
+ <td> <span>2012/06/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PW#VR001"><span>Palau</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Voting Rights Act of 1981, as amended, Sec. 1401 (23 PNCA §1401).</span> </span> </td> 
+ <td> <span>2016/11/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PS#VR001"><span>Palestine</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Elections Law 2 September 2007 regulating general elections, art. 27 (1-b): http://www.elections.ps/Portals/0/pdf/Election_Law_%282007-Sept_02%29-EN.pdf (2013)</span> </span> </td> 
+ <td> <span>2013/04/09</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PA#VR001"><span>Panama</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, 131, 135: http://aceproject.org/ero-en/regions/americas/PA/panama-constitucion-politica-de-la-republica-2004/ (2012)</span> </span> </td> 
+ <td> <span>2019/05/31</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PG#VR001"><span>Papua New Guinea</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of the Independent State of Papua New Guinea, Section 126 (3): http://www.igr.gov.pg/constitution.pdf (2012)</span> </span> </td> 
+ <td> <span>2017/03/16</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PY#VR001"><span>Paraguay</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: Constitución Nacional de la República del Paraguay, art. 120: http://aceproject.org/ero-en/regions/americas/PY/constitucion/Paraguay%20%281992%29.pdf/ (1992) </span> </span> </td> 
+ <td> <span>2018/04/19</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PE#VR001"><span>Peru</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución Política del Perú”, arts. 30 &amp; 31: http://aceproject.org/ero-en/regions/americas/PE/peru-constitucion-politica-2019/ ; Electoral Law: “Ley 26859, orgánica de elecciones”, art. 9: http://aceproject.org/ero-en/regions/americas/PE/peru-ley-26859-organica-elecciones-2019/ </span> </span> </td> 
+ <td> <span>2020/01/28</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PH#VR001"><span>Philippines</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Suffrage may be exercised by all citizens of the Philippines not otherwise disqualified by law, who are at least eighteen years of age, and who shall have resided in the Philippines for at least one year and in the place wherein they propose to vote for at least six months immediately preceding the election. No literacy, property, or other substantive requirement shall be imposed on the exercise of suffrage.</span> <span> <br> <span>Source</span>: <span>Constitution, Art. V, Sec. 1: http://www.gov.ph/constitutions/1987-constitution/#article-v (2016); The Omnibus Election Code ("Batas Pambansa Blg. 881, s. 1985"), Sec. 117: http://www.comelec.gov.ph/?r=References/RelatedLaws/OmnibusElectionCode/OECArt12 (2016)</span> </span> </td> 
+ <td> <span>2016/05/11</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PN#VR001"><span>Pitcairn Islands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>"11. The following persons being of or over the age of eighteen years shall be qualified to vote..."</span> <span> <br> <span>Source</span>: <span>Laws of Pitcairn Chapter XI Local Government Ordinance, Part III, Article 11 http://www.government.pn/Laws/Cap%2011%20-%20Local%20Government%20Ordinance.pdf CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/pc.html</span> </span> </td> 
+ <td> <span>2019/11/06</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PL#VR001"><span>Poland</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Article 62: 1. If, no later than on the day of vote, he has attained 18 years of age, Polish citizen shall have the right to participate in a referendum and the right to vote for the President of the Republic of Poland as well as representatives to the Sejm and Senate and organs of local government.</span> <span> <br> <span>Source</span>: <span>Constitution: The Constitution of the Republic of Poland of 2nd April, 1997, art. 62(1). </span> </span> </td> 
+ <td> <span>2015/05/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PT#VR001"><span>Portugal</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>(Assembly of the Republic Electoral Law): All citizens who are over 18 years of age have the right to vote.</span> <span> <br> <span>Source</span>: <span>Constitution of the Portuguese Republic, Seventh Revision, 2005, Article 49(1). https://www.wipo.int/edocs/lexdocs/laws/en/pt/pt045en.pdf Assembly of the Republic Electoral Law (Law No. 14/79 of May 16 1979) as amended, Article 1(1) http://www.en.parlamento.pt/Legislation/LeiEleitoralARen.pdf </span> </span> </td> 
+ <td> <span>2019/10/01</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PR#VR001"><span>Puerto Rico</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución del Estado Libre Asociado de Puerto Rico”, art. VI (s. 4): http://aceproject.org/ero-en/regions/americas/PR/puerto-rico-constitucion-1970/ ; Electoral Law: “Código Electoral de Puerto Rico de 2020”, art. 5.3: http://aceproject.org/ero-en/regions/americas/PR/puerto-rico-ley-58-2020-codigo-electoral-2020/</span> </span> </td> 
+ <td> <span>2020/11/03</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=QA#VR001"><span>Qatar</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>UNDP-POGAR Website: http://www.undp-pogar.org/countries/theme.aspx?t=3&amp;cid=15 (2012)</span> </span> </td> 
+ <td> <span>2012/08/23</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=RO#VR001"><span>Romania</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Article 36: (1) Every citizen having turned eighteen up to or on the election day shall have the right to vote.</span> <span> <br> <span>Source</span>: <span>Constitution: Constitution of Romania, amended in 2003, art. 36(1). https://www.constituteproject.org/constitution/Romania_2003?lang=en</span> </span> </td> 
+ <td> <span>2020/08/22</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=RU#VR001"><span>Russian Federation</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>1. A citizen of the Russian Federation who has attained the age of 18 as of voting day shall be entitled to elect deputies of the State Duma in the federal electoral district.</span> <span> <br> <span>Source</span>: <span>Electoral Law: Federal Law On Elections of Deputies to the State Duma of the Federal Assembly of the Russian Federation, amended as of April 5, 2016. (article 4)</span> </span> </td> 
+ <td> <span>2016/06/16</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=RW#VR001"><span>Rwanda</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Persons allowed to register on the voters’ register of a a village or of the embassy are all Rwandans of at least eighteen (18) years of age or those who will have attained it on the election day and who reside or temporarily stay in that village or in countries located in the territorial jurisdiction of that embassy.</span> <span> <br> <span>Source</span>: <span>Rwanda electoral code Chapter 1 Article 2. https://aceproject.org/ero-en/regions/africa/RW/rwanda-electoral-code-regulating-the-presidential</span> </span> </td> 
+ <td> <span>2018/11/02</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=RE#VR001"><span>Réunion</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>a) 18 years. The French overseas departments (Guadeloupe, French Guiana, Martinique, Réunion) elects candidates to the French Senate and House of Representatives. The overseas departments follow the same rules as the metropole regarding the organization of the elections. They do however enjoy certain specificities concerning electoral expenditure : certain travel expenses of the candidates are not taken into account in the ceiling of candidates' election expenses (article L.52-12 of the electoral code). Besides, the French Parliament is discussing a bill which would allow elections to be held on Saturday in Guadeloupe, Martinique and Guiana (because of the time lag, people from these departments knew the results of the elections in the metropole before they voted).</span> <span> <br> <span>Source</span>: <span>Elections office, Ministry of Interior, France, <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8feae3eaecfbe6e0e1fccfe6e1fbeafde6eafafda1e8e0faf9a1e9fd">[email&nbsp;protected]</a></span> </span> </td> 
+ <td> <span>2007/01/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SH#VR001"><span>Saint Helena</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Carol George, Office of the Chief Secretary, Saint Helena</span> </span> </td> 
+ <td> <span>2007/01/19</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=KN#VR001"><span>Saint Kitts and Nevis</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every Commonwealth citizen of the age of eighteen years or upwards who possesses such qualifications relating to residence or domicile in Saint Christopher and Nevis as Parliament may prescribe shall, unless he or she is disqualified by Parliament from registration as such, be entitled to be registered as a voter for the purpose of electing Representatives in one (but not more than one) constituency in accordance with the provisions of any law in that behalf and no other person may be registered as such.</span> <span> <br> <span>Source</span>: <span>Article 29, Constitution</span> </span> </td> 
+ <td> <span>2020/04/15</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LC#VR001"><span>Saint Lucia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art 33(c)</span> </span> </td> 
+ <td> <span>2012/01/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=PM#VR001"><span>Saint Pierre and Miquelon</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/geos/sb.html</span> </span> </td> 
+ <td> <span>2010/03/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=VC#VR001"><span>Saint Vincent and the Grenadines</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art 27(2)</span> </span> </td> 
+ <td> <span>2012/01/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=WS#VR001"><span>Samoa</span></a> </td> 
+ <td> <span>f</span>. <span>21</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Act 1963 as amended, Art. 16, 2 (1): http://www.parliament.gov.ws/Portals/185/Documents/OrderPaper/downloads/2011/Electoral%20Act%201963%20-%20%20Reprint%20as%20at%202010.pdf (2012)</span> </span> </td> 
+ <td> <span>2012/06/11</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SM#VR001"><span>San Marino</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral law N.6 of 31 January 1996, Art. 1: http://www.consigliograndeegenerale.sm/contents/instance18/files/document/21801leggi_5336.pdf (2012); Constitution, Art. 7, (Available on the Official Website of the Parliament: http://www.consigliograndeegenerale.sm); </span> </span> </td> 
+ <td> <span>2012/05/28</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ST#VR001"><span>Sao Tome and Principe</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art. 57: http://www.gov.st/data/filestorage/docs/constistp.pdf (2016); Electoral Law of the Democratic Republic of Sao Tome and Principe n.º 11/90 of 26 November 1990, as amended (latest amendment - 2006), art. 6: http://www.stj.st/download/Lei_Eleitoral.pdf (2016)</span> </span> </td> 
+ <td> <span>2016/06/28</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SA#VR001"><span>Saudi Arabia</span></a> </td> 
+ <td> <span>i</span>. <span>Not applicable</span> </td> 
+ <td class="link_format_target"> <span>There are no provisions for direct national elections, since it is the King who appoints the members of the Shura Council. Only municipal elections are held in Saudi Arabia.</span> <span> <br> <span>Source</span>: <span>Shura Council Law: http://www.shura.gov.sa/wps/wcm/connect/ShuraEn/internet/Laws+and+Regulations/The+Shura+Council+and+the+rules+and+regulations+job/Shura+Council+Law/ (2012); The Basic Law of Governance: http://www.boe.gov.sa/ViewSystemDetails.aspx?lang=en&amp;SystemID=4 (2012)</span> </span> </td> 
+ <td> <span>2012/08/20</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SN#VR001"><span>Senegal</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution 2012, art. 3 (4): http://www.assemblee-nationale.sn/images/stories/PDF/constitution_du_senegal.pdf (2013); English: https://www.constituteproject.org/constitution/Senegal_2009?lang=en (2017) Electoral Code 2012, art. L.26: http://www.elections2012.sn/images/stories/CE2012.pdf (2017) </span> </span> </td> 
+ <td> <span>2017/03/22</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=RS#VR001"><span>Serbia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>The right to elect a representative, as well as to be elected as a representative, shall have a citizen domiciled on the territory of the Republic of Serbia, who is at the same time a citizen of Yugoslavia, who is over 18 years of age and has the business capacity (henceforth: voter).</span> <span> <br> <span>Source</span>: <span>Electoral Law: Law on the Elections of Representatives of the Republic of Serbia, art. 10. http://aceproject.org/ero-en/regions/europe/RS/serbia-law-on-elections-of-representatives-updated/view Consitution, Part 2, Article 37 and 52 https://www.constituteproject.org/constitution/Serbia_2006?lang=en</span> </span> </td> 
+ <td> <span>2017/03/15</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SC#VR001"><span>Seychelles</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>A person who is a citizen of Seychelles and has attained the age of eighteen years is entitled to be registered as a voter unless the person is disqualified from registration under an Act on the ground of- (a)infirmity of mind; (b)criminality; or (c)residence outside Seychelles. Constitution, art. 114</span> <span> <br> <span>Source</span>: <span>Constitution of the Republic of Seychelles (2011), art. 114 http://aceproject.org/ero-en/regions/africa/SC/seychelles-constitution-2011/view / - Elections Act Chapter 68A (1996) Part II. 6. http://www.ecs.sc/resources/Rev29-election%20laws.pdf (2016) </span> </span> </td> 
+ <td> <span>2016/09/07</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SL#VR001"><span>Sierra Leone</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every citizen of Sierra Leone being eighteen years of age and above and of sound mind shall have the right to vote, and accordingly shall be entitled to be registered as a voter for the purposes of public elections and referenda.</span> <span> <br> <span>Source</span>: <span>Constitution (2008), art. 31: http://aceproject.org/ero-en/regions/africa/SL/sierra-leone-constitution-2008/; The Public Elections Act (2012), art. 15: http://aceproject.org/ero-en/regions/africa/SL/sierra-leone-the-public-elections-act-2012-1/</span> </span> </td> 
+ <td> <span>2017/01/13</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SG#VR001"><span>Singapore</span></a> </td> 
+ <td> <span>f</span>. <span>21</span> </td> 
+ <td class="link_format_target"> <span>Any person who on the prescribed date in any year is a citizen of Singapore; is ordinarily resident in Singapore; and is not less than 21 years of age,shall be entitled to have his/her name entered or retained in a register of electors in that year. </span> <span> <br> <span>Source</span>: <span>Parliamentary Elections Act, art. 5 (1): http://aceproject.org/ero-en/regions/asia/SG/singapore-parliamentary-elections-act-2011/view (2017)</span> </span> </td> 
+ <td> <span>2017/03/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SK#VR001"><span>Slovakia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>2(1): A person has the right to vote in elections for the National Council of the Slovak Republic (in this Act referred to as "the right to vote") if he or she (an "elector") is a citizen of the Slovak Republic and is at least eighteen years old on polling day. </span> <span> <br> <span>Source</span>: <span>Slovakia: On Elections to the National Council of the Slovak Republic (2004), Section 2(1): http://aceproject.org/ero-en/regions/europe/SK/slovakia-municipalities-election-law-1990/view</span> </span> </td> 
+ <td> <span>2020/01/31</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SI#VR001"><span>Slovenia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every citizen of the Republic of Slovenia who has reached the age of 18 by the Election Day and has not been declared legally incompetent shall have the right to vote and to be elected as a deputy. </span> <span> <br> <span>Source</span>: <span>Constitution, article 43. https://www.constituteproject.org/constitution/Slovenia_2013?lang=en National Assembly Elections Act, article 7. http://aceproject.org/ero-en/regions/europe/SI/national-assembly-elections-act/view</span> </span> </td> 
+ <td> <span>2017/03/30</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SB#VR001"><span>Solomon Islands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Art. 55 (1): 1. Subject to the provisions of this section, a person shall be entitled to be registered as an elector if, and shall not be so entitled for registration unless— a. he is a citizen of Solomon Islands; and b. he has attained the age of eighteen years. </span> <span> <br> <span>Source</span>: <span>Constitution of 1978 amended 2014, Art. 55 (1), https://constituteproject.org/constitution/Solomon_Islands_2014.pdf?lang=en </span> </span> </td> 
+ <td> <span>2019/03/01</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SO#VR001"><span>Somalia</span></a> </td> 
+ <td> <span>h</span>. <span>No information available</span> </td> 
+ <td class="link_format_target"> <span>It is not specified.</span> <span> <br> <span>Source</span>: <span>Transitional Constitution of 2012, Art. 22: http://aceproject.org/ero-en/regions/africa/SO/somalia-provisional-constitution-of-2012/view</span> </span> </td> 
+ <td> <span>2016/11/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ZA#VR001"><span>South Africa</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>A person of 16 years or older may apply for registration but, if the application is successful, the applicant’s name may only be placed on the voters’ roll once the applicant reaches the age of 18 years.</span> <span> <br> <span>Source</span>: <span>Electoral Act of 1998 (as amended to 2013), Section 6(1A): http://aceproject.org/ero-en/regions/africa/ZA/south-africa-electoral-act-73-of-1998-as-amended/view</span> </span> </td> 
+ <td> <span>2019/05/20</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ES#VR001"><span>Spain</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: "Constitución Española", arts. 12, 68-70: http://aceproject.org/ero-en/regions/europe/ES/espana-constitucion-espanola-2011-2016/ ; Electoral Law: “Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General” art. 2: http://aceproject.org/ero-en/regions/europe/ES/espana-ley-organica-5-1985-de-19-de-junio-del-1/ </span> </span> </td> 
+ <td> <span>2019/06/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=LK#VR001"><span>Sri Lanka</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>The franchise shall be exercisable at the election of the President of the Republic and of the Members of Parliament and at every Referendum by every citizen who has attained the age of eighteen years</span> <span> <br> <span>Source</span>: <span>Constitution, Art. 4 (e): http://aceproject.org/ero-en/regions/asia/LK/sri-lanka-constitution-as-amended-up-to-9/at_download/file</span> </span> </td> 
+ <td> <span>2016/02/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SD#VR001"><span>Sudan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>The Interim National Constitution of 2005, art. 41: http://www.unhcr.org/refworld/docid/4ba749762.html (2012); The National Elections Act 2008, art. 21 (b): http://www.gurtong.org/ResourceCenter/documents/Reports/Elections-09/nationalelectionsact2008.pdf (2012)</span> </span> </td> 
+ <td> <span>2012/09/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SR#VR001"><span>Suriname</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>The members of the National Assembly shall be elected directly by the inhabitants having Suriname nationality and having reached the age of eighteen years.</span> <span> <br> <span>Source</span>: <span>Constitution, Art. 57: http://pdba.georgetown.edu/Constitutions/Suriname/english.html (2012)</span> </span> </td> 
+ <td> <span>2012/06/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SZ#VR001"><span>Swaziland</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: Constitution of the Kingdom of Swaziland, art. 88 (1).</span> </span> </td> 
+ <td> <span>2012/02/24</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SE#VR001"><span>Sweden</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>The Instrument of Government, Ch. 3, Art. 4: Official Website of the Parliament: http://www.riksdagen.se/sv/Start/Bestall/Sprakversioner/English---engelska1/Sveriges-grundlagar-och-riksdagsordningen1/ (2012)</span> </span> </td> 
+ <td> <span>2014/08/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=CH#VR001"><span>Switzerland</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution, Art. 136 (1): https://www.admin.ch/opc/en/classified-compilation/19995395/201506140000/101.pdf (2015)</span> </span> </td> 
+ <td> <span>2015/10/09</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=SY#VR001"><span>Syrian Arab Republic</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>The General Electoral Laws of Syria, art 4. </span> </span> </td> 
+ <td> <span>2014/06/03</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TW#VR001"><span>Taiwan</span></a> </td> 
+ <td> <span>e</span>. <span>20</span> </td> 
+ <td class="link_format_target"> <span></span> </td> 
+ <td> <span>2020/04/13</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TJ#VR001"><span>Tajikistan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>A citizen shall have the right to take part in referendum, to elect from the age of 18 years and also be elected from the age fixed by Constitution, Constitutional laws and laws. </span> <span> <br> <span>Source</span>: <span>Constitution of the Republic of Tajikistan, amended as of June 22, 2003, art. 27.</span> </span> </td> 
+ <td> <span>2016/06/16</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TZ#VR001"><span>Tanzania, United Republic of</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every citizen of the United Republic who has attained the age of eighteen years is entitled to vote in any election held in Tanzania.</span> <span> <br> <span>Source</span>: <span>Constitution, art. 5 (1): http://www.chr.up.ac.za/undp/domestic/docs/c_Tanzania.pdf </span> </span> </td> 
+ <td> <span>2015/10/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TH#VR001"><span>Thailand</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Sec. 95 (2) Being not less than eighteen years of age on 1st January of the year of the election</span> <span> <br> <span>Source</span>: <span>Constitution of the Kingdom of Thailand, Sec. 95 (2): http://aceproject.org/ero-en/regions/asia/TH/thailand-constitution-2007/view</span> </span> </td> 
+ <td> <span>2017/03/31</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TL#VR001"><span>Timor-Leste</span></a> </td> 
+ <td> <span>b</span>. <span>17</span> </td> 
+ <td class="link_format_target"> <span>Active electoral capacity is granted to all Timorese citizens over 17 years of age.</span> <span> <br> <span>Source</span>: <span>Constitution, art. 47 (1); Law n.º 6/2006 on National Parliament Elections with the 2012 amendments, art. 4 (1) </span> </span> </td> 
+ <td> <span>2017/06/15</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TG#VR001"><span>Togo</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Code No. 2000-07 as amended, art. 51: http://www.ifes.org/~/media/Files/Publications/Election%20Law/2005/IFES_19/EL00062.pdf (2013); Constitution, art. 5: http://www.unhcr.org/refworld/country,LEGAL,,LEGISLATION,TGO,456d621e2,48ef43c72,0.html (2013)</span> </span> </td> 
+ <td> <span>2013/01/03</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TK#VR001"><span>Tokelau</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Article 3: Qualification of voters A person is qualified to be a voter in elections for the General Fono if on 31 December of the year preceding the election that person – (i) is at least 18 years of age, and </span> <span> <br> <span>Source</span>: <span>National Elections Rules 2013, Article 3 http://www.paclii.org/tk/legis/consol_act_2016/ner2013241/</span> </span> </td> 
+ <td> <span>2020/01/22</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TO#VR001"><span>Tonga</span></a> </td> 
+ <td> <span>f</span>. <span>21</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of Tonga, Art. 64: http://www.tongaelections.com/images/stories/TECdocuments/ENG/ConstitutionActOfTonga/actofconstitutionoftonga_1.pdf (2014); </span> </span> </td> 
+ <td> <span>2014/11/19</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TT#VR001"><span>Trinidad and Tobago</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Constitution of the Republic of Trinidad and Tobago”, Section 51: http://aceproject.org/ero-en/regions/americas/TT/trinidad-and-tobago-constitution-2016/ ; Electoral Law: “Representation of the People Act”, Section 12: http://aceproject.org/ero-en/regions/americas/TT/trinidad-and-tobago-rop-2016/ </span> </span> </td> 
+ <td> <span>2020/08/22</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TN#VR001"><span>Tunisia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Every Tunisian citizen at least 18 years old is eligible to vote if he/she is listed in the Voter Register, enjoys full civil and political rights, and is not subject to any of the forms of disenfranchisement.</span> <span> <br> <span>Source</span>: <span>The Constitution of 26 January 2014, art. 54: http://aceproject.org/ero-en/regions/africa/TN/tunisia-constitution-of-26-january-2014/view (2014); Organic Law n° 2014-16 of 26 May 2014 on Elections and Referenda, art. 5: http://aceproject.org/ero-en/regions/africa/TN/tunisia-organic-law-on-elections-and-referenda/view (2014).</span> </span> </td> 
+ <td> <span>2019/08/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TR#VR001"><span>Turkey</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>All Turkish citizens over eighteen years of age shall have the right to vote in elections and to take part in referenda.</span> <span> <br> <span>Source</span>: <span>Constitution of the Republic of Turkey, art. 67: https://global.tbmm.gov.tr/docs/constitution_en.pdf</span> </span> </td> 
+ <td> <span>2016/01/21</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TM#VR001"><span>Turkmenistan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of Turkmenistan (2008), art. 89: http://www.legislationline.org/documents/section/constitutions/country/51 (2013); Law of Turkmenistan on Elections of Deputies of the Mejlis of Turkmenistan (2008), art. 2; Law on Elections of the President of Turkmenistan (2011), art. 3 (1)</span> </span> </td> 
+ <td> <span>2013/03/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TC#VR001"><span>Turks and Caicos Islands</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “The Constitution of the Turks and Caicos Islands”, Section 55(b): http://aceproject.org/ero-en/regions/americas/TC/turks-and-caicos-constitution-2014/ ; Electoral Law: “Elections Ordinance”, Section 9: http://aceproject.org/ero-en/regions/americas/TC/turks-and-caicos-elections-ordinance-2018/ </span> </span> </td> 
+ <td> <span>2020/10/08</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=TV#VR001"><span>Tuvalu</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Provisions (Parliament) Act as amended, art. 5 (2). Constitution of Tuvalu, art. 91 (1).</span> </span> </td> 
+ <td> <span>2009/09/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=UG#VR001"><span>Uganda</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>(1) Every citizen of Uganda of eighteen years of age or above has a right to vote. (2) It is the duty of every citizen of Uganda of eighteen years of age or above to register as a voter for public elections and referenda.</span> <span> <br> <span>Source</span>: <span>Constitution of the Republic of Uganda, art. 59 http://www.ec.or.ug/docs/Constitution_1995.pdf (2016)</span> </span> </td> 
+ <td> <span>2016/02/08</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=UA#VR001"><span>Ukraine</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>Citizens of Ukraine who have attained the age of eighteen on the day elections and referenda are held, have the right to vote.</span> <span> <br> <span>Source</span>: <span>Constitution (last amended 2016), art. 70 https://zakon.rada.gov.ua/laws/show/474-14</span> </span> </td> 
+ <td> <span>2019/03/11</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=AE#VR001"><span>United Arab Emirates</span></a> </td> 
+ <td> <span>g</span>. <span>Other (specify)</span> </td> 
+ <td class="link_format_target"> <span>The minimum age is 25. However, each Emirate shall be free to determine the method of selection of the citizens representing it in the Federal National Council, as well as the minimum age of voters. </span> <span> <br> <span>Source</span>: <span>Constitution, art. 69: https://www.constituteproject.org/constitution/United_Arab_Emirates_2004.pdf(2015) Inter Parliamentar Union: http://www.ipu.org/parline-e/reports/2333_B.htm (2015) https://www.worldatlas.com/articles/legal-voting-age-by-country.html</span> </span> </td> 
+ <td> <span>2019/09/25</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=GB#VR001"><span>United Kingdom of Great Britain and Northern Ireland</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Representation of the People Act 1983, Art. 1(c)</span> </span> </td> 
+ <td> <span>2017/06/07</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=US#VR001"><span>United States of America</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>"The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age."</span> <span> <br> <span>Source</span>: <span>U.S. Constitution, Amendment 26: http://aceproject.org/ero-en/regions/americas/US/united-states-of-america-constitution-1992/view</span> </span> </td> 
+ <td> <span>2020/10/20</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=UY#VR001"><span>Uruguay</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitución, art. 77, 80 (3): https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/4755/101097/F282807953/URY4755.pdf (2004)</span> </span> </td> 
+ <td> <span>2019/11/04</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=UZ#VR001"><span>Uzbekistan</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution of the Republic of Uzbekistan (1992 as amended in April 2014), art. 117 (2): http://elections.uz/eng/legislation/constitution_of_the_republic_of_uzbekistan.mgr (2014); Law on Elections of the Oliy Majlis of the Republic of Uzbekistan as amended in August 2014, art. 2 (1); Law of the Republic of Uzbekistan on the Elections of the President of the Republic of Uzbekistan (1991), art. 2: http://elections.uz/rus/zakonodatelstvo/zakon_respubliki_uzbekistan_o_viborax_prezidenta_respubliki_uzbekistan_1.mgr (2014).</span> </span> </td> 
+ <td> <span>2015/04/06</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=VU#VR001"><span>Vanuatu</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>A person shall be eligible for registration in the electoral list for the polling district in which he is a resident at the time of the preparation of the electoral list if he – (a) is a citizen; and (b) will have attained 18 years on or before the qualifying date</span> <span> <br> <span>Source</span>: <span>Representation of the People Act, art. 9(1): http://aceproject.org/ero-en/regions/pacific/VU/vanuatu-representation-of-the-people-act-1982-as/at_download/file</span> </span> </td> 
+ <td> <span>2016/01/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=VE#VR001"><span>Venezuela</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: “Constitución de la República Bolivariana de Venezuela”, art. 64: http://aceproject.org/ero-en/regions/americas/VE/venezuela-constitucion-reforma-2009/ ; Electoral Law: “Ley Orgánica de Procesos Electorales”, art. 29: http://aceproject.org/ero-en/regions/americas/VE/venezuela-ley-organica-procesos-electorales-2009/</span> </span> </td> 
+ <td> <span>2020/11/15</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=VN#VR001"><span>Viet Nam</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>The citizen, regardless of nationality, sex, social background, religious belief, cultural standard, occupation, time of residence, shall, upon reaching the age of eighteen, have the right to vote.</span> <span> <br> <span>Source</span>: <span>Constitution of 1992 as amended, art. 54: http://www.moj.gov.vn/vbpq/en/Lists/Vn%20bn%20php%20lut/View_Detail.aspx?ItemID=10450 (2016); Law of 1997 on Election of Deputies to the National Assembly, as amended and supplemented by laws No. 31/2001/QH10 and No: 63/2010/QH12, art. 2: http://www.moj.gov.vn/vbpq/en/lists/vn%20bn%20php%20lut/view_detail.aspx?itemid=2526 (2013)</span> </span> </td> 
+ <td> <span>2016/06/20</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=VG#VR001"><span>Virgin Islands, British</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>68.—(1) Subject to subsection (3), a person shall be qualified to be registered as a voter for the purposes of elections if, and shall not be so qualified unless, he or she belongs to the Virgin Islands and on the qualifying date has attained the age of eighteen years and he or she either—</span> <span> <br> <span>Source</span>: <span>The Virgin Islands Constitution Order 2007, Article 68(1) http://www.bvi.gov.vg/sites/default/files/constitution.pdf </span> </span> </td> 
+ <td> <span>2019/02/21</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=VI#VR001"><span>Virgin Islands, U.S.</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Election System of Virgin Islands, (http://www.vivote.gov)</span> </span> </td> 
+ <td> <span>2012/01/26</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=WF#VR001"><span>Wallis and Futuna</span></a> </td> 
+ <td> <span>h</span>. <span>No information available</span> </td> 
+ <td class="link_format_target"> <span></span> </td> 
+ <td> <span>2009/08/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=EH#VR001"><span>Western Sahara</span></a> </td> 
+ <td> <span>h</span>. <span>No information available</span> </td> 
+ <td class="link_format_target"> <span></span> </td> 
+ <td> <span>2009/08/14</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=YE#VR001"><span>Yemen</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>General Elections and Referendum Law of 2001, art. 3: http://www.scer.org.ye/english/generalelectionslaw.htm (2012); Constitution, art. 64 (1): http://www.unhcr.org/refworld/category,LEGAL,,,YEM,3fc4c1e94,0.html (2012) </span> </span> </td> 
+ <td> <span>2012/08/22</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ZM#VR001"><span>Zambia</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span>46.A citizen who has attained the age of eighteen years is entitled to be registered as a voter and vote in an election by secret ballot.</span> <span> <br> <span>Source</span>: <span>Constitution: Constitution of Zambia, art. 46 http://www.parliament.gov.zm/sites/default/files/documents/amendment_act/Constitution%20of%20Zambia%20%20%28Amendment%29,%202016-Act%20No.%202_0.pdf</span> </span> </td> 
+ <td> <span>2016/06/28</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ZZ#VR001"><span>Zanzibar</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Electoral Act No. 11 of 1984 as amended, art. 11; The Constitution of Zanzibar as amended, art. 7 http://www.wipo.int/edocs/lexdocs/laws/en/tz/tz028en.pdf (2016) http://www.temco.udsm.ac.tz/images/stories/Electral_Laws/ZANZIBAR-ELECTION-ACT-2010.pdf (2016)</span> </span> </td> 
+ <td> <span>2016/04/05</span> </td> 
+</tr>
+<tr> 
+ <td valign="top"> <a href="https://aceproject.org/epic-en/CDCountry?set_language=en&amp;topic=VR&amp;country=ZW#VR001"><span>Zimbabwe</span></a> </td> 
+ <td> <span>c</span>. <span>18</span> </td> 
+ <td class="link_format_target"> <span></span> <span> <br> <span>Source</span>: <span>Constitution: Constitution of Zimbabwe, Sch 3, art. 3(1). http://aceproject.org/ero-en/regions/africa/ZW/zimbabwe-constitution-of-zimbabwe-2008-1/view</span> </span> </td> 
+ <td> <span>2018/07/23</span> </td> 
+</tr>
+</tbody>
+</table>

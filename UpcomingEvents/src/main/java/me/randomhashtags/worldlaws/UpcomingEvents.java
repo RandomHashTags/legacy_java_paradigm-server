@@ -4,12 +4,9 @@ import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.event.entertainment.Movies;
 import me.randomhashtags.worldlaws.event.entertainment.MusicAlbums;
 import me.randomhashtags.worldlaws.event.entertainment.VideoGames;
-import me.randomhashtags.worldlaws.event.space.RocketLaunches;
 import me.randomhashtags.worldlaws.event.space.SpaceX;
-import me.randomhashtags.worldlaws.event.space.nasa.NASANeo;
 import me.randomhashtags.worldlaws.event.sports.UFC;
 import me.randomhashtags.worldlaws.happeningnow.StreamingEvents;
-import me.randomhashtags.worldlaws.holiday.Holidays;
 import me.randomhashtags.worldlaws.location.CountryBackendID;
 import me.randomhashtags.worldlaws.location.CustomCountry;
 
@@ -110,9 +107,6 @@ public final class UpcomingEvents implements DataValues {
                     });
                 }
                 break;
-            case "holidays":
-                getHolidaysResponse(target.substring(key.length()+1), handler);
-                break;
             case "happeningnow":
                 StreamingEvents.TWITCH.getUpcomingEvents(handler);
                 break;
@@ -124,28 +118,6 @@ public final class UpcomingEvents implements DataValues {
                 if(controller != null) {
                     handler.handle(controller.getUpcomingEvent(values[1]));
                 }
-                break;
-        }
-    }
-
-    private void getHolidaysResponse(String value, CompletionHandler handler) {
-        switch (value) {
-            case "all":
-                Holidays.INSTANCE.getAllHolidays(handler);
-                break;
-            case "near":
-                Holidays.INSTANCE.getNearHolidays(handler);
-                break;
-            default:
-                WLUtilities.getCustomCountry(value, new CompletionHandler() {
-                    @Override
-                    public void handle(Object object) {
-                        if(object != null) {
-                            final CustomCountry country = (CustomCountry) object;
-                            Holidays.INSTANCE.getHolidaysFor(country, handler);
-                        }
-                    }
-                });
                 break;
         }
     }

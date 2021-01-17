@@ -1,15 +1,14 @@
 package me.randomhashtags.worldlaws.info.rankings;
 
-import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.info.rankings.CountryRankingInfoValue;
-import me.randomhashtags.worldlaws.info.rankings.CountryRankingInfoValueOther;
-import me.randomhashtags.worldlaws.info.rankings.CountryRankingService;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.NumberType;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.*;
-import java.util.logging.Level;
 
 public enum LifeExpectancy implements CountryRankingService {
     INSTANCE;
@@ -23,47 +22,20 @@ public enum LifeExpectancy implements CountryRankingService {
     }
 
     @Override
-    public void getRankedJSON(CompletionHandler handler) {
-        if(rankedJSON != null) {
-            handler.handle(rankedJSON);
-        } else {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    handler.handle(rankedJSON);
-                }
-            });
-        }
+    public HashMap<String, String> getCountries() {
+        return countries;
     }
 
     @Override
-    public void getValue(String countryBackendID, CompletionHandler handler) {
-        if(countries != null) {
-            final String value = getValue(countryBackendID);
-            handler.handle(value);
-        } else {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    final String value = getValue(countryBackendID);
-                    handler.handle(value);
-                }
-            });
-        }
-    }
-    private String getValue(String countryBackendID) {
-        final String value = countries.getOrDefault(countryBackendID, "null");
-        if(value.equals("null")) {
-            WLLogger.log(Level.WARNING,"LifeExpectancy - missing value for country \"" + countryBackendID + "\"!");
-        }
-        return value;
+    public String getRankedJSON() {
+        return rankedJSON;
     }
 
-    private void refresh(CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
+    @Override
+    public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy";
-        final Elements elements = getDocument(url).select("div.mw-parser-output table.wikitable").get(0).select("tbody tr");
+        final Elements elements = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         elements.remove(0);
         elements.removeIf(element -> element.select("td").get(0).text().equals("—"));
@@ -90,7 +62,6 @@ public enum LifeExpectancy implements CountryRankingService {
             countries.put(country, value.toString());
         }
         rankedJSON = toRankedJSON(list);
-        WLLogger.log(Level.INFO,"LifeExpectancy - refreshed " + countries.size() + " countries/regions (took " + (System.currentTimeMillis()-started) + "ms)");
         handler.handle(null);
     }
 }

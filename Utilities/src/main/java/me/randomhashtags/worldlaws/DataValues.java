@@ -9,7 +9,6 @@ public interface DataValues {
     String HTTP_ERROR_404 = "HTTP/1.1 404 ERROR\r\nContent-Type: application/json\r\nCharset: " + ENCODING.displayName() + "\r\n\r\nStop trying to connect, ya turd.";
 
     int WL_PROXY_PORT = 0;
-
     int WL_COUNTRIES_PORT = getPort(1);
     int WL_FEEDBACK_PORT = getPort(2);
     int WL_LAWS_PORT = getPort(3);

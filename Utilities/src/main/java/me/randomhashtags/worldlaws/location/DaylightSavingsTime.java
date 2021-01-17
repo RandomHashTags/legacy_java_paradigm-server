@@ -20,7 +20,7 @@ public enum DaylightSavingsTime {
     private LocalDateTime startDate, endDate;
 
     DaylightSavingsTime() {
-        ELEMENTS = Jsoupable.getStaticDocument("https://en.wikipedia.org/wiki/Daylight_saving_time_by_country").select("table.wikitable tbody tr");
+        ELEMENTS = Jsoupable.getStaticDocumentElements("https://en.wikipedia.org/wiki/Daylight_saving_time_by_country", "table.wikitable tbody tr");
         ELEMENTS.remove(0);
         ELEMENTS.removeIf(row -> row.select("td").get(3).text().equals("–"));
         observations = new HashMap<>();
