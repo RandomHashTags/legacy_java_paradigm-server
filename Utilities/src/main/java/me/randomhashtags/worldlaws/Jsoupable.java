@@ -58,8 +58,25 @@ public interface Jsoupable {
         }
     }
 
+    default String removeReferences(String string) {
+        if(string != null && !string.isEmpty()) {
+            for(String split : string.split("\\[")) {
+                if(split.contains("]")) {
+                    final String value = split.split("]")[0];
+                    if(value.matches("[0-9]+") || value.equals("citation needed") || value.startsWith("note ") || value.startsWith("law ")) {
+                        string = string.replace("[" + value + "]", "");
+                    }
+                }
+            }
+        }
+        return string;
+    }
+
     default Document getDocument(String url) {
-        return getStaticDocument(url);
+        return getDocument(url, false);
+    }
+    default Document getDocument(String url, boolean download) {
+        return getStaticDocument(url, download);
     }
     default Elements getDocumentElements(String url, String targetElements) {
         return Jsoupable.getStaticDocumentElements(url, targetElements, -1);
@@ -107,18 +124,22 @@ public interface Jsoupable {
             return null;
         }
     }
-    static Document getStaticDocument(String url) {
+    static Document getStaticDocument(String url, boolean download) {
         try {
-            final Document local = getLocalDocument(url);
-            if(local != null) {
-                return local;
+            if(download) {
+                final Document local = getLocalDocument(url);
+                if(local != null) {
+                    return local;
+                }
+                final Document doc = Jsoup.connect(url).get();
+                final String html = doc.html();
+                createDocument(url, html);
+                return doc;
+            } else {
+                return Jsoup.connect(url).get();
             }
-            final Document doc = Jsoup.connect(url).get();
-            final String html = doc.html();
-            createDocument(url, html);
-            return doc;
         } catch (Exception e) {
-            WLLogger.log(Level.WARNING, "Jsoupable - getStaticDocument(" + url + ") - error getting document!");
+            WLLogger.log(Level.WARNING, "Jsoupable - getStaticDocument(" + url + ") - download=" + download + " - error getting document!");
             return null;
         }
     }

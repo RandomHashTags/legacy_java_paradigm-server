@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.country.ca;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 import me.randomhashtags.worldlaws.location.ICountry;
 
 public enum CanadaLaws implements ICountry {
@@ -10,8 +10,8 @@ public enum CanadaLaws implements ICountry {
     // https://laws.justice.gc.ca/eng/AnnualStatutes/index2020.html
 
     @Override
-    public CountryBackendID getCountryBackendID() {
-        return CountryBackendID.CANADA;
+    public WLCountry getCountryBackendID() {
+        return WLCountry.CANADA;
     }
 
     @Override

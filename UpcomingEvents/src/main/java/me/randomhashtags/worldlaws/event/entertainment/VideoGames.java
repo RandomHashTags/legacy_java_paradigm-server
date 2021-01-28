@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.event.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.event.UpcomingEventType;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -69,7 +69,7 @@ public enum VideoGames implements EventController {
     }
 
     @Override
-    public CountryBackendID getCountryBackendID() {
+    public WLCountry getCountry() {
         return null;
     }
 
@@ -153,7 +153,7 @@ public enum VideoGames implements EventController {
                                     coverArtURL = !images.isEmpty() ? "https:" + images.get(0).attr("src") : null;
                                     final Elements paragraphs = doc.select("div.mw-parser-output p");
                                     paragraphs.removeIf(p -> p.className().equals("mw-empty-elt"));
-                                    desc = paragraphs.get(0).text();
+                                    desc = removeReferences(paragraphs.get(0).text());
                                 }
                             } else {
                                 desc = "Information about this video game is currently unknown.";
@@ -176,23 +176,21 @@ public enum VideoGames implements EventController {
     private void addExternalLinks(Document doc, EventSources sources) {
         final Elements elements = doc.select("div.mw-parser-output > *");
         final Elements headlines = elements.select("h2");
-        int indexOfExternalLinks = -1;
-        for(Element headline : headlines) {
-            if(headline.select("span.mw-headline").text().equals("External links")) {
-                indexOfExternalLinks = elements.indexOf(headline);
-                break;
-            }
-        }
-        if(indexOfExternalLinks != -1) {
-            for(int i = 1; i <= indexOfExternalLinks; i++) {
-                elements.remove(0);
-            }
-            final Element ul = elements.select("ul").get(0);
-            for(Element test : ul.select("li")) {
-                final String text = test.text();
-                for(Element externalLink : test.select("a.external")) {
-                    final EventSource source = new EventSource(text, externalLink.attr("href"));
-                    sources.addSource(source);
+        headlines.removeIf(headline -> !headline.select("span.mw-headline").text().equals("External links"));
+        if(!headlines.isEmpty()) {
+            final Element headline = headlines.get(0);
+            final int indexOfExternalLinks = elements.indexOf(headline);
+            if(indexOfExternalLinks != -1) {
+                for(int i = 1; i <= indexOfExternalLinks; i++) {
+                    elements.remove(0);
+                }
+                final Element ul = elements.select("ul").get(0);
+                for(Element test : ul.select("li")) {
+                    final String text = test.text();
+                    for(Element externalLink : test.select("a.external")) {
+                        final EventSource source = new EventSource(text, externalLink.attr("href"));
+                        sources.addSource(source);
+                    }
                 }
             }
         }

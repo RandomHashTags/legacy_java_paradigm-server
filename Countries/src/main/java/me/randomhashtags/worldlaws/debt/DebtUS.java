@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.debt;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -17,8 +17,8 @@ public enum DebtUS implements ICountryDebt {
     private HashMap<Integer, String> years;
 
     @Override
-    public CountryBackendID getCountryBackendID() {
-        return CountryBackendID.UNITED_STATES;
+    public WLCountry getCountryBackendID() {
+        return WLCountry.UNITED_STATES;
     }
 
     @Override

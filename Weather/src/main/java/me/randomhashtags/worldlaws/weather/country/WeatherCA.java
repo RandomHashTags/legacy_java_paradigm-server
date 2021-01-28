@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.weather.country;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 import me.randomhashtags.worldlaws.weather.WeatherAlert;
 import me.randomhashtags.worldlaws.weather.WeatherAlertTime;
 import me.randomhashtags.worldlaws.weather.WeatherController;
@@ -24,8 +24,8 @@ public enum WeatherCA implements WeatherController {
     private HashMap<String, String> territoryAlerts;
 
     @Override
-    public CountryBackendID getCountryBackendID() {
-        return CountryBackendID.CANADA;
+    public WLCountry getCountryBackendID() {
+        return WLCountry.CANADA;
     }
 
     @Override

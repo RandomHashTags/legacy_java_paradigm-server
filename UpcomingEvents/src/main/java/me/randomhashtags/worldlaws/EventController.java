@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.event.UpcomingEventType;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 
 import java.time.Month;
 import java.util.HashMap;
@@ -71,7 +71,7 @@ public interface EventController extends RestAPI, Jsoupable {
         final HashMap<String, String> events = getEvents();
         return events != null ? events.getOrDefault(identifier, null) : null;
     }
-    CountryBackendID getCountryBackendID(); // if null, it is worldwide/global
+    WLCountry getCountry(); // if null, it is worldwide/global
 
     default Month getMonthFrom(String text, Set<String> keys) {
         for(String key : keys) {

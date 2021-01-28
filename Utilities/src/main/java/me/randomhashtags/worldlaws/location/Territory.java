@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.location;
 
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.NotNull;
-import me.randomhashtags.worldlaws.PopulationEstimate;
 import org.json.JSONObject;
 
 import java.util.Collection;
@@ -16,18 +15,15 @@ public interface Territory extends Jsoupable {
     String getName();
     String getAbbreviation();
     String getFlagURL();
-    PopulationEstimate getPopulationEstimate();
     String getGovernmentURL();
 
     default String toJSON() {
-        final PopulationEstimate estimate = getPopulationEstimate();
         final String flagURL = getFlagURL();
         return "{" +
                 "\"backendID\":\"" + getBackendID() + "\"," +
                 "\"name\":\"" + getName() + "\"," +
                 "\"abbreviation\":\"" + getAbbreviation() + "\"," +
                 "\"flagURL\":" + (flagURL != null ? "\"" + flagURL + "\"" : null) + "," +
-                "\"populationEstimate\":" + (estimate != null ? estimate.toString() : "null") + "," +
                 "\"governmentURL\":\"" + getGovernmentURL() + "\"" +
                 "}";
     }
@@ -49,10 +45,6 @@ public interface Territory extends Jsoupable {
             @Override
             public String getFlagURL() {
                 return json.getString("flagURL");
-            }
-            @Override
-            public PopulationEstimate getPopulationEstimate() {
-                return null;
             }
             @Override
             public String getGovernmentURL() {

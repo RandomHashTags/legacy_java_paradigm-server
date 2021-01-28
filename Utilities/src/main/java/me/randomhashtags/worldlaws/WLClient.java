@@ -101,8 +101,7 @@ public final class WLClient extends Thread {
                     break;
                 } else if(string.startsWith("GET") && string.endsWith("HTTP/1.1")) {
                     final String[] values = string.split("/");
-                    final String test = string.split(values[0] + "/" + values[1] + "/")[1].split(" HTTP/1\\.1")[0];
-                    target = test;
+                    target = string.split(values[0] + "/" + values[1] + "/")[1].split(" HTTP/1\\.1")[0];
                     break;
                 }
             }

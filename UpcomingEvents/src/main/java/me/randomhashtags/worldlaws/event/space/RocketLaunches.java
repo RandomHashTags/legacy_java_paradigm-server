@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.event.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.event.UpcomingEvent;
 import me.randomhashtags.worldlaws.event.UpcomingEventType;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -48,7 +48,7 @@ public enum RocketLaunches implements EventController {
     }
 
     @Override
-    public CountryBackendID getCountryBackendID() {
+    public WLCountry getCountry() {
         return null;
     }
 

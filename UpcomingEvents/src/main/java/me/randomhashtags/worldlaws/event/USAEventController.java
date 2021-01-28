@@ -1,11 +1,11 @@
 package me.randomhashtags.worldlaws.event;
 
 import me.randomhashtags.worldlaws.EventController;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 
 public interface USAEventController extends EventController {
     @Override
-    default CountryBackendID getCountryBackendID() {
-        return CountryBackendID.UNITED_STATES;
+    default WLCountry getCountry() {
+        return WLCountry.UNITED_STATES;
     }
 }

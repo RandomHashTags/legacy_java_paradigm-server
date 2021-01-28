@@ -75,9 +75,9 @@ public final class USPolitician implements Politician {
             if(!signedLegislation.containsKey(type)) {
                 signedLegislation.put(type, new HashMap<>());
             }
-            final Document doc = Jsoupable.getStaticDocument(url + "?pageSize=250&q=%7B%22sponsorship%22%3A%22" + type.name().toLowerCase() + "%22%7D");
+            final String targetURL = url + "?pageSize=250&q=%7B%22sponsorship%22%3A%22" + type.name().toLowerCase() + "%22%7D";
             final USCongress congress = USCongress.getCongress(administration);
-            final Elements table = doc.select("main.content div.main-wrapper div.search-row div.search-column-main ol.basic-search-results-list li.expanded");
+            final Elements table = Jsoupable.getStaticDocumentElements(targetURL, "main.content div.main-wrapper div.search-row div.search-column-main ol.basic-search-results-list li.expanded");
             final StringBuilder builder = new StringBuilder("[");
             boolean isFirst = true;
             for(Element element : table) {
@@ -102,7 +102,7 @@ public final class USPolitician implements Politician {
         final String district = describingValues.length > 2 ? describingValues[2] : null;
 
         final String url = "https://www.congress.gov" + profileSlug;
-        final Document doc = Jsoupable.getStaticDocument(url);
+        final Document doc = Jsoupable.getStaticDocument(url, true);
         String imageURL = null;
         HumanName name = null;
         if(doc != null) {

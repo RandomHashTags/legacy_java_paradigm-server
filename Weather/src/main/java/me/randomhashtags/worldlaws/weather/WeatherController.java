@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 
 import java.util.HashMap;
 import java.util.Timer;
@@ -9,7 +9,7 @@ import java.util.TimerTask;
 import java.util.logging.Level;
 
 public interface WeatherController extends RestAPI, Jsoupable {
-    CountryBackendID getCountryBackendID();
+    WLCountry getCountryBackendID();
     EventSource getSource();
     String getAlertEvents();
     default void getAlertEvents(CompletionHandler handler) {
@@ -25,7 +25,7 @@ public interface WeatherController extends RestAPI, Jsoupable {
     HashMap<String, String> getTerritoryAlerts();
 
     default void startAutoUpdates(long interval, CompletionHandler handler, CompletionHandler autoUpdateHandler) {
-        final String id = getCountryBackendID().getValue(), className = getClass().getSimpleName();
+        final String id = getCountryBackendID().getBackendID(), className = getClass().getSimpleName();
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {

@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.event.EventDate;
-import me.randomhashtags.worldlaws.location.CustomCountry;
+import me.randomhashtags.worldlaws.location.WLCountry;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -9,18 +9,17 @@ import org.jsoup.select.Elements;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.*;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.Level;
+import java.util.stream.Stream;
 
 public enum Holidays implements Jsoupable {
     INSTANCE;
 
-    private int COMPLETED_HANDLERS;
     private String json, nearHolidays;
     private final Elements list;
-    private final HashMap<CustomCountry, String> countryJSON;
-    private final HashMap<CustomCountry, Set<Holiday>> countryHolidays;
-
-    private HashMap<String, String> countries;
+    private final HashMap<String, Set<Holiday>> countryHolidays;
+    private final HashMap<String, String> countryJSON;
 
     Holidays() {
         countryJSON = new HashMap<>();
@@ -28,32 +27,42 @@ public enum Holidays implements Jsoupable {
         list = getDocumentElements("https://en.wikipedia.org/wiki/List_of_holidays_by_country", "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-parser-output div.div-col ul li a[href]");
     }
 
-    @SuppressWarnings({ "unchecked" })
-    public void getAllHolidays(CompletionHandler handler) {
+    public void getResponse(String value, CompletionHandler handler) {
+        switch (value) {
+            case "all":
+                getAllHolidays(handler);
+                break;
+            case "near":
+                getNearHolidays(handler);
+                break;
+            default:
+                getHolidaysFor(value, handler);
+                break;
+        }
+    }
+
+    private void getAllHolidays(CompletionHandler handler) {
         if(json != null) {
             handler.handle(json);
         } else {
             json = "{}";
             final long time = System.currentTimeMillis();
-            WLUtilities.getCustomCountryCollection(new CompletionHandler() {
-                @Override
-                public void handleCollection(Collection<?> collection) {
-                    final Collection<CustomCountry> countries = (Collection<CustomCountry>) collection;
-                    final int max = countries.size();
-                    for(CustomCountry country : countries) {
-                        new Thread(() -> getHolidaysFor(country, new CompletionHandler() {
-                            @Override
-                            public void handle(Object object) {
-                                completedHandler();
-                                if(getCompletedHandlers() == max) {
-                                    updateJSON();
-                                    WLLogger.log(Level.INFO, "Holidays - updated all holidays (took " + (System.currentTimeMillis()-time) + "ms)");
-                                    handler.handle(json);
-                                }
-                            }
-                        })).start();
+            final WLCountry[] countries = WLCountry.values();
+            final int max = countries.length;
+            final AtomicInteger completed = new AtomicInteger(0);
+            Arrays.asList(countries).parallelStream().forEach(country -> {
+                final String backendID = country.getBackendID();
+                getHolidaysFor(backendID, new CompletionHandler() {
+                    @Override
+                    public void handle(Object object) {
+                        final int value = completed.addAndGet(1);
+                        if(value == max) {
+                            updateJSON();
+                            WLLogger.log(Level.INFO, "Holidays - updated all holidays (took " + (System.currentTimeMillis()-time) + "ms)");
+                            handler.handle(json);
+                        }
                     }
-                }
+                });
             });
         }
     }
@@ -71,8 +80,8 @@ public enum Holidays implements Jsoupable {
                     final int todayDay = date.getDayOfMonth(), monthDays = todayMonth.maxLength(), nextMonthValue = todayMonth.getValue()+1;
                     boolean isFirstCountry = true;
 
-                    for(Map.Entry<CustomCountry, Set<Holiday>> map : countryHolidays.entrySet()) {
-                        final CustomCountry country = map.getKey();
+                    for(Map.Entry<String, Set<Holiday>> map : countryHolidays.entrySet()) {
+                        final String country = map.getKey();
                         final Set<Holiday> holidays = map.getValue();
                         holidays.removeIf(holiday -> {
                             final EventDate holidayDate = holiday.getDate();
@@ -90,7 +99,7 @@ public enum Holidays implements Jsoupable {
                                 isFirstArray = false;
                             }
                             array.append("]");
-                            builder.append(isFirstCountry ? "" : ",").append("\"").append(country.getBackendID()).append("\":").append(array.toString());
+                            builder.append(isFirstCountry ? "" : ",").append("\"").append(country).append("\":").append(array.toString());
                             isFirstCountry = false;
                         }
                     }
@@ -105,8 +114,9 @@ public enum Holidays implements Jsoupable {
     private void updateJSON() {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
-        for(CustomCountry country : countryJSON.keySet()) {
-            final String string = "\"" + country.getName() + "\":" + countryJSON.get(country);
+        for(Map.Entry<String, String> map : countryJSON.entrySet()) {
+            final String country = map.getKey(), json = map.getValue();
+            final String string = "\"" + country + "\":" + json;
             builder.append(isFirst ? "" : ",").append(string);
             isFirst = false;
         }
@@ -114,28 +124,26 @@ public enum Holidays implements Jsoupable {
         json = builder.toString();
     }
 
-    public void getHolidaysFor(CustomCountry country, CompletionHandler handler) {
+    private void getHolidaysFor(String country, CompletionHandler handler) {
         if(countryJSON.containsKey(country)) {
             handler.handle(countryJSON.get(country));
         } else {
-            final String shortName = country.getShortName().replace("&", "and");
-            final String name = country.getName();
-            for(Element element : list) {
-                String text = element.text();
-                if(text.contains("Public holidays in ")) {
-                    final String[] values = text.split("Public holidays in the ");
-                    text = values.length == 1 ? text.split("Public holidays in ")[1] : values[1];
-                    if(text.equalsIgnoreCase(name) || text.equalsIgnoreCase(shortName)) {
-                        final String url = "https://en.wikipedia.org" + element.attr("href");
-                        getHolidays(country, url, handler);
-                        return;
-                    }
-                }
+            final Elements elements = new Elements(list);
+            final Stream<Element> filtered = elements.stream().filter(element -> {
+                final String text = element.text().toLowerCase();
+                return text.startsWith("public holidays in") && text.endsWith(country);
+            });
+            final Optional<Element> value = filtered.findFirst();
+            if(value.isPresent()) {
+                final Element element = value.get();
+                final String url = "https://en.wikipedia.org" + element.attr("href");
+                getHolidays(country, url, handler);
+                return;
             }
             handler.handle(null);
         }
     }
-    private void getHolidays(CustomCountry country, String url, CompletionHandler handler) {
+    private void getHolidays(String country, String url, CompletionHandler handler) {
         final Document doc = getDocument(url);
         final StringBuilder builder = new StringBuilder("[");
         final Elements table = doc.select("table.wikitable tbody tr");
@@ -186,7 +194,7 @@ public enum Holidays implements Jsoupable {
             return new EventDate(Month.JANUARY, -1, -1);
         }
     }
-    private EventDate getDateFrom(CustomCountry country, String input) {
+    private EventDate getDateFrom(String country, String input) {
         return getDateFrom(input);
         /*witch (country) {
             case UNITED_STATES_OF_AMERICA:
@@ -194,13 +202,6 @@ public enum Holidays implements Jsoupable {
             default:
                 return new EventDate(Month.JANUARY, -1, -1);
         }*/
-    }
-
-    private synchronized void completedHandler() {
-        COMPLETED_HANDLERS += 1;
-    }
-    private synchronized int getCompletedHandlers() {
-        return COMPLETED_HANDLERS;
     }
 
     private final class Holiday {

@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.event.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.event.UpcomingEventType;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -20,7 +20,7 @@ public enum Movies implements EventController {
     INSTANCE;
 
     private String json;
-    private final HashMap<CountryBackendID, String> countriesJSON;
+    private final HashMap<WLCountry, String> countriesJSON;
     private final HashMap<String, String> preEvents, events;
     private static int MAX_HANDLERS;
 
@@ -36,7 +36,7 @@ public enum Movies implements EventController {
     }
 
     @Override
-    public CountryBackendID getCountryBackendID() {
+    public WLCountry getCountry() {
         return null;
     }
 
@@ -46,7 +46,7 @@ public enum Movies implements EventController {
             handler.handle(json);
         } else {
             final int year = WLUtilities.getTodayYear();
-            final CountryBackendID usa = CountryBackendID.UNITED_STATES;
+            final WLCountry usa = WLCountry.UNITED_STATES;
             refreshReleasedFilms(usa, year, new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
@@ -69,10 +69,10 @@ public enum Movies implements EventController {
     private void updateJSON() {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
-        for(Map.Entry<CountryBackendID, String> set : countriesJSON.entrySet()) {
-            final CountryBackendID country = set.getKey();
+        for(Map.Entry<WLCountry, String> set : countriesJSON.entrySet()) {
+            final WLCountry country = set.getKey();
             final String array = set.getValue();
-            final String string = "\"" + country.getValue() + "\":" + array;
+            final String string = "\"" + country.getBackendID() + "\":" + array;
             builder.append(isFirst ? "" : ",").append(string);
             isFirst = false;
             countriesJSON.put(country, array);
@@ -80,7 +80,7 @@ public enum Movies implements EventController {
         builder.append("}");
         json = builder.toString();
     }
-    private void addMoviesJSON(CountryBackendID country, HashSet<MovieEvent> movies) {
+    private void addMoviesJSON(WLCountry country, HashSet<MovieEvent> movies) {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(MovieEvent event : movies) {
@@ -101,7 +101,7 @@ public enum Movies implements EventController {
     }
 
     @SuppressWarnings({ "unchecked" })
-    private void refreshReleasedFilms(CountryBackendID country, int year, CompletionHandler handler) {
+    private void refreshReleasedFilms(WLCountry country, int year, CompletionHandler handler) {
         final long time = System.currentTimeMillis();
         final CompletionHandler completion = new CompletionHandler() {
             @Override
@@ -110,11 +110,11 @@ public enum Movies implements EventController {
 
                 addMoviesJSON(country, movies);
                 updateJSON();
-                WLLogger.log(Level.INFO, "Movies - refreshed \"" + country.getValue() + "\" movies for year " + year + " (took " + (System.currentTimeMillis()-time) + "ms)");
+                WLLogger.log(Level.INFO, "Movies - refreshed \"" + country.getBackendID() + "\" movies for year " + year + " (took " + (System.currentTimeMillis()-time) + "ms)");
                 handler.handle(json);
             }
         };
-        if(country == CountryBackendID.UNITED_STATES) {
+        if(country == WLCountry.UNITED_STATES) {
             refreshUSAFilms(year, completion);
         }
     }
@@ -253,10 +253,10 @@ public enum Movies implements EventController {
         }
     }
     private String getWikipageURL(Element titleElement) {
-        try {
-            return "https://en.wikipedia.org" + titleElement.select("i").get(0).select("a[href]").get(0).attr("href");
-        } catch (Exception e) {
-            WLLogger.log(Level.WARNING, "Movies - error getting wikipage url for titleElement=" + titleElement.toString());
+        final Elements hrefs = titleElement.select("i").get(0).select("a[href]");
+        if(!hrefs.isEmpty()) {
+            return "https://en.wikipedia.org" + hrefs.get(0).attr("href");
+        } else {
             return null;
         }
     }

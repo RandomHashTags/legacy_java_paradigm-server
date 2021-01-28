@@ -6,7 +6,7 @@ import java.nio.charset.StandardCharsets;
 public interface DataValues {
     Charset ENCODING = StandardCharsets.UTF_8;
     String HTTP_SUCCESS_200 = "HTTP/1.1 200 OK\r\nContent-Type: application/json\r\nCharset: " + ENCODING.displayName() + "\r\n\r\n";
-    String HTTP_ERROR_404 = "HTTP/1.1 404 ERROR\r\nContent-Type: application/json\r\nCharset: " + ENCODING.displayName() + "\r\n\r\nStop trying to connect, ya turd.";
+    String HTTP_ERROR_404 = "HTTP/1.1 404 ERROR\r\nContent-Type: application/json\r\nCharset: " + ENCODING.displayName() + "\r\n\r\nStop trying to connect, you bottom feeder. Your IP has been logged and will be blocked if you continue trying to connect.";
 
     int WL_PROXY_PORT = 0;
     int WL_COUNTRIES_PORT = getPort(1);

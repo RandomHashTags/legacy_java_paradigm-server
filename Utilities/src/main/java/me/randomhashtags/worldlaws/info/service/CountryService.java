@@ -99,20 +99,6 @@ public interface CountryService extends RestAPI, Jsoupable {
         return notes;
     }
 
-    default String removeReferences(String string) {
-        if(string != null && !string.isEmpty()) {
-            for(String split : string.split("\\[")) {
-                if(split.contains("]")) {
-                    final String value = split.split("]")[0];
-                    if(value.matches("[0-9]+") || value.equals("citation needed") || value.startsWith("note ") || value.startsWith("law ")) {
-                        string = string.replace("[" + value + "]", "");
-                    }
-                }
-            }
-        }
-        return string;
-    }
-
     private String getClassSimpleName() {
         return getClass().getSimpleName();
     }

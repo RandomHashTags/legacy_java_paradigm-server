@@ -7,6 +7,7 @@ import java.time.Month;
 import java.util.Date;
 
 public final class EventDate {
+    private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("MM-dd-yyyy HH:mm:ss");
     private final Month month;
     private final int day, year;
     // if year == -1 : no year specified
@@ -20,8 +21,7 @@ public final class EventDate {
 
     public EventDate(long epoch) {
         if(epoch > 0) {
-            final SimpleDateFormat formatter = new SimpleDateFormat("MM-dd-yyyy HH:mm:ss");
-            final String dateString = formatter.format(new Date(epoch));
+            final String dateString = DATE_FORMAT.format(new Date(epoch));
             final String[] values = dateString.split(" "), dates = values[0].split("-"), times = values[1].split(":");
             this.month = Month.of(Integer.parseInt(dates[0]));
             this.day = Integer.parseInt(dates[1]);

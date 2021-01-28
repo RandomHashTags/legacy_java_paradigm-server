@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.people;
 
 public final class HumanName {
-    private String firstName, middleName, lastName;
+    private final String firstName, middleName, lastName;
 
     public HumanName(String firstName, String middleName, String lastName) {
         this.firstName = firstName;

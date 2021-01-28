@@ -6,13 +6,10 @@ import me.randomhashtags.worldlaws.info.availability.tech.*;
 import me.randomhashtags.worldlaws.info.legal.*;
 import me.randomhashtags.worldlaws.info.list.Flyover;
 import me.randomhashtags.worldlaws.info.rankings.*;
-import me.randomhashtags.worldlaws.info.NationalAnimals;
+import me.randomhashtags.worldlaws.info.service.*;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import me.randomhashtags.worldlaws.location.CustomCountry;
 import me.randomhashtags.worldlaws.location.Territories;
-import me.randomhashtags.worldlaws.info.service.CountryService;
-import me.randomhashtags.worldlaws.info.service.CountryServices;
-import me.randomhashtags.worldlaws.info.service.TravelBriefing;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -39,10 +36,10 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
     }
 
     private void test() {
-        SocialProgressIndex.INSTANCE.getValue("unitedstates", new CompletionHandler() {
+        MinimumAnnualLeave.INSTANCE.getValue("madagascar", new CompletionHandler() {
             @Override
             public void handle(Object object) {
-                WLLogger.log(Level.INFO, "Countries;test;SocialProgressIndex;unitedstates=" + object.toString());
+                WLLogger.log(Level.INFO, "Countries;test;MinimumAnnualLeave;madagascar=" + object.toString());
             }
         });
     }
@@ -153,8 +150,10 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 BloodTypeDistribution.INSTANCE,
                 HealthCareSystem.INSTANCE,
                 MilitaryEnlistmentAge.INSTANCE,
+                MinimumAnnualLeave.INSTANCE,
                 MinimumDrivingAge.INSTANCE,
                 SystemOfGovernment.INSTANCE,
+                TrafficSide.INSTANCE,
                 VotingAge.INSTANCE
         ));
 
@@ -173,11 +172,13 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 LegalityIncest.INSTANCE,
                 LegalityMaritalRape.INSTANCE,
                 LegalityPornography.INSTANCE,
-                LegalityProstitution.INSTANCE
+                LegalityProstitution.INSTANCE,
+                LegalitySmokingAge.INSTANCE
         ));
 
         services.addAll(Arrays.asList(
-                TravelBriefing.INSTANCE
+                TravelBriefing.INSTANCE,
+                CIAServices.INSTANCE
         ));
 
         services.addAll(Arrays.asList(
@@ -316,28 +317,6 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                     handler.handle(getJSON());
                     break;
             }
-        }
-    }
-
-    private void getHolidaysResponse(String value, CompletionHandler handler) {
-        switch (value) {
-            case "all":
-                Holidays.INSTANCE.getAllHolidays(handler);
-                break;
-            case "near":
-                Holidays.INSTANCE.getNearHolidays(handler);
-                break;
-            default:
-                WLUtilities.getCustomCountry(value, new CompletionHandler() {
-                    @Override
-                    public void handle(Object object) {
-                        if(object != null) {
-                            final CustomCountry country = (CustomCountry) object;
-                            Holidays.INSTANCE.getHolidaysFor(country, handler);
-                        }
-                    }
-                });
-                break;
         }
     }
 

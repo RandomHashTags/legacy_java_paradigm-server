@@ -6,7 +6,7 @@ import me.randomhashtags.worldlaws.country.usa.federal.FederalGovernment;
 import me.randomhashtags.worldlaws.country.usa.service.CongressService;
 import me.randomhashtags.worldlaws.country.usa.service.usaproject.UnitedStatesProject;
 import me.randomhashtags.worldlaws.law.State;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 import me.randomhashtags.worldlaws.location.ICountry;
 
 public enum USLaws implements ICountry {
@@ -19,8 +19,8 @@ public enum USLaws implements ICountry {
     }
 
     @Override
-    public CountryBackendID getCountryBackendID() {
-        return CountryBackendID.UNITED_STATES;
+    public WLCountry getCountryBackendID() {
+        return WLCountry.UNITED_STATES;
     }
 
     public void getResponse(String input, CompletionHandler handler) {

@@ -64,6 +64,7 @@ public enum CountryInfo {
 
     INFO_AGE_STRUCTURE("Age Structure"),
     INFO_BLOOD_TYPE_DISTRIBUTION("Blood Type Distribution"),
+    INFO_MINIMUM_ANNUAL_LEAVE("Minimum Annual Leave"),
 
     LEGALITY_ABORTION("Abortion"),
     LEGALITY_BITCOIN("Bitcoin"),
@@ -81,6 +82,7 @@ public enum CountryInfo {
     LEGALITY_MARITAL_RAPE("Marital Rape"),
     LEGALITY_PORNOGRAPHY("Adult Film"),
     LEGALITY_PROSTITUTION("Prostitution"),
+    LEGALITY_SMOKING_AGE("Smoking"),
 
     LIST_APPLE_MAPS_FLYOVER("Flyover"),
 
@@ -123,6 +125,7 @@ public enum CountryInfo {
     RANKING_WORLD_GIVING_INDEX,
     RANKING_WORLD_HAPPINESS_REPORT,
 
+    SERVICE_CIA_VALUES,
     SERVICE_TRAVEL_BRIEFING,
 
     CITIES,
@@ -133,6 +136,7 @@ public enum CountryInfo {
     VALUE_MILITARY_ENLISTMENT_AGE("Military Enlistment Age"),
     VALUE_MINIMUM_DRIVING_AGE("Minimum Driving Age"),
     VALUE_SYSTEM_OF_GOVERNMENT("System of Government"),
+    VALUE_TRAFFIC_SIDE("Side of traffic"),
     VALUE_VOTING_AGE("Voting Age"),
     ;
 

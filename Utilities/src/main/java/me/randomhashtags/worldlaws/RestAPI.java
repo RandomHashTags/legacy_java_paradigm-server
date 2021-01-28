@@ -48,6 +48,8 @@ public interface RestAPI {
                 if(object != null) {
                     final JSONObject json = new JSONObject(object.toString());
                     handler.handleJSONObject(json);
+                } else {
+                    handler.handleJSONObject(null);
                 }
             }
         });
@@ -85,10 +87,17 @@ public interface RestAPI {
             connection.setUseCaches(false);
             connection.setDoOutput(true);
 
-            final InputStream is;
             final int responseCode = connection.getResponseCode();
             if(responseCode >= 200 && responseCode < 400) {
-                is = connection.getInputStream();
+                final InputStream is = connection.getInputStream();
+                final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
+                final StringBuilder response = new StringBuilder();
+                String line;
+                while ((line = reader.readLine()) != null) {
+                    response.append(line).append('\r');
+                }
+                reader.close();
+                handler.handle(response.toString());
             } else {
                 final StringBuilder builder = new StringBuilder("RestAPI ERROR!");
                 builder.append("\nDiagnoses = response code < 200 || response code >= 400");
@@ -103,16 +112,8 @@ public interface RestAPI {
                 builder.append("\nheaders=").append(headers != null ? headers.toString() : "null");
                 builder.append("\nerrorStream=").append(connection.getErrorStream());
                 WLLogger.log(Level.WARNING, builder.toString());
-                return;
+                handler.handle(null);
             }
-            final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
-            final StringBuilder response = new StringBuilder();
-            String line;
-            while ((line = reader.readLine()) != null) {
-                response.append(line).append('\r');
-            }
-            reader.close();
-            handler.handle(response.toString());
         } catch (Exception e) {
             if(!targetURL.startsWith("http://localhost")) {
                 WLLogger.log(Level.WARNING, "[REST API] ERROR - \"(" + e.getStackTrace()[0].getClassName() + ") " + e.getMessage() + "\" with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));

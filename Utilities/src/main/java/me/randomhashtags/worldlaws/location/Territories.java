@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws.location;
 
 import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.PopulationEstimate;
 import me.randomhashtags.worldlaws.WLLogger;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -129,11 +128,6 @@ public enum Territories implements Jsoupable {
             @Override
             public String getFlagURL() {
                 return flagURL;
-            }
-
-            @Override
-            public PopulationEstimate getPopulationEstimate() {
-                return null;
             }
 
             @Override

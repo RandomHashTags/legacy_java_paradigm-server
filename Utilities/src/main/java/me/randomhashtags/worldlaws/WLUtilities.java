@@ -1,15 +1,10 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.location.CustomCountry;
-import me.randomhashtags.worldlaws.location.Territory;
-import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashSet;
 
 public final class WLUtilities {
     public static Month getMonthFromPrefix(String prefix) {
@@ -37,36 +32,6 @@ public final class WLUtilities {
                 final JSONObject json = new JSONObject(object.toString());
                 final CustomCountry country = new CustomCountry(json);
                 handler.handleCustomCountry(country);
-            }
-        });
-    }
-    public static void getCustomCountryCollection(CompletionHandler handler) {
-        TargetServer.COUNTRIES.sendResponse(RequestMethod.POST, "collection", new CompletionHandler() {
-            @Override
-            public void handle(Object object) {
-                final JSONArray array = new JSONArray(object.toString());
-                final Collection<CustomCountry> collection = new ArrayList<>();
-                for(Object obj : array) {
-                    final JSONObject json = (JSONObject) obj;
-                    final CustomCountry country = new CustomCountry(json);
-                    collection.add(country);
-                }
-                handler.handleCollection(collection);
-            }
-        });
-    }
-    public static void getCountryTerritories(String countryBackendID, CompletionHandler handler) {
-        TargetServer.COUNTRIES.sendResponse(RequestMethod.POST, countryBackendID + "/territories", new CompletionHandler() {
-            @Override
-            public void handle(Object object) {
-                final JSONArray array = new JSONArray(object.toString());
-                final HashSet<Territory> set = new HashSet<>();
-                for(Object obj : array) {
-                    final JSONObject json = (JSONObject) obj;
-                    final Territory territory = Territory.fromJSON(json);
-                    set.add(territory);
-                }
-                handler.handleCountryTerritories(set);
             }
         });
     }

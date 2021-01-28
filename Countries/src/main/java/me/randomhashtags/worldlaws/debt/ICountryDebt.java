@@ -2,10 +2,10 @@ package me.randomhashtags.worldlaws.debt;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.RestAPI;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 
 public interface ICountryDebt extends RestAPI {
-    CountryBackendID getCountryBackendID();
+    WLCountry getCountryBackendID();
     void getCurrentJSON(CompletionHandler handler);
     void getFromYear(int year, CompletionHandler handler);
 }

@@ -10,6 +10,7 @@ import org.json.JSONObject;
 import java.time.Month;
 import java.time.Year;
 import java.util.*;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.Level;
 
 public enum Earthquakes implements RestAPI {
@@ -64,17 +65,36 @@ public enum Earthquakes implements RestAPI {
         yearsJSON = listOfYears.toString();
     }
 
-    public String getYears() {
-        return yearsJSON;
+    public void getResponse(String target, String key, String[] values, CompletionHandler handler) {
+        if(values.length == 1) {
+            handler.handle(yearsJSON);
+        } else {
+            final String[] earthquakeValues = target.substring(key.length()+1).split("/");
+            final int year = Integer.parseInt(earthquakeValues[0]);
+            switch (earthquakeValues.length) {
+                case 1:
+                    getEarthquakeCounts(year, handler);
+                    break;
+                case 2:
+                    getEarthquakes(year, Integer.parseInt(earthquakeValues[1]), handler);
+                    break;
+                case 3:
+                    getEarthquakes(year, Integer.parseInt(earthquakeValues[1]), earthquakeValues[2], handler);
+                    break;
+                default:
+                    break;
+            }
+        }
     }
-    public void getEarthquakeCounts(int year, CompletionHandler handler) {
+
+    private void getEarthquakeCounts(int year, CompletionHandler handler) {
         if(years.containsKey(year)) {
             handler.handle(years.get(year));
         } else {
             refreshEarthquakeCount(year, handler);
         }
     }
-    public void getEarthquakes(int year, int monthValue, CompletionHandler handler) {
+    private void getEarthquakes(int year, int monthValue, CompletionHandler handler) {
         final Month month = Month.of(monthValue);
         if(months.containsKey(year) && months.get(year).containsKey(month)) {
             handler.handle(months.get(year).get(month));
@@ -82,7 +102,7 @@ public enum Earthquakes implements RestAPI {
             refreshEarthquakes(year, month, handler);
         }
     }
-    public void getEarthquakes(int year, int monthValue, String territory, CompletionHandler handler) {
+    private void getEarthquakes(int year, int monthValue, String territory, CompletionHandler handler) {
         final String value = getEarthquakesForTerritory(year, monthValue, territory);
         if(value != null) {
             handler.handle(value);
@@ -108,13 +128,15 @@ public enum Earthquakes implements RestAPI {
         loadNew(started, year, jsons, handler);
     }
     private void loadNew(long started, int year, HashSet<String> jsons, CompletionHandler handler) {
+        final AtomicInteger completed = new AtomicInteger(0);
         Arrays.asList(Month.values()).parallelStream().forEach(month -> refreshEarthquakeCount(year, month, new CompletionHandler() {
             @Override
             public void handle(Object object) {
+                final int value = completed.addAndGet(1);
                 if(object != null) {
                     jsons.add(object.toString());
                 }
-                if(jsons.size() == 12) {
+                if(value == 12) {
                     final StringBuilder builder = new StringBuilder("[");
                     boolean isFirst = true;
                     for(String json : jsons) {

@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.happeningnow;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.EventController;
 import me.randomhashtags.worldlaws.event.UpcomingEventType;
-import me.randomhashtags.worldlaws.location.CountryBackendID;
+import me.randomhashtags.worldlaws.location.WLCountry;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -125,7 +125,7 @@ public enum StreamingEvents implements EventController, DataValues {
     }
 
     @Override
-    public CountryBackendID getCountryBackendID() {
+    public WLCountry getCountry() {
         return null;
     }
 }
